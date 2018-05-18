@@ -1,0 +1,692 @@
+1526591022311	geckodriver	INFO	Listening on 127.0.0.1:51735
+1526591025526	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.U5m3kwDePOQ3
+1526591025558	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526591025617	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51753
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526591033540	Marionette	INFO	Listening on port 51753
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Error: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526591671578	geckodriver	INFO	Listening on 127.0.0.1:54474
+1526591674805	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.kP1HP7ZYdauV
+1526591674839	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526591674903	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54492
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526591683994	Marionette	INFO	Listening on port 54492
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 17848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chro[Parent 17848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18336, Chrome_Chi[Parent 17848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17924, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l
+[Parent 18392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 121
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526591935571	Marionette	INFO	Listening on port 55583
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 11464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18748
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526592024143	Marionette	INFO	Listening on port 55918
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 21832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Child 22724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22724, Chrome_ChildThread] W[Parent 21832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526592301361	geckodriver	INFO	Listening on 127.0.0.1:56950
+1526592304569	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.Ru3ro7iQh5xk
+1526592304602	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526592304669	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56968
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526592312785	Marionette	INFO	Listening on port 56968
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 15920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Child 212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 212, Chrome_ChildThread] WARNING: pipe error: 109: file zIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526592809329	geckodriver	INFO	Listening on 127.0.0.1:58929
+1526592812526	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.znexO9kBc77U
+1526592812557	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526592812626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58947
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526592820783	Marionette	INFO	Listening on port 58947
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1264, Chr[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15760, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+al\openvr\openvrpaths.vrpath
+1526592881524	Marionette	INFO	Listening on port 59205
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 15008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20208, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ers\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526592928321	Marionette	INFO	Listening on port 59430
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 2044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17260, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526592961974	Marionette	INFO	Listening on port 59588
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 22176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 118[Parent 22176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526593010051	Marionette	INFO	Listening on port 59815
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 5388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8128, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526593035571	Marionette	INFO	Listening on port 60088
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 14112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+al\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526593322430	Marionette	INFO	Listening on port 61305
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 14632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 14632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526593695357	geckodriver	INFO	Listening on 127.0.0.1:62683
+1526593698614	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.tlDfQiniKSvM
+1526593698649	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526593698716	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62705
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526593706213	Marionette	INFO	Listening on port 62705
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 14744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526593821654	geckodriver	INFO	Listening on 127.0.0.1:63337
+1526593824873	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.Yns7CEUgMG5C
+1526593824907	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526593824974	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63355
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526593833362	Marionette	INFO	Listening on port 63355
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 17888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Child 19072, Chrome_Chihromium/lsrc/chrome/common/ipc_channel_widThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comn.cc, line 346
+mon/ipc_[Child 21936,channel_win.cc, line 346
+[Child[Parent 17888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23336, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526593972530	geckodriver	INFO	Listening on 127.0.0.1:64116
+1526593975758	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.NbZT2f514zon
+1526593975790	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526593975855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64134
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526593984526	Marionette	INFO	Listening on port 64134
+[Parent 23480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13[Parent 23480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526594042386	Marionette	INFO	Listening on port 64403
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 22392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Parent 22392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+//dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 5216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526597259578	geckodriver::marionette	ERROR	Failed to kill browser process
+1526597269224	geckodriver	INFO	Listening on 127.0.0.1:58600
+1526597272398	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.tYv6u2hw5nu5
+1526597272427	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526597272485	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58613
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526597280018	Marionette	INFO	Listening on port 58613
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 21696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526660887089	geckodriver	INFO	Listening on 127.0.0.1:57066
+1526660890233	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.lTDEianQ2XIT
+1526660890268	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526660890464	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57082
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526660900080	Marionette	INFO	Listening on port 57082
+[Parent 8836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17032,[Child 17168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Child 16164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16164
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+gistry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526660922114	Marionette	INFO	Listening on port 57170
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 14940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+egistry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526660966100	Marionette	INFO	Listening on port 57320
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+1526661238180	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1526661238351	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526661238393	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 13716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+1526661238430	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1526661238456	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526661238470	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 2308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ata\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526661031660	Marionette	INFO	Listening on port 57535
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+1526661238317	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1526661238375	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526661238423	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 15436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rt is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+1526661238410	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1526661238449	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526661238460	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 17148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 17148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11216, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+205: TypeError: viewport is null
+1526661238236	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1526661238364	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1526661238405	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 19188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18[Parent 19188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 19348, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526661355962	Marionette	INFO	Listening on port 52904
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 22224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526661452426	geckodriver::marionette	ERROR	Failed to kill browser process
+1526661460938	geckodriver	INFO	Listening on 127.0.0.1:53295
+1526661464179	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.c92RTVMzqrkh
+1526661464208	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526661464270	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53309
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526661471895	Marionette	INFO	Listening on port 53309
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 16452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17336, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
