@@ -1,0 +1,44 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Barron,2103900,NO,3,,10031154,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000026,05/03/2010,,,,,56,,59,,,,,,
+7000026,06/07/2010,,,,,92,,63,,,,,,
+7000026,07/06/2010,,,,,70,,61,,,,,,
+7000026,08/09/2010,,,,,89,,63,,,,,,
+7000026,10/05/2010,,,,,75,,62,,,,,,
+1,04/21/2017,,,,,66,,61,,,,,,
+1,06/16/2017,,,,,131,,66,,,,,,
+1,07/03/2017,,,,7.58,80.8,,62,50,,,,,
+1,07/27/2017,,,,4.48,48.9,,58,46,,,,,
+1,08/24/2017,,,,1.15,59.5,,60,36,,,,,
+1,10/10/2017,,,,,61.2,,60,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/03/2010,DAVID BLUMER,RICE LAKE P + R DISTRICT: 2010-2012 Rice Lake APM Plan Implementation
+06/07/2010,DAVID BLUMER,RICE LAKE P + R DISTRICT: 2010-2012 Rice Lake APM Plan Implementation
+07/06/2010,DAVID BLUMER,RICE LAKE P + R DISTRICT: 2010-2012 Rice Lake APM Plan Implementation
+08/09/2010,DAVID BLUMER,RICE LAKE P + R DISTRICT: 2010-2012 Rice Lake APM Plan Implementation
+10/05/2010,DAVID BLUMER,RICE LAKE P + R DISTRICT: 2010-2012 Rice Lake APM Plan Implementation
+04/21/2017,Data Collectors,RICE LAKE P + R DISTRICT: Rice Lake 9 Key Element Plan
+06/16/2017,Data Collectors,RICE LAKE P + R DISTRICT: Rice Lake 9 Key Element Plan
+07/03/2017,Data Collectors,RICE LAKE P + R DISTRICT: Rice Lake 9 Key Element Plan
+07/27/2017,Data Collectors,RICE LAKE P + R DISTRICT: Rice Lake 9 Key Element Plan
+08/24/2017,Data Collectors,RICE LAKE P + R DISTRICT: Rice Lake 9 Key Element Plan
+10/10/2017,Data Collectors,RICE LAKE P + R DISTRICT: Rice Lake 9 Key Element Plan

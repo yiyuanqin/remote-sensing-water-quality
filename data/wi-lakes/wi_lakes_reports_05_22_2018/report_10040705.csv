@@ -1,0 +1,242 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hill Lake,Adams,178300,WC,1,,10040705,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189848,05/15/2001,7,YES,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189170,05/29/2001,7,YES,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/13/2001,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/26/2001,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,07/10/2001,7,YES,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,07/24/2001,6.75,YES,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,08/11/2001,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189170,08/21/2001,7,YES,2.1,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189170,09/04/2001,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,09/18/2001,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,10/03/2001,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,10/17/2001,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189170,10/30/2001,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189170,05/10/2002,7.75,YES,2.4,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,05/24/2002,7.25,YES,2.2,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/07/2002,3.75,NO,1.1,,,58,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189170,06/24/2002,7.25,YES,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189848,07/12/2002,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,07/29/2002,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189848,08/26/2002,7.25,YES,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189848,09/09/2002,7.25,YES,2.2,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189848,09/30/2002,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189848,10/02/2002,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189848,10/20/2002,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,05/15/2003,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189170,06/01/2003,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/14/2003,7.5,YES,2.3,,,48,,,N,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/27/2003,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,07/13/2003,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189170,07/29/2003,7,YES,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,08/14/2003,7.25,YES,2.2,,,49,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189170,09/01/2003,6.25,YES,1.9,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,09/27/2003,6.25,YES,1.9,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,10/14/2003,6.25,YES,1.9,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,05/11/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/14/2004,8.25,YES,2.5,,,47,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189170,06/29/2004,9,YES,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,07/31/2004,7.25,YES,2.2,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,08/14/2004,7.25,YES,2.2,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189170,08/26/2004,8,YES,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,09/07/2004,7.75,YES,2.4,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,09/29/2004,7.5,YES,2.3,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,05/24/2005,7.25,YES,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/17/2005,7.3,YES,2.2,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,07/10/2005,7.5,YES,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/11/2006,7,YES,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/27/2006,7,YES,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,08/11/2006,5.5,YES,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116044,09/05/2006,6.5,YES,2,,,50,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116044,09/20/2006,6.75,YES,2.1,,,50,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116044,05/06/2007,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116044,05/30/2007,7,YES,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116044,06/20/2007,7,,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116044,08/17/2007,5,YES,1.5,,,54,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,09/26/2007,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189170,06/01/2008,9,YES,2.7,,,45,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+16116044,07/30/2008,9,YES,2.7,,,45,,,HIGH,,,GREEN,
+16116044,09/17/2008,10,YES,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+29900245,06/07/2011,9,YES,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+29900245,10/24/2011,7,YES,2.1,,,49,,,LOW,,,BLUE,2-Very minor aesthetic problems
+29900245,04/14/2012,6.5,YES,2,,,50,,,LOW,,,GREEN,2-Very minor aesthetic problems
+29900245,05/16/2012,7.75,YES,2.4,,,48,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+29900245,06/06/2012,7.5,YES,2.3,,,48,,,NORMAL,7.5,,GREEN,
+29900245,07/02/2013,8.5,YES,2.6,,,46,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+29900245,08/08/2013,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+29900245,05/06/2014,7.5,YES,2.3,,,48,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+29900245,07/17/2014,7,YES,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+29900245,09/19/2014,7.5,YES,2.3,,,48,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+29900245,05/14/2015,7.25,YES,2.2,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29900245,05/06/2016,10.5,YES,3.2,,,43,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+29900245,06/17/2016,7.5,YES,2.3,,,48,,,NORMAL,,,,1-Beautiful, could not be nicer
+29900245,08/08/2016,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+29900245,05/27/2017,8,YES,2.4,,,47,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/15/2001,Unable to see disk at bottom due to 1ft of weeds-  not water clarity.    
+05/29/2001,Unable to see disk at bottom due to 1ft of weeds- not water clarity.    
+10/17/2001,Water was very clear with a slight tinge of green.    
+05/10/2002,70% open water by March 23.  Completly open by March 26.    
+06/24/2002,Last reading was at 3.75 Ft + color was quite green--This reading is a normal depth(7.25 ft.) and color is a dinge of green.    
+07/29/2002,As Hill lake only has a depth of 7 1/2 to 8 feet- the
+disk was still in sight when it hit bottom.  The color green was very slight.    
+09/09/2002,Slight tinge of green    
+09/30/2002,Disk in sight to bottom--slight tinge of green.
+
+    
+10/02/2002,As our lake is only 7 to 8 feet in depth- the disk hit bottom with the disk in clear view.    
+05/15/2003,Disk in sight to bottom (7.50).  Slight tinge of
+green.  Max. lake depth is 7 to 8 feet.
+
+    
+06/01/2003,Lake is 7 to 8 feet in depth.  Disk in view to when it
+hit bottom at 7 feet.  Slight green color to water.
+
+    
+06/14/2003,Disk in good view to bottom. Max. depth of lake  is
+only 7 1/2 ft to 8.00 ft. Tinge of green to water.
+
+    
+06/27/2003,Disk in sight all the way to bottom at 7.50 feet.
+Water had slight tinge of green in color.
+    
+07/13/2003,Disk in sight to bottom- as lake depth is 7.50 to 8.0
+feet in depth.  Green color a little darker then last test.
+    
+07/29/2003,Lake depth at this point was 7ft.  Disk in view to
+bottom.  Slight green tinge to water.
+    
+08/14/2003,Disk was in sight to the bottom. Lake is only 7 to 8
+ft. deep.  Light green dinge to water color.
+    
+09/01/2003,Lake is approx 1.50 ft. low.  Disk in sight to bottom.
+Slight green tinge to water.
+    
+09/27/2003,Lake quite low.  Normal depth is 7.50 to 8.0 feet.
+Depth on this date- at site- was 6.25 ft.
+Disk in sight all the way to bottom.  Slight green tinge
+    
+10/14/2003,Lake 1.50 ft low.  Disk in sight to bottom.  Very
+slight green tinge to water.
+    
+06/14/2004,Disk in view to bottom.  Slight green tinge to water    
+08/14/2004,As Hill Lake is only a depth of 7 to 8 feet- the disk was in view to the bottom.  A slight yellow tinge to the water.    
+08/26/2004,As the max. depth of Hill Lake is 8 feet- the disk was in view to the bottom.  Slight green tinge to water.    
+09/07/2004,As Hill Lake only has a depth of 7 to 8 feet- the disk was in view to the bottom.  Water had a slight green tinge to it.    
+09/29/2004,As the depth of Hill Lake is 7 to 8 feet- the disk was in view to bottom.  Slight green tinge to water.    
+05/24/2005,As Hill Lake is 7 to 8 feet in depth- the disk was in clear view to the bottom at 7.25 feet.  Water had a slight green tinge.    
+06/17/2005,As Hill Lake only has a depth of 7 to 8 feet- the disk was in clear view to the bottom at 7.30 ft.  Water had a slight green tint.    
+07/10/2005,As Hill Lake is only 7 to 8 feet in depth- the reading of 7.50 ft. is only because it hit bottom at that point.  Disk was in view to bottom.  Slight green tinge to water.    
+06/11/2006,Hill lake is only 7 to 8 feet in depth.  So the Secchi reading was only 7 feet because that was where it hit bottom.  Disk in sight to bottom.
+06/27/2006,The Lake is low.  Depth of lake at site was only 7 feet.  Disk was in sight to bottom at 7 feet.  Slight green dinge to water
+08/11/2006,Lake is very low.  Hill Lake generly has a depth of 7 to 8 feet.  The depth now is only 5 1/2 feet.. Disk was in view to the bottom- at that depth.  Water has a slight tinge of gree.
+09/05/2006,Disk was in view to 6.5 ft.- when it hit bottom.  Depth of lake is normaly 7 to 8 ft. but is low at this time.  Water was clear with a very slight green tinge.
+09/20/2006,Hill Lake's normal depth is between 7 + 8 ft.  The lake is low at this time so the disk hit bottom at 6.75 ft.  Disk was in view to bottom.  Water had a very slight green tinge.
+05/06/2007,As Hill Lake is only 7 to 8 feet in depth- that is the readson the Secchi reading is at 7 feet.  The disk was in plain view to the bottom- at 7 feet.  Very slight green tinge to the water.  Weather was cook + overcast.
+05/30/2007,The depth of Hill Lake is only 7 to 8 feet.  The disk hit bottom at 7 feet and was in view to bottom.  Water had a green tinge to it.
+06/20/2007,Hill Lake is only 7 to 8 ft. in depth.  This is the reason for the reading of 7 ft.  We hit bottom with the disk in view.  Water had a slight green tinge to it.
+For the last two weeks Hill Lake was troubled by a very heavy Algae Bloom.  Since the rain storms this last week-end the Algae has cleared up substantially. Hill Lake only has a depth of 7 to 8 ft.  Disk hit bottom at 7 ft. and was still in view.  It was not the clarity of the water that caused the reading.  Water had a slight green tinge to it.
+For the last two weeks Hill Lake  had a problem with a heavy Algae Bloom.  Since the rain storms over the week-end- the Algae is mainly gone on the surface.
+08/17/2007,Lake is very low.  Water is clear with a slight tinge of green.  Disk in sight to bottom- at 5 feet.  Lake is 2 to 3 feet low.
+09/26/2007,Weather was partly cloudy.  Disk in view to bottom- at 7 ft.  Slight green tinge to water.  Dwight Pugh also participates.
+06/01/2008,Weather was clear + sunny.  Lake appeared very nice.
+Additional helpers:  Jean Keney  + Dwight Pugh.
+07/30/2008,9foot deep color dark green Jean Kenney- Mary Pugh and Dwight Pugh 
+Sunny day 9foot deep color dark green Jean Kenney- Mary Pugh and Dwight Pugh 
+Sunny day
+09/17/2008,Ten foot deep light green 
+06/07/2011,sunny
+10/24/2011,Jean Kenney and I collected the data
+
+
+
+
+Start Date,Group Name,Project Name
+05/15/2001,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/29/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/13/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/26/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/10/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/24/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/11/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/21/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/04/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/18/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/03/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/17/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/30/2001,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/10/2002,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/24/2002,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/07/2002,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/24/2002,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/12/2002,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/29/2002,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/26/2002,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/09/2002,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/30/2002,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/02/2002,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/20/2002,Donald Kenney And Paul Kochaver,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/15/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/01/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/14/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/27/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/13/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/29/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/14/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/01/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/27/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/14/2003,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/11/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/14/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/29/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/31/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/14/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/26/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/07/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/29/2004,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/24/2005,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/17/2005,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/10/2005,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/11/2006,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/27/2006,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/11/2006,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/05/2006,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/20/2006,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/06/2007,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/30/2007,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/20/2007,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/17/2007,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/26/2007,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/01/2008,Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/30/2008,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/17/2008,Dwight Pugh- Donald Kenney,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/07/2011,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+10/24/2011,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+04/14/2012,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/16/2012,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/06/2012,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/02/2013,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/08/2013,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/06/2014,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+07/17/2014,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+09/19/2014,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/14/2015,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/06/2016,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+06/17/2016,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+08/08/2016,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center
+05/27/2017,Dwight Pugh,Citizen Lake Monitoring - Water Quality - Hill Lake - Center

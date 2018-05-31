@@ -1,0 +1,49 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Peters Lake,Walworth,741400,SE,65,,10033457,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+41731863,08/01/1978,5,NO,1.5,,,54,,,,,,,
+41731863,02/12/1980,,,,,,,,,,,,,
+145584054,06/14/2017,,,,3.39,23.5,,53,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/01/1978,0,FEET,23,DEGREES C,8.7,MG/L
+08/01/1978,1,FEET,23,DEGREES C,8.6,MG/L
+08/01/1978,2,FEET,23,DEGREES C,8.8,MG/L
+08/01/1978,3.5,FEET,22.5,DEGREES C,9,MG/L
+08/01/1978,4,FEET,22.5,DEGREES C,8.7,MG/L
+08/01/1978,5,FEET,22.5,DEGREES C,8.4,MG/L
+08/01/1978,6,FEET,22.5,DEGREES C,8.2,MG/L
+08/01/1978,6.5,FEET,22.5,DEGREES C,4.3,MG/L
+02/12/1980,0,FEET,1,DEGREES C,16.2,MG/L
+02/12/1980,2,FEET,1,DEGREES C,15.8,MG/L
+02/12/1980,3.5,FEET,3,DEGREES C,15.8,MG/L
+02/12/1980,4,FEET,3,DEGREES C,15.2,MG/L
+02/12/1980,6,FEET,4,DEGREES C,6.6,MG/L
+02/12/1980,8.5,FEET,5,DEGREES C,4,MG/L
+06/14/2017,0,METERS,26.85,DEGREES C,7.5,MG/L
+06/14/2017,0.5,METERS,26.8,DEGREES C,7.5,MG/L
+06/14/2017,1,METERS,26.5,DEGREES C,7.4,MG/L
+06/14/2017,1.5,METERS,26.3,DEGREES C,7.4,MG/L
+06/14/2017,1.7,METERS,26.2,DEGREES C,7.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/01/1978,Lots of minnows. Golden shiners. Owners report major winterkill last winter.  White and Yellow water lillies- Watershield- Nitells- Naiad.
+02/12/1980,14 inches ice.
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/12/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+06/14/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

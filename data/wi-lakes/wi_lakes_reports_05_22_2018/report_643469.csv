@@ -1,0 +1,269 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Camp Twelve Lake,Vilas,982100,NO,64,,643469,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189563,08/17/1996,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/23/1996,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/31/1996,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/07/1996,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/15/1996,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,
+8189563,09/22/1996,15,NO,4.6,,,38,,,NORMAL,,,GREEN,
+8189563,10/01/1996,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,10/12/1996,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,10/28/1996,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/03/1997,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,
+8189563,05/17/1997,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,
+8189563,05/31/1997,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/14/1997,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/09/1997,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/24/1997,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,
+8189563,08/02/1997,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/19/1997,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,
+8189563,08/31/1997,13.5,NO,4.1,,,40,,,,,,,
+8189563,09/13/1997,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,12/23/1997,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,04/28/1998,10,NO,3,,,44,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189563,05/17/1998,10,NO,3,,,44,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+8189563,05/27/1998,13.6,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/14/1998,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/28/1998,12.6,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/11/1998,12.6,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189563,07/25/1998,11.6,NO,3.5,,,42,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8189563,08/19/1998,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/03/1998,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/16/1998,15.6,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/28/1998,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189563,10/08/1998,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,04/24/1999,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/09/1999,12.6,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/19/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/26/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/03/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/16/1999,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/21/1999,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/27/1999,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/02/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/10/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/18/1999,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/25/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/03/1999,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/10/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189563,08/25/1999,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/02/1999,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/11/1999,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/18/1999,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/23/1999,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,10/06/1999,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,10/10/1999,19.25,NO,5.9,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,10/19/1999,,,,,10,,46,,,,,,
+8189563,05/20/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/29/2000,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/06/2000,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/16/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/22/2000,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/27/2000,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/01/2000,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/04/2000,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/13/2000,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/23/2000,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/29/2000,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/05/2000,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/13/2000,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/19/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/24/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/02/2000,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/08/2000,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/15/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,10/12/2000,,,,1,12,,47,35,,,,,
+8189563,04/25/2001,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/03/2001,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/13/2001,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189563,05/22/2001,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,05/26/2001,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/07/2001,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/13/2001,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/23/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/25/2001,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,06/30/2001,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/02/2001,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/07/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/13/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/19/2001,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,07/26/2001,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/02/2001,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/11/2001,15.75,NO,4.8,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/17/2001,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/22/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,08/29/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/05/2001,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/12/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/19/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,09/29/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189563,10/04/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/23/2009,11.4,NO,3.5,2.23,9,42,45,41,,,,,
+1,07/23/2009,8.1,NO,2.5,2.71,15,47,49,42,,,,,
+1,08/12/2009,7.3,NO,2.2,4.12,13,48,48,46,,,,,
+19205950,10/04/2016,,,,,11.4,,47,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/2009,,,27.3,C,7.4,MG/L
+07/23/2009,,,21.7,C,8.3,MG/L
+08/12/2009,,,22.0,C,8.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/07/1996,Perfect calm-easier to see.    
+09/15/1996,Cloudy-windy-too cool now to swim.    
+09/22/1996,Cloudy again. Too cool to swim.    
+10/01/1996,Warm + sunny + windy.    
+10/12/1996,Perfect fall day. Sunny + almost 70.    
+05/03/1997,Too cold yet.    
+05/17/1997,Sunny day and cool.  Water is cold too.    
+05/31/1997,Clear.  No wind.  Surprised at low reading.    
+06/14/1997,Sunny- no wind.    
+07/09/1997,Still a bit cool after a recent low record of 39 degrees.    
+07/24/1997,Cloudy and cool.  Highest lake level in approximately 20 years.    
+08/02/1997,Pair of loons still here with just 1 chick.    
+08/19/1997,Cool.  Water temperature probably 70 degrees.    
+08/31/1997,Sunny and calm.  It seems like a lot of suspended particles are in the water.    
+09/13/1997,Much too cold to swim.  Sunny and calm.    
+12/23/1997,Too cold- but sunny.  Last reading for 1997.  Ice around the shore this morning.    
+06/22/2000,Cloudy- no sun- cool.    
+06/27/2000,Too windy to see depth well.    
+07/01/2000,Windy day.    
+07/04/2000,Clear and sunny. Mild breeze.    
+07/29/2000,Windy and sunny. hard to see past the waves.    
+08/05/2000,Very windy- cloudy too.    
+08/13/2000,Very cloudy and windy.    
+08/19/2000,Sunny and cool.    
+08/24/2000,Sunny and calm.    
+09/02/2000,Cloudy and windy.    
+09/15/2000,Last reading- boat is out of the water.    
+05/03/2001,Partly Cloudy- Medium Wind.    
+05/13/2001,Cloudy    
+06/07/2001,90% cloud cover- almost no wind.    
+06/13/2001,Cloudy- windy.    
+06/23/2001,Clear- light wind. 74 deg F.    
+07/07/2001,Slight ripples in water.    
+07/13/2001,Sunny- mild wind.    
+08/02/2001,Calm- partly cloudy.    
+08/22/2001,Sunny- light wind. Water temp down to 76 deg F.    
+08/29/2001,Mostly cloudy.    
+09/05/2001,Pretty windy    
+09/12/2001,Calm- slight breeze.    
+09/19/2001,No sun.    
+
+
+
+
+Start Date,Group Name,Project Name
+08/17/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/23/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/31/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/07/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/15/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/22/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/01/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/12/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/28/1996,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/03/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/17/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/31/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/14/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/09/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/24/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/02/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/19/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/31/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/13/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+12/23/1997,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+04/28/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/17/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/27/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/14/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/28/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/11/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/25/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/19/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/03/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/16/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/28/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/08/1998,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+04/24/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/09/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/19/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/26/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/03/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/16/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/21/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/27/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/02/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/10/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/18/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/25/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/03/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/10/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/25/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/02/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/11/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/18/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/23/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/06/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/10/1999,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/19/1999,Data Collectors,LAKE CLASSIFICATION FISHERIES
+05/20/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/29/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/06/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/16/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/22/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/27/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/01/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/04/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/13/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/23/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/29/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/05/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/13/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/19/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/24/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/02/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/08/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/15/2000,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/12/2000,Data Collectors,LAKE CLASSIFICATION - FISHERIE
+04/25/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/03/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/13/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/22/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+05/26/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/07/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/13/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/23/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/25/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/30/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/02/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/07/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/13/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/19/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+07/26/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/02/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/11/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/17/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/22/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+08/29/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/05/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/12/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/19/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+09/29/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+10/04/2001,George Engelbrecht,Citizen Lake Monitoring - Water Quality - Camp Twelve Lake - Deep Hole
+06/23/2009,Data Collectors,TOWN OF CLOVERLAND: Town of Cloverland Lakes Management Planning Project
+07/23/2009,Data Collectors,TOWN OF CLOVERLAND: Town of Cloverland Lakes Management Planning Project
+08/12/2009,Data Collectors,TOWN OF CLOVERLAND: Town of Cloverland Lakes Management Planning Project
+10/04/2016,Lake Remote Sensing Pilot,Long-term lake chemistry changes to acid deposition; revisiting Wisconsin Early Response Lakes 

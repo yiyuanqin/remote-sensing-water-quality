@@ -1,0 +1,146 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mud Lake,Jefferson,830800,SC,28,,283202,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/29/1979,,,,,,,,,,,,,
+1,06/30/1980,1.6,,0.5,118,,70,,71,,,,,
+1,02/14/1996,,,,4.8,168,,68,47,,,,,
+1,06/13/1996,,,,42.8,,,,63,,,,,
+1,08/06/1996,3.5,,1.1,65.6,104,59,64,66,,,,,
+1,10/16/1996,7.9,,2.4,58.7,83,47,62,66,,,,,
+15899605,05/18/2007,5,NO,1.5,,,54,,,,,MURKY,BROWN,
+15899605,05/30/2007,1.6,NO,0.5,,,70,,,,,MURKY,BROWN,
+15899605,06/18/2007,3,NO,0.9,,,61,,,,,MURKY,BROWN,
+1,07/25/2007,,,,23.5,48,,58,59,,,,,
+15899605,07/25/2007,1.9,NO,0.6,,,68,,,,,MURKY,BROWN,
+15899605,08/21/2007,2.5,NO,0.8,34.4,69,64,61,62,HIGH,,MURKY,BROWN,
+15899605,09/20/2007,2.75,NO,0.8,62.2,238,63,71,66,HIGH,,MURKY,BROWN,
+15899605,10/12/2007,3.5,NO,1.1,46.5,111,59,65,64,,,MURKY,BROWN,
+99385750,06/03/2015,,,,,83.7,,62,,,,,,
+99385750,07/10/2015,,,,35.1,67.5,,61,62,,,,,
+99385750,08/06/2015,,,,34.7,91.1,,63,62,,,,,
+99385750,09/01/2015,,,,41.4,73.5,,61,63,,,,,
+136410528,06/29/2017,2,NO,0.6,,,67,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99475467,07/21/2017,,,,85,104,,64,68,,,,,
+136410528,07/21/2017,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+136410528,08/08/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+145143798,08/08/2017,2,N,0.6,71.9,116,67,65,67,,,,,
+136410528,08/22/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+145143798,08/22/2017,2,,0.6,63,92.9,67,63,66,,,,,
+136410528,09/21/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/1979,,,,,8.4,MG/L
+02/14/1996,,,3.8,C,0.9,MG/L
+10/16/1996,,,13.6,C,13.5,MG/L
+05/18/2007,0,METERS,18.8,DEGREES C,9.6,MG/L
+05/18/2007,0.5,METERS,18.7,DEGREES C,9.7,MG/L
+05/18/2007,1,METERS,18.7,DEGREES C,9.7,MG/L
+05/18/2007,2,METERS,18.3,DEGREES C,9.7,MG/L
+05/18/2007,3,METERS,18.1,DEGREES C,8.7,MG/L
+05/18/2007,4,METERS,16.6,DEGREES C,5.8,MG/L
+05/18/2007,5,METERS,15.9,DEGREES C,3,MG/L
+05/18/2007,6,METERS,15.2,DEGREES C,.9,MG/L
+05/30/2007,0,METERS,23.2,DEGREES C,15.6,MG/L
+05/30/2007,0.5,METERS,23.2,DEGREES C,15.6,MG/L
+05/30/2007,1,METERS,23.1,DEGREES C,15.8,MG/L
+05/30/2007,2,METERS,23.1,DEGREES C,15.8,MG/L
+05/30/2007,3,METERS,21.9,DEGREES C,13.1,MG/L
+05/30/2007,4,METERS,19.4,DEGREES C,5.3,MG/L
+05/30/2007,5,METERS,19.1,DEGREES C,3.5,MG/L
+05/30/2007,6,METERS,18.9,DEGREES C,1.9,MG/L
+06/18/2007,0,METERS,26.6,DEGREES C,8.8,MG/L
+06/18/2007,0.5,METERS,26.6,DEGREES C,8.7,MG/L
+06/18/2007,1,METERS,26.5,DEGREES C,8.9,MG/L
+06/18/2007,2,METERS,26.3,DEGREES C,8.8,MG/L
+06/18/2007,3,METERS,21,DEGREES C,.3,MG/L
+06/18/2007,4,METERS,20.3,DEGREES C,.1,MG/L
+06/18/2007,5,METERS,19.6,DEGREES C,.1,MG/L
+06/18/2007,6,METERS,19,DEGREES C,.1,MG/L
+07/25/2007,0,METERS,25.5,DEGREES C,10,MG/L
+07/25/2007,0.5,METERS,25.5,DEGREES C,9.9,MG/L
+07/25/2007,1,METERS,25.5,DEGREES C,9.9,MG/L
+07/25/2007,2,METERS,25.1,DEGREES C,8.2,MG/L
+07/25/2007,3,METERS,23.1,DEGREES C,.2,MG/L
+07/25/2007,4,METERS,21.5,DEGREES C,.2,MG/L
+07/25/2007,5,METERS,19.5,DEGREES C,.1,MG/L
+07/25/2007,6,METERS,18.9,DEGREES C,.1,MG/L
+08/21/2007,0,METERS,20.5,DEGREES C,4.3,MG/L
+08/21/2007,0.5,METERS,20.5,DEGREES C,4.26,MG/L
+08/21/2007,1,METERS,20.4,DEGREES C,4.1,MG/L
+08/21/2007,2,METERS,20.4,DEGREES C,4.03,MG/L
+08/21/2007,3,METERS,20.4,DEGREES C,3.54,MG/L
+08/21/2007,4,METERS,19.7,DEGREES C,1.98,MG/L
+08/21/2007,5,METERS,19.2,DEGREES C,.76,MG/L
+08/21/2007,6,METERS,19,DEGREES C,.1,MG/L
+08/21/2007,6.3,METERS,19,DEGREES C,.1,MG/L
+09/20/2007,0,METERS,19.7,DEGREES C,13.4,MG/L
+09/20/2007,0.5,METERS,19.4,DEGREES C,13.1,MG/L
+09/20/2007,1,METERS,19.3,DEGREES C,13.3,MG/L
+09/20/2007,2,METERS,19,DEGREES C,13,MG/L
+09/20/2007,3,METERS,18.2,DEGREES C,8.9,MG/L
+09/20/2007,4,METERS,17.4,DEGREES C,6.7,MG/L
+09/20/2007,5,METERS,16.5,DEGREES C,4.4,MG/L
+09/20/2007,6,METERS,16,DEGREES C,2.5,MG/L
+09/20/2007,6.5,METERS,15.9,DEGREES C,1.1,MG/L
+10/12/2007,0,METERS,14.5,DEGREES C,9,MG/L
+10/12/2007,0.5,METERS,14.5,DEGREES C,9,MG/L
+10/12/2007,1,METERS,14.5,DEGREES C,8.8,MG/L
+10/12/2007,2,METERS,14.4,DEGREES C,8.4,MG/L
+10/12/2007,3,METERS,14.4,DEGREES C,8.4,MG/L
+10/12/2007,4,METERS,14.3,DEGREES C,8.3,MG/L
+10/12/2007,5,METERS,14.1,DEGREES C,8.1,MG/L
+10/12/2007,6,METERS,14,DEGREES C,7.6,MG/L
+10/12/2007,6.5,METERS,14,DEGREES C,5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/29/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/30/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/18/2007,clear skies
+05/30/2007,mostly cloudy- 80 F
+06/18/2007,partly cloudy- high 80's
+07/25/2007,data collection done by Dave Marshall and Dan Romanek
+cloudy- mid 70 degrees
+08/21/2007,overcast- low 70's- rain
+09/20/2007,clear skys- 70 degrees
+10/12/2007,50 degrees- overcast
+
+
+
+
+Start Date,Group Name,Project Name
+08/29/1979,Data Collectors,Migrated from STORET Legacy
+06/30/1980,Data Collectors,Migrated from STORET Legacy
+02/14/1996,Data Collectors,NONPOINT SOURCE
+06/13/1996,Data Collectors,LAKE EVALUATION
+08/06/1996,Data Collectors,LAKE EVALUATION
+10/16/1996,Data Collectors,LAKE EVALUATION
+05/18/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+05/30/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+06/18/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+07/25/2007,Data Collectors,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+07/25/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+08/21/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+09/20/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+10/12/2007,Patricia Cicero,JEFFERSON COUNTY LCD: Hope and Mud Lakes Sampling and Mgmt. Plan
+06/03/2015,KATRINA PUNZEL,Southern District Follow Up Monitoring for Impairment Decisions 2015
+07/10/2015,KATRINA PUNZEL,Southern District Follow Up Monitoring for Impairment Decisions 2015
+08/06/2015,KATRINA PUNZEL,Southern District Follow Up Monitoring for Impairment Decisions 2015
+09/01/2015,KATRINA PUNZEL,Southern District Follow Up Monitoring for Impairment Decisions 2015
+06/29/2017,Robert Volenec,Citizen Lake Monitoring - Water Quality - Mud Lake; Deep Hole
+07/21/2017,KEVIN OLSON,South District Follow Up Monitoring for Impairment Decisions 2017 
+07/21/2017,Robert Volenec,Citizen Lake Monitoring - Water Quality - Mud Lake; Deep Hole
+08/08/2017,AMANDA SMITH,South District Follow Up Monitoring for Impairment Decisions 2017 
+08/08/2017,Robert Volenec,Citizen Lake Monitoring - Water Quality - Mud Lake; Deep Hole
+08/22/2017,AMANDA SMITH,South District Follow Up Monitoring for Impairment Decisions 2017 
+08/22/2017,Robert Volenec,Citizen Lake Monitoring - Water Quality - Mud Lake; Deep Hole
+09/21/2017,Robert Volenec,Citizen Lake Monitoring - Water Quality - Mud Lake; Deep Hole

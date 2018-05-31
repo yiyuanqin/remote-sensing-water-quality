@@ -1,0 +1,345 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Marinuka Lake,Trempealeau,1678200,WC,62,,623121,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/25/1973,,,,,150,,67,,,,,,
+1,11/07/1973,,,,,90,,63,,,,,,
+1,03/05/1974,,,,,360,,74,,,,,,
+1,04/24/1974,,,,,120,,65,,,,,,
+1,08/28/1974,,,,,160,,67,,,,,,
+1,10/07/1974,,,,,110,,65,,,,,,
+8190621,04/25/1995,1.75,NO,0.5,,,69,,,,,,GREEN BROWN,2-Very minor aesthetic problems
+8190621,05/11/1995,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,05/25/1995,2,NO,0.6,,,67,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,06/05/1995,1.25,NO,0.4,,,74,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,06/20/1995,3,NO,0.9,,,61,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,07/03/1995,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190621,07/12/1995,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190621,08/01/1995,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190621,08/15/1995,0.5,NO,0.2,,,87,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190621,08/31/1995,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190621,09/12/1995,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190621,09/26/1995,3.5,NO,1.1,,,59,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,10/10/1995,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,10/26/1995,1.25,NO,0.4,,,74,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190621,04/23/1996,2,NO,0.6,,,67,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190621,05/07/1996,1.75,NO,0.5,,,69,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,05/21/1996,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,06/06/1996,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,06/20/1996,2.25,NO,0.7,,,65,,,,,,BROWN,2-Very minor aesthetic problems
+8190621,07/08/1996,2.75,NO,0.8,,,63,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,07/18/1996,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190621,08/08/1996,4,NO,1.2,,,57,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,08/20/1996,3,NO,0.9,,,61,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,09/02/1996,2,NO,0.6,,,67,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,09/17/1996,4,NO,1.2,,,57,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190621,09/30/1996,3.5,NO,1.1,,,59,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,10/16/1996,3,NO,0.9,,,61,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190621,04/29/1997,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,05/22/1997,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,06/02/1997,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,06/17/1997,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8190621,07/05/1997,3,NO,0.9,,,61,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190621,07/23/1997,2.75,NO,0.8,,,63,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190621,08/07/1997,2,NO,0.6,,,67,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190621,08/28/1997,1.5,NO,0.5,,,71,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190621,09/17/1997,1.25,NO,0.4,,,74,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,10/07/1997,1.25,NO,0.4,,,74,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,10/20/1997,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,04/14/1998,1,NO,0.3,,,77,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,04/28/1998,1,NO,0.3,,,77,,,NO CHANGE,,,BROWN,
+8190621,05/13/1998,1.5,YES,0.5,,,71,,,NO CHANGE,,,BROWN,
+8190621,05/28/1998,1,NO,0.3,,,77,,,NO CHANGE,,,BROWN,
+8190621,06/13/1998,1,NO,0.3,,,77,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,07/09/1998,2,NO,0.6,,,67,,,NO CHANGE,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,07/31/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,08/25/1998,1,NO,0.3,,,77,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,09/10/1998,2,NO,0.6,,,67,,,NO CHANGE,,,BROWN,
+8190621,09/28/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190621,05/09/1999,1.25,NO,0.4,,,74,,,LOW,,,BROWN,
+8190621,05/26/1999,1,NO,0.3,,,77,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,06/11/1999,1.25,NO,0.4,,,74,,,,,MURKY,,3-Enjoyment somewhat impaired (algae)
+8190621,07/16/1999,1,NO,0.3,,,77,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,08/10/1999,1.5,NO,0.5,,,71,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,08/26/1999,1.25,NO,0.4,,,74,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,09/06/1999,2.5,NO,0.8,,,64,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190621,09/17/1999,1.25,NO,0.4,,,74,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,10/05/1999,1.75,NO,0.5,,,69,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,10/21/1999,1.75,NO,0.5,,,69,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,05/01/2000,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,05/15/2000,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,06/19/2000,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,07/11/2000,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,07/23/2000,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,08/07/2000,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,08/24/2000,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,09/05/2000,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,09/29/2000,1.25,NO,0.4,,,74,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190621,10/19/2000,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,06/19/2001,0.25,NO,0.1,,,97,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190621,07/07/2001,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,07/27/2001,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,08/11/2001,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190621,09/03/2001,1,NO,0.3,,,77,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,09/25/2001,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190621,10/12/2001,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000015,11/07/2002,5.2,NO,1.6,6.74,151,53,67,49,,,,,
+7000020,04/18/2006,2,,0.6,,195,67,69,,,,,,
+7000020,06/15/2006,1.6,,0.5,107,165,70,68,70,,,,,
+7000020,06/27/2006,1,,0.3,96.4,232,77,70,69,,,,,
+7000020,07/12/2006,1.5,,0.5,110,213,71,70,70,,,,,
+7000020,07/26/2006,5.5,NO,1.7,25.7,151,53,67,59,,,,,
+7000020,08/10/2006,2,NO,0.6,77.1,170,67,68,68,,,,,
+7000020,08/22/2006,3.5,NO,1.1,67.4,120,59,65,67,,,,,
+7000022,07/14/2008,1.8,NO,0.5,35.4,,69,,62,,,,,
+7000022,07/28/2008,2,NO,0.6,20.1,66,67,61,57,,,,,
+7000022,08/11/2008,2.9,NO,0.9,38.1,52,62,59,62,,,,,
+7000022,08/25/2008,1.9,NO,0.6,121,154,68,67,71,,,,,
+7000022,09/17/2008,2.1,,0.6,48.6,121,66,65,64,,,,,
+7000022,06/15/2009,2.3,NO,0.7,30.8,113,65,65,61,,,,,
+7000022,07/13/2009,2.3,NO,0.7,82.6,81,65,62,68,,,,,
+7000022,08/18/2009,1.7,NO,0.5,275,232,69,70,77,,,,,
+128393865,05/08/2016,2.125,NO,0.6,,,66,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,05/13/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,05/26/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,06/06/2016,2.125,NO,0.6,,,66,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,06/14/2016,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+128393865,06/19/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,06/26/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,07/09/2016,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,07/20/2016,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,08/09/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,08/17/2016,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,08/31/2016,2.875,NO,0.9,,,62,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,09/04/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,10/05/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,10/10/2016,2.85,NO,0.9,,,62,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,10/30/2016,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128393865,11/06/2016,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/1973,,,20,C,11.6,MG/L
+11/07/1973,,,1.94444,C,11.9,MG/L
+03/05/1974,,,.555556,C,10.8,MG/L
+04/24/1974,,,10.5556,C,10.7,MG/L
+08/28/1974,,,18.0555,C,6.7,MG/L
+10/07/1974,,,10,C,9.1,MG/L
+11/07/2002,,,40.9,C,10.2,MG/L
+06/27/2006,,,21.0,C,,
+07/14/2008,,,22.6,C,13.4,MG/L
+07/28/2008,,,24.0,C,22.8,MG/L
+08/11/2008,,,22.3,C,18.3,MG/L
+08/25/2008,,,22.2,C,20.5,MG/L
+09/17/2008,,,18.1,C,16.0,MG/L
+06/15/2009,,,20.6,C,19.5,MG/L
+07/13/2009,,,24.1,C,20.9,MG/L
+08/18/2009,,,22.1,C,15.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/07/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/05/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/24/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/28/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/25/1995,Too cold to swim.  Sunny day.    
+05/11/1995,Past 4-5 days cold + rainy-total rain about 1"-sunny today -75 degrees.    
+05/25/1995,Poor fishing-mallards nesting-negligible algae.    
+06/05/1995,Sunny-80 degrees-no rain here in past week.    
+06/20/1995,90 degrees- sunny weather-some pond wed appearing around edge + shallow areas.    
+07/03/1995,Sunny- 75 degrees- some waterweed- coontail- and duckweed in shallower areas appearing.    
+07/12/1995,Waterweed- coontail- duckweed- 77 degrees.    
+08/01/1995,.5" rain last night-weeds in shallows as before-waterweed- duckweed- coontail.  Partly cloudy.    
+08/15/1995,Muddy- heavy rain Monday a.m.-3.5" here- 5-7" north of residence.  Lake level: 8-10" above normal    
+08/31/1995,Getting more weed growth-nice day 75 degrees.    
+09/12/1995,Near frost 3-4 days ago-weeds have died back-looks better.  Sunny morning.    
+09/26/1995,Clear- 68 degrees- rain on 9-24-95 most of day-not heavy downpour.    
+10/10/1995,Clear-60 degrees-2" rain over weekend.  Weeds on surface all gone.    
+10/26/1995,1.5" rain past Monday- temp. 50-55 degrees-scattered duck weed-p. clouds.    
+04/23/1996,Ice out completely 4-14-96. weather has been cool.    
+05/21/1996,Hot last week 85-90 degrees- now 75 degrees.    
+06/06/1996,Thunderstorm last night- partly cloudy- still cool temps.    
+06/20/1996,Rainy week- first sun today- 80 degrees- duckweed starting on surface.    
+07/08/1996,72 degrees- partly cloudy- some duckweed and waterweed.    
+07/18/1996,Partly cloudy- 88 degrees- humid- some weeds.    
+08/08/1996,Clear 80 degrees-nice day-some weeds. had 1" rain 2 days ago-back from vacation.    
+08/20/1996,Clear- 82 degrees- sunny-some weed patches-about 1/2" rain last couple days.    
+09/02/1996,P.c.- 85 degrees-weeds-many below surface water weed-no lately-humid today.    
+09/17/1996,Partly cloudy 65 degrees-submerged weeds-no rain-mostly pond weeds.  Lake level: 2-3" below normal    
+09/30/1996,Partly cloudy 80 degrees-still submerged weeds-no rain past 4-5 days since 1 3/4" last Thursday    
+10/16/1996,Clear 75 degrees-pondweed-submerged-also duckweed-negligible rain in past week.    
+05/22/1997,Clear 75 degrees.  No recent rains.  Late this time.  Too much wind recently.    
+06/02/1997,Weeds starting to surface.  Clear- 85 degrees.    
+06/17/1997,75 degrees and clear.  Many weeds along the shoreline area.    
+07/05/1997,73 degrees- some submerged weeds.  Surface pretty good.    
+07/23/1997,75 degrees- partly cloudy.  Rain past 24 hours.  Some weeds.    
+08/07/1997,78 degrees.  No rain past 2 days.  Heavy rains last weekend.  Some surface weeds.    
+08/28/1997,80 degrees.  Sunny.  Some weeds. No rain for the past few days.    
+09/17/1997,75 degrees- sunny- some weeds- quite murky today-    
+10/07/1997,The temperature is 82 degrees- sunny-  and there is a few weeds in the water.    
+10/20/1997,60 degrees- sunny- next to no weeds on the lake anymore.    
+07/16/1999,Hot- 90 degrees F. Also checked 500 yards up Beaver Creek- same conditions.    
+08/10/1999,Sunny- 78 degrees F.    
+08/26/1999,Sunny- 84 degrees.    
+09/06/1999,Sunny- light wind- 75 degrees.    
+09/17/1999,Sunny- light wind. 73 degrees.    
+10/05/1999,64 degrees- sunny- very light wind.    
+10/21/1999,Sunny- light wind- 61 degrees F. we have 8-10 black bellied whistling tree ducks on the lake.    
+05/01/2000,75 degrees F.- clear and windy.    
+06/19/2000,80 degrees F.- clear- light breeze. lot of rain the last couple of weeks.    
+07/11/2000,75 degrees F.- light breeze- 1st day without rain the last 2 weeks.    
+07/23/2000,78 degrees F.- clear and calm.    
+08/07/2000,93 degrees- F.- partly cloudy- light breeze.    
+08/24/2000,75 degrees F.- hazy and calm.    
+09/05/2000,72 degrees F.- clear- light breeze.  Lot of rain the past few days.  Muddy.    
+09/29/2000,80 degrees- clear and windy.    
+10/19/2000,75 degrees F.- clear- light breeze. no rain past 10 days.    
+06/19/2001,The temperature is 72 degrees- very nice day- it has been very rainy and overcast recently.    
+07/07/2001,The temperature is 80 degrees- sunny- and no rain in the past ten days.    
+07/27/2001,The temperature is 79 degrees- partly cloudy- and no rain in the past five days.    
+08/11/2001,The temperature is 75 degrees- sunny- no rain in the past 10-14 days.    
+09/03/2001,The temperature is 83 degrees and sunny.    
+09/25/2001,The temperature is 58 degrees and no rain in the last five days.    
+10/12/2001,Sunny and the temperature is 64 degrees.    
+11/07/2002,AT GREATEST DEPTH    
+04/18/2006,DEEP HOLE WITH 2 METER INTEGRATED SAMPLER    
+06/15/2006,DEEP HOLE WITH 2 METER INTEGRATED SAMPLER    
+06/27/2006,DEEP HOLE - 2 METER INTEGRATED SAMPLER    
+07/12/2006,DEEP HOLE - 2 METER INTEGRATED SAMPLER    
+07/26/2006,DEEP HOLE - 2 METER INTEGRATED SAMPLER    
+08/10/2006,DEEP HOLE - 2 METER INTEGRATED SAMPLER    
+08/22/2006,DEEP HOLE - 2 METER INTEGRATED SAMPLER    
+05/08/2016,Helpers Jackson Morrison and Grady Dunnum
+05/26/2016,No boat- took reading off the dock
+06/06/2016,Jackson Morrison- Grady Dunnum data collectors.  Rainy week.
+06/14/2016,Measured by Jackson Morrison.  Lots of algae growth.  Rain for two days prior.  Significant reduction in water visibility.
+06/26/2016,Jackson Morrison
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1973,Data Collectors,Migrated from STORET Legacy
+11/07/1973,Data Collectors,Migrated from STORET Legacy
+03/05/1974,Data Collectors,Migrated from STORET Legacy
+04/24/1974,Data Collectors,Migrated from STORET Legacy
+08/28/1974,Data Collectors,Migrated from STORET Legacy
+10/07/1974,Data Collectors,Migrated from STORET Legacy
+04/25/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/11/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/25/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/05/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/20/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/03/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/12/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/01/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/15/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/31/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/12/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/26/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/10/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/26/1995,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+04/23/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/07/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/21/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/06/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/20/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/08/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/18/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/08/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/20/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/02/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/17/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/30/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/16/1996,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+04/29/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/22/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/02/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/17/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/05/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/23/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/07/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/28/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/17/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/07/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/20/1997,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+04/14/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+04/28/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/13/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/28/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/13/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/09/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/31/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/25/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/10/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/28/1998,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/09/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/26/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/11/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/16/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/10/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/26/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/06/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/17/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/05/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/21/1999,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/01/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/15/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/19/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/11/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/23/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/07/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/24/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/05/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/29/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/19/2000,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/19/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/07/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/27/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/11/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/03/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/25/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/12/2001,William Spencer,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+11/07/2002,CHRISTOPHER FLICEK,Response Monitoring
+04/18/2006,CYNTHIA KOPERSKI,Regional Special Projects
+06/15/2006,CYNTHIA KOPERSKI,Regional Special Projects
+06/27/2006,CYNTHIA KOPERSKI,Regional Special Projects
+07/12/2006,CYNTHIA KOPERSKI,Regional Special Projects
+07/26/2006,CYNTHIA KOPERSKI,Regional Special Projects
+08/10/2006,CYNTHIA KOPERSKI,Regional Special Projects
+08/22/2006,CYNTHIA KOPERSKI,
+07/14/2008,DANIEL HELSEL,WCR 303d SWAT LISTING PROJECT (2006-TO PRESENT) WCR_01_08
+07/28/2008,DANIEL HELSEL,Regional 303d Lake Monitoring: Trow Lake (1711500)- Oakwood Lake(1713200)- Lake Dexter (1369900) and Lake Marinuka (1678200) WCR_01_09 
+08/11/2008,DANIEL HELSEL,Regional 303d Lake Monitoring: Trow Lake (1711500)- Oakwood Lake(1713200)- Lake Dexter (1369900) and Lake Marinuka (1678200) WCR_01_09 
+08/25/2008,DANIEL HELSEL,Regional 303d Lake Monitoring: Trow Lake (1711500)- Oakwood Lake(1713200)- Lake Dexter (1369900) and Lake Marinuka (1678200) WCR_01_09 
+09/17/2008,DANIEL HELSEL,Regional 303d Lake Monitoring: Trow Lake (1711500)- Oakwood Lake(1713200)- Lake Dexter (1369900) and Lake Marinuka (1678200) WCR_01_09 
+06/15/2009,DANIEL HELSEL,Impaired Waters 303d lakes monitoring - WCR_06_10 
+07/13/2009,DANIEL HELSEL,Impaired Waters 303d lakes monitoring - WCR_06_10 
+07/13/2009,DANIEL HELSEL,WCR CBSM Marinuka
+08/18/2009,DANIEL HELSEL,
+05/08/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/13/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+05/26/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/06/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/14/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/19/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+06/26/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/09/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+07/20/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/09/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/17/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+08/31/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+09/04/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/05/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/10/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+10/30/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole
+11/06/2016,Bill Morrison,Citizen Lake Monitoring - Water Quality - Marinuka Lake - Deep Hole

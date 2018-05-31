@@ -1,0 +1,127 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Mable,Lincoln,995300,NO,35,,353208,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+29305223,05/23/2009,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29305223,06/12/2009,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+29304823,06/14/2009,9,NO,2.7,,,45,,,LOW,low,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,06/15/2009,12,NO,3.6,,,41,,,LOW,low,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,07/05/2009,9.25,NO,2.8,,,45,,,LOW,,,BROWN,2-Very minor aesthetic problems
+29304823,07/19/2009,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29305223,08/11/2009,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29305223,09/07/2009,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29304823,07/16/2010,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BROWN,
+29304823,08/06/2010,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BROWN,
+29304823,08/21/2010,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,
+29305223,06/04/2011,11.5,NO,3.5,,,42,,,,,MURKY,YELLOW,2-Very minor aesthetic problems
+29305223,07/08/2011,10,NO,3,,,44,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+29305223,06/06/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29304823,06/17/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,06/18/2012,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29305223,07/10/2012,10,NO,3,,,44,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+29305223,09/03/2012,13,,4,,,40,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29305223,06/27/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29305223,07/07/2014,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+29304823,04/26/2015,9.25,NO,2.8,,,45,,,,,,,
+29304823,05/30/2015,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,06/10/2015,13.3,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,06/27/2015,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29305223,06/29/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29305223,07/07/2015,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29305223,07/23/2015,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29305223,08/30/2015,9,NO,2.7,,,45,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+29304823,06/05/2016,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,07/02/2016,10.17,NO,3.1,,,44,,,,,CLEAR,BROWN,
+29305223,07/22/2016,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+29304823,05/07/2017,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,05/14/2017,11.4,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,07/04/2017,11.9,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,07/23/2017,8.9,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,08/11/2017,11.6,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29304823,09/03/2017,9.2,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/23/2009,Partyl cloudy- winds light
+06/12/2009,Clear skies- light wind out of the ENE- 
+Pollen floating on the lake surface
+06/14/2009,The sky was partly cloudy and my kayak kept drifting as I was trying to do the disc reading.
+06/15/2009,The weather was sunny. I went out in a paddle boat which stayed in place better than the Kayak on the previous day.
+07/19/2009,The sky was sunny but clouds kept covering up the sun. 
+08/11/2009,Partly clould 
+Light winds WNW
+Loon kept us company
+09/07/2009,Partly cloudy- light winds out of the Southeast.
+06/04/2011,Clear skies
+WNW wind moderate in strength
+Pollen on surface
+07/08/2011,Partly cloudy
+Light wind out of NW
+Lake calm
+Lake water level declining
+06/06/2012,Mostly sunny skies.  Lake calm with light winds out of the East.  Moderate amounts of  pollen on lake surface.
+06/17/2012,Partly Cloudy Day
+06/18/2012,Cloudy- overcast day
+07/10/2012,After taking sechi disk reading- toured lake with John Preuss looking for invasive species. A check of the original site of eurasian milfoil found that site to be clean.  A new patch was found one dock to the east.  It is located about 30 ft off of the west corner of the dock.  Approximate GPS coordinates are: N 45 29' 42.0" and W 89 39' 43.8".  The patch size is about 3 ft by 4 ft.  It is now marked with a green bouy on its eastern edge.
+09/03/2012,Partly cloudy with a light West wind.  Lake water level is quite low.
+06/27/2013,Partly cloudy- calm lake- light breeze out of WSW
+07/07/2014,Partly cloudy- moderate west wind
+06/29/2015,Partly cloudy with a light WNW wind.  Pair of loons kept me comany.
+07/07/2015,Mostly cloudy with a light SW wind.
+07/23/2015,Sunny and calm
+08/30/2015,Sunny- lightsouth wind
+07/02/2016,Bright sunny day.  Secchi depth much lower than last time.
+07/22/2016,Sky - clear
+Wind - calm
+
+
+
+
+Start Date,Group Name,Project Name
+05/23/2009,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/12/2009,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/14/2009,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/15/2009,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/05/2009,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/19/2009,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+08/11/2009,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+09/07/2009,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/16/2010,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+08/06/2010,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+08/21/2010,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/04/2011,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/08/2011,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/06/2012,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/17/2012,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/18/2012,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/10/2012,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+09/03/2012,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/27/2013,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/07/2014,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+04/26/2015,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+05/30/2015,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/10/2015,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/27/2015,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/29/2015,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/07/2015,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/23/2015,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+08/30/2015,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+06/05/2016,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/02/2016,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/22/2016,James Norman,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+05/07/2017,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+05/14/2017,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/04/2017,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+07/23/2017,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+08/11/2017,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole
+09/03/2017,Rachel Heldt,Citizen Lake Monitoring - Water Quality - Mable Lake - Deep Hole

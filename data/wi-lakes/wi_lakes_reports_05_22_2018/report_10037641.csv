@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sidie Hollow Lake,Vernon,1641400,WC,63,,10037641,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+62595126,09/19/2012,6.6,NO,2,25.5,35,50,56,59,,,,,
+145584054,06/13/2017,,,,0.751,14.1,,49,33,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/19/2012,0,METERS,17.3,DEGREES C,9.7,MG/L
+09/19/2012,1,METERS,17.4,DEGREES C,9.5,MG/L
+09/19/2012,2,METERS,17.3,DEGREES C,9.4,MG/L
+09/19/2012,3,METERS,17.2,DEGREES C,9.4,MG/L
+09/19/2012,4,METERS,17,DEGREES C,9.3,MG/L
+09/19/2012,5,METERS,15.5,DEGREES C,8.8,MG/L
+06/13/2017,0,METERS,23,DEGREES C,8.8,MG/L
+06/13/2017,1,METERS,23.9,DEGREES C,8.8,MG/L
+06/13/2017,2,METERS,22.6,DEGREES C,8.6,MG/L
+06/13/2017,3,METERS,21.4,DEGREES C,8.3,MG/L
+06/13/2017,4,METERS,18.7,DEGREES C,9,MG/L
+06/13/2017,4.6,METERS,16.7,DEGREES C,8.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/19/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+06/13/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

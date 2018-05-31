@@ -1,0 +1,53 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tarrant Lake,Columbia,1269100,SC,11,,114002,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/15/1979,,,,21.28,354,,74,58,,,,,
+129895738,07/28/2016,,,,67.7,151,,67,67,,,,,
+131162509,07/28/2016,3,NO,0.9,,,61,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+129895738,08/11/2016,,,,37.2,205,,69,62,,,,,
+131162509,08/11/2016,2,NO,0.6,,,67,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+129241713,08/26/2016,1.2,NO,0.4,,,74,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+129895738,08/26/2016,,,,79.8,217,,70,68,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/15/1979,,,,,6,MG/L
+07/28/2016,0,METERS,25.2,DEGREES C,15.25,MG/L
+07/28/2016,1,FEET,25.1,DEGREES F,15,MG/L
+07/28/2016,2,FEET,21.8,DEGREES F,5.7,MG/L
+08/11/2016,0,METERS,25.8,DEGREES C,13.75,MG/L
+08/11/2016,1,METERS,25.4,DEGREES C,12.5,MG/L
+08/26/2016,0,METERS,23.4,DEGREES C,19.21,MG/L
+08/26/2016,1,METERS,23,DEGREES C,18.55,MG/L
+08/26/2016,2,METERS,20.5,DEGREES C,.94,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/15/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/28/2016,Spiny waterflea sample was collected with Ekman dredge method. 5 aliquots examined; sediments were mostly very fine material that passed through the sieve.
+07/28/2016,Water level visually assessed as high. Deep hole depth 7.7 feet. Water sample was taken by hand grab. Meter not calibrated before monitoring. Monitored at 43.54494- -89.10493.
+08/11/2016, Depth at sample point 6.9 feet; DO meter not calibrated before monitoring. Sampled at 43.54527- 89.10390.  
+08/26/2016,Data Collectors:  Rebecca Williams and Kevin Olson
+
+7.3 ft. at sample site; 43.54521- -89.10390
+08/26/2016,GPS of water chemistry-43.56521- -89.10390; depth 7.3
+
+
+
+
+Start Date,Group Name,Project Name
+08/15/1979,Data Collectors,Migrated from STORET Legacy
+07/28/2016,ALISON M KUHNE- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+07/28/2016,Jeanne S Scherer- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/11/2016,ALISON M KUHNE- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/11/2016,Jeanne S Scherer- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/26/2016,Jeanne S Scherer- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/26/2016,REBECCA WILLIAMS,Directed Lakes 2016 Graham

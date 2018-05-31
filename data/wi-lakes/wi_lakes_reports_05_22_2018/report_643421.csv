@@ -1,0 +1,638 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Presque Isle Lake,Vilas,2956500,NO,64,,643421,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/21/1996,,,,1.03,,,,35,,,,,
+1,08/15/1998,,,,1.38,11,,47,37,,,,,
+8188834,08/16/2002,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,08/29/2002,17.5,NO,5.3,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,09/08/2002,15.5,NO,4.7,,,38,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8188834,05/26/2003,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188834,06/20/2003,22,NO,6.7,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,07/04/2003,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188834,07/13/2003,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,07/29/2003,19,NO,5.8,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,08/18/2003,24,NO,7.3,0.81,8,31,44,33,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,08/21/2003,24,NO,7.3,,,31,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,04/28/2004,18.5,NO,5.6,,11,35,47,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,06/22/2004,17.25,NO,5.2,3.55,30,36,54,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,07/14/2004,14.25,NO,4.3,2.01,11,39,47,40,NORMAL,,CLEAR,GREEN,
+8188834,08/15/2004,18,NO,5.5,2.31,11,35,47,41,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,05/16/2005,19,NO,5.8,,11,35,47,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/08/2005,23.6,NO,7.2,1.85,9,32,45,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,07/14/2005,20.5,NO,6.2,1.3,10,34,46,37,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,08/18/2005,15.25,NO,4.6,1.91,11,38,47,40,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8188834,10/10/2005,15.25,NO,4.6,2.15,12,38,47,41,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8188834,05/17/2006,15.25,NO,4.6,,28,38,54,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/13/2006,20,NO,6.1,1.79,14,34,49,39,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,07/11/2006,14,NO,4.3,1.58,11,39,47,38,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8188834,08/15/2006,15.75,NO,4.8,1.97,14,37,49,40,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,10/10/2006,15.25,NO,4.6,2.5,15,38,49,42,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,05/03/2007,14.25,YES,4.3,,6,39,42,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188834,06/25/2007,17.5,YES,5.3,1.39,6,36,42,37,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188834,07/23/2007,14,YES,4.3,1.71,10,39,46,39,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188834,09/03/2007,,,,1.7,11,,47,39,,,,,
+8188834,05/19/2008,14,NO,4.3,,14,39,49,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/18/2008,15.5,NO,4.7,1.33,8,38,44,37,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,07/22/2008,14.25,NO,4.3,0.43,10,39,46,28,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/25/2008,,,,2.37,7,,43,41,,,,,
+8188834,08/28/2008,17.5,NO,5.3,,,36,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188834,09/20/2008,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,05/22/2009,14,NO,4.3,,13,39,48,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/23/2009,31.5,NO,9.6,1.04,12,27,47,35,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,07/27/2009,14,NO,4.3,2.14,10,39,46,41,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8188834,08/23/2009,15.5,NO,4.7,1.93,11,38,47,40,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188834,05/04/2010,19,NO,5.8,,12,35,47,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,06/20/2010,17,NO,5.2,1.29,14,36,49,37,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,07/25/2010,24,NO,7.3,1.22,7,31,43,36,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/22/2010,17,NO,5.2,2.03,12,36,47,40,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188834,06/13/2011,21,NO,6.4,,,33,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8188834,06/14/2011,,,,1.92,12,,47,40,,,,,
+8188834,07/26/2011,15,NO,4.6,1.51,7,38,43,38,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/21/2011,22,NO,6.7,1.31,12,33,47,37,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/17/2012,18.5,NO,5.6,1.35,12,35,47,37,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,07/28/2012,18,NO,5.5,1.4,10,35,46,37,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/22/2012,18,NO,5.5,1.65,11,35,47,39,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,05/29/2013,18,NO,5.5,,13.1,35,48,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/30/2013,18,NO,5.5,2.66,9.86,35,46,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,07/23/2013,15,NO,4.6,2.66,6.1,38,42,42,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/17/2013,20.5,NO,6.2,1.4,8.43,34,45,37,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8188834,05/25/2014,14,NO,4.3,,13.5,39,48,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188834,06/28/2014,18,NO,5.5,0.986,9.31,35,45,35,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,07/17/2014,,,,1.59,10.1,,46,38,,,,,
+8188834,07/18/2014,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,08/24/2014,16,NO,4.9,2.56,11.4,37,47,42,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,09/26/2014,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/19/2015,19.5,NO,5.9,2.16,13.3,34,48,41,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,07/26/2015,20,NO,6.1,0.838,11,34,47,33,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/30/2015,16.25,NO,4.9,1.84,16.2,37,50,39,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,05/01/2016,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/03/2016,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/28/2016,,,,1.37,14,,49,37,,,,,
+8188834,07/23/2016,18,NO,5.5,1.02,13.6,35,48,35,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/28/2016,16,NO,4.9,1.77,14.9,37,49,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188834,06/07/2017,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,06/17/2017,,,,1.7,13.4,,48,39,,,,,
+8188834,07/26/2017,18,NO,5.5,1.29,15.4,35,49,37,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188834,08/20/2017,19.5,NO,5.9,1.97,9.39,34,46,40,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/21/2003,3,FEET,75,DEGREES F,,
+08/21/2003,6,FEET,74.6,DEGREES F,,
+08/21/2003,9,FEET,74.6,DEGREES F,,
+08/21/2003,12,FEET,74.4,DEGREES F,,
+08/21/2003,15,FEET,74.4,DEGREES F,,
+08/21/2003,20,FEET,73.2,DEGREES F,,
+08/21/2003,30,FEET,57.2,DEGREES F,,
+08/21/2003,40,FEET,50.7,DEGREES F,,
+04/28/2004,3,FEET,43.5,DEGREES F,,
+04/28/2004,6,FEET,41.3,DEGREES F,,
+04/28/2004,9,FEET,40.2,DEGREES F,,
+04/28/2004,12,FEET,40.2,DEGREES F,,
+04/28/2004,15,FEET,39.9,DEGREES F,,
+04/28/2004,20,FEET,39.9,DEGREES F,,
+04/28/2004,30,FEET,39.9,DEGREES F,,
+04/28/2004,40,FEET,39.9,DEGREES F,,
+06/22/2004,3,FEET,63.5,DEGREES F,,
+06/22/2004,6,FEET,63.5,DEGREES F,,
+06/22/2004,9,FEET,63.3,DEGREES F,,
+06/22/2004,12,FEET,63.3,DEGREES F,,
+06/22/2004,15,FEET,63.3,DEGREES F,,
+06/22/2004,20,FEET,63.1,DEGREES F,,
+06/22/2004,30,FEET,60,DEGREES F,,
+06/22/2004,40,FEET,55.4,DEGREES F,,
+07/14/2004,3,FEET,71,DEGREES F,,
+07/14/2004,6,FEET,69.8,DEGREES F,,
+07/14/2004,9,FEET,69.2,DEGREES F,,
+07/14/2004,12,FEET,68.7,DEGREES F,,
+07/14/2004,15,FEET,67.6,DEGREES F,,
+07/14/2004,20,FEET,66.2,DEGREES F,,
+07/14/2004,30,FEET,62.4,DEGREES F,,
+07/14/2004,40,FEET,56.5,DEGREES F,,
+08/15/2004,3,FEET,67.4,DEGREES F,,
+08/15/2004,6,FEET,60,DEGREES F,,
+08/15/2004,9,FEET,67.2,DEGREES F,,
+08/15/2004,12,FEET,67.2,DEGREES F,,
+08/15/2004,15,FEET,66.9,DEGREES F,,
+08/15/2004,20,FEET,66,DEGREES F,,
+08/15/2004,30,FEET,64.7,DEGREES F,,
+08/15/2004,40,FEET,64.4,DEGREES F,,
+05/16/2005,3,FEET,47.4,DEGREES F,,
+05/16/2005,6,FEET,46.4,DEGREES F,,
+05/16/2005,9,FEET,46.2,DEGREES F,,
+05/16/2005,12,FEET,46,DEGREES F,,
+05/16/2005,15,FEET,45.8,DEGREES F,,
+05/16/2005,20,FEET,45.8,DEGREES F,,
+05/16/2005,30,FEET,45.8,DEGREES F,,
+05/16/2005,40,FEET,45.8,DEGREES F,,
+06/08/2005,3,FEET,65.1,DEGREES F,,
+06/08/2005,6,FEET,64.2,DEGREES F,,
+06/08/2005,9,FEET,63.8,DEGREES F,,
+06/08/2005,12,FEET,63.8,DEGREES F,,
+06/08/2005,15,FEET,56.4,DEGREES F,,
+06/08/2005,20,FEET,52.8,DEGREES F,,
+06/08/2005,30,FEET,50,DEGREES F,,
+06/08/2005,40,FEET,49.2,DEGREES F,,
+07/14/2005,3,FEET,78.8,DEGREES F,,
+07/14/2005,6,FEET,78,DEGREES F,,
+07/14/2005,9,FEET,77.3,DEGREES F,,
+07/14/2005,12,FEET,75.9,DEGREES F,,
+07/14/2005,15,FEET,74.4,DEGREES F,,
+07/14/2005,20,FEET,71.6,DEGREES F,,
+07/14/2005,30,FEET,59,DEGREES F,,
+07/14/2005,40,FEET,51.2,DEGREES F,,
+08/18/2005,3,FEET,73.5,DEGREES F,,
+08/18/2005,6,FEET,72.6,DEGREES F,,
+08/18/2005,9,FEET,72.3,DEGREES F,,
+08/18/2005,12,FEET,72.1,DEGREES F,,
+08/18/2005,15,FEET,71.9,DEGREES F,,
+08/18/2005,20,FEET,71.6,DEGREES F,,
+08/18/2005,30,FEET,66.9,DEGREES F,,
+08/18/2005,40,FEET,54.3,DEGREES F,,
+10/10/2005,3,FEET,59,DEGREES F,,
+10/10/2005,6,FEET,58.4,DEGREES F,,
+10/10/2005,9,FEET,58.2,DEGREES F,,
+10/10/2005,12,FEET,58.1,DEGREES F,,
+10/10/2005,15,FEET,57.9,DEGREES F,,
+10/10/2005,20,FEET,57.9,DEGREES F,,
+10/10/2005,30,FEET,57.7,DEGREES F,,
+10/10/2005,40,FEET,57.5,DEGREES F,,
+05/17/2006,3,FEET,50.5,DEGREES F,,
+05/17/2006,6,FEET,50,DEGREES F,,
+05/17/2006,9,FEET,47.8,DEGREES F,,
+05/17/2006,12,FEET,49.4,DEGREES F,,
+06/13/2006,3,FEET,67.1,DEGREES F,,
+06/13/2006,6,FEET,66.2,DEGREES F,,
+06/13/2006,9,FEET,66,DEGREES F,,
+06/13/2006,12,FEET,65.4,DEGREES F,,
+06/13/2006,15,FEET,65.1,DEGREES F,,
+06/13/2006,20,FEET,63.8,DEGREES F,,
+06/13/2006,30,FEET,54.5,DEGREES F,,
+06/13/2006,40,FEET,51.2,DEGREES F,,
+07/11/2006,3,FEET,73,DEGREES F,,
+07/11/2006,6,FEET,71.7,DEGREES F,,
+07/11/2006,9,FEET,71.4,DEGREES F,,
+07/11/2006,12,FEET,71,DEGREES F,,
+07/11/2006,15,FEET,70.8,DEGREES F,,
+07/11/2006,20,FEET,70.1,DEGREES F,,
+07/11/2006,30,FEET,55.4,DEGREES F,,
+07/11/2006,40,FEET,52.1,DEGREES F,,
+08/15/2006,3,FEET,71.7,DEGREES F,,
+08/15/2006,6,FEET,71.6,DEGREES F,,
+08/15/2006,9,FEET,71.4,DEGREES F,,
+08/15/2006,12,FEET,71.4,DEGREES F,,
+08/15/2006,15,FEET,71.4,DEGREES F,,
+08/15/2006,20,FEET,71.2,DEGREES F,,
+08/15/2006,30,FEET,69,DEGREES F,,
+08/15/2006,40,FEET,53.6,DEGREES F,,
+10/10/2006,3,FEET,54.8,DEGREES F,,
+10/10/2006,6,FEET,54.8,DEGREES F,,
+10/10/2006,9,FEET,54.8,DEGREES F,,
+10/10/2006,12,FEET,54.8,DEGREES F,,
+10/10/2006,15,FEET,54.8,DEGREES F,,
+10/10/2006,20,FEET,54.8,DEGREES F,,
+10/10/2006,30,FEET,54.6,DEGREES F,,
+10/10/2006,40,FEET,54.5,DEGREES F,,
+05/03/2007,3,FEET,47.1,DEGREES F,,
+05/03/2007,6,FEET,46.2,DEGREES F,,
+05/03/2007,9,FEET,46.4,DEGREES F,,
+05/03/2007,12,FEET,46.2,DEGREES F,,
+05/03/2007,15,FEET,45.6,DEGREES F,,
+05/03/2007,20,FEET,45.6,DEGREES F,,
+05/03/2007,30,FEET,45.3,DEGREES F,,
+05/03/2007,40,FEET,44.9,DEGREES F,,
+06/25/2007,3,FEET,71.6,DEGREES F,,
+06/25/2007,6,FEET,71.2,DEGREES F,,
+06/25/2007,9,FEET,71,DEGREES F,,
+06/25/2007,12,FEET,71,DEGREES F,,
+06/25/2007,15,FEET,69,DEGREES F,,
+06/25/2007,20,FEET,67.8,DEGREES F,,
+06/25/2007,30,FEET,61,DEGREES F,,
+06/25/2007,40,FEET,57.2,DEGREES F,,
+07/23/2007,3,FEET,71.4,DEGREES F,,
+07/23/2007,6,FEET,70.5,DEGREES F,,
+07/23/2007,9,FEET,70.3,DEGREES F,,
+07/23/2007,12,FEET,70.1,DEGREES F,,
+07/23/2007,15,FEET,70.1,DEGREES F,,
+07/23/2007,20,FEET,70.1,DEGREES F,,
+07/23/2007,30,FEET,67.2,DEGREES F,,
+07/23/2007,40,FEET,57,DEGREES F,,
+05/19/2008,3,FEET,49.2,DEGREES F,,
+05/19/2008,6,FEET,48.9,DEGREES F,,
+05/19/2008,9,FEET,48.5,DEGREES F,,
+05/19/2008,12,FEET,48,DEGREES F,,
+05/19/2008,15,FEET,47.4,DEGREES F,,
+05/19/2008,20,FEET,46.9,DEGREES F,,
+05/19/2008,30,FEET,46.4,DEGREES F,,
+05/19/2008,40,FEET,46.2,DEGREES F,,
+06/18/2008,3,FEET,62,DEGREES F,,
+06/18/2008,6,FEET,61.5,DEGREES F,,
+06/18/2008,9,FEET,60.6,DEGREES F,,
+06/18/2008,12,FEET,60.2,DEGREES F,,
+06/18/2008,15,FEET,60.2,DEGREES F,,
+06/18/2008,20,FEET,60,DEGREES F,,
+06/18/2008,30,FEET,59.5,DEGREES F,,
+06/18/2008,40,FEET,54.3,DEGREES F,,
+07/22/2008,3,FEET,72.5,DEGREES F,,
+07/22/2008,6,FEET,71.9,DEGREES F,,
+07/22/2008,9,FEET,71.6,DEGREES F,,
+07/22/2008,12,FEET,71.2,DEGREES F,,
+07/22/2008,15,FEET,70.8,DEGREES F,,
+07/22/2008,20,FEET,69.8,DEGREES F,,
+07/22/2008,30,FEET,66,DEGREES F,,
+07/22/2008,40,FEET,56.8,DEGREES F,,
+09/20/2008,3,FEET,64.4,DEGREES F,,
+09/20/2008,6,FEET,63.6,DEGREES F,,
+09/20/2008,9,FEET,63.3,DEGREES F,,
+09/20/2008,12,FEET,63.3,DEGREES F,,
+09/20/2008,15,FEET,63.1,DEGREES F,,
+09/20/2008,20,FEET,63.1,DEGREES F,,
+09/20/2008,30,FEET,62.6,DEGREES F,,
+09/20/2008,40,FEET,62,DEGREES F,,
+05/22/2009,3,FEET,55.4,DEGREES F,,
+05/22/2009,6,FEET,54.5,DEGREES F,,
+05/22/2009,9,FEET,52.7,DEGREES F,,
+05/22/2009,12,FEET,52.1,DEGREES F,,
+05/22/2009,15,FEET,51.6,DEGREES F,,
+05/22/2009,20,FEET,51.2,DEGREES F,,
+05/22/2009,30,FEET,50.9,DEGREES F,,
+05/22/2009,40,FEET,50.1,DEGREES F,,
+06/23/2009,3,FEET,71.4,DEGREES F,,
+06/23/2009,6,FEET,69.8,DEGREES F,,
+06/23/2009,9,FEET,68.5,DEGREES F,,
+06/23/2009,12,FEET,67.2,DEGREES F,,
+06/23/2009,15,FEET,63.8,DEGREES F,,
+06/23/2009,20,FEET,61.1,DEGREES F,,
+06/23/2009,30,FEET,56.4,DEGREES F,,
+06/23/2009,40,FEET,54.6,DEGREES F,,
+08/23/2009,3,FEET,68.3,DEGREES F,,
+08/23/2009,6,FEET,67.8,DEGREES F,,
+08/23/2009,9,FEET,67.6,DEGREES F,,
+08/23/2009,12,FEET,67.4,DEGREES F,,
+08/23/2009,15,FEET,67.4,DEGREES F,,
+08/23/2009,20,FEET,67.4,DEGREES F,,
+08/23/2009,30,FEET,67.1,DEGREES F,,
+08/23/2009,40,FEET,57.9,DEGREES F,,
+05/04/2010,3,FEET,53.6,DEGREES F,,
+05/04/2010,6,FEET,52.1,DEGREES F,,
+05/04/2010,9,FEET,51.6,DEGREES F,,
+05/04/2010,12,FEET,51.4,DEGREES F,,
+05/04/2010,15,FEET,51.2,DEGREES F,,
+05/04/2010,20,FEET,51,DEGREES F,,
+05/04/2010,30,FEET,50.7,DEGREES F,,
+05/04/2010,40,FEET,49.2,DEGREES F,,
+06/20/2010,3,FEET,67.8,DEGREES F,,
+06/20/2010,6,FEET,67.2,DEGREES F,,
+06/20/2010,9,FEET,66.9,DEGREES F,,
+06/20/2010,12,FEET,66.7,DEGREES F,,
+06/20/2010,15,FEET,66.5,DEGREES F,,
+06/20/2010,20,FEET,66.3,DEGREES F,,
+06/20/2010,30,FEET,54.8,DEGREES F,,
+06/20/2010,40,FEET,53.4,DEGREES F,,
+07/25/2010,3,FEET,74.6,DEGREES F,,
+07/25/2010,6,FEET,73.9,DEGREES F,,
+07/25/2010,9,FEET,73.7,DEGREES F,,
+07/25/2010,12,FEET,73.7,DEGREES F,,
+07/25/2010,15,FEET,73.7,DEGREES F,,
+07/25/2010,20,FEET,72.8,DEGREES F,,
+07/25/2010,30,FEET,61.1,DEGREES F,,
+07/25/2010,40,FEET,55,DEGREES F,,
+08/22/2010,3,FEET,72.5,DEGREES F,,
+08/22/2010,6,FEET,71.9,DEGREES F,,
+08/22/2010,9,FEET,71.7,DEGREES F,,
+08/22/2010,12,FEET,71.6,DEGREES F,,
+08/22/2010,15,FEET,71.6,DEGREES F,,
+08/22/2010,20,FEET,71,DEGREES F,,
+08/22/2010,30,FEET,70.1,DEGREES F,,
+08/22/2010,40,FEET,56.4,DEGREES F,,
+06/13/2011,3,FEET,62.9,DEGREES F,,
+06/13/2011,6,FEET,62.9,DEGREES F,,
+06/13/2011,9,FEET,62.7,DEGREES F,,
+06/13/2011,12,FEET,62.7,DEGREES F,,
+06/13/2011,15,FEET,62.6,DEGREES F,,
+06/13/2011,20,FEET,60.2,DEGREES F,,
+06/13/2011,30,FEET,54.8,DEGREES F,,
+06/13/2011,40,FEET,51.8,DEGREES F,,
+07/26/2011,3,FEET,75.9,DEGREES F,,
+07/26/2011,6,FEET,75.7,DEGREES F,,
+07/26/2011,9,FEET,75.5,DEGREES F,,
+07/26/2011,12,FEET,75.5,DEGREES F,,
+07/26/2011,15,FEET,75.3,DEGREES F,,
+07/26/2011,20,FEET,73.2,DEGREES F,,
+07/26/2011,30,FEET,59,DEGREES F,,
+07/26/2011,40,FEET,53,DEGREES F,,
+06/17/2012,3,FEET,68,DEGREES F,,
+06/17/2012,6,FEET,67.2,DEGREES F,,
+06/17/2012,9,FEET,66.9,DEGREES F,,
+06/17/2012,12,FEET,66.5,DEGREES F,,
+06/17/2012,15,FEET,66.5,DEGREES F,,
+06/17/2012,20,FEET,66.2,DEGREES F,,
+06/17/2012,30,FEET,65.4,DEGREES F,,
+06/17/2012,40,FEET,54.8,DEGREES F,,
+07/28/2012,3,FEET,76.6,DEGREES F,,
+07/28/2012,6,FEET,75.9,DEGREES F,,
+07/28/2012,9,FEET,75.9,DEGREES F,,
+07/28/2012,12,FEET,75.2,DEGREES F,,
+07/28/2012,15,FEET,75.2,DEGREES F,,
+07/28/2012,20,FEET,75,DEGREES F,,
+07/28/2012,30,FEET,66.2,DEGREES F,,
+07/28/2012,40,FEET,57.9,DEGREES F,,
+08/22/2012,3,FEET,70.1,DEGREES F,,
+08/22/2012,6,FEET,70.1,DEGREES F,,
+08/22/2012,9,FEET,69.9,DEGREES F,,
+08/22/2012,12,FEET,69.9,DEGREES F,,
+08/22/2012,15,FEET,69.8,DEGREES F,,
+08/22/2012,20,FEET,69.6,DEGREES F,,
+08/22/2012,30,FEET,68,DEGREES F,,
+08/22/2012,40,FEET,57.2,DEGREES F,,
+05/29/2013,3,FEET,55,DEGREES F,,
+05/29/2013,6,FEET,54.3,DEGREES F,,
+05/29/2013,9,FEET,53.9,DEGREES F,,
+05/29/2013,12,FEET,51.2,DEGREES F,,
+05/29/2013,15,FEET,49.8,DEGREES F,,
+05/29/2013,20,FEET,47.4,DEGREES F,,
+05/29/2013,30,FEET,45.1,DEGREES F,,
+05/29/2013,40,FEET,43.1,DEGREES F,,
+06/30/2013,3,FEET,70.3,DEGREES F,,
+06/30/2013,6,FEET,69.9,DEGREES F,,
+06/30/2013,9,FEET,69.6,DEGREES F,,
+06/30/2013,12,FEET,68.7,DEGREES F,,
+06/30/2013,15,FEET,68.3,DEGREES F,,
+06/30/2013,20,FEET,62.4,DEGREES F,,
+06/30/2013,30,FEET,48.7,DEGREES F,,
+06/30/2013,40,FEET,46.4,DEGREES F,,
+07/23/2013,3,FEET,73.7,DEGREES F,,
+07/23/2013,6,FEET,73.5,DEGREES F,,
+07/23/2013,9,FEET,73.4,DEGREES F,,
+07/23/2013,12,FEET,73.2,DEGREES F,,
+07/23/2013,15,FEET,73.2,DEGREES F,,
+07/23/2013,20,FEET,73.2,DEGREES F,,
+07/23/2013,30,FEET,62,DEGREES F,,
+07/23/2013,40,FEET,51,DEGREES F,,
+08/17/2013,3,FEET,70.8,DEGREES F,,
+08/17/2013,6,FEET,70.5,DEGREES F,,
+08/17/2013,9,FEET,70.1,DEGREES F,,
+08/17/2013,12,FEET,69.4,DEGREES F,,
+08/17/2013,15,FEET,68.7,DEGREES F,,
+08/17/2013,20,FEET,67.4,DEGREES F,,
+08/17/2013,30,FEET,53.9,DEGREES F,,
+08/17/2013,40,FEET,48.3,DEGREES F,,
+05/25/2014,3,FEET,55.4,DEGREES F,,
+05/25/2014,6,FEET,53.4,DEGREES F,,
+05/25/2014,9,FEET,52.5,DEGREES F,,
+05/25/2014,12,FEET,51,DEGREES F,,
+05/25/2014,15,FEET,47.1,DEGREES F,,
+05/25/2014,20,FEET,46.2,DEGREES F,,
+05/25/2014,30,FEET,45.3,DEGREES F,,
+05/25/2014,40,FEET,44.7,DEGREES F,,
+06/28/2014,3,FEET,69.8,DEGREES F,,
+06/28/2014,6,FEET,69.2,DEGREES F,,
+06/28/2014,9,FEET,68.7,DEGREES F,,
+06/28/2014,12,FEET,68,DEGREES F,,
+06/28/2014,15,FEET,64.4,DEGREES F,,
+06/28/2014,20,FEET,61.8,DEGREES F,,
+06/28/2014,30,FEET,46.2,DEGREES F,,
+07/18/2014,3,FEET,69.8,DEGREES F,,
+07/18/2014,6,FEET,69.4,DEGREES F,,
+07/18/2014,9,FEET,69.2,DEGREES F,,
+07/18/2014,12,FEET,67.8,DEGREES F,,
+07/18/2014,15,FEET,67.2,DEGREES F,,
+07/18/2014,20,FEET,66,DEGREES F,,
+07/18/2014,30,FEET,48.5,DEGREES F,,
+07/18/2014,40,FEET,46.7,DEGREES F,,
+08/24/2014,3,FEET,70.1,DEGREES F,,
+08/24/2014,6,FEET,69.8,DEGREES F,,
+08/24/2014,9,FEET,69.8,DEGREES F,,
+08/24/2014,12,FEET,69.8,DEGREES F,,
+08/24/2014,15,FEET,69.6,DEGREES F,,
+08/24/2014,20,FEET,69.4,DEGREES F,,
+08/24/2014,30,FEET,55.7,DEGREES F,,
+08/24/2014,40,FEET,48.5,DEGREES F,,
+09/26/2014,3,FEET,61.7,DEGREES F,,
+09/26/2014,6,FEET,60.2,DEGREES F,,
+09/26/2014,9,FEET,60,DEGREES F,,
+09/26/2014,12,FEET,59.7,DEGREES F,,
+09/26/2014,15,FEET,59.7,DEGREES F,,
+09/26/2014,20,FEET,59.3,DEGREES F,,
+09/26/2014,30,FEET,58.8,DEGREES F,,
+09/26/2014,40,FEET,51.6,DEGREES F,,
+06/19/2015,3,FEET,67.2,DEGREES F,,
+06/19/2015,6,FEET,66.9,DEGREES F,,
+06/19/2015,9,FEET,66.9,DEGREES F,,
+06/19/2015,12,FEET,66.7,DEGREES F,,
+06/19/2015,15,FEET,66,DEGREES F,,
+06/19/2015,20,FEET,63.3,DEGREES F,,
+06/19/2015,30,FEET,56.1,DEGREES F,,
+06/19/2015,40,FEET,51,DEGREES F,,
+07/26/2015,3,FEET,77,DEGREES F,,
+07/26/2015,6,FEET,75.9,DEGREES F,,
+07/26/2015,9,FEET,75,DEGREES F,,
+07/26/2015,12,FEET,74.3,DEGREES F,,
+07/26/2015,15,FEET,73.4,DEGREES F,,
+07/26/2015,20,FEET,72.6,DEGREES F,,
+07/26/2015,30,FEET,60.2,DEGREES F,,
+07/26/2015,40,FEET,51.9,DEGREES F,,
+08/30/2015,3,FEET,69.2,DEGREES F,,
+08/30/2015,6,FEET,68.5,DEGREES F,,
+08/30/2015,9,FEET,68.3,DEGREES F,,
+08/30/2015,12,FEET,68.1,DEGREES F,,
+08/30/2015,15,FEET,68,DEGREES F,,
+08/30/2015,20,FEET,66.5,DEGREES F,,
+08/30/2015,30,FEET,65.8,DEGREES F,,
+08/30/2015,40,FEET,53,DEGREES F,,
+05/01/2016,3,FEET,45.6,DEGREES F,,
+05/01/2016,6,FEET,44.7,DEGREES F,,
+05/01/2016,9,FEET,44.4,DEGREES F,,
+05/01/2016,12,FEET,44,DEGREES F,,
+05/01/2016,15,FEET,43.8,DEGREES F,,
+05/01/2016,20,FEET,43.8,DEGREES F,,
+05/01/2016,30,FEET,43.3,DEGREES F,,
+05/01/2016,40,FEET,42.9,DEGREES F,,
+06/03/2016,3,FEET,70.1,DEGREES F,,
+06/03/2016,6,FEET,69.3,DEGREES F,,
+06/03/2016,9,FEET,69.2,DEGREES F,,
+06/03/2016,12,FEET,69.2,DEGREES F,,
+06/03/2016,15,FEET,69,DEGREES F,,
+06/03/2016,20,FEET,68.9,DEGREES F,,
+06/03/2016,30,FEET,53.4,DEGREES F,,
+06/03/2016,40,FEET,50.1,DEGREES F,,
+08/28/2016,3,FEET,71.7,DEGREES F,,
+08/28/2016,6,FEET,71.4,DEGREES F,,
+08/28/2016,9,FEET,71,DEGREES F,,
+08/28/2016,12,FEET,71,DEGREES F,,
+08/28/2016,15,FEET,71,DEGREES F,,
+08/28/2016,20,FEET,70.8,DEGREES F,,
+08/28/2016,30,FEET,67.8,DEGREES F,,
+08/28/2016,40,FEET,52.5,DEGREES F,,
+06/07/2017,3,FEET,71,DEGREES F,,
+06/07/2017,6,FEET,69.4,DEGREES F,,
+06/07/2017,9,FEET,69,DEGREES F,,
+06/07/2017,12,FEET,68,DEGREES F,,
+06/07/2017,15,FEET,67.2,DEGREES F,,
+06/07/2017,20,FEET,63.8,DEGREES F,,
+06/07/2017,30,FEET,52.1,DEGREES F,,
+06/07/2017,40,FEET,50.3,DEGREES F,,
+07/26/2017,3,FEET,73.9,DEGREES F,,
+07/26/2017,6,FEET,73.4,DEGREES F,,
+07/26/2017,9,FEET,72.8,DEGREES F,,
+07/26/2017,12,FEET,72.6,DEGREES F,,
+07/26/2017,15,FEET,72.5,DEGREES F,,
+07/26/2017,20,FEET,71.6,DEGREES F,,
+07/26/2017,30,FEET,55.9,DEGREES F,,
+07/26/2017,40,FEET,52.6,DEGREES F,,
+08/20/2017,3,FEET,71.4,DEGREES F,,
+08/20/2017,6,FEET,70.7,DEGREES F,,
+08/20/2017,9,FEET,70.5,DEGREES F,,
+08/20/2017,12,FEET,70.3,DEGREES F,,
+08/20/2017,15,FEET,70.1,DEGREES F,,
+08/20/2017,20,FEET,70.1,DEGREES F,,
+08/20/2017,30,FEET,55.9,DEGREES F,,
+08/20/2017,40,FEET,54.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/16/2002,Somewhat windy out of the NW.  Very little if any algae.    
+08/29/2002,Clear sky- light breeze- slight chop on the water.    
+09/08/2002,Previous week 2-3" of rain.  Sunny summer like day with light SW breeze.    
+08/18/2003,SITE 2 - 6FT INTEGRATED SAMPLE    
+04/28/2004,Clear - zero clouds- windy- choppy waters.    
+06/22/2004,Mostly cloudy- windy- choppy water.    
+07/14/2004,Partly cloudy- light wind.  Cool (60s).    
+08/15/2004,Mostly cloudy- windy- cool- 60s.    
+05/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+05/16/2005,Mostly cloudy- several days of below normal temps and precipitation.    
+06/08/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/14/2005,Clear day- calm. Had several days upper 80s - low 90s.    
+07/14/2005,DEEP HOLE - INTEGRATED SAMPLE    
+08/18/2005,DEEP HOLE - INTERGRATED SAMPLE    
+08/18/2005,Hazy- cloudy day    
+10/10/2005,Clear- sunny- cool (40s)    
+10/10/2005,DEEP HOLE - INTEGRATED SAMPLE    
+05/17/2006,very windy- high waves- unable to hold anchor- water temp only to 12'
+06/13/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/13/2006,light breeze- mostly cloudy
+07/11/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/11/2006,calm- mostly cloudy
+08/15/2006,SITE #2 - 6FT INTEGRATED SAMPLE    
+08/15/2006,medium wind- choppy- clear
+10/10/2006,SITE 2- DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/10/2006,light wind- clear and sunny
+05/03/2007,sunny- cool- breezy
+06/25/2007,Sunny- hot- breezy
+07/23/2007,cloudy
+05/19/2008,Partly sunny- cool- breezy
+06/18/2008,sunny- cool- breezy
+07/22/2008,partly sunny- warm- calm partly sunny- warm- calm
+08/28/2008,clear- sunny- calm- cool
+09/20/2008,partly sunny- cool- breezy
+05/22/2009,clear blue sky- cool- light wind
+06/23/2009,clear blue sky- calm winds
+07/27/2009,hazy sun- warm- light wind
+08/23/2009,clear- sunny- cool- calm winds- temps in the 40s last night
+05/04/2010,Partly sunny- cool- calm
+06/20/2010,partly sunny- calm and warm
+07/25/2010,clear- warm- algae bloom clear sky- warm- algae bloom
+08/22/2010,sunny- warm
+06/13/2011,Clear- sunny- breezy and warm day.
+07/26/2011,Clear and sunny. Light wind.
+08/21/2011,Sunny and very windy.  Too windy to do water temperature.
+06/17/2012,Clear skies- breezy 
+07/28/2012,Clear- still 
+08/22/2012,clear and breezy
+08/17/2013,sunny- breezy- warm 
+06/19/2015,Along with my wife- Pat Barofsky- we noted a mostly cloudy day with slight breeze.
+07/26/2015,Along with Pat Barofsky noted clear sky- slight breeze.
+08/30/2015,Along with Pat Barofsky noted breezy- hazy- sunny sky.
+05/01/2016,cold- breezy- sunny- ice out 4/18/2016
+06/03/2016,clear- breezy
+07/23/2016,sunny-hazy- several days of high temps
+08/28/2016,mostly cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/1996,Data Collectors,Water Quality - Citizen Lake Monitoring
+08/15/1998,Data Collectors,Water Quality - Citizen Lake Monitoring
+08/16/2002,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/29/2002,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+09/08/2002,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/26/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/20/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/04/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/13/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/29/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/18/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/21/2003,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+04/28/2004,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/22/2004,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/14/2004,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/15/2004,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/16/2005,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/08/2005,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/14/2005,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/18/2005,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+10/10/2005,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/17/2006,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/13/2006,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/11/2006,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/15/2006,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+10/10/2006,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/03/2007,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/25/2007,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/23/2007,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+09/03/2007,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/19/2008,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/18/2008,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/22/2008,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/22/2008,Bob Barofsky,Citizen Lake Monitoring Network QA/QC - 2008
+08/25/2008,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/28/2008,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+09/20/2008,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/22/2009,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/23/2009,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/27/2009,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/23/2009,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/04/2010,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/20/2010,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/25/2010,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/22/2010,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/13/2011,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/14/2011,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/26/2011,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/21/2011,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/17/2012,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/28/2012,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/22/2012,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/29/2013,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/30/2013,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/23/2013,Bob Barofsky,Citizen Aquatic Invasives Monitoring - Presque Isle Lake
+07/23/2013,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/17/2013,Bob Barofsky,Citizen Aquatic Invasives Monitoring - Presque Isle Lake
+08/17/2013,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/25/2014,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/28/2014,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/17/2014,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/18/2014,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/24/2014,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+09/26/2014,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/19/2015,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/26/2015,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/30/2015,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+05/01/2016,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/03/2016,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/28/2016,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/23/2016,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/28/2016,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/07/2017,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+06/17/2017,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+07/26/2017,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep
+08/20/2017,Bob Barofsky,Citizen Lake Monitoring - Water Quality - Presque Isle; Site 2 - Center SW Deep

@@ -1,0 +1,465 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hat Rapids Flowage,Oneida,1567325,NO,44,,443489,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+16059487,04/16/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/10/2007,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/17/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/30/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/07/2007,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/21/2007,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,07/05/2007,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,07/11/2007,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,08/01/2007,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,08/15/2007,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,08/22/2007,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,08/31/2007,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,04/30/2008,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,05/14/2008,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,05/22/2008,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,05/28/2008,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/20/2008,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/04/2008,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/20/2008,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/06/2008,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/15/2008,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/18/2008,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/26/2008,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,05/12/2009,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/19/2009,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/30/2009,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/04/2009,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/11/2009,3.25,NO,1,,,60,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,07/06/2009,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/13/2009,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/20/2009,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/15/2009,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/22/2009,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/31/2009,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/11/2009,4.75,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/16/2009,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/23/2009,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/10/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/17/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/22/2010,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/30/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/25/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,07/30/2010,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/05/2010,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/10/2010,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16059487,08/17/2010,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/26/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,09/02/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,09/10/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16059487,09/22/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,10/04/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/14/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,07/11/2011,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/03/2011,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/12/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/20/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,04/12/2012,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,04/23/2012,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/07/2012,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/13/2012,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/01/2012,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/19/2012,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,07/19/2012,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/24/2012,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/06/2012,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/22/2012,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16059487,09/02/2012,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,09/21/2012,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/24/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/08/2013,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,07/17/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,07/24/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/02/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/09/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/18/2013,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/13/2013,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/26/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,10/10/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,05/09/2014,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/18/2014,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,05/24/2014,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/04/2014,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/13/2014,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/17/2014,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/26/2014,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/20/2014,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/28/2014,3.25,NO,1,,,60,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,08/12/2014,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/13/2014,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,10/09/2014,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,06/06/2015,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+16059487,06/16/2015,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,07/04/2015,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,07/15/2015,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,07/22/2015,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,08/15/2015,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16059487,08/26/2015,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16059487,09/01/2015,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,09/09/2015,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16059487,09/25/2015,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16059487,10/03/2015,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16059487,05/18/2016,3.75,NO,1.1,,,58,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,05/30/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,06/08/2016,3.75,NO,1.1,,,58,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,06/22/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,06/30/2016,2.75,NO,0.8,,,63,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,07/25/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,08/01/2016,3.75,NO,1.1,,,58,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,08/09/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,08/17/2016,2.75,NO,0.8,,,63,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,08/25/2016,3.75,NO,1.1,,,58,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,09/03/2016,2.75,NO,0.8,,,63,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,09/29/2016,2.5,NO,0.8,,,64,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,10/10/2016,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16059487,07/20/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,07/31/2017,2.75,NO,0.8,,,63,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,08/12/2017,2.75,NO,0.8,,,63,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,09/12/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16059487,09/21/2017,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+04/16/2007,CLEAR + CALM        WATER DEPTH=20.0 FT (WITH SECCHI)
+05/10/2007,PARTLY CLOUDY + CALM      WATER DEPTH=20.0 FT (WITH SECCHI)
+05/17/2007,CLEAR + CALM     WATER DEPTH=20.0FT (WITH SECCHI)
+05/30/2007,CLOUDY WITH SLIGHT WIND    WATER DEPTH=20.25FT (WITH SECCHI)
+06/07/2007,CLOUDY + WINDY     WATER DEPTH=20.75FT (WITH SECCHI)
+06/21/2007,CLEAR + CALM     HARD RAIN THIS WEEK      WATER DEPTH=20.25FT (WITH SECCHI)
+07/05/2007,PARTLY CLOUDY + WINDY    HARD RAIN THIS WEEK   WATER DEPTH=20.25FT (WITH SECCHI)
+07/11/2007,PARTLY CLOUDY + CALM     WATER DEPTH=20.0FT (WITH SECCHI)
+08/01/2007,party cloudy and calm; water depth =20.0' (with secchi)
+08/15/2007,part cloudy with a light breeze;  water depth= 20.25' (with secchi)
+08/22/2007,partly cloudy and calm; water depth= 20.0' (with secchi)
+08/31/2007,sunny and calm; water depth=20.0' (with secchi);  clarification of appearance and water color all year:  appearance is just slightly murky and color is a very light brown
+04/30/2008,WATER DEPTH MEASURED WITH SECCHI = 20.5 FEET
+CLEAR AND CALM
+05/14/2008,WATER DEPTH MEASURED WITH SECCHI = 20.5 FEET
+CLEAR AND WINDY 
+05/22/2008,WATER DEPTH WITH SECCHI = 20.25 FEET
+CLEAR AND CALM
+05/28/2008,WATER DEPTH WITH SECCHI = 20.25 FEET
+PARTLY CLOUDY AND CALM
+06/20/2008,WATER DEPTH WITH SECCHI = 20.0 FEET
+CLEAR AND CALM
+ASSISTED BY AVERY RAPIER
+07/04/2008,WATER DEPTH WITH SECCHI = 20.5 FEET
+CLEAR AND CALM
+07/20/2008,WATER DEPTH WITH SECCHI = 20.5 FEET
+PARTLY CLOUDY AND CALM
+
+08/06/2008,WATER DEPTH WITH SECCHI = 20.5 FEET
+PARTLY SUNNY AND CALM
+08/15/2008,WATER DEPTH WITH SECHI = 20.75
+
+09/18/2008,WATER DEPTH WITH SECCHI = 20.50
+09/26/2008,WATER DEPTH WITH SECCHI = 20.5 FEET
+05/12/2009,WATER DEPTH =20.5'
+PARTLY SUNNY
+05/19/2009,WATER DEPTH=20.75'
+SUNNY
+05/30/2009,WATER DEPTH=20.75'
+SUNNY
+06/04/2009,WATER DEPTH=20.5'
+SUNNY
+06/11/2009,WATER DEPTH=20.75'
+PARTLY SUNNY
+07/06/2009,WATER DEPTH=20.5'
+SUNNY
+07/13/2009,WATER DEPTH=20.5'
+PARTLY SUNNY
+07/20/2009,WATER DEPTH=20.5'
+PARTLY CLOUDY
+08/15/2009,WATER DEPTH=20.5'
+SUNNY
+08/22/2009,WATER DEPTH =20.5'
+SUNNY
+
+08/31/2009,WATER DEPTH=20.75'
+SUNNY
+09/11/2009,WATER DEPTH=20.75'
+SUNNY
+09/16/2009,WATER DEPTH=20.75'
+SUNNY
+09/23/2009,WATER DEPTH=20.75'
+SUNNY
+06/10/2010,WATER DEPTH W/SECCHI=20.0 FT  PTLY SUNNY
+06/17/2010,WATER DEPTH W/SECCHI=20.5 FT
+PTLY CLOUDY
+06/22/2010,WATER DEPTH W/SECCHI=20.75 FT
+SUNNY
+07/25/2010,WATER DEPTH W/SECCHI=20.75 FT
+PTLY CLOUDY
+07/30/2010,WATER DEPTH W/SECCHI=20.75 FT
+PTLY SUNNY
+08/05/2010,WATER DEPTH W/SECCHI=20.75 FT  
+PARTLY CLOUDY
+08/10/2010,WATER DEPTH W/SECCHI=20.75 FT
+PARTLY CLOUDY
+CONSIDERABLE GREEN SLIME NEAR SHORELINE 
+08/17/2010,WATER DEPTH W/SECCHI=20.5 FT
+SUNNY
+CANOED WITH LU GRISWOLD
+08/26/2010,WATER DEPTH W/SECCHI=20.5 FT
+SUNNY
+CANOED WITH KURT SAMPSON
+09/02/2010,WATER DEPTH W/SECCHI=20.5 FT
+PARTLY SUNNY
+09/10/2010,WATER DEPTH  W/SECCHI=20.75 FT
+SUNNY
+09/22/2010,WATER DEPTH  W/SECCHI=21.0 FT
+SUNNY
+FALL COLOR AT PEAK
+06/14/2011,SUNNY
+07/11/2011,SUNNY 
+DEPTH  W/SECCHI = 20.5 FT
+08/03/2011,SUNNY
+DEPTH W/SECCHI = 20.5
+08/12/2011,PARTLY SUNNY
+DEPTH W/SECCHI =20.5 FT
+08/20/2011,PARTLY CLOUDY
+DEPTH W/SECCHI = 20.75 FT
+04/12/2012,SUNNY
+SAW CANADA GEESE- MALLARDS- + RED WINGED BLACKBIRDS
+DEPTH W/SECCHI = 20.75FT
+04/23/2012,SUNNY
+DEPTH W/SECCHI = 20.75 FT
+05/07/2012,PARTLY CLOUDY
+DEPTH W/SECCHI = 20.50 FT
+05/13/2012,PARTLY CLOUDY
+DEPTH W/SECCHI = 20.50 FT
+06/01/2012,CANOE W/LU
+PARTLY CLOUDY
+SAW 3 SNAPPING TURTLES-1 BIG-16 IN DIA SHELL
+DEPTH W/SECCHI = 20.25 FT
+06/19/2012,SAW LOTS OF PAINTED TURTLES-20 ON 1 LOG!
+07/19/2012,PARTLY CLOUDY
+DEPTH W/SECCHIi = 20.75 ft
+07/24/2012,PARTLY CLOUDY
+DEPTH W/SECCHI = 20.5 FT
+08/06/2012,SUNNY
+ROW  BOAT W/GRANDSON- JEREMY
+DEPTH W/SECCHI = 20.5 FT
+08/22/2012,SUNNY
+SAW OSPREY
+LOTS OF WHITE WATER LILIES IN BLOOM
+DEPTH W/SECCHI = 20.75 FT
+09/02/2012,SUNNY
+HOLIDAY WEEKEND.   SAW 2 BOATS
+A FEW LEAVES ARE STARTING TO CHANGE COLOR
+DEPTH W/SECCHI = 20.75 FT
+09/21/2012,SUNNY
+FALL COLOR SPECTACULAR
+DEPTH W/SECCHI = 20.75
+06/24/2013,rainy- cloudy weather made it difficult to get out this month-first time this year!
+depth measured w/secchi=20.5'
+
+07/08/2013,kayaking with my friend Roger Davis
+depth measured w/secchi=20.75'
+07/17/2013,hundreds of white water lilies in bloom!
+depth measured w/secchi=20.75'
+05/09/2014,DAM FLOOD GATE OPEN
+CLDY + WINDY
+05/18/2014,DAM FLOOD GATE OPEN
+PTLY CLDY
+DEPTH WITH SECCHI=21.0 FT
+05/24/2014,DAM FLOOD GATE OPEN
+SUNNY
+DEPTH WITH SECCHI= 21 FEET
+TRILLIUMS AND MARSH MARIGOLDS IN BLOOM
+06/04/2014,DAM FLOOD GATE OPEN
+PTLY CLDY
+DEPTH WITH SECCHI=21 FT
+06/13/2014,DAM FLOOD GATE CLOSED
+SUNNY + WINDY
+DEPTH WITH SECCHI=20.75 FT
+FORGET ME NOTS IN BLOOM
+06/17/2014,DAM FLOOD GATE CLOSED
+SUNNY + CALM
+DEPTH WITH SECCHI=20.75 FT
+LOTS OF POLLEN ON THE WATER
+BLUE FLAG IRIS IN BLOOM
+06/26/2014,FLOOD GATE OPEN
+LOTS OF RAIN THIS WEEK
+PTLY SUNNY
+DEPTH WITH SECCHI=21.0 FT
+07/20/2014,PTLY CLDY
+DAM FLOOD GATE CLOSED
+DEPTH WITH SECCHI=21.0 FT
+YELLOW + WHITE WATER LILIES IN BLOOM
+07/28/2014,PARTLY SUNNY
+DEPTH W/SECCHI  = 21.0 FT
+08/12/2014,SUNNY + WINDY
+DEPTH W/SECCHI = 20.75 FT
+09/13/2014,PARTLY CLOUDY + CALM
+SOME ALGAE IN THE WATER
+10/09/2014,PARTLY CLOUDY + CALM
+FALL COLOR PAST PEAK
+DEPTH W/SECCHI = 20.75 FT
+06/06/2015,sunny + calm
+06/16/2015,saw a huge snapping turtle (shell 24" +/-) sunning itself on a log!
+07/04/2015,partly cloudy with a light wind
+07/15/2015,SUNNY + CALM.  DAM SPILLWAY IS OPEN
+07/22/2015,SUNNY + CALM
+08/15/2015,SUNNY- HOT- + CALM
+08/26/2015,SUNNY- COOL- + CALM.  SAW TWO BALD EAGLES.
+09/01/2015,PARTLY CLOUDY- HOT- + CALM
+09/09/2015,CLEAR- COOL- WITH RIPPLES ON SURFACE
+09/25/2015,CLEAR- MILD- AND CALM.  BLUE-GREEN ALGAE SCUM AT SHORELINE
+10/03/2015,PARTLY CLOUDY- STEADY BREEZE- + 6" WAVES.  SOME BLUE-GREEN ALGAE AT SHORELINE.
+05/18/2016,Sunny + calm.  Red Maples leafing out and Juneberry and Marsh Marigold blooming. Turtle bonanza today- saw 2 huge Snapping Turtles- 3 Spiny Softshells- and dozens of Painted Turtles while kayaking in the river.
+05/30/2016,Partly cloudy + calm
+06/08/2016,Sunny and calm.  Water is high-dam releasing water. Blue flags are blooming.
+06/22/2016,Partly cloudy and calm.  Saw lots of wildlife (5 deer- 2 Bald Eagles- and a Great Blue Heron) while kayaking the river.  
+06/30/2016,Partly sunny and calm.  Water high-dam releasing water.  Caught in rain storm while kayaking the river and had to sit it out for about a half hour in the cabin.
+07/25/2016,Partly cloudy with light breeze.  Water level high in the river.  White Water Lilies in full bloom.  Some Purple Loosestrife blooming also.
+08/01/2016,Sunny + calm.  Dam releasing water.  Water depth with secchi=21 ft.  Geese fouling my kayak launch site at the dam!
+08/09/2016,Partly sunny- moderate breeze- and 4-6 inch waves.  Dam releasing water.
+08/17/2016,Partly cloudy and calm.  My grandson- Tristan- visiting this week.
+08/25/2016,Clear + calm.  Cool dry air for a change.  Hope fall is here.  Dam releasing water.
+09/03/2016,Partly cloudy with light breeze.  Lots of people on the river - 4 kayakers.  Usually I am the only one on the river.
+09/29/2016,Sunny with moderate breeze.  Leaf color is muted and late this year- just starting.
+10/10/2016,Clear- mild- and breezy.  Fall leaf color is at its peak.  Last reading of the season.
+07/20/2017,WHITE WATER LILIES IN FULL BLOOM
+07/31/2017,WATER DEPTH WITH SECCHI=21 FEET
+08/12/2017,PTLY CLOUDY 75 DEGREES
+09/12/2017,TREES STARTING TO CHANGE COLORS
+09/21/2017,FALL COLOR 25%
+
+
+
+
+Start Date,Group Name,Project Name
+04/16/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/10/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/17/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/30/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/07/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/21/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/05/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/11/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/01/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/15/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/22/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/31/2007,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+04/30/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/14/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/22/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/28/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/20/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/04/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/20/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/06/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/15/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/18/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/26/2008,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/12/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/19/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/30/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/04/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/11/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/06/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/13/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/20/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/15/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/22/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/31/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/11/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/16/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/23/2009,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/10/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/17/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/22/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/30/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/25/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/30/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/05/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/10/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/17/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/26/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/02/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/10/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/22/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+10/04/2010,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/14/2011,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/11/2011,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/03/2011,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/12/2011,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/20/2011,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+04/12/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+04/23/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/07/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/13/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/01/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/19/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/19/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/24/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/06/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/22/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/02/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/21/2012,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/24/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/08/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/17/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/24/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/02/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/09/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/18/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/13/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/26/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+10/10/2013,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/09/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/18/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/24/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/04/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/13/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/17/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/26/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/20/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/28/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/12/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/13/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+10/09/2014,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/06/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/16/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/04/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/15/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/22/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/15/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/26/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/01/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/09/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/25/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+10/03/2015,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/18/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+05/30/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/08/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/22/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+06/30/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/25/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/01/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/09/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/17/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/25/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/03/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/29/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+10/10/2016,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/20/2017,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+07/31/2017,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+08/12/2017,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/12/2017,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam
+09/21/2017,Greg Griswold,Citizen Lake Monitoring - Water Quality - Hat Rapids Flowage; 100 Ft NE Of Hat Rapids Dam

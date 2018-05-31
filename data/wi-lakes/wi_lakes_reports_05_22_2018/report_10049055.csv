@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Ballard Lake,Vilas,2340700,NO,64,,10049055,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+147494012,08/24/2017,14,NO,4.3,,,39,,,,22,CLEAR,BLUE,1-Beautiful, could not be nicer
+147494012,08/29/2017,17.75,NO,5.4,,,36,,,NORMAL,22,CLEAR,BLUE,1-Beautiful, could not be nicer
+147494012,09/13/2017,16.5,NO,5,,,37,,,NORMAL,21,CLEAR,BLUE,1-Beautiful, could not be nicer
+147494012,10/06/2017,15,NO,4.6,,,38,,,NORMAL,22,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/24/2017,Blue skies- calm
+08/29/2017,Blue skies- calm
+09/13/2017,Sunny- calm
+10/06/2017,Sunny- light winds
+
+
+
+
+Start Date,Group Name,Project Name
+08/24/2017,Joe Heitz_0,Citizen Lake Monitoring - Water Quality - Ballard Lake - Musky Alley Deep Hole
+08/29/2017,Joe Heitz_0,Citizen Lake Monitoring - Water Quality - Ballard Lake - Musky Alley Deep Hole
+09/13/2017,Joe Heitz_0,Citizen Lake Monitoring - Water Quality - Ballard Lake - Musky Alley Deep Hole
+10/06/2017,Joe Heitz_0,Citizen Lake Monitoring - Water Quality - Ballard Lake - Musky Alley Deep Hole

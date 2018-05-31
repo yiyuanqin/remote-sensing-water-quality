@@ -1,0 +1,363 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Deadman Lake,Oconto,489700,NE,43,,10041762,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+96878974,05/12/2014,,,,,16.8,,50,,,,,,
+96878974,05/17/2014,19.25,NO,5.9,,,35,,,NORMAL,15.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,05/25/2014,21.25,NO,6.5,,,33,,,NORMAL,15.25 inch,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,06/11/2014,24.5,NO,7.4,,,31,,,NORMAL,15 inch,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,06/23/2014,,,,1.9,5.52,,41,40,,,,,
+96878974,07/04/2014,17.25,NO,5.2,,,36,,,HIGH,14.75 ,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,07/18/2014,16.75,NO,5.1,,,37,,,NORMAL,14.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,07/28/2014,16.5,NO,5,2.99,22.4,37,52,43,NORMAL,13.25,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,08/07/2014,19.25,NO,5.9,,,35,,,NORMAL,13.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,08/27/2014,18.75,NO,5.7,0.913,10.8,35,47,34,NORMAL,14.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,09/14/2014,15.75,NO,4.8,,,37,,,HIGH,18.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,10/08/2014,16.25,NO,4.9,,,37,,,NORMAL,15.25,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,10/24/2014,13.5,NO,4.1,,,40,,,HIGH,16.75,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,04/28/2015,20.75,NO,6.3,,10.9,33,47,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,05/24/2015,26,NO,7.9,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,06/12/2015,23.5,NO,7.1,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,06/27/2015,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,06/30/2015,,,,1.84,10.9,,47,39,,,,,
+96878974,07/15/2015,18.25,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,08/09/2015,,,,1.26,8.48,,45,37,,,,,
+96878974,08/10/2015,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,09/10/2015,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,09/14/2015,,,,2.39,13.1,,48,41,,,,,
+96878974,10/19/2015,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,04/27/2016,,,,,12.7,,48,,,,,,
+96878974,06/06/2016,,,,1.87,13.9,,49,40,,,,,
+96878974,06/22/2016,26.5,NO,8.1,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,08/01/2016,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,08/18/2016,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,08/31/2016,,,,2.1,15.2,,49,40,,,,,
+96878974,10/23/2016,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,04/24/2017,24.5,NO,7.4,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,06/14/2017,,,,1.24,,,,36,,,,,
+96878974,06/16/2017,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,07/04/2017,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,07/21/2017,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+96878974,08/08/2017,17,NO,5.2,,,36,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+96878974,08/09/2017,,,,1.38,13.6,,48,37,,,,,
+96878974,08/18/2017,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,08/29/2017,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,09/13/2017,,,,1.73,12.3,,48,39,,,,,
+96878974,09/19/2017,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+96878974,10/20/2017,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/04/2014,5,FEET,72.5,DEGREES F,,
+07/04/2014,10,FEET,71.9,DEGREES F,,
+07/04/2014,15,FEET,62,DEGREES F,,
+07/04/2014,20,FEET,55.2,DEGREES F,,
+07/04/2014,25,FEET,50.3,DEGREES F,,
+07/04/2014,30,FEET,48.2,DEGREES F,,
+07/04/2014,35,FEET,45.8,DEGREES F,,
+07/04/2014,40,FEET,44.2,DEGREES F,,
+07/04/2014,45,FEET,43.5,DEGREES F,,
+07/18/2014,5,FEET,73.5,DEGREES F,,
+07/18/2014,10,FEET,73.2,DEGREES F,,
+07/18/2014,15,FEET,68,DEGREES F,,
+07/18/2014,20,FEET,57.7,DEGREES F,,
+07/18/2014,25,FEET,51.6,DEGREES F,,
+07/18/2014,30,FEET,48.2,DEGREES F,,
+07/18/2014,35,FEET,45.8,DEGREES F,,
+07/18/2014,40,FEET,44.6,DEGREES F,,
+07/18/2014,45,FEET,43.8,DEGREES F,,
+07/28/2014,5,FEET,72.3,DEGREES F,,
+07/28/2014,10,FEET,72.1,DEGREES F,,
+07/28/2014,15,FEET,69.2,DEGREES F,,
+07/28/2014,20,FEET,57.5,DEGREES F,,
+07/28/2014,25,FEET,52.1,DEGREES F,,
+07/28/2014,30,FEET,48.3,DEGREES F,,
+07/28/2014,35,FEET,46.2,DEGREES F,,
+07/28/2014,40,FEET,44.6,DEGREES F,,
+07/28/2014,45,FEET,44,DEGREES F,,
+08/07/2014,5,FEET,75.7,DEGREES F,,
+08/07/2014,10,FEET,75,DEGREES F,,
+08/07/2014,15,FEET,71,DEGREES F,,
+08/07/2014,20,FEET,59.7,DEGREES F,,
+08/07/2014,25,FEET,52.5,DEGREES F,,
+08/07/2014,30,FEET,48.9,DEGREES F,,
+08/07/2014,35,FEET,46.4,DEGREES F,,
+08/07/2014,40,FEET,44.7,DEGREES F,,
+08/07/2014,45,FEET,44,DEGREES F,,
+08/27/2014,5,FEET,72.3,DEGREES F,,
+08/27/2014,10,FEET,72.1,DEGREES F,,
+08/27/2014,15,FEET,71,DEGREES F,,
+08/27/2014,20,FEET,63.6,DEGREES F,,
+08/27/2014,25,FEET,54.3,DEGREES F,,
+08/27/2014,30,FEET,50,DEGREES F,,
+08/27/2014,35,FEET,46.7,DEGREES F,,
+08/27/2014,40,FEET,44.9,DEGREES F,,
+08/27/2014,45,FEET,44.4,DEGREES F,,
+09/14/2014,5,FEET,62,DEGREES F,,
+09/14/2014,10,FEET,61.7,DEGREES F,,
+09/14/2014,15,FEET,61.3,DEGREES F,,
+09/14/2014,20,FEET,60.6,DEGREES F,,
+09/14/2014,25,FEET,57.3,DEGREES F,,
+09/14/2014,30,FEET,50.7,DEGREES F,,
+09/14/2014,35,FEET,47.3,DEGREES F,,
+09/14/2014,40,FEET,45.3,DEGREES F,,
+09/14/2014,45,FEET,44.6,DEGREES F,,
+10/08/2014,5,FEET,54.8,DEGREES F,,
+10/08/2014,10,FEET,54.3,DEGREES F,,
+10/08/2014,15,FEET,54.1,DEGREES F,,
+10/08/2014,20,FEET,53.6,DEGREES F,,
+10/08/2014,25,FEET,53.6,DEGREES F,,
+10/08/2014,30,FEET,52.5,DEGREES F,,
+10/08/2014,35,FEET,47.4,DEGREES F,,
+10/08/2014,40,FEET,45.3,DEGREES F,,
+10/08/2014,45,FEET,44.9,DEGREES F,,
+10/24/2014,5,FEET,51.4,DEGREES F,,
+10/24/2014,10,FEET,50.7,DEGREES F,,
+10/24/2014,15,FEET,50.3,DEGREES F,,
+10/24/2014,20,FEET,50.3,DEGREES F,,
+10/24/2014,25,FEET,50.3,DEGREES F,,
+10/24/2014,30,FEET,50,DEGREES F,,
+10/24/2014,35,FEET,49.2,DEGREES F,,
+10/24/2014,40,FEET,45.6,DEGREES F,,
+10/24/2014,45,FEET,44.9,DEGREES F,,
+04/28/2015,1,FEET,67.4,DEGREES F,,
+04/28/2015,5,FEET,65.6,DEGREES F,,
+04/28/2015,10,FEET,58.1,DEGREES F,,
+04/28/2015,15,FEET,57.5,DEGREES F,,
+04/28/2015,20,FEET,48.5,DEGREES F,,
+04/28/2015,25,FEET,45.8,DEGREES F,,
+04/28/2015,30,FEET,43.8,DEGREES F,,
+04/28/2015,35,FEET,42.8,DEGREES F,,
+04/28/2015,45,FEET,42.4,DEGREES F,,
+04/28/2015,49,FEET,42.4,DEGREES F,,
+05/24/2015,1,FEET,64.2,DEGREES F,,
+05/24/2015,5,FEET,62.7,DEGREES F,,
+05/24/2015,10,FEET,60.8,DEGREES F,,
+05/24/2015,15,FEET,57.5,DEGREES F,,
+05/24/2015,20,FEET,51.4,DEGREES F,,
+05/24/2015,25,FEET,48.3,DEGREES F,,
+05/24/2015,30,FEET,45.5,DEGREES F,,
+05/24/2015,35,FEET,43.5,DEGREES F,,
+05/24/2015,40,FEET,42.9,DEGREES F,,
+05/24/2015,45,FEET,42.8,DEGREES F,,
+06/12/2015,1,FEET,70.8,DEGREES F,,
+06/12/2015,5,FEET,69.2,DEGREES F,,
+06/12/2015,10,FEET,68.3,DEGREES F,,
+06/12/2015,15,FEET,62,DEGREES F,,
+06/12/2015,20,FEET,55.4,DEGREES F,,
+06/12/2015,25,FEET,50.3,DEGREES F,,
+06/12/2015,30,FEET,47.4,DEGREES F,,
+06/12/2015,35,FEET,45.8,DEGREES F,,
+06/12/2015,40,FEET,43.3,DEGREES F,,
+06/12/2015,45,FEET,43.1,DEGREES F,,
+06/27/2015,1,FEET,75.9,DEGREES F,,
+06/27/2015,5,FEET,74.1,DEGREES F,,
+06/27/2015,10,FEET,73.2,DEGREES F,,
+06/27/2015,15,FEET,67.8,DEGREES F,,
+06/27/2015,20,FEET,58.8,DEGREES F,,
+06/27/2015,25,FEET,52.8,DEGREES F,,
+06/27/2015,30,FEET,48.5,DEGREES F,,
+06/27/2015,35,FEET,46.4,DEGREES F,,
+06/27/2015,40,FEET,44.2,DEGREES F,,
+06/27/2015,45,FEET,44,DEGREES F,,
+07/15/2015,1,FEET,76,DEGREES F,,
+07/15/2015,5,FEET,73.5,DEGREES F,,
+07/15/2015,10,FEET,73,DEGREES F,,
+07/15/2015,15,FEET,67.2,DEGREES F,,
+07/15/2015,20,FEET,57.1,DEGREES F,,
+07/15/2015,25,FEET,51.4,DEGREES F,,
+07/15/2015,30,FEET,48.1,DEGREES F,,
+07/15/2015,35,FEET,46,DEGREES F,,
+07/15/2015,40,FEET,44.5,DEGREES F,,
+07/15/2015,45,FEET,43.8,DEGREES F,,
+08/10/2015,1,FEET,76.2,DEGREES F,,
+08/10/2015,5,FEET,75,DEGREES F,,
+08/10/2015,10,FEET,74.1,DEGREES F,,
+08/10/2015,15,FEET,73.2,DEGREES F,,
+08/10/2015,20,FEET,65.6,DEGREES F,,
+08/10/2015,25,FEET,55.2,DEGREES F,,
+08/10/2015,30,FEET,50.7,DEGREES F,,
+08/10/2015,35,FEET,47.6,DEGREES F,,
+08/10/2015,40,FEET,45.1,DEGREES F,,
+08/10/2015,45,FEET,44.6,DEGREES F,,
+09/10/2015,1,FEET,69.2,DEGREES F,,
+09/10/2015,5,FEET,68.3,DEGREES F,,
+09/10/2015,10,FEET,67.8,DEGREES F,,
+09/10/2015,15,FEET,67.4,DEGREES F,,
+09/10/2015,20,FEET,66.5,DEGREES F,,
+09/10/2015,25,FEET,58.4,DEGREES F,,
+09/10/2015,30,FEET,51.2,DEGREES F,,
+09/10/2015,35,FEET,47.6,DEGREES F,,
+09/10/2015,40,FEET,45.8,DEGREES F,,
+09/10/2015,45,FEET,45.3,DEGREES F,,
+10/19/2015,1,FEET,53.6,DEGREES F,,
+10/19/2015,5,FEET,53.4,DEGREES F,,
+10/19/2015,10,FEET,53.4,DEGREES F,,
+10/19/2015,15,FEET,53,DEGREES F,,
+10/19/2015,20,FEET,52.8,DEGREES F,,
+10/19/2015,25,FEET,52.7,DEGREES F,,
+10/19/2015,30,FEET,51.8,DEGREES F,,
+10/19/2015,35,FEET,47.6,DEGREES F,,
+10/19/2015,40,FEET,45.8,DEGREES F,,
+10/19/2015,45,FEET,45.3,DEGREES F,,
+06/22/2016,5,FEET,73.5,DEGREES F,,
+06/22/2016,10,FEET,72.3,DEGREES F,,
+06/22/2016,15,FEET,62,DEGREES F,,
+06/22/2016,20,FEET,52.8,DEGREES F,,
+06/22/2016,25,FEET,48.2,DEGREES F,,
+06/22/2016,30,FEET,45.3,DEGREES F,,
+06/22/2016,35,FEET,44,DEGREES F,,
+06/22/2016,40,FEET,43.3,DEGREES F,,
+06/22/2016,45,FEET,43.1,DEGREES F,,
+08/01/2016,5,FEET,77.3,DEGREES F,,
+08/01/2016,10,FEET,76.4,DEGREES F,,
+08/01/2016,15,FEET,73.2,DEGREES F,,
+08/01/2016,20,FEET,61.5,DEGREES F,,
+08/18/2016,5,FEET,76.8,DEGREES F,,
+08/18/2016,10,FEET,75.4,DEGREES F,,
+08/18/2016,15,FEET,73,DEGREES F,,
+08/18/2016,20,FEET,62,DEGREES F,,
+08/18/2016,25,FEET,54,DEGREES F,,
+08/18/2016,30,FEET,49.1,DEGREES F,,
+08/18/2016,35,FEET,46,DEGREES F,,
+08/18/2016,40,FEET,45.8,DEGREES F,,
+10/23/2016,5,FEET,54.3,DEGREES F,,
+10/23/2016,10,FEET,54,DEGREES F,,
+10/23/2016,15,FEET,53.9,DEGREES F,,
+10/23/2016,20,FEET,53.7,DEGREES F,,
+10/23/2016,25,FEET,53.6,DEGREES F,,
+10/23/2016,30,FEET,51.4,DEGREES F,,
+10/23/2016,35,FEET,47.6,DEGREES F,,
+10/23/2016,40,FEET,45.6,DEGREES F,,
+06/16/2017,5,FEET,73.1,DEGREES F,,
+06/16/2017,10,FEET,72.5,DEGREES F,,
+06/16/2017,15,FEET,61.8,DEGREES F,,
+06/16/2017,20,FEET,52.5,DEGREES F,,
+06/16/2017,25,FEET,48.5,DEGREES F,,
+06/16/2017,30,FEET,45.2,DEGREES F,,
+06/16/2017,35,FEET,44.5,DEGREES F,,
+07/04/2017,5,FEET,73.4,DEGREES F,,
+07/04/2017,10,FEET,72.6,DEGREES F,,
+07/21/2017,5,FEET,77.3,DEGREES F,,
+07/21/2017,10,FEET,76.8,DEGREES F,,
+07/21/2017,15,FEET,73.5,DEGREES F,,
+07/21/2017,20,FEET,61.6,DEGREES F,,
+08/08/2017,5,FEET,73.2,DEGREES F,,
+08/08/2017,10,FEET,72.1,DEGREES F,,
+08/08/2017,15,FEET,76.9,DEGREES F,,
+08/08/2017,20,FEET,71,DEGREES F,,
+08/08/2017,25,FEET,60.8,DEGREES F,,
+08/08/2017,30,FEET,54.7,DEGREES F,,
+08/08/2017,35,FEET,49.6,DEGREES F,,
+08/08/2017,40,FEET,47.6,DEGREES F,,
+08/08/2017,45,FEET,45.3,DEGREES F,,
+08/18/2017,5,FEET,71.4,DEGREES F,,
+08/18/2017,10,FEET,69.5,DEGREES F,,
+08/18/2017,15,FEET,68.9,DEGREES F,,
+08/18/2017,20,FEET,62.1,DEGREES F,,
+08/18/2017,25,FEET,55.6,DEGREES F,,
+08/18/2017,30,FEET,49.9,DEGREES F,,
+08/18/2017,35,FEET,47.3,DEGREES F,,
+08/18/2017,40,FEET,45.6,DEGREES F,,
+08/18/2017,45,FEET,45.5,DEGREES F,,
+08/29/2017,5,FEET,69.5,DEGREES F,,
+08/29/2017,10,FEET,68.7,DEGREES F,,
+08/29/2017,15,FEET,68.3,DEGREES F,,
+08/29/2017,20,FEET,63.6,DEGREES F,,
+08/29/2017,25,FEET,55.7,DEGREES F,,
+08/29/2017,30,FEET,50.3,DEGREES F,,
+08/29/2017,35,FEET,50.3,DEGREES F,,
+08/29/2017,40,FEET,45.8,DEGREES F,,
+08/29/2017,45,FEET,45.3,DEGREES F,,
+09/19/2017,5,FEET,68.7,DEGREES F,,
+09/19/2017,10,FEET,68.3,DEGREES F,,
+09/19/2017,15,FEET,67.4,DEGREES F,,
+09/19/2017,20,FEET,65.8,DEGREES F,,
+09/19/2017,25,FEET,63.8,DEGREES F,,
+09/19/2017,30,FEET,59.2,DEGREES F,,
+09/19/2017,35,FEET,50.9,DEGREES F,,
+09/19/2017,40,FEET,47.8,DEGREES F,,
+09/19/2017,45,FEET,47.6,DEGREES F,,
+10/20/2017,5,FEET,56.4,DEGREES F,,
+10/20/2017,10,FEET,56.1,DEGREES F,,
+10/20/2017,15,FEET,56.1,DEGREES F,,
+10/20/2017,20,FEET,55.9,DEGREES F,,
+10/20/2017,25,FEET,55.5,DEGREES F,,
+10/20/2017,30,FEET,53,DEGREES F,,
+10/20/2017,35,FEET,48.7,DEGREES F,,
+10/20/2017,40,FEET,46.4,DEGREES F,,
+10/20/2017,45,FEET,45.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/04/2014,Beautiful summer day- ait temperature 68 with light wind and ripples on lake.  Three loons and four kayaks on lake.  Loren + David Gaie helped with data collection.
+07/18/2014,Sunny day- air temp. 72 with light wind and small ripples on lake.  Three loons on lake being harassed by a bald eagle. Green dragon fly kept landing on the monitoring form.  Lake level of 14.5 is measured in INCHES.
+07/28/2014,Hazy bright day- no wind and no ripples on lake.  Mature loon watched monitoring 20 feet from boat.  
+08/07/2014,Bright sun- no wind no waves.  Two adult loons took off and did the usual three circles of the lake gaining altitude on each pass until they are high enough to clear the trees and be on their way.  
+08/27/2014,Part sun- air temp 70 degree and no wind- lake calm.  1 3/4 inch rain in the last few days.  Lake level is in INCHES.
+09/14/2014,Bright sunny day- air temp. 72 light wind and ripples on the lake.  Leaves are starting to change color.  No loons for the last couple of weeks. Several inches of rain in the last few weeks- water level rose to 18.75 inches.  This is the highest it's been all summer. 
+10/08/2014,Sunny and windy day.  Beautiful fall colors but not yeat at their peak.  Two otters in the lake.
+10/24/2014,Bright sunny day- light breeze wit ripples on the water.  Pulled the buoy marking the deep hole.  Heavy algae coating on  buoy and first 12 feet of rope- medium coating next 15 feet of rope and the remainder of the rope and anchor  were completely algae free.
+05/24/2015,hazy overcast day- no wind lake surface smooth- 1 boat fishing- 2 loons on water
+06/12/2015,bright sun- some ripples on lake-  2 loons
+06/27/2015,perfect summer day- no wind lake surface smooth-  Saturday and not a boat on the lake- 3 loons and a heron walking the shore looking for a meal
+07/15/2015,overcast- slight breeze and ripples on lake surface-  4 loons on lake- bald eagle sent loons diving for cover
+08/10/2015,sunny- slight breeze with ripples on lake- no boats no birds on lake
+09/10/2015,sunny with a slight breeze and ripples on the lake- no boats- no loons- 2 bald eagles circling above
+
+
+
+
+Start Date,Group Name,Project Name
+05/12/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+05/17/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+05/25/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/11/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/23/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+07/04/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+07/18/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+07/28/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/07/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/27/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/27/2014,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2014
+09/14/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+10/08/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+10/24/2014,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+04/28/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+05/24/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/12/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/27/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/30/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+07/15/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/09/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/10/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+09/10/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+09/14/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+10/19/2015,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+04/27/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/06/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/22/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/01/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/18/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/31/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/31/2016,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2016
+10/23/2016,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+04/24/2017,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2014
+06/14/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+06/16/2017,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2014
+07/04/2017,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2014
+07/21/2017,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2014
+08/08/2017,Robert Gaie,Citizen Lake Monitoring Network QA/QC - 2014
+08/09/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/18/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+08/29/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+09/13/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+09/19/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center
+10/20/2017,Robert Gaie,Citizen Lake Monitoring - Water Quality - Deadman Lake - Center

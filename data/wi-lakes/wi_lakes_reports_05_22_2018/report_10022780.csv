@@ -1,0 +1,279 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Koshkonong,Jefferson,808700,SC,28,,10022780,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188654,08/23/1999,1,,0.3,69,288,77,72,67,,,,,
+8188531,08/29/2001,1.1,NO,0.3,112,719,76,79,70,,,,,
+8188774,05/04/2004,,,,,250,,71,,,,,,
+7000129,07/23/2004,,,,,,,,,,,,,
+8191193,07/23/2004,2.5,NO,0.8,,,64,,,,,MURKY,BROWN,
+7000129,08/27/2004,,,,72.8,,,,67,,,,,
+8188676,08/27/2004,1.5,NO,0.5,,,71,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188774,10/01/2004,1.5,NO,0.5,37.1,260,71,71,62,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191194,05/22/2006,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191194,07/17/2006,1025,NO,311.6,,,-23,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/03/2006,,,,266,492,,76,77,,,,,
+8188676,08/03/2006,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191194,08/30/2006,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+28451921,05/25/2007,0.6,NO,0.2,,245,84,71,,,,,,
+7000097,07/25/2007,1.1,NO,0.3,56.4,419,76,75,65,,,,,
+10589249,08/21/2007,1,NO,0.3,117,223,77,70,71,,,,,
+7000097,05/05/2008,2,,0.6,,,67,,,,,,,
+7000097,07/16/2008,1.5,NO,0.5,45.5,335,71,73,64,HIGH,11.70,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17824623,08/13/2008,1.8,NO,0.5,41.3,,69,,63,,,,,
+7000097,09/19/2008,1.5,,0.5,131,291,71,72,72,,,,,
+7000097,07/22/2009,1,,0.3,152,379,77,74,73,,,,,
+7000097,08/24/2009,1,,0.3,292,445,77,75,78,,,,,
+7000097,10/01/2009,0.9,NO,0.3,158,457,79,76,73,,,,,
+7000097,07/26/2010,1.5,,0.5,105,287,71,72,70,,,,,
+17824623,07/19/2011,,,,246,378,,74,76,,,,,
+47824287,07/19/2011,1.3,NO,0.4,,,73,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+17824623,08/09/2011,,,,270,739,,79,77,,,,,
+47824287,08/09/2011,0.8,NO,0.25,,,80,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17824623,09/09/2011,,,,37.7,426,,75,62,,,,,
+47824287,09/09/2011,1.6,NO,0.5,,,70,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+48061369,04/30/2013,2.7,N,0.8,,72.4,63,61,,,,,,
+62803480,07/16/2013,,,,244,353,,74,76,,,,,
+82788363,07/16/2013,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+62803480,08/08/2013,2.5,NO,0.8,61,305,64,72,66,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+82788363,08/27/2013,1.08,NO,0.3,200,384,76,74,75,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99385750,05/28/2014,,,,,73.2,,61,,,,,,
+99674730,05/28/2014,,NO,,,,,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99385750,07/23/2014,,NO,,67.9,228,,70,67,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99385750,08/18/2014,,,,69.5,376,,74,67,,,,,
+99674730,08/18/2014,1.75,NO,0.5,,,69,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+99385750,09/26/2014,1,NO,0.3,105,372,77,74,70,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99385750,05/28/2015,4,NO,1.2,,169,57,68,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+99385750,07/07/2015,,,,269,7.82,,44,77,,,,,
+99674730,07/07/2015,1.3,NO,0.4,,,73,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+89214715,07/08/2015,,,,164,252,,71,73,,,,,
+99385750,08/06/2015,,,,60.2,316,,73,66,,,,,
+99674730,08/06/2015,0.82,NO,0.2,,,80,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+81193662,09/09/2015,,,,4.48,368,,74,46,,,,,
+99567185,09/09/2015,4.10105,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+81193662,06/03/2016,,,,,168,,68,,,,,,
+129241713,06/03/2016,2.8,NO,0.9,,,62,,,LOW,6.26,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+81193662,07/26/2016,,,,51.3,336,,73,65,,,,,
+131162509,07/27/2016,0.8,NO,0.2,,,80,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+81193662,08/10/2016,,,,217,414,,75,75,,,,,
+131294650,08/10/2016,0.9,NO,0.3,,,79,,,,,MURKY,,4-Would not swim but boating OK (algae)
+129241713,08/24/2016,0.75,NO,0.2,376,605,81,78,80,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+145143798,06/07/2017,3.83,NO,1.2,,,58,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+145143798,07/17/2017,2,NO,0.6,71.6,238,67,71,67,HIGH,,CLEAR,,
+145143798,07/31/2017,,,,151,289,,72,73,,,,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/23/1999,1.64,FEET,,,8.4,MG/L
+08/23/1999,,,21.7,C,8.4,MG/L
+08/29/2001,6,FEET,,,10.4,MG/L
+08/29/2001,,,23.9,C,10.4,MG/L
+07/23/2004,0,FEET,24.8,DEGREES C,8.6,MG/L
+07/23/2004,3,FEET,24.7,DEGREES C,8.4,MG/L
+07/23/2004,6,FEET,24.6,DEGREES C,7.9,MG/L
+07/23/2004,7.5,FEET,24.4,DEGREES C,2.1,MG/L
+08/27/2004,0,FEET,23.4,DEGREES C,8.7,MG/L
+08/27/2004,3,FEET,23.3,DEGREES C,8.6,MG/L
+08/27/2004,6,FEET,23,DEGREES C,5.2,MG/L
+08/27/2004,7.5,FEET,22.9,DEGREES C,3.5,MG/L
+08/27/2004,,,23.4,C,8.7,MG/L
+10/01/2004,0,FEET,17,DEGREES C,6,MG/L
+10/01/2004,3,FEET,17,DEGREES C,4.7,MG/L
+10/01/2004,4.5,FEET,17,DEGREES C,4.5,MG/L
+05/22/2006,1,FEET,67.3,DEGREES F,,
+05/22/2006,2,FEET,61.9,DEGREES F,,
+05/22/2006,3,FEET,60.2,DEGREES F,19.9,MG/L
+05/22/2006,4,FEET,60,DEGREES F,16.2,MG/L
+05/22/2006,5,FEET,60,DEGREES F,14.8,MG/L
+05/22/2006,6,FEET,59.9,DEGREES F,14.5,MG/L
+05/22/2006,7,FEET,59.7,DEGREES F,4.1,MG/L
+05/22/2006,8,FEET,59.9,DEGREES F,6.9,MG/L
+07/17/2006,1,FEET,23.8,DEGREES C,10.3,MG/L
+07/17/2006,3,FEET,23.5,DEGREES C,6.1,MG/L
+07/17/2006,4.5,FEET,23.4,DEGREES C,5.3,MG/L
+07/17/2006,6,FEET,23.4,DEGREES C,.2,MG/L
+08/03/2006,0,METERS,27.6,DEGREES C,5.7,MG/L
+08/03/2006,1,METERS,27.6,DEGREES C,5,MG/L
+08/03/2006,2,METERS,27.6,DEGREES C,2,MG/L
+08/30/2006,0,METERS,21.8,DEGREES C,9.6,MG/L
+08/30/2006,1,METERS,21.8,DEGREES C,9.6,MG/L
+08/30/2006,2,METERS,21.8,DEGREES C,5.6,MG/L
+05/25/2007,,,20.2,C,5.9,MG/L
+07/25/2007,,,25.3,C,5.8,MG/L
+08/21/2007,,,20.2,C,6.8,MG/L
+05/05/2008,,,14.4,C,19.0,MG/L
+07/16/2008,0.5,METERS,25.1,DEGREES C,17.5,MG/L
+07/16/2008,1,METERS,24.3,DEGREES C,16.5,MG/L
+07/16/2008,2,METERS,24.1,DEGREES C,14.6,MG/L
+07/16/2008,3,METERS,24,DEGREES C,13.3,MG/L
+07/16/2008,3.2,METERS,24,DEGREES C,10.2,MG/L
+07/16/2008,,,24.1,C,14.6,MG/L
+08/13/2008,,,23.2,C,7.6,MG/L
+09/19/2008,,,18.7,C,11.7,MG/L
+07/22/2009,,,20.6,C,9.7,MG/L
+08/24/2009,,,21.9,C,12.3,MG/L
+10/01/2009,,,12.9,C,10.5,MG/L
+07/26/2010,,,27.5,C,18.7,MG/L
+08/09/2011,0,METERS,26.4,DEGREES C,8.4,MG/L
+08/09/2011,0.5,METERS,26.4,DEGREES C,8.4,MG/L
+08/09/2011,1,METERS,26.4,DEGREES C,8.4,MG/L
+09/09/2011,0,FEET,21,DEGREES C,6.72,MG/L
+09/09/2011,1,FEET,21.2,DEGREES C,6.72,MG/L
+09/09/2011,2,FEET,21,DEGREES C,6.76,MG/L
+09/09/2011,3,FEET,20.7,DEGREES C,6.52,MG/L
+09/09/2011,4,FEET,20.3,DEGREES C,5.74,MG/L
+09/09/2011,5,FEET,19.9,DEGREES C,3.4,MG/L
+07/16/2013,0,METERS,30.8,DEGREES C,18.94,MG/L
+07/16/2013,1,METERS,27.84,DEGREES C,12.05,MG/L
+07/16/2013,2,METERS,26.6,DEGREES C,5.91,MG/L
+08/08/2013,0,METERS,26.3,DEGREES C,9.09,MG/L
+08/08/2013,1,METERS,25.6,DEGREES C,6.5,MG/L
+08/08/2013,2,METERS,24.9,DEGREES C,4.4,MG/L
+08/27/2013,0,METERS,26.6,DEGREES C,8.33,MG/L
+08/27/2013,1,METERS,26.4,DEGREES C,8.43,MG/L
+08/27/2013,2,METERS,25.9,DEGREES C,4.9,MG/L
+05/28/2014,0,METERS,22.7,DEGREES C,7.44,MG/L
+05/28/2014,1,METERS,23.4,DEGREES C,7.3,MG/L
+05/28/2014,2,METERS,22.5,DEGREES C,6.9,MG/L
+07/23/2014,0,METERS,26.1,DEGREES C,8.89,MG/L
+07/23/2014,1,METERS,25.9,DEGREES C,8.85,MG/L
+08/18/2014,0,METERS,25.4,DEGREES C,9.79,MG/L
+08/18/2014,1,FEET,25,DEGREES F,9.45,MG/L
+09/26/2014,0,METERS,14.49,DEGREES C,18.8,MG/L
+05/28/2015,0,METERS,21.9,DEGREES C,9.27,MG/L
+05/28/2015,1,METERS,21,DEGREES C,8.95,MG/L
+05/28/2015,2,METERS,20.5,DEGREES C,7.94,MG/L
+08/06/2015,0,METERS,24.2,DEGREES C,7.54,MG/L
+08/06/2015,1,METERS,24.1,DEGREES C,6.38,MG/L
+09/09/2015,0,METERS,24.3,DEGREES C,6.48,MG/L
+09/09/2015,1,METERS,24.2,DEGREES C,6.4,MG/L
+06/03/2016,0,METERS,23.6,DEGREES C,7.53,MG/L
+06/03/2016,1,METERS,23.4,DEGREES C,7.38,MG/L
+07/27/2016,0,METERS,28.6,DEGREES C,16.35,MG/L
+07/27/2016,1,METERS,27.8,DEGREES C,13.77,MG/L
+08/10/2016,0,METERS,27.5,DEGREES C,16.7,MG/L
+08/10/2016,1,METERS,26.2,DEGREES C,9.53,MG/L
+08/10/2016,1.5,METERS,25.4,DEGREES C,5.97,MG/L
+08/24/2016,0,METERS,23.1,DEGREES C,6.29,MG/L
+08/24/2016,1,METERS,23.1,DEGREES C,6.15,MG/L
+06/07/2017,0,METERS,25.8,DEGREES C,8.58,MG/L
+06/07/2017,1,METERS,23.3,DEGREES C,9.65,MG/L
+06/07/2017,2,METERS,22.5,DEGREES C,8.79,MG/L
+07/17/2017,0,METERS,26.5,DEGREES C,13,MG/L
+07/17/2017,1,METERS,23.9,DEGREES C,8.96,MG/L
+07/17/2017,2,METERS,23.8,DEGREES C,7.57,MG/L
+07/31/2017,0,METERS,26,DEGREES C,,
+07/31/2017,1,METERS,25.9,DEGREES C,,
+07/31/2017,2,METERS,25.4,DEGREES C,,
+
+
+
+Start Date,Fieldwork Comment
+08/29/2001,DEEP HOLE    
+05/04/2004,DEEP HOLE OFF SOUTH SHORE    
+07/23/2004,DEEP HOLE OFF SOUTH SHORE    
+08/27/2004,DEEP HOLE    
+10/01/2004,DEEP HOLE - INTEGRATED SURFACE SAMPLE    
+07/17/2006,overcast- calm- midge larvae exuvae on water surface
+08/03/2006,rain this a.m.; 10% cloud cover; white caps
+08/30/2006,white caps- midge exuvae all over water surface- small planktonic algae visible
+07/16/2008,Lake Koshkonong was sampled on 7/16/2008 by Michael Sorge and Cami Peterson.  Water levels on the lake are or were still 2-3 feet higher than normal due to the rainfall in June and July.  Air temp was 79degree F- winds were 5-7mph WSW.  Cloud cover was 80%- humidity was high.  Water was clear with some blue green algae present.  Secchi Depth was 1.5 feet.
+08/13/2008,Mostly sunny- 75 degrees F.
+Water depth: 5.4 feet.
+Secchi disk: 1.8 feet
+Water level is still slightly high for this time of year.  Water is green and murky- with some filamentous algae.
+08/09/2011,extremely high winds and large waves made it very difficult to get an accurate temp/DO profile reading. We were only able to get a 1m integrated sample for phosphorus and chlorophyll due to shallow depth and large waves.
+04/30/2013,corrected air temperature units to F- and added data collector on 12/27/2013 SG
+07/16/2013,Cloud cover about 50%; Wind 5mph; Air temp 89F; Heavy algal bloom- like grass clippings in single pieces and clumps. 
+08/27/2013,Air temp 88F- wind 12mph; Algal bloom throughout lakefrom boat launch to area sampled.Cloudcover was thin and wispy- water was rough with whitecaps. It was difficult to judge depth due to boat bouncing in waves. 
+05/28/2014,lake levels normal to slightly high. Pelicans flying overhead. Cloud cover 40%- Wind 3mph. Air temperature 63F. 
+07/23/2014,Cloud cover 75%. Winds 15mph. Air 75F. Algae that looks like grass clippings present. 
+08/18/2014,Clouds 75%. Wind 5-7mph. Air temp 80. Grass clipping algae present. Seemed that water levels were low - difficultly finding deep hole (or even a hole deep enough to put down the 2m integrated sampler). 
+09/26/2014,Difficult to find 6ft depth. Volunteer: Dan Aragon. Tons of algae in water. Cloud cover 0%. Wind 0-3mph. Air temp 72F. 
+05/28/2015,Ron Anderson (CLMN volunteer) assisted. Beautiful weather- sunny- clear- very busy boat landing. About 78F. 50% cloud cover- wind 0-5mph. Water meal present. 
+07/07/2015,Smoke from Canada! 
+Blue green algae (grass clipping one) present. Whitecaps. Clouds 95%- wind 10-15mph- air temp 65F. No profiles taken- too rough for probe to stabilize. 
+08/06/2015,30% cloud cover- wind 0-5mph. Air approx. 70F. Lake very low and murky. 
+09/09/2015,Clarity was unbelievable. We could see to the bottom easily from the boat launch until we got beyond depths of 3 plus feet. Beautiful clear weather (cloud cover 20%) with very light breeze (about 3mph). Air temp not recorded but comfortable warm. We couldn't find a depth at 6' or greater so used the Van Dorn sampler.
+06/03/2016,Surprising number of boats for a Friday morning; lot nearly full
+Cloud cover:  60%
+wind speed:  9 mph south
+Air temp:  75 degrees F
+Visible- but no clumping algae
+07/27/2016,Cloud cover 10%- Wind 2mph- air temp 84 F Cloud cover 10%- Wind 2mph- air temp 84 F; Water sample was by hand grab. DO meter not calibrated before monitoring.
+Spiny waterflea sample was collected with Ekman dredge method. 6 aliquots examined - sample was primarily very fine sediments that passed through sieve- with few plant fragments and little organic debris.
+08/10/2016,Hand grab water sample at 1 foot. Depth 6 feet at sample site.DO meter not calibrated before monitoring
+08/24/2016,Sample depth 0-2 meters with integrated sampler (1 meter) Data Collector: Kevin Olson with Rebecca Williams Secchi depth was 9 inches Depth 6'7" at 42.87824- -88.95778 updated by Jeanne Scherer on 12/272016 
+07/17/2017,Additional collector: Kevin Olson
+07/31/2017,No DO profile due to meter reading negative values
+Collectors: Amanda Smith- Kevin Olson
+
+
+
+
+Start Date,Group Name,Project Name
+08/23/1999,Jim Leverance and Mike Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+08/29/2001,Spohn/Leverance,Lake Baseline Monitoring- DNR (1970s-2006)
+05/04/2004,Jon Simonsen,Lake Baseline Monitoring- DNR (1970s-2006)
+07/23/2004,Carl Molter and Donna Sefton,Lakes Baseline and Trends Monitoring
+07/23/2004,Susan Graham,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/2004,Carl Molter,Lakes Baseline and Trends Monitoring
+08/27/2004,Susan Graham,Lake Baseline Monitoring- DNR (1970s-2006)
+10/01/2004,Jon Simonsen,Lake Baseline Monitoring- DNR (1970s-2006)
+05/22/2006,Donna Sefton,Lakes Long Term Trend Monitoring (1986-present)
+07/17/2006,Donna Sefton,Lakes Long Term Trend Monitoring (1986-present)
+08/03/2006,Carl Molter,Lakes Long Term Trend Monitoring (1986-present)
+08/03/2006,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/30/2006,Donna Sefton,Lakes Long Term Trend Monitoring (1986-present)
+05/25/2007,AMRHEIN- JAMES and DANIELLE ANHOLZER,SCR Long-Term Trend Lakes
+07/25/2007,MICHAEL SORGE,SCR Long-Term Trend Lakes
+08/21/2007,Danielle Santry,SCR Long-Term Trend Lakes
+05/05/2008,MICHAEL SORGE,SCR Long-Term Trend Lakes
+07/16/2008,MICHAEL SORGE,SCR Long-Term Trend Lakes
+08/13/2008,AMRHEIN- JAMES,SCR Long-Term Trend Lakes
+09/19/2008,MICHAEL SORGE,SCR Long-Term Trend Lakes
+07/22/2009,MICHAEL SORGE,SCR Long-Term Trend Lakes
+08/24/2009,MICHAEL SORGE,SCR Long-Term Trend Lakes
+10/01/2009,MICHAEL SORGE,SCR Long-Term Trend Lakes
+07/26/2010,MICHAEL SORGE,SCR Long-Term Trend Lakes
+07/19/2011,AMRHEIN- JAMES,SCR Long-Term Trend Lakes
+07/19/2011,Tina Wolbers and Michelle Balk,SCR Long-Term Trend Lakes
+08/09/2011,AMRHEIN- JAMES,
+08/09/2011,Tina Wolbers and Michelle Balk,SCR Long-Term Trend Lakes
+09/09/2011,AMRHEIN- JAMES,
+09/09/2011,Tina Wolbers and Michelle Balk,SCR Long-Term Trend Lakes
+04/30/2013,JAMES CARLSON,SCR Long-Term Trend Lakes
+07/16/2013,CODY REBISCHKE,SCR Long-Term Trend Lakes
+07/16/2013,Cody Rebischke and Jeanne Scherer,SCR Long-Term Trend Lakes
+08/08/2013,CODY REBISCHKE,SCR Long-Term Trend Lakes
+08/27/2013,Cody Rebischke and Jeanne Scherer,SCR Long-Term Trend Lakes
+05/28/2014,Jeanne S Scherer- Katrina V Punzel,SCR Long-Term Trend Lakes
+05/28/2014,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+07/23/2014,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+08/18/2014,Jeanne S Scherer- Katrina V Punzel,SCR Long-Term Trend Lakes
+08/18/2014,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+09/26/2014,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+05/28/2015,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+07/07/2015,Jeanne S Scherer- Katrina V Punzel,SCR Long-Term Trend Lakes
+07/07/2015,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+07/08/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+08/06/2015,Jeanne S Scherer- Katrina V Punzel,SCR Long-Term Trend Lakes
+08/06/2015,KATRINA PUNZEL,SCR Long-Term Trend Lakes
+09/09/2015,JEANNE SCHERER,SCR Long-Term Trend Lakes
+09/09/2015,Jeanne S Scherer- Susan Graham,SCR Long-Term Trend Lakes
+06/03/2016,JEANNE SCHERER,SCR Long-Term Trend Lakes
+06/03/2016,REBECCA WILLIAMS,SCR Long-Term Trend Lakes
+07/26/2016,JEANNE SCHERER,SCR Long-Term Trend Lakes
+07/27/2016,ALISON M KUHNE- REBECCA E WILLIAMS,SCR Long-Term Trend Lakes
+08/10/2016,JEANNE SCHERER,SCR Long-Term Trend Lakes
+08/10/2016,Susan Graham- REBECCA E WILLIAMS,SCR Long-Term Trend Lakes
+08/24/2016,REBECCA WILLIAMS,SCR Long-Term Trend Lakes
+06/07/2017,AMANDA SMITH,SCR Long-Term Trend Lakes
+07/17/2017,AMANDA SMITH,SCR Long-Term Trend Lakes
+07/31/2017,AMANDA SMITH,SCR Long-Term Trend Lakes

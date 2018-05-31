@@ -1,0 +1,97 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fox Lake,Iron,1849500,NO,26,,10020985,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/08/2007,9,NO,2.75,3.23,12,45,47,44,,,,,
+32098932,04/28/2009,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+32098932,06/02/2009,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+32098932,04/26/2010,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+32098932,05/25/2010,6.5,NO,2,,,50,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+32098932,09/01/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,05/04/2011,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,06/01/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+18138766,07/29/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+32098932,04/17/2012,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+32098932,05/31/2012,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+32098932,08/03/2012,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188687,04/27/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+31973315,04/29/2016,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+31973315,06/02/2016,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+31973315,08/22/2016,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/08/2007,0.5,METERS,23.6,DEGREES C,8.2,MG/L
+08/08/2007,1,METERS,23.6,DEGREES C,8.5,MG/L
+08/08/2007,2,METERS,23.5,DEGREES C,8.1,MG/L
+08/08/2007,3,METERS,22.8,DEGREES C,7.3,MG/L
+08/08/2007,4,METERS,19.1,DEGREES C,3.3,MG/L
+08/08/2007,5,METERS,13.4,DEGREES C,0.4,MG/L
+08/08/2007,6,METERS,9.5,DEGREES C,0.4,MG/L
+08/08/2007,6.5,METERS,8.9,DEGREES C,0.4,MG/L
+04/28/2009,3,FEET,48,DEGREES F,8,MG/L
+06/02/2009,3,FEET,55,DEGREES F,7,MG/L
+04/26/2010,3,FEET,57,DEGREES F,10,MG/L
+05/25/2010,3,FEET,72,DEGREES F,7.7,MG/L
+09/01/2010,3,FEET,25,DEGREES C,7.6,MG/L
+05/04/2011,3,FEET,47,DEGREES F,10.18,MG/L
+06/01/2011,3,FEET,60,DEGREES F,8.63,MG/L
+07/29/2011,3,FEET,25.2,DEGREES C,7.02,MG/L
+04/17/2012,3,FEET,46,DEGREES F,10.17,MG/L
+05/31/2012,3,FEET,63.7,DEGREES F,7.27,MG/L
+08/03/2012,3,FEET,77.7,DEGREES F,7.19,MG/L
+04/27/2015,2,FEET,10.7,DEGREES C,9.41,MG/L
+04/29/2016,1,FEET,10.3,DEGREES C,9.34,MG/L
+04/29/2016,3,FEET,9.5,DEGREES C,9.24,MG/L
+04/29/2016,6,FEET,9.3,DEGREES C,9.17,MG/L
+04/29/2016,9,FEET,9.2,DEGREES C,.83,MG/L
+06/02/2016,1,FEET,65.3,DEGREES F,8,MG/L
+08/22/2016,1,FEET,74,DEGREES F,9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+04/28/2009,Placed loon platform- pair of loons already on lake.\
+pH - 6.5
+Macroinvertebrates collected:
+mayfly larvae
+pouch snail
+scud
+06/02/2009,Loon on nest- 2 loons present- defending nest - normal behavior- black flies present- 2 eggs
+Students learned about invasive species as it is invasive species awareness month.  Learned about shoreland buffers and took transect of vegetation cover percentages (Canopy- Shurb- Groundcover) shoreline-upland.
+pH - 7
+04/26/2010,Sunny- slight breeze- 60 degrees- trees are budding some leafing out.  Ground is dry snow has been gone for about  a month.  Green grass already!  2 loons present.  Macro invertebrates collected include mayfly larva- whirligig beetle- caddisfly larva- midge larva- scud- back swimmer- pouch snail- daphnia and dragonfly nymph.
+09/01/2010,Removed nesting platform- aquatic plants collected included soft stemmed bulfush- floating bur-reed- water celery- common bladderwort- whitestem pondweed- bushy pondweed- spadderdock.
+05/04/2011,pH - 7.39
+06/01/2011,pH - 7.0
+07/29/2011,pH probe was broke- so was not taken.
+04/17/2012,pH- 7
+05/31/2012,pH - 7.78
+08/03/2012,pH- 6.98
+
+
+
+
+Start Date,Group Name,Project Name
+08/08/2007,Data Collectors,National Lake Survey - Index Sampling
+04/28/2009,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+06/02/2009,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+04/26/2010,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+05/25/2010,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+09/01/2010,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+05/04/2011,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+06/01/2011,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+07/29/2011,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+04/17/2012,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+05/31/2012,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+08/03/2012,Mercer School- Palmquist,Citizen Lake Monitoring - Water Quality - Mercer School
+04/27/2015,Zach Wilson,Citizen Lake Monitoring - Water Quality - Mercer School
+04/29/2016,Mercer School,Citizen Lake Monitoring - Water Quality - Mercer School
+06/02/2016,Mercer School,Citizen Lake Monitoring - Water Quality - Mercer School
+08/22/2016,Mercer School,Citizen Lake Monitoring - Water Quality - Mercer School

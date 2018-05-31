@@ -1,0 +1,44 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sand Lake,Barron,2661100,NO,3,,10034770,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+17814922,05/25/2012,,,,,68,,61,,,,,,
+37195466,04/26/2013,,,,,343,,73,,,,,,
+17814922,05/16/2015,,,,,32.3,,55,,,,,,
+17814922,06/26/2015,,,,,65.1,,60,,,,,,
+17814922,07/16/2015,,,,,79.4,,62,,,,,,
+17814922,08/23/2015,,,,,76.5,,62,,,,,,
+17814922,09/17/2015,,,,,313,,73,,,,,,
+17814922,10/20/2015,,,,,58.1,,60,,,,,,
+8188959,03/31/2016,,,,,214,,70,,,,,,
+8188959,04/26/2016,,,,,178,,68,,,,,,
+1,08/22/2016,,,,,470,,76,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/25/2012,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: Sand Lake Comprehensive Management Planning Project
+04/26/2013,Jake Macholl,SAND LAKE MANAGEMENT DISTRICT: Sand Lake Comprehensive Management Planning Project
+05/16/2015,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+06/26/2015,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+07/16/2015,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+08/23/2015,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+09/17/2015,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+10/20/2015,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+03/31/2016,Dave Blumer,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+04/26/2016,Dave Blumer,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+08/22/2016,Data Collectors,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project

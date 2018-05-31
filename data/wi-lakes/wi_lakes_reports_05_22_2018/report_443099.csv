@@ -1,0 +1,167 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fourth Lake,Oneida,1572000,NO,44,,443099,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/17/1979,,,,,,,,,,,,,
+8191425,07/20/2005,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/05/2005,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/15/2005,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/30/2005,3,NO,0.9,,,61,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8191425,09/16/2005,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191425,10/08/2005,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191425,05/28/2006,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191425,06/20/2006,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/10/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/31/2006,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/21/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191425,09/03/2006,4.5,NO,1.4,,,55,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8191425,05/24/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,06/06/2007,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/02/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/26/2007,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191425,08/10/2007,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/31/2007,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+7000126,09/19/2007,,,,8.94,27,,54,51,,,,,
+8191425,06/08/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/10/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/05/2008,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191425,08/30/2008,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,06/24/2009,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/14/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/20/2009,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,08/15/2009,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,09/05/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191425,07/04/2010,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,
+8191425,07/26/2010,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,
+8191425,08/26/2010,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,
+8191425,06/05/2011,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,
+8191425,06/26/2011,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,
+8191425,07/09/2011,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,
+8191425,08/11/2011,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,
+8191425,08/20/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,
+64749497,05/19/2013,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,05/30/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,06/08/2013,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,06/22/2013,3.2,NO,1,,,60,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,08/10/2013,3.2,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,08/18/2013,3.2,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,09/14/2013,3.3,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,05/31/2014,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,04/28/2015,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,06/01/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,07/14/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138540,07/21/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+64749497,07/21/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,07/28/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+64749497,09/01/2015,,NO,,,,,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+64749497,05/10/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+64749497,06/15/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1979,,,23,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/17/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/20/2005,5" low water level; blue sky- puffy clouds- dry for last month-hot and dry. One boat    
+08/05/2005,8" low water level; blue- cloudless sky; 70F; one boat; observed loon; white lillies blooming    
+08/15/2005,10" low-water level; blue cloudless sky; 70F; one boat; white lillies still blooming    
+08/30/2005,9" low-water level; cloudy- breezy- 70F one fishing boat    
+09/16/2005,13" low water level- sunny- blue sky- 65F- one boat- sandy beaches and rocks showing on shoreline    
+10/08/2005,6" low water level- clear blue sky- 52F four fishing boats- calm    
+05/28/2006,hot humid- sunny day- minimal breeze- normal water level- 7 boats
+06/20/2006,cloudy- bright- light breeze- no boats- normal water level- need rain
+07/10/2006,sunny. light wind- four boats
+07/31/2006,hot humid- windy- wavy- one boat- big storm over weekend (rain)
+08/21/2006,moderate- quite windy- NW- partly cloudy- partly sunny- rain predicted
+09/03/2006,calm- mostly cloudy- partly sunny- 5 boats- labor day weekend
+05/24/2007,Clear- no boats- wind moderate
+06/06/2007,No boats- wind light- north
+07/02/2007,Overcast- cloudy- bright.  Slight wind from south.
+07/26/2007,1 boat- sunny.  Water level 2 inches down.
+08/10/2007,1 boat- sunny- puffy clouds.  Water level 8 inches down.
+08/31/2007,Sunny- blue sky.  Cumulus clouds.  2 boats.  Breezy.  Water level 14 inches down.
+06/08/2008,Cloudy- bright- 2 boats.  Calm. cloudy and bright. 2 boats- calm.
+07/10/2008,Sunny- breezy- 2 boats.
+08/05/2008,2 boats- bright sun- breezy
+08/30/2008,1 skier (powerboat)- blue skies.
+07/20/2009,1 motorboat- calm.
+08/15/2009,blue skies- puffy clouds. 80 degrees.
+09/05/2009,water level down 8-10 inches. Blue skies- puffy clouds. 3 boats- quiet.
+07/04/2010,Clear- windy. Busy lake activity.
+07/26/2010,Blue- puffy clouds. Slight breeze. One ski boat- 3 fishing boats.
+08/26/2010,Light wind. 65 degrees. Small- puffy clouds.
+06/05/2011,blue skys- few puffy clouds- 1 boat- quiet lake
+06/26/2011,blue sky -ceris clouds- warm- 1 fishing boat
+07/09/2011,warm- sunny- 2 fishing boats- 1 skier
+08/11/2011,cloudy- bright- calm- 1 fishing boat cloudy- bright- calm- 1 fishing boat
+08/20/2011,windy -breezy; cumulus clouds- bright sun- 2 fishing boats
+05/19/2013,overcast- calm.  1 pair of loons
+05/30/2013,stormy- windy- rainy day
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1979,Data Collectors,Migrated from STORET Legacy
+07/20/2005,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/05/2005,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/15/2005,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/30/2005,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+09/16/2005,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+10/08/2005,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+05/28/2006,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/20/2006,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/10/2006,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/31/2006,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/21/2006,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+09/03/2006,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+05/24/2007,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/06/2007,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/02/2007,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/26/2007,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/10/2007,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/31/2007,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+09/19/2007,STEVEN GREB,Dissolved Organic Carbon (DOC) Assessment for Remote Sensing 2007
+06/08/2008,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/10/2008,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/05/2008,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/30/2008,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/24/2009,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/14/2009,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/20/2009,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/15/2009,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+09/05/2009,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/04/2010,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/26/2010,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/26/2010,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/05/2011,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/26/2011,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/09/2011,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/11/2011,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/20/2011,Donna Gager,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+05/19/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+05/30/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/08/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/22/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/10/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+08/18/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+09/14/2013,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+05/31/2014,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+04/28/2015,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/01/2015,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/14/2015,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/21/2015,Crescent Lake Assn,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/21/2015,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+07/28/2015,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+09/01/2015,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+05/10/2016,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole
+06/15/2016,Nancy Sattler,Citizen Lake Monitoring - Water Quality - Fourth Lake; Deep Hole

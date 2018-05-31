@@ -1,0 +1,96 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fisher Lake,Iron,2307300,NO,26,,263043,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000017,05/21/1996,5,,1.5,14.1,21,54,52,55,,,,,
+1,08/22/1996,5,,1.5,22.3,20,54,51,58,,,,,
+7000017,04/13/2000,8.9,,2.7,,18,46,51,,,,,,
+7000017,06/13/2000,9.1,,2.8,3.1,15,45,49,43,,,,,
+7000017,07/20/2000,6.5,,2,7,23,50,52,50,,,,,
+7000017,08/09/2000,5.8,,1.8,8,23,52,52,51,,,,,
+18138766,04/25/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+66142112,06/29/2016,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,06/30/2016,,,,,,,,,,,,,
+66142112,07/24/2016,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+66142112,08/08/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+66142112,08/21/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,RED,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/21/1996,,,15.4,C,9.8,MG/L
+08/22/1996,,,20.2,C,2.4,MG/L
+06/13/2000,,,19.3,C,6.4,MG/L
+07/20/2000,,,19.9,C,2.4,MG/L
+08/09/2000,,,21.1,C,4.4,MG/L
+04/25/2016,1,FEET,48.5,DEGREES F,9.05,MG/L
+04/25/2016,3,FEET,48.5,DEGREES F,9.19,MG/L
+04/25/2016,6,FEET,48.5,DEGREES F,9.24,MG/L
+04/25/2016,12,FEET,48.5,DEGREES F,9.2,MG/L
+04/25/2016,15,FEET,48.3,DEGREES F,9.25,MG/L
+04/25/2016,18,FEET,43.3,DEGREES F,4.71,MG/L
+06/29/2016,1,FEET,75.2,DEGREES F,,
+06/29/2016,3,FEET,73.4,DEGREES F,,
+06/29/2016,6,FEET,70.3,DEGREES F,,
+06/29/2016,12,FEET,69.2,DEGREES F,,
+06/29/2016,15,FEET,59.1,DEGREES F,,
+06/29/2016,18,FEET,56.4,DEGREES F,,
+06/30/2016,1,FEET,,,7,MG/L
+06/30/2016,3,FEET,,,6.89,MG/L
+06/30/2016,6,FEET,,,6.69,MG/L
+06/30/2016,9,FEET,,,5.22,MG/L
+06/30/2016,12,FEET,,,4.24,MG/L
+06/30/2016,15,FEET,,,3.65,MG/L
+07/24/2016,1,FEET,26.1,DEGREES C,7.05,MG/L
+07/24/2016,3,FEET,25.7,DEGREES C,7.07,MG/L
+07/24/2016,6,FEET,25.3,DEGREES C,6.86,MG/L
+07/24/2016,9,FEET,24.2,DEGREES C,4.31,MG/L
+07/24/2016,12,FEET,22,DEGREES C,2.63,MG/L
+07/24/2016,15,FEET,21.1,DEGREES C,1.53,MG/L
+07/24/2016,16,FEET,21,DEGREES C,1.39,MG/L
+08/08/2016,1,FEET,77,DEGREES F,,
+08/08/2016,3,FEET,76.2,DEGREES F,,
+08/08/2016,6,FEET,73.7,DEGREES F,,
+08/08/2016,9,FEET,72.5,DEGREES F,,
+08/08/2016,12,FEET,71.7,DEGREES F,,
+08/08/2016,15,FEET,71.4,DEGREES F,,
+08/08/2016,18,FEET,70.7,DEGREES F,,
+08/08/2016,21,FEET,69.8,DEGREES F,,
+08/21/2016,1,FEET,21.7,DEGREES C,6.61,MG/L
+08/21/2016,3,FEET,21.8,DEGREES C,6.46,MG/L
+08/21/2016,6,FEET,21.7,DEGREES C,6.39,MG/L
+08/21/2016,9,FEET,21.6,DEGREES C,6.41,MG/L
+08/21/2016,12,FEET,21.5,DEGREES C,6.42,MG/L
+08/21/2016,15,FEET,21.5,DEGREES C,6.32,MG/L
+08/21/2016,16,FEET,21.5,DEGREES C,6.36,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/29/2016,partly cloudy- a little breezy- nice day
+07/24/2016,partly cloudy now- rain last night- 
+08/08/2016,very small algae bloom yesterday (8/7). Today water is clear and warm. Partly cloudy.
+08/21/2016,The temperature and dissolved oxygen reading were extremely different today than anything I have taken before. As you can see- for all readings it's about the same temp and oxygen level. Readings were taken several times- I came up with the same results. I asked Zach Wilson to check the meter (which he did that same day) and he said it was working fine- I might have caught the lake during turn over. Also note: the blue D.O. meter I use has a max depth of 16 feet. The brown meter used on the Flowage can go much deeper (my separate temp gauge can go deeper). I note this just in case anyone is wondering why April's results include an 18 foot temp/d.o.. Zach and Heather did that one using the brown meter. 
+
+
+
+
+Start Date,Group Name,Project Name
+05/21/1996,Craig Roesler,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/22/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/13/2000,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+06/13/2000,Craig Roesler,Appraisal Monitoring 2000
+07/20/2000,Craig Roesler,Appraisal Monitoring 2000
+08/09/2000,Craig Roesler,Appraisal Monitoring 2000
+08/09/2000,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+04/25/2016,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Fisher Lake - Northeast End
+06/29/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Northeast End
+06/30/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Northeast End
+07/24/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Northeast End
+08/08/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Northeast End
+08/21/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Northeast End

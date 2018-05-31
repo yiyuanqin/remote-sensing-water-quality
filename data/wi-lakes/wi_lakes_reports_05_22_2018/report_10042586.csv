@@ -1,0 +1,47 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wisconsin,Columbia,1260600,SC,11,,10042586,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+99924768,08/25/2014,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99924768,09/19/2014,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+99924768,09/28/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+99924768,10/11/2014,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99924768,05/18/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99924768,06/10/2015,3,NO,0.9,,,61,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+99924768,07/13/2015,0.5,NO,0.2,,,87,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99924768,07/26/2015,2,NO,0.6,,,67,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99924768,04/19/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99924768,06/10/2016,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99924768,06/26/2016,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99924768,07/10/2016,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/26/2016,Our area of Lake Wisconsin has been a "pea green scum" 90+% of this summer!
+
+
+
+
+Start Date,Group Name,Project Name
+08/25/2014,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+09/19/2014,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+09/28/2014,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+10/11/2014,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+05/18/2015,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+06/10/2015,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+07/13/2015,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+07/26/2015,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+04/19/2016,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+06/10/2016,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+06/26/2016,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier
+07/10/2016,Patricia Kirner,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; SW of Weigand's Bay - Off Pier

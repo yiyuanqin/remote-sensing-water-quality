@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Buffalo Lake,Oneida,974200,NO,44,,443065,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/27/1979,,,,,,,,,,,,,
+145711555,08/02/2017,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/27/1979,,,21,C,,
+08/02/2017,2,FEET,75.9,DEGREES F,8.11,MG/L
+08/02/2017,4,FEET,76.5,DEGREES F,8.18,MG/L
+08/02/2017,6,FEET,76.6,DEGREES F,7.93,MG/L
+08/02/2017,8,FEET,76.7,DEGREES F,7.91,MG/L
+08/02/2017,10,FEET,76.8,DEGREES F,7.89,MG/L
+08/02/2017,12,FEET,73.9,DEGREES F,7.64,MG/L
+08/02/2017,14,FEET,66.9,DEGREES F,7.85,MG/L
+08/02/2017,16,FEET,60.9,DEGREES F,4.86,MG/L
+08/02/2017,18,FEET,56.2,DEGREES F,.14,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/27/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/02/2017,Deep hole can be found at Oneida County GIS. Conditions were cloudy- windy- and a slight chop on the water surface.
+
+
+
+
+Start Date,Group Name,Project Name
+08/27/1979,Data Collectors,Migrated from STORET Legacy
+08/02/2017,Aubrey Nycz- Derek Thorn- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

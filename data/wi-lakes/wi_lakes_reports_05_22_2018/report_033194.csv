@@ -1,0 +1,67 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Upper Devils Lake,Barron,2043500,NO,3,,033194,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189512,05/29/2002,4.25,YES,1.3,,,56,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189512,06/17/2002,4,YES,1.2,,,57,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189512,06/27/2002,3.5,YES,1.1,,,59,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189512,07/07/2002,4.5,YES,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189512,07/17/2002,4,YES,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189512,05/15/2003,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,
+8189512,07/01/2003,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189512,07/31/2003,4.4,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,
+8189512,08/14/2003,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189512,06/19/2004,3.5,YES,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189512,07/02/2004,4.5,YES,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189512,08/29/2004,4,YES,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189512,06/03/2005,5,YES,1.5,,,54,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189512,07/17/2005,4,YES,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189512,08/19/2005,4.5,YES,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189512,08/20/2005,4.5,YES,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189512,05/16/2006,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118681590,06/05/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/17/2002,One other boat present. Slight breeze. Air temp 83 / water 70.    
+06/27/2002,Boat traffic 4.  Air temp 87 / water 71.1  2mph wind.
+
+    
+07/07/2002,Air temp 83/ 4th of July weekend very busy/Check depth 12.2    
+07/17/2002,Water temp 77/Air temp 90/Low traffic    
+07/02/2004,Boat traffic light(3-5) fishing boats.  Water Temperature 81 degrees.    
+08/29/2004,Water surface temperature 68.3.  Boat traffic minimal.    
+06/05/2016,Heavy rain for the past week- lots of stuff floating around in the water.  Weather partly cloudy- light breeze. Several people enjoying the lake- fishing and boating Pontoons- motorized fishing boats- several kayakers.  Very large school of fry noted near the boat landing upon entering the lake- not sure what species.
+
+
+
+
+Start Date,Group Name,Project Name
+05/29/2002,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+06/17/2002,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+06/27/2002,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+07/07/2002,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+07/17/2002,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+05/15/2003,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+07/01/2003,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+07/31/2003,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+08/14/2003,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+06/19/2004,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+07/02/2004,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+08/29/2004,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+06/03/2005,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+07/17/2005,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+08/19/2005,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+08/20/2005,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+05/16/2006,Jim Czajkowski,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole
+06/05/2016,Aarron Moltzar and Kim Gregor,Citizen Lake Monitoring - Water Quality - Upper Devils Lake; Main Basin - Deep Hole

@@ -1,0 +1,50 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Decatur Lake,Green,879400,SC,23,,10046874,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+130852735,07/26/2016,1.5,NO,0.5,2.54,296,71,72,42,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+107132186,08/08/2016,1.5,NO,0.5,,,71,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+130852735,08/08/2016,,,,10.9,128,,66,53,,,,,
+107132186,08/22/2016,1.5,NO,0.5,,,71,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+130852735,08/22/2016,,,,8.84,205,,69,51,,,,,
+1,07/08/2017,1.5,YES,0.5,9.15,,71,,52,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,07/31/2017,2.5,NO,0.8,2.32,,64,,41,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/06/2017,2.5,NO,0.8,3.62,,64,,45,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/2016,0,METERS,26.3,DEGREES C,5.74,MG/L
+07/26/2016,1,METERS,26.3,DEGREES C,6.1,MG/L
+08/08/2016,1,FEET,22.5,DEGREES C,8.1,MG/L
+08/08/2016,3,FEET,22.4,DEGREES C,8.3,MG/L
+08/22/2016,1,FEET,21.7,DEGREES C,7.9,MG/L
+08/22/2016,3,FEET,21.6,DEGREES C,7.9,MG/L
+07/08/2017,1,FEET,26.8,DEGREES C,9.02,MG/L
+07/31/2017,1,FEET,23.4,DEGREES C,7.85,MG/L
+08/06/2017,1,FEET,22.1,DEGREES C,9.64,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/26/2016,Alison was training Dick to do the next to sampling visits besides collecting data today. Dick will collect the data and samples in August and early September to be sent in with his regularly scheduled stream monitoring samples. This new deep hole site was determined during a PI earlier in the month. Lake Level was judged as normal visually.
+08/08/2016,End time is estimated. Dick noted on data sheet that color was dark green and water level appeared normal. 
+08/22/2016,Dick noted that water level was high due to 3" of rain in the last week. Depth at DH today was 8 feet. The water color circled was greet/brown. Jeanne entered as brown based on what she'd seen in the past on the lake for color- but could have been greener. Use perception was marked as 3/4. 
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/2016,Dick Tripp- ALISON M KUHNE,Directed Lakes 2016 Graham
+08/08/2016,Dick Tripp,Directed Lakes 2016 Graham
+08/08/2016,Dick Tripp- ALISON M KUHNE,Directed Lakes 2016 Graham
+08/22/2016,Dick Tripp,Directed Lakes 2016 Graham
+08/22/2016,Dick Tripp- ALISON M KUHNE,Directed Lakes 2016 Graham
+07/08/2017,Data Collectors,Directed Lakes 2017 Graham
+07/31/2017,Data Collectors,Directed Lakes 2017 Graham
+08/06/2017,Data Collectors,Directed Lakes 2017 Graham

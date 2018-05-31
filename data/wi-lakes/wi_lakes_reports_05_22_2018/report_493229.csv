@@ -1,0 +1,51 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Andrus Lake,Polk,2668600,NO,49,,493229,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+49230085,07/20/2017,,,,27.6,109,,64,60,,,,,
+145711494,07/20/2017,2.875,NO,0.9,,,62,,,,,,,
+145711494,08/14/2017,,,,66.8,162,,68,67,,,,,
+146987459,08/14/2017,3,NO,0.9,,,61,,,,,,,
+49230085,09/12/2017,,,,73.7,70.5,,61,67,,,,,
+120155598,09/12/2017,3.25,NO,1,,,60,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/20/2017,0,METERS,23.43,DEGREES C,5.78,MG/L
+07/20/2017,1,METERS,23.37,DEGREES C,4.97,MG/L
+07/20/2017,2,METERS,20.89,DEGREES C,0,MG/L
+07/20/2017,3,METERS,16.28,DEGREES C,0,MG/L
+08/14/2017,0,METERS,20.63,DEGREES C,7.43,MG/L
+08/14/2017,1,METERS,20.47,DEGREES C,4.85,MG/L
+08/14/2017,2,METERS,19.41,DEGREES C,0,MG/L
+08/14/2017,3,METERS,16.62,DEGREES C,0,MG/L
+09/12/2017,0,METERS,18.43,DEGREES C,9.5,MG/L
+09/12/2017,1,METERS,18.18,DEGREES C,9.29,MG/L
+09/12/2017,2,METERS,17.57,DEGREES C,6.05,MG/L
+09/12/2017,3,METERS,16.74,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/20/2017,July 20th 2017- 60% cloud cover- calm- humid- 74oF- KA/JW/CS- 9:36am- 3.3m- 45.56306 -92.25972- 20o ml- chem 9:45-9:49
+08/14/2017,8/14/17-CS-KA- Depth 3.5m- 9:48 am- 99% cloud cover- calm 59oF- filtered 200 ml- chem 10:00 to 10:04
+
+09/12/2017,9/12/17- DC/KA- 10:01am- Cloud cover 0%-sunny- calm- 65?- filtered 200ml- chem 10:20 to 10:27am
+
+
+
+
+
+Start Date,Group Name,Project Name
+07/20/2017,Katelin Anderson and Jeremy Williamson,Directed Lakes 2017 Smith
+07/20/2017,Katelin Anderson- Jeremy Williamson- Colton Sorensen,Directed Lakes 2017 Smith
+08/14/2017,Katelin Anderson- Colton Sorensen,Directed Lakes 2017 Smith
+08/14/2017,Katelin Anderson- Jeremy Williamson- Colton Sorensen,Directed Lakes 2017 Smith
+09/12/2017,Katelin Anderson and Dane Christenson,Directed Lakes 2017 Smith
+09/12/2017,Katelin Anderson and Jeremy Williamson,Directed Lakes 2017 Smith

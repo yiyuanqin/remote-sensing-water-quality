@@ -1,0 +1,460 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Staples Lake,Barron,2631200,NO,3,,033193,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189919,10/03/2001,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,10/18/2001,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,10/20/2001,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189919,05/06/2002,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189919,05/14/2002,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,05/29/2002,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,06/06/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189919,06/11/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189919,06/20/2002,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189919,07/04/2002,5.5,YES,1.7,,,53,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,07/14/2002,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,07/17/2002,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189919,08/15/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,08/26/2002,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,09/06/2002,2,NO,0.6,,,67,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,09/15/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189919,10/01/2002,3.25,NO,1,,,60,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,10/22/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,11/10/2002,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,05/13/2003,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189919,05/30/2003,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189919,06/09/2003,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189919,06/25/2003,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189919,07/02/2003,4.25,NO,1.3,,,56,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189919,07/10/2003,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,07/18/2003,3.25,NO,1,,,60,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189919,07/26/2003,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189919,08/09/2003,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189919,08/30/2003,3.75,NO,1.1,,,58,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,09/10/2003,3.5,NO,1.1,,,59,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,09/19/2003,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189919,10/02/2003,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189919,10/14/2003,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189919,11/01/2003,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189919,05/18/2004,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189919,05/29/2004,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189919,06/12/2004,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189919,06/23/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189919,07/05/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189919,07/20/2004,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189919,08/03/2004,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189919,08/23/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189919,09/10/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,10/04/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189919,05/27/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189919,05/16/2006,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189919,06/12/2006,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189919,07/15/2006,4,NO,1.2,,,57,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189919,08/08/2006,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189919,09/01/2006,2,YES,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189919,09/17/2006,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189919,10/10/2006,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,07/04/2007,2.6,NO,0.8,,,63,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,08/18/2007,1.3,NO,0.4,,,73,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21980644,09/09/2007,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,05/24/2008,6.5,NO,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21980644,06/21/2008,3.8,NO,1.2,,,58,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,07/06/2008,3.2,NO,1,,,60,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,08/02/2008,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21980644,08/23/2008,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21980644,09/21/2008,3.2,NO,1,,,60,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21980644,10/18/2008,5.3,NO,1.6,,,53,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21980644,05/23/2009,6.5,NO,2,,,50,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21980644,06/13/2009,4.4,NO,1.3,,,56,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+21980644,07/04/2009,3.2,NO,1,,,60,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,08/08/2009,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,08/22/2009,1.7,NO,0.5,,,69,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21980644,09/12/2009,3.4,YES,1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21980644,09/26/2009,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,05/29/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,06/20/2011,4.7,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+46881858,07/11/2011,2.6,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,08/06/2011,1.4,NO,0.4,,,72,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46881858,05/12/2012,3.3,NO,1,,,60,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+46881858,06/24/2012,1.9,NO,0.6,,,68,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46881858,08/17/2012,2.2,NO,0.7,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,05/24/2013,3.3,NO,1,,,60,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+46881858,06/08/2013,3.2, ,1,,,60,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+46881858,06/22/2013,2.9,NO,0.9,,,62,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,07/28/2013,2.4,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,08/31/2013,1.9,NO,0.6,,,68,,,HIGH,15,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,04/28/2014,, ,,,,,,,,,,,
+46881858,05/29/2014,4,NO,1.2,,,57,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+82607229,06/05/2014,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+46881858,07/26/2014,2.7,NO,0.8,,,63,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+46881858,08/23/2014,2.05, ,0.6,83,91.9,67,63,68,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,09/20/2014,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,11/14/2014,, ,,,,,,,,,,,
+46881858,04/26/2015,6.7, ,2,,,50,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+46881858,05/09/2015,,,,,68.6,,61,,,,,,
+46881858,05/10/2015,6.7,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+46881858,05/26/2015,4.2,NO,1.3,,,56,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+46881858,06/20/2015,5.5,NO,1.7,27.2,117,53,65,60,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,07/26/2015,2,NO,0.6,203,183,67,68,75,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+46881858,08/14/2015,2.1,NO,0.6,,,66,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46881858,09/07/2015,2.7,NO,0.8,64.1,112,63,65,66,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46881858,04/16/2016,,,,,,,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+46881858,05/22/2016,8.1,NO,2.5,,65.1,47,60,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+46881858,06/26/2016,3.5,NO,1.1,84.1,110,59,65,68,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+46881858,07/31/2016,2.8,NO,0.9,98.4,130,62,66,69,HIGH,18,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,08/28/2016,2.1,NO,0.6,112,107,66,64,70,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,01/22/2017,,,,,,,,,,,,,
+46881858,05/07/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46881858,06/24/2017,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+46881858,07/15/2017,2,NO,0.6,87.7,96.6,67,64,69,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46881858,08/12/2017,,,,61.8,125,,66,66,,,,,
+46881858,09/23/2017,2.25,NO,0.7,,,65,,,HIGH,18,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/24/2013,3,FEET,59.1,DEGREES F,,
+05/24/2013,6,FEET,59.5,DEGREES F,,
+05/24/2013,9,FEET,59.1,DEGREES F,,
+05/24/2013,12,FEET,57.3,DEGREES F,,
+05/24/2013,15,FEET,54.6,DEGREES F,,
+05/24/2013,18,FEET,53.9,DEGREES F,,
+06/08/2013,3,FEET,63,DEGREES F,,
+06/08/2013,6,FEET,62.9,DEGREES F,,
+06/08/2013,9,FEET,62.9,DEGREES F,,
+06/22/2013,3,FEET,72.1,DEGREES F,,
+06/22/2013,6,FEET,71.6,DEGREES F,,
+06/22/2013,9,FEET,71,DEGREES F,,
+07/28/2013,3,FEET,69.9,DEGREES F,,
+07/28/2013,6,FEET,69.8,DEGREES F,,
+07/28/2013,9,FEET,69.6,DEGREES F,,
+07/28/2013,12,FEET,69.4,DEGREES F,,
+08/31/2013,3,FEET,80.7,DEGREES F,,
+08/31/2013,6,FEET,78.8,DEGREES F,,
+08/31/2013,9,FEET,76.8,DEGREES F,,
+05/29/2014,3,FEET,70.1,DEGREES F,,
+05/29/2014,6,FEET,66.5,DEGREES F,,
+05/29/2014,9,FEET,59.7,DEGREES F,,
+05/29/2014,12,FEET,55.7,DEGREES F,,
+07/26/2014,3,FEET,77.2,DEGREES F,,
+07/26/2014,6,FEET,75.2,DEGREES F,,
+07/26/2014,9,FEET,75.6,DEGREES F,,
+07/26/2014,12,FEET,74.6,DEGREES F,,
+08/23/2014,3,FEET,73.4,DEGREES F,,
+08/23/2014,6,FEET,73.2,DEGREES F,,
+08/23/2014,9,FEET,73.2,DEGREES F,,
+08/23/2014,12,FEET,73.2,DEGREES F,,
+08/23/2014,15,FEET,71.9,DEGREES F,,
+09/20/2014,3,FEET,61.5,DEGREES F,,
+09/20/2014,6,FEET,61.3,DEGREES F,,
+09/20/2014,9,FEET,61.3,DEGREES F,,
+09/20/2014,12,FEET,61.1,DEGREES F,,
+04/26/2015,3,FEET,49.8,DEGREES F,,
+04/26/2015,6,FEET,49.4,DEGREES F,,
+04/26/2015,9,FEET,49.2,DEGREES F,,
+04/26/2015,12,FEET,49.1,DEGREES F,,
+04/26/2015,15,FEET,48.9,DEGREES F,,
+05/10/2015,3,FEET,62.6,DEGREES F,,
+05/10/2015,6,FEET,62.2,DEGREES F,,
+05/10/2015,9,FEET,60.1,DEGREES F,,
+05/26/2015,3,FEET,62,DEGREES F,,
+05/26/2015,6,FEET,61.8,DEGREES F,,
+05/26/2015,12,FEET,59.7,DEGREES F,,
+05/26/2015,15,FEET,58.3,DEGREES F,,
+05/26/2015,17,FEET,57.5,DEGREES F,,
+06/20/2015,3,FEET,70.8,DEGREES F,,
+06/20/2015,6,FEET,70.7,DEGREES F,,
+06/20/2015,9,FEET,70.5,DEGREES F,,
+06/20/2015,12,FEET,70.1,DEGREES F,,
+06/20/2015,15,FEET,68.3,DEGREES F,,
+06/20/2015,17,FEET,63.3,DEGREES F,,
+07/26/2015,3,FEET,79.5,DEGREES F,,
+07/26/2015,6,FEET,77.7,DEGREES F,,
+07/26/2015,9,FEET,76.8,DEGREES F,,
+07/26/2015,12,FEET,75,DEGREES F,,
+07/26/2015,15,FEET,73.5,DEGREES F,,
+07/26/2015,16,FEET,72.3,DEGREES F,,
+08/14/2015,1,FEET,81.8,DEGREES F,,
+08/14/2015,3,FEET,78.6,DEGREES F,,
+08/14/2015,6,FEET,76.8,DEGREES F,,
+08/14/2015,9,FEET,74.6,DEGREES F,,
+08/14/2015,12,FEET,73.5,DEGREES F,,
+08/14/2015,13,FEET,73.4,DEGREES F,,
+09/07/2015,1,FEET,77,DEGREES F,,
+09/07/2015,3,FEET,75.5,DEGREES F,,
+09/07/2015,6,FEET,74.4,DEGREES F,,
+09/07/2015,9,FEET,72.8,DEGREES F,,
+09/07/2015,12,FEET,68.5,DEGREES F,,
+09/07/2015,14,FEET,67.2,DEGREES F,,
+04/16/2016,3,FEET,48.2,DEGREES F,,
+04/16/2016,6,FEET,47.6,DEGREES F,,
+04/16/2016,12,FEET,47.3,DEGREES F,,
+05/22/2016,3,FEET,67.2,DEGREES F,,
+05/22/2016,6,FEET,63.8,DEGREES F,,
+05/22/2016,9,FEET,59.9,DEGREES F,,
+05/22/2016,12,FEET,58.4,DEGREES F,,
+06/26/2016,3,FEET,75.9,DEGREES F,,
+06/26/2016,6,FEET,75.9,DEGREES F,,
+07/31/2016,3,FEET,78.4,DEGREES F,,
+07/31/2016,6,FEET,77.8,DEGREES F,,
+07/31/2016,9,FEET,75.7,DEGREES F,,
+07/31/2016,12,FEET,75.2,DEGREES F,,
+07/31/2016,15,FEET,73.7,DEGREES F,,
+07/31/2016,18,FEET,71.6,DEGREES F,,
+08/28/2016,3,FEET,71.1,DEGREES F,6.6,MG/L
+08/28/2016,6,FEET,71.2,DEGREES F,6,MG/L
+08/28/2016,9,FEET,71,DEGREES F,5.5,MG/L
+08/28/2016,12,FEET,71,DEGREES F,4.8,MG/L
+08/28/2016,15,FEET,71,DEGREES F,,
+08/28/2016,17,FEET,70.7,DEGREES F,,
+01/22/2017,3,FEET,34,DEGREES F,11.2,MG/L
+01/22/2017,6,FEET,37,DEGREES F,10.1,MG/L
+01/22/2017,9,FEET,37,DEGREES F,7.7,MG/L
+01/22/2017,12,FEET,38,DEGREES F,5.2,MG/L
+05/07/2017,3,FEET,56,DEGREES F,8.3,MG/L
+05/07/2017,6,FEET,55,DEGREES F,8.3,MG/L
+05/07/2017,9,FEET,54.5,DEGREES F,8.4,MG/L
+05/07/2017,12,FEET,53.8,DEGREES F,8.3,MG/L
+05/07/2017,15,FEET,52,DEGREES F,8.1,MG/L
+05/07/2017,17,FEET,51,DEGREES F,7.7,MG/L
+06/24/2017,3,FEET,69,DEGREES F,7.4,MG/L
+06/24/2017,6,FEET,68,DEGREES F,7.3,MG/L
+06/24/2017,9,FEET,68,DEGREES F,7.3,MG/L
+06/24/2017,12,FEET,68,DEGREES F,7.2,MG/L
+07/15/2017,3,FEET,76.9,DEGREES F,9.4,MG/L
+07/15/2017,6,FEET,75.5,DEGREES F,9,MG/L
+07/15/2017,9,FEET,75,DEGREES F,8.9,MG/L
+07/15/2017,12,FEET,71.4,DEGREES F,2.4,MG/L
+07/15/2017,15,FEET,68.5,DEGREES F,,
+07/15/2017,17,FEET,66.9,DEGREES F,,
+09/23/2017,3,FEET,71.2,DEGREES F,7.8,MG/L
+09/23/2017,6,FEET,69.8,DEGREES F,7.5,MG/L
+09/23/2017,9,FEET,69.6,DEGREES F,7.2,MG/L
+09/23/2017,12,FEET,67.1,DEGREES F,3.8,MG/L
+09/23/2017,15,FEET,65.6,DEGREES F,.6,MG/L
+09/23/2017,18,FEET,65.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+10/03/2001,Cloudy- breezy.    
+10/18/2001,Sunny- light breeze.    
+10/20/2001,Sun- light breeze.    
+05/06/2002,Calm- sunny- and 50 degrees. A lot of runoff into the lake.    
+05/14/2002,Algae particles starting to show up. A lot of runoff into the lake.    
+05/29/2002,Sunny- calm- weeds starting to surface up to 150 feet from shoreline. Cottonwood floating on the lake.    
+06/06/2002,Sunny- calm- light ripples on lake. 1" of rain between 6/1 and 6/2. Weeds are heavy along some shores. Also clearest that volunteer has seen this lake.    
+06/11/2002,Cloudy and breezy. 1" rain on 6/8/02. A lot of boat traffic. Sunfish are beginning to spawn. Cool nights.    
+07/04/2002,Clear- sunny- and calm. Boat traffic medium to heavy. Hasn't rained for 2 weeks. Water is warm. Algae starting.    
+07/14/2002,Clear- sunny- calm- and algae. A lot of floating weeds.    
+07/17/2002,Cloudy- light breeze out of the SW. Algar and snails floating.    
+08/15/2002,Some algae and some boat traffic.    
+08/26/2002,Calm and sunny.    
+09/06/2002,Some algae forming. A lot by shore.    
+09/15/2002,A lot of rain in the past month.  But lake level just up to normal 17 feet.    
+10/01/2002,Water level at 17.2. Normal 17 feet at Deep Hole. Some heavy algae at shore.    
+10/22/2002,High water. Cold nights.    
+11/10/2002,Slight breeze from southwest.  Cold days and nights. 48 F today. Warmed up.    
+05/13/2003,Water running in- 5 1/2 inches of rain in the last 2 weeks.  20 ft deep.    
+06/09/2003,A lot of weeds.  1/2 inch rain first week of June.  Water dropping fast.    
+06/25/2003,Some algae- not bad yet.    
+07/02/2003,Heavy algae bloom along shore.    
+07/10/2003,Heavy bloom all over lake.    
+07/18/2003,Heavy algae bloom. Heavy scum.    
+08/09/2003,Algae heavy along shore- but the rest of the lake cleared up- only slight algae.    
+08/30/2003,Algae heavier in main lake.  Shore clear.    
+09/10/2003,Heavy algae.    
+09/19/2003,Windy last two days. Algae disappearing.  Nights cooling.    
+10/02/2003,Cold snap last 10 days or so.    
+10/14/2003,Can feel algae on the rocks on lake bottom when jig fishing.    
+11/01/2003,Cold weather last week.    
+05/18/2004,Cleanest I've ever seen the lake- water dropping fast.  Lake is low.  In for a weedy year.    
+05/29/2004,Lake looks great    
+06/12/2004,Rain coming in- lake raising    
+06/23/2004,Small amount of algae    
+07/05/2004,Lake still looks pretty good.  Algae showing up more.    
+07/20/2004,Main lake looks good.  A lot of moss shoreline to 50" out.    
+08/03/2004,Algae has really bloomed- a lot of weeds- looks real bad    
+08/23/2004,Algae has cleared up some.    
+10/04/2004,Water cooling off.    
+05/16/2006,water looks good- no algae bloom as of yet
+06/12/2006,Water looks good- boat traffic seems to be helping lake
+07/15/2006,starting heavy algae bloom
+08/08/2006,Heavy algae bloom- cleared algae from surface to get reading- other wise a 0 reading
+09/01/2006,very green every where- shore looks like green paint five feet out
+09/17/2006,Still very green- but algae dispersing into clumps
+10/10/2006,Very heavy algae along shore- center is clearing
+07/04/2007,1st reading of the Secchi dish on Staples Lake  Sunny 
+09/09/2007,Green has let up some. Sunny
+05/24/2008,Sunny- calm- temp in Mid 50's
+06/21/2008,partly cloudy slight breeze rained a day ago
+07/06/2008,party sunny mild breeze lake turning green
+08/02/2008,cloudy with some wind
+08/23/2008,rained in the morning sunny while reading dish
+10/18/2008,Sunny and windy
+05/23/2009,Sunny and clear
+06/13/2009,Partly cloudy but still lots of blue sky
+07/04/2009,Clear
+08/08/2009,partly cloudy
+08/22/2009,partly cloudy
+09/12/2009,clear
+09/26/2009,light showers but still partly sunny
+05/29/2011,Due to Memorial Day weekend- the lake had a high volume of fast boat traffic instead of quiet fishing.  
+06/20/2011,A beaver was starting a dam on the culvert going under 20 1/2 Street.  Reported it to DNR.  On June 27th it didn't appear to have an animal in it.
+07/11/2011,The lake was quiet and calm- the sun was shining- I expected a better reading than 2.6
+08/06/2011,The sun didn't come out until later in the day.  There was thick green algae on the stream delta and patches of blue-green algae.
+05/12/2012,Weather was calm and sunny.  Adolescent Eagle stayed close to our canoe.  Saw turtle sunning in the stream.    
+08/17/2012,Delta of Stream was covered with thick green slug with a little blue-green algae.
+05/24/2013,It was pretty windy
+06/22/2013,The north edges of the lake have started appear thick with green plants or algae.  There's a clumpy green algae that foats suspended below the water surface that is particularly unpleasant.   It was cloudly- but I needed to get the June Chemical testing completed.
+07/28/2013,It was usually cold a couple days prior to my test - 50 -60 day degrees air temperature on day of testing.
+
+08/31/2013,I attempted to take the sample on August 24th- but the winds were too strong.   
+The Staples Lake stream is thick with lily pads- so thick canoeing is difficult.  This is different from past years when the purple loosestrife made canoeing difficult.
+At the end of the stream I attempted to take an additional sample of a blue-greenish growth floating on the water; however the growth was a hard thick crusty matter so it could not be picked up in a bottle.
+I submerged an extra sample bottle to collect the water around the crusty blue-greenish growth and sent it in as a bonus.  I need to use my last acid vial for my fall sample- so the sample may not be used.   Nevertheless- I wanted it to be observed.  The stream is an important part of the Staples lake ecosystem and it was much cleaner when the farm directly north of the lake was operating as an organic farm.   
+
+04/28/2014,Ice out - no ice left on lake at 4:00 p.m. today.    Called in by Mike and Roxy Nowlan.
+05/29/2014,We had a couple warm sunny days to heat up the water.
+07/26/2014,Staples Lake and Staples Creek appeared cleaner than in other years.  
+08/23/2014,It was cloudy- but I needed to take the samples anyway.   Water levels are normal for June- but high for an average August.
+The water quality at the Staples Creek delta is noticeably better this year.   
+11/14/2014,Early ice in - The entire lake had at least a thin layer of solid ice.  A person could walk on the ice along the shoreline.  
+04/26/2015,Ice out was April 4- 2015.
+05/10/2015,The wind picked up and I was unable to accurately complete the water temperatures.   Before it was too windy I was able to extract a 6 foot column of water for the Phosphorus test.  The Chlorophyl test is not required prior to May 31st.
+05/26/2015,It was cloudy so the secchi disk was incorrect- but I wanted to take the water temperatures.
+The last temperature reading labeled 17 feet is the muck on the bottom of the lake - per my package instructions.
+06/20/2015,Sun came out late but was still high because of the long days.   The water was clear with millions of tiny green dots suspended in the water.   There was a small amount of puffy green muck floating on the top of the water on the north shore line.  The last temperature reading labeled 17 feet is the muck on the bottom of the lake - per my package instructions.
+07/26/2015,This is the worst I've seen the lake.   The first 100 yards of shoreline are thick with puffy-slushy green- sometimes blue-green algae.   This was on both the south and north shores.   I will email Kris Larson pictures.
+08/14/2015,Last temperature reading is bottom of the lake.
+09/07/2015,Sunny and Clear
+04/16/2016,It was cloudy and windy so the secchi disk reading was not accurate.  Only got a couple temperatures in before we stopped.
+05/22/2016,Sunny day- high winds.   Secchi disk reading taken from a pontoon with all sides sunny and it seemed easier to see farther down.
+06/26/2016,The battery was low on the water therometer- so we didn't get many tempuratures. 
+08/28/2016,Calm winds- high humidity and cloudy.   There was a lot of rain the prior week.
+05/07/2017,Ice Out of March 29- 2017
+06/24/2017,Didn't have a working battery in the DNR temperature equipment.  Thus temperatures are from the D.O. reader with only a 12 ft cord. 
+07/15/2017,DO meter reading was taken at sample site and another spot in the lake.   Both times the Disolved Oxygen went down significantly at 12 feet.
+09/23/2017,Collected Dissolved Oxygen readings on Staple Lake Creek on September 24 at 9:00 a.m.
+From dock midway up lake stream:  surface temperature = 67.6- DO 0.3
+From culvert on north side of 20 1/2 Avenue: surface temperature = 67.1- DO = 0.4
+
+ICE in November 11- 2017
+   
+
+
+
+
+Start Date,Group Name,Project Name
+10/03/2001,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/18/2001,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/20/2001,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/06/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/14/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/29/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/06/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/11/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/20/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/04/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/14/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/17/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/15/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/26/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/06/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/15/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/01/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/22/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+11/10/2002,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/13/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/30/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/09/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/25/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/02/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/10/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/18/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/26/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/09/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/30/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/10/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/19/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/02/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/14/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+11/01/2003,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/18/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/29/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/12/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/23/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/05/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/20/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/03/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/23/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/10/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/04/2004,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/27/2005,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/16/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/12/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/15/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/08/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/01/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/17/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/10/2006,Jim Maack,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/04/2007,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/18/2007,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/09/2007,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/24/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/21/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/06/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/02/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/23/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/21/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+10/18/2008,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/23/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/13/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/04/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/08/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/22/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/12/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/26/2009,Rick Ottinger,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/29/2011,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/20/2011,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/11/2011,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/06/2011,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/12/2012,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/24/2012,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/17/2012,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/24/2013,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/08/2013,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/22/2013,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/28/2013,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/31/2013,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+04/28/2014,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/29/2014,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/05/2014,Mark Sundeen and Alex Smith,Extra Sampling - Northern Region - Spooner 
+07/26/2014,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/23/2014,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/20/2014,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+11/14/2014,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+04/26/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/09/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/10/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/26/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/20/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/26/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/14/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/07/2015,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+04/16/2016,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/22/2016,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/26/2016,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/31/2016,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/28/2016,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+01/22/2017,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+05/07/2017,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+06/24/2017,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+07/15/2017,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+08/12/2017,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole
+09/23/2017,Theresa Smiley,Citizen Lake Monitoring - Water Quality - Staples Lake; Deep Hole

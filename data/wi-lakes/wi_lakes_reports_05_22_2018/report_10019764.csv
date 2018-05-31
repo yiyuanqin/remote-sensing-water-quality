@@ -1,0 +1,181 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Turtle Flambeau Flowage,Iron,2294900,NO,26,,10019764,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18138766,05/08/2011,,,,,26,,53,,,,,,
+44765433,05/08/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,06/22/2011,,,,2.13,22,,52,41,,,,,
+44765433,06/22/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,08/15/2011,,,,2.41,22,,52,41,,,,,
+44765433,08/15/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+53741940,04/02/2012,,,,,25,,53,,,,,,
+7000057,06/26/2012,,,,2.94,32,,55,43,,,,,
+1,07/31/2012,,,,1.74,22,,52,39,,,,,
+1,08/28/2012,,,,1.92,20,,51,40,,,,,
+44765433,05/23/2013,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+44765433,06/25/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+18138766,06/28/2013,,,,5.54,22.8,,52,48,,,,,
+18138766,07/23/2013,,,,8.9,20.1,,51,51,,,,,
+44765433,07/31/2013,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+18138766,08/27/2013,,,,13.9,16.3,,50,55,,,,,
+44765433,09/06/2013,5.5,NO,1.7,,,53,,,HIGH,,MURKY,RED,2-Very minor aesthetic problems
+44765433,05/21/2014,5,NO,1.5,,17.1,54,50,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,06/27/2014,,,,1.52,26.3,,53,38,,,,,
+44765433,06/27/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+44765433,08/26/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,08/27/2014,,,,2.66,24.1,,53,42,,,,,
+18138766,04/28/2015,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,05/07/2015,,,,,35.2,,56,,,,,,
+18138766,06/30/2015,4.25,NO,1.3,1.68,33.5,56,55,39,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18138766,07/30/2015,4.5,,1.4,1.94,32.1,55,55,40,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,08/28/2015,,,,1.38,27.7,,54,37,,,,,
+18138766,08/29/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18138766,04/23/2016,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+18138766,04/25/2016,5,NO,1.5,,24.7,54,53,,,,,,
+18138766,07/06/2016,4,NO,1.2,2.07,33.7,57,55,40,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18138766,07/31/2016,4.75,NO,1.4,1.91,28.1,55,54,40,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,08/30/2016,4,NO,1.2,0.563,31.1,57,55,30,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,04/23/2017,3.5,NO,1.1,,36.6,59,56,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,06/27/2017,4.75,NO,1.4,0.817,29.1,55,54,33,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18138766,07/28/2017,4.75,NO,1.4,2.13,28.7,55,54,41,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,08/29/2017,,,,1.73,19.8,,51,39,,,,,
+18138766,08/29/2017,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/08/2011,3,FEET,53.9,DEGREES F,,
+05/08/2011,6,FEET,53.7,DEGREES F,,
+06/22/2011,3,FEET,64.4,DEGREES F,,
+06/22/2011,6,FEET,64.4,DEGREES F,,
+06/22/2011,9,FEET,64.4,DEGREES F,,
+08/15/2011,3,FEET,72.8,DEGREES F,,
+08/15/2011,6,FEET,72.8,DEGREES F,,
+05/23/2013,1,FEET,57.5,DEGREES F,,
+05/23/2013,3,FEET,57.2,DEGREES F,,
+05/23/2013,6,FEET,57.2,DEGREES F,,
+05/23/2013,9,FEET,57,DEGREES F,,
+06/25/2013,1,FEET,75,DEGREES F,,
+06/25/2013,3,FEET,74.6,DEGREES F,,
+06/25/2013,6,FEET,74.6,DEGREES F,,
+06/25/2013,9,FEET,74.6,DEGREES F,,
+07/31/2013,1,FEET,67.8,DEGREES F,5.6,MG/L
+07/31/2013,3,FEET,67.4,DEGREES F,5.29,MG/L
+07/31/2013,6,FEET,67.2,DEGREES F,5.18,MG/L
+07/31/2013,9,FEET,67.2,DEGREES F,5.45,MG/L
+09/06/2013,1,FEET,67.4,DEGREES F,5.7,MG/L
+09/06/2013,3,FEET,67.2,DEGREES F,5.53,MG/L
+09/06/2013,6,FEET,67.1,DEGREES F,5.55,MG/L
+09/06/2013,9,FEET,67.1,DEGREES F,5.7,MG/L
+04/28/2015,1,FEET,56.1,DEGREES F,7.89,MG/L
+04/28/2015,3,FEET,54.5,DEGREES F,7.96,MG/L
+04/28/2015,6,FEET,53.9,DEGREES F,8.01,MG/L
+04/28/2015,9,FEET,53.6,DEGREES F,8.03,MG/L
+04/28/2015,12,FEET,53.2,DEGREES F,8,MG/L
+06/30/2015,1,FEET,70.5,DEGREES F,5.88,MG/L
+06/30/2015,3,FEET,69.8,DEGREES F,5.86,MG/L
+06/30/2015,6,FEET,69.8,DEGREES F,5.85,MG/L
+06/30/2015,9,FEET,69.6,DEGREES F,5.82,MG/L
+07/30/2015,1,FEET,77,DEGREES F,5.4,MG/L
+07/30/2015,3,FEET,75.5,DEGREES F,5.47,MG/L
+07/30/2015,6,FEET,75.3,DEGREES F,5.4,MG/L
+07/30/2015,9,FEET,75.2,DEGREES F,5.27,MG/L
+08/29/2015,1,FEET,66.5,DEGREES F,,
+08/29/2015,3,FEET,66.2,DEGREES F,,
+08/29/2015,6,FEET,66,DEGREES F,,
+08/29/2015,9,FEET,65.8,DEGREES F,,
+04/23/2016,1,FEET,48.1,DEGREES F,6.99,MG/L
+04/23/2016,3,FEET,48.1,DEGREES F,7.34,MG/L
+04/23/2016,6,FEET,48,DEGREES F,7.94,MG/L
+04/23/2016,9,FEET,48.1,DEGREES F,8.14,MG/L
+07/06/2016,1,FEET,75,DEGREES F,3.98,MG/L
+07/06/2016,3,FEET,74.8,DEGREES F,3.95,MG/L
+07/06/2016,6,FEET,74.8,DEGREES F,3.91,MG/L
+07/06/2016,9,FEET,74.8,DEGREES F,3.79,MG/L
+07/31/2016,1,FEET,78,DEGREES F,4.18,MG/L
+07/31/2016,3,FEET,75.2,DEGREES F,4.1,MG/L
+07/31/2016,6,FEET,75,DEGREES F,4,MG/L
+07/31/2016,9,FEET,75,DEGREES F,3.95,MG/L
+07/31/2016,12,FEET,75,DEGREES F,3.95,MG/L
+08/30/2016,1,FEET,74.4,DEGREES F,,
+08/30/2016,3,FEET,73,DEGREES F,,
+08/30/2016,6,FEET,72.3,DEGREES F,,
+08/30/2016,9,FEET,72.1,DEGREES F,,
+08/30/2016,12,FEET,71.9,DEGREES F,,
+04/23/2017,1,FEET,10.9,DEGREES C,8.65,MG/L
+04/23/2017,3,FEET,10.7,DEGREES C,8.68,MG/L
+04/23/2017,6,FEET,10.5,DEGREES C,8.71,MG/L
+04/23/2017,8,FEET,10.3,DEGREES C,8.77,MG/L
+06/27/2017,1,FEET,69.7,DEGREES F,,
+06/27/2017,3,FEET,67.5,DEGREES F,,
+06/27/2017,6,FEET,66.7,DEGREES F,,
+06/27/2017,9,FEET,66.2,DEGREES F,,
+06/27/2017,12,FEET,66.2,DEGREES F,,
+07/28/2017,1,FEET,73.4,DEGREES F,,
+07/28/2017,3,FEET,73.4,DEGREES F,,
+07/28/2017,6,FEET,73.4,DEGREES F,,
+07/28/2017,9,FEET,73.2,DEGREES F,,
+07/28/2017,12,FEET,73.2,DEGREES F,,
+08/29/2017,1,FEET,19.1,DEGREES C,5.82,MG/L
+08/29/2017,3,FEET,19.1,DEGREES C,5.81,MG/L
+08/29/2017,6,FEET,19.1,DEGREES C,5.76,MG/L
+08/29/2017,9,FEET,19.1,DEGREES C,5.73,MG/L
+08/29/2017,12,FEET,19.1,DEGREES C,5.7,MG/L
+08/29/2017,15,FEET,19.1,DEGREES C,5.68,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/08/2011,clear skies- calm
+06/22/2011,clear skies- slight breeze
+07/31/2013,collected by Lucas Bessey and Brett Eliason
+07/06/2016,June's sample- taken a few days late.  
+
+
+
+
+Start Date,Group Name,Project Name
+05/08/2011,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+05/08/2011,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+06/22/2011,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+06/22/2011,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/15/2011,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+08/15/2011,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+04/02/2012,Heather Palmquist and Jim Blum,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+06/26/2012,JAMES KREITLOW,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/31/2012,Data Collectors,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/28/2012,Data Collectors,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+05/23/2013,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+06/25/2013,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+06/28/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/23/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/31/2013,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+08/27/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+09/06/2013,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+05/21/2014,Chris Paulik,Aquatic Invasive Species (AIS) Grants
+05/21/2014,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+06/27/2014,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+06/27/2014,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+08/26/2014,Chris Paulik,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+08/27/2014,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+04/28/2015,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+05/07/2015,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+06/30/2015,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/30/2015,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/28/2015,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/29/2015,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+04/23/2016,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+04/25/2016,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/06/2016,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/31/2016,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/30/2016,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+04/23/2017,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Murray's Landing
+06/27/2017,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Murray's Landing
+07/28/2017,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Murray's Landing
+08/29/2017,Data Collectors,Bacteria + Plankton (Paid Private)
+08/29/2017,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Murray's Landing

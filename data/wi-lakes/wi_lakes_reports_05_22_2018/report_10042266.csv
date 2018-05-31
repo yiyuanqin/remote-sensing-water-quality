@@ -1,0 +1,28 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Waubesa,Dane,803700,SC,13,,10042266,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+89214715,08/13/2014,,,,40,56.5,,59,63,,,,,
+89214715,09/01/2015,,,,29.8,60.9,,60,60,,,,,
+89214715,07/19/2016,,,,14.1,44.4,,58,55,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+09/01/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/19/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

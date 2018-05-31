@@ -1,0 +1,147 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wisconsin River,Lincoln,1179900,NO,35,,353052,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/22/1977,,,,,,,,,,,,,
+1,08/14/1979,,,,26,,,,59,,,,,
+8189015,10/12/1999,5.25,NO,1.6,,,53,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189015,10/27/1999,4.25,NO,1.3,,,56,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189015,05/02/2000,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189015,05/25/2000,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189966,05/28/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189966,06/23/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189966,07/25/2001,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189966,09/01/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189966,05/05/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189966,06/01/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189966,06/15/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189966,06/29/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,05/22/2014,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,06/04/2014,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,06/19/2014,3.5,NO,1.1,,,59,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,07/02/2014,3,NO,0.9,,,61,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,07/13/2014,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,07/24/2014,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+99583116,08/07/2014,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,10/16/2014,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,05/20/2015,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,06/02/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,06/12/2015,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,06/24/2015,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,07/10/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+99583116,07/23/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+99583116,08/06/2015,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,08/26/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,09/09/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,09/21/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,06/01/2016,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,06/27/2016,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,07/12/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,07/25/2016,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,08/08/2016,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+99583116,08/29/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,09/18/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+99583116,05/25/2017,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,06/06/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,06/27/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,07/10/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,07/21/2017,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,08/04/2017,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,08/16/2017,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,08/28/2017,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99583116,09/19/2017,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99583116,10/07/2017,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/22/1977,,,20.5,C,9.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/22/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/14/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/12/1999,Calm + sunny. 15' deep.    
+10/27/1999,1 blue wing teal. sunny + calm. 14' deep.    
+05/02/2000,Two mallards    
+05/25/2000,One harring.    
+05/28/2001,Blue sky.    
+06/23/2001,Male loon.    
+07/25/2001,Had to swish algae away from secchi disk- falcon type bird fishing- and lots of floating algae- very thick.    
+06/04/2014,partly cloudy- a lot of tree and plant debris floating through partly cloudy. A lot of tree and plant sheddings floating through.
+06/19/2014,clear sky- some breeze- couple of boats
+07/02/2014,sunny- cool- slight breeze
+07/13/2014,sunny with a few clouds- cool- water temp 72 deg- slight breeze
+07/24/2014,mostly sunny- few clouds- no wind- water temp 78 deg
+08/07/2014,Mostly sunny. Few clouds. Slight breeze. water temperature 78 degrees. Mostly cloudy. Some sun. Slight breeze. water temperature 72 degrees. Mostly sunny. Few clouds. Slight breeze. Water temperature 70 degrees.
+10/16/2014,Mostly cloudy. Little sun. Water temperature 49 degrees.
+05/20/2015,partly cloudy- slight breeze- water temp 60 deg- no boats Partly cloudy- slight breeze. Water temperature 60 degrees. No boats. Partly cloudy and slight breeze. Water temp. 60 degrees. No boats.
+06/02/2015,Clear- slight wind. Water temp. 66 degrees. No boats.
+06/12/2015,Slight breeze from the NE. Clear. Water temp. 69 degrees. No boats. Heard a loon.
+06/24/2015,Partly cloudy. Slight wind from SW. Water temp. 73 degrees. Few boats.
+07/10/2015,Partly cloudy. Slight breeze from the SW. Water temperature 75 degrees. 2 boats.
+07/23/2015,very little wind from the west. Water temp. 78 degrees.
+08/06/2015,Slight wind from the south. Mostly sunny. Water temp. 74 degrees.
+08/26/2015,Very little wind from the west. Mostly sunny. Water temp. 66 degrees. 2 boats.
+09/09/2015,slight wind from the southwest. Mostly cloudy. Little sun. Water temperature 72 degrees. 1 boat.
+09/21/2015,Fairly windy from south. Perfect blue sky- no clouds. Water temperature 65 degrees.
+
+
+
+
+Start Date,Group Name,Project Name
+06/22/1977,Data Collectors,Migrated from STORET Legacy
+08/14/1979,Data Collectors,Migrated from STORET Legacy
+10/12/1999,Henry Michaud,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+10/27/1999,Henry Michaud,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/02/2000,Henry Michaud,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/25/2000,Henry Michaud,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/28/2001,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/23/2001,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/25/2001,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+09/01/2001,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/05/2002,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/01/2002,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/15/2002,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/29/2002,Lisa Albrecht,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/22/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/04/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/19/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/02/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/13/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/24/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/07/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+10/16/2014,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/20/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/02/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/12/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/24/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/10/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/23/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/06/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/26/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+09/09/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+09/21/2015,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/01/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/27/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/12/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/25/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/08/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/29/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+09/18/2016,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+05/25/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/06/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+06/27/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/10/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+07/21/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/04/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/16/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+08/28/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+09/19/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel
+10/07/2017,Fred Brach,Citizen Lake Monitoring - Water Quality - Lake Alice - South Of Lake Mabel

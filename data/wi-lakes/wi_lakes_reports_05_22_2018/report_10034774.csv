@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sand Lake,Barron,2661100,NO,3,,10034774,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+17814922,05/28/2012,,,,,34,,55,,,,,,
+8188959,09/10/2015,,,,,202,,69,,,,,,
+8188959,03/31/2016,,,,,37.7,,56,,,,,,
+8188959,04/26/2016,,,,,121,,65,,,,,,
+130839487,07/07/2016,,,,,624,,78,,,,,,
+1,08/22/2016,,,,,130,,66,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/28/2012,Gary Klund,SAND LAKE MANAGEMENT DISTRICT: Sand Lake Comprehensive Management Planning Project
+09/10/2015,Dave Blumer,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+03/31/2016,Dave Blumer,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+04/26/2016,Dave Blumer,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+07/07/2016,Heather Woods,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project
+08/22/2016,Data Collectors,SAND LAKE MANAGEMENT DISTRICT: LMI-Sand Lake Wash Repair + Agricultural BMP Project

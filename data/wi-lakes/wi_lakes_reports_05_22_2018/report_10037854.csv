@@ -1,0 +1,406 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lac Courte Oreilles,Sawyer,2390800,NO,58,,10037854,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+68012556,01/07/2010,,,,,,,,,,,,,
+68012556,01/20/2010,,,,,,,,,,,,,
+68012556,02/05/2010,,,,,,,,,,,,,
+68012556,02/22/2010,,,,,,,,,,,,,
+68012556,03/01/2010,,,,,,,,,,,,,
+68012556,03/08/2010,,,,,,,,,,,,,
+68012556,03/16/2010,,,,,,,,,,,,,
+68012556,01/11/2011,,,,,,,,,,,,,
+68012556,01/20/2011,,,,,,,,,,,,,
+68012556,02/01/2011,,,,,,,,,,,,,
+68012556,02/09/2011,,,,,,,,,,,,,
+68012556,02/17/2011,,,,,,,,,,,,,
+68012556,03/01/2011,,,,,,,,,,,,,
+68012556,03/09/2011,,,,,,,,,,,,,
+68012556,03/17/2011,,,,,,,,,,,,,
+68012556,03/31/2011,,,,,,,,,,,,,
+68012556,02/02/2012,,,,,,,,,,,,,
+68012556,02/17/2012,,,,,,,,,,,,,
+68012556,02/23/2012,,,,,,,,,,,,,
+68012556,02/28/2012,,,,,,,,,,,,,
+68012556,03/08/2012,,,,,,,,,,,,,
+44583787,08/06/2012,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/19/2012,8.3,NO,2.5,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/21/2012,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+44583787,09/27/2012,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+68012556,01/14/2013,,,,,,,,,,,,,
+68012556,02/15/2013,,,,,,,,,,,,,
+68012556,02/26/2013,,,,,,,,,,,,,
+68012556,03/07/2013,,,,,,,,,,,,,
+44583787,05/18/2013,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,06/01/2013,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,06/11/2013,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/22/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/30/2013,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/15/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/04/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/18/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/30/2013,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/15/2013,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/25/2013,12,YES,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+44583787,07/26/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/04/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/10/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/26/2014,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/06/2014,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/14/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/23/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,05/23/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+44583787,05/30/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/07/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/14/2015,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/25/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/09/2015,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/16/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/23/2015,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/04/2015,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/11/2015,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/18/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/29/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/07/2015,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/16/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/22/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,10/01/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,05/02/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+44583787,05/21/2016,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+44583787,05/30/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+44583787,06/11/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+44583787,06/17/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+44583787,06/28/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+44583787,07/09/2016,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/15/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/25/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/03/2016,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/15/2016,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/23/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,08/31/2016,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/07/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,09/19/2016,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,10/04/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,05/15/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,05/27/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/04/2017,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,06/11/2017,6,,1.8,,,51,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,06/20/2017,6,,1.8,,,51,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,06/28/2017,7,,2.1,,,49,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,07/02/2017,10,,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/11/2017,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/22/2017,10,NO,3,,,44,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,07/29/2017,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,08/14/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,08/21/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,08/27/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,09/04/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,09/07/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,09/12/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+44583787,09/20/2017,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44583787,10/01/2017,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+01/07/2010,1.8,FEET,32.7,DEGREES F,14.4,MG/L
+01/07/2010,5,FEET,34.2,DEGREES F,11.75,MG/L
+01/20/2010,2,FEET,32.5,DEGREES F,14.3,MG/L
+01/20/2010,4,FEET,33.3,DEGREES F,12.75,MG/L
+01/20/2010,5,FEET,33.8,DEGREES F,11,MG/L
+02/05/2010,2,FEET,33.1,DEGREES F,15.39,MG/L
+02/05/2010,4,FEET,33.9,DEGREES F,13.26,MG/L
+02/05/2010,5,FEET,34,DEGREES F,12.84,MG/L
+02/05/2010,6,FEET,34.4,DEGREES F,8.72,MG/L
+02/22/2010,2,FEET,33,DEGREES F,14.67,MG/L
+02/22/2010,5,FEET,34.1,DEGREES F,12.9,MG/L
+02/22/2010,7,FEET,34.4,DEGREES F,9.12,MG/L
+03/01/2010,3,FEET,33.3,DEGREES F,28.61,MG/L
+03/01/2010,6,FEET,34,DEGREES F,26.52,MG/L
+03/01/2010,9,FEET,34.4,DEGREES F,25.96,MG/L
+03/01/2010,12,FEET,34.4,DEGREES F,24.67,MG/L
+03/01/2010,15,FEET,34.4,DEGREES F,20.68,MG/L
+03/08/2010,2,FEET,33.4,DEGREES F,10.82,MG/L
+03/08/2010,3,FEET,33.8,DEGREES F,10.27,MG/L
+03/08/2010,4,FEET,34,DEGREES F,10.01,MG/L
+03/08/2010,5,FEET,34.4,DEGREES F,9.63,MG/L
+03/08/2010,6,FEET,34.8,DEGREES F,8.02,MG/L
+03/08/2010,7,FEET,35.1,DEGREES F,7.21,MG/L
+03/16/2010,2,FEET,34.9,DEGREES F,11.92,MG/L
+03/16/2010,3,FEET,35.8,DEGREES F,9.59,MG/L
+03/16/2010,4,FEET,35.8,DEGREES F,9.14,MG/L
+03/16/2010,5,FEET,35.8,DEGREES F,8.91,MG/L
+03/16/2010,6,FEET,35.8,DEGREES F,8.73,MG/L
+03/16/2010,7,FEET,35.8,DEGREES F,8.64,MG/L
+03/16/2010,8,FEET,35.8,DEGREES F,8.58,MG/L
+01/11/2011,2.9,FEET,34.3,DEGREES F,14.94,MG/L
+01/11/2011,5,FEET,35,DEGREES F,13.95,MG/L
+01/11/2011,6,FEET,35.5,DEGREES F,12.72,MG/L
+01/11/2011,7,FEET,36.3,DEGREES F,10.52,MG/L
+01/11/2011,8,FEET,36.7,DEGREES F,9.36,MG/L
+01/20/2011,2.7,FEET,33.7,DEGREES F,16.59,MG/L
+01/20/2011,4,FEET,34.9,DEGREES F,13.48,MG/L
+01/20/2011,6,FEET,35.5,DEGREES F,10.03,MG/L
+01/20/2011,7,FEET,35.8,DEGREES F,7.98,MG/L
+01/20/2011,8,FEET,36,DEGREES F,7.08,MG/L
+02/01/2011,2,FEET,33.1,DEGREES F,16.27,MG/L
+02/01/2011,3,FEET,33.6,DEGREES F,14.57,MG/L
+02/01/2011,4,FEET,33.9,DEGREES F,15.35,MG/L
+02/01/2011,5,FEET,34.7,DEGREES F,14.42,MG/L
+02/01/2011,6,FEET,34.9,DEGREES F,13.27,MG/L
+02/01/2011,7,FEET,35.2,DEGREES F,10.46,MG/L
+02/01/2011,8,FEET,35.7,DEGREES F,8.19,MG/L
+02/09/2011,2,FEET,32.6,DEGREES F,11.57,MG/L
+02/09/2011,3,FEET,33.7,DEGREES F,10.16,MG/L
+02/09/2011,4,FEET,34.4,DEGREES F,9.55,MG/L
+02/09/2011,5,FEET,34.7,DEGREES F,8.79,MG/L
+02/09/2011,6,FEET,34.8,DEGREES F,8.88,MG/L
+02/09/2011,7,FEET,34.8,DEGREES F,7.38,MG/L
+02/17/2011,1,FEET,32.6,DEGREES F,14.31,MG/L
+02/17/2011,2,FEET,33.4,DEGREES F,13.6,MG/L
+02/17/2011,3,FEET,34.7,DEGREES F,12.64,MG/L
+02/17/2011,4,FEET,34.9,DEGREES F,12.05,MG/L
+02/17/2011,5,FEET,35.1,DEGREES F,9.82,MG/L
+02/17/2011,6,FEET,35.3,DEGREES F,7.71,MG/L
+02/17/2011,7,FEET,35.4,DEGREES F,6.24,MG/L
+03/01/2011,1,FEET,33.1,DEGREES F,15.39,MG/L
+03/01/2011,2,FEET,32.9,DEGREES F,14.29,MG/L
+03/01/2011,3,FEET,34,DEGREES F,14.19,MG/L
+03/01/2011,4,FEET,34.4,DEGREES F,13.06,MG/L
+03/01/2011,5,FEET,35.6,DEGREES F,12.15,MG/L
+03/01/2011,6,FEET,35.9,DEGREES F,10.81,MG/L
+03/01/2011,6.5,FEET,36.3,DEGREES F,8.98,MG/L
+03/09/2011,1.5,FEET,33,DEGREES F,14.87,MG/L
+03/09/2011,2.5,FEET,33.4,DEGREES F,13.96,MG/L
+03/09/2011,3.5,FEET,34,DEGREES F,13.33,MG/L
+03/09/2011,4.5,FEET,34.9,DEGREES F,13.04,MG/L
+03/09/2011,5.5,FEET,35.6,DEGREES F,11.23,MG/L
+03/09/2011,6.5,FEET,35.9,DEGREES F,8.04,MG/L
+03/17/2011,2,FEET,33.5,DEGREES F,14.03,MG/L
+03/17/2011,3,FEET,35,DEGREES F,13.67,MG/L
+03/17/2011,4,FEET,35.8,DEGREES F,13.25,MG/L
+03/17/2011,5,FEET,36.2,DEGREES F,12.6,MG/L
+03/17/2011,6,FEET,36.6,DEGREES F,12.47,MG/L
+03/17/2011,7,FEET,37.1,DEGREES F,11.93,MG/L
+03/17/2011,7.5,FEET,37.2,DEGREES F,11.52,MG/L
+03/31/2011,2,FEET,34,DEGREES F,13.57,MG/L
+03/31/2011,3,FEET,34.6,DEGREES F,12.69,MG/L
+03/31/2011,4,FEET,36.4,DEGREES F,12.79,MG/L
+03/31/2011,5,FEET,37,DEGREES F,12.15,MG/L
+03/31/2011,6,FEET,37.8,DEGREES F,11.59,MG/L
+03/31/2011,7,FEET,38,DEGREES F,10.44,MG/L
+02/02/2012,2,FEET,32.7,F,14.88,MG/L
+02/02/2012,4,FEET,34.1,F,13.97,MG/L
+02/02/2012,6,FEET,34.4,F,13.03,MG/L
+02/02/2012,8,FEET,35.6,F,9.13,MG/L
+02/02/2012,10,FEET,36.7,F,5.7,MG/L
+02/17/2012,2,FEET,33.1,F,14.89,MG/L
+02/17/2012,3,FEET,33.6,F,13.79,MG/L
+02/17/2012,4,FEET,34.1,F,13.32,MG/L
+02/17/2012,5,FEET,34.5,F,12.68,MG/L
+02/17/2012,6,FEET,34.9,F,9.34,MG/L
+02/17/2012,7,FEET,35.4,F,7.53,MG/L
+02/17/2012,8,FEET,35.7,F,6.12,MG/L
+02/17/2012,9,FEET,36.6,F,4.41,MG/L
+02/17/2012,10,FEET,36.7,F,3.44,MG/L
+02/23/2012,2,FEET,32.6,F,13.5,MG/L
+02/23/2012,3,FEET,33.6,F,13.47,MG/L
+02/23/2012,4,FEET,34.2,F,12.85,MG/L
+02/23/2012,5,FEET,34.4,F,12.5,MG/L
+02/23/2012,6,FEET,34.5,F,12.19,MG/L
+02/23/2012,7,FEET,35.1,F,11.13,MG/L
+02/23/2012,8,FEET,36.3,F,5.8,MG/L
+02/23/2012,9,FEET,36.5,F,3.95,MG/L
+02/23/2012,10,FEET,36.7,F,3.15,MG/L
+02/28/2012,2,FEET,32.6,F,16.5,MG/L
+02/28/2012,3,FEET,33.3,F,14.5,MG/L
+02/28/2012,4,FEET,34,F,13.75,MG/L
+02/28/2012,5,FEET,34.4,F,13.2,MG/L
+02/28/2012,6,FEET,34.5,F,12.3,MG/L
+02/28/2012,7,FEET,34.8,F,9.11,MG/L
+02/28/2012,8,FEET,35.6,F,6.57,MG/L
+02/28/2012,9,FEET,36.4,F,3.62,MG/L
+02/28/2012,10,FEET,36.4,F,3.22,MG/L
+03/08/2012,2,FEET,32.4,F,14.5,MG/L
+03/08/2012,3,FEET,32.9,F,14.41,MG/L
+03/08/2012,4,FEET,33.4,F,14,MG/L
+03/08/2012,5,FEET,34.1,F,13.6,MG/L
+03/08/2012,6,FEET,34.3,F,13.1,MG/L
+03/08/2012,7,FEET,34.5,F,12.18,MG/L
+03/08/2012,8,FEET,35,F,9.62,MG/L
+03/08/2012,9,FEET,35.5,F,6.73,MG/L
+01/14/2013,3.4,FEET,35.5,F,15.19,MG/L
+01/14/2013,6.3,FEET,36.2,F,15.04,MG/L
+01/14/2013,10,FEET,37.5,F,13.15,MG/L
+02/15/2013,2,FEET,33.5,F,15.43,MG/L
+02/15/2013,5,FEET,34.1,F,15.28,MG/L
+02/15/2013,8,FEET,35.3,F,11.32,MG/L
+02/15/2013,10,FEET,35.8,F,6.61,MG/L
+02/26/2013,2,FEET,33.8,F,15.67,MG/L
+02/26/2013,3,FEET,34.1,F,15.447,MG/L
+02/26/2013,4,FEET,34.5,F,15.31,MG/L
+02/26/2013,5,FEET,34.9,F,15.2,MG/L
+02/26/2013,6,FEET,35.1,F,15.01,MG/L
+02/26/2013,7,FEET,35.4,F,13.86,MG/L
+03/07/2013,2.5,FEET,32.9,F,15.8,MG/L
+03/07/2013,3,FEET,33.1,F,16.01,MG/L
+03/07/2013,4,FEET,33.5,F,15.73,MG/L
+03/07/2013,5,FEET,34.1,F,15.46,MG/L
+03/07/2013,6,FEET,34.7,F,15.1,MG/L
+03/07/2013,7,FEET,35.2,F,14.13,MG/L
+03/07/2013,8,FEET,35.2,F,9.03,MG/L
+
+
+
+Start Date,Fieldwork Comment
+01/07/2010,15 inches of ice
+01/20/2010,15  inches of ice- snowpack 2  inches
+02/05/2010,16  inches of ice- snowpack 8 inches
+02/22/2010,ice thickness 23 inches- snowpack 4 inches
+03/01/2010,ice thickness 22 inches- snowpack 10 inches
+03/08/2010,ice thickness 23 inches- snowpack 4 inches
+03/16/2010,ice thickness 19 inches- snowpack 0 inches 9.7 feet deep
+01/11/2011,Depth 8.2 feet- ice thickness 15 inches
+01/20/2011,Depth 8.2 feet- ice thickness 15.5 inches
+02/01/2011,Depth 8.3 feet- ice thickness 16 inches
+02/09/2011,Depth 7.9 feet- ice thickness 19 inches
+02/17/2011,Depth 8.1 feet- ice thickness 16.5 inches
+03/01/2011,Depth 7.8 feet- ice thickness 16 inches
+03/09/2011,Depth 7.7 feet- ice thickness 20 inches
+03/17/2011,Depth 8.2 feet- ice thickness 15 inches water on ice
+03/31/2011,Depth 8.5 feet- ice thickness 20 inches
+05/18/2013,same as Musky Bay ----murky
+07/26/2014,H2O temp 72 degree F
+08/04/2014,H2O temp 75 degree F
+08/26/2014,H2O temp 70.5 degree F
+09/06/2014,H2O temp 66.4 degree F    rained 5.5 inches in the last 24 hours
+05/23/2015,Water Temp--59 degree F.
+05/30/2015,Water Temp--60.1 degree F.
+06/07/2015,Water Temp--63.8 degree F.
+06/14/2015,Water Temp--67.5 degree F.
+06/25/2015,Water Temp--71 degree F.
+07/09/2015,Water Temp--72 degree F. 
+07/16/2015,Water Temp--74 degree F.
+07/23/2015,Water Temp--76 degree F.
+08/04/2015,Water Temp--70 degree F.
+
+Duck weed and filimentatous algae floating on surface
+08/11/2015,Water Temp 71.3 degree F.
+08/18/2015,Water Temp--73.4 degree F.
+09/22/2015,Water Temp--65 degree F.
+05/27/2017,H2O temp 56 degrees F
+06/20/2017,H2O temp 69.2 degrees F
+07/02/2017,H2O  temp 65.5 degrees F
+07/11/2017,H2O temp 77.2 degrees F
+07/22/2017,H2O temp 78.0 degrees F
+08/27/2017,H2O temp 63.8 degrees F
+09/07/2017,H2o temp 73.7 degrees F
+09/12/2017,H2O temp 64.0 degrees F
+09/20/2017,H2O temp 62.0 degrees F
+
+
+
+
+Start Date,Group Name,Project Name
+01/07/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+01/20/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/05/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/22/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/01/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/08/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/16/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+01/11/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+01/20/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/01/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/09/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/17/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/01/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/09/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/17/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/31/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/02/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/17/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/23/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/28/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/08/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/06/2012,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/19/2012,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/21/2012,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/27/2012,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+01/14/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/15/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+02/26/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+03/07/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/18/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/01/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/11/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/22/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/30/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/15/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/04/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/18/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/30/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/15/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/25/2013,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/26/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/04/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/10/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/26/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/06/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/14/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/23/2014,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/23/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/30/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/07/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/14/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/25/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/09/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/16/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/23/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/04/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/11/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/18/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/29/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/07/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/16/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/22/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+10/01/2015,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/02/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/21/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/30/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/11/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/17/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/28/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/09/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/15/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/25/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/03/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/15/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/23/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/31/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/07/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/19/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+10/04/2016,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/15/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+05/27/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/04/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/11/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/20/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+06/28/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/02/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/11/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/22/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+07/29/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/14/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/21/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+08/27/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/04/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/07/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/12/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+09/20/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet
+10/01/2017,Gary Pulford,Citizen Lake Monitoring - Water Quality - Lac Courte Oreilles - Musky Bay-Entrance 12 feet

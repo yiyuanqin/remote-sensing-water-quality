@@ -1,0 +1,26 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sevenmile Lake,Oneida,1605800,NO,44,,10046835,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+130826078,08/06/2016,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+130826078,09/12/2016,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/06/2016,Gina Poull,Citizen Lake Monitoring - Water Quality - Sevenmile Lake; Deep Hole
+09/12/2016,Gina Poull,Citizen Lake Monitoring - Water Quality - Sevenmile Lake; Deep Hole

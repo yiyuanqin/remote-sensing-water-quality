@@ -1,0 +1,213 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Whitefish Lake,Vilas,2324300,NO,64,,643426,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190503,06/22/1987,18,NO,5.5,,,35,,,NORMAL,,,GREEN,
+8190503,07/04/1987,16,NO,4.9,,,37,,,NORMAL,,,GREEN,
+8190503,07/18/1987,12,NO,3.6,,,41,,,NORMAL,,,GREEN,
+8190503,07/25/1987,13,NO,4,,,40,,,NORMAL,,,GREEN,
+8190503,08/10/1987,11,NO,3.3,,,43,,,NORMAL,,,GREEN,
+8190503,08/22/1987,9,NO,2.7,,,45,,,NORMAL,,,GREEN,
+8190503,09/06/1987,12,NO,3.6,,,41,,,NORMAL,,,GREEN,
+8190503,09/14/1987,14,NO,4.3,,,39,,,NORMAL,,,GREEN,
+8190503,09/24/1987,11,NO,3.3,,,43,,,NORMAL,,,BLUE,
+8190503,10/12/1987,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,
+8190503,10/19/1987,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+8190503,06/04/1988,18,NO,5.5,,,35,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190503,06/10/1988,19,NO,5.8,,,35,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190503,06/17/1988,17.5,NO,5.3,,,36,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190503,06/27/1988,15.5,NO,4.7,,,38,,,DOWN APPROXIMATELY 4",,,GREEN,1-Beautiful, could not be nicer
+8190503,07/08/1988,15,NO,4.6,,,38,,,6" BELOW NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190503,07/18/1988,16,NO,4.9,,,37,,,DOWN 6",,,GREEN,1-Beautiful, could not be nicer
+8190503,07/26/1988,15,NO,4.6,,,38,,,6" BELOW NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190503,08/06/1988,13,NO,4,,,40,,,DOWN 6",,,GREEN,2-Very minor aesthetic problems
+8190503,08/19/1988,14,NO,4.3,,,39,,,DOWN 6",,,GREEN,2-Very minor aesthetic problems
+8190503,08/30/1988,14,NO,4.3,,,39,,,DOWN 6",,,GREEN,2-Very minor aesthetic problems
+8190503,09/06/1988,14.5,NO,4.4,,,39,,,6" BELOW NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190503,09/17/1988,15,NO,4.6,,,38,,,,,,GREEN,1-Beautiful, could not be nicer
+8190503,10/08/1988,10,NO,3,,,44,,,8" BELOW NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190503,10/29/1988,12,NO,3.6,,,41,,,6" BELOW NORMAL,,,GREEN,
+8190503,07/03/1989,11,NO,3.3,,,43,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190503,07/31/1989,20,NO,6.1,,,34,,,1' BELOW NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190503,08/06/1989,19,NO,5.8,,,35,,,1' BELOW NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190503,08/16/1989,17,NO,5.2,,,36,,,1' BELOW NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190503,08/27/1989,18,NO,5.5,,,35,,,DOWN 1',,,GREEN,1-Beautiful, could not be nicer
+8190503,09/02/1989,22,NO,6.7,,,33,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190503,09/08/1989,22,NO,6.7,,,33,,,,,,GREEN,2-Very minor aesthetic problems
+8190503,09/14/1989,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190503,09/26/1989,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190503,10/04/1989,15,NO,4.6,,,38,,,DOWN ANOTHER 4",,,GREEN,1-Beautiful, could not be nicer
+8190503,11/10/1989,,,,,,,,,,,,BROWN,
+8190503,06/01/1990,17,NO,5.2,,,36,,,NORMAL,,,,1-Beautiful, could not be nicer
+8190503,07/10/1990,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190503,07/24/1990,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190503,08/13/1990,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190503,08/21/1990,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190503,09/20/1990,9.5,NO,2.9,,,45,,,4" HIGHER,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190503,10/09/1990,10,NO,3,,,44,,,6" >NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190503,05/30/1992,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,07/01/1995,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,07/09/1995,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,07/28/1995,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,08/13/1995,10,NO,3,,,44,,,,,CLEAR,,2-Very minor aesthetic problems
+8190749,09/04/1995,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,09/24/1995,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190749,06/30/1996,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,07/17/1996,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,08/07/1996,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,08/17/1996,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,08/25/1996,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,09/22/1996,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,06/12/1997,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,08/24/1997,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,10/18/1997,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,07/25/1998,12,NO,3.6,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190749,08/28/1999,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,08/11/2006,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190749,08/27/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,06/23/2007,14,,4.3,,,39,,,,,,,
+8190749,08/12/2008,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,07/10/2009,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,09/01/2012,12,,3.6,,,41,,,,,,,
+8190749,09/15/2013,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,08/31/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190749,07/19/2016,16,NO,4.9,,,37,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/22/1987,Sunshine but hazy.  Wind is 0-5 mph.    
+07/04/1987,Sunny and 5-10 mph wind.    
+07/18/1987,Sunny but hazy- wind at 15 mph.  Had three days of high winds and whitecaps at times.    
+07/25/1987,Sunny and light breeze.    
+08/10/1987,Sunny- calm- and just a bit of algae.    
+08/22/1987,Blustery.  Algae blooms very evident but limited to phytoplankton.    
+09/06/1987,Northwest wind at 5 mph- and algae blooms are receding.    
+09/14/1987,Little to no algae blooms- sunny and calm.    
+09/24/1987,Clear and no algae blooms.    
+10/12/1987,Sunny and calm.  No algae blooms.    
+10/19/1987,Sunny and 45 degrees.    
+06/04/1988,The temperature is 77 degrees- sunny- calm- and no algae.    
+06/10/1988,The temperature is 75 degrees- sunny- calm- and no algae bloom.    
+06/17/1988,The temperature is 77 degrees- brisk wind- and no algae bloom.    
+06/27/1988,The temperature is 73 degrees- hazy- calm- and no algae bloom.    
+07/08/1988,Clear- calm- and the temperature is 80 degrees.    
+07/18/1988,Clear- sunny- 80 degrees- ripple on the lake- and no bloom.    
+07/26/1988,Clear- breezy- the temperature is 78 degrees- and phytoplankton starting to appear.    
+08/19/1988,70 degrees- clear- calm- and radio larian phytoplankton floating.    
+08/30/1988,Sunny and calm.  Phytoplankton is decreasing.    
+09/06/1988,Calm and sunny- 56 degrees- and no algae.    
+09/17/1988,Sunny- light breeze- and no algae.    
+10/08/1988,The water is greenish brown.  Detritus and phytoplankton are increasing turbidity since last reading.  Sunny.    
+10/29/1988,The temperature is 28 degrees- sunny- light breeze.  Saw 70-80 mallards and one loon.  Last reading for 1988.    
+07/03/1989,The temperature is 78 degrees- hazy sunlight- windy- and much boat activity.  Sorry we are late in getting started this year. Water level: up 6" from last year    
+07/31/1989,Sunny- clear- calm- 75 degrees- and little algae.    
+08/06/1989,Sunny- clear- calm- 70 degrees- and some algae.    
+08/16/1989,Sunny- clear- calm- 72 degrees- and some algae.    
+08/27/1989,70 degrees- beautiful clear day.    
+09/02/1989,65 degrees- sunny- and calm.  Amazed at the clarity.  Water level: Up 2" from last report    
+09/08/1989,65 degrees- clear- slight breeze and small amount of algae.    
+09/14/1989,The temperature is 65 degrees- windy- sunny- and minimal boat traffic.    
+09/26/1989,The temperature is 50 degrees.  Clear- sunny day.  Light winds following a week with high winds.    
+10/04/1989,The temperature is 52 degrees- clear- sunny- brisk wind- and some algae.  Beautiful color on the trees.    
+11/10/1989,Intended to get another reading but winter came too early.  Water temperature is 39 degrees.  Loons and mallards are still here.  See you in the spring!    
+06/01/1990,Water 60 F.    
+08/13/1990,Some free-floating phytoplankton.    
+10/09/1990,Turnover- dark turbidity- water 54 F @ 2'.    
+05/30/1992,Does not seem as clear as normal.  Visibility less than normal scuba diving 5/31.    
+09/04/1995,Had a rainstorm last night.  Lots of boat activity today.  Looks like pollen in water.    
+09/24/1995,Public perception due to phytoplankton levels.    
+07/17/1996,Partly cloudy day. hardly any boat traffic.    
+08/07/1996,Not much boat activity.    
+08/25/1996,Little traffic.  Beautiful day.    
+09/22/1996,No other boats on lake- cloudy day.    
+06/12/1997,No boat activity- warm day.    
+06/23/2007,It was a sunny day about 80 degrees. It was a sunny day about 80 degrees. Assume noon
+08/12/2008,We went out in our canoe.  The weather was mostly cloudy and about 75 degrees.
+07/10/2009,The weather was in the 60's and it was a sunny day.  I saw two eagles and one loon.
+09/01/2012,It was a sunny day.  I saw a bald eagle flying over the lake.
+07/19/2016,It was a sunny day and the temperature was about 75 degrees. We saw a loon and a baby loon.
+
+
+
+
+Start Date,Group Name,Project Name
+06/22/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/04/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/18/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/25/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/10/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/22/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/06/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/14/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/24/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/12/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/19/1987,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/04/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/10/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/17/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/27/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/08/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/18/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/26/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/06/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/19/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/30/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/06/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/17/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/08/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/29/1988,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/03/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/31/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/06/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/16/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/27/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/02/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/08/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/14/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/26/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/04/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+11/10/1989,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/01/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/10/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/24/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/13/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/21/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/20/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/09/1990,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+05/30/1992,David Picard,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/01/1995,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/09/1995,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/28/1995,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/13/1995,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/04/1995,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/24/1995,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/30/1996,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/17/1996,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/07/1996,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/17/1996,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/25/1996,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/22/1996,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/12/1997,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/24/1997,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+10/18/1997,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/25/1998,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/28/1999,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/11/2006,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/27/2006,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+06/23/2007,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/12/2008,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/10/2009,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/01/2012,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+09/15/2013,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+08/31/2014,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County
+07/19/2016,Sharry Wuest,Citizen Lake Monitoring - Water Quality - Whitefish Lake- Vilas County

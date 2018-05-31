@@ -1,0 +1,423 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Jersey Valley Lake,Vernon,1191600,WC,63,,633124,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/13/1973,,,,,80,,62,,,,,,
+1,11/14/1973,,,,,40,,57,,,,,,
+1,03/04/1974,,,,,990,,82,,,,,,
+1,04/25/1974,,,,,150,,67,,,,,,
+1,08/29/1974,,,,,30,,54,,,,,,
+1,10/07/1974,,,,,80,,62,,,,,,
+1,02/22/1994,,,,5.88,1480,,85,48,,,,,
+1,06/23/1994,7.5,,2.3,5.43,23,48,52,48,,,,,
+1,07/19/1994,5.9,,1.8,8.57,23,52,52,51,,,,,
+10585278,07/19/1994,, ,,,,,,,,,,,
+1,09/06/1994,6.6,,2,13.4,21,50,52,54,,,,,
+1,10/10/1994,9.5,,2.9,15.6,45,45,58,56,,,,,
+7000020,03/09/2005,,,,,,,,,,,,,
+7000020,03/29/2005,,,,,,,,,,,,,
+7000013,04/26/2005,,,,,,,,,,,,,
+7000020,02/11/2009,,,,,,,,,,,,,
+49665497,05/18/2011,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+49665497,06/02/2011,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+49665497,06/15/2011,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+49665497,06/28/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+49665497,07/11/2011,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+49665497,07/28/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+49665497,08/09/2011,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+49665497,08/24/2011,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+49665497,05/18/2012,3,NO,0.9,,77,61,62,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+49665497,06/01/2012,3.5,NO,1.1,28.3,55,59,59,60,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49665497,06/15/2012,9.5,NO,2.9,6.88,52,45,59,49,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+49665497,06/26/2012,3,NO,0.9,79.1,74,61,61,68,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49665490,07/09/2012,,,,35.6,74,,61,62,,,,,
+49665497,07/09/2012,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49665490,07/26/2012,,,,129,77,,62,72,,,,,
+49665490,08/07/2012,,,,10.3,26,,53,52,,,,,
+49665490,08/21/2012,,,,29.2,38,,56,60,,,,,
+1,09/06/2012,,,,2.43,,,,42,,,,,
+1,10/01/2012,,,,7.22,,,,50,,,,,
+49665490,05/31/2013,,,,4.17,61.4,,60,46,,,,,
+49665490,06/11/2013,,,,26,67.4,,61,59,,,,,
+49665490,06/26/2013,,,,108,51.4,,59,70,,,,,
+49665490,07/12/2013,,,,314,136,,66,78,,,,,
+49665490,07/25/2013,,,,15.6,43.9,,57,56,,,,,
+49665490,08/06/2013,,,,24,41.6,,57,59,,,,,
+49665490,08/21/2013,,,,17.5,19.4,,51,56,,,,,
+1,05/22/2014,,,,2.33,38.1,,56,41,,,,,
+49665490,05/22/2014,21,NO,6.4,,,33,,,NORMAL,23,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/05/2014,,,,15.1,40.4,,57,55,,,,,
+49665490,06/05/2014,7,NO,2.1,,,49,,,NORMAL,24,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+1,06/19/2014,,,,26.1,,,,59,,,,,
+49665490,06/19/2014,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/02/2014,,,,11.8,104,,64,53,,,,,
+49665490,07/02/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/16/2014,,,,43.2,67.7,,61,63,,,,,
+49665497,07/16/2014,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/28/2014,,,,85.6,89.4,,63,68,,,,,
+49665497,07/28/2014,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,08/12/2014,,,,37.7,58.2,,60,62,,,,,
+49665497,08/12/2014,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+49665497,09/20/2014,,,,62.4,56.4,,59,66,,,,,
+1,05/21/2015,,,,3.28,56.3,,59,44,,,,,
+1,06/03/2015,,,,21.3,41.1,,57,58,,,,,
+1,06/29/2015,,,,5.69,,,,48,,,,,
+1,07/15/2015,,,,6.16,,,,49,,,,,
+1,08/10/2015,,,,12.8,43.1,,57,54,,,,,
+1,08/24/2015,,,,22.1,34,,55,58,,,,,
+1,10/10/2015,,,,16.5,30.8,,55,56,,,,,
+129249453,05/16/2016,22,NO,6.7,,25.6,33,53,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+129249453,06/21/2016,,,,3.12,65.4,,61,43,,,,,
+129249453,06/27/2016,,,,22,52.2,,59,58,,,,,
+145444981,07/12/2016,,,,3.32,20.8,,52,44,,,,,
+1,07/26/2016,,,,1.9,22.5,,52,40,,,,,
+129249453,08/22/2016,,,,8.46,26.5,,54,51,,,,,
+129249453,09/16/2016,,,,22.3,40,,57,58,,,,,
+129249453,06/13/2017,17,NO,5.2,1.74,17.8,36,50,39,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/19/2017,,,,5.96,56.7,,59,48,,,,,
+129249453,07/19/2017,12,NO,3.6,,,41,,,NORMAL,28,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+129249453,08/09/2017,4.25,NO,1.3,,,56,,,NORMAL,28,MURKY,BROWN,4-Would not swim but boating OK (algae)
+160504108,08/09/2017,,,,37,231,,70,62,,,,,
+129249453,09/14/2017,,,,7.17,42.2,,57,50,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/13/1973,,,11.3889,C,0,MG/L
+11/14/1973,,,43,C,10.2,MG/L
+03/04/1974,,,.555556,C,10.3,MG/L
+04/25/1974,,,10,C,11.4,MG/L
+08/29/1974,,,10.5556,C,1.6,MG/L
+10/07/1974,,,11.6667,C,7,MG/L
+02/22/1994,,,2.0,C,0.5,MG/L
+06/23/1994,,,11.8,C,0.00,MG/L
+07/19/1994,,,11.8,C,0.25,MG/L
+09/06/1994,,,16.2,C,0.70,MG/L
+10/10/1994,,,15.0,C,12.8,MG/L
+03/09/2005,,,2.1,C,0.3,MG/L
+03/29/2005,,,21.1,C,3.7,MG/L
+04/26/2005,,,12.3,C,11.9,MG/L
+02/11/2009,,,2.3,C,8.4,MG/L
+05/18/2011,0,FEET,14.8,DEGREES C,10.74,MG/L
+05/18/2011,3,FEET,14.8,DEGREES C,10.54,MG/L
+05/18/2011,6,FEET,14.8,DEGREES C,10.6,MG/L
+05/18/2011,9,FEET,14.7,DEGREES C,11.08,MG/L
+05/18/2011,12,FEET,13.4,DEGREES C,12.99,MG/L
+05/18/2011,15,FEET,11,DEGREES C,15.3,MG/L
+05/18/2011,18,FEET,9.6,DEGREES C,15.7,MG/L
+05/18/2011,21,FEET,8.8,DEGREES C,8.06,MG/L
+05/18/2011,24,FEET,7.7,DEGREES C,.79,MG/L
+06/02/2011,0,FEET,21.6,DEGREES C,19.63,MG/L
+06/02/2011,3,FEET,20.3,DEGREES C,22.1,MG/L
+06/02/2011,6,FEET,19.9,DEGREES C,19.51,MG/L
+06/02/2011,9,FEET,18.1,DEGREES C,13.69,MG/L
+06/02/2011,12,FEET,14.6,DEGREES C,8.4,MG/L
+06/02/2011,15,FEET,13,DEGREES C,7.9,MG/L
+06/02/2011,18,FEET,12.1,DEGREES C,7.6,MG/L
+06/02/2011,21,FEET,9.8,DEGREES C,.39,MG/L
+06/02/2011,24,FEET,8.9,DEGREES C,.25,MG/L
+06/15/2011,0,FEET,20.7,DEGREES C,6.69,MG/L
+06/15/2011,3,FEET,20.7,DEGREES C,6.7,MG/L
+06/15/2011,6,FEET,20.7,DEGREES C,6.4,MG/L
+06/15/2011,9,FEET,19.2,DEGREES C,.23,MG/L
+06/15/2011,12,FEET,16.1,DEGREES C,.21,MG/L
+06/15/2011,15,FEET,14.7,DEGREES C,.22,MG/L
+06/15/2011,18,FEET,13.3,DEGREES C,.2,MG/L
+06/15/2011,21,FEET,11.8,DEGREES C,.18,MG/L
+06/15/2011,22,FEET,10,DEGREES C,.17,MG/L
+06/28/2011,0,FEET,23.6,DEGREES C,16.26,MG/L
+06/28/2011,3,FEET,23.4,DEGREES C,16.55,MG/L
+06/28/2011,6,FEET,21.3,DEGREES C,2.67,MG/L
+06/28/2011,9,FEET,19.1,DEGREES C,1.18,MG/L
+06/28/2011,12,FEET,17.2,DEGREES C,.36,MG/L
+06/28/2011,15,FEET,16.1,DEGREES C,.55,MG/L
+06/28/2011,18,FEET,15,DEGREES C,.28,MG/L
+06/28/2011,21,FEET,13,DEGREES C,.29,MG/L
+07/11/2011,0,FEET,27.6,DEGREES C,9.25,MG/L
+07/11/2011,3,FEET,27.1,DEGREES C,9.5,MG/L
+07/11/2011,6,FEET,25.5,DEGREES C,5.96,MG/L
+07/11/2011,9,FEET,21.6,DEGREES C,3.12,MG/L
+07/11/2011,12,FEET,19.1,DEGREES C,.87,MG/L
+07/11/2011,15,FEET,17,DEGREES C,.08,MG/L
+07/11/2011,18,FEET,15.8,DEGREES C,.03,MG/L
+07/11/2011,21,FEET,14.5,DEGREES C,.02,MG/L
+07/28/2011,0,FEET,26.4,DEGREES C,7.74,MG/L
+07/28/2011,3,FEET,26.2,DEGREES C,7.82,MG/L
+07/28/2011,6,FEET,25.9,DEGREES C,7.68,MG/L
+07/28/2011,9,FEET,22.9,DEGREES C,9.09,MG/L
+07/28/2011,12,FEET,20.4,DEGREES C,.72,MG/L
+07/28/2011,15,FEET,18.7,DEGREES C,.3,MG/L
+07/28/2011,18,FEET,17.3,DEGREES C,.25,MG/L
+07/28/2011,21,FEET,15.5,DEGREES C,.24,MG/L
+07/28/2011,24,FEET,11.7,DEGREES C,.27,MG/L
+08/09/2011,0,FEET,26,DEGREES C,15.86,MG/L
+08/09/2011,3,FEET,25.8,DEGREES C,15.87,MG/L
+08/09/2011,6,FEET,25.6,DEGREES C,14.65,MG/L
+08/09/2011,9,FEET,23.1,DEGREES C,6.43,MG/L
+08/09/2011,12,FEET,21.4,DEGREES C,2.62,MG/L
+08/09/2011,15,FEET,20,DEGREES C,.48,MG/L
+08/09/2011,18,FEET,18.5,DEGREES C,.38,MG/L
+08/09/2011,21,FEET,16.5,DEGREES C,.31,MG/L
+08/24/2011,0,FEET,25.6,DEGREES C,15.55,MG/L
+08/24/2011,3,FEET,24.5,DEGREES C,14.87,MG/L
+08/24/2011,6,FEET,23,DEGREES C,3.37,MG/L
+08/24/2011,9,FEET,21.5,DEGREES C,.49,MG/L
+08/24/2011,12,FEET,20.3,DEGREES C,.43,MG/L
+08/24/2011,15,FEET,19.5,DEGREES C,.37,MG/L
+08/24/2011,18,FEET,19,DEGREES C,.36,MG/L
+08/24/2011,21,FEET,17.5,DEGREES C,.35,MG/L
+08/24/2011,23,FEET,13.3,DEGREES C,.46,MG/L
+05/18/2012,0,FEET,66.5,DEGREES F,16.64,MG/L
+05/18/2012,3,FEET,66.3,DEGREES F,16.65,MG/L
+05/18/2012,6,FEET,65.6,DEGREES F,16.55,MG/L
+05/18/2012,9,FEET,62.6,DEGREES F,9.55,MG/L
+05/18/2012,12,FEET,58.8,DEGREES F,6.66,MG/L
+05/18/2012,15,FEET,56.3,DEGREES F,5.09,MG/L
+05/18/2012,18,FEET,54.1,DEGREES F,4.21,MG/L
+05/18/2012,21,FEET,51,DEGREES F,1.04,MG/L
+05/18/2012,24,FEET,48,DEGREES F,.19,MG/L
+05/18/2012,26.5,FEET,46.9,DEGREES F,.14,MG/L
+06/01/2012,0,FEET,20.2,DEGREES C,8.52,MG/L
+06/01/2012,3,FEET,20,DEGREES C,8.62,MG/L
+06/01/2012,6,FEET,19.5,DEGREES C,8.6,MG/L
+06/01/2012,9,FEET,19.3,DEGREES C,7.7,MG/L
+06/01/2012,12,FEET,16.4,DEGREES C,3.84,MG/L
+06/01/2012,15,FEET,14.8,DEGREES C,1.9,MG/L
+06/01/2012,18,FEET,12.9,DEGREES C,1.08,MG/L
+06/01/2012,21,FEET,11.9,DEGREES C,.31,MG/L
+06/01/2012,24,FEET,10.7,DEGREES C,.32,MG/L
+06/01/2012,27,FEET,9.2,DEGREES C,.43,MG/L
+06/15/2012,0,FEET,22.4,DEGREES C,7.21,MG/L
+06/15/2012,3,FEET,22.1,DEGREES C,6.77,MG/L
+06/15/2012,6,FEET,21.8,DEGREES C,5.01,MG/L
+06/15/2012,9,FEET,20.7,DEGREES C,3.05,MG/L
+06/15/2012,12,FEET,17.6,DEGREES C,.61,MG/L
+06/15/2012,15,FEET,15.8,DEGREES C,.09,MG/L
+06/15/2012,18,FEET,14.1,DEGREES C,.04,MG/L
+06/15/2012,21,FEET,12.1,DEGREES C,.03,MG/L
+06/15/2012,24,FEET,9.9,DEGREES C,.03,MG/L
+06/26/2012,0,FEET,24.7,DEGREES C,13.95,MG/L
+06/26/2012,3,FEET,24.7,DEGREES C,13.52,MG/L
+06/26/2012,6,FEET,24.2,DEGREES C,4.03,MG/L
+06/26/2012,9,FEET,22.1,DEGREES C,1.3,MG/L
+06/26/2012,12,FEET,19.5,DEGREES C,.03,MG/L
+06/26/2012,15,FEET,16.9,DEGREES C,1.51,MG/L
+06/26/2012,18,FEET,15.2,DEGREES C,.25,MG/L
+06/26/2012,21,FEET,12.4,DEGREES C,.25,MG/L
+06/26/2012,23,FEET,10.8,DEGREES C,.22,MG/L
+07/09/2012,0,FEET,29.9,DEGREES C,9.1,MG/L
+07/09/2012,3,FEET,28.4,DEGREES C,10.6,MG/L
+07/09/2012,6,FEET,26.1,DEGREES C,.36,MG/L
+07/09/2012,9,FEET,23,DEGREES C,.29,MG/L
+07/09/2012,12,FEET,20.3,DEGREES C,.3,MG/L
+07/09/2012,15,FEET,18,DEGREES C,.28,MG/L
+07/09/2012,18,FEET,15.9,DEGREES C,.25,MG/L
+07/09/2012,21,FEET,13.1,DEGREES C,.24,MG/L
+07/09/2012,22.5,FEET,11.1,DEGREES C,.22,MG/L
+05/22/2014,1,FEET,18,DEGREES C,.1,MG/L
+05/22/2014,3,FEET,17.4,DEGREES C,16.6,MG/L
+05/22/2014,6,FEET,17,DEGREES C,17.91,MG/L
+05/22/2014,9,FEET,15,DEGREES C,17.5,MG/L
+05/22/2014,12,FEET,14,DEGREES C,16.61,MG/L
+05/22/2014,15,FEET,12.4,DEGREES C,17.58,MG/L
+05/22/2014,18,FEET,10.6,DEGREES C,16.08,MG/L
+05/22/2014,21,FEET,9.5,DEGREES C,14.55,MG/L
+05/22/2014,23.2,FEET,8.1,DEGREES C,10.38,MG/L
+06/05/2014,1,FEET,24.3,DEGREES C,14.31,MG/L
+06/05/2014,3,FEET,23.3,DEGREES C,12.51,MG/L
+06/05/2014,6,FEET,22.4,DEGREES C,12.62,MG/L
+06/05/2014,9,FEET,20.1,DEGREES C,10.57,MG/L
+06/05/2014,12,FEET,17.2,DEGREES C,11.62,MG/L
+06/05/2014,15,FEET,14.9,DEGREES C,9.31,MG/L
+06/05/2014,18,FEET,13.2,DEGREES C,8.5,MG/L
+06/05/2014,21,FEET,11,DEGREES C,3.33,MG/L
+06/05/2014,24,FEET,9.5,DEGREES C,.44,MG/L
+06/19/2014,0,FEET,23.6,DEGREES F,12.22,MG/L
+06/19/2014,3,FEET,23.5,DEGREES F,11.44,MG/L
+06/19/2014,6,FEET,20.9,DEGREES F,7.13,MG/L
+06/19/2014,9,FEET,19.8,DEGREES F,6.69,MG/L
+06/19/2014,12,FEET,18.9,DEGREES F,6.22,MG/L
+06/19/2014,15,FEET,17.9,DEGREES F,4.56,MG/L
+06/19/2014,18,FEET,16.2,DEGREES F,4.51,MG/L
+06/19/2014,21,FEET,14.1,DEGREES F,2.32,MG/L
+06/19/2014,24,FEET,11.8,DEGREES F,.49,MG/L
+07/02/2014,0,FEET,22.6,DEGREES F,7.63,MG/L
+07/02/2014,3,FEET,22.6,DEGREES F,7.14,MG/L
+07/02/2014,6,FEET,22.6,DEGREES F,7.01,MG/L
+07/02/2014,9,FEET,21.4,DEGREES F,1.03,MG/L
+07/02/2014,12,FEET,18.6,DEGREES F,.44,MG/L
+07/02/2014,15,FEET,17.6,DEGREES F,.33,MG/L
+07/02/2014,18,FEET,16.7,DEGREES F,.28,MG/L
+07/02/2014,21,FEET,15.6,DEGREES F,.25,MG/L
+07/02/2014,24,FEET,11.2,DEGREES F,.26,MG/L
+07/16/2014,0,FEET,22.4,DEGREES F,11.36,MG/L
+07/16/2014,3,FEET,22.1,DEGREES F,10.35,MG/L
+07/16/2014,6,FEET,21.6,DEGREES F,10.16,MG/L
+07/16/2014,9,FEET,21.3,DEGREES F,9.25,MG/L
+07/16/2014,12,FEET,19.4,DEGREES F,.78,MG/L
+07/16/2014,15,FEET,18.5,DEGREES F,.39,MG/L
+07/16/2014,18,FEET,17.3,DEGREES F,.31,MG/L
+07/16/2014,21,FEET,17.1,DEGREES F,.25,MG/L
+07/16/2014,24,FEET,12.1,DEGREES F,.28,MG/L
+07/28/2014,0,FEET,24.2,DEGREES F,14.49,MG/L
+07/28/2014,3,FEET,23.7,DEGREES F,12.85,MG/L
+07/28/2014,6,FEET,23.1,DEGREES F,11.78,MG/L
+07/28/2014,9,FEET,21.4,DEGREES F,1.56,MG/L
+07/28/2014,12,FEET,19.5,DEGREES F,.64,MG/L
+07/28/2014,15,FEET,18.6,DEGREES F,.45,MG/L
+07/28/2014,18,FEET,17.9,DEGREES F,.37,MG/L
+07/28/2014,21,FEET,16.1,DEGREES F,.33,MG/L
+07/28/2014,24,FEET,11.8,DEGREES F,.3,MG/L
+07/28/2014,26,FEET,10.9,DEGREES F,.29,MG/L
+08/12/2014,0,FEET,23,DEGREES F,8.71,MG/L
+08/12/2014,3,FEET,23.1,DEGREES F,10.34,MG/L
+08/12/2014,6,FEET,22.8,DEGREES F,10.03,MG/L
+08/12/2014,9,FEET,20.7,DEGREES F,1.28,MG/L
+08/12/2014,12,FEET,19.8,DEGREES F,.42,MG/L
+08/12/2014,15,FEET,19.1,DEGREES F,.18,MG/L
+08/12/2014,18,FEET,18.1,DEGREES F,.16,MG/L
+08/12/2014,21,FEET,17.1,DEGREES F,.15,MG/L
+08/12/2014,24,FEET,13.4,DEGREES F,.17,MG/L
+05/16/2016,3,FEET,14,DEGREES F,10,MG/L
+05/16/2016,6,FEET,13.6,DEGREES F,9.91,MG/L
+05/16/2016,9,FEET,13.4,DEGREES F,9.95,MG/L
+05/16/2016,12,FEET,13.3,DEGREES F,10.24,MG/L
+05/16/2016,15,FEET,12.9,DEGREES F,10.48,MG/L
+05/16/2016,18,FEET,12.3,DEGREES F,10.74,MG/L
+05/16/2016,21,FEET,10.7,DEGREES F,10.98,MG/L
+05/16/2016,24,FEET,9.7,DEGREES F,5.12,MG/L
+06/13/2017,3,FEET,24.5,DEGREES C,4.25,MG/L
+06/13/2017,6,FEET,24.1,DEGREES C,4.81,MG/L
+06/13/2017,9,FEET,22.8,DEGREES C,5.56,MG/L
+06/13/2017,12,FEET,18.9,DEGREES C,6.58,MG/L
+06/13/2017,15,FEET,17.1,DEGREES C,6.94,MG/L
+06/13/2017,18,FEET,15.9,DEGREES C,7.58,MG/L
+06/13/2017,21,FEET,14.8,DEGREES C,8.43,MG/L
+06/13/2017,23,FEET,14.5,DEGREES C,8.92,MG/L
+07/19/2017,0,FEET,26.4,DEGREES C,.81,MG/L
+07/19/2017,3,FEET,26.3,DEGREES C,3.67,MG/L
+07/19/2017,6,FEET,25.9,DEGREES C,4.33,MG/L
+07/19/2017,9,FEET,21.4,DEGREES C,4.6,MG/L
+07/19/2017,12,FEET,19.6,DEGREES C,5.1,MG/L
+07/19/2017,15,FEET,18.5,DEGREES C,5.95,MG/L
+07/19/2017,18,FEET,12.6,DEGREES C,4.5,MG/L
+07/19/2017,21,FEET,16.9,DEGREES C,5.01,MG/L
+07/19/2017,24,FEET,15.6,DEGREES C,3.1,MG/L
+07/19/2017,27,FEET,15.8,DEGREES C,1.35,MG/L
+08/09/2017,0,FEET,23,DEGREES F,1.58,MG/L
+08/09/2017,3,FEET,22.1,DEGREES F,5.14,MG/L
+08/09/2017,6,FEET,19.9,DEGREES F,4.22,MG/L
+08/09/2017,9,FEET,18.5,DEGREES F,3.17,MG/L
+08/09/2017,12,FEET,17.5,DEGREES F,2.2,MG/L
+08/09/2017,15,FEET,17.1,DEGREES F,3.62,MG/L
+08/09/2017,18,FEET,16.5,DEGREES F,3.04,MG/L
+08/09/2017,21,FEET,16,DEGREES F,3.89,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/13/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/14/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/04/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/25/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/22/1994,LATE WINTER SAMPLE - LAKES    
+06/23/1994,SUMMER SAMPLING    
+07/19/1994,SEDIMENT DEPTH = 4 INCHES     
+07/19/1994,SUMMER SAMPLING    
+09/06/1994,SUMMER SAMPLING    
+03/09/2005,DEEP HOLE W' 6' INTEGRATED DEPTH SAMPLER    
+03/29/2005,DEEP HOLE WITH 6FT INTEGRATED DEPTH SAMPLER    
+04/26/2005,DEEP POOL IN LAKE (80FT FROM OUTFALL VALVE)    
+05/16/2016,Sunny- breezy.  First time on lake for 2016 season.  with Aaron Wunderlin and Erica Olson.  2 Canadian geese were present- swimming and flying.
+07/19/2017,These samples were taken by Erica Olson and Savannah Williams
+08/09/2017,Erica Olson and Callie Herron collected the lake samples
+
+
+
+
+Start Date,Group Name,Project Name
+07/13/1973,Data Collectors,Migrated from STORET Legacy
+11/14/1973,Data Collectors,Migrated from STORET Legacy
+03/04/1974,Data Collectors,Migrated from STORET Legacy
+04/25/1974,Data Collectors,Migrated from STORET Legacy
+08/29/1974,Data Collectors,Migrated from STORET Legacy
+10/07/1974,Data Collectors,Migrated from STORET Legacy
+02/22/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/23/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/1994,GINA LALIBERTE,
+09/06/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/10/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/09/2005,CYNTHIA KOPERSKI,Wastewater Compliance
+03/29/2005,CYNTHIA KOPERSKI,Wastewater Compliance
+04/26/2005,CHARLES CAMERON,Response Monitoring
+02/11/2009,CYNTHIA KOPERSKI,Response Monitoring
+05/18/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+06/02/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+06/15/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+06/28/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+07/11/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+07/28/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+08/09/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+08/24/2011,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+05/18/2012,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+06/01/2012,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+06/15/2012,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+06/26/2012,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+07/09/2012,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+07/09/2012,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/26/2012,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/07/2012,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/21/2012,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+09/06/2012,Data Collectors,
+10/01/2012,Data Collectors,
+05/31/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/11/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/26/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/12/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/25/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/06/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/21/2013,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+05/22/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+05/22/2014,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/05/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/05/2014,John Frame,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/19/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/19/2014,John Frame,UW-Discovery Farms Jersey Valley Watershed Project
+07/02/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/02/2014,John Frame,UW-Discovery Farms Jersey Valley Watershed Project
+07/16/2014,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+07/16/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/28/2014,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+07/28/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/12/2014,Amber Radatz,UW-Discovery Farms Jersey Valley Watershed Project
+08/12/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+09/20/2014,Amber Radatz,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+05/21/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/03/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/29/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/15/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/10/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/24/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+10/10/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+05/16/2016,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/21/2016,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/27/2016,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/12/2016,Matthew Filla,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/26/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/22/2016,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+09/16/2016,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/13/2017,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+06/13/2017,Kevan Klingberg,Citizen Lake Monitoring Network QA/QC - 2017
+07/19/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+07/19/2017,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/09/2017,Erica Olson,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+08/09/2017,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole
+09/14/2017,Kevan Klingberg,Citizen Lake Monitoring - Water Quality - Jersey Valley Lake - Deep Hole

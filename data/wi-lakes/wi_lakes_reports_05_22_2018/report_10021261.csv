@@ -1,0 +1,293 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake of the Woods,Barron,2632100,NO,3,,10021261,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+19228254,08/10/2007,1,,0.3,,,77,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+19229359,08/10/2007,,,,,,,,,,,,,
+19228254,08/15/2007,2,NO,0.6,,,67,,,LOW,,,GREEN,5-Enjoyment substantially impaired (algae)
+19228254,08/29/2007,4.25,NO,1.3,,,56,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+19228254,09/01/2007,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19228254,10/03/2007,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19228254,05/25/2008,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19228254,06/08/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19228254,06/19/2008,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+19228254,07/15/2008,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19228254,08/07/2008,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19228254,08/18/2008,3.75,NO,1.1,,,58,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19228254,09/16/2008,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19228254,10/02/2008,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19228254,06/10/2009,8.5,NO,2.6,,,46,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+19228254,06/26/2009,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19228254,09/02/2009,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19228254,09/09/2009,5.25,NO,1.6,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19229359,06/06/2014,3.5,NO,1.1,,,59,,,,,MURKY,YELLOW,2-Very minor aesthetic problems
+19229359,06/24/2014,2.3,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19229359,07/04/2014,2,NO,0.6,,,67,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19228254,05/07/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19228254,06/06/2017,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+19228254,06/20/2017,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19228254,06/21/2017,,,,21.9,57.3,,59,58,,,,,
+19228254,07/02/2017,3.25,NO,1,,,60,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+19228254,07/25/2017,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19228254,08/06/2017,,,,33.5,54,,59,61,,,,,
+19228254,08/07/2017,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19228254,09/04/2017,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36799391,09/05/2017,,,,42.8,42.1,,57,63,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/10/2007,0.98,METERS,25.09,DEGREES C,12.74,MG/L
+08/10/2007,1.74,METERS,24.07,DEGREES C,10.15,MG/L
+08/10/2007,2.38,METERS,23.04,DEGREES C,4.19,MG/L
+08/10/2007,2.92,METERS,21.69,DEGREES C,1.18,MG/L
+08/10/2007,3.45,METERS,18.96,DEGREES C,.7,MG/L
+08/10/2007,3.92,METERS,16.49,DEGREES C,.54,MG/L
+08/10/2007,4.44,METERS,13.67,DEGREES C,.45,MG/L
+08/10/2007,4.98,METERS,10.95,DEGREES C,.45,MG/L
+08/10/2007,5.45,METERS,9.05,DEGREES C,.43,MG/L
+08/10/2007,5.95,METERS,7.22,DEGREES C,.38,MG/L
+08/10/2007,6.43,METERS,6.25,DEGREES C,.46,MG/L
+08/10/2007,6.9,METERS,5.25,DEGREES C,1.35,MG/L
+08/10/2007,7.37,METERS,4.98,DEGREES C,2.3,MG/L
+08/10/2007,7.85,METERS,4.78,DEGREES C,2.45,MG/L
+08/10/2007,8.34,METERS,4.46,DEGREES C,1.91,MG/L
+08/10/2007,8.8,METERS,4.24,DEGREES C,1.21,MG/L
+08/10/2007,9.32,METERS,4.22,DEGREES C,.67,MG/L
+08/10/2007,9.75,METERS,4.18,DEGREES C,.47,MG/L
+08/10/2007,10.21,METERS,4.15,DEGREES C,.41,MG/L
+08/10/2007,10.6,METERS,4.14,DEGREES C,.41,MG/L
+08/10/2007,11.08,METERS,4.15,DEGREES C,.45,MG/L
+08/10/2007,11.53,METERS,4.16,DEGREES C,.35,MG/L
+08/10/2007,11.97,METERS,4.16,DEGREES C,.33,MG/L
+08/10/2007,12.43,METERS,4.17,DEGREES C,.37,MG/L
+08/10/2007,12.88,METERS,4.17,DEGREES C,.5,MG/L
+08/10/2007,13.35,METERS,4.17,DEGREES C,.4,MG/L
+08/10/2007,13.79,METERS,4.17,DEGREES C,.35,MG/L
+08/10/2007,14.69,METERS,4.16,DEGREES C,.3,MG/L
+08/10/2007,15.15,METERS,4.16,DEGREES C,.34,MG/L
+08/10/2007,16.04,METERS,4.15,DEGREES C,.33,MG/L
+06/20/2017,1,FEET,72.6,DEGREES F,,
+06/20/2017,3,FEET,72.3,DEGREES F,,
+06/20/2017,5,FEET,71.2,DEGREES F,,
+06/20/2017,7,FEET,70.5,DEGREES F,,
+06/20/2017,9,FEET,60.3,DEGREES F,,
+06/20/2017,11,FEET,53.9,DEGREES F,,
+06/20/2017,15,FEET,48.9,DEGREES F,,
+06/20/2017,17,FEET,47.4,DEGREES F,,
+06/20/2017,20,FEET,46,DEGREES F,,
+06/20/2017,25,FEET,43.7,DEGREES F,,
+06/20/2017,30,FEET,42,DEGREES F,,
+06/20/2017,35,FEET,42,DEGREES F,,
+07/02/2017,1,FEET,78,DEGREES F,,
+07/02/2017,3,FEET,72,DEGREES F,,
+07/02/2017,5,FEET,68.7,DEGREES F,,
+07/02/2017,9,FEET,61.8,DEGREES F,,
+07/02/2017,11,FEET,55.2,DEGREES F,,
+07/02/2017,15,FEET,44.8,DEGREES F,,
+07/02/2017,17,FEET,48.2,DEGREES F,,
+07/02/2017,20,FEET,45.6,DEGREES F,,
+07/02/2017,25,FEET,42.8,DEGREES F,,
+07/02/2017,30,FEET,41,DEGREES F,,
+07/02/2017,35,FEET,40.2,DEGREES F,,
+07/02/2017,40,FEET,39.9,DEGREES F,,
+07/25/2017,1,FEET,79.5,DEGREES F,,
+07/25/2017,3,FEET,76.6,DEGREES F,,
+07/25/2017,5,FEET,74.6,DEGREES F,,
+07/25/2017,8,FEET,66.5,DEGREES F,,
+07/25/2017,11,FEET,58.6,DEGREES F,,
+07/25/2017,15,FEET,48.9,DEGREES F,,
+07/25/2017,18,FEET,47.3,DEGREES F,,
+07/25/2017,20,FEET,46,DEGREES F,,
+07/25/2017,25,FEET,43.7,DEGREES F,,
+07/25/2017,28,FEET,42.2,DEGREES F,,
+07/25/2017,30,FEET,41.5,DEGREES F,,
+07/25/2017,35,FEET,40.9,DEGREES F,,
+07/25/2017,40,FEET,40.2,DEGREES F,,
+07/25/2017,45,FEET,40.1,DEGREES F,,
+07/25/2017,49,FEET,39.9,DEGREES F,,
+07/25/2017,53,FEET,39.9,DEGREES F,,
+08/07/2017,1,FEET,71.4,DEGREES F,,
+08/07/2017,5,FEET,64.8,DEGREES F,,
+08/07/2017,10,FEET,62.2,DEGREES F,,
+08/07/2017,15,FEET,60,DEGREES F,,
+08/07/2017,20,FEET,55.6,DEGREES F,,
+08/07/2017,25,FEET,43.1,DEGREES F,,
+08/07/2017,30,FEET,41,DEGREES F,,
+08/07/2017,35,FEET,40.5,DEGREES F,,
+08/07/2017,40,FEET,40.2,DEGREES F,,
+08/07/2017,45,FEET,40.1,DEGREES F,,
+08/07/2017,50,FEET,39.9,DEGREES F,,
+09/04/2017,1,FEET,67.6,DEGREES F,,
+09/04/2017,5,FEET,66.5,DEGREES F,,
+09/04/2017,10,FEET,66.2,DEGREES F,,
+09/04/2017,15,FEET,51.8,DEGREES F,,
+09/04/2017,20,FEET,47.8,DEGREES F,,
+09/04/2017,25,FEET,44.6,DEGREES F,,
+09/04/2017,30,FEET,42.2,DEGREES F,,
+09/04/2017,35,FEET,41.7,DEGREES F,,
+09/04/2017,40,FEET,41,DEGREES F,,
+09/04/2017,45,FEET,41,DEGREES F,,
+09/04/2017,50,FEET,40.4,DEGREES F,,
+09/04/2017,55,FEET,40.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/10/2007,Clear bright sunny day- calm lake surface. Temperature and D.O. profile obtained with Hydrolab MiniSonde 4a generously loaned by Dr. James Cotner- Department of Ecology- Evolution- and Behavior- University of Minnesota.   Data entered for 08/10/2007 for readings from surface to 8.34 meters.  Data for rest of profile (8.8 to 16.04 meters) were entered for date of 08/11/2007 due to lack of reporting space for 08/10/2007.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+08/10/2007,Secchi disk training session with Dave Blumer and Frank Barnwell.  Calm- sunny day.
+Made quick survey of lake for invasive Eurasian Water-milfoil- Curly-leaf Pondweed- and Purple Loosestrife and found no signs of any.
+08/15/2007,Cloudy- warm
+08/29/2007,Sunny- slight breeze- cool
+09/01/2007,Warm- sunny and breezy.  Beautiful day
+One young loon present  also 2 gray heron
+Anne Owens was present also
+10/03/2007,Sunny- cool and 65 degree.   Breezy
+05/25/2008,60 degrees-  7 Swans on the lake very noisy- all 4 lake monitors on board- 3 boys fishing
+06/08/2008,Observed otter swimming alone-Partly sunny- slight breeze about 65 degrees 2 loons don't appear to be nesting   1 fisherman-no fish yet
+06/19/2008,Bright Sunny -  June Bloom water is full of green specks-  one loon-no one else on lake
+Abundant dragonflies.  Slight breeze
+07/15/2008,Bright Sun- one loon on  lake- slight breeze
+08/07/2008,Bright sun- 2 loons- cloudless sky- Beautiful day.  68 degrees
+08/18/2008,Hot day- 87 degrees- 2 loons on lake-  sometimes as many as six for short periods- slight breeze
+09/16/2008,Beautiful- breezy.  loons are gone and leaves are turning
+Saw two banded swans on the 15th
+10/02/2008,Clear beautiful sky- frost last night 55 degrees today.  Slight breeze Water low
+06/10/2009,Cool green algae globs in water- no breeze-need rain-Loons lost eggs to (beaver)  Heron on lake
+06/26/2009,Hot- sunny--no breeze   need rain  Loons here Water lever very low-
+09/02/2009,Sunny-  75 degrees- feels like fall-  Slight breeze-  Loons have left-  Saw 6 herons on lake- level still very
+low
+09/09/2009,Overcast and very warm 82 degrees-lake still very low-but is clearer in appearance-still seeing 
+ducks- herons and beaver swam by Dave and Leah's dock-
+05/07/2017,Clear and cloudless sky
+52 degree temp
+Wind slight out of the NW
+Loons on the lake
+No nest
+We are only ones of the lake- just a wonderful spring day- leaves just starting to show
+Good day to be on the water
+06/06/2017,Sunny- slight breeze out of NE  Only one loon  Daughter Julia home from France
+06/20/2017,Clear with few clouds-  very light breeze no one on the lake but us.   Very beautiful day   First day
+of trying to take a chemical test.   What an experience. NO Loon   we have seen only one from time
+to time.  Think it might be because we have and 4  (four) eagles flying around.  
+08/07/2017,Clear cloudless sky.  Beautiful blue/like Montana Blue  No wind 65 degrees
+Life is good
+09/04/2017,High clouds-filtered sun- choppy on lake- breezy.  Beautiful fall day-  Yesterday it was over 80 degrees today looking
+at high 60's.  Some boaters fishing- not much action- kayaking was great.  Will do chemical testing tomorrow  No loons and humming birds are starting to leave. Lots of deer   No Bear action lately
+
+
+
+
+Start Date,Group Name,Project Name
+08/10/2007,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/10/2007,Frank Barnwell,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/15/2007,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/29/2007,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+09/01/2007,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+10/03/2007,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+05/25/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/08/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/19/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+07/15/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/07/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/18/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+09/16/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+10/02/2008,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/10/2009,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/26/2009,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+09/02/2009,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+09/09/2009,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/06/2014,Frank Barnwell,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/24/2014,Frank Barnwell,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+07/04/2014,Frank Barnwell,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+05/07/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/06/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/20/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+06/21/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+07/02/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+07/25/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/06/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+08/07/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+09/04/2017,David and Leah Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole
+09/05/2017,David Grove,Citizen Lake Monitoring - Water Quality - Lake Of The Woods- Barron Co; Deep Hole

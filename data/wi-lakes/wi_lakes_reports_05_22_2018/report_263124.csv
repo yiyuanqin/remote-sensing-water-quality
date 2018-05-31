@@ -1,0 +1,71 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Gile Flowage,Iron,2942300,NO,26,,263124,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189984,10/23/1993,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+1,05/21/1997,5.2,,1.6,,38,53,56,,,,,,
+34997658,07/26/2012,4,NO,1.2,18.5,30,57,54,57,,,,,
+145829701,06/27/2017,5,NO,1.5,7.16,,54,,50,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,07/31/2017,4,NO,1.2,5.82,30.1,57,55,48,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/21/1997,,,9.0,C,10.8,MG/L
+07/26/2012,0,METERS,25.1,DEGREES C,7.39,MG/L
+07/26/2012,0.5,METERS,25.2,DEGREES C,7.37,MG/L
+07/26/2012,1,METERS,25.2,DEGREES C,7.28,MG/L
+07/26/2012,1.5,METERS,25.1,DEGREES C,7.16,MG/L
+07/26/2012,2,METERS,25,DEGREES C,7.04,MG/L
+07/26/2012,2.5,METERS,25,DEGREES C,7.01,MG/L
+07/26/2012,3,METERS,25,DEGREES C,7.02,MG/L
+07/26/2012,3.5,METERS,25,DEGREES C,7,MG/L
+07/26/2012,4,METERS,25,DEGREES C,7,MG/L
+07/26/2012,4.5,METERS,25,DEGREES C,7.01,MG/L
+07/26/2012,5,METERS,25,DEGREES C,7,MG/L
+07/26/2012,5.5,METERS,25,DEGREES C,7.01,MG/L
+07/26/2012,6,METERS,25,DEGREES C,6.96,MG/L
+07/26/2012,6.5,METERS,25,DEGREES C,6.64,MG/L
+07/26/2012,,,25.1,C,7.37,MG/L
+06/27/2017,0,FEET,66.2,DEGREES F,,
+06/27/2017,3,FEET,66,DEGREES F,,
+06/27/2017,6,FEET,65.6,DEGREES F,,
+06/27/2017,9,FEET,65.4,DEGREES F,,
+06/27/2017,12,FEET,65.3,DEGREES F,,
+06/27/2017,15,FEET,65.1,DEGREES F,,
+06/27/2017,18,FEET,64.7,DEGREES F,,
+06/27/2017,21,FEET,64.5,DEGREES F,,
+06/27/2017,24,FEET,64.4,DEGREES F,,
+06/27/2017,27,FEET,64.2,DEGREES F,,
+07/31/2017,0,FEET,76.8,DEGREES F,,
+07/31/2017,3,FEET,76.2,DEGREES F,,
+07/31/2017,6,FEET,76.1,DEGREES F,,
+07/31/2017,9,FEET,74.1,DEGREES F,,
+07/31/2017,12,FEET,72.8,DEGREES F,,
+07/31/2017,15,FEET,71.9,DEGREES F,,
+07/31/2017,18,FEET,71.4,DEGREES F,,
+07/31/2017,21,FEET,70.5,DEGREES F,,
+07/31/2017,24,FEET,70.3,DEGREES F,,
+07/31/2017,27,FEET,70.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/27/2017,Harold Schmude took myself- Jeff and Karla Miller out on his pontoon to complete June Citizen Lake Monitoring. Conditions were calm- partial cloudy- 65 degrees. Harold Schmude took myself- Jeff and Karla Miller out on his pontoon to complete June Citizen Lake Monitoring. Conditions were calm- partial cloudy- 65 degrees. 
+07/31/2017,Clyde Smith took Karla +  Jeff Miller along with myself out on the Gile Flowage. The weather was warm- 80 degrees- calm waters. It was a beautiful day. We viewed an eagle nest with 2 young eagles and mother flying nearby. 
+ 
+
+
+
+
+Start Date,Group Name,Project Name
+10/23/1993,Bill Ahrens,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+05/21/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+07/26/2012,Angie Stine,FRIENDS OF THE GILE FLOWAGE INC: Integrated Education- Planning + Research Approach to Spiny Water Flea Populations in Northern Lakes
+06/27/2017,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+07/31/2017,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole

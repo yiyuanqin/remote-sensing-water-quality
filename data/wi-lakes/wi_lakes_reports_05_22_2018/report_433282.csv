@@ -1,0 +1,122 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Green Lake,Oconto,459900,NE,43,,433282,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1982,,,,5,20,,51,47,,,,,
+1,10/25/1982,7.2,,2.2,11,20,49,51,53,,,,,
+1,02/16/1983,,,,1,20,,51,35,,,,,
+1,04/28/1983,12.1,,3.7,3,20,41,51,43,,,,,
+1,02/20/1984,,,,5,20,,51,47,,,,,
+1,05/14/1984,,,,5,20,,51,47,,,,,
+8189694,05/26/1997,12,NO,3.6,,,41,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189694,06/06/1997,14,NO,4.3,,,39,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,06/22/1997,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,07/04/1997,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,07/21/1997,11.5,NO,3.5,,,42,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189694,08/02/1997,9.75,NO,3,,,44,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189694,08/18/1997,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189694,08/28/1997,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,09/04/1997,17.25,NO,5.2,,,36,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189694,09/13/1997,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125862804,07/30/2016,,,,2.72,18.4,,51,42,,,,,
+139333015,07/30/2016,15,NO,4.6,,,38,,,NORMAL,6,CLEAR,YELLOW,2-Very minor aesthetic problems
+139333015,08/28/2016,15,YES,4.6,,,38,,,NORMAL,6,CLEAR,YELLOW,2-Very minor aesthetic problems
+139333015,09/30/2016,14,YES,4.3,,,39,,,NORMAL,6,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+18137035,08/09/2017,,,,4.34,16.8,,50,46,,,,,
+18137035,09/04/2017,,,,3.4,19.8,,51,44,,,,,
+1,10/01/2017,,,,1.56,17.1,,50,38,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/25/1982,,,8.5,C,10.1,MG/L
+02/16/1983,,,1.5,C,1,MG/L
+04/28/1983,,,14,C,11.8,MG/L
+02/20/1984,,,2,C,.2,MG/L
+05/14/1984,,,11,C,11.6,MG/L
+07/30/2016,3,FEET,76.4,DEGREES F,,
+07/30/2016,6,FEET,76.2,DEGREES F,,
+07/30/2016,9,FEET,75.9,DEGREES F,,
+07/30/2016,12,FEET,73.7,DEGREES F,,
+07/30/2016,15,FEET,68.3,DEGREES F,,
+07/30/2016,18,FEET,58.8,DEGREES F,,
+07/30/2016,21,FEET,53.4,DEGREES F,,
+07/30/2016,24,FEET,51.9,DEGREES F,,
+07/30/2016,27,FEET,51.4,DEGREES F,,
+08/28/2016,3,FEET,73.2,DEGREES F,,
+08/28/2016,6,FEET,73.4,DEGREES F,,
+08/28/2016,9,FEET,73.4,DEGREES F,,
+08/28/2016,12,FEET,70.5,DEGREES F,,
+08/28/2016,15,FEET,64.2,DEGREES F,,
+08/28/2016,18,FEET,56.1,DEGREES F,,
+08/28/2016,21,FEET,53.6,DEGREES F,,
+08/28/2016,24,FEET,53.6,DEGREES F,,
+08/28/2016,27,FEET,52.8,DEGREES F,,
+09/30/2016,3,FEET,63,DEGREES F,,
+09/30/2016,6,FEET,62.7,DEGREES F,,
+09/30/2016,9,FEET,62.6,DEGREES F,,
+09/30/2016,12,FEET,62.6,DEGREES F,,
+09/30/2016,15,FEET,62.6,DEGREES F,,
+09/30/2016,18,FEET,62.4,DEGREES F,,
+09/30/2016,21,FEET,61.1,DEGREES F,,
+09/30/2016,24,FEET,57.2,DEGREES F,,
+09/30/2016,27,FEET,56.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/26/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/25/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/16/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/28/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/20/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/14/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/26/1997,Very windy- hard to tell what the color really was.    
+06/06/1997,Warm and nice.    
+06/22/1997,Heavy rain.    
+07/04/1997,Very windy and heavy rain.    
+07/21/1997,Small sections of lake bottom in shallows coming up- every year- same problem.  Very stinky.    
+08/02/1997,Lots of snails all over the lake shallows.  Water level: very low.    
+08/18/1997,Snails all over- small pike - no good.  No floating bogs.    
+08/28/1997,Lots of rain- fewer floating bogs.  Lots of snails all over everything.  Have to get the northern out- ruining our lake.    
+09/04/1997,No floating bogs.  Many snails- lot of northern - bad news.    
+09/13/1997,Very nice.  Snails all over everything.  Many small northern.    
+07/30/2016,wheather was good.  Lake was clear.  geese and ducks on the lake (always) 
+08/28/2016,clear day- clear water ducks and geese
+09/30/2016,clear weather clear lake ducks and geese
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1982,Data Collectors,Migrated from STORET Legacy
+10/25/1982,Data Collectors,Migrated from STORET Legacy
+02/16/1983,Data Collectors,Migrated from STORET Legacy
+04/28/1983,Data Collectors,Migrated from STORET Legacy
+02/20/1984,Data Collectors,Migrated from STORET Legacy
+05/14/1984,Data Collectors,Migrated from STORET Legacy
+05/26/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+06/06/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+06/22/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/04/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/21/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/02/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/18/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/28/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/04/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/13/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/30/2016,Brenda L Nordin- TRAVIS J KINNING,Directed Lakes 2016 Nordin
+07/30/2016,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/30/2016,Pat Peeters,Directed Lakes 2016 Nordin
+08/28/2016,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/28/2016,Pat Peeters,Directed Lakes 2016 Nordin
+09/30/2016,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/30/2016,Pat Peeters,Directed Lakes 2016 Nordin
+08/09/2017,Brenda Nordin,East Proposed Projects 2016
+09/04/2017,Brenda Nordin,East Proposed Projects 2016
+10/01/2017,Data Collectors,Water Chemistry Data Analyses Tyler Forks- Upper Bad- and Potato River Watersheds 

@@ -1,0 +1,292 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Waupaca,5551281,NE,69,,693095,CE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/23/1992,,,,2.94,14,,49,43,,,,,
+1,02/03/1993,,,,,5,,41,,,,,,
+1,05/18/1993,,,,2.91,20,,51,43,,,,,
+8190629,05/21/1994,20.5,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,05/28/1994,15,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190629,06/04/1994,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/12/1994,14.75,NO,4.5,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/26/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/04/1994,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/10/1994,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/17/1994,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/23/1994,11.775,NO,3.6,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/30/1994,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/02/1994,12,NO,3.6,,,41,,,,,,,1-Beautiful, could not be nicer
+8190629,08/07/1994,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/13/1994,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/21/1994,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/27/1994,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/11/1994,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/18/1994,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/21/1994,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,10/09/1994,14.25,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,10/16/1994,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/04/1995,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/11/1995,11.75,NO,3.6,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/18/1995,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/02/1995,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/09/1995,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/22/1995,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/29/1995,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/20/1995,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/04/1995,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/17/1995,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,10/04/1995,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,05/26/1996,13.25,NO,4,,,40,,,,,CLEAR,BLUE,
+8190629,06/22/1996,16.25,NO,4.9,,,37,,,,,CLEAR,BLUE,
+8190629,07/13/1996,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,
+8190629,07/21/1996,15.25,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190629,08/03/1996,14.25,NO,4.3,,,39,,,,,CLEAR,BLUE,
+8190629,08/10/1996,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,
+8190629,08/17/1996,16,NO,4.9,,,37,,,,,CLEAR,BLUE,
+8190629,08/24/1996,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,
+8190629,08/31/1996,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,
+8190629,09/22/1996,15.25,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190629,10/12/1996,13,NO,4,,,40,,,,,CLEAR,BLUE,
+8190629,10/19/1996,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,
+8190629,06/14/1997,24.75,NO,7.5,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/21/1997,23,NO,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/05/1997,17.75,NO,5.4,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/12/1997,19.5,NO,5.9,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/27/1997,16.75,NO,5.1,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/03/1997,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/13/1997,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/31/1997,15.25,NO,4.6,,,38,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/06/1997,13.25,NO,4,,,40,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,05/23/1998,16.25,NO,4.9,,,37,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/14/1998,17.75,NO,5.4,,,36,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/21/1998,26,NO,7.9,,,30,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/27/1998,17,NO,5.2,,,36,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/05/1998,18,NO,5.5,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/12/1998,16.25,NO,4.9,,,37,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/19/1998,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/26/1998,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/02/1998,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/16/1998,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/23/1998,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/30/1998,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/07/1998,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/12/1999,18.5,NO,5.6,,,35,,,NO CHANGE,,CLEAR,BLUE,
+8190629,06/26/1999,19.75,NO,6,,,34,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/11/1999,15.25,NO,4.6,,,38,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/25/1999,12.75,NO,3.9,,,40,,,,,CLEAR,,
+8190629,08/01/1999,11.75,NO,3.6,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/21/1999,11.5,NO,3.5,,,42,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/06/1999,16.25,NO,4.9,,,37,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/11/2000,18.75,NO,5.7,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/18/2000,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/01/2000,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/16/2000,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/30/2000,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/12/2000,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,09/09/2000,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/24/2001,18.75,NO,5.7,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/08/2001,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/05/2001,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/19/2001,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/03/2002,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/31/2002,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/29/2003,21.75,NO,6.6,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/13/2003,28,NO,8.5,,,29,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/31/2003,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190629,06/19/2004,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/30/2004,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,
+8190629,07/23/2004,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,
+8190629,09/01/2004,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/13/2005,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/03/2005,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/19/2005,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,08/07/2005,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/04/2006,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/25/2006,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,08/13/2006,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/01/2007,20.5,NO,6.2,,,34,,,LOW,,,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/13/2007,19.75,NO,6,,,34,,,LOW,,,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,08/13/2007,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190629,07/26/2009,13.75,NO,4.2,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/31/2009,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/10/2010,24.5,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,05/13/2015,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,06/15/2015,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,07/05/2015,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190629,08/26/2015,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/26/2016,14.2,N,4.3,3.71,14.4,39,49,45,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/23/1992,,,15.36,C,0.57,MG/L
+02/03/1993,,,1.88,C,0.88,MG/L
+07/26/2016,,,25.4,C,0.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/21/1994,Sunny- slight breeze- ripples.    
+05/28/1994,Windy-partly cloudy.    
+06/04/1994,Sunny- calm.    
+06/12/1994,Sunny- breezy- storm yesterday.    
+06/26/1994,Sunny- breezy.    
+07/04/1994,Bright- overcast (shadows visible) - slight breeze- rain last night.    
+07/10/1994,Sunny- ripples- 5+" of rain last week.    
+07/17/1994,Sunny- ripples.    
+07/23/1994,Partly sunny- ripples.    
+07/30/1994,Sunny- breezy.    
+08/07/1994,Sunny- breezy- ripples.    
+08/13/1994,Overcast- but sun.  Medium ripples.  Record rain in July - 12.18".    
+08/21/1994,Sunny- calm- 3" rain last week.    
+08/27/1994,Sunny- medium ripples.    
+09/11/1994,Sunny- breezy-small waves.    
+09/18/1994,Sunny.    
+10/16/1994,Breezy.    
+06/04/1995,Sunny- calm.    
+06/11/1995,Sunny- slight waves.    
+06/18/1995,Sunny- slight waves.    
+07/02/1995,Sunny- waves.    
+07/09/1995,Sunny- waves.    
+07/22/1995,Sunny- calm.    
+07/29/1995,Sunny- gentle waves.    
+08/20/1995,Sunny- calm.  8.3" rain in 10 days.    
+09/04/1995,Sunny- calm.    
+09/17/1995,Sunny- calm.    
+10/04/1995,Sunny- calm.    
+06/14/1997,Sunny and calm.    
+07/27/1997,Overcast and calm    
+08/03/1997,Overcast and calm    
+08/13/1997,Overcast and calm    
+07/01/2000,Windy- signs of beaver.    
+07/30/2000,Slight breeze.    
+06/24/2001,Beaver dam built in channel.    
+07/26/2009,Breezy
+06/10/2010,Sunny
+05/13/2015,4 ? inches of rain this past week   4 ? inches of rain this past week 4 ? inches of rain this past week
+
+
+
+
+Start Date,Group Name,Project Name
+09/23/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Little Waupaca Chain O Lakes Management Planning
+09/23/1992,Data Collectors,LAKE MGT PROJECTS
+02/03/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Little Waupaca Chain O Lakes Management Planning
+02/03/1993,Data Collectors,LAKE MGT PROJECTS
+05/18/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Little Waupaca Chain O Lakes Management Planning
+05/18/1993,Data Collectors,LAKE MGT PROJECTS
+05/21/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+05/28/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/04/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/12/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/26/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/04/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/10/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/17/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/23/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/30/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/02/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/07/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/13/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/21/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/27/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/11/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/18/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/21/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+10/09/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+10/16/1994,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/04/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/11/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/18/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/02/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/09/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/22/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/29/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/20/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/04/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/17/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+10/04/1995,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+05/26/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/22/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/13/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/21/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/03/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/10/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/17/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/24/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/31/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/22/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+10/12/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+10/19/1996,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/14/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/21/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/05/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/12/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/27/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/03/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/13/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/31/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/06/1997,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+05/23/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/14/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/21/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/27/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/05/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/12/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/19/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/26/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/02/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/16/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/23/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/30/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/07/1998,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/12/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/26/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/11/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/25/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/01/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/21/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/06/1999,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/11/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/18/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/01/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/16/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/30/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/12/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/09/2000,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/24/2001,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/08/2001,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/05/2001,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/19/2001,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/03/2002,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/31/2002,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/29/2003,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/13/2003,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/31/2003,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/19/2004,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/30/2004,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/23/2004,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+09/01/2004,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/13/2005,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/03/2005,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/19/2005,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/07/2005,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/04/2006,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/25/2006,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/13/2006,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/01/2007,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/13/2007,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/13/2007,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/26/2009,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/31/2009,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/10/2010,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+05/13/2015,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+06/15/2015,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/05/2015,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+08/26/2015,Jackie Stanislawski,Citizen Lake Monitoring - Water Quality - Knight Lake; Deep Hole - Waupaca Co
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning

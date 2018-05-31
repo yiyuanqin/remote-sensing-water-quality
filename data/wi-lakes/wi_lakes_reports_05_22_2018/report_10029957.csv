@@ -1,0 +1,73 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Vilas,1618600,NO,64,,10029957,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+130046967,06/23/2016,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+130046967,06/30/2016,3.25,NO,1,,,60,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+130046967,07/16/2016,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+130046967,07/24/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+130046967,08/01/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+130046967,08/17/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+130046967,08/25/2016,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+130046967,09/02/2016,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+130046967,09/18/2016,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+130046967,06/09/2017,3,NO,0.9,,,61,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+130046967,06/30/2017,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130046967,07/11/2017,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+130046967,07/19/2017,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130046967,07/27/2017,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130046967,08/05/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130046967,08/20/2017,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130046967,08/29/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+130046967,09/13/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130046967,09/21/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/16/2016,large spheres of algal slime along the shoreline
+07/24/2016,we have had very high winds- algae is pretty much gone.
+09/02/2016,very murky all across the lake today.
+09/18/2016,water is dark brown like coffee- but clear as far as I can see (not too far!)
+06/09/2017,bright sun- particulate matter thick throughout the visible water column.
+06/30/2017,mostly cloudy
+07/11/2017,partly cloudy
+07/27/2017,partly cloudy
+08/05/2017,partly cloudy
+08/20/2017,mostly clear sky mostly clear
+08/29/2017,mostly clear
+09/13/2017,sky clear
+09/21/2017,sky clear
+
+
+
+
+Start Date,Group Name,Project Name
+06/23/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+06/30/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+07/16/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+07/24/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+08/01/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+08/17/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+08/25/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+09/02/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+09/18/2016,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+06/09/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+06/30/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+07/11/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+07/19/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+07/27/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+08/05/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+08/20/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+08/29/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+09/13/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center
+09/21/2017,Bonnie Van Hise,Citizen Lake Monitoring - Water Quality - Rice Lake - Center

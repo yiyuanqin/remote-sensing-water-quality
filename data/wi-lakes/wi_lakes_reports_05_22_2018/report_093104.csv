@@ -1,0 +1,171 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Holcombe Flowage,Chippewa,2184900,WC,9,,093104,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/10/1989,5.2,,1.6,8,36,53,56,51,,,,,
+1,06/07/1989,3,,0.9,8,84,62,62,51,,,,,
+1,07/12/1989,3.3,,1,9,132,60,66,51,,,,,
+1,08/16/1989,2.3,,0.7,130,132,65,66,72,,,,,
+1,11/02/1989,6.6,,2,,,50,,,,,,,
+8189545,09/23/1992,3.25,NO,1,,,60,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,10/11/1992,3,NO,0.9,,,61,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,05/26/1993,4,NO,1.2,,,57,,,,,,BROWN,1-Beautiful, could not be nicer
+8189545,06/02/1993,3.5,NO,1.1,,,59,,,,,,BROWN,1-Beautiful, could not be nicer
+8189545,07/10/1993,3.75,NO,1.1,,,58,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,08/04/1993,4.25,NO,1.3,,,56,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,09/01/1993,4.75,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,06/02/1994,4.25,NO,1.3,,,56,,,,,,BROWN,1-Beautiful, could not be nicer
+8189545,06/24/1994,3.25,NO,1,,,60,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189545,07/10/1994,3.25,NO,1,,,60,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,07/21/1994,3.5,NO,1.1,,,59,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,08/02/1994,3.5,NO,1.1,,,59,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,08/29/1994,3,NO,0.9,,,61,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,09/28/1994,3,NO,0.9,,,61,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,05/16/1995,3,NO,0.9,,,61,,,,,,BROWN,1-Beautiful, could not be nicer
+8189545,06/01/1995,4,NO,1.2,,,57,,,,,,BROWN,1-Beautiful, could not be nicer
+8189545,07/20/1995,3.75,NO,1.1,,,58,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,08/01/1995,3.75,NO,1.1,,,58,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,08/22/1995,2.75,NO,0.8,,,63,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,05/15/1996,4.5,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,06/06/1996,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,06/19/1996,4.5,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8189545,07/03/1996,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,07/18/1996,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,08/22/1996,3.5,NO,1.1,,,59,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189545,07/28/1997,3.5,NO,1.1,,,59,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+73278295,08/13/2012,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+73278295,08/25/2012,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+73278295,09/11/2012,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+73278295,09/27/2012,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+73278295,06/30/2013,2,NO,0.6,2.38,125,67,66,41,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,07/14/2013,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,07/31/2013,3,NO,0.9,4.58,120,61,65,46,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+73278295,08/17/2013,3.75,NO,1.1,,,58,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+73278295,09/03/2013,3.5,NO,1.1,31.8,76.1,59,62,61,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+73278295,09/24/2013,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+73278295,05/26/2014,,,,,61.2,,60,,,,,,
+73278295,06/29/2014,,,,3.83,117,,65,45,,,,,
+73278295,08/03/2014,,,,23.6,79,,62,59,,,,,
+73278295,09/08/2014,,,,2.31,94.8,,63,41,,,,,
+129127555,06/28/2016,3,NO,0.9,10.3,99.9,61,64,52,NORMAL,15,,BROWN,2-Very minor aesthetic problems
+129127555,07/25/2016,3.25,NO,1,46.6,104,60,64,64,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+129127555,08/30/2016,,,,16.6,91.6,,63,56,,,,,
+1,06/19/2017,,,,3.69,134,,66,45,,,,,
+1,07/26/2017,,,,40.1,144,,67,63,,,,,
+1,09/05/2017,,,,11.8,,,,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/10/1989,,,10.7,C,10.0,MG/L
+06/07/1989,,,17.9,C,5.6,MG/L
+07/12/1989,,,24.0,C,.2,MG/L
+08/16/1989,,,18.7,C,10.1,MG/L
+11/02/1989,,,7.0,C,9.0,MG/L
+06/30/2013,3,FEET,73.4,DEGREES F,,
+06/30/2013,6,FEET,73,DEGREES F,,
+06/30/2013,9,FEET,72.8,DEGREES F,,
+06/30/2013,12,FEET,72.6,DEGREES F,,
+06/30/2013,15,FEET,72.5,DEGREES F,,
+09/03/2013,3,FEET,74.6,DEGREES F,,
+09/03/2013,6,FEET,73.2,DEGREES F,,
+09/03/2013,9,FEET,72.5,DEGREES F,,
+09/03/2013,12,FEET,71,DEGREES F,,
+09/03/2013,15,FEET,70.5,DEGREES F,,
+06/28/2016,3,FEET,73.5,DEGREES F,,
+06/28/2016,6,FEET,72.3,DEGREES F,,
+06/28/2016,9,FEET,71.4,DEGREES F,,
+06/28/2016,12,FEET,70.8,DEGREES F,,
+06/28/2016,15,FEET,70.8,DEGREES F,,
+07/25/2016,3,FEET,81.3,DEGREES F,,
+07/25/2016,6,FEET,80.6,DEGREES F,,
+07/25/2016,9,FEET,79.7,DEGREES F,,
+07/25/2016,12,FEET,79.1,DEGREES F,,
+07/25/2016,14,FEET,77.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/23/1992,Slightly windy    
+10/11/1992,Sunny; 3-4" of rain last 5-6 days; slight wind    
+05/26/1993,Cool breeze; 55 degree air temp; just after a 3 day rain    
+06/02/1993,Beautiful day starting to warm slightly- a little more cloudy at 2: 00    
+08/04/1993,Some algae but beautiful calm day with good sun    
+06/02/1994,Slight breeze- but beautiful day- no rain or storms for several days.    
+06/24/1994,It has been real hot for 2 weeks- the upper part of flowage really getting good algae bloom.  Pea soup.  Nice sunny day today- little wind.    
+07/10/1994,Improvement over the 24th + 4th of July.  It was very bad then.  Some rain lately.    
+08/02/1994,Pretty good swimming conditions- but still a lot of algae.  When it rains the dam opens and worst stuff moves out.  No rain and algae builds up.    
+08/29/1994,Bad algae bloom still on the jump river.  Our winds have been from the west and south and holding the stuff up there.  The Chippewa's heavy flow clears quickly.    
+09/28/1994,Floods last week May have stained water more than usual.  No algae.    
+05/16/1995,Chilly.    
+06/01/1995,Cool.    
+08/01/1995,Warm weather + rains.    
+08/22/1995,A lot of rain this last week.    
+08/22/1996,Algal blooms    
+07/28/1997,Algae level increasing on south end of lake due to wind.    
+08/25/2012,very windy
+09/11/2012,very windy
+09/27/2012,clear skies + calm winds
+06/28/2016,Partly cloudy- wind 4-5 mph- 68 degrees.  Quiet on the lake- very little boat traffic
+07/25/2016,Partly cloudy- winds light and variable at 2-4 mph-  temp 74 degrees- no boat traffic 
+
+
+
+
+Start Date,Group Name,Project Name
+05/10/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/07/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/12/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/16/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+11/02/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+09/23/1992,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+10/11/1992,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+05/26/1993,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/02/1993,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/10/1993,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/04/1993,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/01/1993,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/02/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/24/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/10/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/21/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/02/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/29/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/28/1994,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+05/16/1995,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/01/1995,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/20/1995,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/01/1995,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/22/1995,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+05/15/1996,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/06/1996,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/19/1996,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/03/1996,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/18/1996,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/22/1996,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/28/1997,Bill And Jean Larue,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/13/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/25/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/11/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/27/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/30/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/14/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/31/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/17/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/03/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/24/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+05/26/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/29/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/03/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/08/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/28/2016,Doug Olson,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/25/2016,Doug Olson,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+08/30/2016,Doug Olson,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+06/19/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+07/26/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Holcombe Flowage/Jump River-Mid Bay Hwy 27
+09/05/2017,Data Collectors,Bacteria + Plankton (Paid Private)

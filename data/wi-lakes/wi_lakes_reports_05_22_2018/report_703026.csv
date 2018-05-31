@@ -1,0 +1,666 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Huron,Waushara,994900,NE,70,,703026,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,11/05/1980,,,,8,,,,51,,,,,
+1,02/25/1981,,,,,20,,51,,,,,,
+1,04/27/1981,,,,,20,,51,,,,,,
+1,07/28/1981,,,,,,,,,,,,,
+1,10/27/1981,,,,,20,,51,,,,,,
+1,02/22/1982,,,,,20,,51,,,,,,
+1,05/12/1982,,,,,20,,51,,,,,,
+8190618,07/12/1987,21,NO,6.4,,,33,,,,,CLEAR,BLUE,
+8190618,07/18/1987,15,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190618,07/25/1987,16,NO,4.9,,,37,,,,,CLEAR,BLUE,
+8190618,08/02/1987,16,NO,4.9,,,37,,,,,CLEAR,BLUE,
+8190618,08/09/1987,14,NO,4.3,,,39,,,,,CLEAR,BLUE,
+8190618,08/16/1987,16,NO,4.9,,,37,,,,,,GREEN,
+8190618,08/22/1987,18,NO,5.5,,,35,,,,,,GREEN,
+8190618,09/06/1987,13,NO,4,,,40,,,,,,GREEN,
+8190618,09/13/1987,12,NO,3.6,,,41,,,,,,GREEN,
+8190618,09/20/1987,13,NO,4,,,40,,,,,,GREEN,
+8190618,09/27/1987,1,NO,0.3,,,77,,,,,,GREEN,
+8190618,10/10/1987,11.5,NO,3.5,,,42,,,,,,GREEN,
+8190618,04/30/1988,17.25,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,05/14/1988,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,05/21/1988,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,06/12/1988,12,NO,3.6,,,41,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190618,06/19/1988,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190618,06/26/1988,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/03/1988,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190618,07/09/1988,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/16/1988,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/23/1988,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/30/1988,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,08/20/1988,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,09/05/1988,11,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189679,09/18/1988,7,NO,2.1,,,49,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189679,09/25/1988,7,NO,2.1,,,49,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189679,10/09/1988,6.5,YES,2,,,50,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189679,05/07/1989,4,NO,1.2,,,57,,,,,,BROWN,
+8189679,05/14/1989,5.5,NO,1.7,,,53,,,,,,GREEN,
+8189679,05/21/1989,6,NO,1.8,,,51,,,,,,GREEN,
+8189679,05/28/1989,9.5,NO,2.9,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8189679,06/10/1989,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,06/18/1989,12.5,NO,3.8,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8189679,06/24/1989,9,NO,2.7,,,45,,,,,,GREEN,1-Beautiful, could not be nicer
+8189679,07/02/1989,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189679,07/15/1989,10,NO,3,,,44,,,,,,GREEN,1-Beautiful, could not be nicer
+8189679,07/30/1989,5.2,NO,1.6,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8189679,08/20/1989,9,NO,2.7,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8189679,09/02/1989,9.5,NO,2.9,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8189679,09/10/1989,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,10/01/1989,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,10/14/1989,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,11/12/1989,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,04/07/1990,7.5,NO,2.3,,,48,,,,,,BROWN,2-Very minor aesthetic problems
+8190617,04/14/1990,7.5,NO,2.3,,,48,,,,,,BROWN,2-Very minor aesthetic problems
+8190617,04/21/1990,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/06/1990,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/13/1990,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/26/1990,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/10/1990,23,NO,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/24/1990,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/01/1990,6,NO,1.8,,,51,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190617,07/08/1990,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,07/15/1990,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,07/21/1990,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,07/29/1990,11,NO,3.3,,,43,,,RECEDING,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,08/12/1990,15,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190617,08/26/1990,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/02/1990,6.5,NO,2,,,50,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,09/09/1990,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,10/28/1990,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,04/07/1991,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,04/27/1991,26.5,NO,8.1,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/04/1991,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/12/1991,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/19/1991,19.5,NO,5.9,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/27/1991,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/16/1991,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/04/1991,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/14/1991,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/21/1991,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/04/1991,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/17/1991,6.5,NO,2,,,50,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,08/25/1991,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/02/1991,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,09/15/1991,15,NO,4.6,,,38,,,,,,,1-Beautiful, could not be nicer
+8190617,09/28/1991,16.5,NO,5,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,10/12/1991,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,11/16/1991,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/09/1992,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/06/1992,30,NO,9.1,,,28,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,06/13/1992,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/21/1992,31,NO,9.4,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/27/1992,33,NO,10,,,27,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/05/1992,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/12/1992,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/26/1992,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,05/16/1993,25,NO,7.6,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/05/1993,28,NO,8.5,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/13/1993,29,NO,8.8,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/27/1993,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/03/1993,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/24/1993,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/01/1993,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/12/1993,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/29/1993,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/05/1993,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,10/24/1993,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/22/1994,9,NO,2.7,,,45,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190617,05/29/1994,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190617,06/05/1994,17,NO,5.2,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,06/12/1994,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/04/1994,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/10/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/17/1994,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/07/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/14/1994,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/21/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/28/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/04/1994,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/10/1994,21,NO,6.4,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/25/1994,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,10/15/1994,25,NO,7.6,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/18/1995,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,05/29/1995,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/04/1995,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/11/1995,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,06/18/1995,11,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190617,07/04/1995,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/09/1995,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/15/1995,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/22/1995,20.5,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/14/1995,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/21/1995,27,NO,8.2,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/31/1995,29.5,NO,9,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,09/14/1995,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,06/12/1996,29,NO,8.8,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/07/1996,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/16/1996,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/21/1996,21,NO,6.4,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,07/30/1996,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190617,08/11/1996,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,08/21/1996,26,NO,7.9,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,08/28/1996,29,NO,8.8,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,05/25/1997,27,NO,8.2,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,05/31/1997,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,06/07/1997,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/08/1997,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/24/1997,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/27/1997,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,08/10/1997,16,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189679,08/24/1997,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/31/1997,22,NO,6.7,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190618,05/17/1998,19,NO,5.8,,,35,,,,,,,1-Beautiful, could not be nicer
+8190618,06/07/1998,9,NO,2.7,,,45,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,06/14/1998,11,NO,3.3,,,43,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,06/22/1998,11,NO,3.3,,,43,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,07/04/1998,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/12/1998,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/17/1998,18.5,NO,5.6,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/26/1998,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190618,08/01/1998,17,NO,5.2,,,36,,,,,MURKY,BLUE,2-Very minor aesthetic problems
+8190618,08/09/1998,17,NO,5.2,,,36,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190618,08/25/1998,16,NO,4.9,,,37,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,08/30/1998,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,09/06/1998,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,04/24/1999,30,NO,9.1,,,28,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,06/27/1999,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/05/1999,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189679,07/10/1999,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/25/1999,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/02/1999,15,NO,4.6,,,38,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190618,08/29/1999,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,09/05/1999,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,09/25/1999,17,NO,5.2,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190618,06/11/2000,27,NO,8.2,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/03/2000,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/09/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/15/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/30/2000,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/08/2000,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,09/03/2000,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190618,09/10/2000,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190618,10/14/2000,11.5,NO,3.5,,,42,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189051,07/08/2001,20.5,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/29/2001,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/04/2001,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/19/2001,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/26/2001,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,09/03/2001,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190618,09/29/2001,11,NO,3.3,,,43,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188809,06/22/2002,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,06/23/2002,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,06/30/2002,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,07/04/2002,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,07/14/2002,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,07/20/2002,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,08/18/2002,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190618,08/25/2002,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190618,05/03/2003,24,NO,7.3,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,05/24/2003,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,06/01/2003,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189051,06/15/2003,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,06/28/2003,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189051,07/05/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189051,07/13/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189051,07/20/2003,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190619,07/27/2003,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189051,08/10/2003,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,08/16/2003,10,NO,3,,,44,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189051,09/01/2003,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,05/30/2004,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,
+8189051,06/06/2004,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,06/20/2004,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,06/27/2004,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189051,07/05/2004,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189051,07/18/2004,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189051,08/15/2004,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,08/22/2004,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,08/29/2004,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188809,05/28/2005,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,06/12/2005,25.5,NO,7.8,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,06/19/2005,26,NO,7.9,,,30,,,NORMAL,,CLEAR,BLUE,
+8190619,06/26/2005,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189051,07/02/2005,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,07/10/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,07/17/2005,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,
+8190619,07/24/2005,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,07/31/2005,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,08/14/2005,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,08/21/2005,24,NO,7.3,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,08/28/2005,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,09/05/2005,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190619,09/11/2005,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189051,06/11/2006,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,07/03/2006,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,08/26/2006,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190618,09/04/2006,23,NO,7,,,32,,,LOW,,CLEAR,BLUE,
+8189051,06/30/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+83687269,04/11/2010,,,,,6,,42,,,,,,
+1,11/16/2010,13.75,,4.2,,35,39,56,,,,,,
+83119654,02/15/2011,,,,,10,,46,,,,,,
+37734328,02/18/2011,,,,,,,,,,,,,
+1,04/25/2011,,,,,12,,47,,,,,,
+83687269,04/26/2011,,,,,9,,45,,,,,,
+1,04/29/2011,29.5,,9,,,28,,,,,,,
+83119654,04/29/2011,,,,,12,,47,,,,,,
+1,06/07/2011,18,,5.5,,,35,,,,,,,
+83119654,06/07/2011,,,,,11,,47,,,,,,
+1,06/27/2011,10.25,,3.1,,,44,,,,,,,
+1,06/28/2011,,,,,15,,49,,,,,,
+1,07/18/2011,10.5,,3.2,,10,43,46,,,,,,
+1,08/08/2011,,,,,13,,48,,,,,,
+1,08/31/2011,23.25,,7.1,,10,32,46,,,,,,
+1,10/26/2011,8,,2.4,,,47,,,,,,,
+116239089,02/04/2012,,,,,,,,,,,,,
+83687269,04/01/2012,,,,,6,,42,,,,,,
+1,05/02/2012,11.75,,3.6,,22,42,52,,,,,,
+1,06/04/2012,15.5,,4.7,,,38,,,,,,,
+1,06/07/2012,,,,,10,,46,,,,,,
+1,06/28/2012,7.5,,2.3,,,48,,,,,,,
+1,07/16/2012,,,,,9,,45,,,,,,
+1,07/17/2012,13.25,,4,,,40,,,,,,,
+1,08/06/2012,,,,,6,,42,,,,,,
+1,08/28/2012,6,,1.8,,6,51,42,,,,,,
+83687269,05/11/2013,,,,,11,,47,,,,,,
+83687269,05/04/2014,,,,,8,,44,,,,,,
+1,04/18/2015,,,,,15,,49,,,,,,
+1,04/18/2016,,,,,14,,49,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/05/1980,,,7.8,C,7.4,MG/L
+02/25/1981,,,4.8,C,1.2,MG/L
+04/27/1981,,,10.5,C,.7,MG/L
+07/28/1981,,,10,C,.9,MG/L
+10/27/1981,,,8.2,C,6.6,MG/L
+02/22/1982,,,2,C,6.6,MG/L
+05/12/1982,,,15.4,C,11.8,MG/L
+04/11/2010,,,50,F,,
+11/16/2010,,,8.48,C,6.28,MG/L
+02/18/2011,,,0.1,C,0.17,MG/L
+04/26/2011,,,60,F,,
+04/29/2011,,,5.7,C,10.06,MG/L
+06/07/2011,,,10.0,C,1.87,MG/L
+06/27/2011,,,11.6,C,10.12,MG/L
+07/18/2011,,,10.8,C,11.34,MG/L
+08/31/2011,,,10.8,C,1.97,MG/L
+10/26/2011,,,11.9,C,1.92,MG/L
+02/04/2012,,,0.62,C,10.54,MG/L
+05/02/2012,,,10.0,C,0.46,MG/L
+06/04/2012,,,10.8,C,0.95,MG/L
+06/28/2012,,,12.3,C,0.41,MG/L
+07/17/2012,,,11.5,C,,
+08/28/2012,,,10.4,C,0,MG/L
+05/11/2013,,,56,F,,
+
+
+
+Start Date,Fieldwork Comment
+11/05/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/25/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/27/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/28/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/22/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/12/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/12/1987,Winds at 10-15 mph out of southwest.  Good food- good swimming- should've been here!    
+07/18/1987,Wind at 10-15 mph out of southwest.    
+07/25/1987,Wind at 0-5 mph.  Bright sun.    
+08/02/1987,Wind 0-5 mph.    
+08/09/1987,Wind 0-5 mph.  Heavily overcast after 24 hour rain.    
+08/16/1987,Secchi reading taken in 40' of water.  Wind 0-5 mph after morning storm.    
+08/22/1987,Wind 5-10 mph.  Sunny.    
+09/27/1987,Wind 5-10 mph.    
+10/10/1987,Dock is out.  Heavily overcast.  Wind 0mph.    
+05/21/1988,The lake is calm    
+06/12/1988,Perception is on windward side.  8-12 mph wind.    
+06/19/1988,Very windy.    
+07/03/1988,A little algae.  Lake is calm.    
+07/09/1988,A little algae.  The lake is calm.    
+07/16/1988,Bob l. was here for an interesting and fun time!!    
+07/23/1988,Calm at this time of morning.    
+07/30/1988,Healthy ripple on lake- the water is gorgeous for swimming- few weeds on shoreline- occasional micro film on lake (from pollen- etc.- perhaps).    
+08/20/1988,Water extremely clear!    
+05/07/1989,Ice off 3 weeks ago.    
+05/14/1989,One year ago 5/14/88 depth was 19'    
+05/21/1989,Water is dirty.    
+07/02/1989,Algal blooms.    
+07/30/1989,Rained all day yesterday.    
+10/01/1989,Lake has gone down by 3' since Labor Day.    
+10/14/1989,Calm- sunny and warm.    
+11/12/1989,Have a good winter!    
+04/07/1990,Ice out 2 weeks ago    
+04/21/1990,Level down from last year.    
+05/26/1990,Overcast- sprinkling- no wind    
+06/10/1990,Slight algae bloom- deepest reading ever!    
+07/01/1990,Lots of floating algae by shore- very icky!    
+07/15/1990,Water on beach down 2' from July 4th.    
+07/21/1990,Level down from prior week.    
+07/29/1990,Water cloudy.    
+08/26/1990,Heavy rain last p.m. and this a.m.    
+10/28/1990,Last reading.    
+04/07/1991,Ice off: 4/6- windy    
+04/27/1991,Loons seen    
+08/17/1991,Water cloudy.    
+09/15/1991,Rained 2.25" in the past week    
+11/16/1991,Last reading- flock of ducks on lake.    
+06/06/1992,Just a little floating- clumped algae- mostly washed up on the shore.    
+06/13/1992,Could have registered deeper- but secchi is only 30'.  Really clear!!    
+07/12/1992,Rain this morning- 1.6".    
+05/22/1994,Lake level up several feet this year.    
+08/14/1994,Windy.    
+05/18/1995,Hi!  Ready for another year!    
+08/21/1995,We took a reading 2 days in a row and got 27' both times.  Lake is beautiful!    
+08/28/1996,Water is so clear we can watch fish swimming by the raft from deck 60+' up the hill from lake!    
+06/07/1997,Went down to the end of the rope- could possibly have seen further.    
+07/24/1997,Saw a loon diving.    
+09/05/1999,Very clear - could have gone deeper.    
+09/25/1999,Very windy.    
+06/15/2003,So far the lake level is up this year.
+    
+06/28/2003,Taken after rain.  Water level receded.
+level of lake has receded in past week.    
+07/27/2003,Water level dropping
+    
+08/10/2003,Water level dropped more since last week.
+    
+08/16/2003,Water level dropping. Water color is turquoise!!
+Just beautiful.
+    
+09/01/2003,Water level dropped again this week.
+    
+06/19/2005,Gorgeous    
+06/26/2005,Overcast    
+07/02/2005,Beautiful    
+07/10/2005,Beautiful summer day    
+07/17/2005,Grey- choppy    
+07/24/2005,Hazy- hot day- after 1" rain    
+07/31/2005,Hot- partly cloudy    
+08/14/2005,Low 70s- partly cloudy- beautiful    
+08/21/2005,Mid 70s- partly cloudy- beautiful    
+08/28/2005,Mid 70s- breezy- partly cloudy.    
+09/05/2005,Low 80s- slight breeze- partly cloudy    
+09/11/2005,Mid 80s- windy/hazy    
+06/30/2007,Lake is low.
+
+
+
+
+Start Date,Group Name,Project Name
+11/05/1980,Data Collectors,Migrated from STORET Legacy
+02/25/1981,Data Collectors,Migrated from STORET Legacy
+04/27/1981,Data Collectors,Migrated from STORET Legacy
+07/28/1981,Data Collectors,Migrated from STORET Legacy
+10/27/1981,Data Collectors,Migrated from STORET Legacy
+02/22/1982,Data Collectors,Migrated from STORET Legacy
+05/12/1982,Data Collectors,Migrated from STORET Legacy
+07/12/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/18/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/25/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/02/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/09/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/16/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/22/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/06/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/13/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/20/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/27/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/10/1987,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/30/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/14/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/21/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/12/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/19/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/26/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/03/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/09/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/16/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/23/1988,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/30/1988,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/20/1988,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/05/1988,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/18/1988,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/25/1988,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/09/1988,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/07/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/14/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/21/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/28/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/10/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/18/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/24/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/02/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/15/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/30/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/20/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/02/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/10/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/01/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/14/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+11/12/1989,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/07/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/14/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/21/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/06/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/13/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/26/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/10/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/24/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/01/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/08/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/15/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/21/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/29/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/12/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/26/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/02/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/09/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/28/1990,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/07/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/27/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/04/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/12/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/19/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/27/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/16/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/04/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/14/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/21/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/04/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/17/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/25/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/02/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/15/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/28/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/12/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+11/16/1991,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/09/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/06/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/13/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/21/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/27/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/05/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/12/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/26/1992,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/16/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/05/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/13/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/27/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/03/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/24/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/01/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/12/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/29/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/05/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/24/1993,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/22/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/29/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/05/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/12/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/04/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/10/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/17/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/07/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/14/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/21/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/28/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/04/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/10/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/25/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/15/1994,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/18/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/29/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/04/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/11/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/18/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/04/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/09/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/15/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/22/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/14/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/21/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/31/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/14/1995,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/12/1996,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/07/1996,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/16/1996,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/21/1996,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/30/1996,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/11/1996,Barb Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/21/1996,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/28/1996,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/25/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/31/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/07/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/08/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/24/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/27/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/10/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/24/1997,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/31/1997,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/17/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/07/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/14/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/22/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/04/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/12/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/17/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/26/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/01/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/09/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/25/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/30/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/06/1998,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/24/1999,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/27/1999,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/05/1999,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/10/1999,Barb- Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/25/1999,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/02/1999,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/29/1999,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/05/1999,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/25/1999,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/11/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/03/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/09/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/15/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/30/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/08/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/03/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/10/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+10/14/2000,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/08/2001,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/29/2001,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/04/2001,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/19/2001,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/26/2001,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/03/2001,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/29/2001,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/22/2002,Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/23/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/30/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/04/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/14/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/20/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/18/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/25/2002,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/03/2003,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/24/2003,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/01/2003,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/15/2003,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/28/2003,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/05/2003,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/13/2003,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/20/2003,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/27/2003,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/10/2003,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/16/2003,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/01/2003,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/30/2004,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/06/2004,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/20/2004,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/27/2004,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/05/2004,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/18/2004,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/15/2004,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/22/2004,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/29/2004,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+05/28/2005,Elaine And Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/12/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/19/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/26/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/02/2005,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/10/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/17/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/24/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/31/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/14/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/21/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/28/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/05/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/11/2005,Marc Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/11/2006,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+07/03/2006,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+08/26/2006,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+09/04/2006,Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+06/30/2007,Barb And Elaine Spees,Citizen Lake Monitoring - Water Quality - Lake Huron; Deep Hole
+04/11/2010,Chris Van Houten,
+11/16/2010,Data Collectors,
+02/15/2011,Ed Hernandez,
+02/18/2011,Jeremy Williamson,
+04/25/2011,Data Collectors,
+04/26/2011,Chris Van Houten,
+04/29/2011,Data Collectors,
+04/29/2011,Ed Hernandez,
+06/07/2011,Data Collectors,
+06/07/2011,Ed Hernandez,
+06/27/2011,Data Collectors,
+06/28/2011,Data Collectors,
+07/18/2011,Data Collectors,
+08/08/2011,Data Collectors,
+08/31/2011,Data Collectors,
+10/26/2011,Data Collectors,
+02/04/2012,Anthony Recht,
+04/01/2012,Chris Van Houten,
+05/02/2012,Data Collectors,
+06/04/2012,Data Collectors,
+06/07/2012,Data Collectors,
+06/28/2012,Data Collectors,
+07/16/2012,Data Collectors,
+07/17/2012,Data Collectors,
+08/06/2012,Data Collectors,
+08/28/2012,Data Collectors,
+05/11/2013,Chris Van Houten,
+05/04/2014,Chris Van Houten,
+04/18/2015,Data Collectors,
+04/18/2016,Data Collectors,

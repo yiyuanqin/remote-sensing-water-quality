@@ -1,0 +1,219 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Twin Lakes,Green Lake,146500,NE,24,,243018,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000091,06/23/2004,9,NO,2.7,7.18,,45,,50,,,,,
+7000091,07/19/2004,8,NO,2.4,20.5,,47,,58,,,,,
+8188552,07/22/2004,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188551,08/12/2004,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188551,08/16/2004,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188551,08/27/2004,3.1,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188551,10/31/2004,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+1,01/31/2005,7,NO,2.1,7.74,,49,,50,,,,,
+7000091,04/14/2005,,,,70.9,125,,66,67,,,,,
+7000091,06/13/2005,,,,41.7,54,,59,63,,,,,
+8188551,06/29/2005,3.75,NO,1.1,,,58,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188551,07/27/2005,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000091,08/03/2005,,,,30.7,1080,,82,61,,,,,
+8188551,08/22/2005,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188552,08/31/2005,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188551,10/27/2005,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+1,01/13/2006,,,,13.3,281,,72,54,,,,,
+8188552,05/20/2006,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188552,06/27/2006,5.1,NO,1.6,15,41,54,57,55,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188551,07/15/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188551,07/18/2006,2.5,NO,0.8,44.9,54,64,59,64,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188552,08/28/2006,3,NO,0.9,28.8,37,61,56,60,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188551,10/15/2006,5,NO,1.5,7.65,110,54,65,50,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+7000091,06/24/2009,11,NO,3.3,2.71,23,43,52,42,,,,,
+7000091,07/31/2009,5.5,NO,1.7,26.8,36,53,56,60,,,,,
+7000091,09/03/2009,5.5,NO,1.7,6.91,43,53,57,49,,,,,
+7000091,09/23/2009,4,NO,1.2,22.5,39,57,57,58,,,,,
+130579061,05/23/2016,,,,,14.2,,49,,,,,,
+28613168,07/21/2016,,,,18.9,35.8,,56,57,,,,,
+28613168,09/19/2016,,,,20.5,31.9,,55,58,,,,,
+28613168,10/25/2016,,,,10.2,32.6,,55,52,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/2004,,,18.8,C,10.4,MG/L
+07/19/2004,,,23.4,C,11.3,MG/L
+07/22/2004,3,FEET,78.2,DEGREES F,9,MG/L
+07/22/2004,6,FEET,75.7,DEGREES F,9,MG/L
+07/22/2004,9,FEET,68,DEGREES F,10,MG/L
+07/22/2004,12,FEET,62.7,DEGREES F,8,MG/L
+07/22/2004,15,FEET,58.5,DEGREES F,3,MG/L
+07/22/2004,20,FEET,54,DEGREES F,2.5,MG/L
+07/22/2004,25,FEET,50.7,DEGREES F,2,MG/L
+07/22/2004,30,FEET,46.8,DEGREES F,2,MG/L
+07/22/2004,35,FEET,45.8,DEGREES F,1.5,MG/L
+07/22/2004,40,FEET,44.9,DEGREES F,1.5,MG/L
+08/27/2004,3,FEET,72.3,DEGREES F,10,MG/L
+08/27/2004,6,FEET,71,DEGREES F,9.5,MG/L
+08/27/2004,9,FEET,69.4,DEGREES F,9,MG/L
+08/27/2004,12,FEET,66,DEGREES F,7.5,MG/L
+08/27/2004,15,FEET,63.6,DEGREES F,6.5,MG/L
+08/27/2004,20,FEET,54.1,DEGREES F,3,MG/L
+08/27/2004,25,FEET,51.2,DEGREES F,2.5,MG/L
+08/27/2004,30,FEET,47.6,DEGREES F,2,MG/L
+08/27/2004,35,FEET,46.2,DEGREES F,2,MG/L
+08/27/2004,40,FEET,45,DEGREES F,1.5,MG/L
+10/31/2004,3,FEET,48.9,DEGREES F,9.5,MG/L
+10/31/2004,6,FEET,48.9,DEGREES F,8,MG/L
+10/31/2004,9,FEET,48.9,DEGREES F,8,MG/L
+10/31/2004,12,FEET,48.9,DEGREES F,8,MG/L
+10/31/2004,15,FEET,48.9,DEGREES F,8,MG/L
+10/31/2004,20,FEET,48.7,DEGREES F,7.5,MG/L
+10/31/2004,25,FEET,48.7,DEGREES F,7.5,MG/L
+10/31/2004,30,FEET,48.7,DEGREES F,,
+10/31/2004,35,FEET,48.7,DEGREES F,,
+10/31/2004,40,FEET,48.7,DEGREES F,,
+01/31/2005,,,0.5,C,10.3,MG/L
+06/29/2005,3,FEET,80.6,DEGREES F,9,MG/L
+06/29/2005,6,FEET,80,DEGREES F,8.5,MG/L
+06/29/2005,9,FEET,77,DEGREES F,7,MG/L
+06/29/2005,12,FEET,67,DEGREES F,3,MG/L
+06/29/2005,15,FEET,57.2,DEGREES F,1.75,MG/L
+06/29/2005,20,FEET,46.5,DEGREES F,1.5,MG/L
+06/29/2005,25,FEET,41.3,DEGREES F,1.5,MG/L
+06/29/2005,30,FEET,39.4,DEGREES F,1,MG/L
+06/29/2005,35,FEET,39,DEGREES F,1,MG/L
+06/29/2005,40,FEET,39,DEGREES F,.5,MG/L
+07/27/2005,3,FEET,75.2,DEGREES F,6,MG/L
+07/27/2005,6,FEET,74.8,DEGREES F,5.5,MG/L
+07/27/2005,9,FEET,74.4,DEGREES F,5.5,MG/L
+07/27/2005,12,FEET,74,DEGREES F,5,MG/L
+07/27/2005,15,FEET,61,DEGREES F,3,MG/L
+07/27/2005,20,FEET,48.2,DEGREES F,2.5,MG/L
+07/27/2005,25,FEET,42.6,DEGREES F,2,MG/L
+07/27/2005,30,FEET,40.2,DEGREES F,1.5,MG/L
+07/27/2005,35,FEET,39.5,DEGREES F,1.5,MG/L
+07/27/2005,40,FEET,39.3,DEGREES F,1.5,MG/L
+08/31/2005,0,FEET,75.5,DEGREES F,,
+08/31/2005,3,FEET,74,DEGREES F,9,MG/L
+08/31/2005,6,FEET,72.8,DEGREES F,8.5,MG/L
+08/31/2005,9,FEET,72.6,DEGREES F,8,MG/L
+08/31/2005,12,FEET,69.2,DEGREES F,4.5,MG/L
+08/31/2005,15,FEET,63,DEGREES F,3,MG/L
+08/31/2005,20,FEET,47.6,DEGREES F,2,MG/L
+08/31/2005,25,FEET,43,DEGREES F,1.75,MG/L
+08/31/2005,30,FEET,40.8,DEGREES F,1.5,MG/L
+08/31/2005,35,FEET,40.2,DEGREES F,2,MG/L
+08/31/2005,40,FEET,39.9,DEGREES F,2,MG/L
+10/27/2005,0,FEET,52.3,DEGREES F,,
+10/27/2005,3,FEET,51.8,DEGREES F,9,MG/L
+10/27/2005,6,FEET,51.6,DEGREES F,8.5,MG/L
+10/27/2005,9,FEET,51.1,DEGREES F,7,MG/L
+10/27/2005,12,FEET,51,DEGREES F,6.5,MG/L
+10/27/2005,15,FEET,51,DEGREES F,6,MG/L
+10/27/2005,20,FEET,50.7,DEGREES F,6,MG/L
+10/27/2005,25,FEET,46.5,DEGREES F,2,MG/L
+10/27/2005,30,FEET,41.7,DEGREES F,1,MG/L
+10/27/2005,35,FEET,40.8,DEGREES F,1,MG/L
+10/27/2005,40,FEET,40.6,DEGREES F,4.5,MG/L
+05/20/2006,0,FEET,60.8,DEGREES F,,
+05/20/2006,3,FEET,60.8,DEGREES F,9.5,MG/L
+05/20/2006,6,FEET,60.8,DEGREES F,8.5,MG/L
+05/20/2006,9,FEET,60.4,DEGREES F,8,MG/L
+05/20/2006,12,FEET,54.8,DEGREES F,8,MG/L
+05/20/2006,15,FEET,53.8,DEGREES F,7,MG/L
+05/20/2006,20,FEET,52.1,DEGREES F,6,MG/L
+05/20/2006,25,FEET,45.1,DEGREES F,4.5,MG/L
+05/20/2006,30,FEET,42.4,DEGREES F,4,MG/L
+05/20/2006,35,FEET,41.5,DEGREES F,2,MG/L
+05/20/2006,40,FEET,41.1,DEGREES F,1.5,MG/L
+06/27/2006,0,FEET,70.7,DEGREES F,,
+06/27/2006,3,FEET,70.1,DEGREES F,9,MG/L
+06/27/2006,6,FEET,69.8,DEGREES F,8,MG/L
+06/27/2006,9,FEET,69.6,DEGREES F,8,MG/L
+06/27/2006,12,FEET,68,DEGREES F,8,MG/L
+06/27/2006,15,FEET,60.6,DEGREES F,6,MG/L
+06/27/2006,20,FEET,51.2,DEGREES F,3,MG/L
+06/27/2006,25,FEET,45.1,DEGREES F,3,MG/L
+06/27/2006,30,FEET,43.3,DEGREES F,2.5,MG/L
+06/27/2006,35,FEET,42,DEGREES F,2,MG/L
+06/27/2006,40,FEET,41.7,DEGREES F,1,MG/L
+07/18/2006,0,FEET,81.5,DEGREES F,,
+07/18/2006,3,FEET,80.6,DEGREES F,10,MG/L
+07/18/2006,6,FEET,79.8,DEGREES F,8,MG/L
+07/18/2006,9,FEET,75.6,DEGREES F,8,MG/L
+07/18/2006,12,FEET,70.5,DEGREES F,4,MG/L
+07/18/2006,15,FEET,63.3,DEGREES F,2.5,MG/L
+07/18/2006,20,FEET,52.3,DEGREES F,3,MG/L
+07/18/2006,25,FEET,46.4,DEGREES F,2,MG/L
+07/18/2006,30,FEET,43.8,DEGREES F,2,MG/L
+07/18/2006,35,FEET,42.4,DEGREES F,1.5,MG/L
+07/18/2006,40,FEET,42,DEGREES F,1,MG/L
+08/28/2006,0,FEET,73.8,DEGREES F,,
+08/28/2006,3,FEET,73.2,DEGREES F,10,MG/L
+08/28/2006,6,FEET,73,DEGREES F,8,MG/L
+08/28/2006,9,FEET,71.6,DEGREES F,8,MG/L
+08/28/2006,12,FEET,71,DEGREES F,6,MG/L
+08/28/2006,15,FEET,64.4,DEGREES F,4,MG/L
+08/28/2006,20,FEET,53.9,DEGREES F,2.5,MG/L
+08/28/2006,25,FEET,46.7,DEGREES F,2,MG/L
+08/28/2006,30,FEET,44,DEGREES F,2,MG/L
+08/28/2006,35,FEET,42.9,DEGREES F,1.5,MG/L
+08/28/2006,40,FEET,42.6,DEGREES F,1.5,MG/L
+07/31/2009,,,22.8,C,10.3,MG/L
+09/03/2009,,,21.3,C,,
+
+
+
+Start Date,Fieldwork Comment
+06/23/2004,DEEP POINT    
+07/19/2004,DEEP SPOT    
+07/22/2004,Sunny Wind NW @ 5-10  Rain 0721 Est. .125-.25 inches    
+08/12/2004,secchi only    
+08/27/2004,1 1/2" rain last night.  Conditions mostly sunny.    
+10/31/2004,UNABLE TO FINISH LAST 3 d.o.'S AS I DID NOT HAVE ENOUGH CHEMICALS    
+04/14/2005,DEEP POINT    
+06/13/2005,DEEP POINT    
+06/29/2005,Thin cirrus clouds- hazy sunshine- 85 degrees F.    
+07/27/2005,Scattered clouds- blue sky- beautiful day!    
+08/03/2005,DEEP POINT    
+10/27/2005,mostly cloudy- windy- cool    
+07/18/2006,Clear skies- very thin hazy clouds.
+10/15/2006,Program not allowing Secchi input.  It was 5'-2no-2low-2murky-2green-2
+
+
+
+
+Start Date,Group Name,Project Name
+06/23/2004,Mark Sesing,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Lake Management Plan
+07/19/2004,Mark Sesing,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Lake Management Plan
+07/22/2004,Paul Pitre and Dale Ellie,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+08/12/2004,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+08/16/2004,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+08/27/2004,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+10/31/2004,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+01/31/2005,Data Collectors,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Lake Management Plan
+04/14/2005,Mark Sesing,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Appraisal Phase 2
+06/13/2005,Mark Sesing,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Appraisal Phase 2
+06/29/2005,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+07/27/2005,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+08/03/2005,Mark Sesing,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Appraisal Phase 2
+08/22/2005,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+08/31/2005,Paul Pitre and Dale Ellie,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+10/27/2005,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+01/13/2006,Data Collectors,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Appraisal Phase 2
+05/20/2006,Paul Pitre and Dale Ellie,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+06/27/2006,Paul Pitre and Dale Ellie,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+07/15/2006,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+07/18/2006,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+08/28/2006,Paul Pitre and Dale Ellie,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+10/15/2006,Paul Pitre,Citizen Lake Monitoring - Water Quality - Big Twin Lake; Deepest Part-Ep
+06/24/2009,Mark Sesing,Lakes 303d Project NER2_10 
+07/31/2009,Mark Sesing,Lakes 303d Project NER2_10 
+09/03/2009,Mark Sesing,Lakes 303d Project NER2_10 
+09/23/2009,Mark Sesing,Lakes 303d Project NER2_10 
+05/23/2016,Brad Roost and Derek Kavanaugh,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+07/21/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+09/19/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+10/25/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP

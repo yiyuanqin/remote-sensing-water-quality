@@ -1,0 +1,221 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Otter Lake,Waupaca,265700,NE,69,,693087,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/04/1992,,,,,17,,50,,,,,,
+1,09/23/1992,,,,4.97,17,,50,47,,,,,
+1,02/02/1993,,,,,7,,43,,,,,,
+1,05/20/1993,,,,3.95,20,,51,45,,,,,
+1,08/17/1993,,,,12.1,14,,49,54,,,,,
+1,10/06/1993,,,,13.3,15,,49,54,,,,,
+1,01/24/1994,,,,,18,,51,,,,,,
+1,05/03/1994,37.7,,11.5,4.69,26,25,53,46,,,,,
+8190880,05/03/1994,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,08/03/1994,36.1,,11,6.39,11,25,47,49,,,,,
+8190880,08/03/1994,11,NO,3.3,,,43,,,,,,,1-Beautiful, could not be nicer
+1,09/22/1994,,,,3.26,10,,46,44,,,,,
+8190880,09/22/1994,12,NO,3.6,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+1,07/26/2016,10.8,N,3.3,2.08,17.1,43,50,40,,,,,
+150437293,05/24/2017,,,,,,,,,,,,,
+1,05/26/2017,,,,,,,,,,,,,
+150437293,05/26/2017,,,,,,,,,,,,,
+150437293,05/28/2017,,,,,,,,,,,,,
+150437293,05/30/2017,,,,,,,,,,,,,
+150437293,06/06/2017,,,,,,,,,,,,,
+1,06/15/2017,,,,,,,,,,,,,
+150437293,06/15/2017,,,,,,,,,,,,,
+150437293,06/21/2017,,,,,,,,,,,,,
+150437293,06/29/2017,,,,,,,,,,,,,
+147279790,07/25/2017,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+147279790,07/28/2017,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+147279790,08/02/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+147279790,08/05/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+147279790,08/13/2017,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+147279790,08/19/2017,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+147279790,08/21/2017,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+147279790,08/24/2017,7.8,NO,2.4,,,48,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46007480,08/29/2017,8.3,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46007480,09/01/2017,7.4,NO,2.2,,,48,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+46007480,09/06/2017,6.9,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+147279790,09/11/2017,6.9,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+147279790,09/14/2017,8.4,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+147279790,09/19/2017,9.4,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/23/1992,,,16.71,C,0.61,MG/L
+02/02/1993,,,3.55,C,1.27,MG/L
+05/20/1993,,,13.99,C,0.49,MG/L
+08/17/1993,,,23.31,C,0.16,MG/L
+10/06/1993,,,12.34,C,0.89,MG/L
+01/24/1994,,,2.50,C,2.49,MG/L
+05/03/1994,,,11.79,C,0.87,MG/L
+08/03/1994,,,23.42,C,0.47,MG/L
+09/22/1994,,,20.78,C,0.31,MG/L
+07/26/2016,,,10.0,C,0.2,MG/L
+05/24/2017,1,FEET,14.9,DEGREES C,,
+05/24/2017,3,FEET,14.9,DEGREES C,,
+05/24/2017,6,FEET,14.9,DEGREES C,,
+05/24/2017,9,FEET,14.5,DEGREES C,,
+05/24/2017,12,FEET,12.4,DEGREES C,,
+05/24/2017,15,FEET,10.2,DEGREES C,,
+05/24/2017,18,FEET,8.9,DEGREES C,,
+05/24/2017,,,14.9,C,,
+05/26/2017,1,FEET,63.2,DEGREES F,,
+05/26/2017,3,FEET,61.4,DEGREES F,,
+05/26/2017,6,FEET,59.5,DEGREES F,,
+05/26/2017,9,FEET,58,DEGREES F,,
+05/26/2017,12,FEET,53.7,DEGREES F,,
+05/26/2017,15,FEET,50.6,DEGREES F,,
+05/26/2017,18,FEET,48.1,DEGREES F,,
+05/26/2017,21,FEET,47.5,DEGREES F,,
+05/26/2017,,,17.2 AT 1,C,,
+05/28/2017,1,FEET,21.5,DEGREES C,,
+05/28/2017,3,FEET,20.7,DEGREES C,,
+05/28/2017,5,FEET,19.7,DEGREES C,,
+05/28/2017,7,FEET,17.6,DEGREES C,,
+05/28/2017,9,FEET,16.7,DEGREES C,,
+05/28/2017,11,FEET,14.9,DEGREES C,,
+05/28/2017,13,FEET,12.4,DEGREES C,,
+05/28/2017,15,FEET,11.2,DEGREES C,,
+05/28/2017,17,FEET,10.2,DEGREES C,,
+05/28/2017,19,FEET,9.4,DEGREES C,,
+05/28/2017,21,FEET,9.2,DEGREES C,,
+05/28/2017,23,FEET,9.1,DEGREES C,,
+05/28/2017,,,20.7 AT 3,C,,
+05/30/2017,1,FEET,18.2,DEGREES C,,
+05/30/2017,3,FEET,18.1,DEGREES C,,
+05/30/2017,6,FEET,17.8,DEGREES C,,
+05/30/2017,9,FEET,15.7,DEGREES C,,
+05/30/2017,12,FEET,13,DEGREES C,,
+05/30/2017,15,FEET,10.6,DEGREES C,,
+05/30/2017,18,FEET,9.3,DEGREES C,,
+05/30/2017,21,FEET,8.8,DEGREES C,,
+05/30/2017,24,FEET,8.7,DEGREES C,,
+05/30/2017,27,FEET,8.7,DEGREES C,,
+05/30/2017,30,FEET,8.7,DEGREES C,,
+05/30/2017,33,FEET,8.7,DEGREES C,,
+05/30/2017,,,18.2 AT 1,C,,
+06/06/2017,1,FEET,23.1,DEGREES C,,
+06/06/2017,3,FEET,22.4,DEGREES C,,
+06/06/2017,6,FEET,20.9,DEGREES C,,
+06/06/2017,9,FEET,17.4,DEGREES C,,
+06/06/2017,12,FEET,13.3,DEGREES C,,
+06/06/2017,15,FEET,11,DEGREES C,,
+06/06/2017,18,FEET,9.9,DEGREES C,,
+06/06/2017,21,FEET,9.2,DEGREES C,,
+06/06/2017,24,FEET,8.9,DEGREES C,,
+06/06/2017,27,FEET,8.9,DEGREES C,,
+06/06/2017,30,FEET,8.9,DEGREES C,,
+06/06/2017,33,FEET,8.9,DEGREES C,,
+06/06/2017,,,23.1,C,,
+06/15/2017,1,FEET,24,DEGREES C,,
+06/15/2017,3,FEET,23.6,DEGREES C,,
+06/15/2017,6,FEET,22.4,DEGREES C,,
+06/15/2017,9,FEET,20,DEGREES C,,
+06/15/2017,12,FEET,14.6,DEGREES C,,
+06/15/2017,15,FEET,12.1,DEGREES C,,
+06/15/2017,18,FEET,10.1,DEGREES C,,
+06/15/2017,21,FEET,9.3,DEGREES C,,
+06/15/2017,24,FEET,9.1,DEGREES C,,
+06/15/2017,27,FEET,8.8,DEGREES C,,
+06/15/2017,,,24.0,C,,
+06/21/2017,1,FEET,21.7,DEGREES C,,
+06/21/2017,3,FEET,21.5,DEGREES C,,
+06/21/2017,6,FEET,21.3,DEGREES C,,
+06/21/2017,9,FEET,19.3,DEGREES C,,
+06/21/2017,12,FEET,15,DEGREES C,,
+06/21/2017,15,FEET,11.8,DEGREES C,,
+06/21/2017,18,FEET,9.9,DEGREES C,,
+06/21/2017,21,FEET,9.2,DEGREES C,,
+06/21/2017,24,FEET,8.9,DEGREES C,,
+06/21/2017,,,21.7,C,,
+06/29/2017,1,FEET,20.8,DEGREES C,,
+06/29/2017,3,FEET,19.9,DEGREES C,,
+06/29/2017,6,FEET,19.4,DEGREES C,,
+06/29/2017,9,FEET,18.7,DEGREES C,,
+06/29/2017,12,FEET,15.2,DEGREES C,,
+06/29/2017,15,FEET,11.4,DEGREES C,,
+06/29/2017,18,FEET,10.1,DEGREES C,,
+06/29/2017,21,FEET,9,DEGREES C,,
+06/29/2017,24,FEET,8.9,DEGREES C,,
+06/29/2017,27,FEET,8.9,DEGREES C,,
+06/29/2017,,,20.8 AT 1,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/25/2017,78 degrees - partly sunny. 78 degrees - partly sunny. 78 degrees - partly sunny. 78 degrees- partly sunny. 78 degrees- partly sunny.  78 degrees- partly sunny.- light boat traffic. 78 degrees- partly sunny.- light boat traffic. 
+08/29/2017,1MPH ENE wind- 64 degrees- partly sunny- no boat traffic.
+09/01/2017,7MPH- ENE wind- 66 degrees- sunny- moderate boat traffic. 2 inches of rain on 0830.
+09/06/2017,11MPH- ENE wind- 56 degrees- cloudy- no boat traffic.
+09/11/2017,11 MPH- SSW wind- Sunny- no boat traffic. Algae bloom started on Sunday 09-10-17. Noticeable algae bloom on this lake.
+09/14/2017,9 MPH SSE Wind- Light boat traffic- Algae bloom on South half of lake- North Bay is clearing.
+09/19/2017,7 MPH- East Wind- temp is 75 degrees- sunny no boat traffic. Algae bloom has cleared.
+
+
+
+
+Start Date,Group Name,Project Name
+02/04/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+02/04/1992,Data Collectors,LAKE MGT PROJECTS
+09/23/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/23/1992,Data Collectors,LAKE MGT PROJECTS
+02/02/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+02/02/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/17/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/17/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/06/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+10/06/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/24/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+01/24/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/03/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+09/22/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/22/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/22/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+05/24/2017,Dan McFarland,Herbicide Concentration Monitoring
+05/24/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+05/26/2017,Dan McFarland,Herbicide Concentration Monitoring
+05/26/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+05/26/2017,Data Collectors,Herbicide Concentration Monitoring
+05/28/2017,Dan McFarland,Herbicide Concentration Monitoring
+05/28/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+05/30/2017,Dan McFarland,Herbicide Concentration Monitoring
+05/30/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/06/2017,Dan McFarland,Herbicide Concentration Monitoring
+06/06/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/15/2017,Dan McFarland,Herbicide Concentration Monitoring
+06/15/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/15/2017,Data Collectors,Herbicide Concentration Monitoring
+06/21/2017,Dan McFarland,Herbicide Concentration Monitoring
+06/21/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/29/2017,Dan McFarland,Herbicide Concentration Monitoring
+06/29/2017,Dan McFarland,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+07/25/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+07/28/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/02/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/05/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/13/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/19/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/21/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/24/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+08/29/2017,CHRISTOPHER KOLASINSKI,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+09/01/2017,CHRISTOPHER KOLASINSKI,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+09/06/2017,CHRISTOPHER KOLASINSKI,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+09/11/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+09/14/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co
+09/19/2017,Steve Rawson,Citizen Lake Monitoring - Water Quality - Otter Lake - Deep Hole  - Waupaca Co

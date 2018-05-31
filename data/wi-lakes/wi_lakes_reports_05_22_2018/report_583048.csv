@@ -1,0 +1,876 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spider Lake,Sawyer,2435700,NO,58,,583048,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190712,06/10/1989,16.75,NO,5.1,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190518,06/11/1989,16,NO,4.9,,,37,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8190712,06/17/1989,12.5,NO,3.8,,,41,,,,,,BROWN,2-Very minor aesthetic problems
+8190928,06/18/1989,10,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190518,06/22/1989,13,NO,4,,,40,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8190712,06/23/1989,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190518,06/30/1989,15,NO,4.6,,,38,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8190712,07/01/1989,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190712,07/07/1989,9.75,NO,3,,,44,,,CALM,,,BROWN,1-Beautiful, could not be nicer
+8190518,07/10/1989,13.5,NO,4.1,,,40,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190712,07/14/1989,10,NO,3,,,44,,,CALM,,,BROWN,1-Beautiful, could not be nicer
+8190518,07/20/1989,10,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190712,07/21/1989,10,NO,3,,,44,,,,,,GREEN/BROWN,1-Beautiful, could not be nicer
+8190928,07/26/1989,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190712,07/28/1989,9,NO,2.7,,,45,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190518,07/30/1989,11.5,NO,3.5,,,42,,,GAUGE,82.06,,BROWN,2-Very minor aesthetic problems
+8190712,08/04/1989,10.5,NO,3.2,,,43,,,,,,BROWN,1-Beautiful, could not be nicer
+8190518,08/06/1989,11,NO,3.3,,,43,,,GAUGE,81.97,,BROWN,2-Very minor aesthetic problems
+8190712,08/12/1989,10.5,NO,3.2,,,43,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,08/16/1989,11,NO,3.3,,,43,,,GAUGE,81.93,,BROWN,2-Very minor aesthetic problems
+8190712,08/18/1989,11,NO,3.3,,,43,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8190518,08/27/1989,12.25,NO,3.7,,,41,,,GAUGE,81.85,,BROWN,2-Very minor aesthetic problems
+8190712,09/01/1989,11.25,NO,3.4,,,42,,,,,,BROWN,1-Beautiful, could not be nicer
+8190953,09/06/1989,10.5,NO,3.2,,,41,,,GAUGE,82.91,,BROWN,2-Very minor aesthetic problems
+8190324,09/08/1989,13,NO,4,,,40,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,09/15/1989,12.5,NO,3.8,,,41,,,GAUGE,81.98,,BROWN,2-Very minor aesthetic problems
+8190324,09/23/1989,15,NO,4.6,,,38,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,09/26/1989,10.5,NO,3.2,,,43,,,GAUGE,81.87,,GREEN/BROWN,2-Very minor aesthetic problems
+8190324,10/03/1989,15,NO,4.6,,,38,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,10/06/1989,8,NO,2.4,,,47,,,GAUGE,81.82,,BROWN,
+8190324,10/13/1989,15,NO,4.6,,,38,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,10/20/1989,11,NO,3.3,,,43,,,GAUGE,81.74,CLEAR,BLUE,2-Very minor aesthetic problems
+8190518,05/13/1990,12.5,NO,3.8,,,41,,,GAUGE,82.06,,GREEN/BROWN,2-Very minor aesthetic problems
+8190518,05/21/1990,17,NO,5.2,,,36,,,GAUGE,82.07,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190712,05/23/1990,14,NO,4.3,,,39,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,05/27/1990,22.75,NO,6.9,,,32,,,GAUGE,82.03,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190518,06/04/1990,20,NO,6.1,,,34,,,GAUGE,82.03,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190712,06/05/1990,17,NO,5.2,,,36,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190518,06/12/1990,13,NO,4,,,40,,,GAUGE,82,,GREEN,1-Beautiful, could not be nicer
+8190712,06/14/1990,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190518,06/22/1990,15.5,NO,4.7,,,38,,,GAUGE,81.99,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190712,06/25/1990,13,NO,4,,,40,,,,,,BROWN,1-Beautiful, could not be nicer
+8190712,06/29/1990,12.5,NO,3.8,,,41,,,,,,BROWN,1-Beautiful, could not be nicer
+8190518,07/04/1990,13.5,NO,4.1,,,40,,,GAUGE,81.96,,GREEN,1-Beautiful, could not be nicer
+8190712,07/09/1990,12.5,NO,3.8,,,41,,,,,,BROWN,1-Beautiful, could not be nicer
+8191062,07/10/1990,12.5,NO,3.8,,20,41,51,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190518,07/13/1990,15.75,NO,4.8,,,37,,,GAUGE,81.57,,GREEN,1-Beautiful, could not be nicer
+8190518,07/25/1990,14.75,NO,4.5,,,38,,,GAUGE,81.72,,GREEN,1-Beautiful, could not be nicer
+8190712,07/27/1990,11.5,NO,3.5,,,42,,,,,,GREEN,1-Beautiful, could not be nicer
+8190518,08/03/1990,16.75,NO,5.1,,,37,,,GAUGE,81.65,,GREEN,1-Beautiful, could not be nicer
+8190518,08/10/1990,13.5,NO,4.1,,,40,,,GAUGE,81.56,,GREEN,1-Beautiful, could not be nicer
+8190712,08/11/1990,11,NO,3.3,,,43,,,,,,GREEN,1-Beautiful, could not be nicer
+8190518,08/17/1990,14,NO,4.3,,,39,,,GAUGE,81.46,,GREEN,1-Beautiful, could not be nicer
+1,08/22/1990,,,,,20,,51,,,,,,
+8191062,08/26/1990,10.5,NO,3.2,,,43,,,LEGAL MINIMUM,81.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190324,08/28/1990,15,NO,4.6,,,38,,,,,,BROWN,2-Very minor aesthetic problems
+8190324,09/09/1990,12,NO,3.6,,,41,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,09/12/1990,9.25,NO,2.8,,,45,,,GAUGE,82.09,,GREEN/BROWN,2-Very minor aesthetic problems
+8190324,09/19/1990,15,NO,4.6,,,38,,,,,,BROWN,2-Very minor aesthetic problems
+8190518,09/22/1990,8.5,NO,2.6,,,46,,,GAUGE,84.09,,DARK BROWN,
+8191062,09/30/1990,15,NO,4.6,,,38,,,GAUGE,1.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190712,10/12/1990,14,NO,4.3,,,39,,,,,,BROWN,2-Very minor aesthetic problems
+8191062,10/28/1990,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,10/31/1990,,,,,20,,51,,,,,,
+8190324,06/02/1991,19,NO,5.8,,,35,,,,,,BROWN,2-Very minor aesthetic problems
+8190712,06/10/1991,16,NO,4.9,,,37,,,NORM/HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190518,06/11/1991,12.75,NO,3.9,,,40,,,GAUGE,82.66,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190712,06/17/1991,12,NO,3.6,,,41,,,NORM/HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190518,06/19/1991,11,NO,3.3,,,43,,,GAUGE,82.82,,GREEN,1-Beautiful, could not be nicer
+8190518,06/26/1991,9.5,NO,2.9,,,45,,,GAUGE,82.79,,GREEN,1-Beautiful, could not be nicer
+8190712,06/27/1991,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190518,07/05/1991,10,NO,3,,,44,,,GAUGE,82.85,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190518,07/13/1991,9.5,NO,2.9,,,45,,,GAUGE,82.86,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190712,07/16/1991,9,NO,2.7,,,45,,,,,,GREEN,1-Beautiful, could not be nicer
+8190518,07/19/1991,10.25,NO,3.1,,,44,,,GAUGE,84.81,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190712,07/23/1991,10,NO,3,,,44,,,,,,GREEN,1-Beautiful, could not be nicer
+8190518,07/27/1991,8,NO,2.4,,,47,,,GAUGE,82.74,,GREEN,1-Beautiful, could not be nicer
+8190712,08/01/1991,12,NO,3.6,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190518,08/04/1991,9,NO,2.7,,,45,,,GAUGE,82.79,,GREEN,1-Beautiful, could not be nicer
+8190712,08/07/1991,10.5,NO,3.2,,,43,,,,,,GREEN/BROWN,1-Beautiful, could not be nicer
+8191062,08/10/1991,13.75,NO,4.2,,9,39,45,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190518,08/11/1991,10.75,NO,3.3,,,43,,,GAUGE,82.66,,GREEN,1-Beautiful, could not be nicer
+8190712,08/14/1991,12.5,NO,3.8,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190518,08/20/1991,10.25,NO,3.1,,,44,,,GAUGE,82.61,,GREEN,1-Beautiful, could not be nicer
+8190712,08/21/1991,12.5,NO,3.8,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190712,08/28/1991,12,NO,3.6,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190324,09/04/1991,11,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191062,09/06/1991,11.75,NO,3.6,,7,42,43,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190324,09/13/1991,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190324,09/20/1991,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190324,09/27/1991,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190324,10/11/1991,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191062,10/20/1991,13.5,NO,4.1,,7,40,43,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190518,05/30/1992,12.5,NO,3.8,,,41,,,GAUGE,82.88,,BROWN,1-Beautiful, could not be nicer
+8190518,06/08/1992,13,NO,4,,,40,,,GAUGE,82.84,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190957,06/09/1992,6.5,NO,2,,,50,,,GAUGE,82.84,,BROWN,1-Beautiful, could not be nicer
+8190957,06/17/1992,5.5,NO,1.7,,,53,,,GAUGE,82.84,,BROWN,1-Beautiful, could not be nicer
+8190518,06/20/1992,10,NO,3,,,44,,,GAUGE,82.86,,,2-Very minor aesthetic problems
+8190518,06/27/1992,10,NO,3,,,44,,,GAUGE,82.86,CLEAR,,1-Beautiful, could not be nicer
+8190518,07/05/1992,8.75,NO,2.7,,,46,,,,,,BROWN,
+8190957,07/09/1992,6.5,NO,2,,,50,,,4"ABOVE GAUGE,,,BROWN,1-Beautiful, could not be nicer
+8190518,07/11/1992,8.5,NO,2.6,,,46,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190957,07/17/1992,6,NO,1.8,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190518,07/21/1992,8.25,NO,2.5,,,47,,,HIGH,,,GREEN/BROWN,
+8190957,07/22/1992,6.6,NO,2,,,50,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190957,08/01/1992,5.75,NO,1.7,,,52,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190518,08/03/1992,9,NO,2.7,,,45,,,HIGH,,,GREEN/BROWN,1-Beautiful, could not be nicer
+8190957,08/07/1992,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190518,08/10/1992,10,NO,3,,,44,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190518,08/18/1992,10,NO,3,,,44,,,GAUGE,82.9,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190957,08/19/1992,6.5,NO,2,,,50,,,GAUGE,82.9,,BROWN,1-Beautiful, could not be nicer
+8190957,08/26/1992,6,NO,1.8,,,51,,,GAUGE,82.9,,BROWN,2-Very minor aesthetic problems
+8190518,08/27/1992,9.5,NO,2.9,,,45,,,GAUGE,82.9,CLEAR,BROWN,2-Very minor aesthetic problems
+8190518,09/03/1992,9,NO,2.7,,,45,,,GAUGE,82.89,CLEAR,BROWN,2-Very minor aesthetic problems
+8190957,09/04/1992,6,NO,1.8,,,51,,,GAUGE,82.89,,BROWN,2-Very minor aesthetic problems
+8190957,09/10/1992,6,NO,1.8,,,51,,,GAUGE,82.89,,BROWN,2-Very minor aesthetic problems
+1,09/12/1992,,,,,14,,49,,,,,,
+8191062,09/12/1992,11.5,NO,3.5,,,42,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191062,11/01/1992,11.5,NO,3.5,,5,42,41,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190100,06/05/1993,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190100,06/19/1993,7,NO,2.1,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190518,06/21/1993,14.25,NO,4.3,,,39,,,GAUGE,82.9,CLEAR,,1-Beautiful, could not be nicer
+8190518,07/01/1993,14,NO,4.3,,,39,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+8190100,07/07/1993,6.5,NO,2,,,50,,,GAUGE,82.84,,BROWN,1-Beautiful, could not be nicer
+8190100,08/02/1993,7,NO,2.1,,,49,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+1,08/04/1993,,,,,10,,46,,,,,,
+8190518,08/19/1993,10,NO,3,,,44,,,GAUGE,82.59,,GREEN/BROWN,1-Beautiful, could not be nicer
+8190518,08/26/1993,10,NO,3,,,44,,,GAUGE,82.55,,GREEN/BROWN,1-Beautiful, could not be nicer
+1,09/07/1993,,,,,9,,45,,,,,,
+8190100,05/11/1994,7,NO,2.1,,,49,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190518,06/18/1994,10.5,NO,3.2,,,43,,,EL 79.51,,CLEAR,,2-Very minor aesthetic problems
+8190518,06/26/1994,11.25,NO,3.4,,,42,,,GAUGE,82.36,CLEAR,,1-Beautiful, could not be nicer
+8190518,07/05/1994,11.5,NO,3.5,,,42,,,GAUGE,82.25,CLEAR,,2-Very minor aesthetic problems
+8190100,07/06/1994,9,NO,2.7,,,45,,,LOW,,,GREEN,2-Very minor aesthetic problems
+1,07/10/1994,,,,3.29,15,,49,44,,,,,
+8190518,07/17/1994,12.5,NO,3.8,,,41,,,GAUGE,82.16,CLEAR,,1-Beautiful, could not be nicer
+8190100,07/18/1994,7,NO,2.1,,,49,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8190518,07/27/1994,9,NO,2.7,,,45,,,GAUGE,82.35,CLEAR,,1-Beautiful, could not be nicer
+8190100,08/02/1994,8,NO,2.4,,,47,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+1,08/08/1994,,,,5.07,9,,45,47,,,,,
+8190518,08/10/1994,9.25,NO,2.8,,,45,,,GAUGE,82.28,,GREEN,4-Would not swim but boating OK (algae)
+8190518,08/24/1994,11,NO,3.3,,,43,,,EL 82.22,,,GREEN,2-Very minor aesthetic problems
+1,09/05/1994,,,,6.87,,,,49,,,,,
+8190069,06/01/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/12/1995,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/06/1995,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/20/1995,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190069,08/01/1995,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,08/16/1995,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,09/02/1995,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,05/16/1996,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,05/30/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/25/1996,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/03/1996,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/26/1996,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,08/08/1996,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,08/20/1996,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,09/01/1996,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,05/28/1997,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/06/1997,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/18/1997,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/29/1997,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/09/1997,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/18/1997,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/29/1997,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,08/11/1997,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,08/19/1997,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,08/26/1997,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/17/1998,,,,,15,,49,,,,,,
+8190069,05/22/1998,14,NO,4.3,,,39,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/05/1998,12,NO,3.6,,,41,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,06/16/1998,16.5,NO,5,,,37,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/21/1998,,,,3.15,8,,44,43,,,,,
+8190069,07/01/1998,15,NO,4.6,,,38,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/13/1998,13,NO,4,,,40,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190069,07/25/1998,11,NO,3.3,,,43,,,,,,,
+8190069,08/08/1998,11,NO,3.3,,,43,,,,,,,
+8190069,08/18/1998,10,NO,3,,,44,,,,,,,
+8189341,06/03/1999,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,06/20/1999,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,07/12/1999,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,07/19/1999,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,08/28/1999,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,09/23/1999,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,06/09/2000,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,06/25/2000,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,07/14/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,07/28/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,08/24/2000,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,09/17/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,10/01/2000,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189179,06/22/2001,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,
+8189179,07/13/2001,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189179,07/27/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189179,08/13/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189179,09/03/2001,10,NO,3,3.1,10,44,46,43,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,05/24/2002,17,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189886,06/09/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189886,06/23/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189886,07/26/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189886,08/12/2002,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189886,10/19/2002,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189886,05/04/2003,13.5,NO,4.1,,,40,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,05/18/2003,14,NO,4.3,,,39,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,06/07/2003,16,NO,4.9,,,37,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,06/23/2003,13,NO,4,,,40,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/07/2003,12,NO,3.6,,,41,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/12/2003,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/27/2003,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,08/02/2003,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,08/25/2003,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,08/30/2003,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,09/07/2003,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,09/15/2003,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,09/22/2003,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,10/05/2003,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,06/26/2004,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/10/2004,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/18/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/30/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,08/08/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,08/27/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,09/04/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,10/03/2004,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,10/09/2004,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,10/17/2004,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,10/21/2004,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,05/08/2005,15,NO,4.6,,,38,,,LOW,,,BLUE,1-Beautiful, could not be nicer
+8189886,05/29/2005,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,06/19/2005,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/09/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,07/17/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8189886,07/30/2005,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189886,08/14/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,
+8189886,10/02/2005,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,
+8189886,10/10/2005,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,
+8189886,10/22/2005,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17817056,05/29/2006,17,,5.2,,,36,,,,,,,
+17817056,06/26/2006,11,,3.3,,,43,,,,,,,
+17817056,07/18/2006,10,,3,,,44,,,,,,,
+17817056,08/20/2006,11,,3.3,,,43,,,,,,,
+17817056,09/14/2006,10,,3,,,44,,,,,,,
+8189886,10/19/2006,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17817056,05/29/2007,12,,3.6,,,41,,,,,,,
+17817056,07/13/2007,8,,2.4,,,47,,,,,,,
+17817056,07/31/2007,10,,3,,,44,,,,,,,
+17817056,08/14/2007,10,,3,,,44,,,,,,,
+17817056,09/08/2007,11,,3.3,,,43,,,,,,,
+17817056,09/22/2007,11,,3.3,,,43,,,,,,,
+17817056,09/27/2007,10.5,,3.2,,,43,,,,,,,
+17817056,06/18/2008,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,
+17817056,07/01/2008,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,GREEN,
+17817056,07/14/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,
+17817056,07/28/2008,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,
+17817056,08/18/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+17817056,08/26/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+17817056,09/03/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,
+17817056,09/17/2008,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,
+17817056,10/03/2008,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,
+17817056,10/08/2008,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,
+17817056,08/04/2009,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,
+17817056,08/27/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,
+17817056,09/01/2009,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,
+17817056,09/15/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,
+17817056,09/24/2009,13.75,NO,4.2,,,39,,,LOW,,CLEAR,BLUE,
+17817056,09/30/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,
+17817056,10/07/2009,19.25,NO,5.9,,,35,,,LOW,,CLEAR,BLUE,
+8188713,08/19/2010,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,
+8188713,08/31/2010,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,
+46317554,06/09/2011,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,GREEN,
+46317554,06/20/2011,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,
+46317554,07/04/2011,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,GREEN,
+46317554,07/21/2011,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,
+46317554,08/08/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,
+46317554,08/25/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,
+46317554,09/08/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,
+46317554,10/03/2011,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,
+46317554,05/04/2012,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,05/21/2012,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,05/31/2012,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,06/11/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,06/30/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,07/14/2012,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,07/29/2012,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,08/13/2012,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,08/30/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,09/13/2012,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,09/25/2012,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,05/28/2013,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,06/10/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,06/20/2013,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,07/11/2013,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,07/25/2013,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,08/12/2013,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,08/26/2013,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,05/22/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+46317554,06/06/2014,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,06/29/2014,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/18/2014,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/29/2014,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,08/23/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,09/26/2014,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,05/16/2015,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,06/05/2015,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,06/21/2015,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/11/2015,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/26/2015,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,08/11/2015,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,08/27/2015,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,09/27/2015,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,05/20/2016,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,06/14/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,06/26/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/24/2016,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,08/14/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,08/29/2016,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,06/02/2017,12.25,,3.7,,,41,,,,,,,
+46317554,06/25/2017,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/07/2017,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,07/27/2017,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+46317554,09/06/2017,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/10/1990,3,FEET,73,DEGREES F,8,MG/L
+07/10/1990,6,FEET,73,DEGREES F,8,MG/L
+07/10/1990,9,FEET,73,DEGREES F,8,MG/L
+07/10/1990,12,FEET,73,DEGREES F,7,MG/L
+07/10/1990,15,FEET,72,DEGREES F,7,MG/L
+07/10/1990,19,FEET,72,DEGREES F,3,MG/L
+08/26/1990,3,FEET,72,DEGREES F,8,MG/L
+08/26/1990,6,FEET,72,DEGREES F,8,MG/L
+08/26/1990,9,FEET,72,DEGREES F,8,MG/L
+08/26/1990,12,FEET,72,DEGREES F,6,MG/L
+08/26/1990,15,FEET,69,DEGREES F,6,MG/L
+08/26/1990,22,FEET,68,DEGREES F,6,MG/L
+09/30/1990,3,FEET,58,DEGREES F,9,MG/L
+09/30/1990,6,FEET,58,DEGREES F,9,MG/L
+09/30/1990,9,FEET,58,DEGREES F,9,MG/L
+09/30/1990,12,FEET,58,DEGREES F,8,MG/L
+09/30/1990,15,FEET,58,DEGREES F,9,MG/L
+09/30/1990,22,FEET,58,DEGREES F,9,MG/L
+10/28/1990,3,FEET,44,DEGREES F,8,MG/L
+10/28/1990,6,FEET,44,DEGREES F,10,MG/L
+10/28/1990,9,FEET,74,DEGREES F,10,MG/L
+10/28/1990,12,FEET,44,DEGREES F,10,MG/L
+10/28/1990,15,FEET,43,DEGREES F,10,MG/L
+10/28/1990,21,FEET,43,DEGREES F,10,MG/L
+08/10/1991,3,FEET,75,DEGREES F,8,MG/L
+08/10/1991,6,FEET,74,DEGREES F,8,MG/L
+08/10/1991,9,FEET,74,DEGREES F,8,MG/L
+08/10/1991,12,FEET,74,DEGREES F,8,MG/L
+08/10/1991,15,FEET,72,DEGREES F,7,MG/L
+08/10/1991,21,FEET,72,DEGREES F,7,MG/L
+09/06/1991,3,FEET,72,DEGREES F,8,MG/L
+09/06/1991,6,FEET,70,DEGREES F,9,MG/L
+09/06/1991,9,FEET,70,DEGREES F,9,MG/L
+09/06/1991,12,FEET,69,DEGREES F,8,MG/L
+09/06/1991,15,FEET,69,DEGREES F,8,MG/L
+09/06/1991,21,FEET,68,DEGREES F,8,MG/L
+10/20/1991,3,FEET,45,DEGREES F,11,MG/L
+10/20/1991,6,FEET,46,DEGREES F,11,MG/L
+10/20/1991,9,FEET,44,DEGREES F,11,MG/L
+10/20/1991,12,FEET,44,DEGREES F,11,MG/L
+10/20/1991,15,FEET,44,DEGREES F,11,MG/L
+10/20/1991,21,FEET,45,DEGREES F,11,MG/L
+09/12/1992,3,FEET,62,DEGREES F,9,MG/L
+09/12/1992,6,FEET,62,DEGREES F,9,MG/L
+09/12/1992,9,FEET,61,DEGREES F,9,MG/L
+09/12/1992,12,FEET,61,DEGREES F,9,MG/L
+09/12/1992,15,FEET,61,DEGREES F,9,MG/L
+09/12/1992,19,FEET,61,DEGREES F,9,MG/L
+11/01/1992,3,FEET,43,DEGREES F,11,MG/L
+11/01/1992,6,FEET,43,DEGREES F,11,MG/L
+11/01/1992,9,FEET,43,DEGREES F,11,MG/L
+11/01/1992,12,FEET,43,DEGREES F,11,MG/L
+11/01/1992,15,FEET,43,DEGREES F,11,MG/L
+11/01/1992,21,FEET,43,DEGREES F,11,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/11/1989,Partly-mostly cloudy    
+06/17/1989,Rough    
+06/22/1989,After thunderstorm    
+06/30/1989,Cloudy    
+07/10/1989,Hot- sunny- humid    
+07/20/1989,Sunny- windy    
+07/30/1989,Cloudy- staff gauge at dam    
+08/06/1989,Cloudy- windy- light rain night before    
+08/16/1989,Clear- calm    
+08/27/1989,Sunny- rained .5 in. yesterday    
+09/01/1989,Lake level: See Bg.Spid.    
+09/06/1989,Partly cloudy- hazy- 4.5 in. rain past 5 days    
+09/15/1989,Sunny    
+09/26/1989,Clear- cool    
+10/06/1989,Cloudy- cold- choppy- 40 F    
+10/20/1989,Clear- calm- 60 F    
+05/13/1990,Sunny- windy    
+05/21/1990,Cloudy- calm    
+05/27/1990,Calm- sunny- lt. rain night before    
+06/04/1990,Sunny- light chop on water    
+06/12/1990,Cloudy- after light rain- high wind    
+06/22/1990,Cloudy- mod. wind    
+07/04/1990,Mostly cloudy    
+07/10/1990,Mostly cloudy- the temperature is 74 degrees- big storm with 0.6" of rain and wind.  0.9" of rain from 7/7-7/8.    
+07/13/1990,Sunny- calm    
+07/25/1990,Partly cloudy    
+08/03/1990,Sunny    
+08/10/1990,Sunny- very windy    
+08/17/1990,Cloudy- overcast- water very low    
+08/26/1990, 4.8" of rain from 7/7-08/26.  Some chop on the water but nothing that influence the secchi reading.    
+09/12/1990,Cloudy- after 2" rain    
+09/22/1990,Overcast- lt. drizzle- very windy- rain last p.m.- level came up rapidly- last reading    
+09/30/1990,Mostly cloudy and a breeze from the west.  3.13" of rain from labor day until 9/30/1990.    
+10/28/1990,High winds for 16 hours on day before.  Today the temperature is 40 degrees with a clear sky and no wind.  3.00" of rain in October.    
+06/02/1991,Lake always looks clear/blue looking across the surface.  Looking straight down- it looks slightly brown.    
+06/11/1991,Sunny- breezy    
+06/19/1991,Sunny    
+06/26/1991,Overcast- windy    
+07/05/1991,Rain all week    
+07/13/1991,Windy- sunny- 1.5" rain yesterday    
+07/19/1991,Sunny    
+07/27/1991,Cloudy    
+08/10/1991,Warm and clear.  Lake level: very high    
+08/11/1991,Sunny    
+08/20/1991,Sunny- windy    
+09/06/1991,Only partly cloudy but a bit breezy.    
+10/20/1991,Too cold.    
+05/30/1992,Sunny- calm.    
+06/08/1992,Calm- gentle breeze    
+06/20/1992,Cold- partly sunny- rained for one week- it's hard to read the staff gauge due to wind and waves.    
+06/27/1992,Sunny- had a lot of rain.    
+07/05/1992,Lots of rain this last week- up to 7"- water is above the gauge- so cannot read the level.    
+07/11/1992,Partly sunny- had another .5 inch of rain.    
+07/21/1992,Cloudy- cool.  Rain at times- not too nice for swimming.    
+08/10/1992,Rain and wind last evening- windy today but clear.    
+08/18/1992,Rained 1.5 inches on 8-17-92.    
+08/27/1992,Clear day- black clouds came in at time of secchi disc reading.    
+09/03/1992,Rain last night- cloudy- no sun.    
+09/12/1992,Very windy - hard to get boat anchor in "usual" place.  Rain gauge reading from 9/7-9/12 is one inch.    
+11/01/1992,Snowed briefly from 6: 20-8: 00 am- cloudy- the temperature now is 36 degrees F- breeze- and no sun.    
+06/21/1993,Sunny- had heavy rain for 2 days    
+07/01/1993,2" rain last night.    
+07/05/1994,Water level: 82.25 elevation    
+07/17/1994,Water level: 82.16 elevation    
+08/10/1994,Cloudy.  Water level: 82.28 elevation    
+08/24/1994,Cloudy.    
+07/06/1995,Rainy-overcast.    
+08/01/1995,Clear + sunny.    
+08/16/1995,Overcast skies.    
+09/02/1995,See you in May.  Have a good winter.  Nwc    
+05/28/1997,Cloudy- overcast- cool.    
+06/18/1997,Overcast- 60 degrees. N wind.    
+06/29/1997,S wind- overcast sky.    
+07/18/1997,Sunny- clear.    
+07/29/1997,Clear- sunny- 74 degrees.    
+08/11/1997,65 degrees. clear sunny.    
+08/19/1997,60 degrees. overcast- calm.    
+05/17/1998,LAKE SAMPLE    
+06/21/1998,LAKE SAMPLE    
+06/09/2000,Fantastic day.    
+07/14/2000,Sunny and warm.  Good chop.    
+07/13/2001,Cloudy.    
+08/13/2001,Sunny.    
+09/03/2001,Sunny.    
+05/04/2003,SE Wind- veiled sun
+    
+06/07/2003,low clouds- NE breeze
+    
+06/23/2003,strong wind- choppy water
+    
+07/07/2003,broken clouds- light NW breeze
+    
+08/02/2003,broken overcast with calm wind
+    
+10/05/2003,based on the sudden increase in secchi depth- this
+part of the lake appears as if it has turned over
+    
+06/18/2008,Sunny- light breeze. Slight ripple
+07/01/2008,Sunny- light breeze. Slight ripple
+08/04/2009,Sunny. Mild breeze.  Calm surface.
+08/27/2009,Sunny. Slight breeze.  Slight ripples.
+09/01/2009,Sunny.  Moderate breeze.  Moderate ripples.
+09/15/2009,Sunny. Calm. Slight haze. Smooth surface.
+09/24/2009,Sunny.  No Wind.
+09/30/2009,Partly cloudy.  Mild breeze.  Slight ripples.
+10/07/2009,Partly clooudy.  Breezy- cold- moderate ripples.
+08/19/2010,Sunny.  Blue sky.  Mild breeze- slight ripple.
+08/31/2010,Partly cloudy.  Moderate breeze.  Choppy
+06/09/2011,Sunny- blue sky- slight to moderate breeze. Michale O'Sullivan trained Steve Braddish during this sampling.
+06/20/2011,Partly cloudy- with sun- moderate breeze. Mary Braddish assisted.
+07/04/2011,clear skies- moderate breeze
+07/21/2011,sunny skies- moderate breeze- slight surface ripple
+08/08/2011,partly cloudy- breezy- moderate water ripple. Mary Braddish assisting
+08/25/2011,clear skies- sunny- no wind- very slight water ripple
+09/08/2011,clear skies- sunny- zero wind and zero ripple
+10/03/2011,clear skies- calm- no wind
+05/04/2012,Mostly cloudy and windy. Could only do a few locations as got too windy to complete on 5/4/12
+05/21/2012,sunny- clear- no wind
+05/31/2012,mostly sunny- no wind
+06/11/2012,mostly sunny- slight breeze
+06/30/2012,clear skies- sunny- slight breeze
+07/14/2012,partyly sunny- breezy- lot of water churn from boat traffic.
+07/29/2012,mostly sunny- slight breeze
+08/13/2012,mostly sunny- slight breeze
+08/30/2012,slight breeze- sunny skies
+09/13/2012,sunny- slight breeze
+09/25/2012,mostly sunny- no breeze
+05/28/2013,Cloudy and calm
+06/10/2013,sunny- slight breeze
+06/20/2013,overcast- slight breeze
+07/11/2013,Clear skies- dead calm
+07/25/2013,Cloudy- breezy- sprinkles
+08/26/2013,Cloudy- breezy
+06/06/2014,mostly sunny- breezy
+06/29/2014,Sunny and windy
+07/18/2014,sunny- breezy
+07/29/2014,mostly cloudy- no breeze
+08/23/2014,partly sunny- no breeze
+09/26/2014,Full sun with breeze
+05/16/2015,cloudy- slight breeze
+06/05/2015,sunny- few clouds- breezy
+06/21/2015,sunny- slight breeze
+07/11/2015,haze- thin clouds- sun and slight breeze
+07/26/2015,mostly cloudy- slight breeze
+08/11/2015,breezy- few clouds
+08/27/2015,full sun- no breeze
+09/27/2015,breezy- full sun
+05/20/2016,mostly sunny- no wind
+06/14/2016,overcast- light breeze
+06/26/2016,full sun- windy
+07/24/2016,breezy- mostly sunny
+08/14/2016,part sun and clouds- slight breeze
+08/29/2016,Full sun- slight breeze
+06/02/2017,Full sun- no breeze
+06/25/2017,cloudy- slight breeze
+07/07/2017,full sun- no clouds- slight breeze
+07/27/2017,full sun- slight breeze
+09/06/2017,cloudy- slight breeze
+
+
+
+
+Start Date,Group Name,Project Name
+06/10/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/11/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/17/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/18/1989,Ted Manos,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/22/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/23/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/30/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/01/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/07/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/10/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/14/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/20/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/21/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/26/1989,Ted Manos,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/28/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/30/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/04/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/06/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/12/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/16/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/18/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/27/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/01/1989,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/06/1989,Don Nordstrom,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/08/1989,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/15/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/23/1989,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/26/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/03/1989,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/06/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/13/1989,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/20/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/13/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/21/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/23/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/27/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/04/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/05/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/12/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/14/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/22/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/25/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/29/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/04/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/09/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/10/1990,Phil Brown- Md And Jinny Brown,Statewide Lakes TP 1990
+07/13/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/25/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/27/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/03/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/10/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/11/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/17/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/22/1990,Data Collectors,Statewide Lakes TP 1990
+08/26/1990,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/28/1990,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/09/1990,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/12/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/19/1990,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/22/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/30/1990,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/12/1990,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/28/1990,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/31/1990,Data Collectors,Statewide Lakes TP 1990
+06/02/1991,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/10/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/11/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/17/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/19/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/26/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/27/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/05/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/13/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/16/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/19/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/23/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/27/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/01/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/04/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/07/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/10/1991,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/11/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/14/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/20/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/21/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/28/1991,Jack Weil,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/04/1991,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/06/1991,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/13/1991,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/20/1991,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/27/1991,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/11/1991,George Knox,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/20/1991,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/30/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/08/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/09/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/17/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/20/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/27/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/05/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/09/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/11/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/17/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/21/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/22/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/01/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/03/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/07/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/10/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/18/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/19/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/26/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/27/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/03/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/04/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/10/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/12/1992,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/12/1992,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+11/01/1992,Phil Brown- Md And Jinny Brown,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/05/1993,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/19/1993,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/21/1993,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/01/1993,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/07/1993,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/02/1993,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/04/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/19/1993,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/26/1993,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/07/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/11/1994,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/18/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/26/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/05/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/06/1994,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/10/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/17/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/18/1994,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/27/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/02/1994,Lawrence Crement,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/08/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/10/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/24/1994,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/05/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/01/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/12/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/06/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/20/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/01/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/16/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/02/1995,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/16/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/30/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/25/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/03/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/26/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/08/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/20/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/01/1996,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/28/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/06/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/18/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/29/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/09/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/18/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/29/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/11/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/19/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/26/1997,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/17/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/22/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/05/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/16/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/21/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/01/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/13/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/25/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/08/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/18/1998,Norman Callender,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/03/1999,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/20/1999,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/12/1999,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/19/1999,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/28/1999,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/23/1999,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/09/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/25/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/14/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/28/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/24/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/17/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/01/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/22/2001,Janet Schmidt And Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/13/2001,Janet Schmidt And Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/27/2001,Janet Schmidt And Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/13/2001,Janet Schmidt And Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/03/2001,Janet Schmidt And Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/24/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/09/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/23/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/26/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/12/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/19/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/04/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/18/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/07/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/23/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/07/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/12/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/27/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/02/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/25/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/30/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/07/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/15/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/22/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/05/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/26/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/10/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/18/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/30/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/08/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/27/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/04/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/03/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/09/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/17/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/21/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/08/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/29/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/19/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/09/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/17/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/30/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/14/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/02/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/10/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/22/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/29/2006,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/26/2006,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/18/2006,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/20/2006,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/14/2006,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/19/2006,Dan Mersel,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/29/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/13/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/31/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/14/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/08/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/22/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/27/2007,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/18/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/01/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/14/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/28/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/18/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/26/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/03/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/17/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/03/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/08/2008,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/04/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/27/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/01/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/15/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/24/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/30/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/07/2009,Michael B. O'Sullivan,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/19/2010,Dave Blumer and Kris Larsen,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/31/2010,Dave Blumer and Kris Larsen,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/09/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/20/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/04/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/21/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/08/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/25/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/08/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+10/03/2011,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/04/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/21/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/31/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/11/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/30/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/14/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/29/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/13/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/30/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/13/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/25/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/28/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/10/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/20/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/11/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/25/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/12/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/26/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/22/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/06/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/29/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/18/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/29/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/23/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/26/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/16/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/05/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/21/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/11/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/26/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/11/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/27/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/27/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+05/20/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/14/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/26/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/24/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/14/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+08/29/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/02/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+06/25/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/07/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+07/27/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin
+09/06/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - Spider Lake; Little Spider Basin

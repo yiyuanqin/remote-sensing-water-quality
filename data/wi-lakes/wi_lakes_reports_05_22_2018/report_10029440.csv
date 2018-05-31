@@ -1,0 +1,84 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Emily Lake,Florence,651600,NO,19,,10029440,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18136776,08/14/2007,11,NO,3.3,,,43,,,,,,,
+18136776,08/07/2008,8.5,NO,2.6,,,46,,,,,,,
+29575558,07/24/2009,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137260,09/02/2009,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+35006126,07/06/2010,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+129140005,06/23/2017,,,,,114,,65,,,,,,
+129140005,07/21/2017,,,,,15.7,,49,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/24/2009,3,FEET,21.4,DEGREES C,10.07,MG/L
+07/24/2009,6,FEET,21.6,DEGREES C,10.04,MG/L
+07/24/2009,9,FEET,21,DEGREES C,9.69,MG/L
+07/24/2009,12,FEET,20.1,DEGREES C,9.3,MG/L
+07/24/2009,15,FEET,19.6,DEGREES C,7.94,MG/L
+07/24/2009,18,FEET,18.8,DEGREES C,5.65,MG/L
+07/24/2009,21,FEET,17.4,DEGREES C,1.78,MG/L
+07/24/2009,24,FEET,15.4,DEGREES C,.26,MG/L
+07/24/2009,27,FEET,14.2,DEGREES C,.15,MG/L
+07/24/2009,30,FEET,13,DEGREES C,.11,MG/L
+07/24/2009,33,FEET,11.9,DEGREES C,.07,MG/L
+07/24/2009,36,FEET,11.4,DEGREES C,.05,MG/L
+07/24/2009,39,FEET,11.3,DEGREES C,.05,MG/L
+09/02/2009,3,FEET,20.1,DEGREES C,9.55,MG/L
+09/02/2009,6,FEET,19.7,DEGREES C,9.69,MG/L
+09/02/2009,9,FEET,19.4,DEGREES C,9.69,MG/L
+09/02/2009,12,FEET,18.8,DEGREES C,9.22,MG/L
+09/02/2009,15,FEET,18.5,DEGREES C,8.62,MG/L
+09/02/2009,18,FEET,18.1,DEGREES C,8.32,MG/L
+09/02/2009,21,FEET,17.9,DEGREES C,8.15,MG/L
+09/02/2009,24,FEET,17.7,DEGREES C,7.2,MG/L
+09/02/2009,27,FEET,15.3,DEGREES C,1.07,MG/L
+09/02/2009,30,FEET,13.3,DEGREES C,.23,MG/L
+09/02/2009,33,FEET,12.1,DEGREES C,.1,MG/L
+09/02/2009,36,FEET,11.5,DEGREES C,.08,MG/L
+09/02/2009,39,FEET,11.6,DEGREES C,.05,MG/L
+09/02/2009,42,FEET,11.5,DEGREES C,.04,MG/L
+07/06/2010,0,FEET,77.5,DEGREES F,8.13,MG/L
+07/06/2010,3,FEET,77,DEGREES F,8.17,MG/L
+07/06/2010,6,FEET,76.8,DEGREES F,8.18,MG/L
+07/06/2010,9,FEET,76.3,DEGREES F,7.71,MG/L
+07/06/2010,12,FEET,75.1,DEGREES F,5.54,MG/L
+07/06/2010,15,FEET,70.2,DEGREES F,4.06,MG/L
+07/06/2010,18,FEET,66.3,DEGREES F,1.01,MG/L
+07/06/2010,21,FEET,61.4,DEGREES F,.16,MG/L
+07/06/2010,24,FEET,57.8,DEGREES F,.15,MG/L
+07/06/2010,27,FEET,56,DEGREES F,.09,MG/L
+07/06/2010,30,FEET,55.2,DEGREES F,.07,MG/L
+07/06/2010,33,FEET,54.7,DEGREES F,.06,MG/L
+07/06/2010,36,FEET,54.1,DEGREES F,.05,MG/L
+07/06/2010,39,FEET,53.9,DEGREES F,.05,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/14/2007,Shoreline in good shape in spite of development. Lots of habitat neat shore on south and west.  Kayaked entire lake.  May be purple loosestrife on southwest shore.  Dissolved oxygen 7.44ppm at 10 feet- 0.0ppm at 30 feet.
+08/07/2008,Assisted by landowner Gary VanBellinger.
+07/24/2009,Cloudy when Secchi reading was taken
+Loons sighted
+07/06/2010,Partly cloudy w/ slight breeze.
+4 loons spotted (2 adults- 2 young)
+Secchi visibility impairment most likely due to high volume of boat traffic during 4th of July weekend.
+
+
+
+
+Start Date,Group Name,Project Name
+08/14/2007,Dane Gagnon,Florence County Land Conservation Department- Secchi Data 
+08/07/2008,Dane Gagnon,Florence County Land Conservation Department- Secchi Data 
+07/24/2009,Robert Ferris,Florence County Land Conservation Department- Secchi Data 
+09/02/2009,Maureen Ferry,Florence County Land Conservation Department- Secchi Data 
+07/06/2010,Paul Tikusis,Florence County Land Conservation Department- Secchi Data 
+06/23/2017,Carolyn Weber-Starling,FLORENCE COUNTY: Florence County AIS Prevention + Management Program
+07/21/2017,Carolyn Weber-Starling,FLORENCE COUNTY: Florence County AIS Prevention + Management Program

@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Devils Lake,Sauk,980900,SC,57,,573121,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+79510873,07/25/2017,,,,,,,,,,,,,
+139813213,07/25/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/2017,0,METERS,24.5,DEGREES C,,
+07/25/2017,1,METERS,24.5,DEGREES C,,
+07/25/2017,2,METERS,24.5,DEGREES C,,
+07/25/2017,3,METERS,24.5,DEGREES C,,
+07/25/2017,4,METERS,24.5,DEGREES C,,
+07/25/2017,5,METERS,24.4,DEGREES C,,
+07/25/2017,6,METERS,24.4,DEGREES C,,
+07/25/2017,7,METERS,20.6,DEGREES C,,
+07/25/2017,8,METERS,18.2,DEGREES C,,
+07/25/2017,9,METERS,15.4,DEGREES C,,
+07/25/2017,10,METERS,13.6,DEGREES C,,
+07/25/2017,11,METERS,12.2,DEGREES C,,
+07/25/2017,12,METERS,11.2,DEGREES C,,
+07/25/2017,13,METERS,10.5,DEGREES C,,
+07/25/2017,14,METERS,10.3,DEGREES C,,
+07/25/2017,14.1,METERS,10.3,DEGREES C,,
+07/25/2017,,,10.001,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/25/2017,RESULT DEPTH = 1 m
+07/25/2017,Temperature profile taken at about the deep hole just before loggers were installed. 
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/2017,CATHERINE HEIN,Inland Lake Continuous Temperature Monitoring 2017-2018
+07/25/2017,JUSTIN CHENEVERT,Inland Lake Continuous Temperature Monitoring 2017-2018
+07/25/2017,JUSTIN CHENEVERT,

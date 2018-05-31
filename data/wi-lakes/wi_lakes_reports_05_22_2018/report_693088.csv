@@ -1,0 +1,190 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Taylor Lake,Waupaca,265600,NE,69,,693088,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/31/1979,,,,5.05,10,,46,47,,,,,
+1,09/23/1992,30.5,,9.3,3.91,9,28,45,45,,,,,
+1,02/02/1993,,,,,9,,45,,,,,,
+1,05/20/1993,29.8,,9.1,4.25,20,28,51,46,,,,,
+1,08/17/1993,,,,4.37,11,,47,46,,,,,
+1,10/06/1993,,,,6.85,16,,50,49,,,,,
+1,01/24/1994,,,,,14,,49,,,,,,
+1,05/03/1994,,,,5.29,12,,47,47,,,,,
+8190880,05/03/1994,9.5,NO,2.9,,,45,,,,,,,
+8190880,06/21/1994,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/03/1994,29.5,,9,5.4,11,28,47,48,,,,,
+8190880,08/03/1994,9,NO,2.7,,,45,,,,,,,1-Beautiful, could not be nicer
+1,09/22/1994,,,,3.65,8,,44,45,,,,,
+8190880,09/22/1994,8,NO,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+125961548,04/18/2016,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,
+125961548,05/23/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,
+125961548,06/29/2016,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,
+125961548,07/20/2016,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,GREEN,
+1,07/26/2016,6.7,N,2,1.22,13.2,50,48,36,,,,,
+125961548,08/14/2016,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,
+125961548,09/11/2016,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,
+125961548,10/11/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+125961548,04/22/2017,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125961548,06/01/2017,24,NO,7.3,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125961548,07/24/2017,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+125961548,08/28/2017,10,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+125961548,09/30/2017,11,NO,3.3,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/31/1979,,,,,0,MG/L
+09/23/1992,,,16.23,C,0.76,MG/L
+02/02/1993,,,3.97,C,0.37,MG/L
+05/20/1993,,,14.54,C,0.48,MG/L
+08/17/1993,,,25.10,C,0.10,MG/L
+10/06/1993,,,12.78,C,0.78,MG/L
+01/24/1994,,,3.18,C,11.7,MG/L
+05/03/1994,,,11.57,C,0.99,MG/L
+08/03/1994,,,24.46,C,0.45,MG/L
+09/22/1994,,,21.44,C,0.43,MG/L
+07/26/2016,,,28.5,C,0.2,MG/L
+04/22/2017,1,FEET,51.9,DEGREES F,,
+04/22/2017,2,FEET,52,DEGREES F,,
+04/22/2017,3,FEET,52,DEGREES F,,
+04/22/2017,4,FEET,52.5,DEGREES F,,
+04/22/2017,5,FEET,52.5,DEGREES F,,
+04/22/2017,6,FEET,52.5,DEGREES F,,
+04/22/2017,7,FEET,52.5,DEGREES F,,
+04/22/2017,8,FEET,52.5,DEGREES F,,
+04/22/2017,9,FEET,52.5,DEGREES F,,
+04/22/2017,10,FEET,52.4,DEGREES F,,
+04/22/2017,11,FEET,52.1,DEGREES F,,
+04/22/2017,12,FEET,52.1,DEGREES F,,
+04/22/2017,13,FEET,51.8,DEGREES F,,
+04/22/2017,14,FEET,51.8,DEGREES F,,
+04/22/2017,15,FEET,51.8,DEGREES F,,
+04/22/2017,16,FEET,51.8,DEGREES F,,
+04/22/2017,17,FEET,51.6,DEGREES F,,
+04/22/2017,18,FEET,50.8,DEGREES F,,
+04/22/2017,19,FEET,48.2,DEGREES F,,
+04/22/2017,20,FEET,46.9,DEGREES F,,
+04/22/2017,21,FEET,45.7,DEGREES F,,
+04/22/2017,22,FEET,44.2,DEGREES F,,
+04/22/2017,23,FEET,43.9,DEGREES F,,
+04/22/2017,24,FEET,43.5,DEGREES F,,
+04/22/2017,25,FEET,42.9,DEGREES F,,
+04/22/2017,26,FEET,42.8,DEGREES F,,
+04/22/2017,27,FEET,42.6,DEGREES F,,
+04/22/2017,28,FEET,42.3,DEGREES F,,
+04/22/2017,29,FEET,42.2,DEGREES F,,
+04/22/2017,30,FEET,42,DEGREES F,,
+04/22/2017,31,FEET,42,DEGREES F,,
+04/22/2017,32,FEET,41.7,DEGREES F,,
+04/22/2017,33,FEET,41.3,DEGREES F,,
+04/22/2017,34,FEET,40,DEGREES F,,
+04/22/2017,35,FEET,40.7,DEGREES F,,
+04/22/2017,36,FEET,40.6,DEGREES F,,
+04/22/2017,37,FEET,40.6,DEGREES F,,
+04/22/2017,38,FEET,40.6,DEGREES F,,
+04/22/2017,39,FEET,40.5,DEGREES F,,
+04/22/2017,40,FEET,40.4,DEGREES F,,
+06/01/2017,0,FEET,68.7,DEGREES F,,
+06/01/2017,1,FEET,68.5,DEGREES F,,
+06/01/2017,2,FEET,68.3,DEGREES F,,
+06/01/2017,3,FEET,67.8,DEGREES F,,
+06/01/2017,4,FEET,67.2,DEGREES F,,
+06/01/2017,5,FEET,66.5,DEGREES F,,
+06/01/2017,6,FEET,66.1,DEGREES F,,
+06/01/2017,7,FEET,65.8,DEGREES F,,
+06/01/2017,8,FEET,65.2,DEGREES F,,
+06/01/2017,9,FEET,64.4,DEGREES F,,
+06/01/2017,10,FEET,64.1,DEGREES F,,
+06/01/2017,11,FEET,63.8,DEGREES F,,
+06/01/2017,12,FEET,63.3,DEGREES F,,
+06/01/2017,13,FEET,62.7,DEGREES F,,
+06/01/2017,14,FEET,62.1,DEGREES F,,
+06/01/2017,15,FEET,61.8,DEGREES F,,
+06/01/2017,16,FEET,60.6,DEGREES F,,
+06/01/2017,17,FEET,60,DEGREES F,,
+06/01/2017,18,FEET,59.1,DEGREES F,,
+06/01/2017,19,FEET,57.2,DEGREES F,,
+06/01/2017,20,FEET,56.4,DEGREES F,,
+06/01/2017,21,FEET,55,DEGREES F,,
+06/01/2017,22,FEET,53.9,DEGREES F,,
+06/01/2017,23,FEET,52.8,DEGREES F,,
+06/01/2017,24,FEET,51.7,DEGREES F,,
+06/01/2017,25,FEET,51,DEGREES F,,
+06/01/2017,26,FEET,50.3,DEGREES F,,
+06/01/2017,27,FEET,49.2,DEGREES F,,
+06/01/2017,28,FEET,48,DEGREES F,,
+06/01/2017,29,FEET,46.9,DEGREES F,,
+06/01/2017,30,FEET,45.8,DEGREES F,,
+06/01/2017,31,FEET,44.7,DEGREES F,,
+06/01/2017,32,FEET,44.5,DEGREES F,,
+06/01/2017,33,FEET,44,DEGREES F,,
+06/01/2017,34,FEET,43.1,DEGREES F,,
+06/01/2017,35,FEET,42.8,DEGREES F,,
+06/01/2017,36,FEET,42.9,DEGREES F,,
+06/01/2017,37,FEET,42.9,DEGREES F,,
+06/01/2017,38,FEET,42.8,DEGREES F,,
+06/01/2017,39,FEET,42.8,DEGREES F,,
+06/01/2017,40,FEET,42.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/31/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/03/1994,Taylor lake has a bad area where the run-off from king veterans home comes in.  Assumed sample time was noon.    
+09/22/1994,It rained the night of the 21st and was raining when readings were made on the 22nd.    
+05/23/2016,mid-week
+06/29/2016,Mostly clear- temperatures in the 80s.
+07/20/2016,Sunday
+08/14/2016,Very busy Sunday afternoon- low 80s- partly cloudy.
+09/11/2016,Late day Sunday- low 70s- clear to partly cloudy and windy.
+10/11/2016,Mid week- 70 degree range- clear.  Windy.  Lakes appreciating lack of boat traffic.
+06/01/2017,Beautiful late Spring day- clear skies- temps in the uppers 70's- moderate winds.  Tests taken by myself and my husband- Bob Wells.
+07/24/2017,The lake was very stirred up- we purpusfuly waited a day to let the water settle down before testing.  The day was perfect.  Very little boat traffic- clear skies- light breeze air temp around 80.  The results came back bad- these lakes are to abused and overcrowded and it showed to obviously with this set of tests.  Wild life is disappearing- the loons we had all Spring have now moved away.  Small batches of geese and ducks- with very few babies.  The clarity of the water was poor- our once beautiful water looked not so healthy yesterday.                                                 
+08/28/2017,Lake was not coming along as far as color and clarity as we had hoped it would be- very little improvement in clarity.  More of a darker green detected.  These lakes can't take this abuse.  Loons have been gone now for over a month- only an occasional sighting- used to be several times daily- the loons lived on Sunset and Rainbow Lakes until approx. the 4th of July- that is when the boating population went out of control.  To many boats- to big of boats allowed- wave action tearing the shores apart- very sad to see and none of the organizations affiliated with the lakes will do a thing.  So very sad
+09/30/2017,Beautiful- clear fall day.  Temp in the mid 60's.  The lakes are not clearing up as quickly as I had hoped- maybe due to the wonderful warm weather and continued moderate use of the Chain.  My husband- Bob Wells helped with the testing and a friend- Brett Wilke had his first experience doing the temperatures.
+
+
+
+
+Start Date,Group Name,Project Name
+07/31/1979,Data Collectors,Migrated from STORET Legacy
+09/23/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/23/1992,Data Collectors,LAKE MGT PROJECTS
+02/02/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+02/02/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/17/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/17/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/06/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+10/06/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/24/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+01/24/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+06/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+08/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/03/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+09/22/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/22/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/22/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+04/18/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+05/23/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+06/29/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+07/20/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/14/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+09/11/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+10/11/2016,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+04/22/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+06/01/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+07/24/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+08/28/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole
+09/30/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Taylor Lake - Deep Hole

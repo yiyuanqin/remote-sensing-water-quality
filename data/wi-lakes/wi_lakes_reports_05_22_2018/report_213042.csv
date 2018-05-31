@@ -1,0 +1,360 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Long Lake,Forest,190500,NO,21,,213042,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190827,08/17/1994,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190827,08/30/1994,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190827,09/08/1994,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190827,09/15/1994,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190827,09/23/1994,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,
+8190827,09/29/1994,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190827,10/12/1994,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,05/25/1995,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,06/03/1995,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,06/08/1995,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,06/14/1995,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,06/22/1995,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,06/29/1995,8.5,NO,2.6,,,46,,,MODERATE-LAKE LEVEL DROPPED 8",,CLEAR,BLUE,2-Very minor aesthetic problems
+8190613,07/08/1995,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,07/13/1995,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190613,07/20/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,07/26/1995,15,NO,4.6,,,38,,,DOWN,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,08/03/1995,11.5,NO,3.5,,,42,,,DOWN,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,08/11/1995,10.5,NO,3.2,,,43,,,COMING UP,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,08/15/1995,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,08/22/1995,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,09/01/1995,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,09/07/1995,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,09/15/1995,7.5,NO,2.3,,,48,,,MODERATE-RECEDING,,,GREEN,2-Very minor aesthetic problems
+8190613,09/21/1995,8,NO,2.4,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190613,09/26/1995,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,10/15/1995,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,07/11/1996,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,07/19/1996,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190613,07/25/1996,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190613,08/01/1996,11,YES,3.3,,,43,,,HIGH-BUT RECEDING,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190613,08/07/1996,12,NO,3.6,,,41,,,MODERATE-RECEDING,,,,1-Beautiful, could not be nicer
+8190613,08/17/1996,13.5,NO,4.1,,,40,,,NORMAL,,,,1-Beautiful, could not be nicer
+8190613,08/27/1996,20,NO,6.1,,,34,,,NORMAL,,,,1-Beautiful, could not be nicer
+8190613,09/05/1996,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,09/19/1996,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,09/25/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190613,10/08/1996,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,06/11/1997,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189639,06/17/1997,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189639,06/20/1997,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/09/1997,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/24/1997,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/07/1997,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/18/1997,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/04/1997,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/23/1997,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,06/21/1999,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189639,07/07/1999,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189639,07/27/1999,17,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189639,08/25/1999,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189639,09/16/1999,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189639,10/06/1999,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189639,05/31/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189639,06/27/2000,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/12/2000,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189639,08/02/2000,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189639,08/14/2000,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189639,10/17/2000,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189639,06/28/2001,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/11/2001,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/03/2001,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/14/2001,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/28/2001,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/20/2001,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,05/28/2002,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/23/2002,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/05/2002,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/20/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189639,09/07/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189639,09/15/2002,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189639,05/27/2003,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189639,06/19/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,06/30/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/01/2003,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/02/2003,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/25/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,06/15/2004,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/15/2004,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/06/2004,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/23/2004,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/25/2004,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,06/28/2005,14,NO,4.3,,,39,,,HIGH,1.72,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/07/2005,12,NO,3.6,,,41,,,HIGH,1.72,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/05/2005,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/04/2005,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/15/2005,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/06/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/24/2006,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/01/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/05/2007,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,07/30/2007,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,08/13/2007,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189639,09/23/2007,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145852859,06/17/2017,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145852859,07/07/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145852859,07/12/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145852859,08/05/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145852859,10/08/2017,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/17/2017,0,FEET,75,DEGREES F,,
+06/17/2017,3,FEET,74.6,DEGREES F,,
+06/17/2017,6,FEET,74.4,DEGREES F,,
+06/17/2017,9,FEET,74.3,DEGREES F,,
+06/17/2017,12,FEET,72.3,DEGREES F,,
+06/17/2017,15,FEET,64.2,DEGREES F,,
+06/17/2017,18,FEET,60.2,DEGREES F,,
+06/17/2017,21,FEET,56.8,DEGREES F,,
+06/17/2017,24,FEET,56.6,DEGREES F,,
+06/17/2017,27,FEET,56.6,DEGREES F,,
+07/07/2017,1,FEET,75.9,DEGREES F,,
+07/07/2017,3,FEET,75.7,DEGREES F,,
+07/07/2017,6,FEET,75.2,DEGREES F,,
+07/07/2017,9,FEET,74.3,DEGREES F,,
+07/07/2017,12,FEET,70.5,DEGREES F,,
+07/07/2017,15,FEET,68.3,DEGREES F,,
+07/07/2017,18,FEET,62.2,DEGREES F,,
+07/07/2017,21,FEET,57.9,DEGREES F,,
+07/07/2017,24,FEET,57.7,DEGREES F,,
+07/07/2017,27,FEET,57.7,DEGREES F,,
+07/12/2017,1,FEET,78,DEGREES F,,
+07/12/2017,3,FEET,77.7,DEGREES F,,
+07/12/2017,6,FEET,76.6,DEGREES F,,
+07/12/2017,9,FEET,75.2,DEGREES F,,
+07/12/2017,12,FEET,72.3,DEGREES F,,
+07/12/2017,15,FEET,68.7,DEGREES F,,
+07/12/2017,18,FEET,64.2,DEGREES F,,
+07/12/2017,21,FEET,58.4,DEGREES F,,
+07/12/2017,24,FEET,58,DEGREES F,,
+07/12/2017,27,FEET,57.9,DEGREES F,,
+10/08/2017,1,FEET,62.6,DEGREES F,,
+10/08/2017,3,FEET,62.4,DEGREES F,,
+10/08/2017,6,FEET,62.4,DEGREES F,,
+10/08/2017,9,FEET,62.4,DEGREES F,,
+10/08/2017,12,FEET,62.4,DEGREES F,,
+10/08/2017,15,FEET,62.4,DEGREES F,,
+10/08/2017,18,FEET,62,DEGREES F,,
+10/08/2017,21,FEET,61.8,DEGREES F,,
+10/08/2017,24,FEET,61.8,DEGREES F,,
+10/08/2017,27,FEET,61.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/17/1994,Fine particles suspended in water.  Looks like pollen.    
+08/30/1994,No suspended particles in water as there was on last test date 8/17/94.    
+09/08/1994,Minor debris floating in water caused by high windy conditions 9/7/94.    
+09/15/1994,Lake level up 6" in one week.  Recent heavy rains caused dirty run-off from new construction on north side of lake - into swamp that has a channel to the lake - 4 boats sunk tied to dock.    
+09/23/1994,Cloudy + overcast - heavy rain all day 9/22/94.    
+09/29/1994,Windy until about 2:00 p.m. - took reading at different location on north shore.    
+10/12/1994,Last reading for 1994.  Lake calm for 2 days - no appreciable wind.    
+05/25/1995,Slight overcast 58 degrees.  Ice out 4/17/95.  Water is cold - no swimming.    
+06/03/1995,High thin clouds-algae starting to form in other parts of the lake-people swimming and fishing.    
+06/08/1995,Aspen pollen floating on water- air temp. 55 degrees.    
+06/14/1995,Lake calm-bits of algae just below surface-air temp. 78 degrees.    
+06/22/1995,Suspended particles in water-lake calm-85 degrees-after swimming eyes itch.    
+06/29/1995,Big boats on lake 6-25-95.  Operating fairly close to shore disturbing lake bottom with big waves.    
+07/08/1995,Very few boats on lake since 7-4-95.  Bottom has settled down.    
+07/13/1995,Algae or pollen suspended in lake- very hot 97 degrees.    
+07/20/1995,No big boats on lake since 7-16-95.    
+07/26/1995,With all the hot weather and lack of rain lake level has dropped 18" from high water mark!!    
+08/03/1995,Warm + muggy-overcast-choppy water.    
+08/11/1995,Hot + muggy-rain in morning.    
+08/15/1995,Calm-no breeze-not a ripple in the water.    
+08/22/1995,Disc bottomed out at 21'.    
+09/01/1995,Choppy water all day-northwest winds.    
+09/07/1995,Windy-cold-choppy water.    
+09/15/1995,Cloudy-windy-choppy water-cool 55 degrees.    
+09/21/1995,Cloudy-cool-choppy water-50 degrees.    
+09/26/1995,Lake calm-sunny-60 degrees.    
+10/15/1995,Very windy-choppy waters-45 degrees-last reading for '95-boat out of water.    
+07/11/1996,Cool 65 degrees-cloudy.    
+07/19/1996,Cloudy-windy-cool 58 degrees.    
+07/25/1996,Cloudy-cool-60 degrees.    
+08/01/1996,Windy-sunny-particles suspended in water.    
+08/07/1996,Clear-cool-68 degrees.    
+08/17/1996,Clear-calm-80 degrees-not too many boats.    
+08/27/1996,Clear-calm-49 degrees-lake like glass.    
+09/05/1996,Hazy-calm-62 degrees-fog on lake.    
+09/19/1996,Lake calm-68 degrees-Indian summer.    
+09/25/1996,Cloudy-cool-breezy-60 degrees.    
+10/08/1996,Partly cloudy-39 degrees-lake calm.    
+06/11/1997,Cottonwood fuzz- and pollen.    
+06/17/1997,Partly cloudy- water choppy.    
+06/20/1997,Partly cloudy and windy.  Warm- 86 degrees.    
+07/09/1997,Very nice day.  Calm and sunny.    
+07/24/1997,Calm and sunny day.  No boats.    
+08/07/1997,Sunny day.    
+08/18/1997,Sunny. heavy rain night before.    
+09/04/1997,Clear day.  No boats.    
+09/23/1997,Clear and sunny day.  No boats.    
+06/21/1999,Sunny.  No wind.    
+07/07/1999,Sunny- windy.  No boats.    
+07/27/1999,Sunny- calm- warm.    
+08/25/1999,Sunny.  Large debris floating (scum).    
+09/16/1999,Sunny- cool water.  Cloudy.  No boats.    
+10/06/1999,Sunny- windy- cool.  51 degrees F.    
+05/31/2000,Calm- hazy- no boats- clear water    
+06/27/2000,Partly cloudy- no boats.    
+07/12/2000,Cloudy- heavy rains on 7/8- lake up 4"- no boats- water cloudy.    
+08/02/2000,Clear- no boats.    
+08/14/2000,Partly cloudy- windy.    
+10/17/2000,Partly clear- calm day.    
+06/28/2001,Clear.  No boats.    
+07/11/2001,Clear.  No boats.    
+08/03/2001,Clear.  Rain 8/1/01.  Lake a little low.  Boat and jet ski traffic.    
+08/14/2001,Clear day- some jet skis- heavy rain 8/12/01.    
+08/28/2001,Clear day- no wind.    
+09/20/2001,Rain yesterday.  Nice day today.  No boat traffic.    
+05/28/2002,Sunny- no speed boats.  Three fisherman.  Calm waters.    
+07/23/2002,Sunny- nice day- and calm waters.    
+08/05/2002,Sunny.  Many boats and jet skis over the weekend.    
+08/20/2002,Sunny- nice- clear day.  Jet ski and large power boat traffic the day before.    
+09/07/2002,Junk floating in water- sunny- clear day- no boat traffic- and small waves.    
+09/15/2002,Clear day- calm waters- and no boat traffic.    
+05/27/2003,Clear sunny day.  No boat traffic.  Holiday pretty hectic. A lot of floating junk.    
+06/19/2003,Clear day. Lake peaceful.    
+06/30/2003,Nice day.    
+08/01/2003,Partly sunny. A lot of rain lately.    
+09/02/2003,Nice day- no boat traffic.    
+09/25/2003,Partly cloudy- slight breeze.    
+06/15/2004,Partly cloudy- slight wind from the east.  A lot of rain lately.    
+07/15/2004,Sunny- calm day.    
+08/06/2004,Sunny- calm.  Nice day.    
+08/23/2004,Real nice day.    
+09/25/2004,Nice day - slight breeze.    
+06/28/2005,hot sunny- slight breeze    
+07/07/2005,warm clear sunny day- few boats    
+08/05/2005,nice clear- sunny day- no boats- no wind    
+09/04/2005,sunny- not many boats    
+09/15/2005,quiet day- no boats    
+07/06/2006,clear skies- heavy boat traffic last few days
+07/24/2006,nice day
+
+09/01/2006,clear skies- slight wind
+07/05/2007,Clear sunny day.  Light boat traffic.
+07/30/2007,Nice day
+08/13/2007,Nice calm day
+09/23/2007,Sunny day.  No boat traffic.  Wind 15 mph.  Lake down about 2' from normal.
+06/17/2017,Partly cloudy- slightly wavy- lake level at highest ever- power boat wakes washing more dirt in.
+07/07/2017,Mostly cloudy- slightly wavy- minimal boat traffic- air temp 80 degree F
+07/12/2017,partly cloudy- warm-83 degrees F- slightly wavy
+08/05/2017,Partly cloudy- wavy- some big waves from boat wakes- lost temp readings but they were similar to 07/12/2017.
+10/08/2017,Sunny- windy- wavy- lake turning over; not much difference in temperature readings
+
+
+
+
+Start Date,Group Name,Project Name
+08/17/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/30/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/08/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/15/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/23/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/29/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+10/12/1994,Robert Dusel,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+05/25/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/03/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/08/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/14/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/22/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/29/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/08/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/13/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/20/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/26/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/03/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/11/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/15/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/22/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/01/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/07/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/15/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/21/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/26/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+10/15/1995,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/11/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/19/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/25/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/01/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/07/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/17/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/27/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/05/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/19/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/25/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+10/08/1996,Kenneth Spaay,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/11/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/17/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/20/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/09/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/24/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/07/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/18/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/04/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/23/1997,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/21/1999,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/07/1999,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/27/1999,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/25/1999,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/16/1999,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+10/06/1999,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+05/31/2000,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/27/2000,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/12/2000,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/02/2000,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/14/2000,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+10/17/2000,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/28/2001,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/11/2001,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/03/2001,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/14/2001,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/28/2001,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/20/2001,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+05/28/2002,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/23/2002,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/05/2002,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/20/2002,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/07/2002,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/15/2002,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+05/27/2003,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/19/2003,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/30/2003,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/01/2003,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/02/2003,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/25/2003,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/15/2004,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/15/2004,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/06/2004,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/23/2004,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/25/2004,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/28/2005,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/07/2005,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/05/2005,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/04/2005,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/15/2005,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/06/2006,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/24/2006,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/01/2006,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/05/2007,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/30/2007,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/13/2007,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+09/23/2007,Charles Otter,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+06/17/2017,Linda Bergwall,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/07/2017,Linda Bergwall,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+07/12/2017,Linda Bergwall,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+08/05/2017,Linda Bergwall,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole
+10/08/2017,Linda Bergwall,Citizen Lake Monitoring - Water Quality - Little Long Lake (190500); Deep Hole

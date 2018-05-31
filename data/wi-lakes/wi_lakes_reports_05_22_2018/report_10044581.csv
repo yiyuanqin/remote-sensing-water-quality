@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kilby Lake,Marquette,104200,NE,39,,10044581,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/27/2016,,,,,,,,,,,,,
+1,05/29/2016,,,,,,,,,,,,,
+1,06/02/2016,,,,,,,,,,,,,
+1,06/08/2016,,,,,,,,,,,,,
+1,06/16/2016,,,,,,,,,,,,,
+1,06/25/2016,,,,,,,,,,,,,
+1,07/01/2016,,,,,,,,,,,,,
+1,07/14/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/27/2016,,,22.4,C,,
+05/29/2016,,,24.4,C,,
+06/02/2016,,,24.3,C,,
+06/08/2016,,,21.1,C,,
+06/16/2016,,,11,C,,
+06/25/2016,,,26,C,,
+07/01/2016,,,11.6,C,,
+07/14/2016,,,27.3,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/27/2016,Data Collectors,Herbicide Concentration Monitoring
+05/29/2016,Data Collectors,Herbicide Concentration Monitoring
+06/02/2016,Data Collectors,Herbicide Concentration Monitoring
+06/08/2016,Data Collectors,Herbicide Concentration Monitoring
+06/16/2016,Data Collectors,Herbicide Concentration Monitoring
+06/25/2016,Data Collectors,Herbicide Concentration Monitoring
+07/01/2016,Data Collectors,Herbicide Concentration Monitoring
+07/14/2016,Data Collectors,Herbicide Concentration Monitoring

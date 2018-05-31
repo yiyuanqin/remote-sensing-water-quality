@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Island Lake,Shawano,328900,NE,59,,594004,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/01/1979,,,,4.82,11,,47,47,,,,,
+148112004,08/10/2017,,,,,,,,,,,CLEAR,RED,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/01/1979,,,,,1,MG/L
+08/10/2017,3,FEET,23.12,DEGREES C,7.48,MG/L
+08/10/2017,6,FEET,23.02,DEGREES C,7.33,MG/L
+08/10/2017,9,FEET,21.35,DEGREES C,5.51,MG/L
+08/10/2017,12,FEET,19.57,DEGREES C,1.52,MG/L
+08/10/2017,15,FEET,15.66,DEGREES C,0,MG/L
+08/10/2017,18,FEET,12.15,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/01/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/1979,Data Collectors,Migrated from STORET Legacy
+08/10/2017,Brenda L Nordin- Brian D Zalay,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole

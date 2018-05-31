@@ -1,0 +1,49 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Dake Lake,Waupaca,264700,NE,69,,10047822,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/24/2017,,,,,,,,,,,,,
+1,05/26/2017,,,,,,,,,,,,,
+1,05/28/2017,,,,,,,,,,,,,
+1,05/30/2017,,,,,,,,,,,,,
+1,06/06/2017,,,,,,,,,,,,,
+1,06/15/2017,,,,,,,,,,,,,
+1,06/21/2017,,,,,,,,,,,,,
+1,06/29/2017,,,,,,,,,,,,,
+1,08/11/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/24/2017,,,15.0,C,,
+05/26/2017,,,17.2,C,,
+05/28/2017,,,21.0,C,,
+05/30/2017,,,18.1,C,,
+06/06/2017,,,22.7,C,,
+06/15/2017,,,23.7,C,,
+06/21/2017,,,21.9,C,,
+06/29/2017,,,10-15,C,,
+08/11/2017,,,22.7,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/24/2017,Data Collectors,Herbicide Concentration Monitoring
+05/26/2017,Data Collectors,Herbicide Concentration Monitoring
+05/28/2017,Data Collectors,Herbicide Concentration Monitoring
+05/30/2017,Data Collectors,Herbicide Concentration Monitoring
+06/06/2017,Data Collectors,Herbicide Concentration Monitoring
+06/15/2017,Data Collectors,Herbicide Concentration Monitoring
+06/21/2017,Data Collectors,Herbicide Concentration Monitoring
+06/29/2017,Data Collectors,Herbicide Concentration Monitoring
+08/11/2017,Data Collectors,Herbicide Concentration Monitoring

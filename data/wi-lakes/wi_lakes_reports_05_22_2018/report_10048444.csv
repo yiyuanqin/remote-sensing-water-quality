@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Rusk,1925400,NO,55,,10048444,NW,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,07/10/2017,,,,34.2,49.5,,58,62,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/10/2017,0,METERS,25.2,DEGREES C,8.3,MG/L
+07/10/2017,1,METERS,24.7,DEGREES C,7.7,MG/L
+07/10/2017,2,METERS,19.5,DEGREES C,2.8,MG/L
+07/10/2017,3,METERS,14,DEGREES C,.2,MG/L
+07/10/2017,4,METERS,10.8,DEGREES C,.1,MG/L
+07/10/2017,5,METERS,9.2,DEGREES C,.1,MG/L
+07/10/2017,5.2,METERS,8.4,DEGREES C,.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

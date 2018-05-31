@@ -1,0 +1,41 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pleasant Lake,Polk,2490700,NO,49,,10020988,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188630,07/25/2007,8.2,NO,2.5,2.27,13,47,48,41,,,,,
+7000045,09/12/2016,12.55,NO,3.8,,,41,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/2007,0.5,METERS,27.9,DEGREES C,8.5,MG/L
+07/25/2007,1,METERS,26.9,DEGREES C,8.8,MG/L
+07/25/2007,2,METERS,25.8,DEGREES C,7.9,MG/L
+07/25/2007,3,METERS,24.9,DEGREES C,6.1,MG/L
+07/25/2007,4,METERS,24.7,DEGREES C,5.4,MG/L
+07/25/2007,5,METERS,24.1,DEGREES C,1.2,MG/L
+09/12/2016,3,FEET,24.51,DEGREES C,8.22,MG/L
+09/12/2016,6,FEET,24.31,DEGREES C,7.86,MG/L
+09/12/2016,9,FEET,24.2,DEGREES C,7.78,MG/L
+09/12/2016,12,FEET,24.15,DEGREES C,7.62,MG/L
+09/12/2016,15,FEET,24.13,DEGREES C,7.51,MG/L
+09/12/2016,18,FEET,23.92,DEGREES C,7.15,MG/L
+09/12/2016,21,FEET,23.85,DEGREES C,6.86,MG/L
+09/12/2016,24,FEET,23.08,DEGREES C,1.62,MG/L
+09/12/2016,27,FEET,19.95,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/2007,USGS,National Lake Survey - Index Sampling
+09/12/2016,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)

@@ -1,0 +1,305 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kettle Moraine Lake,Fond du Lac,43900,NE,20,,203059,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+16116012,06/10/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/25/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/01/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/09/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/20/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/05/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/19/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/26/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,09/03/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/27/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/03/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/10/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/16/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/20/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/01/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/07/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/15/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/22/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/28/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/06/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/14/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/20/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/28/2009,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/03/2009,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,07/11/2009,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,07/26/2009,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/01/2009,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,08/09/2009,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/15/2009,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/23/2009,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/29/2009,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,06/05/2010,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/12/2010,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/18/2010,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/27/2010,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/04/2010,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/16/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/31/2010,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,08/07/2010,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,08/13/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/27/2010,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,09/04/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/28/2011,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/05/2011,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/12/2011,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/20/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,07/02/2011,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,07/10/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/24/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/06/2011,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/13/2011,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,08/21/2011,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,08/28/2011,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,04/29/2012,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,05/06/2012,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,05/13/2012,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,05/20/2012,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,06/09/2012,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/16/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/24/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/08/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,07/15/2012,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,07/28/2012,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/05/2012,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,08/12/2012,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,08/19/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/16/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,05/20/2013,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/25/2013,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,06/01/2013,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/08/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/15/2013,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+16116012,06/24/2013,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/30/2013,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/07/2013,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,07/21/2013,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/28/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/04/2013,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/11/2013,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,08/17/2013,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,08/25/2013,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,09/01/2013,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/23/2014,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/24/2014,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/25/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,05/26/2014,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,05/30/2014,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,06/08/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,06/13/2014,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,06/20/2014,, ,,,,,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116012,07/06/2014,, ,,,,,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,07/12/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,07/27/2014,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,08/03/2014,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,08/16/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/31/2014,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,09/04/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/31/2015,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,06/06/2015,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/13/2015,,NO,,,,,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/20/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/24/2015,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/05/2015,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/12/2015,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,07/25/2015,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/01/2015,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,08/09/2015,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,08/15/2015,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116012,08/22/2015,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,08/29/2015,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,09/05/2015,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,05/07/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116012,06/03/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,06/18/2016,9,NO,2.7,,,45,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+16116012,07/02/2016,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,07/29/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,08/13/2016,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116012,08/27/2016,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116012,09/03/2016,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,04/12/2017,7.7,NO,2.3,5.43,21.2,48,52,48,,,,,
+22170202,06/02/2017,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+22170202,06/17/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/20/2017,7.7,N,2.3,3.96,33.7,48,55,45,,,,,
+22170202,07/02/2017,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+22170202,07/23/2017,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/24/2017,9.7,N,2.9,2.75,15,44,49,42,,,,,
+22170202,08/04/2017,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+22170202,08/12/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/17/2017,10.4,N,3.2,3.43,17.8,43,50,44,,,,,
+22170202,08/26/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,10/18/2017,11.9,NO,3.6,3.15,15.8,41,50,43,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/12/2017,,,10.1,C,10.3,MG/L
+06/20/2017,,,17.2,C,0.1,MG/L
+07/24/2017,,,19.7,C,0.1,MG/L
+08/17/2017,,,20.8,C,0..1,MG/L
+10/18/2017,,,14.0,C,9.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/23/2014,dave and cindy secchi monitor
+05/24/2014,dave and cindy secchi monitor
+05/25/2014,dave and cindy secchi monitor
+05/26/2014,dave and cindy secchi monitor
+05/30/2014,dave and cindy secchi monitor
+06/08/2014,dave and cindy secchi monitor
+06/13/2014,dave and cindy secchi monitor
+06/20/2014,dave and cindy secchi monitor
+07/06/2014,dave and cindy secchi monitor
+07/12/2014,dave and cindy secchi monitor
+07/27/2014,dave and cindy secchi monitor
+08/03/2014,dave and cindy secchi monitor
+08/16/2014,dave and cindy secchi monitor
+08/31/2014,dave and cindy secchi monitor
+09/04/2014,dave and cindy secchi monitor
+
+
+
+
+Start Date,Group Name,Project Name
+06/10/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/25/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/01/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/09/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/20/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/05/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/19/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/26/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+09/03/2006,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/27/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/03/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/10/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/16/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/20/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/01/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/07/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/15/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/22/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/28/2007,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/06/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/14/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/20/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/28/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/03/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/11/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/26/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/01/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/09/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/15/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/23/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/29/2009,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/05/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/12/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/18/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/27/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/04/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/16/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/31/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/07/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/13/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/27/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+09/04/2010,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/28/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/05/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/12/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/20/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/02/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/10/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/24/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/06/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/13/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/21/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/28/2011,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+04/29/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/06/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/13/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/20/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/09/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/16/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/24/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/08/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/15/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/28/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/05/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/12/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/19/2012,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/16/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/20/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/25/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/01/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/08/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/15/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/24/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/30/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/07/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/21/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/28/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/04/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/11/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/17/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/25/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+09/01/2013,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/23/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/24/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/25/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/26/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/30/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/08/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/13/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/20/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/06/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/12/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/27/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/03/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/16/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/31/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+09/04/2014,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/31/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/06/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/13/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/20/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/24/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/05/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/12/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/25/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/01/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/09/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/15/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/22/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/29/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+09/05/2015,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+05/07/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/03/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/18/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/02/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/29/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/13/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/27/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+09/03/2016,Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+04/12/2017,Data Collectors,Bacteria + Plankton (Paid Private)
+04/12/2017,Data Collectors,KETTLE MORAINE LAKE ASSOCIATION: Kettle Moraine Lake Management Plan Update
+06/02/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/17/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+06/20/2017,Data Collectors,KETTLE MORAINE LAKE ASSOCIATION: Kettle Moraine Lake Management Plan Update
+07/02/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/23/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+07/24/2017,Data Collectors,KETTLE MORAINE LAKE ASSOCIATION: Kettle Moraine Lake Management Plan Update
+08/04/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/12/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+08/17/2017,Data Collectors,KETTLE MORAINE LAKE ASSOCIATION: Kettle Moraine Lake Management Plan Update
+08/26/2017,Dave + Cindy Katt ,Citizen Lake Monitoring - Water Quality - Kettle Moraine Lake (43900)- Deep Hole
+10/18/2017,Data Collectors,KETTLE MORAINE LAKE ASSOCIATION: Kettle Moraine Lake Management Plan Update

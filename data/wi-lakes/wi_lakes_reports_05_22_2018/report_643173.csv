@@ -1,0 +1,685 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fence Lake,Vilas,2323000,NO,64,,643173,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190148,07/03/1993,17.75,NO,5.4,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,07/15/1993,24.75,NO,7.5,,,31,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,07/21/1993,21.75,NO,6.6,,,33,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,07/27/1993,19.75,NO,6,,,34,,,NORMAL,,,SLIGHTLY BROWN,2-Very minor aesthetic problems
+8190148,08/07/1993,17.75,NO,5.4,,,36,,,NORMAL,,,SLIGHTLY BROWN,2-Very minor aesthetic problems
+8190148,08/19/1993,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,08/25/1993,22.25,NO,6.8,,,32,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,08/31/1993,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,09/10/1993,16.25,NO,4.9,,,37,,,LOW,,,SLIGHTLY RED,2-Very minor aesthetic problems
+8190148,09/18/1993,15.25,NO,4.6,,,38,,,NORMAL,,,SLIGHTLY BROWN,2-Very minor aesthetic problems
+8190148,09/23/1993,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,10/13/1993,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,10/24/1993,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,10/31/1993,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190068,05/18/1994,20.5,NO,6.2,,,34,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,05/18/1994,22.25,NO,6.8,,,32,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190068,05/24/1994,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190068,05/30/1994,26,NO,7.9,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/02/1994,22.75,NO,6.9,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190068,06/06/1994,30.5,NO,9.3,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/10/1994,25.5,NO,7.8,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190068,06/15/1994,21,NO,6.4,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/16/1994,26.75,NO,8.1,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190068,06/22/1994,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/25/1994,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190068,07/02/1994,25,NO,7.6,,,31,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,07/06/1994,26.25,NO,8,,,30,,,,,,BROWNISH,2-Very minor aesthetic problems
+8190068,07/10/1994,25.5,NO,7.8,,,30,,,,,CLEAR,BLUE/GREEN,1-Beautiful, could not be nicer
+8190148,07/17/1994,21.75,NO,6.6,,,33,,,,,,BROWN,2-Very minor aesthetic problems
+8190148,07/23/1994,19.25,NO,5.9,,,35,,,,,,BROWN,2-Very minor aesthetic problems
+8190148,07/28/1994,19,NO,5.8,,,35,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,08/03/1994,17,NO,5.2,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,08/05/1994,21.25,NO,6.5,,,33,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,08/10/1994,17,NO,5.2,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,08/11/1994,18.75,NO,5.7,,,35,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,08/17/1994,17,NO,5.2,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,08/19/1994,19.5,NO,5.9,,,34,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,08/22/1994,17,NO,5.2,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,08/24/1994,17.75,NO,5.4,,,36,,,,,,GREEN,2-Very minor aesthetic problems
+8190148,09/02/1994,16,NO,4.9,,,37,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,09/08/1994,16,NO,4.9,,,37,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,09/09/1994,18,NO,5.5,,,35,,,,,,GREEN,2-Very minor aesthetic problems
+8190148,09/17/1994,18.25,NO,5.5,,,35,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,09/18/1994,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190068,09/23/1994,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190068,10/03/1994,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,10/05/1994,17,NO,5.2,,,36,,,,,,GREEN,2-Very minor aesthetic problems
+8190068,10/10/1994,15,NO,4.6,,,38,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/10/1994,17.5,NO,5.3,,,36,,,,,,GREEN,
+8190148,11/06/1994,12.75,NO,3.9,,,40,,,,,,GREEN,2-Very minor aesthetic problems
+8190148,05/17/1995,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,05/25/1995,18.75,NO,5.7,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,05/31/1995,19,NO,5.8,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/06/1995,24.25,NO,7.4,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/13/1995,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/23/1995,26.5,NO,8.1,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/30/1995,23,NO,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/11/1995,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/20/1995,22.75,NO,6.9,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/28/1995,21.25,NO,6.5,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/05/1995,21.5,NO,6.5,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/15/1995,20.25,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/23/1995,18.75,NO,5.7,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/02/1995,19.75,NO,6,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/17/1995,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/27/1995,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/14/1996,25.75,NO,7.8,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/25/1996,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/03/1996,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/10/1996,26.75,NO,8.1,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/16/1996,24.5,NO,7.4,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/31/1996,,,,2.27,,,,41,,,,,
+8190148,08/02/1996,21.75,NO,6.6,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/17/1996,21.75,NO,6.6,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/23/1996,20.25,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/03/1996,20.5,NO,6.2,1.73,,34,,39,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/18/1996,18.25,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,10/21/1996,15.25,NO,4.6,4.71,12,38,47,47,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/09/1997,28.75,NO,8.7,0.76,24,29,53,33,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/26/1997,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/09/1997,27.75,NO,8.4,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/23/1997,25.5,NO,7.8,1.14,11,30,47,36,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,08/11/1997,24.75,NO,7.5,,,31,,,,,CLEAR,,2-Very minor aesthetic problems
+8190148,08/27/1997,18.25,NO,5.5,1.61,14,35,49,38,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/12/1997,20.75,NO,6.3,,,33,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,09/23/1997,17.5,NO,5.3,,,36,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190148,10/10/1997,16.75,NO,5.1,,,37,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/22/1997,,,,5.09,16,,50,47,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,05/01/1998,19.25,NO,5.9,,,35,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,05/04/1998,20.5,NO,6.2,,11,34,47,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,05/25/1998,28.5,NO,8.7,,,29,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/08/1998,25.75,NO,7.8,,,30,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/16/1998,28.25,NO,8.6,,,29,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/23/1998,28.5,NO,8.7,0.99,5,29,41,35,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/01/1998,26.5,NO,8.1,,,30,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/16/1998,26.75,NO,8.1,,,30,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190148,07/20/1998,29.25,NO,8.9,0.87,,28,,34,NO CHANGE,,CLEAR,,1-Beautiful, could not be nicer
+8190148,07/31/1998,24,NO,7.3,,,31,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8190148,08/18/1998,22.75,NO,6.9,1.66,7,32,43,39,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/27/1998,21.25,NO,6.5,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,09/07/1998,20.5,NO,6.2,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,09/12/1998,19.75,NO,6,,,34,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,09/22/1998,19.75,NO,6,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/08/1998,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/17/1998,15.25,NO,4.6,2.82,11,38,47,43,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/24/1998,14.25,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,06/03/1999,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/16/1999,22.75,NO,6.9,0.51,,32,,30,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/29/1999,,,,3.09,11,,47,43,,,,,
+8190148,07/10/1999,21.25,NO,6.5,,,33,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/21/1999,24.75,NO,7.5,1.36,,31,,37,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/14/1999,18.25,NO,5.5,,,35,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190148,08/24/1999,18.5,NO,5.6,3,8,35,44,43,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190148,09/06/1999,20.5,NO,6.2,,,34,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,09/16/1999,18.5,NO,5.6,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/25/2000,24.5,NO,7.4,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/13/2000,29.5,NO,9,1,8,28,44,35,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,08/28/2000,21.25,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,08/29/2000,,,,1.2,6,,42,36,,,,,
+8190148,10/09/2000,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190148,10/23/2000,14.25,NO,4.3,5,12,39,47,47,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190148,05/31/2001,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/06/2001,21,NO,6.4,1,,33,,35,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,06/22/2001,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,06/30/2001,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190148,07/08/2001,19.25,NO,5.9,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/07/2001,20.25,NO,6.2,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/20/2001,18,NO,5.5,2.2,8,35,44,41,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,09/29/2001,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/01/2001,15.75,NO,4.8,2.8,6,37,42,43,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/12/2001,15.25,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,07/03/2002,26.25,NO,8,,,30,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,07/07/2002,26.25,NO,8,0.93,6,30,42,34,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,07/13/2002,25,NO,7.6,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,07/26/2002,17.25,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/09/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/25/2002,16.25,NO,4.9,2.86,12,37,47,43,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,09/11/2002,17.75,NO,5.4,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/05/2002,14,NO,4.3,4.07,19,39,51,45,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,06/11/2003,21.25,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,07/05/2003,21.75,NO,6.6,1.63,10,33,46,38,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/01/2003,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/12/2003,20.75,NO,6.3,2.51,7,33,43,42,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,10/08/2003,15.25,NO,4.6,3.15,16,38,50,43,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+21960217,07/15/2007,24.5,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,07/24/2007,25.5,NO,7.8,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,08/29/2007,22.5,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,09/10/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,09/15/2007,20.25,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,07/22/2008,29.5,NO,9,,,28,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,08/06/2008,23.5,NO,7.1,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,08/20/2008,26,NO,7.9,,,30,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21960217,08/26/2008,21.5,NO,6.5,,,33,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21960217,10/06/2008,17.5,NO,5.3,,,36,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21960217,07/10/2009,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21960217,07/20/2009,23,NO,7,,,32,,,LOW,,CLEAR,GREEN,
+21960217,08/16/2009,20,NO,6.1,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21960217,09/06/2009,19.5,NO,5.9,,,34,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+89214715,06/17/2014,,,,1.41,6.17,,42,37,,,,,
+145289004,07/11/2017,15,,4.6,,,38,,,NORMAL,94,CLEAR,GREEN,1-Beautiful, could not be nicer
+145289004,07/19/2017,15,,4.6,,,38,,,NORMAL,96,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/1996,3,FEET,68,DEGREES F,,
+08/02/1996,10,FEET,65,DEGREES F,,
+08/02/1996,20,FEET,64,DEGREES F,,
+08/02/1996,30,FEET,59,DEGREES F,,
+08/02/1996,40,FEET,47,DEGREES F,,
+08/02/1996,50,FEET,46,DEGREES F,,
+08/02/1996,60,FEET,45,DEGREES F,,
+08/02/1996,70,FEET,44,DEGREES F,,
+08/02/1996,80,FEET,44,DEGREES F,,
+09/03/1996,3,FEET,40,DEGREES F,,
+09/03/1996,10,FEET,39,DEGREES F,,
+09/03/1996,20,FEET,37,DEGREES F,,
+09/03/1996,30,FEET,34,DEGREES F,,
+09/03/1996,40,FEET,18,DEGREES F,,
+09/03/1996,50,FEET,14,DEGREES F,,
+09/03/1996,60,FEET,13,DEGREES F,,
+09/03/1996,70,FEET,13,DEGREES F,,
+09/03/1996,80,FEET,13,DEGREES F,,
+09/03/1996,90,FEET,12,DEGREES F,,
+10/21/1996,3,FEET,50,DEGREES F,,
+10/21/1996,10,FEET,50,DEGREES F,,
+10/21/1996,20,FEET,50,DEGREES F,,
+10/21/1996,30,FEET,50,DEGREES F,,
+10/21/1996,40,FEET,50,DEGREES F,,
+10/21/1996,50,FEET,50,DEGREES F,,
+10/21/1996,60,FEET,50,DEGREES F,,
+10/21/1996,70,FEET,50,DEGREES F,,
+10/21/1996,80,FEET,50,DEGREES F,,
+10/21/1996,90,FEET,50,DEGREES F,,
+06/09/1997,10,FEET,56,DEGREES F,,
+06/09/1997,20,FEET,51,DEGREES F,,
+06/09/1997,30,FEET,45,DEGREES F,,
+06/09/1997,40,FEET,42,DEGREES F,,
+06/09/1997,50,FEET,41,DEGREES F,,
+06/09/1997,60,FEET,41,DEGREES F,,
+06/09/1997,70,FEET,40,DEGREES F,,
+06/09/1997,80,FEET,40,DEGREES F,,
+06/09/1997,87,FEET,40,DEGREES F,,
+07/23/1997,3,FEET,68,DEGREES F,,
+07/23/1997,10,FEET,68,DEGREES F,,
+07/23/1997,20,FEET,68,DEGREES F,,
+07/23/1997,30,FEET,57,DEGREES F,,
+07/23/1997,40,FEET,45,DEGREES F,,
+07/23/1997,50,FEET,42,DEGREES F,,
+07/23/1997,60,FEET,42,DEGREES F,,
+07/23/1997,70,FEET,41,DEGREES F,,
+07/23/1997,80,FEET,41,DEGREES F,,
+07/23/1997,90,FEET,41,DEGREES F,,
+08/27/1997,3,FEET,63,DEGREES F,,
+08/27/1997,10,FEET,63,DEGREES F,,
+08/27/1997,20,FEET,62,DEGREES F,,
+08/27/1997,30,FEET,60,DEGREES F,,
+08/27/1997,40,FEET,45,DEGREES F,,
+08/27/1997,50,FEET,43,DEGREES F,,
+08/27/1997,60,FEET,42,DEGREES F,,
+08/27/1997,70,FEET,42,DEGREES F,,
+08/27/1997,80,FEET,41,DEGREES F,,
+08/27/1997,85,FEET,41,DEGREES F,,
+10/10/1997,3,FEET,53,DEGREES F,,
+10/10/1997,30,FEET,52,DEGREES F,,
+10/10/1997,60,FEET,45,DEGREES F,,
+10/22/1997,3,FEET,46,DEGREES F,,
+10/22/1997,10,FEET,46,DEGREES F,,
+10/22/1997,20,FEET,46,DEGREES F,,
+10/22/1997,30,FEET,46,DEGREES F,,
+10/22/1997,40,FEET,46,DEGREES F,,
+10/22/1997,50,FEET,46,DEGREES F,,
+05/04/1998,10,FEET,53,DEGREES F,,
+05/04/1998,20,FEET,48,DEGREES F,,
+05/04/1998,30,FEET,46,DEGREES F,,
+05/04/1998,40,FEET,45,DEGREES F,,
+05/04/1998,50,FEET,44,DEGREES F,,
+05/04/1998,60,FEET,43,DEGREES F,,
+05/04/1998,70,FEET,42,DEGREES F,,
+05/04/1998,80,FEET,42,DEGREES F,,
+05/04/1998,90,FEET,42,DEGREES F,,
+06/23/1998,10,FEET,63,DEGREES F,,
+06/23/1998,20,FEET,63,DEGREES F,,
+06/23/1998,30,FEET,60,DEGREES F,,
+06/23/1998,40,FEET,56,DEGREES F,,
+06/23/1998,50,FEET,53,DEGREES F,,
+06/23/1998,60,FEET,48,DEGREES F,,
+06/23/1998,70,FEET,47,DEGREES F,,
+06/23/1998,80,FEET,47,DEGREES F,,
+06/23/1998,90,FEET,47,F,,
+07/20/1998,3,FEET,75,DEGREES F,,
+07/20/1998,10,FEET,74,DEGREES F,,
+07/20/1998,20,FEET,74,DEGREES F,,
+07/20/1998,30,FEET,70,DEGREES F,,
+07/20/1998,40,FEET,54,DEGREES F,,
+07/20/1998,50,FEET,50,DEGREES F,,
+07/20/1998,60,FEET,49,DEGREES F,,
+07/20/1998,70,FEET,48,DEGREES F,,
+07/20/1998,80,FEET,48,DEGREES F,,
+07/20/1998,90,FEET,47,DEGREES F,,
+08/18/1998,3,FEET,65,DEGREES F,,
+08/18/1998,10,FEET,65,DEGREES F,,
+08/18/1998,20,FEET,65,DEGREES F,,
+08/18/1998,30,FEET,65,DEGREES F,,
+08/18/1998,40,FEET,56,DEGREES F,,
+08/18/1998,50,FEET,50,DEGREES F,,
+08/18/1998,60,FEET,49,DEGREES F,,
+08/18/1998,70,FEET,48,DEGREES F,,
+08/18/1998,80,FEET,48,DEGREES F,,
+08/18/1998,90,FEET,48,DEGREES F,,
+10/17/1998,3,FEET,52,DEGREES F,,
+10/17/1998,10,FEET,52,DEGREES F,,
+10/17/1998,20,FEET,52,DEGREES F,,
+10/17/1998,30,FEET,52,DEGREES F,,
+10/17/1998,40,FEET,52,DEGREES F,,
+10/17/1998,50,FEET,52,DEGREES F,,
+10/17/1998,60,FEET,52,DEGREES F,,
+10/17/1998,70,FEET,51,DEGREES F,,
+06/16/1999,3,FEET,62,DEGREES F,,
+06/16/1999,10,FEET,62,DEGREES F,,
+06/16/1999,20,FEET,61,DEGREES F,,
+06/16/1999,30,FEET,59,DEGREES F,,
+06/16/1999,40,FEET,58,DEGREES F,,
+06/16/1999,50,FEET,56,DEGREES F,,
+06/16/1999,60,FEET,56,DEGREES F,,
+06/16/1999,70,FEET,55,DEGREES F,,
+06/16/1999,80,FEET,55,DEGREES F,,
+06/16/1999,90,FEET,55,DEGREES F,,
+07/21/1999,3,FEET,74,DEGREES F,,
+07/21/1999,10,FEET,73,DEGREES F,,
+07/21/1999,20,FEET,73,DEGREES F,,
+07/21/1999,30,FEET,68,DEGREES F,,
+07/21/1999,40,FEET,59,DEGREES F,,
+07/21/1999,50,FEET,53,DEGREES F,,
+07/21/1999,60,FEET,52,DEGREES F,,
+07/21/1999,70,FEET,51,DEGREES F,,
+07/21/1999,80,FEET,51,DEGREES F,,
+07/21/1999,90,FEET,50,DEGREES F,,
+08/24/1999,3,FEET,70,DEGREES F,,
+08/24/1999,10,FEET,70,DEGREES F,,
+08/24/1999,20,FEET,70,DEGREES F,,
+08/24/1999,30,FEET,70,DEGREES F,,
+08/24/1999,40,FEET,61,DEGREES F,,
+08/24/1999,50,FEET,54,DEGREES F,,
+08/24/1999,60,FEET,52,DEGREES F,,
+08/24/1999,70,FEET,52,DEGREES F,,
+08/24/1999,80,FEET,52,DEGREES F,,
+08/24/1999,90,FEET,60,DEGREES F,,
+07/13/2000,3,FEET,70,DEGREES F,,
+07/13/2000,10,FEET,70,DEGREES F,,
+07/13/2000,20,FEET,70,DEGREES F,,
+07/13/2000,30,FEET,66,DEGREES F,,
+07/13/2000,40,FEET,64,DEGREES F,,
+07/13/2000,50,FEET,52,DEGREES F,,
+07/13/2000,60,FEET,51,DEGREES F,,
+07/13/2000,70,FEET,50,DEGREES F,,
+07/13/2000,80,FEET,49,DEGREES F,,
+07/13/2000,90,FEET,48,DEGREES F,,
+08/28/2000,3,FEET,70,DEGREES F,,
+08/28/2000,10,FEET,70,DEGREES F,,
+08/28/2000,20,FEET,70,DEGREES F,,
+08/28/2000,30,FEET,70,DEGREES F,,
+08/28/2000,40,FEET,62,DEGREES F,,
+08/28/2000,50,FEET,54,DEGREES F,,
+08/28/2000,60,FEET,52,DEGREES F,,
+08/28/2000,70,FEET,50,DEGREES F,,
+10/23/2000,3,FEET,57,DEGREES F,,
+10/23/2000,10,FEET,57,DEGREES F,,
+10/23/2000,20,FEET,57,DEGREES F,,
+10/23/2000,30,FEET,57,DEGREES F,,
+10/23/2000,40,FEET,57,DEGREES F,,
+10/23/2000,50,FEET,57,DEGREES F,,
+10/23/2000,60,FEET,57,DEGREES F,,
+10/23/2000,70,FEET,57,DEGREES F,,
+10/23/2000,80,FEET,57,DEGREES F,,
+10/23/2000,90,FEET,56,DEGREES F,,
+06/06/2001,3,FEET,56,DEGREES F,,
+06/06/2001,10,FEET,56,DEGREES F,,
+06/06/2001,20,FEET,56,DEGREES F,,
+06/06/2001,30,FEET,53,DEGREES F,,
+06/06/2001,40,FEET,49,DEGREES F,,
+06/06/2001,50,FEET,48,DEGREES F,,
+06/06/2001,60,FEET,48,DEGREES F,,
+06/06/2001,70,FEET,48,DEGREES F,,
+06/06/2001,80,FEET,47,DEGREES F,,
+08/20/2001,10,FEET,71,DEGREES F,,
+08/20/2001,20,FEET,70,DEGREES F,,
+08/20/2001,30,FEET,69,DEGREES F,,
+08/20/2001,40,FEET,59,DEGREES F,,
+08/20/2001,50,FEET,51,DEGREES F,,
+08/20/2001,60,FEET,51,DEGREES F,,
+08/20/2001,70,FEET,50,DEGREES F,,
+08/20/2001,80,FEET,50,DEGREES F,,
+08/20/2001,90,FEET,49,DEGREES F,,
+10/01/2001,3,FEET,59,DEGREES F,,
+10/01/2001,10,FEET,59,DEGREES F,,
+10/01/2001,20,FEET,59,DEGREES F,,
+10/01/2001,30,FEET,59,DEGREES F,,
+10/01/2001,40,FEET,59,DEGREES F,,
+10/01/2001,50,FEET,59,DEGREES F,,
+10/01/2001,60,FEET,52,DEGREES F,,
+10/01/2001,70,FEET,51,DEGREES F,,
+10/01/2001,80,FEET,50,DEGREES F,,
+07/07/2002,10,FEET,75,DEGREES F,,
+07/07/2002,15,FEET,74,DEGREES F,,
+07/07/2002,20,FEET,73,DEGREES F,,
+07/07/2002,25,FEET,63,DEGREES F,,
+07/07/2002,30,FEET,58,DEGREES F,,
+07/07/2002,40,FEET,50,DEGREES F,,
+07/07/2002,50,FEET,48,DEGREES F,,
+07/07/2002,60,FEET,48,DEGREES F,,
+07/07/2002,70,FEET,47,DEGREES F,,
+07/07/2002,80,FEET,47,DEGREES F,,
+07/07/2002,90,FEET,47,DEGREES F,,
+07/05/2003,3,FEET,71.9,DEGREES F,,
+07/05/2003,10,FEET,70.1,DEGREES F,,
+07/05/2003,20,FEET,65.1,DEGREES F,,
+07/05/2003,30,FEET,53.4,DEGREES F,,
+07/05/2003,40,FEET,49.4,DEGREES F,,
+07/05/2003,50,FEET,48,DEGREES F,,
+07/05/2003,60,FEET,47.6,DEGREES F,,
+07/05/2003,70,FEET,47.3,DEGREES F,,
+07/05/2003,80,FEET,47.1,DEGREES F,,
+07/05/2003,90,FEET,46.5,DEGREES F,,
+08/12/2003,5,FEET,71.6,DEGREES F,,
+08/12/2003,10,FEET,71.6,DEGREES F,,
+08/12/2003,20,FEET,71.4,DEGREES F,,
+08/12/2003,30,FEET,63.8,DEGREES F,,
+08/12/2003,40,FEET,50.5,DEGREES F,,
+08/12/2003,50,FEET,48.2,DEGREES F,,
+08/12/2003,60,FEET,47.8,DEGREES F,,
+08/12/2003,70,FEET,47.6,DEGREES F,,
+08/12/2003,80,FEET,47.4,DEGREES F,,
+08/12/2003,90,FEET,47.3,DEGREES F,,
+10/08/2003,5,FEET,53,DEGREES F,,
+10/08/2003,10,FEET,51.8,DEGREES F,,
+10/08/2003,20,FEET,51.6,DEGREES F,,
+10/08/2003,30,FEET,51.4,DEGREES F,,
+10/08/2003,40,FEET,51.2,DEGREES F,,
+10/08/2003,50,FEET,51.2,DEGREES F,,
+10/08/2003,60,FEET,51.2,DEGREES F,,
+10/08/2003,70,FEET,50,DEGREES F,,
+10/08/2003,80,FEET,49.2,DEGREES F,,
+10/08/2003,90,FEET,48.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/03/1993,Partly cloudy but hazy and breezy.    
+07/15/1993,Slight haze- air temp 60- slight ripple- visible particles in water    
+07/21/1993,Clear day- air temp 68- slight ripple on water- N wind    
+07/27/1993,Partly cloudy- slight breeze and ripple- water temp 72- floating particles (algae bloom)    
+08/07/1993,Water temp 70- clear- sunny- slight ripple.    
+08/19/1993,Water temp 74- partly cloudy- small ripples.    
+08/25/1993,Water temp 75- scattered clouds- slight ripple on water- floating particles- air temp 76.    
+08/31/1993,Water temp is 72 degrees- air temp is 60 degrees- ripples on the water- rain yesterday.    
+09/10/1993,Ripples on the water- scattered clouds- wind and rain yesterday.  Water is cloudy- water temp is 67 degrees- air temp is 51 degrees.    
+09/18/1993,North wind and small waves- due to wind and sun position I could not do test so view of disk was in shade and protected from waves.  Did test in shade and in waves.    
+09/23/1993,Clear and sunny- slight ripples- NW wind- water temp is 60 degrees- air temp is 55 degrees.    
+10/13/1993,It has been windy- white caps on the lake today- small waves at the test site.  Particles visible suspended in the water.  Clear and sunny- water is 52 degrees- air is 42 degrees.    
+10/24/1993,Small ripples and clear and sunny- water temp is 52 degrees- air temp is 54 degrees.    
+10/31/1993,Water temp is 48 degrees- air temp is 32 degrees- ripples on the water- mostly cloudy.  Water is not too clear- probably due to previous windy days.    
+05/18/1994,Flies and dead smelt. Lake calm on this beautiful sunny 70 degree day.  May flies horribly abundant.  Many dead smelt in water.  Smelt catch was low this spring.  Loon surfaced at 100' from site #2.    
+05/18/1994,Spring black- non-biting flies were thick- and the water temperature is 52 degrees F.    
+05/24/1994,Calm lake.  Overcast skies.  Yellow powder on water is washing up on shore.  Big (12") suckers close to north shore in mass.    
+05/30/1994,Partly cloudy-soft south breeze-heavy rain 5/29-beautiful day.    
+06/02/1994,Water 56 degrees F.    
+06/06/1994,Rain most of 6/5-partly cloudy today-lake calm like mirror-beautiful day!    
+06/10/1994,Water 61 degrees F.    
+06/15/1994,Water clear blue to about 10' then gradually greenish.  We have had heavy rain.  Green "scum" has washed in from swamps.  80 degree windy day-rough water-partly cloudy.  Water rough.    
+06/16/1994,Water 66 degrees F- calm water- nearly smooth.    
+06/22/1994,Water clear green after 10'.  Much "scum" (from swamp ) + vegetation. washed on the shore.  Calm lake today-partly cloudy.    
+06/25/1994,Water temp. 69 degrees F- ripples on water.    
+07/02/1994,Water clear green after 10'.  Swimmer's itch has been a problem.  Four eagles sighted over north shore trees.    
+07/06/1994,Water 69 degrees F- particles in water and on surface- water nearly calm.    
+07/10/1994,Much boat traffic after one week of clouds + rain.  Partly cloudy-beautiful now.    
+07/17/1994,Water temp. 68 degrees F- particles in water- ripples on surface.    
+07/23/1994,Water temp. 68 degrees F- ripples on water.    
+07/28/1994,Water temp. 67 degrees.    
+08/03/1994,July was stormy-lake rough when we were home.  Much vegetation floating in lake + washing on shore.    
+08/05/1994,Water temp. 67 degrees F.    
+08/10/1994,Heavy rain continues to wash debris in lake.  Gravel from replaced culvert under e. fence lake rd. washed into bay.  Sandy colored water.    
+08/11/1994,Water temp. 66 degrees.    
+08/17/1994,Calm water-partly cloudy-water much cleaner than earlier.  Four boats on lake-traffic way down.    
+08/19/1994,Water temp. 68 degrees F.    
+08/22/1994,Partly cloudy-calm water-sea weed vegetation + foam continues to float to shore.    
+09/02/1994,Water temp. 64 degrees F.    
+09/08/1994,Foam on shore-much sea weed floating-no wind-calm lake-beautiful sunny day.  Two loons sighted near #2 site.    
+09/09/1994,Water temp. 62 degrees F- good test conditions.    
+09/17/1994,Water 63 degrees F.    
+09/18/1994,Water clear green after 5'.  Heavy rain last week.  Much debris in water + washed on shore-3 loons sighted on way to #2.  Beautiful partly sunny day.    
+09/23/1994,Partly sunny-70 degrees-south breeze.  Another week of rain.  Have never seen lake this high. jet skis are gone.  Less debris also.  Lake level: very high    
+10/03/1994,Flow from swamp very heavy.  52 degrees-overcast-one other boat on lake-loon sighted near #2.    
+10/05/1994,Water 56 degrees- air 42 degrees- choppy water.    
+10/10/1994,Blue sky- the temperature is 55 degrees- and there is a light south breeze.  Boat goes in for winter 10/13/1994.    
+10/10/1994,Water temperature is 56 degrees- the air temperature is 42 degrees- and there are slight ripples on the water.    
+11/06/1994,Water 46 degrees- ripples on water- recent rains and winds.  Particles floating in water.  Last reading for '94.    
+05/17/1995,Ripples on water- water 51 degrees F.    
+05/25/1995,Water 54 degrees- partly cloudy- black spring flies at shore.    
+05/31/1995,Spring flies at shore- water 54 degrees.    
+06/06/1995,Slight haze- water smooth- water 62 degrees.    
+06/13/1995,Ripples on water- water 63 degrees.    
+06/23/1995,Water 79 degrees F!!  shad ( ) flies and pine pollen on water.    
+09/02/1995,Water 68 degrees.    
+09/17/1995,Water 62 degrees- floating particles.    
+09/27/1995,Water 56 degrees- floating particles in water.    
+06/14/1996,Pollen and bugs on water.    
+07/03/1996,Water 67 degrees F.    
+07/10/1996,Floating particles in water- temp. 66 degrees F.    
+07/16/1996,Water temp. 66 degrees F. ripples on water May have reduced depth.    
+08/17/1996,Water temp. @ 3': 70 degrees F- floating particles in water.    
+09/03/1996,Partly cloudy- air temp is 65 degrees.    
+10/21/1996,Mostly cloudy- air temp is 48 degrees.    
+06/09/1997,Dead bugs on water surface.    
+07/23/1997,Floating particles in the water.  Some clouds and a somewhat hazy sky.  Slight ripples on the water.  3.5 inches of rain in the last two weeks.    
+08/27/1997,Sunny- 10-15 mph wind.  Took secchi reading away from the regular site where there was less wind and calmer water.  Rain gauge reading from 8/14 to 8/27 =3.1 inches.    
+10/22/1997,Secchi disk reading took on 10/10.  On 10/22 it was too cloudy and water was too rough to take a Secchi reading.    
+05/04/1998,LAKE SAMPLE    
+06/23/1998,LAKE SAMPLE    
+07/20/1998,LAKE SAMPLE    
+08/18/1998,LAKE SAMPLE    
+10/17/1998,LAKE SAMPLE    
+05/31/2001,Ice went out on 4/22/2001.  Pollen on the water.    
+06/06/2001,Pollen floating on surface and suspended particles.    
+08/20/2001,DEEP HOLE-NORTH    
+10/01/2001,DEEP HOLE-NORTH    
+07/03/2002,floating pollen    
+07/07/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/26/2002,choppy water- not the best conditions
+
+    
+08/09/2002,sunny- but some haze    
+08/25/2002,DEEP HOLE-NORTH - 6FT INTEGRATED SAMPLE    
+10/05/2002,NORTH-DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/05/2003,DEEP HOLE-NORTH - 6FT INTEGRATED SAMPLE    
+08/01/2003,Ripples on water may have reduced secchi depth.    
+08/12/2003,NORTH-DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/08/2003,NORTH-DEEP HOLE - 6FT INTEGRATED SAMPLE    
+09/15/2007,Measurements obtained 2 days after wind storm.
+07/22/2008,Clear- no cloud cover.
+08/06/2008,Clear- calm
+08/20/2008,Clear- light waves.
+08/26/2008,clear- calm. Increased phytoplankton bloom.
+10/06/2008,Clear- light wind. Measurement taken post rain and wind storm x 2 days.
+07/10/2009,SW wind at about 10 MPH
+07/20/2009,Lake calm. Visible increase in phytoplankton compared to measurements of July 10.
+08/16/2009,Wind 8-10 MPH. Choppy waves.
+09/06/2009,Wind dead calm. Noticeable plankton suspended in water.
+07/11/2017,Over cast- calm water- and barely any boat traffic on the water.
+07/19/2017,Sunny- calm water- warm- and moderate boat traffic.
+
+
+
+
+Start Date,Group Name,Project Name
+07/03/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/15/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/21/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/27/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/07/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/19/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/25/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/31/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/10/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/18/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/23/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/13/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/24/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/31/1993,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/18/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/18/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/24/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/30/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/02/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/06/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/10/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/15/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/16/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/22/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/25/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/02/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/06/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/10/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/17/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/23/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/28/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/03/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/05/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/10/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/11/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/17/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/19/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/22/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/24/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/02/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/08/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/09/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/17/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/18/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/23/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/03/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/05/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/10/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/10/1994,Margaret Caldwell,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+11/06/1994,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/17/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/25/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/31/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/06/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/13/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/23/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/30/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/11/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/20/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/28/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/05/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/15/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/23/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/02/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/17/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/27/1995,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/14/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/25/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/03/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/10/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/16/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/31/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/02/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/17/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/23/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/03/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/18/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/21/1996,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/09/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/26/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/09/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/23/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/11/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/27/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/12/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/23/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/10/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/22/1997,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/01/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/04/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/25/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/08/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/16/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/23/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/01/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/16/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/20/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/31/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/18/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/27/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/07/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/12/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/22/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/08/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/17/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/24/1998,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/03/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/16/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/29/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/10/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/21/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/14/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/24/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/06/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/16/1999,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/25/2000,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/13/2000,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/28/2000,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/29/2000,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/09/2000,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/23/2000,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+05/31/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/06/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/22/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/30/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/08/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/07/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/20/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/29/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/01/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/12/2001,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/03/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/07/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/13/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/26/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/09/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/25/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/11/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/05/2002,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/11/2003,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/05/2003,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/01/2003,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/12/2003,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/08/2003,James Evans,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/15/2007,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/24/2007,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/29/2007,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/10/2007,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/15/2007,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/22/2008,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/06/2008,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/20/2008,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/26/2008,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+10/06/2008,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/10/2009,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/20/2009,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+08/16/2009,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+09/06/2009,Peter Hanson,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+06/17/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/11/2017,Ashlyn Christel,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 
+07/19/2017,Ashlyn Christel,Citizen Lake Monitoring - Water Quality - Fence Lake (2323000)- Deep Hole 

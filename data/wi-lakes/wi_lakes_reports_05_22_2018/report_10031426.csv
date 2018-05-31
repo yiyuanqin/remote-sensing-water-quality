@@ -1,0 +1,80 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Camelot Lake,Adams,1378100,WC,1,,10031426,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+35007228,08/03/2010,,,,,238,,71,,,,,,
+34991315,08/24/2010,,,,,40,,57,,,,,,
+34991315,05/24/2011,,,,,27,,54,,,,,,
+34991315,06/21/2011,,,,,30,,54,,,,,,
+48236087,07/19/2011,,,,,36,,56,,,,,,
+34991315,08/21/2011,,,,,45,,58,,,,,,
+50481978,09/11/2011,,,,,50,,58,,,,,,
+62237783,06/14/2012,,,,,33,,55,,,,,,
+1,07/16/2012,,,,,40,,57,,,,,,
+50481978,08/10/2012,,,,,58,,60,,,,,,
+50481978,08/13/2012,,,,,38,,56,,,,,,
+34991315,06/17/2013,,,,,36.2,,56,,,,,,
+34991315,07/23/2013,,,,,33.1,,55,,,,,,
+81502463,08/20/2013,,,,,41.7,,57,,,,,,
+34991315,09/09/2013,,,,,60.6,,60,,,,,,
+34991315,10/07/2013,,,,,28.9,,54,,,,,,
+34991315,07/06/2014,,,,,48.9,,58,,,,,,
+34991315,08/11/2014,,,,,52.6,,59,,,,,,
+34991315,09/15/2014,,,,,53.6,,59,,,,,,
+34991315,10/13/2014,,,,,57.5,,60,,,,,,
+34991315,06/08/2015,,,,,41,,57,,,,,,
+34991315,07/06/2015,,,,,38.4,,56,,,,,,
+34991315,08/03/2015,,,,,49.4,,58,,,,,,
+34991315,09/01/2015,,,,,46.5,,58,,,,,,
+34991315,10/05/2015,,,,,45.1,,58,,,,,,
+1,05/31/2016,,,,,34.3,,56,,,,,,
+1,07/05/2016,,,,,33.3,,55,,,,,,
+1,08/08/2016,,,,,36.8,,56,,,,,,
+1,11/13/2017,,,,,27,,54,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/03/2010,Lucas Black- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+08/24/2010,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+05/24/2011,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/21/2011,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/19/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/21/2011,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+09/11/2011,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/14/2012,Trevor Skerven,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/16/2012,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/10/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/13/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/17/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/23/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+08/20/2013,Nick Walkosz,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/09/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/07/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+07/06/2014,Dennis Poehler,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/11/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/15/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/13/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+06/08/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+07/06/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+08/03/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+09/01/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+10/05/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+05/31/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+07/05/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+08/08/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+11/13/2017,Data Collectors,

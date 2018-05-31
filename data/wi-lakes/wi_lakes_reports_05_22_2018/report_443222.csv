@@ -1,0 +1,62 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+McNaughton Lake,Oneida,1587600,NO,44,,443222,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/06/1979,,,,,,,,,,,,,
+8188463,05/24/2002,,,,,16,,50,,,,,,
+8188599,06/26/2002,6,YES,1.8,,,51,,,,,,,
+8188599,07/17/2002,6,YES,1.8,,,51,,,,,,,
+8188600,07/17/2002,,,,31.8,26,,53,61,,,,,
+8188599,08/26/2002,6.5,NO,2,8.61,33,50,55,51,,,,,
+145711546,07/13/2017,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/06/1979,,,21,C,,
+06/26/2002,0,FEET,25.7,DEGREES C,9.6,MG/L
+06/26/2002,2,FEET,25.7,DEGREES C,9.39,MG/L
+06/26/2002,4,FEET,25.7,DEGREES C,9.34,MG/L
+06/26/2002,6,FEET,25.7,DEGREES C,9.34,MG/L
+07/17/2002,0,FEET,29.3,DEGREES C,10.05,MG/L
+07/17/2002,1,FEET,29.2,DEGREES C,9.88,MG/L
+07/17/2002,2,FEET,29.1,DEGREES C,9.76,MG/L
+07/17/2002,3,FEET,28.9,DEGREES C,9.66,MG/L
+07/17/2002,4,FEET,28.6,DEGREES C,11.13,MG/L
+07/17/2002,5,FEET,28.3,DEGREES C,11.21,MG/L
+08/26/2002,0,FEET,23.7,DEGREES C,9.41,MG/L
+08/26/2002,1,FEET,23.6,DEGREES C,9.49,MG/L
+08/26/2002,2,FEET,23.6,DEGREES C,9.48,MG/L
+08/26/2002,3,FEET,23.5,DEGREES C,9.49,MG/L
+08/26/2002,4,FEET,23.5,DEGREES C,9.57,MG/L
+08/26/2002,5,FEET,23.5,DEGREES C,9.81,MG/L
+07/13/2017,2,FEET,75.1,DEGREES F,9.22,MG/L
+07/13/2017,4,FEET,75.5,DEGREES F,9.16,MG/L
+07/13/2017,6,FEET,74,DEGREES F,3.33,MG/L
+07/13/2017,8,FEET,68.2,DEGREES F,.17,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/06/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/24/2002,GRAB SAMPLE    
+07/17/2002,DEEP HOLE - INTEGRATED 2M SAMPLE    
+08/26/2002,DEEP HOLE - INTEGRATED 2M SAMPLE    
+07/13/2017,Location of deep hole on Oneida County GIS. Conditions were cloudy- windy- and water was murky.
+
+
+
+
+Start Date,Group Name,Project Name
+09/06/1979,Data Collectors,Migrated from STORET Legacy
+05/24/2002,_ VOGELSANG,Lake Baseline Monitoring- DNR (1970s-2006)
+06/26/2002,Rick Jirsa,Lakes Baseline and Trends Monitoring
+07/17/2002,Jennifer Wudi and Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/2002,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/26/2002,Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+07/13/2017,Aubrey Nycz- Derek Thorn,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

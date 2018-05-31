@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kinnickinnic Pond- Lower,Pierce,2603000,WC,48,,10048606,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/19/2017,,,,3.81,68.2,,61,45,,,,,
+1,06/29/2017,,,,4.04,260,,71,45,,,,,
+1,07/13/2017,,,,1.42,54.6,,59,37,,,,,
+1,07/27/2017,,,,1.54,71.5,,61,38,,,,,
+1,08/10/2017,,,,1.54,51.2,,59,38,,,,,
+1,08/24/2017,,,,0.386,48,,58,28,,,,,
+1,09/11/2017,,,,0.428,34,,55,28,,,,,
+1,09/30/2017,,,,0.864,44.2,,57,34,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/19/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+06/29/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+07/13/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+07/27/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+08/10/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+08/24/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+09/11/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment
+09/30/2017,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Kinnickinnic River: Water Qualtiy Analysis of Impoundment

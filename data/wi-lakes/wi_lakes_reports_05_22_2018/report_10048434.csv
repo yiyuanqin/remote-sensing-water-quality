@@ -1,0 +1,35 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Polk,2615400,NO,49,,10048434,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,07/20/2017,,,,,,,,,,,,,
+145584054,08/29/2017,,,,6.32,25,,53,49,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/20/2017,0,METERS,23.05,DEGREES C,7.3,MG/L
+07/20/2017,1,METERS,20.9,DEGREES C,2.5,MG/L
+07/20/2017,2,METERS,15,DEGREES C,.2,MG/L
+07/20/2017,3,METERS,12,DEGREES C,.1,MG/L
+07/20/2017,3.3,METERS,10.4,DEGREES C,.1,MG/L
+08/29/2017,0,METERS,20.75,DEGREES C,12.1,MG/L
+08/29/2017,0.5,METERS,20.5,DEGREES C,12.3,MG/L
+08/29/2017,1,METERS,20.1,DEGREES C,10,MG/L
+08/29/2017,1.1,METERS,19.7,DEGREES C,7.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/20/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017
+08/29/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

@@ -1,0 +1,285 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lone Stone Lake,Oneida,1605600,NO,44,,443208,NE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/25/1979,,,,,,,,,,,,,
+8190457,07/27/1994,10,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190457,08/09/1994,8.5,NO,2.6,,,46,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/16/1994,6.25,NO,1.9,,,51,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/24/1994,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/02/1994,6.25,NO,1.9,,,51,,,3-4" ABOVE NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/08/1994,8.25,NO,2.5,,,47,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190457,09/17/1994,9.25,NO,2.8,,,45,,,~4" ABOVE NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/29/1994,5.75,NO,1.7,,,52,,,~5" ABOVE NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190457,10/10/1994,8.5,NO,2.6,,,46,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,10/21/1994,8.75,NO,2.7,,,46,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190457,10/31/1994,8.5,NO,2.6,,,46,,,6" LOWER THAN NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190457,11/09/1994,9.5,NO,2.9,,,45,,,DOWN ~8",,,GREEN,4-Would not swim but boating OK (algae)
+8190457,11/16/1994,7.75,NO,2.4,,,48,,,~8" LOWER THAN NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190457,04/28/1995,9,NO,2.7,,,45,,,DOWN ~ 8",,,BROWN,1-Beautiful, could not be nicer
+8190457,05/12/1995,11.25,NO,3.4,,,42,,,DOWN ~ 6",,,GREEN,1-Beautiful, could not be nicer
+8190457,06/08/1995,10.75,NO,3.3,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,06/16/1995,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,06/25/1995,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,07/10/1995,11.25,NO,3.4,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190457,07/22/1995,10.25,NO,3.1,,,44,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190457,07/29/1995,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/10/1995,10.4,NO,3.2,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/29/1995,8,NO,2.4,,,47,,,3-4" ABOVE NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/04/1995,8.5,NO,2.6,,,46,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/26/1995,7,NO,2.1,,,49,,,ABOVE NORMAL, APPROX. 3",,,GREEN,4-Would not swim but boating OK (algae)
+8190457,10/18/1995,7,NO,2.1,,,49,,,APPROX. 3" HIGHER THAN NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190457,05/16/1996,8,NO,2.4,,,47,,,LOW APPROX 6",,,GREEN,
+8190457,05/25/1996,6.5,NO,2,,,50,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,06/14/1996,10.25,NO,3.1,,,44,,,6" LOW,,,GREEN,1-Beautiful, could not be nicer
+8190457,06/25/1996,10.5,NO,3.2,,,43,,,APPROX. 3" LOW,,,GREEN,1-Beautiful, could not be nicer
+8190457,07/01/1996,11,NO,3.3,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,07/17/1996,12.5,NO,3.8,,,41,,,APPROX. 6" LOW,,,GREEN,1-Beautiful, could not be nicer
+8190457,07/27/1996,11,NO,3.3,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/03/1996,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/16/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190457,08/23/1996,10.5,NO,3.2,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,08/29/1996,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/04/1996,8,NO,2.4,,,47,,,APPROX. 2" ABOVE NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190457,09/10/1996,8,NO,2.4,,,47,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190457,09/18/1996,6,NO,1.8,,,51,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190457,09/25/1996,7,NO,2.1,,,49,,,APPROX. 4" BELOW NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190457,10/16/1996,11.5,NO,3.5,,,42,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+30255840,05/24/2010,14.6,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+30255840,05/31/2010,17.75,NO,5.4,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,06/17/2010,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+30255840,07/05/2010,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+30255840,07/26/2010,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+30255840,08/09/2010,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,08/24/2010,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,09/01/2010,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+30255840,05/31/2011,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+30255840,06/12/2011,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+30255840,06/17/2011,14,NO,4.3,,,39,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,06/25/2011,11.5,NO,3.5,,,42,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+30255840,07/01/2011,13,NO,4,,,40,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+30255840,07/09/2011,13.5,NO,4.1,,,40,,,LOW,,MURKY,,2-Very minor aesthetic problems
+30255840,07/20/2011,12.5,NO,3.8,,,41,,,LOW,,MURKY,,2-Very minor aesthetic problems
+30255840,07/28/2011,12,NO,3.6,,,41,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+30255840,08/15/2011,11.5,NO,3.5,,,42,,,LOW,,MURKY,,2-Very minor aesthetic problems
+30255840,08/30/2011,10.5,NO,3.2,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+30255840,09/09/2011,9.5,NO,2.9,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+30255840,06/08/2012,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,07/01/2012,13.5,NO,4.1,,,40,,,LOW,,MURKY,,1-Beautiful, could not be nicer
+30255840,07/11/2012,10.5,NO,3.2,,,43,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+30255840,08/01/2012,13.5,NO,4.1,,,40,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+30255840,08/22/2012,10.3,NO,3.1,,,44,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+30255840,06/18/2013,17.75,NO,5.4,,,36,,,NORMAL,,CLEAR,BLUE,
+30255840,06/24/2013,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,
+30255840,07/15/2013,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,
+30255840,07/17/2013,13.75,NO,4.2,,,39,,,NORMAL,,MURKY,GREEN,
+30255840,08/17/2013,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,GREEN,
+30255840,08/26/2013,12.75,NO,3.9,,,40,,,NORMAL,,MURKY,BLUE,
+30255840,05/20/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,05/23/2014,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,06/11/2014,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,06/24/2014,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30255840,07/03/2014,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BLUE,1-Beautiful, could not be nicer
+30255840,08/15/2014,9.75,NO,3,,,44,,,NORMAL,,MURKY,BLUE,1-Beautiful, could not be nicer
+30255840,06/19/2015,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+30255840,07/15/2015,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+30255840,07/20/2015,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+30255840,07/22/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+30255840,08/27/2015,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,06/05/2016,13,NO,4,,,40,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+30255840,06/10/2016,13,NO,4,,,40,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+30255840,06/15/2016,12.5,NO,3.8,,,41,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,07/16/2016,11.5,NO,3.5,,,42,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,08/02/2016,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,07/28/2017,12.5,NO,3.8,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,08/03/2017,12.5,NO,3.8,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+30255840,08/25/2017,12,NO,3.6,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/1979,,,23,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/25/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/27/1994,Used depth finder + took reading at 32'.  Partly cloudy + wind @ ~5 mph.    
+08/09/1994,Temp. 48 degrees F- but warming.  Rained .5" Monday a.m.-today lake smooth as glass.  No one on lake except a pair of loons watching.  Water level Up ~3" from last check    
+08/16/1994,Algae building up in deep area of lake.  Bright sunshine this a.m.    
+08/24/1994,Not as much algae near surface as last check- partly cloudy but not as much smoke from forest fires in west blocking sun.  4 loons on lake.    
+09/02/1994,Not a cloud in the sky- no wind- water like a glass.  Algae level high.  2 young loons + 1 adult on lake this a.m.    
+09/08/1994,Partly cloudy- less algae in water.  Not as many people in cottages- will have to enjoy peace + quiet for another fall + winter.    
+09/17/1994,Little windy.  Too cold to swim.  Has rained 6.1" past 3 days.    
+09/29/1994,Too cold to swim. 36 degrees F this a.m.  A lot of foreign matter in water.  Received 9.1" rain during past 2.5 weeks.    
+10/10/1994,Bright sun + water like sheet of glass.  One lonely teal feeding near shore.    
+10/21/1994,Partly cloudy- but nice bright sun.    
+10/31/1994,Too cold to swim.  Partly cloudy- lake relatively soon.    
+11/09/1994,Water is cooling down.  Very few clouds- bright sunshine- wind calm to 5 mph gusts.  Have the lake to myself.    
+11/16/1994,Too cold to swim.  Thin ice around shore line this a.m.  Maybe last check for this year - we'll see.    
+04/28/1995,Cold.    
+05/12/1995,Water like glass this a.m. and bright sunshine.    
+06/08/1995,Bright sun- loons on lake + 49 degrees F.    
+06/25/1995,Beautiful warm day- heavy boat traffic-off on showers.    
+07/22/1995,Water level: up slightly    
+07/29/1995,Algal bloom not apparent at this time.    
+08/29/1995,Very little algae-first sunshine in days.    
+09/04/1995,Clear- sunny aft.- very little algae.    
+09/26/1995,43 degrees F- sunny- algae heavy in deep water.    
+10/18/1995,Still have heavy algae in deep water- sunny + water calm- one pair of loons on lake.    
+05/16/1996,Beautiful sunshine but too cold to swim.  Ice out on 5/14/96.  Seemed to be a lot of sediment in water.    
+05/25/1996,Partly cloudy- 60 degrees- water starting to warm up. pair of loons on lake.    
+06/14/1996,Algal bloom starting- sunny- warm- calm- 2 loons came up to boat.    
+06/25/1996,Calm- partly cloudy- heavy algal bloom- 2 loons on lake.    
+07/01/1996,Partly cloudy- light wind- heavy algae- 4 loons on lake - 2 old - 2 young.    
+07/17/1996,Slightly overcast- light wind- pair of loons on lake (young ones) .    
+07/27/1996,Partly cloudy- light wind.    
+08/16/1996,Mostly sunny- calm- 60 degrees F- lake level normal- algae heavy in deep water.    
+08/23/1996,Sunny- light wind- algae heavy- lake level normal- one person fishing.    
+08/29/1996,Heavy algal bloom- sunny- light wind- no loons on lake today.    
+09/04/1996,Water riled up because of rain last night. algae bloom very heavy. partly sunny + warm.    
+09/10/1996,Mostly sunny- calm- algae bloom still on heavy side.    
+09/18/1996,Not a cloud in the sky- calm- very high level of algae. several flocks of geese moving south.    
+09/25/1996,Partly cloudy- light wind- looks like lake is starting to turn over.    
+10/16/1996,Mostly sunny- no wind on lake- best clarity since July. 39 degrees F.    
+05/24/2010,Calm water. 90 degrees. lots of pine pollen on water
+05/31/2010,75 degrees. North wind at 5 MPH. Very clear water and no pollen. No one else on water.
+06/17/2010,70 degrees. South winds at 10 MPH. Partly cloudy. 2 adult loons with 2 chicks. 
+07/05/2010,82 degrees. North wind at 5 MPH. Partly cloudy- very rainy weather.
+07/26/2010,70 degrees. Calm. SW wind 5-10 MPH. Clear sky. No rain for 5 days.
+08/09/2010,85 degrees. Clear and calm. Very humid. 1 other boat on lake. Stormed 2 days prior.
+08/24/2010,75 degrees. Partly cloudy. Just 3 loons on the lake.
+09/01/2010,75 degrees. Clear- west wind at 5 MPH. Rained hard last night.
+07/09/2011,cloudy- 5-10 mph winds from SW- only 1 other boat on the lake
+07/20/2011,sunny- 95+ degrees- SW 5-10mph
+07/28/2011,partly cloudy- my wife and another couple aboard
+08/15/2011,partly cloudy - 2 other boats on the lake - wind from W ~ 5mph
+08/30/2011,partly cloudy- shared with a couple from Iowa. visited our family of 4 loons
+09/09/2011,78 degrees- light winds- sunny
+06/08/2012,very clear water- a bit of pine pokken on water- 75 degress- west winds 5 mph- 1 loon on water
+07/01/2012,little breeze- 87 degrees- 2 boats on water- went to check on 3 loons- slight tint to water
+07/11/2012,west wind @10 mph- visited the 3 loons with two friends
+08/01/2012,NW wind 5-10- had two friends and visited loons - sunny and 82 degrees
+08/22/2012,sunny- calm- 2 other boats on water- saw the 3 loons
+06/18/2013,Cool weather all spring
+06/24/2013,"Pine" pollen has been falling- lots of yellow crap on water
+07/15/2013,Very hot the past 10 days (92 f today)
+07/17/2013,SW wind 5 to 10 mph- sunny- 90f
+08/17/2013,SW wind 5 to 10 mph- sunny- 74f
+08/26/2013,Wind 5 to 10 mph- cloudy- 88f
+05/20/2014,rained last night- very nice- partly cloudy- calm
+05/23/2014,Clear- light winds
+06/11/2014,Partly cloudy- NE light wind- 75F
+06/24/2014,Partly cloudy- N light winds- 77F- rain shower at 1:15PM
+07/03/2014,Partly cloudy- North light winds- 70F- saw 2 newborn loon chicks
+08/15/2014,Partly cloudy- SW winds 5-10 mph- 74F- loon chicks are growing fast
+07/20/2015,a bit breezy(NW)- partly cloudy
+07/22/2015,clear- calm- beautiful morning
+08/27/2015,clear- calm- 65 degrees
+06/05/2016,Partly cloudy - NW winds 5 to 10 - 75 degrees
+06/10/2016,Partly cloudy - W winds @ 10 - 78 degrees
+06/15/2016,Mostly sunny - east wind @ 5 - 74 degrees
+07/16/2016,60 degrees SW @ 5. Sunny - last 4 days was lot of wind and stormy. Water color tinted.
+08/02/2016,82 degrees. SW @ 7. Partly cloudy - has been hot and humid. Water color tinted.
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1979,Data Collectors,Migrated from STORET Legacy
+07/27/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/09/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/16/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/24/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/02/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/08/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/17/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/29/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+10/10/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+10/21/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+10/31/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+11/09/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+11/16/1994,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+04/28/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/12/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/08/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/16/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/25/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/10/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/22/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/29/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/10/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/29/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/04/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/26/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+10/18/1995,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/16/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/25/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/14/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/25/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/01/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/17/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/27/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/03/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/16/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/23/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/29/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/04/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/10/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/18/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/25/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+10/16/1996,Larry Nachtwey,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/24/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/31/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/17/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/05/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/26/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/09/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/24/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/01/2010,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/31/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/12/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/17/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/25/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/01/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/09/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/20/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/28/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/15/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/30/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+09/09/2011,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/08/2012,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/01/2012,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/11/2012,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/01/2012,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/22/2012,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/18/2013,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/24/2013,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/15/2013,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/17/2013,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/17/2013,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/26/2013,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/20/2014,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+05/23/2014,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/11/2014,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/24/2014,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/03/2014,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/15/2014,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/19/2015,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/15/2015,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/20/2015,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/22/2015,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/27/2015,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/05/2016,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/10/2016,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+06/15/2016,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/16/2016,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/02/2016,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+07/28/2017,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/03/2017,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole
+08/25/2017,Jim Stoffel,Citizen Lake Monitoring - Water Quality - Lone Stone Lake - Deep Hole

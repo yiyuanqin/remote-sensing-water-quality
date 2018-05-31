@@ -1,0 +1,57 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Underwood Lake,Oconto,519700,NE,43,,433040,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,01/20/1976,,,,,24,,53,,,,,,
+1,04/29/1976,12.3,,3.75,,,41,,,,,,,
+1,07/14/1976,10.7,,3.25,,,43,,,,,,,
+1,02/03/1977,,,,,,,,,,,,,
+1,05/19/1977,14.8,,4.5,,,38,,,,,,,
+1,08/18/1977,9.8,,3,,,44,,,,,,,
+1,10/10/1977,,,,,,,,,,,,,
+125862804,08/01/2016,,,,0.765,12.4,,48,33,,,,,
+18137035,07/25/2017,,,,1.77,14.3,,49,39,,,,,
+18137035,08/29/2017,,,,2.48,11.8,,47,42,,,,,
+18137035,09/19/2017,,,,1.63,12.1,,47,38,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/29/1976,,,9.8,C,10.4,MG/L
+07/14/1976,,,23.9,C,8.7,MG/L
+02/03/1977,,,5.6,C,7.2,MG/L
+05/19/1977,,,17,C,10.6,MG/L
+08/18/1977,,,21.3,C,9,MG/L
+10/10/1977,,,13,C,8.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+01/20/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/29/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/14/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/03/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/19/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/18/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/10/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+01/20/1976,Data Collectors,Migrated from STORET Legacy
+04/29/1976,Data Collectors,Migrated from STORET Legacy
+07/14/1976,Data Collectors,Migrated from STORET Legacy
+02/03/1977,Data Collectors,Migrated from STORET Legacy
+05/19/1977,Data Collectors,Migrated from STORET Legacy
+08/18/1977,Data Collectors,Migrated from STORET Legacy
+10/10/1977,Data Collectors,Migrated from STORET Legacy
+08/01/2016,Brenda L Nordin- TRAVIS J KINNING,Directed Lakes 2016 Nordin
+07/25/2017,Brenda Nordin,East Proposed Projects 2016
+08/29/2017,Brenda Nordin,East Proposed Projects 2016
+09/19/2017,Brenda Nordin,East Proposed Projects 2016

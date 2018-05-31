@@ -1,0 +1,33 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rush Lake,Winnebago,141400,NE,71,,10046861,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+62404880,07/25/2016,2.917,YES,0.9,2.41,20.9,62,52,41,,,CLEAR,BROWN,
+62404880,08/23/2016,,,,0.882,24.2,,53,34,,,,,
+62404880,09/13/2016,,YES,,1.54,25.9,,53,38,,,CLEAR,BROWN,
+1,09/06/2017,,,,2.65,,,,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/2016,1,METERS,28.2,DEGREES C,6.16,MG/L
+08/23/2016,1,METERS,23.7,DEGREES C,9.73,MG/L
+09/13/2016,1,METERS,20.8,DEGREES C,6.11,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/2016,ERIC EVENSEN,Directed Lakes 2016 Johnson
+08/23/2016,ERIC EVENSEN,Directed Lakes 2016 Johnson
+09/13/2016,ERIC EVENSEN,Directed Lakes 2016 Johnson
+09/06/2017,Data Collectors,Bacteria + Plankton (Paid Private)

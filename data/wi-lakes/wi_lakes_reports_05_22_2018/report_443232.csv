@@ -1,0 +1,88 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+North Two Lakes,Oneida,1007500,NO,44,,443232,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/12/1979,,,,,,,,,,,,,
+1,10/18/1994,15.7,,4.8,4.29,11,37,47,46,,,,,
+8190161,09/10/1995,22.5,NO,6.8,,,32,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190161,09/26/1995,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190161,06/22/1996,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190161,06/28/1996,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190161,07/07/1996,16.25,NO,4.9,,,37,,,HIGH,,,GREEN,
+8190161,07/15/1996,14.5,NO,4.4,,,39,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190161,08/17/1996,12,NO,3.6,,,41,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190161,09/19/1996,46,NO,14,,,22,,,HIGH,,,GREEN,
+8190161,05/28/1997,14,NO,4.3,,,39,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190161,06/08/1997,14,NO,4.3,,,34,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190161,06/22/1997,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190161,08/15/1997,19,NO,5.8,,,35,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190161,09/13/1997,19,NO,5.8,,,35,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+130849533,06/23/2016,16,NO,4.9,,,37,,,,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+130849533,07/06/2016,12,NO,3.6,,,41,,,,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/12/1979,,,25.5,C,,
+10/18/1994,,,13.8,C,8.7,MG/L
+06/23/2016,3,FEET,76.2,DEGREES F,8.13,MG/L
+06/23/2016,6,FEET,74,DEGREES F,8.29,MG/L
+06/23/2016,9,FEET,73.3,DEGREES F,8.44,MG/L
+06/23/2016,12,FEET,72.6,DEGREES F,8.04,MG/L
+06/23/2016,15,FEET,67.1,DEGREES F,9.39,MG/L
+06/23/2016,18,FEET,60.5,DEGREES F,10.25,MG/L
+06/23/2016,21,FEET,55.9,DEGREES F,10.15,MG/L
+06/23/2016,24,FEET,52.7,DEGREES F,8.05,MG/L
+06/23/2016,27,FEET,50.4,DEGREES F,7.01,MG/L
+06/23/2016,30,FEET,47.9,DEGREES F,3.51,MG/L
+06/23/2016,33,FEET,46.7,DEGREES F,1.32,MG/L
+06/23/2016,36,FEET,45.9,DEGREES F,.39,MG/L
+06/23/2016,39,FEET,45.6,DEGREES F,.1,MG/L
+07/06/2016,3,FEET,76.1,DEGREES F,8.14,MG/L
+07/06/2016,6,FEET,75.5,DEGREES F,8.45,MG/L
+07/06/2016,9,FEET,75.2,DEGREES F,8.18,MG/L
+07/06/2016,12,FEET,73.9,DEGREES F,8.34,MG/L
+07/06/2016,15,FEET,71.4,DEGREES F,8.36,MG/L
+07/06/2016,18,FEET,63.7,DEGREES F,9.66,MG/L
+07/06/2016,21,FEET,58.9,DEGREES F,9.05,MG/L
+07/06/2016,24,FEET,54.8,DEGREES F,7.01,MG/L
+07/06/2016,27,FEET,52.1,DEGREES F,4.81,MG/L
+07/06/2016,30,FEET,49.2,DEGREES F,2.11,MG/L
+07/06/2016,33,FEET,47.5,DEGREES F,.67,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/12/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/18/1994,TURNOVER SAMPLE    
+05/28/1997,Water temp 52 degrees.    
+06/08/1997,Water temp 62 degrees.    
+06/23/2016,Sunny and 75 degrees F.
+07/06/2016,Heat index at 81 degrees F. 8mph winds out of the west. Partly cloudy. 79 degrees F.
+
+
+
+
+Start Date,Group Name,Project Name
+07/12/1979,Data Collectors,Migrated from STORET Legacy
+10/18/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/10/1995,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+09/26/1995,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+06/22/1996,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+06/28/1996,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+07/07/1996,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+07/15/1996,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+08/17/1996,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+09/19/1996,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+05/28/1997,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+06/08/1997,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+06/22/1997,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+08/15/1997,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+09/13/1997,Michael Flaherty,Citizen Lake Monitoring - Water Quality - North Two Lake - Deep Hole
+06/23/2016,Stephanie Boismenue and Aubrey Nycz,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+07/06/2016,Stephanie Boismenue and Aubrey Nycz,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

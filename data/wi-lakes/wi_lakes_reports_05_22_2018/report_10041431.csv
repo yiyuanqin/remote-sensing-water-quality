@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Delavan Lake,Walworth,793600,SE,65,,10041431,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+54593953,02/13/2013,,,,,29,,54,,,,,,
+54593953,05/29/2013,,,,2.34,20,,51,41,,,,,
+54593953,06/18/2013,,,,33.8,21,,52,61,,,,,
+54593953,08/15/2013,,,,25.1,22.7,,52,59,,,,,
+34991315,10/13/2014,,,,,200,,69,,,,,,
+143167470,05/25/2017,,,,5.39,29.9,,54,48,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+02/13/2013,Ben Siebers- USGS,USGS Monitoring - Delavan Lake
+05/29/2013,Ben Siebers- USGS,USGS Monitoring - Delavan Lake
+06/18/2013,Ben Siebers- USGS,USGS Monitoring - Delavan Lake
+08/15/2013,Ben Siebers- USGS,USGS Monitoring - Delavan Lake
+10/13/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+05/25/2017,ZANA SIJAN,USGS Monitoring - Delavan Lake

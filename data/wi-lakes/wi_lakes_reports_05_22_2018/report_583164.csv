@@ -1,0 +1,472 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Barber Lake,Sawyer,2382300,NO,58,,583164,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189944,06/12/2001,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,06/22/2001,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,07/05/2001,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,07/16/2001,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/25/2001,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/03/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,08/20/2001,7.2,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/28/2001,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,09/04/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,09/20/2001,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,
+8189944,09/26/2001,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189944,05/14/2003,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/01/2003,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/15/2003,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/04/2003,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/18/2003,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/30/2003,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/15/2003,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,09/05/2003,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/06/2004,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/14/2004,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/15/2004,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,05/06/2005,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,05/30/2005,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,06/15/2005,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,06/21/2005,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,07/22/2005,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/29/2005,7.3,NO,2.2,,,48,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/14/2005,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,09/03/2005,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189944,06/03/2006,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/26/2006,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/10/2006,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/10/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,06/29/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/16/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/29/2007,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/30/2007,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,10/04/2007,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,07/01/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,
+8189944,07/14/2008,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,
+8189944,07/21/2008,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,
+8189944,08/01/2008,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,
+8189944,08/15/2008,5.6,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,
+8189944,09/12/2008,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,
+8189944,06/10/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189944,06/20/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189944,07/03/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189944,07/24/2009,9.4,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189944,08/25/2009,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/18/2010,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/22/2010,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/16/2010,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/05/2010,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/16/2010,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,09/09/2010,4.3,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,10/07/2010,4.6,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,05/11/2011,4.25,NO,1.3,,35,56,56,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+44788255,05/24/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+44788255,06/02/2011,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,06/05/2011,6.3,NO,1.9,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,06/20/2011,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,06/24/2011,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,06/28/2011,4.75,NO,1.4,14.4,28,55,54,55,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,07/05/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189944,07/06/2011,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,07/20/2011,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189944,07/21/2011,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,08/03/2011,6.5,NO,2,9.53,23,50,52,52,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189944,08/12/2011,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,08/16/2011,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,08/29/2011,3.75,NO,1.1,28.2,30,58,54,60,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189944,09/03/2011,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,09/13/2011,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,10/02/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+44788255,04/01/2012,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,04/12/2012,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,05/01/2012,6.25,NO,1.9,,22,51,52,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,05/12/2012,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,05/16/2012,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189944,06/05/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,06/07/2012,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189944,06/22/2012,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,06/27/2012,6.75,NO,2.1,4.42,27,50,54,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+44788255,07/14/2012,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189944,07/17/2012,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,07/23/2012,6,NO,1.8,5.12,23,51,52,47,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+44788255,08/06/2012,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,08/09/2012,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,08/13/2012,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,08/27/2012,5,NO,1.5,13.7,21,54,52,55,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,09/09/2012,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189944,09/10/2012,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44788255,09/26/2012,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+44788255,05/28/2013,4,NO,1.2,,26,57,53,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,06/02/2013,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189944,06/25/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/23/2013,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/11/2013,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,09/26/2013,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,05/23/2014,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189944,06/25/2014,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/26/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,,5-Enjoyment substantially impaired (algae)
+8189944,06/10/2015,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,06/27/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/20/2015,7,NO,2.1,,,49,,,LOW,,CLEAR,,4-Would not swim but boating OK (algae)
+8189944,08/12/2015,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,07/03/2016,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,08/01/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189944,09/02/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189944,07/23/2017,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189944,09/03/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/11/2011,0,FEET,56,DEGREES F,9,MG/L
+05/11/2011,3,FEET,54,DEGREES F,9.2,MG/L
+05/11/2011,6,FEET,52,DEGREES F,9,MG/L
+05/11/2011,9,FEET,49,DEGREES F,9.3,MG/L
+05/11/2011,12,FEET,48,DEGREES F,9.3,MG/L
+05/11/2011,15,FEET,46,DEGREES F,8.5,MG/L
+05/11/2011,18,FEET,42,DEGREES F,8.3,MG/L
+05/11/2011,21,FEET,42,DEGREES F,8.3,MG/L
+05/24/2011,0,FEET,62.9,DEGREES F,,
+05/24/2011,3,FEET,62.2,DEGREES F,,
+05/24/2011,6,FEET,61.7,DEGREES F,,
+05/24/2011,9,FEET,56.1,DEGREES F,,
+05/24/2011,12,FEET,53.6,DEGREES F,,
+05/24/2011,15,FEET,51.8,DEGREES F,,
+05/24/2011,18,FEET,51.2,DEGREES F,,
+05/24/2011,21,FEET,50.7,DEGREES F,,
+06/02/2011,0,FEET,62.9,DEGREES F,7.6,MG/L
+06/02/2011,3,FEET,62.4,DEGREES F,,
+06/02/2011,6,FEET,61.7,DEGREES F,7,MG/L
+06/02/2011,9,FEET,61.1,DEGREES F,,
+06/02/2011,12,FEET,60.8,DEGREES F,8.4,MG/L
+06/02/2011,15,FEET,59.5,DEGREES F,,
+06/02/2011,18,FEET,57.9,DEGREES F,6.4,MG/L
+06/02/2011,21,FEET,56.6,DEGREES F,,
+06/20/2011,0,FEET,69.8,DEGREES F,,
+06/20/2011,3,FEET,69.8,DEGREES F,,
+06/20/2011,6,FEET,68.3,DEGREES F,,
+06/20/2011,9,FEET,65,DEGREES F,,
+06/20/2011,12,FEET,62.4,DEGREES F,,
+06/20/2011,15,FEET,61.5,DEGREES F,,
+06/20/2011,18,FEET,57.5,DEGREES F,,
+06/20/2011,21,FEET,57,DEGREES F,,
+06/28/2011,0,FEET,70.2,DEGREES F,6.2,MG/L
+06/28/2011,3,FEET,69.8,DEGREES F,,
+06/28/2011,6,FEET,69.2,DEGREES F,6,MG/L
+06/28/2011,9,FEET,67.6,DEGREES F,,
+06/28/2011,12,FEET,64.7,DEGREES F,4.2,MG/L
+06/28/2011,15,FEET,59.3,DEGREES F,,
+06/28/2011,18,FEET,56.1,DEGREES F,.5,MG/L
+06/28/2011,21,FEET,54.8,DEGREES F,,
+07/05/2011,0,FEET,80.6,DEGREES F,,
+07/05/2011,3,FEET,79.5,DEGREES F,,
+07/05/2011,6,FEET,78.8,DEGREES F,,
+07/05/2011,9,FEET,71.4,DEGREES F,,
+07/05/2011,12,FEET,65.1,DEGREES F,,
+07/05/2011,15,FEET,60.4,DEGREES F,,
+07/05/2011,18,FEET,55.4,DEGREES F,,
+07/05/2011,21,FEET,54.8,DEGREES F,,
+07/20/2011,0,FEET,79.1,DEGREES F,,
+07/20/2011,3,FEET,78.4,DEGREES F,,
+07/20/2011,6,FEET,78,DEGREES F,,
+07/20/2011,9,FEET,77.7,DEGREES F,,
+07/20/2011,12,FEET,68,DEGREES F,,
+07/20/2011,15,FEET,61.5,DEGREES F,,
+07/20/2011,18,FEET,57.5,DEGREES F,,
+07/20/2011,21,FEET,55.4,DEGREES F,,
+08/03/2011,0,FEET,77.3,DEGREES F,6.8,MG/L
+08/03/2011,3,FEET,76.8,DEGREES F,6.5,MG/L
+08/03/2011,6,FEET,75.9,DEGREES F,6.2,MG/L
+08/03/2011,9,FEET,75.7,DEGREES F,5.2,MG/L
+08/03/2011,12,FEET,71.7,DEGREES F,4.8,MG/L
+08/03/2011,15,FEET,62.4,DEGREES F,1.6,MG/L
+08/03/2011,18,FEET,57.7,DEGREES F,.1,MG/L
+08/03/2011,21,FEET,54.8,DEGREES F,.1,MG/L
+08/29/2011,0,FEET,73.7,DEGREES F,5,MG/L
+08/29/2011,3,FEET,73,DEGREES F,5,MG/L
+08/29/2011,6,FEET,72.6,DEGREES F,6.1,MG/L
+08/29/2011,9,FEET,72.3,DEGREES F,6.2,MG/L
+08/29/2011,12,FEET,71.4,DEGREES F,6.2,MG/L
+08/29/2011,15,FEET,65.1,DEGREES F,2.8,MG/L
+08/29/2011,18,FEET,58.2,DEGREES F,.1,MG/L
+08/29/2011,21,FEET,55.7,DEGREES F,.1,MG/L
+10/02/2011,0,FEET,59.7,DEGREES F,,
+10/02/2011,3,FEET,57.9,DEGREES F,,
+10/02/2011,6,FEET,57.9,DEGREES F,,
+10/02/2011,9,FEET,57.3,DEGREES F,,
+10/02/2011,12,FEET,57.3,DEGREES F,,
+10/02/2011,15,FEET,56.8,DEGREES F,,
+10/02/2011,18,FEET,56.6,DEGREES F,,
+10/02/2011,21,FEET,56.4,DEGREES F,,
+04/01/2012,0,FEET,48.5,DEGREES F,,
+04/01/2012,3,FEET,46.9,DEGREES F,,
+04/01/2012,6,FEET,46.2,DEGREES F,,
+04/01/2012,9,FEET,45.8,DEGREES F,,
+04/01/2012,12,FEET,45.6,DEGREES F,,
+04/01/2012,15,FEET,45.6,DEGREES F,,
+04/01/2012,18,FEET,45.6,DEGREES F,,
+04/12/2012,0,FEET,52.5,DEGREES F,,
+04/12/2012,3,FEET,51.2,DEGREES F,,
+04/12/2012,6,FEET,49.2,DEGREES F,,
+04/12/2012,9,FEET,48,DEGREES F,,
+04/12/2012,12,FEET,47.3,DEGREES F,,
+04/12/2012,15,FEET,47.1,DEGREES F,,
+05/01/2012,0,FEET,55.2,DEGREES F,,
+05/01/2012,3,FEET,54.3,DEGREES F,,
+05/01/2012,6,FEET,54.3,DEGREES F,,
+05/01/2012,9,FEET,54.1,DEGREES F,,
+05/01/2012,12,FEET,53.6,DEGREES F,,
+05/01/2012,15,FEET,51.6,DEGREES F,,
+05/01/2012,18,FEET,50.7,DEGREES F,,
+05/01/2012,21,FEET,50.7,DEGREES F,,
+05/16/2012,0,FEET,66,DEGREES F,,
+05/16/2012,3,FEET,64.7,DEGREES F,,
+05/16/2012,6,FEET,63.6,DEGREES F,,
+05/16/2012,9,FEET,61.5,DEGREES F,,
+05/16/2012,12,FEET,59,DEGREES F,,
+05/16/2012,15,FEET,54.8,DEGREES F,,
+05/16/2012,18,FEET,53,DEGREES F,,
+05/16/2012,21,FEET,51.2,DEGREES F,,
+06/27/2012,0,FEET,75.2,DEGREES F,5.5,MG/L
+06/27/2012,3,FEET,74.6,DEGREES F,6.5,MG/L
+06/27/2012,6,FEET,74.1,DEGREES F,7,MG/L
+06/27/2012,9,FEET,73.9,DEGREES F,7,MG/L
+06/27/2012,12,FEET,68.7,DEGREES F,6,MG/L
+06/27/2012,15,FEET,62.6,DEGREES F,2,MG/L
+06/27/2012,18,FEET,56.6,DEGREES F,1.5,MG/L
+06/27/2012,21,FEET,54.6,DEGREES F,,
+07/23/2012,1,FEET,81.6,DEGREES F,5,MG/L
+07/23/2012,3,FEET,80.9,DEGREES F,6.5,MG/L
+07/23/2012,6,FEET,79.1,DEGREES F,7,MG/L
+07/23/2012,9,FEET,78.6,DEGREES F,6.5,MG/L
+07/23/2012,12,FEET,75,DEGREES F,3,MG/L
+07/23/2012,15,FEET,65.8,DEGREES F,1.5,MG/L
+07/23/2012,18,FEET,57.9,DEGREES F,1.5,MG/L
+07/23/2012,21,FEET,55.2,DEGREES F,,
+08/27/2012,0,FEET,74.1,DEGREES F,6,MG/L
+08/27/2012,3,FEET,73.7,DEGREES F,5.7,MG/L
+08/27/2012,6,FEET,73.2,DEGREES F,4.2,MG/L
+08/27/2012,9,FEET,72.6,DEGREES F,5.8,MG/L
+08/27/2012,12,FEET,71,DEGREES F,3.6,MG/L
+08/27/2012,15,FEET,67.8,DEGREES F,2.6,MG/L
+08/27/2012,18,FEET,62.6,DEGREES F,1,MG/L
+08/27/2012,21,FEET,58.4,DEGREES F,.1,MG/L
+05/28/2013,1,FEET,60.6,DEGREES F,,
+05/28/2013,3,FEET,60.6,DEGREES F,,
+05/28/2013,6,FEET,60.4,DEGREES F,,
+05/28/2013,9,FEET,58.1,DEGREES F,,
+05/28/2013,12,FEET,53.6,DEGREES F,,
+05/28/2013,15,FEET,50.3,DEGREES F,,
+05/28/2013,18,FEET,46.9,DEGREES F,,
+05/28/2013,21,FEET,46.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/12/2001,A few dead bluegills - debris floating.    
+06/22/2001,Less debris - leaves - weeds.    
+07/16/2001,Somewhat less murky.  Scummy near shoreline.    
+08/03/2001,Murky - scummy near shore.    
+08/20/2001,Not clean - scummy near shore.    
+08/28/2001,Scummy near shore.    
+09/20/2001,Slightly low.    
+05/14/2003,No blue herons.  Only 2 wood ducks.  Lake iced over 11/14/2002.  Ice out 4/14/2003.    
+06/15/2003,Somewhat cleaner.    
+07/30/2003,Much clearer this year.    
+06/06/2004,Ice over 11/8/2003.  
+Ice off 11/12/2003.
+Ice over 11/26/2003 (Second time).
+Ice off 4/17/2004.    
+05/30/2005,down about 2-3"    
+06/21/2005,somewhat cleaner    
+07/22/2005,cleaner and clear lake water    
+06/03/2006,sunny day
+06/26/2006,sunny
+07/10/2006,sunny- no rain
+08/10/2006,sunny- lake lavel low
+06/29/2007,Ice off April 01- 2007
+Sunny and calm
+07/16/2007,Sunny and calm
+07/29/2007,Sunny. Dirty water.
+08/30/2007,Sunny
+10/04/2007,Sunny and breezy. Lake level is up some.
+07/01/2008,Sunny- calm. 
+07/14/2008,sunny- calm.
+07/21/2008,sunny- calm. clearer.
+08/01/2008,sunny- calm. Clearer.
+08/15/2008,sunny. Green- dirty- good for boating only. 
+06/10/2009,Sunny
+06/20/2009,Sunny.  Rain on 6-18-09.
+07/03/2009,Sunny
+07/24/2009,Sunny.  Rain on 7-22-09.
+08/25/2009,Sunny.
+06/22/2010,June 24 - 2.5 inches of rain
+June 26 - 4.75 inches of rain 
+Lake very high
+07/16/2010,July 15 - 3.5 inches of rain. 82 degrees.
+08/05/2010,August 7 - 1.85 inches of rain. August 11 - 4.5 inches of rain. August 12 - 1 inch of rain. 
+08/16/2010,1.25 inches of rain. Lake very high.
+09/09/2010,September 16 - 2 inches of rain. September 23 - 2.75 inches of rain. Total Rain for the summer - 30 inches.
+05/11/2011,Stained water which unusal for Barber Lake-- due to rains in past year 
+06/02/2011,May 31 and June 1 very windy. Today clear and a little wind. Brownish cast to water is less each time I sample
+06/20/2011,2 inches rain on 6/17 and 18 (total). today clear. water is clear and green with algae visible
+06/28/2011,Partly Cloudy- Breezy
+07/05/2011,Sunny- air temp 80 degrees. Day after 4th--boat traffic  did not increase turbidity
+07/06/2011,3" inches of rain on 7/09/2011
+07/20/2011,Max air temps past week ranged from high 80's to low 90's. had 3/4 inch rain on 7/16 and  1-3/4 inch rain on 7/19 with strong storms. Today sunny and warm with air temp of 85 at 11:00 am
+08/03/2011,Strong Storms on 8/01 and 02 with 3.75 inches rain. Today clear and slightly breezy with algae visible in water
+08/12/2011,3.75" inches of rain on 08/01/2011
+1" of rain on 08/08/2011
+08/16/2011,Sunny and breezy
+08/29/2011,Sunny. Sampled at 11:00 am had somewhat low D.O. at surface. Probably due to time of day and major algal bloom. Bluegreen accumulating on surface of windblown bays.
+09/13/2011,Cold- sunny and breezy. Air temp 58 degrees at 11:00 am 
+10/02/2011,sunny- cloudless skies- air temp 70. Number of cold nights . No stratification 
+04/01/2012,Returned from Illinois on 3/23. Ice was off and neighbor indicated ice off was about 3/15. Very warm late winter. Today sunny with air temp of 62 degrees
+04/12/2012,No wind- no clouds and air temp 58 degrees
+05/01/2012,breezy- air temp 70 degrees- partly cloudy
+05/12/2012,sunny
+05/16/2012,sunny- slight breeze- air temp 65 degrees
+06/05/2012,calm 
+ice on lake for 111 days- first sign of ice off was 3/20/2012 - earliest ever
+06/07/2012,partly cloudy- breezy- air temp 80 degrees
+06/27/2012,Sunny- breezy- air temp 80 degree
+07/14/2012,Parly Cloudy- air temp 80 degrees- slight breeze
+07/23/2012,Breezy- no clouds- wam air temp of 80 degrees
+08/06/2012,Sunny and bright- no clouds; breezy
+08/13/2012,Partly Cloudy- Calm and Air Temperature72 degrees
+08/27/2012,Sunny- slight breeze- air temp 72 degrees
+09/09/2012,Partly cloudy- breezy- algae visible in water
+09/26/2012,breezy- partly cloudy
+05/28/2013,Water was brownish in color and murky. Probably due to high lake level and  tannins in heavy winter snow and rainfall runoff.
+06/02/2013,Sunny
+06/25/2013,Sunny
+07/23/2013,Sunny
+08/11/2013,Sunny and calm
+09/26/2013,Sunny and calm
+05/23/2014,sunny and calm; ice off on May 3rd- 2014 (ice on date was Nov 15- 2013)
+06/25/2014,calm and sunny
+07/26/2014,very clear water -- collector's personal best reading ever; calm; sunny
+06/27/2015,sunny
+07/20/2015,slight breeze
+
+
+
+
+Start Date,Group Name,Project Name
+06/12/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/22/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/05/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/16/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/25/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/03/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/20/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/28/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/04/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/20/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/26/2001,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/14/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/01/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/15/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/04/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/18/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/30/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/15/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/05/2003,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/06/2004,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/14/2004,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/15/2004,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/06/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/30/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/15/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/21/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/22/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/29/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/14/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/03/2005,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/03/2006,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/26/2006,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/10/2006,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/10/2006,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/29/2007,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/16/2007,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/29/2007,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/30/2007,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+10/04/2007,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/01/2008,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/14/2008,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/21/2008,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/01/2008,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/15/2008,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/12/2008,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/10/2009,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/20/2009,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/03/2009,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/24/2009,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/25/2009,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/18/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/22/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/16/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/05/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/16/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/09/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+10/07/2010,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/11/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/24/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/02/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/05/2011,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/20/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/24/2011,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/28/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/05/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/06/2011,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/20/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/21/2011,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/03/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/12/2011,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/16/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/29/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/03/2011,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/13/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+10/02/2011,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+04/01/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+04/12/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/01/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/12/2012,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/16/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/05/2012,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/07/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/22/2012,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/27/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/14/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/17/2012,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/23/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/06/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/09/2012,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/13/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/27/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/09/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/10/2012,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/26/2012,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/28/2013,Peter Howe,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/02/2013,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/25/2013,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/23/2013,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/11/2013,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/26/2013,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+05/23/2014,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/25/2014,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/26/2014,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/10/2015,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+06/27/2015,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/20/2015,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/12/2015,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/03/2016,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+08/01/2016,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/02/2016,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+07/23/2017,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin
+09/03/2017,Orv Torgerson,Citizen Lake Monitoring - Water Quality - Barber Lake; North Basin

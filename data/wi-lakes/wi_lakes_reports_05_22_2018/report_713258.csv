@@ -1,0 +1,79 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Butte des Morts,Winnebago,139900,NE,71,,713258,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7873025,04/22/1991,3.1,,0.95,,47,61,58,,,,,,
+1,05/02/1991,,,,,93,,63,,,,,,
+1,05/15/1991,2.1,,0.65,,87,66,63,,,,,,
+1,05/31/1991,1.5,,0.45,,109,71,64,,,,,,
+1,06/12/1991,1.1,,0.35,,126,75,66,,,,,,
+1,06/25/1991,1.2,,0.37,,93,74,63,,,,,,
+1,07/09/1991,1.5,,0.46,,96,71,63,,,,,,
+1,07/24/1991,1.2,,0.37,,114,74,65,,,,,,
+7873025,08/06/1991,1.1,,0.34,,104,76,64,,,,,,
+7873025,08/21/1991,1.9,,0.57,,87,68,63,,,,,,
+1,08/22/1994,1.7,,0.53,48.5,,69,,64,,,,,
+1,04/19/1995,,,,30.6,,,,61,,,,,
+1,05/03/1995,,,,24.1,,,,59,,,,,
+1,05/17/1995,,,,42.2,,,,63,,,,,
+1,06/01/1995,,,,37.1,,,,62,,,,,
+1,06/14/1995,,,,77.2,,,,68,,,,,
+1,07/11/1995,,,,0.12,,,,19,,,,,
+1,07/26/1995,,,,0.98,,,,35,,,,,
+1,08/11/1995,,,,91,,,,69,,,,,
+1,08/21/1995,,,,40.7,,,,63,,,,,
+62404880,05/31/2016,3.4,YES,1,,83,59,62,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,07/18/2016,1.9,NO,0.6,59.8,90.7,68,63,66,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,08/16/2016,1.8,NO,0.5,75.4,45.6,69,58,67,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,09/16/2016,,,,48.8,112,,65,64,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/31/2016,1,METERS,23.6,DEGREES C,6.06,MG/L
+07/18/2016,1,METERS,25.7,DEGREES C,10.11,MG/L
+08/16/2016,1,METERS,27.3,DEGREES C,9.48,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/22/1994,DEPTH    
+05/17/1995,COMPOSITE SAMPLE OF WATER COLUMN: 0-1.25M DEPTH    
+06/01/1995,DEPTH    
+07/26/1995,0-1.25M DEPTH    
+08/11/1995,COMPOSITE SAMPLE OF WATER COLUMN: 0-1.25M DEPTH    
+08/21/1995,COMPOSITE SAMPLE OF WATER COLUMN: 0-1.25M DEPTH    
+
+
+
+
+Start Date,Group Name,Project Name
+04/22/1991,RICHARD KAHL,LAKE NUTRIENTS BUTTE DES MORTS
+05/02/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+05/15/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+05/31/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+06/12/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+06/25/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+07/09/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+07/24/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+08/06/1991,RICHARD KAHL,LAKE NUTRIENTS BUTTE DES MORTS
+08/21/1991,RICHARD KAHL,LAKE NUTRIENTS BUTTE DES MORTS
+08/22/1994,Data Collectors,WINNEBAGO SYSTEM LAKES
+04/19/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+05/03/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+05/17/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+06/01/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+06/14/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+07/11/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+07/26/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+08/11/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+08/21/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+05/31/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+07/18/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+08/16/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+09/16/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment

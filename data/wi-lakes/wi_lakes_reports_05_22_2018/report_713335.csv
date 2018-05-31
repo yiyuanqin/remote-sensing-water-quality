@@ -1,0 +1,864 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Winnebago,Winnebago,131100,NE,71,,713335,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18137983,06/19/2005,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,06/26/2005,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,07/04/2005,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,07/16/2005,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,07/24/2005,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,07/31/2005,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/06/2005,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/14/2005,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/21/2005,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/27/2005,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/03/2005,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/11/2005,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/17/2005,1.25,NO,0.4,,,74,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,09/25/2005,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/16/2005,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,11/05/2005,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,04/15/2006,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,04/23/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137983,05/07/2006,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137983,05/13/2006,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,05/22/2006,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137983,05/27/2006,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137983,06/03/2006,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,06/11/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,06/18/2006,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,07/02/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/09/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/15/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/22/2006,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,07/29/2006,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/05/2006,2.75,NO,0.8,,,63,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/12/2006,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/16/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/20/2006,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/27/2006,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,09/02/2006,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/23/2006,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/30/2006,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/15/2006,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/29/2006,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,11/04/2006,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,11/18/2006,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,11/23/2006,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,04/14/2007,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,06/16/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,06/24/2007,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137983,06/30/2007,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137983,07/07/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137983,07/15/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,07/21/2007,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18137983,07/27/2007,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/12/2007,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/25/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/02/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/08/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/06/2007,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/13/2007,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,04/20/2008,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+18137983,05/10/2008,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137983,05/24/2008,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+18137983,07/04/2008,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,07/20/2008,4,NO,1.2,,,57,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+18137983,07/26/2008,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/03/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/17/2008,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,09/06/2008,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,09/21/2008,1.25,NO,0.4,,,74,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,05/03/2009,4.25,NO,1.3,,,56,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/31/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,06/14/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,06/27/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,07/03/2009,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/08/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/23/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/06/2009,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/13/2009,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/26/2009,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/25/2009,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/14/2009,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/21/2009,5.75,NO,1.7,,,52,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,11/27/2009,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,04/11/2010,3,NO,0.9,,,61,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/09/2010,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/15/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,05/20/2010,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,05/29/2010,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,06/05/2010,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,06/20/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137983,07/17/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+18137983,07/25/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/22/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/18/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/10/2010,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/24/2010,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/20/2010,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/08/2011,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/31/2011,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,06/12/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,06/25/2011,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,07/04/2011,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,07/12/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,07/17/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,07/24/2011,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/06/2011,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18137983,08/20/2011,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/28/2011,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/03/2011,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/24/2011,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/02/2011,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/09/2011,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/22/2011,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,10/29/2011,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/19/2011,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,03/18/2012,5,NO,1.5,,,54,,,LOW,,,BROWN,5-Enjoyment substantially impaired (algae)
+18137983,04/21/2012,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137983,05/13/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,06/09/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137983,06/17/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137983,07/28/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/06/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,08/19/2012,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,08/28/2012,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,09/12/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/27/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/03/2012,2.75,NO,0.8,,,63,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/12/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,10/20/2012,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,12/05/2012,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,01/26/2013,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,
+18137983,04/28/2013,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/07/2013,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,05/18/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,06/08/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,06/23/2013,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,06/30/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,07/07/2013,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,07/14/2013,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/03/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/23/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,09/07/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/29/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/06/2013,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/13/2013,3.25,NO,1,,,60,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,11/02/2013,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/17/2013,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/11/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,05/31/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137983,07/03/2014,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,07/12/2014,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,08/02/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/10/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/07/2014,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,09/13/2014,2,NO,0.6,,,67,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/26/2014,4.25,NO,1.3,,,56,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/16/2015,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,05/23/2015,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,06/06/2015,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,06/27/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/04/2015,3, ,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/11/2015,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/19/2015,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/09/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,08/30/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/05/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,09/20/2015,2.5,NO,0.8,,,64,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,10/05/2015,0,NO,0,,,,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18137983,10/25/2015,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/11/2015,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,11/21/2015,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/29/2015,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,12/06/2015,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,12/12/2015,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,12/22/2015,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,12/27/2015,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,03/20/2016,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,03/27/2016,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,04/09/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,04/16/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,04/23/2016,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,05/08/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/21/2016,15,YES,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,05/30/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137983,06/17/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,06/24/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,07/02/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/23/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/06/2016,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/26/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,09/11/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,09/17/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,10/30/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,11/20/2016,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,12/03/2016,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,04/01/2017,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,04/15/2017,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,04/22/2017,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,05/03/2017,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137983,05/28/2017,,NO,,,,,,,NORMAL,11,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137983,06/04/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137983,06/17/2017,5,,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/04/2017,5,,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/15/2017,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/23/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,07/30/2017,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,08/05/2017,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18137983,09/16/2017,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137983,10/29/2017,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18137983,11/12/2017,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137983,11/18/2017,3,,0.9,,,61,,,LOW,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+18137983,11/25/2017,4.25,NO,1.3,,,56,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/19/2005,Sunny- breezy- NE winds- 10 mph
+06/26/2005,Hazy- SE winds- 7 mph
+07/04/2005,Cloudy- SE wind- 5 mph
+07/16/2005,Partly cloudy- SE wind- 10 mph
+07/24/2005,Mostly cloudy-  west wind- 10 mph
+07/31/2005,Breezy
+08/06/2005,Light SW wind
+08/14/2005,East wind- 8 mph
+08/21/2005,South west wind- 10 mph
+08/27/2005,West wind- 10 mph
+09/03/2005,East wind- 5 mph
+09/11/2005,Southwest wind- 10 mph
+09/17/2005,Southeast wind- 3 mph
+09/25/2005,Northeast wind- 10 mph
+10/16/2005,Northwest wind- 5 mph
+11/05/2005,Northeast wind- 9 mph- cloudy
+04/15/2006,Clear- 65 degrees- ESE wind 5-10 mph
+04/23/2006,Mostly cloudy- 50 degrees- WNW wind 10-15 mph- past several days winds were light NW
+05/07/2006,Clear- SW wind 10 mph
+05/13/2006,Light rain- E NE wind- 10-15 mph- 49 degrees- past 3 days high N winds- 4 inches rain to date- below normal temperatures
+05/22/2006,Mostly sunny- 65 degrees- SE wind 5-10 mph
+05/27/2006,Hazy- SE wind 12 mph- 81 degrees- loon sited- Satellte Path 24
+06/03/2006,Clear- sunny- 73 degrees- N NE wind- 11 mph
+06/11/2006,Partly cloudy- 63 degrees- E NE wind 5 mph- water temperature/surface 69 degrees- 1 loon in area Partly cloudy- 63 degrees- E NE wind 5 mph- water temperature/surface 69 degrees- 1 loon in area
+06/18/2006,Cloudy- light rain- W SW wind 9 mph- 72 degrees- water temperature 72 degrees- strong S winds last 3 days
+07/02/2006,Mostly sunny- 85 degrees- W 10-12 mph- water temperature 72 degrees
+07/09/2006,Clear- W wind 8 mph- 85 degrees
+07/15/2006,Clear- hot- 90 degrees- SW wind 10 mph- water temperature 83 degrees- Satellite Path 23
+07/22/2006,Mostly sunny- light NW wind- 75 degrees- Satellite Path 24
+07/29/2006,Cloudy- 85 degrees- S SW wind 5-10 mph- water temperature 80 degrees
+08/05/2006,Cloudy- S SW wind 10 mph- 81 degrees- water temperature 80 degrees
+08/12/2006,Mostly sunny- 75 degrees- S SE wind 5 mph- water temperature 76 degrees
+08/16/2006,Clear- calm- 80 degrees- water temperature 75 degrees- Satellite Path 23
+08/20/2006,Partly sunny- 75 degrees- E wind 5 mph- water temperature 75 degrees
+08/27/2006,Partly cloudy- 77 degrees- NE wind 8 mph- water temperature 74 degrees- bay is full of seagulls floating on water. Interesting note: water level in front of our house is 3.5 feet.
+09/02/2006,Partly sunny- 73 degrees- NE wind 12 mph- water temperature 71 degrees
+09/23/2006,Partly cloudy- 61 degrees- S SW wind 8 mph- water temperature 60 degrees
+09/30/2006,Partly cloudy- 62 degrees- NW wind 12 mph- water temperature 56 degrees- bald eagle
+10/15/2006,Mostly sunny- 54 degrees- W SW wind 10-15 mph- water temperature 48 degrees
+10/29/2006,Sunny- 49 degrees- light west wind 5-7 mph- water temperature 44 degrees
+11/04/2006,Cloudy- 51 degrees-  S SW wind 7 mph- water temperature 41 degrees
+11/18/2006,Cloudy- 41 degrees- N wind 8 mph- water temperature 40 degrees
+11/23/2006,Hazy- 36 degrees- calm wind- water temperature 38 degrees- scattered light ice patches on surface
+04/14/2007,Hazy- calm- air temp 40 degrees- surface water temp. 37 degrees
+06/16/2007,Mostly cloudy- NW wind at 7 mph- surface water temp. 78 degrees- air temp. 82 degrees
+06/24/2007,Clear- air temp 75 degrees- water surface temp 75 degrees- wind E at 9 mph
+06/30/2007,Partly cloudy- NE wind at 3 MPH
+07/07/2007,Clear- water surface temp 76 degrees- air temp 81 degrees- wind SW at 8 mph
+07/15/2007,Air temp 75 degrees- partly cloudy- water surface temp. 72 degrees
+07/21/2007,Clear- calm- 75 degrees
+07/27/2007,Cloudy- 75 degrees- north wind at 7 mph
+08/12/2007,mostly sunny- 83 degrees- H20 temp. 78 degrees- north wind at 6 mph
+08/25/2007,south wind at 10 mph
+clear- visibilty 10 miles
+75 degrees air- 70 degrees water temp
+09/02/2007,east wind at 10 mph
+mostly sunny
+09/08/2007,sw 5 mph- 72 degrees-partly sunny
+10/06/2007,partly cloudy- hazy- wind SW at 11 mph- temp 82 degrees
+10/13/2007,NW wind at 8 mph
+57 degrees
+Sunny skies
+05/10/2008,loon
+05/24/2008,hazy- 66 degrees-ENE wind at 7 mph- visibility 10 miles
+07/04/2008,75 degrees- wind SE 5-10
+07/20/2008,77 degrees- humidity 72%- west wind at 2 mph-partly cloudy
+07/26/2008,mostly sunny- light winds
+08/03/2008,mostly sunny- 81 degrees- SE 13 Mph
+08/17/2008,mostly sunny 87 degreed water temp 68
+SW wind at 7 mph
+56% humidity
+09/06/2008,west wind at 8mph and increasing
+clear but solid clouds moving in
+water temp 62 degrees
+09/21/2008,light Ne wind 2 mph- hazy clear skies- 70 degrees
+05/03/2009,Breezy west wind 10 mph
+61 degrees
+partly sunny
+05/31/2009,mostly sunny- east winds 10 mph
+63 degrees
+06/14/2009,73 degrees- mostly sunny- west wind at 5 mph
+one male loon
+06/27/2009,partly sunny- light wind
+07/03/2009,light east wind- partly sunny- 75 degrees
+water is cleaner closer to shore- 12 feet visibilty
+08/23/2009,calm- mostly cloudy- 64 degrees
+09/06/2009,mostly sunny- 77 degreed- wind light east 5mph
+09/13/2009,sunny- beautiful seems like summer yet
+lots of seagulls in the bay
+light winds se 3 mph
+09/26/2009,mostly sunny- winds calm to 5 mph- weather will change to much cooler on Sunday- dock removed today-  65 degrees
+10/25/2009,mostly cloudy- calm wind- 50 degrees
+11/14/2009,mostly cloudy- light SW wind- almost calm. 50 degreed
+11/21/2009,very hazy- warm- 52 degrees
+64% humidity- light SSW wind about 5-8 mph
+lots of geese in front of WMHI
+11/27/2009,sunny- wind light and variable- water temp. 46 degrees- air temp 43 degrees- all docks are out- flocks of geese out distant in the bay
+
+only one motor boat visible
+04/11/2010,hazy wind SSW at 7- 58 degrees
+05/09/2010,partly sunny
+52 degrees
+5-8 SSE wind
+05/15/2010,hazy sun
+59 degrees
+East at 4 MPH
+05/20/2010,hazy sun- 78 degrees
+31% humidity- dewpoint 44
+SE 3-5   30.03 S  Visibility 10 miles
+the most clear water i have tested in 5 years.
+05/29/2010,29% humidity
+SE 12 mph
+85 degrees
+sunny
+06/05/2010,calm wind
+50%humidity
+dewpoint 57
+29.71 steady pressure
+visibility 10 miles
+78 degrees
+06/20/2010,partly sunny
+57% humidity
+South 4 MPH
+74 degrees
+Pressure 29.93 steady
+07/17/2010,57% humidity- South wind at 4 MPH
+29.93 steady pressure- visability 10 miles
+partly sunny
+heavy rains causing water to cloud up now...... Clear sky- wind west at 10-15
+85 degrees- 49% humidity
+heavy rains have clouded the water now....
+07/25/2010,Sunny- 81 degrees- SSW4- 39% humidity
+Record rainfall for Oshkosh in July since 1919.
+08/22/2010,sunny- 70 degrees- 67% humidity- south wind at 6 mph
+09/18/2010,61 degrees- 44% humidity- partly cloudy- west wint at 5 mph
+large fire on the east side of the lake- directly west of I18 site.
+10/10/2010,calm wind- hazy-63% humidity
+dewpoint 54- 67 degrees F- 19 degrees C
+visibility 10 miles- hazy
+closer to shore- water is more clear- more than 5 feet visibility
+10/24/2010,SW wind 8 MPH- overcast- visibility 7 miles
+87% humidity- 61 degrees F
+Barometer 29.65
+Dewpoint 57 degrees
+11/20/2010,28 degrees- wind chill 19 degrees
+north wind at 9 mph
+46% humidity- thick haze sky
+dewpoint 13 degrees
+Pressure 30.34 Steady
+10 miles visibility
+thin layer of ice coating the kayak sides and deck
+05/08/2011,hazy sky- 62 degrees- 46% humidity- light east wind at 5
+05/31/2011,mostly sunny- 86 degrees- south wind at 15 mph
+63% humidity
+06/12/2011,Mostly sunny- northeast wind at 11 MPH
+63 degrees- 55%humidity
+06/25/2011,mostly sunny- wind light east at 5
+44%humidity- dew point 55
+07/04/2011,mostly sunny- light SW wind
+41%humidity- 82 degrees
+07/12/2011,76 degrees   mostly cloudy   WNW at 7 mph   56% humidity
+59 dewpoint   vis. 10 miles
+07/17/2011,hazy hot 85 degrees   SW wind at 6 mph   76% humidity   dewpoint 77
+heat index 96 degrees  vis. 6 miles
+07/24/2011,mostly sunny   76 degrees   NE wind at 5 mph   77% humidity
+dewpoint 68  vis. 7 miles
+08/06/2011,Blue green algae
+Partly sunny- 82 degrees  East wind 4 MPH
+Dewpoint 66- 59% humidity- 84 degrees heat index
+Visability 10 miles- barometer 29.85 steady
+08/20/2011,75 degrees- sunny- 47% humidity
+dewpoint 54 degrees
+west wind 4 mph
+barometer 29.95 steady
+visibility 10 miles
+08/28/2011,mostly sunny- 72 degrees- humidity 44%
+Northeast wind at 8 mph
+Barometer 29.98
+Dewpoint 49 degrees
+visibility 10 miles
+09/03/2011,light rain- 75 degrees-84%humidity
+barometer 29.90
+dewpoint 70 degrees
+visibility 10 miles
+south wind 8 mph
+09/24/2011,mostly cloudy- pressure 30.05 steady- 60 degrees
+66% humidity- dewpoint 49- 10 miles visibility
+NE wind at 13 mph
+10/02/2011,sunny 62 degrees- 44% humidity- dewpoint 38 degrees
+visibility 10 miles- SW wind at 3 MPH- barometer 30.22
+10/09/2011,clear- 78 degrees 30.29 pressure
+full week of summer like weather
+47% humidity- wind south 8 mph
+dewpoint 56 degrees
+visibility 10 miles
+10/22/2011,mostly sunny- 52 degrees- 55% humidity- wind north at 3 mph
+barometer 30.03- visibility 10 miles- dew point 36 degrees
+10/29/2011,48 degrees- fair sky- 54% humidity- northwest wind at 9 mph
+barometer 30.05- visibility 10 miles- dewpoint 32 degrees
+wind chill 32 degrees
+11/19/2011,overcast- 43 degrees- 65% humidity- barometer 29.70
+South wind at 8 mpg- visibility 10 miles- dewpoint 32 degrees
+
+I am the only one on the lake except for a large flock of geese (over 100)
+03/18/2012,hazy- MAJOR fish kill
+barometer 29.98- 77 degrees- south wind at 15 mph- 56% humdity
+04/21/2012,mostly sunny- 50 degrees- ENE wind at 6 mph- 47% humidity
+pelicans are back
+geese nesting on Garlic Island- comorants nests are all empty might be due to a animal I saw in the trees- looked like a large wood chuck 
+05/13/2012,mostly sunny- 32% humidity- dew point 37 degrees- 68 degrees- pressure 30.10
+southwest wind at 7 mph
+06/09/2012,34% humidity- SW16 mph- 84 degrees-mostly clear
+06/17/2012,mostly sunny- 80 degrees- WNW 10 mph
+37% humidity- dewpoint 51
+07/28/2012,Sunny- wind NE 5 mph- dewpoint 56 degrees- 73 degrees- 55% humidity- 30.16 ins. pressure- visibilty 10 miles
+08/06/2012,82 degrees- clear- 35% humidity- SSW 10 mph
+30.05 inches- dew point 52 degrees
+visibility 10 miles
+08/19/2012,69 degrees- partly cloudy- 61% humidity- 29.87 inches
+East wind at 2 mph- dewpoint 55 degrees- visibility 10 miles
+08/28/2012,77 degrees- mostly sunny- NE 4 mph
+54% humidity- 30.17 inches- 59 degrees dewpoint
+visability 10 miles
+09/12/2012,85 degrees- partly sunny- West 7 mph
+39% humidity- 30.05 inches- dewpoint 58 degrees
+vis. 10 miles
+09/27/2012,Mostly cloudy- 52 degrees- 79% humidity- North wind at 3 mph
+30.30 inches pressure- dew point 45 degrees- visibility 10 miles
+10/03/2012,Hazy sun- 70 degrees- 42% humidity- 29.93 in. pressure
+NNe wind at 3 mph- dewpoint 46 degrees- 7 miles visibility
+10/12/2012,sunny- 45 degrees- humidity 33%- pressure 30.46 inches
+NE wind at 3 mph- dew point 17 degrees- visability 10 miles
+10/20/2012,mostly cloudy- 53 degrees- 64% humidity- NW wind at 3 mph
+29.79 in. pressure- visability 10 miles
+12/05/2012,hazy sun- barometer 30.43 inches- humdity 66%- NE 7 mph
+dewpoint 18 degrees- vis. 10 miles- wind chill 21 degrees
+
+still some ducks and geese on the bay- kayak icing
+01/26/2013,Sunny- 16 degrees- wind west 4 mph
+67% humidity- dewpoint 8 degrees
+Pressure 30.35 inches rising
+Visibility 10 miles
+UV level 2 low
+04/28/2013,partly cloudy- 61 degrees- dewpoint 37 degrees
+Humdity 40%- 29.92 inches and falling.  UV 3
+10 miles visibility
+Wind light- NE 0-3 mph
+05/07/2013,Sunny- 40 degrees dewpoint- 74 degrees- wind calm- 37% humidity
+visability 10 miles- pressure 29.98 inches
+05/18/2013,Hazy- dewpoint 58 degrees- 68 degreesm ENE 7 mph
+Vusability 9 miles- 65% humdity- pressure 30.06
+UV 6
+06/08/2013,Mostly cloudy- 68 degrees- wind NNW 8 mph
+44% humidity- dewpoint 45 degrees- pressure 29.99
+10 miles visability
+06/23/2013,76 degrees- partly cloudy- pressure 29.92- wind SSW  mph
+Dewpoint 65 degrees- humidity 68%- visability 9 miles
+07/07/2013,81 degrees- SSW 7 mph- 65% 
+humidity- dew point 68 degrees  visibility 9 miles
+UV 6- mostly cloudy   29.95
+07/14/2013,South wind 7 mph- 75 degrees- 62% humidity- 67 degrees dewpoint- 30.23 pressure
+10 mi. vis.  Uv5
+08/23/2013,wind 9 mph east- 57 degrees dew point- 10 mi. vis-
+UV 5- 79 degrees- clear sky
+09/07/2013,77 degrees- partly cloudy- wind south at 10 mph
+78% humidity- 69 degrees dewpoint- barometer 29.90
+8 mi. visibility- UV is 5
+09/29/2013,65 degrees- clear sky- wind 4 mph west- 41% humidity- dewpoint 41 degrees
+30.05 pressure- visability 10 miles- UV 5
+10/06/2013,57 degrees- dewpoint 38 degrees- 50% humidity
+Wind west 8 mph- visability 10 miles- SUV 3
+10/13/2013,54 degrees F                                              UV Level 3 - Moderate
+Wind from NW 11 mph                               Visibility 10 miles
+65% humidity                                               This past week- the water has been extremely green- the worse it has been all 
+dew point 43 degrees                                 summer.  
+pressure 30.35 increasing
+11/17/2013,NW wind 3 mph- 74% humidity- 50 degrees
+42 degrees dewpoint- UV zero- solid clouds
+29.18 inches pressure Solid clouds- 50 degrees- wind NW 3
+74% humdity- UV zero
+29.18 pressure
+dewpoint 43 degrees  Clouds Nw 3 mph- 74% humidity
+50 degrees
+dewpoint 42 degrees- 29.18 pressure
+UV0
+05/31/2014,Clear- 83 degrees- 40% humidity- UV 10-SSW 10 mph
+07/03/2014,UV 5 partly sunny- wind WNW 8mph- 74 degrees- 47 degrees dew point- humidity 38%
+07/12/2014,76 degrees- dew point 68 degrees- humidity 80%
+UV 4- cloudy- wind SE 5 mph 29.94 inches- vis.10 miles
+08/02/2014,NE wind at 3 mph- 76 degrees- dew point 61 degrees- hazy sun- 59% humidity-30.12 inches- visibility 9 miles
+08/10/2014,73 degrees- dew point 64 degrees
+Partly sunny- UV 6
+73% humidity- 30.08 inches- vis.10 miles
+lake fly hatch
+09/07/2014,74 degrees- sunny- wind SW 5 mph- 49% humidity- dew point 55 degrees
+visibility 10 miles
+09/13/2014,COLD!  54 degrees- dewpoint 34 degrees- partly sunny- wind northwest 8 mph- 47% humidity UV 3
+10/26/2014,55 Degrees- sunny
+43% humidity- dew point 35 degrees
+WSW 6 mph
+UV 3
+05/16/2015,30 pressure- 72 degrees- partly cloudy
+Wind East at 12 mph
+69% humidity- dew point 61 degrees
+Visibility 9 miles- UV 8
+05/23/2015,Partly cloudy- 77 degrees
+SW 10 mph
+23% humidity- dewpoint 37 degrees
+UV 4
+06/06/2015,Visibility 10 miles- mostly sunny- 62 degrees
+SE at 3 mph- 65% humidity- dewpoint 50 degrees- barometer 30"
+UV 7
+06/27/2015,Mostly sunny- 70 degrees
+Wind NNE 5-10 mph
+56% humidity- dewpoint 52 degrees
+UV 4
+visibility 9 miles
+07/04/2015,Very hazy- 71 degrees
+East wind at 5 mph
+73% humidity- dew point 63 degrees
+Visability 6 miles- UV 4
+07/11/2015,partly cloudy- 75 degrees- humidity 65%  Vis. 10 miles
+UV5
+07/19/2015,Sunny- west wind at 11mph with gusts to 20 mph- 77 degrees
+Humidity 51%- dew point 58 degrees
+
+Visibility 10 miles- UV 8
+29.87 inches Sunny- west wind at 11mph with gusts to 20 mph- 77 degrees
+Humidity 51%- dew point 58 degrees
+
+Visibility 10 miles- UV 8
+29.87 inches
+08/09/2015,Visibility 8 miles- partly sunny- wind NNE 3 .2 mph
+Humidity 72%- dewpoint 64 degrees- pressure 29.98 in.
+UV 3
+
+08/30/2015,Hazy fog- 67 degrees- dewpoint 65 degrees- 87% humidity
+SW 7 mph- visability 5 miles
+30.08 in. Hazy fog- 67 degrees- dewpoint 65 degrees- 87% humidity
+SW 7 mph- visibility 5 miles
+30.08 in.
+09/05/2015,partly sunny- 80 degrees- 90% humidity
+29090 in.  UV3- visibility 6 miles
+dewpoint 70 degrees
+
+09/20/2015,Partly cloudy- 67 degrees- 30.17 in. pressure
+Visability 10 miles- dew point 49 degrees- 51% humidity
+UV 6- Wind South 5 mph
+10/05/2015,62 degrees- calm winds- overcast
+Visabiity 10 miles- 85% humidity- UV - zero- dewpoint 53 degrees
+VERY GREEN water- some blue green algae
+10/25/2015,clear- wind west 5 mph- 49 degrees- 30.35 in. pressure- visibility 9 miles- dew point 37 degrees- 49% humidity
+11/11/2015,Partly cloudy- wind ESE 2 mph- 56 degrees- dew point 44 degrees- 29.76 pressure- visibility 8 miles- UV 3- 62% humidity
+11/21/2015,Hazy to mostly cloudy- 29 degrees- dewpoint 15 degrees- visibility 10 miles- wind north 12 mph- 55% humidity- pressure 30.11.  Forecasted snow stayed south of Oshkosh- no snow here.
+11/29/2015,mostly sunny- 35 degrees- 30.39 in. ressure- 64% humidity-visibility 9 miles- 24 degrees dew point- wind E less than 2 mph
+12/06/2015,Foggy- 34 degrees- lake temp 36 degrees- calm wind- 30.27 in. pressure- 91% humidity- dew point 33 degrees
+12/12/2015,50 degrees. cloudy- ENE 5 mph- 30.06 in. visibility 8 miles- 93% humidity- dew point 38 degrees
+12/22/2015,32 degrees- water temp. 34 degrees- calm wind- 29.84 in.
+visability 3 miles- 93% humidity- dew point 31 degrees-
+large flock of geese on the bay- over 100.
+12/27/2015,Lake temp 34 degrees- air temp 33 degrees
+Mostly cloudy- wind NNE 9 mph- visability 9 miles
+30.38 pressure- dew point 24 degrees
+75% humidity
+Winter Storm Watch (finally some snow )
+03/20/2016,Humidity: 55%
+Pressure: 30.19 in +#8595;
+UV Index: 3
+Cloud Cover: 35%
+Ceiling: 11200 ft
+Dew Point: 25? F
+Visibility: 10 mi
+Partly sunny- 40 degrees
+Wind NNW 10 mph
+Lake water temp. 38 degrees
+
+03/27/2016,overcast- pressure 29.84 inches- wind NW 2 mph- 37 degrees dew point- humidity 87%- temp. 45 degrees
+hundreds of geese and small ducks on the bay- 1 bald eagle
+04/09/2016,29 degrees- partly cloudy- wind SE 4 mph- pressure 30.27 inches- visibility 10 miles- dew point 8 degrees- humidity 40%.
+04/16/2016,72 degrees- pressure 30.30 inches- clear sky- East wind at 2 mph- 33% humidity- dew point 42 degrees- visibility 10 miles
+04/23/2016,60 degrees- wind East 2-5 mph- pressure 30.12 inches- hazy sun- 44% humidity- dew point 38 degrees- visibility 10 miles- UV 3
+05/08/2016,hazy sun (due to Canada fire )  pressure 29.90 inches- 63 degrees- humidity 40%- dew point 35 degrees- ENE wind at 11 mph- UV 6
+05/21/2016,clear sky- 70 degrees- wind ENE 6 mph- pressure 30.16 inches- dew point 45 degrees- humidity 37%- 10 miles visibility- UV 8
+
+lake is the most clear I have seen in several years
+05/30/2016,Clousd cover 35%- 77 degrees- dew point 51 degrees- wind WSW 7 mph- humidity 40%
+06/17/2016,79 degrees- clear sky- pressure 30.10 inches- calm wind- visibility 10 miles- dew point 56 degrees- 45% humidity
+06/24/2016,Sunny- 81 degrees- pressure 30.06 inches- UV 6
+dewpoint 54 degrees- east wind 7 mph- humidity 38%
+07/02/2016,Partly sunny- wind north 5 mph- pressure 30.11 inches
+74 degrees- visibility 10 miles- humidity 42%- dew point 50 degrees
+UV 7
+07/23/2016,hazy- calm- pressure 29.92 inches- 62% humidity- dew point 69 degrees- temp. 83 degrees
+08/06/2016,75 degrees- clear sky- wind NW 10 mph
+08/26/2016,71 degrees- cloudy- 56% humidity- pressure 30.12 inches- dew point 55 degrees calm wind
+09/11/2016,clear sky- wind SW 7 mph- 68 degrees- dew point 52 degrees- UV 5- visibility 10 miles
+09/17/2016,SW wind 12 mph- partly cloudy- 75 degrees- humidity 53%- pressure 29.80 inches- dew point 57 degrees- visibility 10 miles
+10/30/2016,Partly sunny- wind NNW 6 mph- pressure 30.22 inches- humidity 70%- dew point 39 degrees- UV 1- visibility 10 miles.
+11/20/2016,32 degrees- 40 degrees lake temperature.  Wind WNW 9 mph- mostly sunny- UV 1- 49% humidity- pressure 30.34 inches- dew point 15 degrees- visibility 10 miles.
+12/03/2016,32 degrees- lake temp 38 degrees- cloudy- pressure 30.35 inches- 69% humidity- dew point 23 degrees- wind west 5 mph- visibility 10 miles- UV zero
+
+Still about 50 geese present in the bay.
+04/01/2017,Clear sky- 49 degrees- wind east 5 mph- humidity 415- UV 5- dew point 31 degrees- visibility 10 miles
+04/15/2017,partly cloudy/hazy sky- pressure 29.83 inches- wind SSW 15 mph- 65 degrees- dew point 57 degrees- UV 4
+visibility 9 miles.
+04/22/2017,Clear sky- wind east 4 mph- pressure 30.22 inches- 57 degrees
+dew point 31 degrees- humidity 36%  UV6  Water temp at 2 feet is 54 degrees
+05/03/2017,sunny- 60 degrees- calm wind- 36% humidity- dew point 32 degrees- pressure 30.13 inches- visibility 11 miles
+05/28/2017,62 degrees- partly sunny- wind SE 4 mph- visibility 10 miles- humidity 76%- pressure 29.71 inches- dew point 55 degrees- H20 temp 59 degrees.
+06/04/2017,75 degrees- sunny- pressure 29.78 inches- dew point 62 degrees- humidity 59%- UV 6- wind West 6 mph
+06/17/2017,Sunny- 75 degrees- west wind 4 mph
+07/04/2017,Sat. today.  wind east 5 mph- 73 degrees- humidity 59%- pressure 30.11 inches- dew point 60 degrees- visibility 10 miles
+07/15/2017,78 degrees- wind SE 11 mph- dew point 61 degrees- 57% humidity- sunny- pressure 30.02 inches
+07/23/2017,77 degrees- mostly cloudy- UV 4- dew point 64 degrees- 63% humidity- pressure 29.77 inches- wind WNW 7 mph
+07/30/2017,79 degrees- sunny- SSW 8 mph- 52% humidity- dew point 58 degrees- pressure 30.17 inches.  UV 7
+08/05/2017,Partly sunny- 72 degrees- SW 4 mph- visibility 9 miles- pressure 29.99 inches- 63% humidity- dew point 56 degrees- UV 7
+09/16/2017,70 degrees- partly cloudy- SW 8 mph
+10/29/2017,37 degrees- sunny- wind south 5 mph- pressure 29.87 inches- humidity 69%- dew point 28 degrees- vis. 10 miles- UV 2
+11/12/2017,Calm- 38 degrees- partly cloudy- pressure 30.36 inches- 66% humidity- dew point 27 degrees
+11/18/2017,39 degrees- cloudy- pressure 29.62 inches- wind northwest 8 mph- 84% humidity- dew point 33 degrees.  UV 1
+Visibility 10 miles.
+11/25/2017,41 degrees- mostly sunny- pressure 29.98 inches- WNW 14 mph- humidity 48%- dew point 23 degrees- UV 0
+
+
+
+
+Start Date,Group Name,Project Name
+06/19/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/26/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/04/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/16/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/24/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/31/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/06/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/14/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/21/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/27/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/03/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/11/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/17/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/25/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/16/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/05/2005,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/15/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/23/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/07/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/13/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/22/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/27/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/03/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/11/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/18/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/02/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/09/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/15/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/22/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/29/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/05/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/12/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/16/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/20/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/27/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/02/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/23/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/30/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/15/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/29/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/04/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/18/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/23/2006,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/14/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/16/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/24/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/30/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/07/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/15/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/21/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/27/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/12/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/25/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/02/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/08/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/06/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/13/2007,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/20/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/10/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/24/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/04/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/20/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/26/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/03/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/17/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/06/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/21/2008,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/03/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/31/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/14/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/27/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/03/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/08/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/23/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/06/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/13/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/26/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/25/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/14/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/21/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/27/2009,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/11/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/09/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/15/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/20/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/29/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/05/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/20/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/17/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/25/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/22/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/18/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/10/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/24/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/20/2010,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/08/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/31/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/12/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/25/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/04/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/12/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/17/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/24/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/06/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/20/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/28/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/03/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/24/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/02/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/09/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/22/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/29/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/19/2011,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+03/18/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/21/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/13/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/09/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/17/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/28/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/06/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/19/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/28/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/12/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/27/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/03/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/12/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/20/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+12/05/2012,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+01/26/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/28/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/07/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/18/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/08/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/23/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/30/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/07/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/14/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/03/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/23/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/07/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/29/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/06/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/13/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/02/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/17/2013,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/11/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/31/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/03/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/12/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/02/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/10/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/07/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/13/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/26/2014,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/16/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/23/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/06/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/27/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/04/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/11/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/19/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/09/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/30/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/05/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/20/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/05/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/25/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/11/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/21/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/29/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+12/06/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+12/12/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+12/22/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+12/27/2015,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+03/20/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+03/27/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/09/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/16/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/23/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/08/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/21/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/30/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/17/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/24/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/02/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/23/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/06/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/26/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/11/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/17/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/30/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/20/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+12/03/2016,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/01/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/15/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+04/22/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/03/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+05/28/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/04/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+06/17/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/04/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/15/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/23/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+07/30/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+08/05/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+09/16/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+10/29/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/12/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/18/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18
+11/25/2017,Mary Gronlund,Citizen Lake Monitoring - Water Quality - Lake Winnebago; I18

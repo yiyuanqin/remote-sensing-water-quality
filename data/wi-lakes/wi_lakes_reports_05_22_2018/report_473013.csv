@@ -1,0 +1,89 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Silver Birch Lake,Pepin,2054600,WC,47,,473013,SW,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/17/1993,2.5,,0.75,31.3,77,64,62,61,,,,,
+1,07/15/1993,1.6,,0.5,96.2,123,70,65,69,,,,,
+1,08/19/1993,,,,181,230,,70,74,,,,,
+8190046,06/20/1995,5,NO,1.5,,,54,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190046,07/02/1995,4,NO,1.2,,,57,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190046,07/11/1995,5.5,NO,1.7,,,53,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190046,07/29/1995,6,NO,1.8,,,51,,,,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8190046,08/11/1995,6,NO,1.8,,,51,,,,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+1,05/30/1996,2.3,,0.7,73,81,65,62,67,,,,,
+1,06/10/1996,2,,0.6,61.3,93,67,63,66,,,,,
+1,06/19/1996,2,,0.6,82.6,136,67,66,68,,,,,
+1,06/28/1996,1,,0.3,138,138,77,66,72,,,,,
+1,07/02/1996,0.8,,0.25,200,210,80,70,75,,,,,
+1,07/12/1996,0.7,,0.2,380,294,83,72,80,,,,,
+1,07/23/1996,0.3,,0.1,437,453,93,75,81,,,,,
+1,08/08/1996,0.3,,0.1,414,560,93,77,80,,,,,
+1,09/04/1996,0.7,,0.2,181,254,83,71,74,,,,,
+1,10/08/1996,0.8,,0.25,136,194,80,69,72,,,,,
+10589084,07/20/2016,1,N,0.3,203,220,77,70,75,,,MURKY,GREEN,
+10589084,08/24/2016,,,,218,333,,73,76,,,,,
+10589084,09/19/2016,,,,208,306,,72,75,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/17/1993,,,16,C,10.4,MG/L
+07/15/1993,,,24.5,C,17.8,MG/L
+08/19/1993,,,24,C,3.2,MG/L
+05/30/1996,,,16.9,C,18.9,MG/L
+06/10/1996,,,15.8,C,16.4,MG/L
+06/19/1996,,,17.9,C,0.8,MG/L
+06/28/1996,,,17.4,C,1.2,MG/L
+07/02/1996,,,17.9,C,1.3,MG/L
+07/12/1996,,,20.9,C,8.3,MG/L
+07/23/1996,,,23.3,C,11.8,MG/L
+08/08/1996,,,24.3,C,2.32,MG/L
+10/08/1996,,,13.0,C,14.02,MG/L
+07/20/2016,0,METERS,26.91,DEGREES C,11.38,MG/L
+07/20/2016,1,METERS,26.71,DEGREES C,11.13,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/20/1995,Algal bloom.    
+07/11/1995,Algal bloom are nearly gone.    
+07/29/1995,Algae died off-green stuff floating.    
+08/11/1995,Far from clear blue.  Water is some better due to rains.  Green stuff still floating on top of water.    
+06/19/1996,SUMMER SAMPLE    
+06/28/1996,SUMMER SAMPLING    
+07/02/1996,SUMMER SAMPLING    
+07/12/1996,SUMMER SAMPLE    
+07/23/1996,SUMMER SAMPLE    
+09/04/1996,SUMMER SAMPLING    
+09/19/2016,Spiny waterflea sample was collected with Ekman dredge method - 5 aliquots were examined.
+
+
+
+
+Start Date,Group Name,Project Name
+05/17/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/15/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/19/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/20/1995,Rick And Jan Petersonirene Brion,Citizen Lake Monitoring - Water Quality - Silver Birch Lake - Deep Hole
+07/02/1995,Rick And Jan Petersonirene Brion,Citizen Lake Monitoring - Water Quality - Silver Birch Lake - Deep Hole
+07/11/1995,Rick And Jan Petersonirene Brion,Citizen Lake Monitoring - Water Quality - Silver Birch Lake - Deep Hole
+07/29/1995,Rick And Jan Petersonirene Brion,Citizen Lake Monitoring - Water Quality - Silver Birch Lake - Deep Hole
+08/11/1995,Rick And Jan Petersonirene Brion,Citizen Lake Monitoring - Water Quality - Silver Birch Lake - Deep Hole
+05/30/1996,Data Collectors,LAKE EVALUATION
+06/10/1996,Data Collectors,LAKE EVALUATION
+06/19/1996,Data Collectors,LAKE EVALUATION
+06/28/1996,Data Collectors,LAKE EVALUATION
+07/02/1996,Data Collectors,LAKE EVALUATION
+07/12/1996,Data Collectors,LAKE EVALUATION
+07/23/1996,Data Collectors,LAKE EVALUATION
+08/08/1996,Data Collectors,LAKE EVALUATION
+09/04/1996,Data Collectors,LAKE EVALUATION
+10/08/1996,Data Collectors,LAKE EVALUATION
+07/20/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+08/24/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+09/19/2016,Jodi Lepsch,Directed Lakes 2016 Sorge

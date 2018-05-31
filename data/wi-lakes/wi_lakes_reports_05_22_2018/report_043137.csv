@@ -1,0 +1,649 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Owen,Bayfield,2900200,NO,4,,043137,NW,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190733,06/21/1992,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190733,06/30/1992,17.75,NO,5.4,,,36,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190733,07/15/1992,17.5,NO,5.3,,,36,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190733,07/23/1992,18.5,NO,5.6,,,35,,,4"UP,,,BROWN,1-Beautiful, could not be nicer
+8190733,08/05/1992,25.5,NO,7.8,,,30,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190733,08/19/1992,21,NO,6.4,,,33,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190716,09/03/1992,21,NO,6.4,,,33,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190716,09/17/1992,20,NO,6.1,,,34,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189250,10/02/1997,24.5,NO,7.4,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188943,07/12/2003,21,NO,6.4,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189250,08/01/2003,19.5,NO,5.9,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189250,09/04/2003,19.5,NO,5.9,,,34,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189250,09/20/2003,18.5,NO,5.6,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+7000082,07/15/2004,,,,0.81,,,,33,,,,,
+7000082,08/17/2004,,,,2.07,,,,40,,,,,
+7000082,09/20/2004,,,,2.57,,,,42,,,,,
+7000082,05/02/2005,,,,,18,,51,,,,,,
+21947123,08/30/2007,22.5,NO,6.8,,,32,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947132,08/30/2007,25,NO,7.6,,,31,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,09/26/2007,22.5,NO,6.8,,,32,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947132,09/26/2007,21,NO,6.4,,,33,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,06/15/2008,16.25,NO,4.9,,,37,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,07/17/2008,17,NO,5.2,,,36,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21947132,07/17/2008,17.25,NO,5.2,,,36,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,08/02/2008,25.5,NO,7.8,,,30,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,08/18/2008,24,NO,7.3,,,31,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,09/03/2008,24.25,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947132,09/03/2008,25.75,NO,7.8,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,10/05/2008,23.25,NO,7.1,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947132,10/05/2008,24,NO,7.3,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19622257,06/10/2009,20.75,NO,6.3,,,33,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+21947123,06/26/2009,16.5,NO,5,,,37,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+21947123,07/12/2009,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,07/28/2009,16,NO,4.9,,,37,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,08/29/2009,14.75,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,09/14/2009,23,NO,7,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,07/23/2010,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,08/08/2010,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,08/24/2010,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,09/09/2010,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,07/10/2011,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,08/03/2011,23,NO,7,,,32,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,08/28/2011,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21947123,09/05/2011,19,NO,5.8,,,35,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19622257,09/28/2011,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21947123,07/04/2012,19,NO,5.8,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,07/20/2012,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,08/05/2012,18,NO,5.5,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+19622257,08/21/2012,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81534080,05/31/2013,17.1,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+87692283,05/31/2013,,,,1,12.4,,48,35,,,,,
+81534080,06/11/2013,19.8,NO,6,,,34,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+87833380,06/11/2013,,,,1.67,11,,47,39,,,,,
+37730813,06/24/2013,18.45,NO,5.6,,,35,,,HIGH,,CLEAR,BLUE,
+81527017,06/28/2013,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21947123,06/29/2013,17,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37730813,07/08/2013,15.4,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,
+81527017,07/08/2013,,,,3.63,9.68,,46,45,,,,,
+21947123,07/15/2013,17.75,NO,5.4,,,36,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+81534080,07/23/2013,17.2,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37730813,08/12/2013,,,,1.53,7.03,,43,38,,,,,
+81534080,08/12/2013,19,NO,5.8,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,08/25/2013,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+81527040,08/29/2013,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,
+37730813,09/04/2013,24,NO,7.3,1.46,11,31,47,38,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,09/09/2013,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37730813,09/19/2013,25.8,NO,7.8,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37730813,10/07/2013,27.7,NO,8.4,1.12,11.9,29,47,36,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37730813,10/24/2013,20.7,NO,6.3,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/21/2014,,,,,13,,48,,,,,,
+87833487,05/21/2014,9.5,NO,2.9,,,45,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+87833380,06/03/2014,20.5,NO,6.2,,,34,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+99666256,06/03/2014,,,,,2,,34,,,,,,
+87833380,06/17/2014,23.6,NO,7.2,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99666256,06/17/2014,,,,,6,,42,,,,,,
+19622257,07/03/2014,25,NO,7.6,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+99666256,07/10/2014,19.6,NO,6,,8,34,44,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,07/24/2014,,,,,6,,42,,,,,,
+99666250,07/24/2014,21.2,NO,6.4,,,33,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81527017,08/05/2014,21.7,NO,6.6,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99666256,08/05/2014,,,,,6,,42,,,,,,
+1,08/20/2014,,,,,9,,45,,,,,,
+81527017,08/20/2014,25.6,NO,7.8,,,30,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19622257,09/13/2014,26,NO,7.9,,,30,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19622257,06/19/2015,21.25,NO,6.5,,,33,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+21947123,07/05/2015,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,08/06/2015,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19622257,08/22/2015,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,09/23/2015,20,NO,6.1,,,34,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118560725,06/07/2016,,,,,11,,47,,,,,,
+1,06/22/2016,,,,,12.7,,48,,,,,,
+19622257,06/29/2016,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/07/2016,,,,,16,,50,,,,,,
+21947123,07/15/2016,15,NO,4.6,,,38,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/19/2016,,,,,12,,47,,,,,,
+21947123,07/31/2016,17,NO,5.2,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/03/2016,,,,,11,,47,,,,,,
+1,08/15/2016,,,,,12,,47,,,,,,
+14842749,08/31/2016,,,,,11.9,,47,,,,,,
+1,09/12/2016,,,,,8.4,,45,,,,,,
+21947123,09/18/2016,23.75,NO,7.2,,,31,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,10/03/2016,16,NO,4.9,,,37,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+14842749,11/02/2016,,,,,18.5,,51,,,,,,
+1,04/12/2017,,,,,12.3,,48,,,,,,
+1,05/22/2017,,,,,38,,56,,,,,,
+1,06/06/2017,,,,,8.6,,45,,,,,,
+1,06/20/2017,,,,,7.9,,44,,,,,,
+21947123,06/24/2017,17,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/04/2017,,,,,11.1,,47,,,,,,
+1,07/17/2017,,,,,7.9,,44,,,,,,
+1,07/31/2017,,,,,6.2,,42,,,,,,
+1,08/14/2017,,,,,8.3,,45,,,,,,
+1,08/29/2017,,,,,10.3,,46,,,,,,
+19622257,09/04/2017,17.25,NO,5.2,,,36,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,09/14/2017,,,,,9.3,,45,,,,,,
+19622257,10/06/2017,20.25,NO,6.2,,,34,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/31/2013,0,METERS,15.6,DEGREES C,10.14,MG/L
+05/31/2013,1,METERS,15.6,DEGREES C,9.96,MG/L
+05/31/2013,2,METERS,15.5,DEGREES C,10.5,MG/L
+05/31/2013,3,METERS,12.4,DEGREES C,11.81,MG/L
+05/31/2013,4,METERS,10.6,DEGREES C,12.57,MG/L
+05/31/2013,5,METERS,9.3,DEGREES C,12.89,MG/L
+05/31/2013,6,METERS,8.5,DEGREES C,12.59,MG/L
+05/31/2013,7,METERS,7.6,DEGREES C,11.02,MG/L
+05/31/2013,8,METERS,7,DEGREES C,8.4,MG/L
+05/31/2013,9,METERS,6.7,DEGREES C,7.42,MG/L
+05/31/2013,10,METERS,6.8,DEGREES C,8.33,MG/L
+05/31/2013,11,METERS,5.7,DEGREES C,3.83,MG/L
+05/31/2013,12,METERS,5.6,DEGREES C,2.81,MG/L
+05/31/2013,13,METERS,5.6,DEGREES C,2.6,MG/L
+05/31/2013,14,METERS,5.4,DEGREES C,1.57,MG/L
+05/31/2013,15,METERS,5.3,DEGREES C,1.94,MG/L
+05/31/2013,16,METERS,5.3,DEGREES C,.67,MG/L
+05/31/2013,17,METERS,5.3,DEGREES C,.39,MG/L
+05/31/2013,18,METERS,5.3,DEGREES C,.4,MG/L
+06/11/2013,0,METERS,18.4,DEGREES C,9.61,MG/L
+06/11/2013,1,METERS,17.9,DEGREES C,9.74,MG/L
+06/11/2013,2,METERS,16.7,DEGREES C,9.94,MG/L
+06/11/2013,3,METERS,16.1,DEGREES C,9.84,MG/L
+06/11/2013,4,METERS,15.3,DEGREES C,9.84,MG/L
+06/11/2013,5,METERS,12.3,DEGREES C,11.28,MG/L
+06/11/2013,6,METERS,10.3,DEGREES C,11.46,MG/L
+06/11/2013,7,METERS,9,DEGREES C,11.14,MG/L
+06/11/2013,8,METERS,8.3,DEGREES C,11.32,MG/L
+06/11/2013,9,METERS,7.6,DEGREES C,8.78,MG/L
+06/11/2013,9.5,METERS,7.2,DEGREES C,7.04,MG/L
+06/28/2013,0,METERS,22.2,DEGREES C,8.81,MG/L
+06/28/2013,1,METERS,22.1,DEGREES C,8.33,MG/L
+06/28/2013,2,METERS,22,DEGREES C,8.49,MG/L
+06/28/2013,3,METERS,20.8,DEGREES C,9.23,MG/L
+06/28/2013,4,METERS,20.1,DEGREES C,9.44,MG/L
+06/28/2013,5,METERS,17.1,DEGREES C,10.61,MG/L
+06/28/2013,6,METERS,12.6,DEGREES C,13.02,MG/L
+06/28/2013,7,METERS,10.2,DEGREES C,12.47,MG/L
+06/28/2013,8,METERS,8.8,DEGREES C,11.57,MG/L
+06/28/2013,9,METERS,8.3,DEGREES C,11.2,MG/L
+06/28/2013,10,METERS,7.6,DEGREES C,10.25,MG/L
+06/28/2013,11,METERS,6.9,DEGREES C,4.87,MG/L
+07/08/2013,0,METERS,23.2,DEGREES C,7.69,MG/L
+07/08/2013,1,METERS,23.2,DEGREES C,7.39,MG/L
+07/08/2013,2,METERS,23.2,DEGREES C,7.37,MG/L
+07/08/2013,3,METERS,23.2,DEGREES C,7.13,MG/L
+07/08/2013,4,METERS,23.1,DEGREES C,7.13,MG/L
+07/08/2013,5,METERS,19.3,DEGREES C,9.62,MG/L
+07/08/2013,6,METERS,12.9,DEGREES C,11.85,MG/L
+07/08/2013,7,METERS,10.9,DEGREES C,11.28,MG/L
+07/08/2013,8,METERS,9.7,DEGREES C,9.34,MG/L
+07/08/2013,9,METERS,8.7,DEGREES C,8.68,MG/L
+07/08/2013,10,METERS,8.1,DEGREES C,7.12,MG/L
+07/08/2013,11,METERS,7.3,DEGREES C,2.39,MG/L
+07/08/2013,12,METERS,6.8,DEGREES C,.81,MG/L
+07/08/2013,13,METERS,6.6,DEGREES C,.42,MG/L
+07/08/2013,14,METERS,6.4,DEGREES C,.38,MG/L
+07/08/2013,15,METERS,6.1,DEGREES C,.39,MG/L
+07/08/2013,16,METERS,5.8,DEGREES C,.39,MG/L
+07/23/2013,0,METERS,23.9,DEGREES C,8.42,MG/L
+07/23/2013,1,METERS,23.9,DEGREES C,7.91,MG/L
+07/23/2013,2,METERS,23.9,DEGREES C,7.82,MG/L
+07/23/2013,3,METERS,23.8,DEGREES C,7.91,MG/L
+07/23/2013,4,METERS,23.8,DEGREES C,7.62,MG/L
+07/23/2013,5,METERS,23.7,DEGREES C,7.67,MG/L
+07/23/2013,6,METERS,16,DEGREES C,12.12,MG/L
+07/23/2013,7,METERS,11.5,DEGREES C,11.35,MG/L
+07/23/2013,8,METERS,10.2,DEGREES C,9.35,MG/L
+07/23/2013,9,METERS,9.3,DEGREES C,7.86,MG/L
+07/23/2013,10,METERS,8.6,DEGREES C,4.37,MG/L
+07/23/2013,11,METERS,7.6,DEGREES C,.36,MG/L
+07/23/2013,12,METERS,6.8,DEGREES C,.4,MG/L
+07/23/2013,13,METERS,6.5,DEGREES C,.43,MG/L
+08/12/2013,0,METERS,21.3,DEGREES C,8.76,MG/L
+08/12/2013,1,METERS,21.3,DEGREES C,8.72,MG/L
+08/12/2013,2,METERS,21.3,DEGREES C,8.61,MG/L
+08/12/2013,3,METERS,21,DEGREES C,9.03,MG/L
+08/12/2013,4,METERS,21,DEGREES C,8.33,MG/L
+08/12/2013,5,METERS,20.9,DEGREES C,8.74,MG/L
+08/12/2013,6,METERS,18.7,DEGREES C,9.11,MG/L
+08/12/2013,7,METERS,14.1,DEGREES C,10.93,MG/L
+08/12/2013,8,METERS,11.2,DEGREES C,9.03,MG/L
+08/12/2013,9,METERS,10.1,DEGREES C,7.2,MG/L
+08/12/2013,10,METERS,9.1,DEGREES C,2.26,MG/L
+08/12/2013,11,METERS,8.1,DEGREES C,.94,MG/L
+08/12/2013,12,METERS,7.3,DEGREES C,.91,MG/L
+08/12/2013,13,METERS,6.9,DEGREES C,.74,MG/L
+08/12/2013,14,METERS,6.6,DEGREES C,.75,MG/L
+08/12/2013,15,METERS,6.3,DEGREES C,.78,MG/L
+08/12/2013,16,METERS,6.2,DEGREES C,.77,MG/L
+08/12/2013,17,METERS,6.2,DEGREES C,.77,MG/L
+08/29/2013,0,METERS,24.7,DEGREES C,7.7,MG/L
+08/29/2013,1,METERS,24.6,DEGREES C,6.92,MG/L
+08/29/2013,2,METERS,24.5,DEGREES C,7.21,MG/L
+08/29/2013,3,METERS,24.4,DEGREES C,7.5,MG/L
+08/29/2013,4,METERS,23.9,DEGREES C,7.54,MG/L
+08/29/2013,5,METERS,23.3,DEGREES C,7.3,MG/L
+08/29/2013,6,METERS,21.4,DEGREES C,7.81,MG/L
+08/29/2013,7,METERS,16.5,DEGREES C,9.4,MG/L
+08/29/2013,8,METERS,13.2,DEGREES C,7.3,MG/L
+08/29/2013,9,METERS,11.3,DEGREES C,6.32,MG/L
+08/29/2013,10,METERS,9.9,DEGREES C,2.88,MG/L
+08/29/2013,11,METERS,8.6,DEGREES C,.62,MG/L
+08/29/2013,12,METERS,8,DEGREES C,.53,MG/L
+08/29/2013,13,METERS,7.4,DEGREES C,.55,MG/L
+08/29/2013,14,METERS,7,DEGREES C,.57,MG/L
+08/29/2013,15,METERS,6.7,DEGREES C,.58,MG/L
+08/29/2013,16,METERS,6.6,DEGREES C,.52,MG/L
+08/29/2013,17,METERS,6.6,DEGREES C,.57,MG/L
+09/04/2013,0,METERS,22.3,DEGREES C,8.33,MG/L
+09/04/2013,1,METERS,22.3,DEGREES C,8.39,MG/L
+09/04/2013,2,METERS,22.3,DEGREES C,8.16,MG/L
+09/04/2013,3,METERS,22.3,DEGREES C,8.17,MG/L
+09/04/2013,4,METERS,22.3,DEGREES C,8.45,MG/L
+09/04/2013,5,METERS,22.2,DEGREES C,8.34,MG/L
+09/04/2013,6,METERS,22.1,DEGREES C,8.15,MG/L
+09/04/2013,7,METERS,18.2,DEGREES C,9.55,MG/L
+09/04/2013,8,METERS,13.3,DEGREES C,7.15,MG/L
+09/04/2013,9,METERS,11.4,DEGREES C,6.56,MG/L
+09/04/2013,10,METERS,9.8,DEGREES C,1.58,MG/L
+09/04/2013,11,METERS,8.5,DEGREES C,.96,MG/L
+09/04/2013,12,METERS,7.4,DEGREES C,.94,MG/L
+09/04/2013,13,METERS,6.9,DEGREES C,1.13,MG/L
+09/04/2013,14,METERS,6.7,DEGREES C,1.1,MG/L
+09/04/2013,15,METERS,6.6,DEGREES C,1.1,MG/L
+09/04/2013,16,METERS,6.5,DEGREES C,1.1,MG/L
+09/04/2013,16.5,METERS,6.5,DEGREES C,1.1,MG/L
+09/19/2013,0,METERS,19,DEGREES C,8.39,MG/L
+09/19/2013,1,METERS,18.9,DEGREES C,8.14,MG/L
+09/19/2013,2,METERS,18.8,DEGREES C,8.58,MG/L
+09/19/2013,3,METERS,18.8,DEGREES C,8.49,MG/L
+09/19/2013,4,METERS,18.7,DEGREES C,8.31,MG/L
+09/19/2013,5,METERS,18.7,DEGREES C,8.72,MG/L
+09/19/2013,6,METERS,18.6,DEGREES C,8.69,MG/L
+09/19/2013,7,METERS,18.4,DEGREES C,8.39,MG/L
+09/19/2013,8,METERS,15.1,DEGREES C,5.76,MG/L
+09/19/2013,9,METERS,12,DEGREES C,5.7,MG/L
+09/19/2013,10,METERS,10.3,DEGREES C,1.18,MG/L
+09/19/2013,11,METERS,8.9,DEGREES C,.86,MG/L
+09/19/2013,12,METERS,7.9,DEGREES C,.91,MG/L
+09/19/2013,13,METERS,7.3,DEGREES C,.93,MG/L
+09/19/2013,14,METERS,6.9,DEGREES C,.84,MG/L
+09/19/2013,15,METERS,6.7,DEGREES C,.99,MG/L
+10/07/2013,0,METERS,14.9,DEGREES C,8.45,MG/L
+10/07/2013,1,METERS,14.9,DEGREES C,8.1,MG/L
+10/07/2013,2,METERS,14.9,DEGREES C,8.4,MG/L
+10/07/2013,3,METERS,14.8,DEGREES C,8.4,MG/L
+10/07/2013,4,METERS,14.8,DEGREES C,8.4,MG/L
+10/07/2013,5,METERS,14.8,DEGREES C,8.3,MG/L
+10/07/2013,6,METERS,14.8,DEGREES C,8.34,MG/L
+10/07/2013,7,METERS,14.8,DEGREES C,8.18,MG/L
+10/07/2013,8,METERS,14.8,DEGREES C,8.46,MG/L
+10/07/2013,9,METERS,14.7,DEGREES C,8.42,MG/L
+10/07/2013,10,METERS,12.3,DEGREES C,.77,MG/L
+10/07/2013,11,METERS,9.3,DEGREES C,.56,MG/L
+10/07/2013,12,METERS,8.4,DEGREES C,.57,MG/L
+10/07/2013,13,METERS,7.5,DEGREES C,.59,MG/L
+10/07/2013,14,METERS,7.1,DEGREES C,.64,MG/L
+10/07/2013,15,METERS,6.7,DEGREES C,.67,MG/L
+10/07/2013,16,METERS,6.7,DEGREES C,.7,MG/L
+10/07/2013,16.5,METERS,6.7,DEGREES C,.7,MG/L
+10/24/2013,0,METERS,9.7,DEGREES C,9.23,MG/L
+10/24/2013,1,METERS,9.7,DEGREES C,9.16,MG/L
+10/24/2013,2,METERS,9.7,DEGREES C,9.09,MG/L
+10/24/2013,3,METERS,9.7,DEGREES C,9.07,MG/L
+10/24/2013,4,METERS,9.7,DEGREES C,9.15,MG/L
+10/24/2013,5,METERS,9.7,DEGREES C,9.15,MG/L
+10/24/2013,6,METERS,9.7,DEGREES C,9.22,MG/L
+10/24/2013,7,METERS,9.7,DEGREES C,9.35,MG/L
+10/24/2013,8,METERS,9.7,DEGREES C,9.28,MG/L
+10/24/2013,9,METERS,9.7,DEGREES C,9.28,MG/L
+10/24/2013,10,METERS,9.6,DEGREES C,9.26,MG/L
+10/24/2013,11,METERS,9.5,DEGREES C,9.12,MG/L
+10/24/2013,12,METERS,9.6,DEGREES C,8.93,MG/L
+10/24/2013,13,METERS,8.6,DEGREES C,.76,MG/L
+10/24/2013,14,METERS,7.2,DEGREES C,.72,MG/L
+10/24/2013,15,METERS,7,DEGREES C,.68,MG/L
+05/21/2014,0,METERS,9.3,DEGREES C,12.45,MG/L
+05/21/2014,1,METERS,9.3,DEGREES C,12,MG/L
+05/21/2014,2,METERS,9.3,DEGREES C,12.09,MG/L
+05/21/2014,3,METERS,9.2,DEGREES C,12.12,MG/L
+05/21/2014,4,METERS,9.1,DEGREES C,12.12,MG/L
+05/21/2014,5,METERS,7.8,DEGREES C,11.75,MG/L
+05/21/2014,6,METERS,7.3,DEGREES C,11.21,MG/L
+05/21/2014,7,METERS,6.8,DEGREES C,9.39,MG/L
+05/21/2014,8,METERS,5.9,DEGREES C,7.86,MG/L
+05/21/2014,9,METERS,5.8,DEGREES C,6.69,MG/L
+05/21/2014,10,METERS,5.5,DEGREES C,6.01,MG/L
+05/21/2014,11,METERS,5.5,DEGREES C,5.74,MG/L
+05/21/2014,12,METERS,5.3,DEGREES C,4.8,MG/L
+05/21/2014,13,METERS,5,DEGREES C,1.93,MG/L
+05/21/2014,14,METERS,4.9,DEGREES C,.98,MG/L
+06/03/2014,0,METERS,18.5,DEGREES C,9.79,MG/L
+06/03/2014,1,METERS,18.5,DEGREES C,9.69,MG/L
+06/03/2014,2,METERS,18.5,DEGREES C,9.57,MG/L
+06/03/2014,3,METERS,18.4,DEGREES C,9.57,MG/L
+06/03/2014,4,METERS,15.6,DEGREES C,11.57,MG/L
+06/03/2014,5,METERS,10.7,DEGREES C,13.1,MG/L
+06/03/2014,6,METERS,9.4,DEGREES C,12.87,MG/L
+06/03/2014,7,METERS,8,DEGREES C,11.55,MG/L
+06/03/2014,8,METERS,7.4,DEGREES C,10.55,MG/L
+06/03/2014,9,METERS,7.2,DEGREES C,10,MG/L
+06/03/2014,10,METERS,6.9,DEGREES C,7.76,MG/L
+06/03/2014,11,METERS,5.9,DEGREES C,2.97,MG/L
+06/03/2014,12,METERS,5.5,DEGREES C,1.19,MG/L
+06/03/2014,13,METERS,5.5,DEGREES C,.81,MG/L
+06/03/2014,14,METERS,5.5,DEGREES C,.55,MG/L
+06/03/2014,15,METERS,5.4,DEGREES C,.53,MG/L
+06/03/2014,16,METERS,5.4,DEGREES C,.51,MG/L
+06/03/2014,17,METERS,5.3,DEGREES C,.53,MG/L
+06/03/2014,18,METERS,5.3,DEGREES C,.57,MG/L
+06/17/2014,0,METERS,18.7,DEGREES C,9.81,MG/L
+06/17/2014,1,METERS,18.6,DEGREES C,10.03,MG/L
+06/17/2014,2,METERS,18.4,DEGREES C,9.61,MG/L
+06/17/2014,3,METERS,18.1,DEGREES C,9.66,MG/L
+06/17/2014,4,METERS,18,DEGREES C,9.7,MG/L
+06/17/2014,5,METERS,17.4,DEGREES C,10.1,MG/L
+06/17/2014,6,METERS,12.4,DEGREES C,11.65,MG/L
+06/17/2014,7,METERS,9.7,DEGREES C,10.74,MG/L
+06/17/2014,8,METERS,8.9,DEGREES C,9.96,MG/L
+06/17/2014,9,METERS,8.4,DEGREES C,9.5,MG/L
+06/17/2014,10,METERS,8.1,DEGREES C,9.41,MG/L
+06/17/2014,11,METERS,6.8,DEGREES C,4.27,MG/L
+06/17/2014,12,METERS,6.3,DEGREES C,1.14,MG/L
+06/17/2014,13,METERS,6,DEGREES C,.61,MG/L
+06/17/2014,14,METERS,5.9,DEGREES C,.67,MG/L
+06/17/2014,15,METERS,5.8,DEGREES C,.94,MG/L
+06/17/2014,16,METERS,5.7,DEGREES C,.93,MG/L
+07/10/2014,0,METERS,22.5,DEGREES C,8.03,MG/L
+07/10/2014,1,METERS,22.4,DEGREES C,7.85,MG/L
+07/10/2014,2,METERS,22.1,DEGREES C,8.06,MG/L
+07/10/2014,3,METERS,22.1,DEGREES C,7.85,MG/L
+07/10/2014,4,METERS,22,DEGREES C,7.83,MG/L
+07/10/2014,5,METERS,21.9,DEGREES C,7.82,MG/L
+07/10/2014,6,METERS,17.2,DEGREES C,9.95,MG/L
+07/10/2014,7,METERS,12.7,DEGREES C,10.74,MG/L
+07/10/2014,8,METERS,10.5,DEGREES C,9.15,MG/L
+07/10/2014,9,METERS,9.6,DEGREES C,8.13,MG/L
+07/10/2014,10,METERS,8.7,DEGREES C,6.28,MG/L
+07/10/2014,11,METERS,7.6,DEGREES C,1.47,MG/L
+07/10/2014,12,METERS,7.1,DEGREES C,.44,MG/L
+07/10/2014,13,METERS,6.8,DEGREES C,.48,MG/L
+07/10/2014,14,METERS,6.1,DEGREES C,.42,MG/L
+07/10/2014,15,METERS,6,DEGREES C,.42,MG/L
+07/24/2014,0,METERS,23.6,DEGREES C,8.33,MG/L
+07/24/2014,1,METERS,23.5,DEGREES C,7.84,MG/L
+07/24/2014,2,METERS,23.3,DEGREES C,8.01,MG/L
+07/24/2014,3,METERS,23.2,DEGREES C,7.96,MG/L
+07/24/2014,4,METERS,23.1,DEGREES C,7.63,MG/L
+07/24/2014,5,METERS,22.5,DEGREES C,8,MG/L
+07/24/2014,6,METERS,20.7,DEGREES C,8.87,MG/L
+07/24/2014,7,METERS,13.4,DEGREES C,9.95,MG/L
+07/24/2014,8,METERS,11.1,DEGREES C,8.56,MG/L
+07/24/2014,9,METERS,10,DEGREES C,7.58,MG/L
+07/24/2014,10,METERS,8.9,DEGREES C,5.41,MG/L
+07/24/2014,11,METERS,8,DEGREES C,1.24,MG/L
+07/24/2014,12,METERS,7.4,DEGREES C,.54,MG/L
+07/24/2014,13,METERS,6.7,DEGREES C,.5,MG/L
+07/24/2014,14,METERS,6.4,DEGREES C,.39,MG/L
+07/24/2014,15,METERS,6.3,DEGREES C,.41,MG/L
+07/24/2014,16,METERS,6.2,DEGREES C,.4,MG/L
+07/24/2014,17,METERS,6.2,DEGREES C,.41,MG/L
+08/05/2014,0,METERS,23.6,DEGREES C,8.32,MG/L
+08/05/2014,1,METERS,23.5,DEGREES C,8.31,MG/L
+08/05/2014,2,METERS,23.4,DEGREES C,8.37,MG/L
+08/05/2014,3,METERS,23.3,DEGREES C,8.23,MG/L
+08/05/2014,4,METERS,23.3,DEGREES C,7.88,MG/L
+08/05/2014,5,METERS,22.9,DEGREES C,7.79,MG/L
+08/05/2014,6,METERS,21.8,DEGREES C,7.8,MG/L
+08/05/2014,7,METERS,17.6,DEGREES C,9.62,MG/L
+08/05/2014,8,METERS,12.6,DEGREES C,8.96,MG/L
+08/05/2014,9,METERS,10.9,DEGREES C,8.18,MG/L
+08/05/2014,10,METERS,9.6,DEGREES C,6.3,MG/L
+08/05/2014,11,METERS,8.5,DEGREES C,.94,MG/L
+08/05/2014,12,METERS,7.8,DEGREES C,.4,MG/L
+08/05/2014,13,METERS,7.2,DEGREES C,.62,MG/L
+08/05/2014,14,METERS,6.8,DEGREES C,.37,MG/L
+08/05/2014,15,METERS,6.5,DEGREES C,.34,MG/L
+08/20/2014,0,METERS,21.9,DEGREES C,8.18,MG/L
+08/20/2014,1,METERS,21.8,DEGREES C,7.99,MG/L
+08/20/2014,2,METERS,21.8,DEGREES C,7.89,MG/L
+08/20/2014,3,METERS,21.8,DEGREES C,7.74,MG/L
+08/20/2014,4,METERS,21.8,DEGREES C,7.51,MG/L
+08/20/2014,5,METERS,21.7,DEGREES C,7.69,MG/L
+08/20/2014,6,METERS,21.7,DEGREES C,7.69,MG/L
+08/20/2014,7,METERS,17.8,DEGREES C,8.85,MG/L
+08/20/2014,8,METERS,13.6,DEGREES C,8.31,MG/L
+08/20/2014,9,METERS,11.3,DEGREES C,7.78,MG/L
+08/20/2014,10,METERS,9.6,DEGREES C,4.44,MG/L
+08/20/2014,11,METERS,8.6,DEGREES C,.37,MG/L
+08/20/2014,12,METERS,8,DEGREES C,.31,MG/L
+08/20/2014,13,METERS,7.2,DEGREES C,.28,MG/L
+08/20/2014,14,METERS,6.8,DEGREES C,.24,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/21/1992,Alto cirrus clouds today.  1.9" rain in last 48 hours.  Light northeast winds- very high northeast winds yesterday.  Water temperature is 3 degrees and air temperature is 69 degrees.  Ice off was on April 30- 1992- latest in six years.    
+06/30/1992,Thin overcast- hazy.  The air temperature is 73 degrees and the water temperature is 67 degrees.    
+07/15/1992,Recently received up to 6" of rain.    
+07/23/1992,Lake level: 4"up    
+08/19/1992,Slight green tint- water temp is 71 degrees.  Nicest day this year.    
+09/03/1992,Sunny- slight wave- light wind.    
+09/17/1992,Slight breeze- light chop on the lake- 2" above normal rainfall for month.    
+10/02/1997,Sunny- calm- and the air temperature is 65-70 degrees.    
+07/12/2003,heavy boat traffic- sunny day- calm water except for
+boat wakes
+    
+09/04/2003,partly sunny- 60's; minimal boat traffic
+    
+09/20/2003,clear- sunny- light chop- loons
+    
+07/15/2004,SEC 14 (SITE D) - SURFACE    
+08/17/2004,SURFACE    
+09/20/2004,NO CENTRAL BAY SEC 14 (SITE D) - 10FT DEPTH    
+05/02/2005,SURFACE    
+08/30/2007,Weather clear with slight wind from the north.  Lake water level lowest seen in recent years.
+09/26/2007,Weather partially overcast with slight wind from south so sample point further north from last sampling.  7 inches of rain in past week so Lake level higher than Aug. date
+09/03/2008,Cloudy- 5-10mph NW wind- ripple surface- 0.3 in. of rain yesterday
+10/05/2008,Sunny- 10mph South wind- ripple surface- no rain in last several days
+06/10/2009,Occasional sun- west wind at 5-10 mph creating surface ripple- 1.4 in of rain last 2 days
+06/26/2009,Weather sunny- no wind so only slight ripple on surface- no rain in a week- pollen on surface- lake level low
+07/12/2009,Weather partly sunny- north wind at about 5 mph so slight ripple on surface- no rain since last test so lake level still low
+07/28/2009,Weather cloudy- strong southwest wind at 15-20 mph so very heavy ripple and difficult to anchor boat.  much recent shower activity but lake level still low
+08/29/2009,Slight mist/overcast- strong north wind at 10-15 mph with heavy surface ripple/drift- 0.4 in. of rain last 24 hours- lake level still low
+09/14/2009,Hazy sun- no wind so no ripple- no rain so far in Sep so lake level still very low
+07/23/2010,Partly sunny- North wind 5 to 10 mph- surface ripple- no recent rain- water flowing out of Lake
+08/08/2010,Overcast- no wind- slight surface ripple- 1 1/2 in. of rain last night- water slowing out of Lake
+08/24/2010,Overcast/partly sunny- North wind 5 to 10 mph- surface ripply- showers last night- Ralph Owen confirmed observations except his secchi depth observation was 19.5 ft.
+09/09/2010,Overcast- 0 to 5 mph South wind- surface ripple- weeds on srface at dock--very unusual for this time of summer- water barely flowing out of Lake
+07/10/2011,Hazy sun- 5 mph wind from south- surface ripple.
+08/03/2011,Weather sunny- slight wind from indeterminate direction- surface ripple- boat traffic- 1 1/2 in. of rain night before last
+08/28/2011,Slight overcast- no wind or surface ripple
+09/05/2011,Weather sunny- 5-10 mph wind from north- surface ripply- no rain last several days- water flowing from dam at Lake outlet
+09/28/2011,Weather sunny- no wind- slight surface ripple- approx. 1/2 in. of rain yesterday- leaves beginning to show color- water still flowing over dam at Lake outlet
+07/04/2012,Daughter- Steph Kirby assisted.  Weather conditions:  Hazy sun- light wind 0 to 5 mpn from south- boat traffic so surface has slight ripple-  thurderstorms two nights ago.
+07/20/2012,Daughter- Steph Kirby assisted.  Weather conditions:  hazy sun- gusty south wind 10 to 15 mpn-  ripply surface- no rain so far this month.
+08/05/2012,Son- Lee danker- assisted.  Weather conditions:  Intermitant sun- wind 10 to 15 mph from west- ripply surface- boat drifting/rotating- 0. 3 in or rain on 08/02
+08/21/2012,Weather conditions:  Bright sun- wind 5 to 10 mph from south- ripply surface- boat drifting (no anchor)- 0.5 in. of rain night before last.
+05/31/2013,Weather: N/A
+Sky Cover: Scattered - 10% to 50%
+Wind Condition: Small branches move- small trees begin to sway
+Past 48 Hours Rainfall + Wind: Slight 
+Shore/Land Use: Mostly Residential 
+Wildlife: 2 Loons- Bald Eagle 
+06/11/2013,Weather: N/A
+Sky Cover: Broken - 51% to 90%
+Wind Condition: Wind felt on face
+Past 48 hours rainfall + wind: N/A\
+Shore/Land Use: Mixed forest and residential 
+
+06/24/2013,Scattered clouds- leaves moving- high boat activity.
+06/28/2013,Weather: Overcast with light wind
+Rainfall in past 48 hours: Sprinkling and scattered showers
+Shore use: Residential/Preserve
+Wildlife: Pair of Loons
+Additional Helpers: Emily Moravec and Allissa Stutte
+06/29/2013,Daughter- Steph Kirby- assisted.  Weather:  hazy sun- N wind 5 to 10 mph- surface ripple- boat drifting- water level very high due to heavy rains
+07/08/2013,Fog- overcast- no wind.
+07/15/2013,Daughter- Steph Kirby- assisted.  Weather:  hazy sun- slight south drift and surface ripple- highest water level- no rain last 24 hrs.
+07/23/2013,Scattered cloud coverage- heavy wind- low boat traffic- loon activity. 
+08/12/2013,Scattered cloud coverage and windy. 
+08/25/2013,Weather sunny- 5 to 10 mph wind from S- surface ripple- some boat traffic- no rain in several days
+09/09/2013,Weather overcast- slight wind from N- slight surface ripple- about 1/8 in. rain last night
+09/19/2013,3 loons calling in the north basin; 1 bald eagle flying overhead is causing distress calls from the loons.  Storm is approaching; predicting heavy winds and rain within a couple hours.
+10/07/2013,A few scattered clouds (20%).  Slight wind (wind felt on face). Matt Hudson assisted field collection. Arrived at landing @ 10:00 am and departed at noon.  
+Moderate rain within last 48 hours.  4 loons present on lake all in the molting phase.
+10/24/2013,Sky is overcast (90%).  Moderate wind- leaves moving. Elizabeth Alexson assisted field collection. Arrived at landing @ 11:15 am.  Departed at 1:15 pm.  
+1 loon present on lake.  Surface water sample collected at noon.
+05/21/2014,Arrived at landing at 1030. Departed landing at 1310.  
+06/03/2014,Windy day. Rainfall within the past 48 hours. Scattered cloud cover. Land use is wooded and sparse residential.
+06/17/2014,Wildife: Loons
+Current Wather Conditions: Scattered clouds with slight wind
+Past 48 hour wind conditions: wind present
+Shore/Land use: Forested
+07/10/2014,Wildlife- loons
+
+07/24/2014,Wildlife: loon
+Land use: forested/some development
+08/05/2014,Weather of past 48 hours: wind and rain
+Land use: wooded (inclu. Nat'l forest)- residential 
+Wildlife: two loons
+Wind on face- cloud cover- clear
+08/20/2014,Past 48 hours of weather- rain
+Current weather- overcast- no wind
+Wildlife- loon 
+06/19/2015,Slight overcast- S wind 0-5mph- surface ripple- 1" rain 2 nights ago
+07/05/2015,Kerry Kirby (son-in-law) assisted- sunny/hazy with strong 15-20mph S wind- ripply surface with some boat traffic- no rain in several days.
+08/06/2015,Partially sunny- slight S wind- ripply surface- no rain recently- some boat traffic
+08/22/2015,Hazy sun- 10-15 mph S wind- boat drifting- heavy ripple surface- 4 in. rain two nights ago Hazy sun- 5-10mph S wind- very ripply surface- 4 in. of rain three nights ago
+09/23/2015,Heavy overcast- slight N drift- slight ripple- no rain in several days- lake level lowest it's been all summer
+06/29/2016,Partial sun- 5-10 mph south wind- boat drifting- ripply surface- lake level very high- heavy pollen- no rain last 48 hrs. Partly sunny- 5-10 mph west wind- ripply surface- no rain last 4 days. Partly sunny- west wind 5-10 mph- ripply surface- no rain last 4 days. Sunny- south wind 0-5 mph- no rain last 72 hours.
+07/15/2016,No wind- partly cloudy- very heavy rains (10 plus inches)- lake level highest. kPartly cloudy- no wind- recent heavy rains--10 plus inches.
+07/31/2016,South wind--5-10 mph- sunny- ripply surface- no rain recently. Sunny- 5-10 mph south wind- ripply surface- no recent rains.
+09/18/2016,Sunny- 1-5 mph south wind- surface ripply- few shouwers yesterday.
+10/03/2016,Sunny- little wind- no anchor- no boat traffic--slight ripple- no rain last 72 hours.
+
+
+
+
+Start Date,Group Name,Project Name
+06/21/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+06/30/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/15/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/23/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/05/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/19/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/03/1992,Randy Weis,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/17/1992,Randy Weis,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+10/02/1997,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/12/2003,Ann Donahue,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/01/2003,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/04/2003,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/20/2003,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/15/2004,Kris Larsen,LAKE OWEN ASSOCIATION- INC.: Lake Owen Water Quality Study
+08/17/2004,Kris Larsen,LAKE OWEN ASSOCIATION- INC.: Lake Owen Water Quality Study
+09/20/2004,Kris Larsen,LAKE OWEN ASSOCIATION- INC.: Lake Owen Water Quality Study
+05/02/2005,Kris Larsen,LAKE OWEN ASSOCIATION- INC.: Lake Owen Water Quality Study
+08/30/2007,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/30/2007,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/26/2007,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/26/2007,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+06/15/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/17/2008,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/17/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/02/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/18/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/03/2008,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/03/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+10/05/2008,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+10/05/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+06/10/2009,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+06/26/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/12/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/28/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/29/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/14/2009,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/23/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/08/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/24/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/09/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/10/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/03/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/28/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/05/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/28/2011,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/04/2012,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/20/2012,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/05/2012,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/21/2012,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+05/31/2013,Emily Moravec,Water Quality Monitoring - Northland College
+05/31/2013,Emily Moravec- Allissa Stutte,LAKE OWEN ASSOCIATION- INC.: Lake Owen Management Planning Project
+06/11/2013,Emily Moravec,Water Quality Monitoring - Northland College
+06/11/2013,Parker Matzinger- Mary Jo Gingras,LAKE OWEN ASSOCIATION- INC.: Lake Owen Management Planning Project
+06/24/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+06/28/2013,Parker Matzinger,Water Quality Monitoring - Northland College
+06/29/2013,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/08/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+07/08/2013,Parker Matzinger,LAKE OWEN ASSOCIATION- INC.: Lake Owen Management Planning Project
+07/15/2013,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/23/2013,Emily Moravec,Water Quality Monitoring - Northland College
+08/12/2013,Emily Moravec,Water Quality Monitoring - Northland College
+08/12/2013,Mary Jo Gingras,LAKE OWEN ASSOCIATION- INC.: Lake Owen Management Planning Project
+08/25/2013,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/29/2013,Allissa Stutte,Water Quality Monitoring - Northland College
+09/04/2013,Mary Jo Gingras,LAKE OWEN ASSOCIATION- INC.: Lake Owen Management Planning Project
+09/04/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+09/09/2013,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/19/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+10/07/2013,Mary Jo Gingras,LAKE OWEN ASSOCIATION- INC.: Lake Owen Management Planning Project
+10/07/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+10/24/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+05/21/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+05/21/2014,Matt Hudson- Mary Jo Gingras,Water Quality Monitoring - Northland College
+06/03/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+06/03/2014,Parker Matzinger- Mary Jo Gingras,Water Quality Monitoring - Northland College
+06/17/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+06/17/2014,Parker Matzinger- Mary Jo Gingras,Water Quality Monitoring - Northland College
+07/03/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/10/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+07/10/2014,Jordan Welnetz,Water Quality Monitoring - Northland College
+07/24/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+07/24/2014,Devon Brock-Montgomery,Water Quality Monitoring - Northland College
+08/05/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+08/05/2014,Parker Matzinger,Water Quality Monitoring - Northland College
+08/20/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+08/20/2014,Parker Matzinger,Water Quality Monitoring - Northland College
+09/13/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+06/19/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/05/2015,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/06/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/22/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/23/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+06/07/2016,Marisa Ulman,NC Chequamegon Bay Water Quality Monitoring
+06/22/2016,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+06/29/2016,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/07/2016,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+07/15/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/19/2016,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+07/31/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+08/03/2016,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+08/15/2016,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+08/31/2016,Matt Hudson,NC Chequamegon Bay Water Quality Monitoring
+09/12/2016,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+09/18/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+10/03/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+11/02/2016,Matt Hudson,NC Chequamegon Bay Water Quality Monitoring
+04/12/2017,Data Collectors,
+05/22/2017,Data Collectors,
+06/06/2017,Data Collectors,
+06/20/2017,Data Collectors,
+06/24/2017,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+07/04/2017,Data Collectors,
+07/17/2017,Data Collectors,
+07/31/2017,Data Collectors,
+08/14/2017,Data Collectors,
+08/29/2017,Data Collectors,
+09/04/2017,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14
+09/14/2017,Data Collectors,
+10/06/2017,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site D - No Central Bay Sec 14

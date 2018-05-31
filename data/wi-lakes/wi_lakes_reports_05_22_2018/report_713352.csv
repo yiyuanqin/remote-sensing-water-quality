@@ -1,0 +1,184 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Winnebago,Winnebago,131100,NE,71,,713352,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191406,06/21/2005,5,NO,1.5,,,54,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/05/2005,2.5,NO,0.8,,,64,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/11/2005,4,NO,1.2,,,57,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,07/19/2005,2,NO,0.6,,,67,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,08/05/2005,2.5,NO,0.8,,,64,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,06/04/2006,7,NO,2.1,,,49,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,07/07/2006,5,NO,1.5,,,54,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,07/23/2006,2.5,NO,0.8,,,64,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,08/01/2006,2,NO,0.6,,,67,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,08/16/2006,2.75,NO,0.8,,,63,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,08/22/2006,3,NO,0.9,,,61,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,09/06/2006,2,NO,0.6,,,67,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,06/11/2007,6,NO,1.8,,,51,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/30/2007,6,NO,1.8,,,51,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/15/2007,3.75,NO,1.1,,,58,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/24/2007,3.25,NO,1,,,60,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,08/22/2007,2,NO,0.6,,,67,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191406,09/08/2007,3.25,,1,,,60,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/26/2008,5,NO,1.5,,,54,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,07/31/2008,4,NO,1.2,,,57,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,08/04/2008,2.75,NO,0.8,,,63,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,08/20/2008,2.5,NO,0.8,,,64,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,06/25/2009,7.75,NO,2.4,,,48,,,,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8191406,07/06/2009,5,NO,1.5,,,54,,,,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191406,07/20/2009,3.5,NO,1.1,,,59,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,08/17/2009,3,NO,0.9,,,61,,,,,CLEAR,RED,2-Very minor aesthetic problems
+8191406,09/09/2009,4.75,NO,1.4,,,55,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/25/2010,3,NO,0.9,,,61,,,HIGH,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/28/2010,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/13/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/29/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,07/16/2011,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,08/12/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/04/2012,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,5-Enjoyment substantially impaired (algae)
+8191406,06/23/2012,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8191406,08/11/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,09/14/2012,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,06/19/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8191406,07/03/2013,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,08/02/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/12/2014,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,07/30/2014,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,05/05/2015,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191406,05/22/2015,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/04/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191406,09/04/2015,3.25,NO,1,,,60,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191406,09/25/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,06/11/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191406,06/24/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,09/18/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191406,07/13/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191406,08/07/2017,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191406,09/11/2017,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8191406,09/25/2017,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/21/2005,small clumps green algae- light chop- partly cloudy- temp. about 80F.    
+07/05/2005,drifted South 100 yds- small clumps green algae- heavy chop- some white caps- partly cloudy- temp. about 75F.
+    
+07/11/2005,calm; more suspended algae; some "pea soup" coming out- but not at buoy; "pae soup" 20-30 ft wide swath extending out from North Miller's Bay entrance    
+07/19/2005,suspended algae denser streaks and clumps nearby; slight wind    
+08/05/2005,algae finely dispersed- no clumps light waves less than 1 foot    
+06/04/2006,light individual suspended algae not matted
+07/07/2006,light individual suspended algae- partly cloudy/hazy
+07/23/2006,considerable suspended algae- but not "pea soup" sunny- light chop
+08/01/2006,light individual suspended algae- sunny- hot- 2 foot waves
+08/16/2006,light individual suspended algae- sunny- calm
+08/22/2006,light individual suspended algae-  calm- partly cloudy
+09/06/2006,white foam streaks- about 3' wide- 1' waves- sunny- bordering on "pea soup" overall green cast to water- generalized suspended algae.
+06/11/2007,sunny- light chop. Tiny bits of suspended algae
+06/30/2007,sunny- llght chop- largar discrete algae colonies- water color "yellow" that was pale- near-white
+07/15/2007,1 foot waves- sunny- larger discrete algae colonies
+07/24/2007,calm- cloudy- smaller algae colonies
+08/22/2007,cloudy- 2 foot waves- no algae
+09/08/2007,sunny- calm- tiny bits of algae (suspended particulates)
+06/26/2008,partly sunny- light chop. almost no algae.
+07/31/2008,sunny- calm. streaks of suspended algae particulates- some larger.
+08/04/2008,stripes of algae- algae more numerous. overcast skies.
+08/20/2008,mostly cloudy skies. considerable algae. green appearance of water. light chop.
+06/25/2009,speckled with discrete algae- some large- some tiny. Calm- clear.
+07/06/2009,strong W/NW wind- 2 foot waves. Sunny. No evidence of algae.
+07/20/2009,calm- sunny- SE wind. Some tiny algae- streaks of algae.
+08/17/2009,Calm- cloudy. Glare on water. Finely divided tiny algae.
+09/09/2009,Partly cloudy- light chop. Mostly clear water- some larger clumps of algae.
+07/25/2010,clear- sunny- tiny suspended algae- high water level
+07/28/2010,sunny- west wind- very little algae- 2' waves
+06/13/2011,sunny- calm- tiny algae specks
+06/29/2011,one foot waves- sunny- small algae specks
+07/16/2011,partly cloudy- choppy- small algae specks- glare on water
+08/12/2011,cloudy- light chop- hardly any finely dispersed algae
+06/04/2012,numerous individual clumps suspended algae- goes deep. sunny- calm.
+Worst algae in several years- unpleasant.
+06/23/2012,partly cloudy- 1-2 foot waves- moderate algae clumps
+08/11/2012,sunny- 2 foot waves- lots of finely dispersed algae- water appears green but not pea soup
+09/14/2012,sunny- light chop- water appears green- finely dispersed algae but not pea soup
+Overall the worst summer for algae in several years.
+06/19/2013,considerable algae clumps in very clear water. sunny. light chop.
+07/03/2013,lake water has brownish appearance; tiny algae
+08/02/2013,finely divided algae. calm- sunny.
+07/30/2014,algae striations (stripes)- few small clumps- fairly green
+05/05/2015,absolutely clear water- light chop- cloudy- glare
+05/22/2015,light algae specks
+06/04/2015,light algae specks
+09/04/2015,considerable suspended algae- cloudy- calm
+09/25/2015,occasional "soapsuds" on lake- sunny- finely divided algae
+09/18/2016,light green appearance- tiny divided algae- sunny- 1 ft waves
+07/13/2017,clear- no algae- cloudy- light chop
+08/07/2017,light dispersed algae- fairly calm
+09/11/2017,large algae chunks- considerable dispersion- sunny- light chop
+09/25/2017,dispersed algae
+
+
+
+
+Start Date,Group Name,Project Name
+06/21/2005,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/05/2005,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/11/2005,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/19/2005,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/05/2005,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/04/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/07/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/23/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/01/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/16/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/22/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/06/2006,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/11/2007,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/30/2007,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/15/2007,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/24/2007,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/22/2007,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/08/2007,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/26/2008,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/31/2008,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/04/2008,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/20/2008,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/25/2009,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/06/2009,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/20/2009,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/17/2009,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/09/2009,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/25/2010,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/28/2010,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/13/2011,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/29/2011,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/16/2011,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/12/2011,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/04/2012,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/23/2012,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/11/2012,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/14/2012,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/19/2013,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/03/2013,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/02/2013,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/12/2014,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/30/2014,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+05/05/2015,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+05/22/2015,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/04/2015,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/04/2015,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/25/2015,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/11/2016,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+06/24/2016,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/18/2016,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+07/13/2017,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+08/07/2017,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/11/2017,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A
+09/25/2017,Kathy Propp,Citizen Lake Monitoring - Water Quality - Lake Winnebago; L17A

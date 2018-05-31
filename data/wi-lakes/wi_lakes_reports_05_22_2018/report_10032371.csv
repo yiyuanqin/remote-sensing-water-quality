@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Monona,Dane,804600,SC,13,,10032371,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+89214715,08/12/2014,,,,12.2,27.2,,54,54,,,,,
+7000126,11/01/2014,,,,23.1,80.3,,62,59,,,,,
+89214715,08/31/2015,,,,14.4,24.8,,53,55,,,,,
+89214715,07/19/2016,,,,16.2,28.8,,54,56,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/12/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+11/01/2014,STEVEN GREB,Optical  Properties of WI Lakes 2011 - 
+08/31/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/19/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

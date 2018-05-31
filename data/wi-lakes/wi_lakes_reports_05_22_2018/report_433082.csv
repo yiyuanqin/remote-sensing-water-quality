@@ -1,0 +1,62 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Gilkey Lake,Oconto,462300,NE,43,,433082,NE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190156,05/06/1993,5.5,NO,1.7,,,53,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190156,06/25/1993,6.5,NO,2,,,50,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190156,07/22/1993,6,NO,1.8,,,51,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190156,08/25/1993,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,09/15/1993,6.25,NO,1.9,,,51,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,10/11/1993,6.5,YES,2,,,50,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,04/26/2016,5.4,NO,1.6,2.12,10.8,53,47,40,,,,,
+1,06/30/2016,5.1,Y,1.6,2.73,20.8,54,52,42,,,,,
+16073539,07/25/2016,5.2,Y,1.6,3.85,15.7,53,49,45,,,,,
+1,08/21/2016,,,,,,,,,,,,,
+1,08/25/2016,5.1,Y,1.6,2.96,17.9,54,50,43,,,,,
+1,11/07/2016,6.7,Y,2,,17.4,50,50,,,,,,
+1,02/13/2017,5.9,Y,1.8,,12.4,52,48,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/26/2016,,,9.7,C,9.8,MG/L
+06/30/2016,,,24.8,C,9.3,MG/L
+07/25/2016,,,27.9,C,8.8,MG/L
+08/21/2016,,,63,C,,
+08/25/2016,,,23.3,C,9.3,MG/L
+11/07/2016,,,10.0,C,11.3,MG/L
+02/13/2017,,,2.9,C,3.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/06/1993,Ice off- clear day.    
+06/25/1993,Clear day- algal blooms    
+07/22/1993,Clear day- high weeds    
+08/25/1993,Clear day- high weed growth    
+09/15/1993,Partly cloudy- high weed growth    
+10/11/1993,Clear- windy- 40 degree temperature.    
+
+
+
+
+Start Date,Group Name,Project Name
+05/06/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Gilkey Lake; Deep Spot
+06/25/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Gilkey Lake; Deep Spot
+07/22/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Gilkey Lake; Deep Spot
+08/25/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Gilkey Lake; Deep Spot
+09/15/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Gilkey Lake; Deep Spot
+10/11/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Gilkey Lake; Deep Spot
+04/26/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+06/30/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+07/25/2016,Tim Hoyman - Onterra- LLC,Bacteria + Plankton (Paid Private)
+07/25/2016,Tim Hoyman - Onterra- LLC,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+08/21/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+08/25/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+11/07/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+02/13/2017,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan

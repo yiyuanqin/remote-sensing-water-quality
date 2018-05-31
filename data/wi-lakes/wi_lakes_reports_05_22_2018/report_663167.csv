@@ -1,0 +1,147 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Big Bass Lake,Washburn,2453300,NO,66,,663167,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191260,06/09/2004,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,07/08/2004,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,08/20/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,09/11/2004,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,06/08/2005,19.25,NO,5.9,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,07/04/2005,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,07/13/2005,10.8,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,08/07/2005,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,08/29/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191260,07/14/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191260,08/03/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191260,08/17/2007,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191260,09/03/2007,7.75,NO,2.4,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191260,05/21/2008,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,
+8191260,08/01/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,
+8191260,09/20/2008,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,
+8191260,06/24/2009,18.5,NO,5.6,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191260,07/03/2009,18,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,07/14/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,08/11/2012,10.4,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,08/20/2012,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,09/13/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,06/13/2013,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,07/03/2013,17.3,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,08/09/2013,12.89,NO,3.9,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,09/06/2013,12.89,NO,3.9,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,07/13/2014,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,07/21/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798700,08/26/2014,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+82607229,07/17/2017,13,NO,4,2.9,16.7,40,50,43,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10585221,08/09/2017,11,NO,3.3,4.7,22.9,43,52,46,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+10585221,09/05/2017,11,NO,3.3,6.41,22.2,43,52,49,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/2017,0,METERS,74.4,DEGREES F,8.38,MG/L
+07/17/2017,1,METERS,74.2,DEGREES F,8.42,MG/L
+07/17/2017,2,METERS,73.7,DEGREES F,8.45,MG/L
+07/17/2017,3,METERS,73,DEGREES F,8.42,MG/L
+07/17/2017,4,METERS,71.9,DEGREES F,8.21,MG/L
+07/17/2017,5,METERS,67.4,DEGREES F,7.6,MG/L
+07/17/2017,6,METERS,61.1,DEGREES F,3.49,MG/L
+07/17/2017,7,METERS,57.2,DEGREES F,.53,MG/L
+07/17/2017,8,METERS,55.3,DEGREES F,.16,MG/L
+07/17/2017,9,METERS,55.3,DEGREES F,.19,MG/L
+08/09/2017,0,METERS,74.1,DEGREES F,,
+08/09/2017,1,METERS,73.9,DEGREES F,,
+08/09/2017,2,METERS,73.4,DEGREES F,,
+08/09/2017,3,METERS,72.9,DEGREES F,,
+08/09/2017,4,METERS,72.4,DEGREES F,,
+08/09/2017,5,METERS,69.4,DEGREES F,,
+08/09/2017,6,METERS,63.5,DEGREES F,,
+08/09/2017,7,METERS,57,DEGREES F,,
+08/09/2017,8,METERS,56.5,DEGREES F,,
+08/09/2017,9,METERS,56.2,DEGREES F,,
+08/09/2017,10,METERS,56.2,DEGREES F,,
+09/05/2017,0,METERS,67.3,DEGREES F,8.28,MG/L
+09/05/2017,1,METERS,67.3,DEGREES F,8.26,MG/L
+09/05/2017,2,METERS,67.2,DEGREES F,8.24,MG/L
+09/05/2017,3,METERS,67.2,DEGREES F,8.19,MG/L
+09/05/2017,4,METERS,67.1,DEGREES F,8.13,MG/L
+09/05/2017,5,METERS,66.6,DEGREES F,6.93,MG/L
+09/05/2017,6,METERS,66.2,DEGREES F,6.53,MG/L
+09/05/2017,7,METERS,62.8,DEGREES F,.22,MG/L
+09/05/2017,8,METERS,57.9,DEGREES F,.34,MG/L
+09/05/2017,9,METERS,54.7,DEGREES F,.14,MG/L
+09/05/2017,10,METERS,53.9,DEGREES F,.18,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/09/2004,Light green- windy- 1 loon today.    
+07/08/2004,Sun- light wind    
+08/20/2004,Light green- sun- light wind.    
+09/11/2004,Light wind- sunny    
+06/08/2005,Calm day- sun- some clouds
+07/04/2005,Light wind- some clouds
+07/13/2005,Sun- light wind
+08/07/2005,Sun- light wind
+08/29/2005,Clouds- light wind.
+07/14/2007,Sun- A few Clouds
+08/03/2007,Sunny- No Clouds
+08/17/2007,Sunny- Few Clouds
+09/03/2007,Sunny
+05/21/2008,Sunny
+08/01/2008,Sunny
+09/20/2008,Sunny
+06/24/2009,few clouds sun
+07/03/2009,sun some clouds
+07/14/2012,partly cloudy
+08/11/2012,sunny with few clouds
+08/20/2012,sunny
+09/13/2012,few clouds
+06/13/2013,Sun- few clouds
+07/03/2013,Sun no clouds
+08/09/2013,Clouds
+09/06/2013,Sun no clouds.
+07/13/2014,sun; few clouds
+07/21/2014,sun; clear
+08/26/2014,sun; some clouds
+
+
+
+
+Start Date,Group Name,Project Name
+06/09/2004,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/08/2004,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/20/2004,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+09/11/2004,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+06/08/2005,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/04/2005,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/13/2005,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/07/2005,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/29/2005,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/14/2007,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/03/2007,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/17/2007,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+09/03/2007,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+05/21/2008,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/01/2008,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+09/20/2008,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+06/24/2009,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/03/2009,Ralph and Kathy Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/14/2012,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/11/2012,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/20/2012,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+09/13/2012,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+06/13/2013,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/03/2013,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/09/2013,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+09/06/2013,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/13/2014,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/21/2014,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+08/26/2014,Ralph Hyde,Citizen Lake Monitoring - Water Quality - Big Bass Lake; Center
+07/17/2017,Mark Sundeen and Alex Smith,Directed Lakes 2017 Smith
+08/09/2017,MARK SUNDEEN,Directed Lakes 2017 Smith
+09/05/2017,MARK SUNDEEN,Directed Lakes 2017 Smith

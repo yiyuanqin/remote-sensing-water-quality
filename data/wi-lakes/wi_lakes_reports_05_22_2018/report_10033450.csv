@@ -1,0 +1,79 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Dane,779500,SC,13,,10033450,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+11984606,06/30/2011,,,,15.5,,,,56,,,,,
+11984606,08/01/2011,,,,55.4,,,,65,,,,,
+114081025,06/03/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/09/2016,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/09/2016,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/09/2016,1.25,NO,0.4,,,74,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,05/29/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,06/27/2017,1.75,NO,0.5,,,69,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/18/2017,2.5,NO,0.8,,,64,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/29/2017,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/14/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/2017,1,FEET,73.7,DEGREES F,,
+08/29/2017,2,FEET,73.7,DEGREES F,,
+08/29/2017,3,FEET,73.4,DEGREES F,,
+08/29/2017,4,FEET,73.2,DEGREES F,,
+08/29/2017,5,FEET,73.2,DEGREES F,,
+08/29/2017,6,FEET,72.1,DEGREES F,,
+08/29/2017,7,FEET,72.3,DEGREES F,,
+08/29/2017,8,FEET,71.9,DEGREES F,,
+08/29/2017,9,FEET,71.4,DEGREES F,,
+08/29/2017,10,FEET,71.4,DEGREES F,,
+08/29/2017,11,FEET,71.2,DEGREES F,,
+08/29/2017,12,FEET,71.4,DEGREES F,,
+09/14/2017,1,FEET,71.6,DEGREES F,,
+09/14/2017,2,FEET,71.6,DEGREES F,,
+09/14/2017,3,FEET,71.4,DEGREES F,,
+09/14/2017,4,FEET,70.5,DEGREES F,,
+09/14/2017,5,FEET,69,DEGREES F,,
+09/14/2017,6,FEET,66.9,DEGREES F,,
+09/14/2017,7,FEET,66.9,DEGREES F,,
+09/14/2017,8,FEET,66.5,DEGREES F,,
+09/14/2017,9,FEET,66.3,DEGREES F,,
+09/14/2017,10,FEET,66.2,DEGREES F,,
+09/14/2017,11,FEET,66.2,DEGREES F,,
+09/14/2017,12,FEET,66.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/30/2011,Samples analyzed at Madison-Dane County Health Department Lab.
+08/01/2011,Samples analyzed at Madison-Dane County Health Department Lab.
+06/03/2016,Water is 9.0 feet deep.  Partly cloudy- southerly breeze- saw 6 turtles- some small fish- slight flow of water Rice Lake into Sweet Lake.  
+07/09/2016,Water is 9.25 feet deep.  Clear- calm- slight southerly breeze- 4 turtles on west bank.  
+08/09/2016,Water is 9.25 feet deep.  Partly cloudy- southerly breeze- saw 2 Great Blue Herons- 8 turtles on west bank.  
+09/09/2016,Water is 9.5 feet deep and was able to paddle and pole from Sweet Lake to Rice Lake without portage.  
+05/29/2017,Easy to launch with 11 feet- 2 inches depth at deep hole.  Several cars in lot- canoes- row boats- fishermen- windy with pat sun.  
+06/27/2017,Parking lot about half flooded with water depth of 11 feet- 6 inches at deep hole.  Sunny- slight breeze- saw eagle- osprey- heron- hawk.  
+07/18/2017,Parking lot still partially flooded- with water depth 11.5 feet at deep hole.  sunny- sleigh breeze.  
+08/29/2017,Parking lot still flooded with water depth 12.0 feet at deep hole.  Partly cloudy- calm- good depth readings.  
+09/14/2017,Parking lot still flooded with 12.0 feet water depth at deep hole.  One other kayaker in lake- calm- sunny- particles of algae- not strings like in Koshkonong.
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/2011,Pete Jopke,DANE COUNTY: Survey of Rice Lake
+08/01/2011,Pete Jopke,DANE COUNTY: Survey of Rice Lake
+06/03/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+07/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+08/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+09/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+05/29/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+06/27/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+07/18/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+08/29/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 
+09/14/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality -  Rice Lake - Deep Hole 

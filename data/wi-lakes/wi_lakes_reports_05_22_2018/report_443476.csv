@@ -1,0 +1,244 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pelican Lake,Oneida,1579900,NO,44,,443476,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191209,05/18/2004,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191209,07/05/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191209,07/29/2004,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191209,08/04/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191209,08/31/2004,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191209,09/27/2004,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191209,10/12/2004,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,05/07/2005,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191210,05/28/2005,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191210,06/18/2005,8,YES,2.4,,,47,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,07/10/2005,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8191210,07/29/2005,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,08/29/2005,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,10/16/2005,8.25,NO,2.5,,,47,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/02/2006,20,YES,6.1,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191210,06/11/2006,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,07/05/2006,7.75,NO,2.4,,,46,,,GAUGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191210,08/07/2006,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191210,08/22/2006,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191210,08/29/2006,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191210,09/04/2006,8.75,NO,2.7,,,46,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/01/2007,17.25,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/12/2007,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/24/2007,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,07/23/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,08/17/2007,3.75,NO,1.1,,,58,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,09/26/2007,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,10/13/2007,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/01/2008,20,NO,6.1,,,34,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191210,06/22/2008,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191210,07/22/2008,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8191210,08/11/2008,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,09/08/2008,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,09/26/2008,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191210,10/16/2008,19.5,YES,5.9,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191210,06/03/2009,19.75,YES,6,,,34,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8191210,06/11/2009,19,NO,5.8,,,35,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8191210,06/22/2009,0,NO,0,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,07/09/2009,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,08/14/2009,10.75,NO,3.3,,,43,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,08/27/2009,9.75,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,09/24/2009,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191210,10/10/2009,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191210,06/10/2010,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191210,06/24/2010,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191210,07/07/2010,5.75,NO,1.7,,,52,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,08/06/2010,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8191210,08/21/2010,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191210,09/02/2010,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191210,09/19/2010,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,10/01/2010,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/16/2011,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,06/25/2011,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,07/24/2011,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,08/15/2011,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,09/08/2011,8.25,NO,2.5,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,09/28/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,05/31/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191210,07/03/2012,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,07/25/2012,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,08/14/2012,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,08/25/2012,3.25,NO,1,,,60,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,09/14/2012,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,06/08/2013,15.5,NO,4.7,,,38,,,,,,GREEN,
+8191210,07/02/2013,7.25,NO,2.2,,,49,,,,,,GREEN,
+8191210,07/18/2013,5.75,NO,1.7,,,52,,,,,,GREEN,
+8191210,07/26/2013,5.25,NO,1.6,,,53,,,,,,GREEN,
+8191210,08/16/2013,5.5,NO,1.7,,,53,,,,,MURKY,GREEN,
+8191210,08/30/2013,6,NO,1.8,,,51,,,,,,GREEN,
+8191210,10/02/2013,7,NO,2.1,,,49,,,,,,GREEN,
+89214715,06/26/2014,,,,5.68,18.3,,51,48,,,,,
+8191210,06/12/2015,5.5,NO,1.7,,,53,,,,,,GREEN,
+8191210,07/23/2015,5.5,NO,1.7,,,53,,,,,,GREEN,
+89214715,07/31/2015,,,,18.6,53.3,,59,57,,,,,
+8191210,08/05/2015,4.5,NO,1.4,,,55,,,,,,GREEN,
+8191210,09/10/2015,5.5,NO,1.7,,,53,,,,,,GREEN,
+8191210,09/28/2015,6.5,NO,2,,,50,,,,,,GREEN,
+8191210,05/06/2016,18,NO,5.5,,,35,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191210,05/26/2016,16.5,NO,5,,,37,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+89214715,06/29/2016,,,,13.9,39.9,,57,55,,,,,
+8191210,07/22/2016,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191210,08/27/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,10/23/2016,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191210,10/24/2016,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/18/2004,Sunny- calm    
+07/05/2004,Partly cloudy- light chop on surface    
+07/29/2004,Mostly cloudy- light chop    
+08/04/2004,Sunny- slight chop    
+08/31/2004,Partly cloudy- calm.    
+09/27/2004,Clear- calm    
+06/01/2007,Noticiable algae bloom.  68.7 F surface temp.  Calm- sunny.
+06/12/2007,Algae slick on water.  74.5 F surface temp.  Calm- sunny- warm.
+06/24/2007,Some big algae globs near shore.  76 F water temp.  Moderate boat activity.
+07/23/2007,Hot weather - saw goldeneye and loon.  79.6 F.  New weeds on N shoreline - red cabbage.
+08/17/2007,Hot weather just breaking.  Saw cormorants.  Few fishermen.  Temp 74.5 F water surface.
+09/26/2007,Stormy week.  Cormorants seen.  A few fishing boats.
+10/13/2007,Pea green on shore 1 hour after reading taken.
+06/01/2008,Late ice out. Water still cold 59-62 F 
+Little weed growth
+06/22/2008,Most of lake showing some algae bloom 
+Quite a few ducks w/ young
+A bit overcast
+07/22/2008,Some algae seen
+NE breeze 73.5 water temp
+Sunny 
+seagulls- 1 eagle
+09/08/2008,Some algae
+10/16/2008,Lake quiet. Very clear- no boat traffic
+Water temp 51 F
+06/03/2009,Some algae particles present.
+06/22/2009,Quite a bit more algae bloom.
+07/09/2009,Clear- calm- very few boats after busy holiday.  Quite a bit of algae.  73 F water.
+08/14/2009,Storm last night.  West wind.  74.5 F water temp.  Algae evident.  2 pontoons fishing.
+08/27/2009,Water temp 70.5 F.  Warm calm day.  Minnows everywhere - may be small perch.
+09/24/2009,A string of very  nice weather - summer in Sept.
+10/10/2009,Deeper water still a bit cloudy.  Shorelines clear.
+06/16/2011,some chop - few boaters- first sign of algae bloom
+06/25/2011,1st sun after 5 days rain - algae bloo - boating activity moderate - light winds
+07/24/2011,Sun. afternoon - not much traffic - 80's - water temp. 78 degrees - beautiful day
+08/15/2011,beautiful day - no large algae pieces - light boat traffic
+09/08/2011,beautiful again - fall feel - cool last 3 nights - 30's high 73 degrees- 1 boat seen
+09/28/2011,lake starting to clear - still small green specks. No boat traffic -calm
+05/31/2012,water temperature 66 degrees. Partly cloudy.
+07/03/2012,recent heavy rain. 2 inches
+07/25/2012,some globs of algae. water temperature 80 degrees.
+08/14/2012,No globs. water temperature 74 degrees.
+08/25/2012,water temperature 74 degrees.
+09/14/2012,Sunny. Water temperature 66 degrees.
+06/08/2013,Some bloom. Following much rain- water temperature is 63 degrees.
+07/02/2013,Water temperature 72.5 degrees. New aquatic plant beds emerging. 
+07/18/2013,82 degrees. Some bloom seen.
+07/26/2013,light bloom- 76 degrees.
+08/16/2013,very green layer of scum from the shore to 25 feet out.
+08/30/2013,light scum all over. 75 degrees.
+10/02/2013,63 degrees.
+08/05/2015,windy
+09/10/2015,70 degrees
+09/28/2015,65 degrees and sunny.
+
+
+
+
+Start Date,Group Name,Project Name
+05/18/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/05/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/29/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/04/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/31/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/27/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/12/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+05/07/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+05/28/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/18/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/10/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/29/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/29/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/16/2005,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/02/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/11/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/05/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/07/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/22/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/29/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/04/2006,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/01/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/12/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/24/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/23/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/17/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/26/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/13/2007,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/01/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/22/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/22/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/11/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/08/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/26/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/16/2008,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/03/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/11/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/22/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/09/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/14/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/27/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/24/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/10/2009,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/10/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/24/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/07/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/06/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/21/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/02/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/19/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/01/2010,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/16/2011,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/25/2011,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/24/2011,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/15/2011,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/08/2011,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/28/2011,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+05/31/2012,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/03/2012,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/25/2012,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/14/2012,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/25/2012,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/14/2012,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/08/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/02/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/18/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/26/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/16/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/30/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/02/2013,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/26/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+06/12/2015,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/23/2015,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+07/31/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+08/05/2015,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/10/2015,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+09/28/2015,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+05/06/2016,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+05/26/2016,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+06/29/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/22/2016,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+08/27/2016,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/23/2016,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point
+10/24/2016,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; Sabanois Point

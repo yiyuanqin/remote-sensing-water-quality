@@ -1,0 +1,36 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Cunard Lake,Oneida,1590000,NO,44,,443083,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/11/1979,,,,,,,,,,,,,
+145711549,07/12/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/11/1979,,,27,C,,
+07/12/2017,2,FEET,75.3,DEGREES F,8.24,MG/L
+07/12/2017,4,FEET,74.7,DEGREES F,8.37,MG/L
+07/12/2017,6,FEET,73.9,DEGREES F,8.45,MG/L
+07/12/2017,8,FEET,69.7,DEGREES F,8.36,MG/L
+07/12/2017,10,FEET,62.1,DEGREES F,6.5,MG/L
+07/12/2017,12,FEET,56.3,DEGREES F,4.88,MG/L
+07/12/2017,14,FEET,52.8,DEGREES F,3.52,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/11/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/12/2017,Position of deep hole on Oneida County GIS
+
+
+
+
+Start Date,Group Name,Project Name
+07/11/1979,Data Collectors,Migrated from STORET Legacy
+07/12/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

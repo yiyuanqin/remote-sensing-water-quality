@@ -1,0 +1,1090 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lac La Belle,Waukesha,848800,SE,68,,683171,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190086,08/13/1989,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,08/27/1989,4.5,NO,1.4,,,55,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/03/1989,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,09/10/1989,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,09/16/1989,6.25,NO,1.9,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,09/30/1989,9.5,NO,2.9,,,45,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190086,04/24/1990,6,NO,1.8,,,51,,,,,,GREEN,
+8190086,05/02/1990,9.75,NO,3,,,44,,,,,,GREEN,1-Beautiful, could not be nicer
+8190086,05/13/1990,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,05/22/1990,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,05/30/1990,6.5,NO,2,,,50,,,GAUGE,2.2,,GREEN,2-Very minor aesthetic problems
+8190086,06/19/1990,4.5,NO,1.4,,,55,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8190086,06/30/1990,5.5,NO,1.7,,,53,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8190086,07/06/1990,4.75,NO,1.4,,,55,,,GAUGE,1.9,,GREEN,2-Very minor aesthetic problems
+8190086,07/21/1990,5.75,NO,1.7,,,52,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8190086,08/04/1990,4.5,NO,1.4,,,55,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/16/1990,5.5,NO,1.7,,,53,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8190086,08/25/1990,5.5,NO,1.7,,,53,,,GAUGE,2.1,,GREEN,2-Very minor aesthetic problems
+8190086,08/30/1990,7,NO,2.1,,,49,,,GAUGE,2.1,,GREEN,2-Very minor aesthetic problems
+8190086,09/10/1990,5,NO,1.5,,,54,,,GAUGE,1.9,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/17/1990,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,09/26/1990,7.5,NO,2.3,,,48,,,GAUGE,2.1,,GREEN,2-Very minor aesthetic problems
+8190086,10/11/1990,9,NO,2.7,,,45,,,GAUGE,2.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,10/27/1990,8.75,NO,2.7,,,46,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,11/13/1990,11.75,NO,3.6,,,42,,,GAUGE,1.35,,GREEN,1-Beautiful, could not be nicer
+8190086,04/18/1991,8,NO,2.4,,,47,,,GAUGE,2.15,,GREEN,2-Very minor aesthetic problems
+8190086,04/28/1991,9.5,NO,2.9,,,45,,,GAUGE,2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,05/11/1991,10.5,NO,3.2,,,43,,,GAUGE,2.1,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190086,05/21/1991,8.75,NO,2.7,,,46,,,GAUGE,2.1,,GREEN,2-Very minor aesthetic problems
+8190086,06/07/1991,7,NO,2.1,,,49,,,GAUGE,2.1,,GREEN,2-Very minor aesthetic problems
+8190086,06/19/1991,6.5,NO,2,,,50,,,GAUGE,2.22,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/02/1991,4.5,NO,1.4,,,55,,,GAUGE,2.05,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/14/1991,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,07/25/1991,5,NO,1.5,,,54,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8190086,07/31/1991,5,NO,1.5,,,54,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8190086,08/14/1991,5.5,NO,1.7,,,53,,,GAUGE,2.1,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/05/1991,4.5,NO,1.4,,,55,,,GAUGE,2,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/08/1991,5.5,NO,1.7,,,53,,,GAUGE,2,,,3-Enjoyment somewhat impaired (algae)
+8190086,09/20/1991,5.5,NO,1.7,,,53,,,GAUGE,1.95,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,10/04/1991,7,NO,2.1,,,49,,,GAUGE,2,CLEAR,BLUE,
+8190086,10/10/1991,8,NO,2.4,,,47,,,GAUGE,2.1,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,03/19/1992,11,NO,3.3,,,43,,,GAUGE,2.15,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,05/18/1992,8.75,NO,2.7,,,46,,,GAUGE,2,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,06/07/1992,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/27/1992,6.5,NO,2,,,50,,,GAUGE,2,,GREEN,
+8190086,07/06/1992,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,07/19/1992,5,NO,1.5,,,54,,,GAUGE,2.05,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/17/1992,7,NO,2.1,,,49,,,GAUGE,2,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,09/01/1992,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/30/1992,6.5,NO,2,,,50,,,GAUGE,2.1,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,10/21/1992,7,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,04/10/1993,7.5,NO,2.3,,,48,,,GAUGE,2.85,,PALE GREEN/BROWN,
+8190086,04/22/1993,6.25,NO,1.9,,,51,,,GAUGE,3.25,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190086,04/30/1993,7.75,NO,2.4,,,48,,,OVER THE TOP OF THE STAFF GAUGE,3.5,,PALE GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190086,05/10/1993,13,NO,4,,,40,,,HIGH,3.7,,OLIVE GREEN/BROWN,
+8190086,05/22/1993,13,NO,4,,,40,,,,,,PALE GREEN/BROWN,2-Very minor aesthetic problems
+8190086,06/03/1993,5.5,NO,1.7,,,53,,,GAUGE,2.2,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/07/1993,4.5,NO,1.4,,,55,,,GAUGE,2.2,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/15/1993,8,NO,2.4,,,47,,,GAUGE,2.75,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/03/1993,7,NO,2.1,,,49,,,GAUGE,1.95,,GREEN,2-Very minor aesthetic problems
+8190086,09/03/1993,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/04/1993,7,NO,2.1,,,49,,,GAUGE,1.6,,BLUE,1-Beautiful, could not be nicer
+8190086,04/10/1994,6,NO,1.8,,,51,,,GAUGE,1.7,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190086,04/22/1994,5.5,NO,1.7,,,53,,,GAUGE,2.25,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/02/1994,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,05/10/1994,8.5,NO,2.6,,,46,,,GAUGE,2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,05/22/1994,5.25,NO,1.6,,,53,,,GAUGE,2,,GREEN,4-Would not swim but boating OK (algae)
+8190086,06/16/1994,7.75,NO,2.4,,,48,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,07/05/1994,6,NO,1.8,,,51,,,,,,LIGHT GREEN,4-Would not swim but boating OK (algae)
+8190086,07/28/1994,6.25,NO,1.9,,,51,,,,,,LIGHT GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/15/1994,6,NO,1.8,,,51,,,GAUGE,2.1,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/07/1994,5.25,NO,1.6,,,53,,,GAUGE,2,,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/25/1994,4.75,NO,1.4,,,55,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/12/1994,6.5,NO,2,,,50,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,03/29/1995,7.25,NO,2.2,,,49,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,04/02/1995,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BLUE/GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/02/1995,8,NO,2.4,,,47,,,,,,GREEN,
+8190086,05/30/1995,7,NO,2.1,,,49,,,LAKE 2.0 FROM 1.2,,,GREEN,2-Very minor aesthetic problems
+8190086,06/14/1995,6.5,NO,2,,,50,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/23/1995,6.25,NO,1.9,,,51,,,1.9 VERY LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/25/1995,5,NO,1.5,,,54,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/14/1995,5.4,NO,1.6,,,53,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/05/1995,5.4,NO,1.6,,,53,,,1.9 RAIN .3,,,,4-Would not swim but boating OK (algae)
+8190086,10/02/1995,7.25,NO,2.2,,,49,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,04/15/1996,5.5,NO,1.7,,,53,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/29/1996,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,06/12/1996,8.5,NO,2.6,,,46,,,GAUGE,2.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,06/25/1996,7,NO,2.1,,,49,,,GAUGE,3.1,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,07/05/1996,7,NO,2.1,,,49,,,2.50  R-2.45,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190086,07/23/1996,6,NO,1.8,,,51,,,2.0  R-1.30,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/24/1996,6,NO,1.8,,,51,,,GAUGE,2.5,,GREEN,2-Very minor aesthetic problems
+8190086,09/09/1996,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,10/20/1996,7.75,NO,2.4,,,48,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190086,05/21/1997,8.25,NO,2.5,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190086,06/16/1997,7.75,NO,2.4,,,48,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/26/1997,8,NO,2.4,,,47,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/01/1997,8.75,NO,2.7,,,46,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,08/16/1997,5.5,NO,1.7,,,53,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/27/1997,7,NO,2.1,,,49,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/26/1997,7.25,NO,2.2,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/04/1998,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/30/1998,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/10/1998,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/01/1998,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/24/1998,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/15/1998,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/29/1998,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,04/04/1999,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,04/24/1999,4.25,NO,1.3,,,56,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,05/22/1999,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190086,06/15/1999,4.75,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,06/25/1999,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/09/1999,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/27/1999,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/04/1999,4.25,NO,1.3,,,56,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/15/1999,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/06/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/29/1999,8.5,NO,2.6,,,46,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,03/30/2000,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/22/2000,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,04/30/2000,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,05/28/2000,5,NO,1.5,,,54,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,06/02/2000,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/06/2000,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/15/2000,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/22/2000,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/14/2000,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/08/2000,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/16/2000,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/24/2000,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/02/2000,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/09/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/19/2000,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,05/20/2001,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/27/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/08/2001,7.75,NO,2.4,,,48,,,NORMAL,2.05,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/17/2001,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,06/23/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/03/2001,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/09/2001,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/16/2001,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/30/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/10/2001,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,08/21/2001,,,,5,,,,47,,,,,
+8190086,08/26/2001,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/15/2001,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/23/2001,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/27/2001,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/27/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/06/2002,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,06/12/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,06/27/2002,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/04/2002,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/09/2002,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/19/2002,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/27/2002,4.25,NO,1.3,,,56,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/28/2002,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/07/2002,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/20/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/04/2002,4.25,NO,1.3,,,56,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/14/2002,7,NO,2.1,,,49,,,HIGH,2.1,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/02/2002,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/09/2002,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/10/2002,8.5,NO,2.6,,,46,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/20/2002,8.25,NO,2.5,,,47,,,NORMAL,2.1,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,04/13/2003,10.25,NO,3.1,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,05/03/2003,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,06/01/2003,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188630,06/10/2003,,,,8.17,78,,62,51,,,,,
+8190086,06/15/2003,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/01/2003,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188630,07/08/2003,,,,5.57,16,,50,48,,,,,
+8190086,07/12/2003,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/13/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/19/2003,,,,3.28,12,,47,44,,,,,
+8188630,08/19/2003,,,,3.46,12,,47,44,,,,,
+8190086,09/20/2003,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/15/2004,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,05/28/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/03/2004,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/27/2004,6.75,NO,2.1,,,50,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/08/2004,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/25/2004,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,08/02/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/03/2004,6.75,NO,2.1,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/23/2004,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/29/2004,6.75,NO,2.1,,,50,,,LOW,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8190086,10/24/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/14/2005,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/24/2005,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,06/07/2005,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,06/26/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/05/2005,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/19/2005,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/28/2005,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,08/28/2005,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/27/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/27/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/26/2006,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/06/2006,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/04/2006,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/29/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/06/2006,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/14/2006,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/08/2006,5,NO,1.5,,,54,,,NORMAL,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8190086,04/10/2007,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/20/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/08/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190086,05/30/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,06/16/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/25/2007,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/09/2007,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190086,07/27/2007,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/03/2007,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/12/2007,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/20/2007,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/23/2007,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/21/2008,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,05/28/2008,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,06/10/2008,5.75,NO,1.7,,,52,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8190086,06/25/2008,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/04/2008,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/12/2008,5.25,NO,1.6,,,53,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/27/2008,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/14/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/25/2008,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/20/2008,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,10/17/2008,7.45,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/09/2009,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/23/2009,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/04/2009,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190086,06/13/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/06/2009,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/20/2009,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/12/2009,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/03/2009,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/14/2009,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/11/2009,7.75,NO,2.4,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,03/29/2010,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/19/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/06/2010,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/20/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/07/2010,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/18/2010,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,07/01/2010,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/08/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/19/2010,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/02/2010,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/10/2010,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190086,08/18/2010,4.75,NO,1.4,,,55,,,HIGH,2.70,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/26/2010,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,09/13/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/04/2010,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,04/21/2011,5.3,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/11/2011,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/29/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/13/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/19/2011,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/26/2011,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/19/2011,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/24/2011,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,07/29/2011,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/05/2011,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,08/11/2011,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/22/2011,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/10/2011,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/10/2011,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/03/2012,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,04/24/2012,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,05/09/2012,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,06/07/2012,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/25/2012,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190086,07/15/2012,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/14/2012,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/03/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/14/2012,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/24/2012,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/27/2013,7.5,NO,2.3,,,48,,,HIGH,,,,2-Very minor aesthetic problems
+8190086,05/16/2013,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190086,06/03/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/08/2013,6.75,NO,2.1,,,50,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190086,07/15/2013,6.75,NO,2.1,,,50,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/17/2013,7.25,NO,2.2,,,49,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/04/2013,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/12/2013,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/26/2013,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/04/2013,5.7,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/02/2013,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,04/11/2014,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/20/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/29/2014,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/05/2014,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/16/2014,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,06/26/2014,5.25,NO,1.6,,,53,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/08/2014,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/13/2014,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/14/2014,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/02/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,09/23/2014,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,10/07/2014,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,04/06/2015,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190086,05/20/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,05/28/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/16/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/21/2015,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/23/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,08/12/2015,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/27/2015,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190086,10/06/2015,5.75,NO,1.7,,,52,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,04/18/2016,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,05/17/2016,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190086,06/18/2016,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,07/18/2016,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,08/18/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/20/2016,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190086,09/11/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+148111680,09/22/2017,7.5,NO,2.3,,,48,,,LOW,33,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+148111680,09/30/2017,6.5,NO,2,,,50,,,NORMAL,32,MURKY,GREEN,2-Very minor aesthetic problems
+148111680,10/08/2017,5.5,NO,1.7,,,53,,,NORMAL,32,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/21/2008,3,FEET,57.3,DEGREES F,11.01,MG/L
+04/21/2008,6,FEET,54.7,DEGREES F,11.36,MG/L
+04/21/2008,9,FEET,54.2,DEGREES F,11.15,MG/L
+04/21/2008,12,FEET,52,DEGREES F,11.32,MG/L
+04/21/2008,15,FEET,51,DEGREES F,11.26,MG/L
+04/21/2008,18,FEET,50.3,DEGREES F,11.1,MG/L
+04/21/2008,21,FEET,50,DEGREES F,11.03,MG/L
+04/21/2008,24,FEET,49.6,DEGREES F,10.89,MG/L
+04/21/2008,27,FEET,48.8,DEGREES F,9.82,MG/L
+04/09/2009,3,FEET,45.9,DEGREES F,11.59,MG/L
+04/09/2009,6,FEET,45.3,DEGREES F,11.71,MG/L
+04/09/2009,9,FEET,44,DEGREES F,11.78,MG/L
+04/09/2009,12,FEET,43.6,DEGREES F,11.83,MG/L
+04/09/2009,15,FEET,43.4,DEGREES F,11.84,MG/L
+04/09/2009,18,FEET,43.2,DEGREES F,11.82,MG/L
+04/09/2009,21,FEET,43,DEGREES F,11.82,MG/L
+04/09/2009,24,FEET,42.9,DEGREES F,11.83,MG/L
+04/09/2009,27,FEET,42.8,DEGREES F,11.8,MG/L
+04/09/2009,30,FEET,42.8,DEGREES F,11.81,MG/L
+04/09/2009,33,FEET,42.6,DEGREES F,11.78,MG/L
+04/09/2009,36,FEET,42.5,DEGREES F,11.75,MG/L
+04/09/2009,39,FEET,42.5,DEGREES F,11.7,MG/L
+04/09/2009,42,FEET,42.4,DEGREES F,11.52,MG/L
+09/11/2017,3,FEET,67.5,DEGREES F,9.65,MG/L
+09/11/2017,6,FEET,66.5,DEGREES F,9.08,MG/L
+09/11/2017,9,FEET,66.3,DEGREES F,9.02,MG/L
+09/11/2017,12,FEET,66,DEGREES F,8.48,MG/L
+09/11/2017,15,FEET,65.9,DEGREES F,8.27,MG/L
+09/11/2017,18,FEET,65.7,DEGREES F,8.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/13/1989,Hazy- sewer hook-up begins in 1 month around this end of the lake.    
+09/03/1989,Recent 1.5" rain- scum- dead duckweed- debris floating around    
+09/30/1989,Weeds backing off.    
+05/02/1990,Sunny- calm - beautiful day.    
+05/22/1990,Sunny- calm- slight shoreline algae bloom    
+05/30/1990,Calm and sunny    
+06/19/1990,Too weedy to sample past 2 weeks.- 6/8 algae bloom on sheltered W shore- milky water- green scum on top- strong chemical smell    
+06/30/1990,Light wind- 10-12 mph- 2" rain night of 6/28    
+07/06/1990,No minnows along shore    
+07/21/1990,Plants covered with marl.  Weed beds reduced this year.    
+09/10/1990,Lake levels read @  Hwy 16 Dam.  Site 1 levels may be read using the old staff gauge at the Hwy 67 Dam.    
+09/17/1990,Calm- light haze- 60 F- lots of minnows along shore line again.    
+11/13/1990,Clear- calm- milfoil beds bent over - looks like layering behavior.  Boards out of dam    
+04/18/1991,Too cold.  Ice off March 21.  Wind 12 mph.  Hazy 52 F.    
+04/28/1991,Calm- sunny.    
+05/11/1991,Algae bloom at shore.  Clear sky.  70 F.  Calm.    
+05/21/1991,Light haze. Calm 70 F. Saw a loon flying by that evening. Slight algae bloom at shore.    
+06/07/1991,Saw 3 great blue herons near Mark Lane Court.    
+06/19/1991,3.5" rain Friday night.  Algal blooms along shore.  Debris floating around.  Lots of run-off.    
+07/14/1991,Sunny.  Reports of crappie die-off.    
+08/14/1991,Algae at shoreline.  Bloom starting.    
+09/05/1991,12 mph wind.  Sunny.    
+09/08/1991,Calm- sunny.    
+09/20/1991,Calm- sunny- nights are cool now.  Lake steaming in morning.    
+10/04/1991,A little cool.  Calm- hazy- beautiful.    
+10/10/1991,Cool.  50 F.  Hazy.  Flocks of geese on lake.    
+03/19/1992,Hooded and red breasted mergansers seen in small groups.  Ice out 3/8/92.  Perception = 1- but cold.    
+05/18/1992,A little cool.  Milfoil washed up on shoreline.  Ice out 3/21    
+06/07/1992,Windy 12-15    
+06/27/1992,Sunny.  Light wind.  6/28 98 boats launched at city launch site onto 1100 acre lake.    
+07/06/1992,Heard loon yesterday AM.  Calm.  Sunny.    
+07/19/1992,3" of rain last week.  Saw a big loon cruising past our home.    
+09/01/1992,Sunny.  Calm.  80 F    
+09/30/1992,Sunny.  60 F.  Wind 7 mph.    
+10/21/1992,Sunny- calm.  Saw + heard a loon.    
+04/10/1993,Calm- sunny.  Ice off April 15th.  5 loons.  A flock of red-breasted mergansers today.  Also 1 pair common.    
+04/22/1993,Lake looks murky green-brown.  Saw a wood duck.    
+04/30/1993,The lake is a funny color    
+05/10/1993,Weird color.  Olive green.  Filamentous algae on rocks at shore.    
+05/22/1993,Deep Hole 15'.  Sunny. 12 mph wind.  Water is strange color.    
+06/03/1993,Sunny.  10 mph wind.    
+06/07/1993,Hazy.  Light wind.    
+06/15/1993,Calm.  Sunny.  Perception =3 along shore.    
+08/03/1993,Sunny. 10 mph.  No loons this summer.  Lots of jet skis.    
+10/04/1993,Saw flock of sandhill cranes high in the clouds.  Saw immature loon.  School started.  The jet skis are silent.  Hallelujah!    
+04/10/1994,Southwest light wind- 2 loons- big flock of gulls- no jet skis.    
+04/22/1994,Cold- saw 5 ruddy ducks- sunny- calm- love my kayak.    
+05/02/1994,Sunny - calm    
+05/10/1994,Cool- sunny- calm.  Summer is coming!  Yes!    
+05/22/1994,Algae bloom along shore.    
+06/16/1994,Sunny- 8 mph-best this year.    
+07/05/1994,Algae at shore- 2 3/8" rain yesterday- 90 degrees sunny/overcast- 8 mph wind- the milfoil is back- purple loosestrife is dying.    
+07/28/1994,Filamentous algae at shore- lots of rain lately.  Sunny 70 degrees- 4 mph wind.    
+08/15/1994,Sunny - calm.    
+09/07/1994,Sunny- 8 mph.    
+09/25/1994,Calm- sunny- 75 degrees.    
+10/12/1994,Cold- sunny- lots of geese- gulls - no loons.    
+03/29/1995,Too cold to swim.  Ice off March 16.  21st flock of common mergansers-23rd first robin-10th-sandhill cranes overhead.  Calm- sunny. (no date on card-sent note-no response) .    
+04/02/1995,Public perception due to cold too!  Lots of mergansers- gulls- sunny.  8 mph.    
+05/02/1995,Sunny-6 mph.    
+05/30/1995,Finally calm after weeks of wind.  Sunny-75 degrees-yes!    
+07/25/1995,Sunny-6 mph.    
+08/14/1995,Sunny/hazy- 5" rain 8/9- 10 mph.  Lake level: very high up 5"    
+09/05/1995,Shoreline algae bloom-pea soup-80 degrees- calm- sunny.    
+10/02/1995,Lots of gulls!    
+04/15/1996,Cold!  60 degrees- partly cloudy- 12 mph.    
+05/29/1996,Too cold!  It has been cold here!  40-50 degrees last week!    
+06/12/1996,It's been cold.    
+06/25/1996,Sunny- clear- 75 degrees- mild breeze northeast.  Snapping turtles laying eggs.  4" rain last week.  Pier is 2" under water.    
+07/05/1996,We can finally see our pier-lake is going down.  Sunny-calm.    
+08/24/1996,Sunny- calm- 70 degrees- cool nights.    
+09/09/1996,Warm- sunny- 8 mph- lake steamy this AM.    
+10/20/1996,Sunny-lake is a mirror-leaves are glorious-feathers floating all over-gulls + geese.    
+05/21/1997,Sunny- light wind. Water level: RIVER - 1.20; LAKE - 2.00    
+06/16/1997,2 inches of rain last night- carp at the dam on both sides.  Sunny - 10 mph.  Water level: RIVER -1.60; LAKE - 2.20    
+06/26/1997,Lots of rain.  5 inches in two weeks.  Sunny wind at 12 mph.  Water level:  RIVER - 2.50; LAKE - 2.45    
+07/01/1997,Hot- sunny- calm.    
+08/16/1997,Cool nights- gulls are flocking.  Calm- sunny and hazy.    
+08/27/1997,Hot sunny day- osprey followed volunteer out while sampling- nights are cool    
+09/26/1997,Flock of coots and a baby snapping turtle were seen today    
+05/04/1998,Curly pondweed up to surface.    
+05/30/1998,Couple of 80 degree days.    
+04/04/1999,sunny- cool- calm- Air 63'
+Mergansers + ruddy ducks
+
+    
+04/24/1999,Sunny- cool- calm. Air 63 F. Mergansers and ducks.    
+05/22/1999,Sunny- hazy- air 70 F. Lots of rain last week.    
+06/15/1999,Suuny- calm- air 60 F. Cool after really hot week.    
+06/25/1999,Sunny day    
+07/27/1999,sunny- calm  air 85'
+
+    
+09/04/1999,Sunny- hazy- wind 5 mph. Air 75 F.    
+09/15/1999,Cool nights- 65 F- sunny. 1st zebra mussels at city end of lake.    
+10/06/1999,Sunny- calm- 55 F air. Frost last night. Lots of geese and seagulls.    
+10/29/1999,Air 70 F- sunny. 10 mph wind. Feathers floating all over    
+05/20/2001,Sunny- hazy.  10 mph wind.  65 deg F air.  Deep hole 10.5'.    
+05/27/2001,Sunny- hazy.  8-10 mph wind.  65 deg F air.  Curly pondweed up.    
+06/08/2001,Calm- sunny- 70 deg F.  Curly pondweed up- milfoil up.    
+06/17/2001,Calm- sunny- and 80 deg F.  Big 2.5" rain last Monday.  Lake was brown and muddy for days.    
+06/23/2001,Calm- sunny.  75 deg F.    
+07/03/2001,Cloudy/Sunny.  6 mph wind.  65 deg F.  Found native milfoil floating.    
+07/09/2001,Clear- sunny.  80 deg F.  8 mph wind.  Beautiful!    
+07/30/2001,Calm- sunny- and 93 deg F.    
+08/10/2001,8 mph wind.  Sunny- 75 deg F.  Lake feels like bathtub after all of the warm weather.    
+08/21/2001,SITE #2- INTEGRATED WATER COLUMN
+08/26/2001,Sunny- 75 deg F.  6 mph wind.  Lot of rain last night.    
+09/15/2001,63 deg F air.  Calm- cloudy- sunny- and seagulls.    
+09/23/2001,70 deg F- 8 mph wind    
+09/27/2001,Sunny- 6 mph wind.  62 deg F air.    
+05/27/2002,Water very cold for this time of year.  Floaters included curly pondweed + eurasian milfoil.    
+06/06/2002,Best reading in years!  Cool nights- 3" total rain last week.    
+06/12/2002,Wind 8 mph.  Sunny/hazy.    
+06/27/2002,partly cloudy - wind 5 mph
+
+    
+07/04/2002,Sunny -wind 8 mph-  air temp 78
+
+    
+07/09/2002,Sunny- 5 mph wind. Air temp 84 degrees- water 28 C. ph = 8    
+07/19/2002,Hot-  dry weather - no rain
+
+    
+07/27/2002,Sunny- calm- 85 F air.    
+07/28/2002,Calm- hot 2" rain this week- sunny- high hazy clouds water temp at 4"= 27' C    
+08/07/2002,calm- sunny- air 75'F- Water at surface 26'    
+08/20/2002,wind 5 mph- sunny- surface water 25'C no zebra mussels growing on our anchor this year -- or on Sam the Clam.    
+09/04/2002,Sunny- hazy- wind 5 mph. Air 75 F.    
+09/14/2002,overcast- air 68- Water 76F calm  ph at surface 8.5
+Saw more plant diversity - lots of ampifolius- some spiny niad patches- bottlebrush milfoil    
+10/02/2002,Sunny - air 70' wind 10 mph  feathers floating all
+over
+
+    
+10/09/2002,Clear- calm- sunny- 65'  just me and the gulls
+
+    
+10/10/2002,Clear- calm- sunny. Air =68 F- water 16 C. Just me and 2 seagulls    
+10/20/2002,Sunny - wind 5 mph - lots of geese Water temp 11 C    
+04/13/2003,Surface water temperature = 10 C
+Saw lots of gulls- twenty red brested mergansers- and a loon
+Sunny- wind 8 mph.  Ice out 3/25/2003.    
+05/03/2003,2 1/2 inches of rain in last week - Surface water temp
+= 14'C   Sunny- Calm- 60' air.
+
+    
+06/01/2003,sunny- calm  air 60 F  surface water 20 C
+curlye pondweed is up-  floaters include milfoil    
+06/10/2003,LAC LA BELLE    
+06/15/2003,wind 6 mph sunny - slight haze  water surface temp
+23'C
+
+    
+07/01/2003,sunny- calm- air 85 F  Surface water 26 C
+algae bloom along shore    
+07/08/2003,LAC LA BELLE    
+07/12/2003,surface temp 24 C  Wind 6mph - sunny- 70 f air
+beautiful sailing day
+
+Reading in the central deep hole at 10:18 am= 6.5
+
+    
+08/13/2003,sunny - air 77'- surface water 26 C. wind 7 mph    
+08/19/2003,LAC LA BELLE    
+09/20/2003,algae bloom along shore - clear - calm - sunny
+surface water 22'C
+
+
+    
+05/15/2004,Sunny- wind 5 mph.  Water 18 C.  Air 54 F.  2 immature loons over weed bed.    
+05/28/2004,sunny- wind 6mph- 5" rain last week
+lake very high- surface water 18C    
+06/03/2004,water very high - piers are breaking up
+Saw immature loon yesterday    
+06/27/2004,Sunny- wind 3 mph- water 22 C.    
+07/08/2004,surface temp is 22'C-  Wind 10 mph cool nights- 70' day    
+07/25/2004,saw solitary loon out in the middle again yesterday - he's changing plumage from immature to the full tuxedo. He was pretty close to active boating. Seemed relaxed.
+ Water temp 25C at surface-  Wind 8 mph   Sunny- air 72'    
+08/02/2004,sunny- wind 5 mph- Air 79'F- Water 26'C    
+09/03/2004,lots of gull feathers floating on surface; sunny calm air 81'F    
+09/23/2004,Air temp 75 F  Sunny- wind 12 mph  Water 22C    
+09/29/2004,sunny- calm- air 72'F- Water 20'C- ph 8- lots of ducks and geese and gulls.    
+10/24/2004,Air 67'F  Water 12'C  sunny- calm- beautiful colors- lots of gulls and geese    
+04/14/2005,Ice out for Lac la Belle was April 2 - 2005    
+05/24/2005,Sunny- clear- air temp 61'F  Water @1 foot - 18'C    
+06/07/2005,WOW - this is the best reading I've had in years!! - after a long dry spell - shows what the lake could be like if we could clean up the run-off!!
+Air temp 93F- Water 26C   Floaters include curly leaf pondweed and milfoil.  Carp in the shallows.    
+06/26/2005,surprised to see difference in the two sites - my NW basin was 1.5' less than the deep hole - maybe runoff  we had 3/4" rain last night - but we really needed it. Wind 8 mph    
+07/05/2005,Air - 74'F- Water at 1 foot 26'C  Wind 5 mph
+Sunny - perfect day    
+07/19/2005,The water clarity at our shorline is much better this year - amazing considering the heat. the extended drought means less runoff - a blessing considering the huge highway project in back of us that drains to the lake.
+Sunny - light breeze - air 75- water 28'C    
+07/28/2005,sunny- patchy ppofy white clouds -air 69F-water 26'C wind 4mph
+2 1/2 inches of rain in the last week - we really needed it.    
+08/28/2005,1/12 rain two nighs ago - but still very dry -
+sunny- calm- air 75'F-  water 24'C
+lots of gulls lately    
+09/27/2005,sunny- wind 5 mph- air 70'F water 22 C' finally got some rain- 2 inches total last week. lots of gulls!!    
+10/27/2005,1st freeze last night - loon out fishing
+sunny- wind 4 mph air 50 F water 12 C    
+04/26/2006,Sunny - wind 8 mph  water 16'C
+05/06/2006,sunny- wind 3 mph- water 18'C - the fishermen are out here!
+06/04/2006,pertect for satellite rendezvous - calm- sunny- 70' air
+Nights have been cool - 55'
+
+06/29/2006,sunny- light wind - cool nights (50) and wonderful days (70)
+07/06/2006,sunny/hazy- wind 2 mph   air 75'f-  coool night - 55'f
+09/08/2006,As I paddled out- a storm was coming - the clouds cam overhead as I got to my site.
+04/10/2007,air temp = 41 F   wind calm   partly cloudy  water is green/brown
+04/20/2007,Calm- 65' air  truly beautiful day
+11 laughing gulls
+45 ducks -  should have brought binoculars
+05/08/2007,perfect paddling day - sunny- flat calm - cloudy- but I waited for a break in them to do the reading
+05/30/2007,warm and windy - beautiful day - the lake has been much clearer lately
+MaMa duck + 11 fuzzballs
+06/16/2007,Clouds about - waited for an opening 
+ We have had very warm days - 85" now- and cool nights- little rain
+Wind 10 mph - water 30'C at surface
+06/25/2007,Sunny - little hazy- wind 10 Air 78'F
+07/09/2007,Calm - the day started sunny- but as i paddles out i heard thunder and made a dash to my site and back - beat the storm and hope it brings cooler air.  Air 80'F- Water 30'C
+07/27/2007,
+wind 5 mph- patchy clouds- air 75' F  beautiful day!
+09/03/2007,Beautiful day - calm- clear- air 74'F
+No sign of the weed bed on the way out- lots of seagull feathers floating
+Surface temp 26'C
+09/12/2007,38' F last night  clear- sunny- air 55'F  Water 22' C lake is quiet - beautiful paddling
+09/20/2007,sunny- wind 3 mph- air 65'
+Water at surface 1' depth 22'C
+trees just starting to show fall color.
+10/23/2007,sunny- wind 5 mph- air 50'F- surface water 16'C  Trees are getting serious about their fall colors - beautiful day!
+04/21/2008,calm- sunny- 65" F - perfect day
+05/28/2008,Sunny- very light breeze-+ Air 59'F - nights have been very cold -  44 last night sunny- very slight breeze- air 59'F  nights have been cold - 44' last night
+water levels are finally normalizing - they have been very high.
+
+06/10/2008,7" of rain over weekend - the lake looked like tea with milk - lots of farm runoff plus wetland water color.  
+Never seen the lake so high - piers are coming back out of the lake
+sunny- wind 10 mph
+06/25/2008,Sunny - passing clouds-  air 80'F- Wind 8 mph
+The lake is the highest I've seen in 26 years. piers are underwater or out of the lake
+Lake is greenish brown color 
+07/04/2008,Sunny/clouds-  75'F  beautiful day - lake still high- but we finally got the pier in. wind calm
+07/12/2008,Sunny- 75'f air- win 8mph-   2" more rain last week  the lake is very high
+07/27/2008,Wind 5 mph- air 80' F-  slightly overcast - beautiful day
+08/14/2008,clouds breaking- wind 8 mph 
+The lake still looks green/brown from all the runoff and rain we have had - pretty unappetizing
+08/25/2008,sunny - clouds too- air 70'F  wind 8 mph
+cool nights  - 54' last night. Fal is in the air - the gulls are here  Sunny- clouds-  air 70'F-  wind 8 mph
+cool nights- no rain Sunny- clouds-  air 70'F-  wind 8 mph
+cool nights- no rain
+09/20/2008,Sunny- Calm- beautiful  Air 75'F
+nights have been cool - in the 50's- not much rain
+lots of gulls- a few trees just starting to turn colors
+10/17/2008,cool- grey day - dead calm -  air 55'F-  Clouds reflected in the water- white feathers  floating- wild gees in long v's overhead- and scarlet maples among the russet of oaks - a stunning day - I'm grateful for an excuse to go paddling.
+04/09/2009,Sunny- 50'F- wind 5 mph - beautiful!!
+my companions today were 4 loons- 3 grebes- a goldeneye- and a pack of gulls. Sunny- 50'F- wind 5 mph - beautiful!!
+my companions today were 4 loons- 3 grebes- a goldeneye- and a pack of gulls.
+05/23/2009,partly cloudy- 70' air-  3mph wind   first sailing races today
+heard the cranes in the marsh
+06/04/2009,Calm- sunny- air 65'F  - beautiful day!!  Curly pondweed is coming up sparsely from depths - can see millfoil below. Saw a huge swarm of minnows - a swirl about 10 feet accoss- and a bluegill at the pier - good signs.  the lake looks clear and beautiful at the pier - cool nights - moderate days- not much rain lately.
+
+
+06/13/2009,Perfect day!!  70'F air-  sunny calm -  families out tubing-  sailboats trying to race
+07/06/2009,Sunny- wind 8 mph- air 78'F-   nights have been cool
+07/20/2009,sunny- passing clouds-   wind 4mph   air 75'F   beautiful!
+08/12/2009,sunny- calm- air 75'F   algae bloom at shoreline-  Monarch popped out of the chrysalis on the Marsh Milkweed.
+09/03/2009,Sunny- Clear- Calm   Air 75'F   night was 47'F
+algae soup  at our shoreline - not so much out in the lake
+09/14/2009,calm- sunny - the lake is peaceful today
+10/11/2009,cold paddling -  45'F air - sunny- wind 5 mph  lots of gulls and 3 coots
+03/29/2010,Beautiful day - 49' - sunny light wind 
+a solitary loon kept me company- diving and peeking below the surface- then popping up again
+04/19/2010,Sunny- Calm- air 55'F 
+saw a tern diving into the lake-  a mink on the shoreline- and lots of noisy gulls .
+paddled back along the shoreline- ans saw lots of hockey puck sized clumps of zebra mussels - hope that isn't our entire resident clam collection.  It was too cold to get wet and grab a few to find out - next time I'll bring a net.
+05/06/2010,Calm- overcast with a little sun peeking through - swallows were my companions today
+05/20/2010,beautiful day - calm- sunny- air 72'F - good paddling
+06/07/2010,Sunny/hazy-  air 67'F  wind 3 mph
+06/18/2010,sunny- clear- Wind 7 mph  air 75'F
+
+07/01/2010,Sunny- calm- air 77'F  
+4" rain last week - water very high - our pier washed out in the middle of a storm Friday night
+07/08/2010,sunny- patches of white clouds- wind 3 mph air 83'F
+lots of rain lately - the lake level is finally down- but algae blooms around the shore
+07/19/2010,it has been very warm- with lots of rain it has been very warm- with lots of rain - today 80'F- wind 2 mph
+chop from water skiers
+08/02/2010,water very high - after two big rains - total 10"   and a nasty shade of green/brown. 
+Sunny/hazy wind 5 mph 
+Lake is Slow no wake
+08/10/2010,hot- hazy- air 89'F- wind calm - 3 mph
+lake very high - our pier is still out water very yucky looking at the shore
+08/18/2010,Sunny- wind 5 mph/calm  air 72"F
+08/26/2010,Calm- sunny- perfect paddling  - air 73'F
+the lake level is finally back to normal 
+nights have been cooler - low 60's
+algae bloom forming along our shore
+09/13/2010,clear blue sky - wind 5-10 air 70'F  
+saw 10 coots rafted together.
+10/04/2010,Sunny- calm-  Air 55'
+04/21/2011,lake was dead calm - cold- but sunny - the first paddle of the year felt great.  Accompanied by 2 terns- 2 gulls- 2 swallows- 6 red-breasted mergansers and one powerboat  joyriding up and down the length of the lake 4 times. 
+05/11/2011,calm- hazy- a few fishermen out there  lake looks clearer than April  Air 75'
+05/29/2011,calm- hazy
+06/13/2011,sunny- air 65'F- wind light
+06/19/2011,hazy light clouds- air 76'F light wind
+06/26/2011,Air 75'F   wind 10 mph
+07/19/2011,calm - hot air 90'F  lots of japanese beetles paddling in lake
+07/24/2011,Wind 7 mph-  air 80'F -  hot and dry lately
+07/29/2011,Calm.  Hot  air 86'F 
+08/05/2011,Calm -  Hot + Humid - breaking clouds-  water ski chop
+08/11/2011,light breeze - air 75'F
+08/22/2011,Air was 52' F last night- 75' now   Calm- clear- sunny
+
+Seaplane doing series of touch + go
+
+09/10/2011,Calm- 70' day sunny - perfect. lots of seagull feathers floating on the lake.  Pondweeds are more prominent this year - some kind of narrower leave - sago near shore and maybe Illinois or richardsonii in deeper water.  
+10/10/2011,sunny- air 70'F wind 7 mph  trees are changing - perfect fall day
+04/03/2012,Calm- air 60'F  Sunny clear
+two previous days were windy
+saw 2 loons- and a lot of noisy gulls.
+04/24/2012,light breeze - sunny- air 60'F  no birds - where did all the gulls go  
+disappointing clarity for this time of year
+05/09/2012,Sunny- Calm- air 67"f beautiful - Just me and one loon
+
+ disappointing to see such lack of clarity this early in the season
+06/07/2012,calm  Sunny - Beautiful- air 75'F 
+06/25/2012,overcast - but bright - air 80'F
+07/15/2012,sunny- wind 5 mph - air 85'F
+lake is low - we need rain!!!!
+but despite the hot days- no shoreline algae blooms-  no rain= no runoff
+08/14/2012,Sunny- Calm- air 78'F  Opti regatta hoping for wind.  Still not much rain-  nights are getting cooler at last
+09/03/2012,perfectly clear and calm - 80"F air-  lots of floating plant pieces after a busy holiday - lots of Sago and Illinois pondweed-  milfoil too.   No gulls today for a change - perfect paddling weather. 
+09/14/2012,Sunny- clear-  Air 60'F- wind 0-3 mph-   lots of gulls- a seaplane- and me
+Last night was 44'F Sunny- clear-  Air 60'F- wind 0-3 mph-   lots of gulls- a seaplane- and me
+Last night was 44'F
+09/24/2012, Sunny- Clear sky- wind 5 mph  Air 72'
+04/27/2013,Sunny- calm  air 58'F  A pair of loons on the lake with me
+05/16/2013,flat calm- sunny - water very clear - could see the lake bottom much better than other years.
+Air 68'F-  night before was 50'F
+06/03/2013,Calm- sunny  air 65'F.
+06/08/2013,Sunny- air 75F  wind 5 mph
+07/17/2013,sunny- wind 2 mph  air 80'F   lake looks clearer this morning but large chunks of filamentous algae at our shore I haven't seen before.  maybe floated in on milfoil rafts   
+08/04/2013,sunny - air 72'F  wind 2 mph
+08/12/2013,calm - air 72"F  need rain  - overcast
+08/26/2013,calm- high clouds-  Air 80'F 
+09/04/2013,Sunny- wind 5 mph  air 60'F  the peace of the lake after Labor Day  - beautiful paddling
+10/02/2013,Flat calm- air is 75'F- lots of gulls on the lake
+04/11/2014,Sunny- Wind 6 mph  the lake just thawed two day ago- and already there are two loons out fishing- and common mergansers doing their spring thing.  Life is good!!
+05/20/2014,Warm!!  78'F-  sunny  wind 2 mph   2 1/2 inches of rain last Sunday night.  Jet ski going in tight circles
+
+Just learned a commercial fisherman got 28-000 lbs of carp and buffalo last winter. remote controlled submarine pulling nets under the ice? whoa
+Also a new settling pond for farm runoff from golf course creek.
+05/29/2014,sunny- calm-   air 70'F  nights have been cool - in the 50-'s    The lake is wonderfully quiet this morning.
+ Commercial fisherman got 26-000 lbs of carp out of lake- and a new holding pond is freshly installed to keep cornfield runoff out of lake.   Hope it works!
+06/05/2014,sunny- calm- air 60'F   Two immature loons hunting near our shore -- carp basking in the shallows
+
+06/16/2014,Sunny/hazy   Air 80'F  Wind 7 mph
+The wind came up whwile I was out there - tried a bucket for a sea anchor - it worked pretty well.
+06/26/2014,Sunny- Wind 5 mph-  air 75' 
+Cool nights- lots of rain lately
+07/08/2014,Sunny- calm. 78'F- beautiful day  
+07/13/2014,Sunny- beautiful- Air '70 F  wind 7 mph
+08/14/2014,Sunny- wind 3 mph-  Air temp 67
+09/02/2014,light wind- bright overcast- air 70'F  the lake is quiet - the crazy weekend is over!!  
+ air 70'F- very light wind - bright- overcast-  the lake is very quiet :)
+09/23/2014,Air 68'F- Wind very light-  algae bloom at shoreline-  raft of 20+ coots near deep hole
+10/07/2014,Sunny- Wind  5 mph  Air 58'F- Cool nights- we had a first frost.  
+ I saw 2 grebes - I think they were horned grebes in winter plumage - cleary not the pied-billed ones
+04/06/2015,Sunny Calm - air 55 F   first paddle of the year  :)
+there were 100+ noisy gulls at my site until I paddled up to them.  I wondered if that affected the phosphorus loading there?  Also One loon kept me company.  We have had a parade of diving duck the last week - mostly mergansers. 
+pair of buffleheads near our shore later. 
+05/20/2015,Wind calm - overcast- but bright-   Air 55 F-
+Just me an a few swallows.  
+05/28/2015,Sunny- air temp 78F- wind light - 0-3 mph
+the lake is blissfully quiet for a nice paddle today
+06/21/2015,Sunny- light wind-   busy lake - lots of boating.  We are judging the Sailboats this morning.
+ in the afternoon the water around our pier was pretty icky looking - greenish grey and low transparency - maybe 1-2 feet.   not a green paint looking on the surface- but cloudy throughout.   best guess is a cojmbination of algae and stirred up bottom from wave action and motorboats. 
+07/23/2015,sunny- very light wind- Air 78'F  
+we had 3" of rain last saturday night.  Nights have been cool - around 60'
+08/12/2015,
+
+sunny- patchy clouds   air 75'F   wind Calm  we need some rain
+08/27/2015,Beautiful day - sunny/hazy
+air 70'F  Light wind  
+pretty green soup at our shore
+not much in the way of weed topping out this year - I don't see the usual weedbed at our 14' contour off our shore.
+Vultures are riding the thermals high overhead
+10/06/2015,light wind- sunny- quiet!!  Air 60'F  leaves just starting to turn
+gull feathers all over the place.  There has been the usual huge gathering of gulls on the lake in the fall. Must be a at least 300 
+04/18/2016,beautiful- very warm day/. Air 78'F  wind calm-. on the lake with a loon- a few gulls- and one waterskier.
+05/17/2016,air 68'F- clouds come and go- quiet lake- wind 3 mph
+06/18/2016,perfect summer day---  Calm- sunny- air 80'F
+except there is a nasty algae bloom along our shore - would not consider swimming
+07/18/2016,Calm- summy6- air 78'F  beautiful day  
+08/18/2016,Sunny- air 76"F- wind light- algae bloom getting started on our shoreline. We have seen this too much this summer. 
+Nights have been cool- in the 60's- days in the 80's  -   not much rain lately.
+09/20/2016,Flat calm- Air 68" night was cool - 55'F  lots of gull feathers floating on surface.  Just me- two skiers- and a grebe.
+very windy yesterday
+09/11/2017,Calm- Sunny- air 80"F 
+ nasty algae bloom on our shore - NW end of lake.  looks like Pea soup with milk spilled in it and smells awful. 
+looks like we are having turnover
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/1989,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/27/1989,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/03/1989,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/10/1989,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/16/1989,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/30/1989,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/24/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/02/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/13/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/22/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/30/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/19/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/30/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/06/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/21/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/04/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/16/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/25/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/30/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/10/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/17/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/26/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/11/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/27/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+11/13/1990,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/18/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/28/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/11/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/21/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/07/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/19/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/02/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/14/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/25/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/31/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/14/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/05/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/08/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/20/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/04/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/10/1991,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+03/19/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/18/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/07/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/27/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/06/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/19/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/17/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/01/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/30/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/21/1992,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/10/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/22/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/30/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/10/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/22/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/03/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/07/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/15/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/03/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/03/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/04/1993,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/10/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/22/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/02/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/10/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/22/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/16/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/05/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/28/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/15/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/07/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/25/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/12/1994,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+03/29/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/02/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/02/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/30/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/14/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/23/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/25/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/14/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/05/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/02/1995,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/15/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/29/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/12/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/25/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/05/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/23/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/24/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/09/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/20/1996,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/21/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/16/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/26/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/01/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/16/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/27/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/26/1997,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/04/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/30/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/10/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/01/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/24/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/15/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/29/1998,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/04/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/24/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/22/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/15/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/25/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/09/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/27/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/04/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/15/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/06/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/29/1999,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+03/30/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/22/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/30/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/28/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/02/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/06/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/15/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/22/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/14/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/08/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/16/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/24/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/02/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/09/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/19/2000,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/20/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/27/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/08/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/17/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/23/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/03/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/09/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/16/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/30/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/10/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/21/2001,Data Collectors,LAC LABELLE MANAGEMENT DISTRICT: Lac La Belle Lake Education Grant
+08/26/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/15/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/23/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/27/2001,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/27/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/06/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/12/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/27/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/04/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/09/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/19/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/27/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/28/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/07/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/20/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/04/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/14/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/02/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/09/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/10/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/20/2002,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/13/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/03/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/01/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/10/2003,USGS,LAC LA BELLE MANAGEMENT DISTRICT: LacLaBelle Water Quality Assessment and Managment Plan Updat
+06/15/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/01/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/08/2003,USGS,LAC LA BELLE MANAGEMENT DISTRICT: LacLaBelle Water Quality Assessment and Managment Plan Updat
+07/12/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/13/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/19/2003,Data Collectors,LAC LA BELLE MANAGEMENT DISTRICT: LacLaBelle Water Quality Assessment and Managment Plan Updat
+08/19/2003,USGS,LAC LA BELLE MANAGEMENT DISTRICT: LacLaBelle Water Quality Assessment and Managment Plan Updat
+09/20/2003,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/15/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/28/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/03/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/27/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/08/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/25/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/02/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/03/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/23/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/29/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/24/2004,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/14/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/24/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/07/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/26/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/05/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/19/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/28/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/28/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/27/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/27/2005,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/26/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/06/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/04/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/29/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/06/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/14/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/08/2006,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/10/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/20/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/08/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/30/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/16/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/25/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/09/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/27/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/03/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/12/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/20/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/23/2007,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/21/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/28/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/10/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/25/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/04/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/12/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/27/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/14/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/25/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; Deep Hole-Site 1
+08/25/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/20/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/17/2008,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/09/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/23/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/04/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/13/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/06/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/20/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/12/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/03/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/14/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/11/2009,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+03/29/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/19/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/06/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/20/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/07/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/18/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/01/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/08/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/19/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/02/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/10/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/18/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/26/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/13/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/04/2010,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/21/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/11/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/29/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/13/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/19/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/26/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/19/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/24/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/29/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/05/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/11/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/22/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/10/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/10/2011,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/03/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/24/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/09/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/07/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/25/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/15/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/14/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/03/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/14/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/24/2012,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/27/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/16/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/03/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/08/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/15/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/17/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/04/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/12/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/26/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/04/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/02/2013,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/11/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/20/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/29/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/05/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/16/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/26/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/08/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/13/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/14/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/02/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/23/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/07/2014,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/06/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/20/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/28/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/16/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/21/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/23/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/12/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/27/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/06/2015,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+04/18/2016,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+05/17/2016,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+06/18/2016,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+07/18/2016,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+08/18/2016,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/20/2016,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/11/2017,Lisa Conley,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/22/2017,Ginny Pease,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+09/30/2017,Ginny Pease,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2
+10/08/2017,Ginny Pease,Citizen Lake Monitoring - Water Quality - Lac La Belle; NW Basin-Site 2

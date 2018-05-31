@@ -1,0 +1,63 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Oconto,462400,NE,43,,453282,NE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190156,10/21/1992,9.75,NO,3,,,44,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,05/06/1993,8.5,NO,2.6,,,46,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190156,06/25/1993,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190156,07/22/1993,7.4,NO,2.2,,,48,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,08/25/1993,9,NO,2.7,,,45,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190156,09/15/1993,10.5,NO,3.2,,,43,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,10/11/1993,8.25,NO,2.5,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190156,06/20/1994,34,NO,10.3,,,26,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,04/26/2016,9.7,NO,2.9,4.16,15.7,44,49,46,,,,,
+1,06/30/2016,8.9,N,2.7,2.27,16.6,46,50,41,,,,,
+1,07/25/2016,7.9,N,2.4,1.71,13.1,47,48,39,,,,,
+1,08/25/2016,9.8,N,3,1.01,25.8,44,53,35,,,,,
+1,11/07/2016,10.1,N,3.1,2.65,20.6,44,52,42,,,,,
+1,02/13/2017,6,N,1.8,,17.5,51,50,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/26/2016,,,10.0,C,10.5,MG/L
+06/30/2016,,,25.2,C,9.7,MG/L
+07/25/2016,,,28.2,C,9.1,MG/L
+08/25/2016,,,24.0,C,8.8,MG/L
+11/07/2016,,,11.1,C,11.7,MG/L
+02/13/2017,,,3.2,C,5.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+10/21/1992,Clear day- no ice.    
+05/06/1993,Ice off- clear day.    
+06/25/1993,Clear day.    
+07/22/1993,Clear day- high weeds.    
+09/15/1993,Partly cloudy- high weed growth.    
+10/11/1993,Clear- windy day- 40 degrees temp.    
+06/20/1994,Very warm- weeds are growing rapidly on the lake- boat traffic was heavy over the weekend.    
+
+
+
+
+Start Date,Group Name,Project Name
+10/21/1992,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+05/06/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+06/25/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+07/22/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+08/25/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+09/15/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+10/11/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+06/20/1994,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+04/26/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+06/30/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+07/25/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+08/25/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+11/07/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+02/13/2017,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan

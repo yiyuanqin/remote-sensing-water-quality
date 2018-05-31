@@ -1,0 +1,80 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Arrowhead,Adams,1377700,WC,1,,10031430,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+35007228,08/03/2010,,,,,104,,64,,,,,,
+34991315,08/24/2010,,,,,110,,65,,,,,,
+34991315,05/24/2011,,,,,7720,,97,,,,,,
+34991315,06/21/2011,,,,,1490,,85,,,,,,
+48236087,07/19/2011,,,,,3260,,91,,,,,,
+34991315,08/21/2011,,,,,586,,77,,,,,,
+50481978,09/11/2011,,,,,485,,76,,,,,,
+62237783,06/14/2012,,,,,76,,62,,,,,,
+1,07/16/2012,,,,,94,,63,,,,,,
+50481978,08/10/2012,,,,,324,,73,,,,,,
+50481978,08/13/2012,,,,,109,,64,,,,,,
+34991315,06/17/2013,,,,,114,,65,,,,,,
+34991315,07/23/2013,,,,,101,,64,,,,,,
+81502463,08/20/2013,,,,,125,,66,,,,,,
+34991315,09/09/2013,,,,,117,,65,,,,,,
+34991315,10/07/2013,,,,,153,,67,,,,,,
+34991315,06/02/2014,,,,,136,,66,,,,,,
+34991315,07/06/2014,,,,,417,,75,,,,,,
+34991315,08/11/2014,,,,,119,,65,,,,,,
+34991315,09/15/2014,,,,,88.6,,63,,,,,,
+34991315,10/13/2014,,,,,116,,65,,,,,,
+34991315,06/08/2015,,,,,127,,66,,,,,,
+34991315,07/06/2015,,,,,92.7,,63,,,,,,
+34991315,08/03/2015,,,,,107,,64,,,,,,
+34991315,09/01/2015,,,,,100,,64,,,,,,
+34991315,10/05/2015,,,,,149,,67,,,,,,
+1,05/31/2016,,,,,168,,68,,,,,,
+1,07/05/2016,,,,,111,,65,,,,,,
+1,08/08/2016,,,,,101,,64,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/03/2010,Lucas Black- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+08/24/2010,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+05/24/2011,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/21/2011,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/19/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/21/2011,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+09/11/2011,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/14/2012,Trevor Skerven,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/16/2012,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/10/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/13/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/17/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/23/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+08/20/2013,Nick Walkosz,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/09/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/07/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+06/02/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+07/06/2014,Dennis Poehler,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/11/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/15/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/13/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+06/08/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+07/06/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+08/03/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+09/01/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+10/05/2015,Dennis Poehler,Tri-Lakes - Extra Sampling 
+05/31/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+07/05/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+08/08/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling

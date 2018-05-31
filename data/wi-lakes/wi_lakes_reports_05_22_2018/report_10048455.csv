@@ -1,0 +1,27 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Dane,5577031,SC,13,,10048455,SE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,07/06/2017,,,,1250,286,,72,89,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/06/2017,0,METERS,24.6,DEGREES C,7.2,MG/L
+07/06/2017,0.5,METERS,24.6,DEGREES C,7.1,MG/L
+07/06/2017,0.9,METERS,24,DEGREES C,3.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/06/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

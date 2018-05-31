@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Camp Lake,Marinette,584700,NE,38,,10007705,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000045,09/16/2016,3.94,NO,1.2,,,57,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/16/2016,3,FEET,23.18,DEGREES C,6.77,MG/L
+09/16/2016,6,FEET,23.16,DEGREES C,6.76,MG/L
+09/16/2016,9,FEET,23.2,DEGREES C,6.76,MG/L
+09/16/2016,12,FEET,23.13,DEGREES C,6.8,MG/L
+09/16/2016,15,FEET,23.04,DEGREES C,6.7,MG/L
+09/16/2016,18,FEET,22.92,DEGREES C,6.4,MG/L
+09/16/2016,21,FEET,21.83,DEGREES C,3.84,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/16/2016,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)

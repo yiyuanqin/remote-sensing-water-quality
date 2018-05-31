@@ -1,0 +1,44 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Burnett,2677900,NO,7,,10047717,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/27/2017,,,,,,,,,,,,,
+10585221,07/18/2017,,,,3.59,23.9,,53,44,,,,,
+82607229,08/08/2017,6,YES,1.8,3.46,20.1,51,51,44,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10585221,09/06/2017,6,YES,1.8,2.96,24.4,51,53,43,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/27/2017,,,19.8,C,,
+08/08/2017,0,FEET,75.3,DEGREES F,12.07,MG/L
+08/08/2017,1,FEET,75.3,DEGREES F,12.09,MG/L
+08/08/2017,2,FEET,75.3,DEGREES F,12.14,MG/L
+08/08/2017,3,FEET,75.2,DEGREES F,12.44,MG/L
+08/08/2017,4,FEET,74.7,DEGREES F,14.71,MG/L
+08/08/2017,5,FEET,74.7,DEGREES F,13.49,MG/L
+09/06/2017,0,FEET,64,DEGREES F,7.16,MG/L
+09/06/2017,1,FEET,64,DEGREES F,7.18,MG/L
+09/06/2017,2,FEET,64,DEGREES F,7.27,MG/L
+09/06/2017,3,FEET,64.1,DEGREES F,8.33,MG/L
+09/06/2017,4,FEET,64.6,DEGREES F,8.5,MG/L
+09/06/2017,5,FEET,64.8,DEGREES F,8.72,MG/L
+09/06/2017,6,FEET,64.8,DEGREES F,8.73,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/27/2017,Data Collectors,Herbicide Concentration Monitoring
+07/18/2017,MARK SUNDEEN,Directed Lakes 2017 Smith
+08/08/2017,Mark Sundeen and Alex Smith,Directed Lakes 2017 Smith
+09/06/2017,MARK SUNDEEN,Directed Lakes 2017 Smith

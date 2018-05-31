@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pine Lake,Waushara,1012000,NE,70,,10044861,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/18/2016,,,,,,,,,,,,,
+1,05/20/2016,,,,,,,,,,,,,
+1,05/22/2016,,,,,,,,,,,,,
+1,05/24/2016,,,,,,,,,,,,,
+1,05/30/2016,,,,,,,,,,,,,
+1,06/08/2016,,,,,,,,,,,,,
+1,06/21/2016,,,,,,,,,,,,,
+1,07/04/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/18/2016,,,13.5,C,,
+05/20/2016,,,17.3,C,,
+05/22/2016,,,22.2,C,,
+05/24/2016,,,22.4,C,,
+05/30/2016,,,24.6,C,,
+06/08/2016,,,23.1,C,,
+06/21/2016,,,24.9,C,,
+07/04/2016,,,25.3,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/18/2016,Data Collectors,Herbicide Concentration Monitoring
+05/20/2016,Data Collectors,Herbicide Concentration Monitoring
+05/22/2016,Data Collectors,Herbicide Concentration Monitoring
+05/24/2016,Data Collectors,Herbicide Concentration Monitoring
+05/30/2016,Data Collectors,Herbicide Concentration Monitoring
+06/08/2016,Data Collectors,Herbicide Concentration Monitoring
+06/21/2016,Data Collectors,Herbicide Concentration Monitoring
+07/04/2016,Data Collectors,Herbicide Concentration Monitoring

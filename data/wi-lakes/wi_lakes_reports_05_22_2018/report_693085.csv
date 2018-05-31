@@ -1,0 +1,537 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Weyauwega Lake,Waupaca,257700,NE,69,,693085,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190523,06/10/1987,6,YES,1.8,,,51,,,,,,BLUE/GREEN,
+8190523,06/17/1987,7.5,YES,2.3,,,48,,,,,,BLUE/GREEN,
+8190523,06/24/1987,5.25,YES,1.6,,,53,,,,,,GREEN,
+8190523,07/02/1987,5.5,YES,1.7,,,53,,,,,,GREEN,
+8190523,07/15/1987,4.5,YES,1.4,,,55,,,,,,GREEN,
+8190523,07/22/1987,6,YES,1.8,,,51,,,,,,GREEN,
+8190523,07/29/1987,5.5,YES,1.7,,,53,,,,,,GREEN,
+8190523,08/05/1987,7,YES,2.1,,,49,,,,,,GREEN,
+8190523,08/12/1987,5,YES,1.5,,,54,,,,,,GREEN,
+8190523,08/19/1987,4.5,YES,1.4,,,55,,,,,,GREEN,
+8190523,08/26/1987,5.75,YES,1.7,,,52,,,,,,GREEN/BROWN,
+8190523,09/02/1987,6.5,YES,2,,,50,,,,,,BLUE/GREEN,
+8190523,09/09/1987,6,YES,1.8,,,51,,,,,CLEAR,BLUE,
+8190523,09/25/1987,7.25,YES,2.2,,,49,,,,,CLEAR,BLUE,
+8190523,10/03/1987,6.75,YES,2.1,,,50,,,,,,BROWN,
+8190523,10/10/1987,6,YES,1.8,,,51,,,,,CLEAR,BLUE,
+8190523,10/27/1987,5.75,YES,1.7,,,52,,,,,CLEAR,BLUE,
+8190523,11/03/1987,6,YES,1.8,,,51,,,,,CLEAR,BLUE,
+8190523,06/02/1988,4,NO,1.2,,,57,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,06/10/1988,6.5,NO,2,,,50,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,06/16/1988,3.5,NO,1.1,,,59,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,06/24/1988,6.5,NO,2,,,50,,,,,CLEAR,BLUE,
+8190523,07/06/1988,6.5,NO,2,,,50,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/18/1988,3.5,NO,1.1,,,59,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,07/27/1988,7,NO,2.1,,,49,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/10/1988,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/26/1988,4.5,NO,1.4,,,55,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,09/01/1988,5.25,NO,1.6,,,53,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,09/14/1988,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190523,09/30/1988,6.5,NO,2,,,50,,,,,CLEAR,BLUE,
+8190523,10/06/1988,6.25,NO,1.9,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190523,10/20/1988,7,NO,2.1,,,49,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190523,11/03/1988,6.5,NO,2,,,50,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190523,06/19/1989,4.5,YES,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,06/28/1989,7.5,YES,2.3,,,48,,,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,07/05/1989,6.25,YES,1.9,,,51,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/12/1989,5.75,NO,1.7,,,52,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,07/26/1989,5,NO,1.5,,,54,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/02/1989,8,YES,2.4,,,47,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/09/1989,5.5,NO,1.7,,,53,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,08/16/1989,8,YES,2.4,,,47,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,08/30/1989,7,YES,2.1,,,49,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,09/06/1989,5.75,YES,1.7,,,52,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,09/13/1989,6.75,YES,2.1,,,50,,,,,,LIGHT BROWN,4-Would not swim but boating OK (algae)
+8190523,09/20/1989,7.5,YES,2.3,,,48,,,,,,LT. BROWN,4-Would not swim but boating OK (algae)
+8190523,09/27/1989,7.75,YES,2.4,,,48,,,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,10/05/1989,6,NO,1.8,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190523,10/24/1989,6,NO,1.8,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190523,05/30/1990,4.5,NO,1.4,,,55,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190523,06/13/1990,6,NO,1.8,,,51,,,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,06/27/1990,3,NO,0.9,,,61,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,07/11/1990,7,NO,2.1,,,49,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/18/1990,5,NO,1.5,,,54,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/27/1990,8,YES,2.4,,,47,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/01/1990,7.5,YES,2.3,,,48,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/08/1990,7,YES,2.1,,,49,,,,,,LIGHT BROWN,5-Enjoyment substantially impaired (algae)
+8190523,08/15/1990,7.5,YES,2.3,,,48,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/23/1990,7,NO,2.1,,,49,,,,,,LIGHT BROWN,5-Enjoyment substantially impaired (algae)
+8190523,09/05/1990,8,YES,2.4,,,47,,,,,,LIGHT GREEN,5-Enjoyment substantially impaired (algae)
+8190523,09/13/1990,6.5,NO,2,,,50,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,09/26/1990,6.5,NO,2,,,50,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,10/11/1990,8,YES,2.4,,,47,,,,,,LIGHT BROWN,2-Very minor aesthetic problems
+8190523,10/17/1990,5.5,NO,1.7,,,53,,,,,,LIGHT GREEN,2-Very minor aesthetic problems
+8190523,05/25/1991,6.75,NO,2.1,,,50,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,05/30/1991,7,NO,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,06/12/1991,8.5,YES,2.6,,,46,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,06/20/1991,8,YES,2.4,,,47,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/03/1991,7.75,YES,2.4,,,48,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/10/1991,7.25,YES,2.2,,,49,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/24/1991,8,YES,2.4,,,47,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/01/1991,7,NO,2.1,,,49,,,,,CLEAR,,5-Enjoyment substantially impaired (algae)
+8190523,08/14/1991,7.25,NO,2.2,,,49,,,,,,LIGHT BROWN,5-Enjoyment substantially impaired (algae)
+8190523,08/29/1991,7.25,YES,2.2,,,49,,,,,,LIGHT BROWN,4-Would not swim but boating OK (algae)
+8190523,09/04/1991,7,YES,2.1,,,49,,,,,,LIGHT BROWN,4-Would not swim but boating OK (algae)
+8190523,09/13/1991,7.75,YES,2.4,,,48,,,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,09/27/1991,8.25,NO,2.5,,,47,,,,,,LIGHT GREEN,2-Very minor aesthetic problems
+8190523,10/11/1991,8.5,NO,2.6,,,46,,,,,,LT. GREEN,2-Very minor aesthetic problems
+8190523,05/28/1992,7,NO,2.1,,,49,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,06/29/1993,5.5,NO,1.7,,,53,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,07/14/1993,6,NO,1.8,,,51,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,07/24/1993,5.25,NO,1.6,,,53,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,08/01/1993,5,NO,1.5,,,54,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,05/04/1994,4.5,NO,1.4,4.58,26,55,53,46,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190523,05/18/1994,4.25,NO,1.3,,,56,,,,,,LIGHT BROWN,3-Enjoyment somewhat impaired (algae)
+8190523,06/09/1994,7.25,YES,2.2,,,49,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,06/25/1994,4,NO,1.2,7.42,79,57,62,50,,,,GREEN,4-Would not swim but boating OK (algae)
+8190523,07/09/1994,3,YES,0.9,,,61,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+1,07/25/1994,,,,3.34,48,,58,44,,,,,
+8190523,07/30/1994,7.25,YES,2.2,4.04,70,49,61,45,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/13/1994,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,08/25/1994,7,YES,2.1,38.9,109,49,64,62,,,,BROWN,4-Would not swim but boating OK (algae)
+1,09/07/1994,,,,2.54,28,,54,42,,,,,
+8190523,09/14/1994,7.25,YES,2.2,,,49,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190523,09/29/1994,7,YES,2.1,3,57,49,59,43,,,,GREEN,2-Very minor aesthetic problems
+8190523,05/31/1995,6.5,NO,2,1.67,50,50,58,39,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,06/20/1995,7.25,YES,2.2,,,49,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+1,06/27/1995,,,,3.95,93,,63,45,,,,,
+8190523,07/20/1995,7.25,YES,2.2,0.31,56,49,59,26,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,08/26/1995,6.5,NO,2,,,50,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/29/1995,,,,5.5,66,,61,48,,,,,
+8190523,09/23/1995,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+1,09/26/1995,,,,1.77,18,,51,39,,,,,
+8190523,05/09/1996,5.5,NO,1.7,6.42,26,53,53,49,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190523,06/13/1996,6,NO,1.8,33.9,47,51,58,61,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,07/20/1996,3,NO,0.9,4.46,78,61,62,46,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,08/31/1996,4,NO,1.2,11.7,37,57,56,53,,,,BROWN,4-Would not swim but boating OK (algae)
+8190523,09/26/1996,4,NO,1.2,,,57,,,,,,GREEN,
+1,10/02/1996,,,,3.46,34,,55,44,,,,,
+8190523,05/03/1997,4.5,NO,1.4,,,55,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+8190523,05/17/1997,7.5,NO,2.3,,,48,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190523,05/31/1997,6,NO,1.8,38.9,63,51,60,62,,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190523,06/14/1997,,,,,,,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,07/01/1997,6,NO,1.8,2.43,,51,,42,,,,BROWN,
+8190523,07/19/1997,3,NO,0.9,,,61,,,,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8190523,08/04/1997,6,NO,1.8,10.4,54,51,59,53,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,08/18/1997,6,NO,1.8,,,51,,,,,CLEAR,BROWN,
+8190523,09/01/1997,8,NO,2.4,2.45,55,47,59,42,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,09/15/1997,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190523,09/27/1997,7.5,NO,2.3,2.18,43,48,57,41,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190523,05/15/1999,6.5,NO,2,,25,50,53,,GAUGE,70,CLEAR,BROWN,2-Very minor aesthetic problems
+8190523,06/24/1999,6.5,YES,2,4.27,47,50,58,46,GAUGE,70,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190523,08/14/1999,7,YES,2.1,1.9,31,49,55,40,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190523,09/25/1999,6,NO,1.8,2.82,,51,,43,GAUGE,71,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190523,10/20/1999,6.5,NO,2,,47,50,58,,GAUGE,70,CLEAR,BLUE,2-Very minor aesthetic problems
+1,05/30/2000,,,,2.6,9,,45,42,,,,,
+8190523,06/17/2000,5,NO,1.5,2.1,48,54,58,40,GAUGE,70.25,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/29/2000,,,,1,48,,58,35,,,,,
+8190523,08/14/2000,7,NO,2.1,3,95,49,63,43,GAUGE,70.25,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190523,09/23/2000,8,YES,2.4,2.1,27,47,54,40,GAUGE,70.25,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+1,10/02/2000,,,,2,15,,49,40,,,,,
+1,10/14/2000,,,,2.3,,,,41,,,,,
+8190523,06/28/2001,5.5,NO,1.7,11,,53,,53,GAUGE,70,CLEAR,GREEN,
+8190523,07/26/2001,5.5,NO,1.7,169,,53,,74,GAUGE,70,CLEAR,BROWN,
+8190523,08/20/2001,7,NO,2.1,8,,49,,51,GAUGE,70.25,CLEAR,BLUE,
+8190523,09/27/2001,7,YES,2.1,2.6,,49,,42,GAUGE,70,CLEAR,BLUE,
+8190523,10/20/2001,6,NO,1.8,48,,51,,64,GAUGE,70.5,CLEAR,BLUE,
+8190523,05/22/2002,6,NO,1.8,,41,51,57,,GAUGE,70,CLEAR,BLUE,
+8190523,06/29/2002,8,YES,2.4,3.48,15,47,49,44,GAUGE,70,CLEAR,BLUE,
+8190523,07/18/2002,7,YES,2.1,7.97,392,49,74,50,GAUGE,70,CLEAR,BLUE,
+8190523,08/29/2002,7,YES,2.1,1.85,35,49,56,39,GAUGE,70,CLEAR,BLUE,
+8190523,10/17/2002,7,YES,2.1,1.28,128,49,66,37,GAUGE,70,CLEAR,BLUE,
+116111830,05/13/2015,,,,,23.5,,53,,,,,,
+118829614,05/13/2015,7,YES,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+1,06/15/2015,,,,7.66,71.1,,61,50,,,,,
+118829614,06/15/2015,8,YES,2.4,,,47,,,NORMAL,,MURKY,RED,2-Very minor aesthetic problems
+116111830,07/08/2015,,,,2.11,66.1,,61,40,,,,,
+118829614,07/08/2015,,YES,,,,,,,NORMAL,,CLEAR,GREEN,
+116111830,08/13/2015,7.5,YES,2.3,,,48,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118829612,08/13/2015,7.5,YES,2.3,,,48,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+116111830,05/23/2016,,,,,36.2,,56,,,,,,
+116111830,07/11/2016,,,,9.77,62.2,,60,52,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/04/1994,1,FEET,55,DEGREES F,,
+05/04/1994,6,FEET,52,DEGREES F,,
+06/25/1994,1,FEET,74,DEGREES F,,
+06/25/1994,3,FEET,72,DEGREES F,,
+06/25/1994,6,FEET,71,DEGREES F,,
+07/25/1994,,,20.43,C,5.79,MG/L
+07/30/1994,1,FEET,72,DEGREES F,,
+07/30/1994,4,FEET,70,DEGREES F,,
+07/30/1994,7,FEET,70,DEGREES F,,
+08/25/1994,1,FEET,74,DEGREES F,,
+08/25/1994,4,FEET,71,DEGREES F,,
+08/25/1994,7,FEET,70,DEGREES F,,
+09/07/1994,,,16.54,C,7.39,MG/L
+09/29/1994,1,FEET,58,DEGREES F,,
+09/29/1994,4,FEET,56,DEGREES F,,
+09/29/1994,6,FEET,56,DEGREES F,,
+05/31/1995,1,FEET,68,DEGREES F,,
+05/31/1995,3,FEET,66,DEGREES F,,
+05/31/1995,6,FEET,61,DEGREES F,,
+06/20/1995,1,FEET,85,DEGREES F,,
+06/20/1995,3,FEET,82,DEGREES F,,
+06/20/1995,6,FEET,78,DEGREES F,,
+07/20/1995,1,FEET,74,DEGREES F,,
+07/20/1995,3,FEET,73,DEGREES F,,
+07/20/1995,6,FEET,72,DEGREES F,,
+08/26/1995,1,FEET,73,DEGREES F,,
+08/26/1995,3,FEET,71,DEGREES F,,
+08/26/1995,6,FEET,71,DEGREES F,,
+09/23/1995,1,FEET,51,DEGREES F,,
+09/23/1995,3,FEET,51,DEGREES F,,
+09/23/1995,6,FEET,50,DEGREES F,,
+05/09/1996,1,FEET,52,DEGREES F,,
+05/09/1996,3,FEET,52,DEGREES F,,
+05/09/1996,6,FEET,52,DEGREES F,,
+06/13/1996,1,FEET,74,DEGREES F,,
+06/13/1996,3,FEET,73,DEGREES F,,
+06/13/1996,6,FEET,70,DEGREES F,,
+07/20/1996,1,FEET,71,DEGREES F,,
+07/20/1996,3,FEET,69,DEGREES F,,
+07/20/1996,6,FEET,69,DEGREES F,,
+08/31/1996,1,FEET,71,DEGREES F,,
+08/31/1996,3,FEET,70,DEGREES F,,
+08/31/1996,6,FEET,69,DEGREES F,,
+09/26/1996,1,FEET,56,DEGREES F,,
+09/26/1996,3,FEET,57,DEGREES F,,
+09/26/1996,6,FEET,57,DEGREES F,,
+05/31/1997,1,FEET,77,DEGREES F,,
+05/31/1997,3,FEET,75,DEGREES F,,
+05/31/1997,6,FEET,74,DEGREES F,,
+07/01/1997,1,FEET,77,DEGREES F,,
+07/01/1997,3,FEET,75,DEGREES F,,
+07/01/1997,6,FEET,74,DEGREES F,,
+09/01/1997,3,FEET,71,DEGREES F,,
+09/01/1997,6,FEET,67,DEGREES F,,
+05/15/1999,1,FEET,65,DEGREES F,,
+05/15/1999,6,FEET,61,DEGREES F,,
+06/24/1999,3,FEET,76,DEGREES F,,
+06/24/1999,6,FEET,73,DEGREES F,,
+09/25/1999,3,FEET,58,DEGREES F,,
+09/25/1999,6,FEET,57,DEGREES F,,
+06/17/2000,1,FEET,67,DEGREES F,,
+06/17/2000,3,FEET,67,DEGREES F,,
+06/17/2000,6,FEET,66,DEGREES F,,
+08/14/2000,1,FEET,76,DEGREES F,,
+08/14/2000,3,FEET,75,DEGREES F,,
+08/14/2000,6,FEET,75,DEGREES F,,
+09/23/2000,1,FEET,56,DEGREES F,,
+09/23/2000,3,FEET,55,DEGREES F,,
+09/23/2000,6,FEET,55,DEGREES F,,
+06/28/2001,1,FEET,74,DEGREES F,,
+06/28/2001,3,FEET,73,DEGREES F,,
+06/28/2001,6,FEET,71,DEGREES F,,
+07/26/2001,1,FEET,76,DEGREES F,,
+07/26/2001,3,FEET,73,DEGREES F,,
+07/26/2001,6,FEET,73,DEGREES F,,
+08/20/2001,1,FEET,72,DEGREES F,,
+08/20/2001,3,FEET,69,DEGREES F,,
+08/20/2001,6,FEET,68,DEGREES F,,
+09/27/2001,1,FEET,58,DEGREES F,,
+09/27/2001,3,FEET,57,DEGREES F,,
+09/27/2001,6,FEET,56,DEGREES F,,
+10/20/2001,1,FEET,48,DEGREES F,,
+10/20/2001,3,FEET,48,DEGREES F,,
+10/20/2001,6,FEET,48,DEGREES F,,
+05/13/2015,2,FEET,57,DEGREES F,,
+06/15/2015,2,FEET,68.3,DEGREES F,,
+06/15/2015,8,FEET,63.8,DEGREES F,,
+07/08/2015,2,FEET,69.8,DEGREES F,,
+07/08/2015,8,FEET,66.5,DEGREES F,,
+08/13/2015,2,FEET,72.5,DEGREES F,,
+08/13/2015,8,FEET,70.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/10/1987,Algae blooms- calm- partly cloudy- and lots of weeds.    
+06/17/1987,Calm- hazy- lots of weeds- and algae bloom.    
+06/24/1987,Clear- sunny- calm- and lots of weeds.    
+07/02/1987,Calm- cloudy- and lots of weeds.    
+07/15/1987,Partly cloudy- calm- and the weeds are getting bad.    
+07/22/1987,Hazy- light winds- and the weeds are getting bad.    
+07/29/1987,Sunny- calm- weeds are bad- algae blooms.    
+08/05/1987,Cloudy- calm- weed are bad- algae blooms.    
+08/12/1987,Sunny- light winds- weeds are bad.    
+08/19/1987,Partly cloudy- windy- lots of weeds.    
+08/26/1987,Cloudy- light winds- algae blooms.    
+09/02/1987,Partly cloudy- light winds- weeds are starting to die out- cold nights.    
+09/09/1987,Sunny- light winds- weeds are dying out.    
+09/25/1987,Sunny- medium winds- water level up after heavy rains last week.    
+10/03/1987,Sunny- light winds- taken after two days of strong winds.    
+10/10/1987,Cloudy- light winds- water low.    
+10/27/1987,Medium wind- partly cloudy.    
+11/03/1987,Water high- partly cloudy- light winds- last reading this year.    
+06/02/1988,Opinion based on weeds- ice off4/1/88- cloudy- calm    
+06/10/1988,Opinion based on weeds- bright- light winds    
+06/16/1988,Opinion based on weeds- pt. cloudy- lt. wind    
+06/24/1988,Opinion based on weeds- med. winds- channel weedy    
+07/06/1988,Opinion based on weeds- clear- hot- med. winds    
+07/18/1988,Opinion based on weeds- cloudy- light wind    
+07/27/1988,Opinion based on weeds- sunny- hot- light winds    
+08/10/1988,Weeds- sunny- lt. winds    
+08/26/1988,Opinion effected by weeds- pt. sunny- med. winds    
+09/01/1988,Weeds- hazy- med. winds    
+09/14/1988,Weeds- sunny- light wind- weeds dying due to cold nights    
+09/30/1988,Hazy- lt. wind    
+10/06/1988,Pt. cloudy- lt. winds- all the weeds are down    
+10/20/1988,Cloudy- lt. winds    
+11/03/1988,Pt. cloudy- calm- last reading    
+06/19/1989,Weeds- sunny- calm    
+06/28/1989,Partly cloudy- lt. wind- weeds    
+07/05/1989,Sunny- calm- very weedy    
+07/12/1989,Weeds- partly cloudy- light wind- brown color due to recent rain    
+07/26/1989,Partly cloudy- lots of weeds    
+08/02/1989,Sunny- lots of weeds    
+08/09/1989,Sunny- lt. winds- lots of weeds    
+08/16/1989,Sunny- calm- algae bloom- weeds    
+08/30/1989,Sunny- calm- weeds starting to die    
+09/06/1989,Cloudy- light wind    
+09/13/1989,Partly cloudy- lt. wind- weeds dying    
+09/20/1989,Sunny- light winds    
+09/27/1989,Sunny    
+10/05/1989,Cloudy- all the weeds are down    
+10/24/1989,Sunny- light winds- last report    
+05/30/1990,Clear- lt. winds- panfish spawning- weeds inhibiting fishing    
+06/13/1990,Partly cloudy- lt. wind- 1.75" rain last night- weeds    
+06/27/1990,Cloudy- lt. wind- over 5" rain past 10 days    
+07/11/1990,Partly cloudy- lt. wind- weeds- algae    
+07/18/1990,Partly cloudy- med. wind- weeds- algae    
+07/27/1990,Cloudy- calm- weeds- algae    
+08/01/1990,Sunny- lt. wind- weeds- algae    
+08/08/1990,Sunny- lt. wind- weeds- algae    
+08/15/1990,Cloudy- calm- weeds- algae    
+08/23/1990,Partly cloudy- lt. wind- weeds- algae- 2" rain 8/18-19    
+09/05/1990,Sunny- calm- weeds- algae- loon landed last Friday    
+09/13/1990,Sunny- weeds- algae    
+09/26/1990,Sunny- lt. wind- weeds dying- algae    
+10/11/1990,Sunny- lt. wind- weeds all under water    
+10/17/1990,Cloudy- lt. wind- last reading    
+05/25/1991,Cloudy- medium winds- 4.5" rain on 5/22- weeds up the last 2 weeks    
+05/30/1991,Partly cloudy- light winds- weedy- rain    
+06/12/1991,Sunny- calm    
+06/20/1991,Partly cloudy- calm    
+07/03/1991,Partly sunny- medium winds- weedy    
+07/10/1991,Weedy- partly sunny- light winds    
+07/24/1991,Weedy- partly cloudy- calm    
+08/01/1991,Weedy- sunny- medium winds    
+08/14/1991,Same as channel    
+08/29/1991,Same as channel    
+09/04/1991,Same as channel    
+09/13/1991,Calm- cloudy    
+09/27/1991,Same as channel    
+10/11/1991,Lt. wind- sunny.    
+05/28/1992,The weeds are up- looks like July.    
+06/29/1993,Ice-off- weeds- partly cloudy and light winds.    
+07/14/1993,Weeds- ice-off- sunny and calm.    
+07/24/1993,Weeds- ice-off- algal blooms- partly cloudy and calm winds.    
+08/01/1993,Weeds- ice-off- algal blooms- sunny and light winds.    
+05/18/1994,Public perception due to weeds.  Sunny- light winds.    
+06/09/1994,Public perception due to weeds.  Sunny- calm- lots of weeds    
+07/09/1994,Public perception due to weeds.  Overcast- light winds- 7/1-7/9/94 8-10" rain.    
+08/13/1994,M. cloudy- light winds- weeds are dying off.    
+09/14/1994,Public perception due to weeds.  Sunny.    
+05/31/1995,Sunny and calm- channel secchi is 9.5'    
+06/20/1995,Sunny- hot and calm- blue gills died off last week when weather changed.    
+07/20/1995,Sunny and calm- wood ducks are about 3 weeks old.    
+08/26/1995,Hazy and calm.  Last 3 weeks about 10" of rain.  Weeds are starting to die off.    
+09/23/1995,Sunny light winds- cool- last time- see you next year.    
+05/09/1996,Cloudy- mild- ice off 5/10/96.    
+06/13/1996,Sunny- hot- light winds- lots of weeds.    
+07/20/1996,Light winds- clear- 4-6" of rain on 7/18/96- weeds are down     
+08/31/1996,Clear- sunny and calm.  Lots of weeds.    
+09/26/1996,Cloudy- light rain- light winds- weeds are starting to die off.    
+05/03/1997,Light winds- cloudy- ice-off.    
+05/17/1997,Sunny- calm.    
+05/31/1997,Sunny- calm.  Thunder May 29- 3/4 inch of rain.    
+06/14/1997,Too many weeds to use secchi disk.    
+07/01/1997,Sunny and calm.  Lots of weeds.  Rain last night.    
+07/19/1997,7-16-97 - 2.5  inches of rain.  Partly cloudy with light winds.    
+08/04/1997,Partly cloudy.  Light winds- lots of weeds.    
+08/18/1997,Cloudy with light winds.  8/14/97 - 2.75 inches of rain.    
+09/01/1997,Sunny and light winds.    
+09/27/1997,LAKE SAMPLE    
+05/15/1999,LAKE SAMPLE    
+06/29/2000,INTEGRATED WATER SAMPLE    
+08/14/2000,Color strip #2.    
+09/23/2000,Color strip #1.    
+10/14/2000,(2 SAMPLES REC`D- UNABLE TO TELL IF 3FT OR 6FT-INTEG- SEE IL010224)    
+06/28/2001,MIDDLE    
+07/26/2001,MIDDLE    
+08/20/2001,MIDDLE    
+09/27/2001,MIDDLE    
+10/20/2001,MIDDLE    
+05/22/2002,MIDDLE - 6FT INTEGRATED SAMPLE    
+06/29/2002,MIDDLE - 6FT INTEGRATED SAMPLE    
+07/18/2002,MIDDLE - 6FT INTEGRATED SAMPLE    
+08/29/2002,MIDDLE - 6FT INTEGRATED SAMPLE    
+10/17/2002,MIDDLE - 6FT INTEGRATED SAMPLE    
+
+
+
+
+Start Date,Group Name,Project Name
+06/10/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/17/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/24/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/02/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/15/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/22/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/29/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/05/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/12/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/19/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/26/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/02/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/09/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/25/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/03/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/10/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/27/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+11/03/1987,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/02/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/10/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/16/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/24/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/06/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/18/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/27/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/10/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/26/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/01/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/14/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/30/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/06/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/20/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+11/03/1988,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/19/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/28/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/05/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/12/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/26/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/02/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/09/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/16/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/30/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/06/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/13/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/20/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/27/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/05/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/24/1989,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/30/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/13/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/27/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/11/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/18/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/27/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/01/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/08/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/15/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/23/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/05/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/13/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/26/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/11/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/17/1990,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/25/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/30/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/12/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/20/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/03/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/10/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/24/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/01/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/14/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/29/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/04/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/13/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/27/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/11/1991,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/28/1992,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/29/1993,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/14/1993,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/24/1993,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/01/1993,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/04/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/18/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/09/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/25/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/09/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/25/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/30/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/13/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/25/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/07/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/14/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/29/1994,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/31/1995,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/20/1995,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/27/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/20/1995,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/26/1995,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/29/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/23/1995,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/26/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/09/1996,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/13/1996,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/20/1996,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/31/1996,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/26/1996,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/02/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/03/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/17/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/31/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/14/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/01/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/19/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/04/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/18/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/01/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/15/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/27/1997,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/15/1999,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/24/1999,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/14/1999,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/25/1999,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/20/1999,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/30/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/17/2000,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/29/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/2000,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/23/2000,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/02/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/14/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/28/2001,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/26/2001,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/20/2001,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+09/27/2001,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/20/2001,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/22/2002,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/29/2002,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/18/2002,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/29/2002,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+10/17/2002,Bob Radtke,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/13/2015,Jim Tolfa,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/13/2015,Jim Tolfa and Bob Degodt,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/15/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+06/15/2015,Jim Tolfa and Bob Degodt,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/08/2015,Jim Tolfa,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/08/2015,Jim Tolfa and Bob Degodt,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/13/2015,Bob Degodt,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+08/13/2015,Jim Tolfa,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+05/23/2016,Jim Tolfa,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole
+07/11/2016,Jim Tolfa,Citizen Lake Monitoring - Water Quality - Weyauwega Lake; Deep Hole

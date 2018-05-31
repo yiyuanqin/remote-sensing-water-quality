@@ -1,0 +1,43 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Winnebago,Winnebago,131100,NE,71,,714005,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/03/1979,,,,17.39,70,,61,56,,,,,
+1,02/09/1999,,,,0.6,12,,47,31,,,,,
+1,04/13/1999,1.6,,0.5,10.5,39,70,57,53,,,,,
+1,06/16/1999,3.3,,1,15.2,46,60,58,55,,,,,
+1,07/22/1999,4.5,,1.4,13.4,79,55,62,54,,,,,
+89214715,09/21/2015,,,,95.1,114,,65,69,,,,,
+89214715,07/27/2016,,,,14.7,49.9,,58,55,,,,,
+89214715,09/02/2016,,,,26.3,76.1,,62,60,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/03/1979,,,,,7.3,MG/L
+04/13/1999,,,7.4,C,11.6,MG/L
+06/16/1999,,,20.5,C,5.9,MG/L
+07/22/1999,,,23.8,C,7.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/03/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/03/1979,Data Collectors,Migrated from STORET Legacy
+02/09/1999,Data Collectors,LAKE EVAL BASIC
+04/13/1999,Data Collectors,LAKE EVAL BASIC
+06/16/1999,Data Collectors,LAKE EVAL BASIC
+07/22/1999,Data Collectors,
+09/21/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/27/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+09/02/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

@@ -1,0 +1,49 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sand Bar Lake,Bayfield,2494900,NO,4,,10048239,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/16/2017,,,,,,,,,,,,,
+1,05/18/2017,,,,,,,,,,,,,
+1,05/20/2017,,,,,,,,,,,,,
+1,05/22/2017,,,,,,,,,,,,,
+1,05/29/2017,,,,,,,,,,,,,
+1,06/05/2017,,,,,,,,,,,,,
+1,06/12/2017,,,,,,,,,,,,,
+1,06/19/2017,,,,,,,,,,,,,
+1,07/03/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/16/2017,,,15.2,C,,
+05/18/2017,,,12.3,C,,
+05/20/2017,,,11.9,C,,
+05/22/2017,,,12.3,C,,
+05/29/2017,,,14.4,C,,
+06/05/2017,,,19.5,C,,
+06/12/2017,,,20.7,C,,
+06/19/2017,,,21.3,C,,
+07/03/2017,,,23.3,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/16/2017,Data Collectors,Herbicide Concentration Monitoring
+05/18/2017,Data Collectors,Herbicide Concentration Monitoring
+05/20/2017,Data Collectors,Herbicide Concentration Monitoring
+05/22/2017,Data Collectors,Herbicide Concentration Monitoring
+05/29/2017,Data Collectors,Herbicide Concentration Monitoring
+06/05/2017,Data Collectors,Herbicide Concentration Monitoring
+06/12/2017,Data Collectors,Herbicide Concentration Monitoring
+06/19/2017,Data Collectors,Herbicide Concentration Monitoring
+07/03/2017,Data Collectors,Herbicide Concentration Monitoring

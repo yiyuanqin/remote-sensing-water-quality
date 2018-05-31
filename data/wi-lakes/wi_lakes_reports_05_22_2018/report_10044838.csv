@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Polk,2630100,NO,49,,10044838,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188959,04/25/2016,,,,,170,,68,,,,,,
+130833367,06/26/2016,,,,,326,,73,,,,,,
+130839487,07/06/2016,,,,,345,,73,,,,,,
+130839487,08/11/2016,,,,,485,,76,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/25/2016,Dave Blumer,HORSESHOE LAKE IMPROVEMENT ASSOCIATION: Horseshoe Lake Water Quality + Education Project
+06/26/2016,Dale Nygaard,
+07/06/2016,Heather Woods,
+08/11/2016,Heather Woods,

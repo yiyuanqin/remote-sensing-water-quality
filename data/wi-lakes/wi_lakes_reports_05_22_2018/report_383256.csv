@@ -1,0 +1,101 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+High Falls Reservoir,Marinette,540600,NE,38,,383256,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/08/2000,5,,1.5,5.1,,54,,47,,,,,
+8188623,08/05/2004,8.5,NO,2.6,5.52,22,46,52,48,,,,,
+18137450,05/18/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,06/01/2007,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,06/12/2007,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,06/29/2007,4.4,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,08/03/2007,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,08/15/2007,4.8,NO,1.5,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,06/23/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,08/01/2008,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,08/24/2008,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,09/23/2008,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137450,06/11/2009,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,08/11/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,09/01/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137450,09/17/2009,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,10/08/2010,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137450,05/23/2011,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,06/13/2011,4,,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,10/03/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137450,08/02/2013,4.9,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,07/29/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,10/25/2014,3.75,NO,1.1,,,58,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+18137450,07/30/2016,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137450,09/21/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/05/2004,6,FEET,,,7.8,MG/L
+08/05/2004,,,23.3,C,7.8,MG/L
+07/29/2014,0,FEET,76.2,DEGREES F,,
+07/29/2014,5,FEET,73.2,DEGREES F,,
+07/29/2014,10,FEET,71.9,DEGREES F,,
+07/29/2014,25,FEET,70.1,DEGREES F,,
+07/29/2014,35,FEET,62,DEGREES F,,
+10/25/2014,0,FEET,49.5,DEGREES F,,
+10/25/2014,10,FEET,49.5,DEGREES F,,
+10/25/2014,20,FEET,49.5,DEGREES F,,
+10/25/2014,30,FEET,49.5,DEGREES F,,
+07/30/2016,0,FEET,78.2,DEGREES F,,
+07/30/2016,5,FEET,77,DEGREES F,,
+07/30/2016,10,FEET,76.4,DEGREES F,,
+07/30/2016,15,FEET,75.7,DEGREES F,,
+07/30/2016,20,FEET,75.1,DEGREES F,,
+07/30/2016,25,FEET,73.2,DEGREES F,,
+07/30/2016,30,FEET,68.3,DEGREES F,,
+07/30/2016,35,FEET,62.6,DEGREES F,,
+09/21/2016,0,FEET,65.1,DEGREES F,,
+09/21/2016,5,FEET,64.8,DEGREES F,,
+09/21/2016,10,FEET,63.8,DEGREES F,,
+09/21/2016,15,FEET,63.5,DEGREES F,,
+09/21/2016,20,FEET,63.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/08/2000,INTEGRATED SAMPLE 0-8M    
+08/05/2004,DEEPEST AREA - INTEGRATED SAMPLER    
+05/23/2011,Partly cloudy
+06/13/2011,Cloudy
+10/03/2012,Sunny
+
+
+
+
+Start Date,Group Name,Project Name
+08/08/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/05/2004,Greg Sevener,Lake Baseline Monitoring- DNR (1970s-2006)
+05/18/2007,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+06/01/2007,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+06/12/2007,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+06/29/2007,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+08/03/2007,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+08/15/2007,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+06/23/2008,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+08/01/2008,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+08/24/2008,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+09/23/2008,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+06/11/2009,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+08/11/2009,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+09/01/2009,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+09/17/2009,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+10/08/2010,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+05/23/2011,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+06/13/2011,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+10/03/2012,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+08/02/2013,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+07/29/2014,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+10/25/2014,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+07/30/2016,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 
+09/21/2016,Nick Vento,Citizen Lake Monitoring - Water Quality - High Falls Reservoir - At Deepest Area 

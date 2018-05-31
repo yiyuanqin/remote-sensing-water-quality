@@ -1,0 +1,445 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Storrs Lake,Rock,780300,SC,54,,543246,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+52586243,06/30/1980,4.9, ,1.5,39,,54,,62,,,,,
+52586243,09/02/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,09/15/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,09/30/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,10/21/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,11/01/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,05/10/2012,6,NO,1.8,,22,51,52,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+52586243,05/25/2012,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/06/2012,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/26/2012,4.5,NO,1.4,14.1,23,55,52,55,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+52586243,07/17/2012,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+52586243,07/30/2012,7,NO,2.1,7.8,22,49,52,50,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+52586243,08/11/2012,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,08/23/2012,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,09/04/2012,8,NO,2.4,10.5,21,47,52,53,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+52586243,09/16/2012,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,10/20/2012,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+52586243,05/05/2013,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+52586243,05/19/2013,6.25, ,1.9,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+52586243,06/14/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52586243,06/27/2013,7.5,NO,2.3,5.96,16.4,48,50,48,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,07/13/2013,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,07/29/2013,5.5,NO,1.7,9.18,18.8,53,51,52,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,08/09/2013,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+52586243,08/21/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,08/27/2013,,,,10.3,28.5,,54,52,,,,,
+52586243,05/03/2014,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,05/17/2014,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,05/31/2014,11.9, ,3.6,,,41,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+52586243,06/14/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/25/2014,11,NO,3.3,,,43,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+102646883,06/25/2014,,,,6.24,16.9,,50,49,,,,,
+52586243,07/10/2014,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+52586243,07/29/2014,, ,,7.38,18.7,,51,50,,,,,
+52586243,08/11/2014,9, ,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,08/27/2014,8.5, ,2.6,8.93,29.9,46,54,51,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,09/16/2014,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,05/31/2015,5.75, ,1.7,,,52,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+52586243,06/16/2015,8.75,NO,2.7,,,46,,,LOW,,,,1-Beautiful, could not be nicer
+52586243,06/27/2015,7,NO,2.1,10.6,47.1,49,58,53,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+52586243,07/08/2015,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,07/29/2015,5,NO,1.5,12,24.3,54,53,54,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,08/18/2015,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+52586243,08/30/2015,3.5,NO,1.1,20.1,34,59,55,57,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+52586243,09/20/2015,4,NO,1.2,,,57,,,LOW,,,BROWN,2-Very minor aesthetic problems
+52586243,05/25/2016,6.9,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/02/2016,,NO,,,,,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/28/2016,10.25,NO,3.1,4.07,22,44,52,45,,,,BLUE,1-Beautiful, could not be nicer
+52586243,07/16/2016,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,07/26/2016,6,NO,1.8,10.7,25.7,51,53,53,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+52586243,08/15/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+52586243,08/29/2016,4,NO,1.2,18,24,57,53,57,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+52586243,06/07/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/20/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,06/27/2017,6.3,NO,1.9,6.81,21,51,52,49,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,07/11/2017,6,NO,1.8,,,51,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+52586243,07/30/2017,7,NO,2.1,8.74,18.7,49,51,51,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+52586243,08/09/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,08/30/2017,8.25,NO,2.5,6.44,18.3,47,51,49,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+52586243,09/11/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/10/2012,3,FEET,62.9,DEGREES F,,
+05/10/2012,6,FEET,62.4,DEGREES F,,
+05/10/2012,9,FEET,58.2,DEGREES F,,
+05/10/2012,12,FEET,54.3,DEGREES F,,
+05/10/2012,15,FEET,52.8,DEGREES F,,
+05/10/2012,18,FEET,51,DEGREES F,,
+05/10/2012,21,FEET,48.2,DEGREES F,,
+05/10/2012,24,FEET,45.8,DEGREES F,,
+06/26/2012,3,FEET,78.2,DEGREES F,,
+06/26/2012,6,FEET,75,DEGREES F,,
+06/26/2012,9,FEET,74.8,DEGREES F,,
+06/26/2012,12,FEET,66.9,DEGREES F,,
+06/26/2012,15,FEET,59,DEGREES F,,
+06/26/2012,18,FEET,54.3,DEGREES F,,
+06/26/2012,21,FEET,50.7,DEGREES F,,
+06/26/2012,24,FEET,49.1,DEGREES F,,
+07/30/2012,3,FEET,80.4,DEGREES F,,
+07/30/2012,6,FEET,79.3,DEGREES F,,
+07/30/2012,9,FEET,78.8,DEGREES F,,
+07/30/2012,12,FEET,74.1,DEGREES F,,
+07/30/2012,15,FEET,62.4,DEGREES F,,
+07/30/2012,18,FEET,55.7,DEGREES F,,
+07/30/2012,21,FEET,48.9,DEGREES F,,
+09/04/2012,3,FEET,77.7,DEGREES F,,
+09/04/2012,6,FEET,75.3,DEGREES F,,
+09/04/2012,9,FEET,74.1,DEGREES F,,
+09/04/2012,12,FEET,71.9,DEGREES F,,
+09/04/2012,15,FEET,65.8,DEGREES F,,
+09/04/2012,18,FEET,59.1,DEGREES F,,
+09/04/2012,21,FEET,53.9,DEGREES F,,
+09/04/2012,24,FEET,50.1,DEGREES F,,
+09/16/2012,3,FEET,67.6,DEGREES F,,
+09/16/2012,6,FEET,67.6,DEGREES F,,
+09/16/2012,9,FEET,66.9,DEGREES F,,
+09/16/2012,12,FEET,66,DEGREES F,,
+09/16/2012,15,FEET,65.2,DEGREES F,,
+09/16/2012,18,FEET,62,DEGREES F,,
+09/16/2012,21,FEET,54.8,DEGREES F,,
+09/16/2012,24,FEET,51.2,DEGREES F,,
+05/19/2013,3,FEET,69.9,DEGREES F,,
+05/19/2013,6,FEET,69.8,DEGREES F,,
+05/19/2013,9,FEET,62.6,DEGREES F,,
+05/19/2013,12,FEET,58.2,DEGREES F,,
+05/19/2013,15,FEET,55.2,DEGREES F,,
+05/19/2013,18,FEET,50.1,DEGREES F,,
+05/19/2013,21,FEET,47.6,DEGREES F,,
+05/19/2013,24,FEET,47.1,DEGREES F,,
+06/14/2013,3,FEET,73.2,DEGREES F,,
+06/14/2013,6,FEET,72.8,DEGREES F,,
+06/14/2013,9,FEET,69.6,DEGREES F,,
+06/14/2013,12,FEET,63.6,DEGREES F,,
+06/14/2013,15,FEET,58.2,DEGREES F,,
+06/14/2013,18,FEET,53,DEGREES F,,
+06/14/2013,21,FEET,49.4,DEGREES F,,
+06/14/2013,24,FEET,47.3,DEGREES F,,
+07/29/2013,3,FEET,71,DEGREES F,,
+07/29/2013,6,FEET,70.3,DEGREES F,,
+07/29/2013,9,FEET,70.7,DEGREES F,,
+07/29/2013,12,FEET,70.1,DEGREES F,,
+07/29/2013,15,FEET,69.2,DEGREES F,,
+07/29/2013,18,FEET,60,DEGREES F,,
+07/29/2013,21,FEET,53.9,DEGREES F,,
+07/29/2013,24,FEET,49.6,DEGREES F,,
+08/09/2013,3,FEET,75.2,DEGREES F,,
+08/09/2013,6,FEET,74.6,DEGREES F,,
+08/09/2013,9,FEET,73.2,DEGREES F,,
+08/09/2013,12,FEET,71.2,DEGREES F,,
+08/09/2013,15,FEET,70.5,DEGREES F,,
+08/09/2013,18,FEET,66.5,DEGREES F,,
+08/09/2013,21,FEET,54.5,DEGREES F,,
+08/09/2013,24,FEET,50.3,DEGREES F,,
+08/21/2013,3,FEET,77.7,DEGREES F,,
+08/21/2013,6,FEET,76.4,DEGREES F,,
+08/21/2013,9,FEET,74.8,DEGREES F,,
+08/21/2013,12,FEET,72.6,DEGREES F,,
+08/21/2013,15,FEET,69.6,DEGREES F,,
+08/21/2013,18,FEET,63.6,DEGREES F,,
+08/21/2013,21,FEET,57,DEGREES F,,
+08/21/2013,24,FEET,52.5,DEGREES F,,
+05/03/2014,3,FEET,51,DEGREES F,,
+05/03/2014,6,FEET,51,DEGREES F,,
+05/03/2014,9,FEET,50.9,DEGREES F,,
+05/03/2014,12,FEET,50.9,DEGREES F,,
+05/03/2014,15,FEET,50.7,DEGREES F,,
+05/03/2014,18,FEET,50.5,DEGREES F,,
+05/03/2014,21,FEET,50,DEGREES F,,
+05/03/2014,24,FEET,50,DEGREES F,,
+05/31/2014,3,FEET,75.7,DEGREES F,,
+05/31/2014,6,FEET,75.2,DEGREES F,,
+05/31/2014,9,FEET,75,DEGREES F,,
+05/31/2014,12,FEET,72.5,DEGREES F,,
+05/31/2014,15,FEET,67.6,DEGREES F,,
+05/31/2014,18,FEET,62.4,DEGREES F,,
+05/31/2014,21,FEET,59.7,DEGREES F,,
+05/31/2014,24,FEET,57,DEGREES F,,
+08/11/2014,3,FEET,77.5,DEGREES F,,
+08/11/2014,6,FEET,76.4,DEGREES F,,
+08/11/2014,9,FEET,75.9,DEGREES F,,
+08/11/2014,12,FEET,74.6,DEGREES F,,
+08/11/2014,15,FEET,71.4,DEGREES F,,
+08/11/2014,18,FEET,67.2,DEGREES F,,
+08/11/2014,21,FEET,64.5,DEGREES F,,
+08/11/2014,24,FEET,61.1,DEGREES F,,
+08/27/2014,3,FEET,76.2,DEGREES F,,
+08/27/2014,6,FEET,75.5,DEGREES F,,
+08/27/2014,9,FEET,75.2,DEGREES F,,
+08/27/2014,12,FEET,74.4,DEGREES F,,
+08/27/2014,15,FEET,72.3,DEGREES F,,
+08/27/2014,18,FEET,69.6,DEGREES F,,
+08/27/2014,21,FEET,65.4,DEGREES F,,
+08/27/2014,24,FEET,60.8,DEGREES F,,
+09/16/2014,3,FEET,62.4,DEGREES F,,
+09/16/2014,6,FEET,62,DEGREES F,,
+09/16/2014,9,FEET,61.8,DEGREES F,,
+09/16/2014,12,FEET,61.8,DEGREES F,,
+09/16/2014,15,FEET,61.8,DEGREES F,,
+09/16/2014,18,FEET,61.7,DEGREES F,,
+09/16/2014,21,FEET,61.7,DEGREES F,,
+09/16/2014,24,FEET,61.5,DEGREES F,,
+06/27/2015,3,FEET,72.6,DEGREES F,,
+06/27/2015,6,FEET,71.6,DEGREES F,,
+06/27/2015,9,FEET,71.2,DEGREES F,,
+06/27/2015,12,FEET,70.5,DEGREES F,,
+06/27/2015,15,FEET,62.4,DEGREES F,,
+06/27/2015,18,FEET,57.5,DEGREES F,,
+06/27/2015,21,FEET,51,DEGREES F,,
+06/27/2015,24,FEET,47.6,DEGREES F,,
+07/29/2015,3,FEET,81.5,DEGREES F,,
+07/29/2015,6,FEET,80.9,DEGREES F,,
+07/29/2015,9,FEET,78.8,DEGREES F,,
+07/29/2015,12,FEET,74.6,DEGREES F,,
+07/29/2015,15,FEET,69.6,DEGREES F,,
+07/29/2015,18,FEET,62.4,DEGREES F,,
+07/29/2015,21,FEET,57.5,DEGREES F,,
+07/29/2015,24,FEET,53.4,DEGREES F,,
+08/18/2015,3,FEET,81.3,DEGREES F,,
+08/18/2015,6,FEET,80,DEGREES F,,
+08/18/2015,9,FEET,77.5,DEGREES F,,
+08/18/2015,12,FEET,78,DEGREES F,,
+08/18/2015,15,FEET,70.8,DEGREES F,,
+08/18/2015,18,FEET,62.4,DEGREES F,,
+08/18/2015,21,FEET,58.2,DEGREES F,,
+08/18/2015,24,FEET,53.6,DEGREES F,,
+08/30/2015,3,FEET,69.6,DEGREES F,,
+08/30/2015,6,FEET,69,DEGREES F,,
+08/30/2015,9,FEET,68.5,DEGREES F,,
+08/30/2015,12,FEET,68.3,DEGREES F,,
+08/30/2015,15,FEET,67.8,DEGREES F,,
+08/30/2015,18,FEET,64.9,DEGREES F,,
+08/30/2015,21,FEET,58.7,DEGREES F,,
+08/30/2015,24,FEET,53.9,DEGREES F,,
+09/20/2015,3,FEET,70.8,DEGREES F,,
+09/20/2015,6,FEET,69.2,DEGREES F,,
+09/20/2015,9,FEET,68.9,DEGREES F,,
+09/20/2015,12,FEET,68.5,DEGREES F,,
+09/20/2015,15,FEET,67.4,DEGREES F,,
+09/20/2015,18,FEET,64.4,DEGREES F,,
+09/20/2015,21,FEET,59,DEGREES F,,
+09/20/2015,24,FEET,54.6,DEGREES F,,
+06/02/2016,3,FEET,76.8,DEGREES F,,
+06/02/2016,6,FEET,76.4,DEGREES F,,
+06/02/2016,9,FEET,74.1,DEGREES F,,
+06/02/2016,12,FEET,64.1,DEGREES F,,
+06/02/2016,15,FEET,60,DEGREES F,,
+06/02/2016,18,FEET,57.7,DEGREES F,,
+06/02/2016,21,FEET,53.7,DEGREES F,,
+06/02/2016,24,FEET,49.8,DEGREES F,,
+07/16/2016,3,FEET,79.1,DEGREES F,,
+07/16/2016,6,FEET,78.2,DEGREES F,,
+07/16/2016,9,FEET,77.3,DEGREES F,,
+07/16/2016,12,FEET,77.8,DEGREES F,,
+07/16/2016,15,FEET,72.8,DEGREES F,,
+07/16/2016,18,FEET,63.6,DEGREES F,,
+07/16/2016,21,FEET,57.7,DEGREES F,,
+07/16/2016,24,FEET,53.6,DEGREES F,,
+07/26/2016,3,FEET,83.6,DEGREES F,,
+07/26/2016,6,FEET,82.6,DEGREES F,,
+07/26/2016,9,FEET,81.3,DEGREES F,,
+07/26/2016,12,FEET,78.9,DEGREES F,,
+07/26/2016,15,FEET,73.4,DEGREES F,,
+07/26/2016,18,FEET,64.5,DEGREES F,,
+07/26/2016,21,FEET,59.5,DEGREES F,,
+07/26/2016,24,FEET,54.6,DEGREES F,,
+08/15/2016,3,FEET,81.3,DEGREES F,,
+08/15/2016,6,FEET,80.6,DEGREES F,,
+08/15/2016,9,FEET,80.6,DEGREES F,,
+08/15/2016,12,FEET,79.5,DEGREES F,,
+08/15/2016,15,FEET,75,DEGREES F,,
+08/15/2016,18,FEET,66.9,DEGREES F,,
+08/15/2016,21,FEET,60.6,DEGREES F,,
+08/15/2016,24,FEET,55.6,DEGREES F,,
+08/29/2016,3,FEET,78.6,DEGREES F,,
+08/29/2016,6,FEET,77.1,DEGREES F,,
+08/29/2016,9,FEET,76.4,DEGREES F,,
+08/29/2016,12,FEET,75.9,DEGREES F,,
+06/07/2017,3,FEET,74.6,DEGREES F,,
+06/07/2017,6,FEET,73.6,DEGREES F,,
+06/07/2017,9,FEET,72.8,DEGREES F,,
+06/07/2017,12,FEET,68.9,DEGREES F,,
+06/07/2017,15,FEET,64.7,DEGREES F,,
+06/07/2017,18,FEET,58.8,DEGREES F,,
+06/07/2017,21,FEET,54.8,DEGREES F,,
+06/07/2017,24,FEET,52.8,DEGREES F,,
+06/20/2017,3,FEET,75.5,DEGREES F,,
+06/20/2017,6,FEET,76.1,DEGREES F,,
+06/20/2017,9,FEET,76.1,DEGREES F,,
+06/20/2017,12,FEET,74.6,DEGREES F,,
+06/20/2017,15,FEET,72.6,DEGREES F,,
+06/20/2017,18,FEET,61.3,DEGREES F,,
+06/20/2017,21,FEET,56.4,DEGREES F,,
+06/27/2017,3,FEET,73.2,DEGREES F,,
+06/27/2017,6,FEET,72.8,DEGREES F,,
+06/27/2017,9,FEET,71.9,DEGREES F,,
+06/27/2017,12,FEET,71.4,DEGREES F,,
+06/27/2017,15,FEET,69.9,DEGREES F,,
+06/27/2017,18,FEET,69.5,DEGREES F,,
+06/27/2017,21,FEET,56.6,DEGREES F,,
+06/27/2017,24,FEET,53.9,DEGREES F,,
+07/11/2017,3,FEET,79.8,DEGREES F,,
+07/11/2017,6,FEET,79.1,DEGREES F,,
+07/11/2017,9,FEET,78,DEGREES F,,
+07/11/2017,12,FEET,74.6,DEGREES F,,
+07/11/2017,15,FEET,69.9,DEGREES F,,
+07/11/2017,18,FEET,64.5,DEGREES F,,
+07/11/2017,21,FEET,58.8,DEGREES F,,
+07/11/2017,24,FEET,55.5,DEGREES F,,
+07/30/2017,3,FEET,78.2,DEGREES F,,
+07/30/2017,6,FEET,77.9,DEGREES F,,
+07/30/2017,9,FEET,77.3,DEGREES F,,
+07/30/2017,12,FEET,75.7,DEGREES F,,
+07/30/2017,15,FEET,74.1,DEGREES F,,
+07/30/2017,18,FEET,68.7,DEGREES F,,
+07/30/2017,21,FEET,62,DEGREES F,,
+07/30/2017,24,FEET,57.3,DEGREES F,,
+08/09/2017,3,FEET,75.3,DEGREES F,,
+08/09/2017,6,FEET,75.2,DEGREES F,,
+08/09/2017,9,FEET,74.1,DEGREES F,,
+08/09/2017,12,FEET,72.8,DEGREES F,,
+08/09/2017,15,FEET,71.8,DEGREES F,,
+08/09/2017,18,FEET,69.8,DEGREES F,,
+08/09/2017,21,FEET,63.6,DEGREES F,,
+08/09/2017,24,FEET,58.1,DEGREES F,,
+08/30/2017,3,FEET,72.1,DEGREES F,,
+08/30/2017,6,FEET,71.6,DEGREES F,,
+08/30/2017,9,FEET,71,DEGREES F,,
+08/30/2017,12,FEET,70,DEGREES F,,
+08/30/2017,15,FEET,69.2,DEGREES F,,
+08/30/2017,18,FEET,68.9,DEGREES F,,
+08/30/2017,21,FEET,66,DEGREES F,,
+08/30/2017,24,FEET,61.5,DEGREES F,,
+09/11/2017,3,FEET,66.5,DEGREES F,,
+09/11/2017,6,FEET,65.6,DEGREES F,,
+09/11/2017,9,FEET,65.4,DEGREES F,,
+09/11/2017,12,FEET,64.7,DEGREES F,,
+09/11/2017,15,FEET,64.4,DEGREES F,,
+09/11/2017,18,FEET,64.2,DEGREES F,,
+09/11/2017,21,FEET,63.8,DEGREES F,,
+09/11/2017,24,FEET,62.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/30/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR     
+09/02/2011,This was our 1st recording on our training day.   
+09/15/2011,Air Temp. 53F- 47% Humidity-  Mostly Sunny- Winds NNE 10mph
+Lilly pads flowering- some browning. 1 black lab playing off the dock.  1 fishing boat on S shoreline.  
+09/30/2011,air temp 57F- mostly cloudy- 52% humidity winds- 14 mph-
+Rained for 5 days and could not get out within 10-14 window.  No one fishing- 2 hikers with 2 dogs each- only a few lily pads with buds left.
+
+
+10/21/2011,air temp 55F- sunny- 35% humidity- winds w 10mph- 
+2 fishing boats S end- 1 field dog practicing in the water- 4 groups of hunters entering woods from parking lot 12 people total.   
+11/01/2011,Beautiful blue sky day!  Humidity 47%  Wind from the south- 16 mph and gusting.
+Foam on North End shoreline.  Approximately 75 coot and one diving seagull.  
+
+Also observed Frank Brothers Inc. in full operation.  Many trucks in and out.  Oily sheen on water next to their shoreline- water was cloudy and left oily residue on the secchi dish.  Water clarity was only 5 ft. at that location. 
+
+05/10/2012,Training day with Susan Graham for chemistry tests.
+Construction on Storrs Lake road for Hwy 26 bypass has begun.  Road was cleared of trees earlier in March and will be repaved.  
+ID Milfoil and curly leaf.  This was our lowest Secchi reading so far.  
+05/25/2012,Partly Cloudy- 72 degrees.  Evening prior 25-50 ;mph winds out of the South for over 12 hrs and rain.  2 families fishing from shore and 3 boats out on the water. 
+06/06/2012,Mostly Sunny 5 mph winds 73 degrees 35% humidity.  15-20 teenagers playing and swimming off the dock.  2 kayaks fishing- several fishing from shoreline.  Lily pads blooming Frank Bros trucks in and out.
+06/26/2012,Water level very low-from the boat dock cement line 16 ft.  Clarity was the lowest.  Lots of construction dust on the road in from Hwy 26 bypass.  Road in to Storrs had been closed for the past week or more. 3 boats fishings- 4 kayakers and 4 kids riding bikes off the dock.  
+07/17/2012,Mostly Sunny. 96 degrees.  Extreme heat temperatures for weeks.  Water level is the lowest at 21 feet from cement line on boat launch.  New pontoon boat docked by homeowner on west side.  Light construction on Hwy 26 bypass and no trucks in and out of Frank Bros. 2 fishermen in boats- 2 on shoreline 2 on dock. 4 girls with their grandma hiking the Ice age trail and doing trash pick up out for a swim.  3 boys and a dog coming as we left. air smells of il.  Lilly blooms and water pathway to the East has filled in.
+07/30/2012,Sunny and humid.80 degrees.  Shoreline at 21'5".  Floating black eraser size specks at the dock and brownish specks at the deep hole.  Lots of small fish at the dock.1egret and 2 dead Northerns 21-20" floating SW area.  1 lg turtle eating one of them. Lots of mating dragonflys. Met Andrew in the poontoon- renter of the house with burning leaves last fall.   Said carp were floating at the shoreline.  
+08/11/2012,Sunny with light breeze. 3 boats out and los of lillys blooming- heavy rain 2 day before- lots of trash on the shoreline.  Water level at 24'5" from dock.  Less floating stuff in water.  
+08/23/2012,Tucker sat still in the canoe!  Water level at dock 25'.  overcast/sunnish 88 degrees.  1 in kayak fishing- 2 in canoe fishing. water was clear of floaters. Construction noise from hwy 26. Lots of blooming lillys- 
+09/04/2012,Hot-sunny- humid and calm. 85 degrees.  Weeds are dying.  Bottom closer to shore is visible.  very mucky- paddle depth about 6'  Water level at dock 25'6".
+09/16/2012,Grand nephew- Joey came with us. Hazy and overcast- winds gusty.  2 Blue herons- 1 kingfisher. Lots of bleached snail shells on top of lillys.  Millform dying off. Only a few blooming lillys.  Floating algae blooms present. 2 boats out- 4 fishing from dock- 2 fishing on sand bar.  Water level from dock 23'.  Took temperatures.
+10/20/2012,Water level was extremely low.  Wondering how much  Hwy 26 construction has impacted levelst. Rain amounts have increased recently. Level 29.5 ft from dock line.  Beautiful late Fall day. 57degrees overcast and calm.
+Some cootes and gulls but not as many as last year at this time.
+No one there at first.  Father- son and hunting dog came to dock hunting for pheasant. 
+3 men fishing on private dock then came out in pontoon.  Tucker (dog) laid down in the canoe and was very good. 
+05/17/2014,partly sunny- 53 degrees- no floaties- 3-5 boats 2 each- several on dock.  Cj only in solo boat.  1 teenager did a photo cold water plunge.
+05/31/2014,4 boys fishing on dock- 2 single canoes- 3 kids sitting in water playing 3 boats out partly cloudy- light breeze no rain for 1 week- 85 degrees
+06/14/2014,1 power boat making a b ig wake- sunny- no temp- cj in solo boat.  reported power boat to Rock Cty  sheriff in parking lot.
+06/25/2014,73 degrees- mostly cloudy- humid- 1 boat out- chemistry done- very calm water 3 young  boys fishing from dock with grandparents- 1 heron- 
+07/10/2014,battery died no temp- light breeze- 78 degrees Beautiful day! 1 female fishing off dock- 1 single- 1 dbl canoe- 1 dbl kayak- 1 boat with 3.  lots of mating dragon flies.  
+05/31/2015,Lots of rain prior month but water level was low. 3 boats out with 3 fishing on the dock. Many kids hanging in the water.
+06/16/2015,1 boat out- 3 fishing on dock and 3 on shore..Blooming Lilly Pads. Mostly sunny with a light breeze.74 degrees.
+06/27/2015,Mostly sunny- light breeze 76 degrees. 1 kayak- 1 row boat with 2- 1 canoe with 2- 1 flat boat with 2.  Lots of surface floaties near shore.  Water level continues to drop.
+07/08/2015,1 boat out with 2- 1 on dock fishing.  Mostly cloudy- 63 degrees. Temp meter not reading.
+07/29/2015,1 boat out- 1 boat in- 1 on dock fishing.  Water level has dropped even more 9' at dock on concrete. Partly sunny- slight breeze- 80 degrees.
+08/18/2015,Mostly cloudy- 80 degrees-  4 kids swimming- 4 on dock fishing- 1 boat out. water level very low 12.5 from dock mark. Very foamy along shoreline.
+08/30/2015,80 degrees- cloudy and humid.  water level -11 from dock concrete mark. lots of lily die off. 1 boat working on motor at dock. 1 boat out with 2.
+09/20/2015,stinky shoreline- dead fish somewhere   Slimy and foamy along shore- mostly sunny- 71 degrees.
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/1980,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/30/1980,CJ Hartman,Migrated from STORET Legacy
+09/02/2011,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/15/2011,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/30/2011,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+10/21/2011,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+11/01/2011,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/10/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/25/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/06/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/26/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/17/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/30/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/11/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/23/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/04/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/16/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+10/20/2012,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/05/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/19/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/14/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/27/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/13/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/29/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/09/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/21/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/27/2013,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/03/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/17/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/31/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/14/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/25/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/25/2014,Phil Gredler- CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/10/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/29/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/11/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/27/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/16/2014,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/31/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/16/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/27/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/08/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/29/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/18/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/30/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/20/2015,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+05/25/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/02/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/28/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/16/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/26/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/15/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/29/2016,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/07/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/20/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+06/27/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/11/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+07/30/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/09/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+08/30/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole
+09/11/2017,CJ Hartman,Citizen Lake Monitoring - Water Quality - Storrs Lake - Deep Hole

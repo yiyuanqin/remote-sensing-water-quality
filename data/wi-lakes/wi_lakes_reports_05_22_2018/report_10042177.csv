@@ -1,0 +1,57 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Eagle Lake,Racine,759800,SE,52,,10042177,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/29/2013,,,,29.4,52.6,,59,60,,,,,
+1,07/17/2013,,,,12,28,,54,54,,,,,
+1,07/30/2013,,,,18.7,43.3,,57,57,,,,,
+1,08/15/2013,,,,34.1,51.4,,59,61,,,,,
+1,08/29/2013,,,,27.9,48.2,,58,60,,,,,
+1,09/11/2013,,,,50.9,65.1,,60,65,,,,,
+1,09/26/2013,,,,27.4,55.4,,59,60,,,,,
+1,05/20/2016,,,,,,,,,,,,,
+1,05/22/2016,,,,,,,,,,,,,
+1,05/24/2016,,,,,,,,,,,,,
+1,05/26/2016,,,,,,,,,,,,,
+1,06/02/2016,,,,,,,,,,,,,
+1,06/09/2016,,,,,,,,,,,,,
+1,06/15/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/20/2016,,,16.7,C,,
+05/22/2016,,,17.8,C,,
+05/24/2016,,,21.1,C,,
+05/26/2016,,,22.2,C,,
+06/02/2016,,,22.2,C,,
+06/09/2016,,,21.1,C,,
+06/15/2016,,,26.7,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/29/2013,Data Collectors,USGS LAKE SAMPLES
+07/17/2013,Data Collectors,USGS LAKE SAMPLES
+07/30/2013,Data Collectors,USGS LAKE SAMPLES
+08/15/2013,Data Collectors,USGS LAKE SAMPLES
+08/29/2013,Data Collectors,USGS LAKE SAMPLES
+09/11/2013,Data Collectors,USGS LAKE SAMPLES
+09/26/2013,Data Collectors,USGS LAKE SAMPLES
+05/20/2016,Data Collectors,Herbicide Concentration Monitoring
+05/22/2016,Data Collectors,Herbicide Concentration Monitoring
+05/24/2016,Data Collectors,Herbicide Concentration Monitoring
+05/26/2016,Data Collectors,Herbicide Concentration Monitoring
+06/02/2016,Data Collectors,Herbicide Concentration Monitoring
+06/09/2016,Data Collectors,Herbicide Concentration Monitoring
+06/15/2016,Data Collectors,Herbicide Concentration Monitoring

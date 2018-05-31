@@ -1,0 +1,43 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Thompson Lake,Pepin,2055200,WC,47,,473021,SW,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000002,05/07/2001,,,,,94,,63,,,,,,
+7000002,07/23/2001,1.6,NO,0.5,148,158,70,67,73,,,,,
+10589084,07/20/2016,2,N,0.6,38.6,127,67,66,62,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+10589084,08/24/2016,,,,78.6,140,,66,68,,,,,
+10589084,09/19/2016,,,,45.3,100,,64,64,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/23/2001,,,26.01,C,11.67,MG/L
+07/20/2016,0,METERS,25.06,DEGREES C,7.7,MG/L
+07/20/2016,1,METERS,24.76,DEGREES C,5.05,MG/L
+07/20/2016,2,METERS,23.17,DEGREES C,.74,MG/L
+07/20/2016,3,METERS,21.11,DEGREES C,.41,MG/L
+07/20/2016,4,METERS,13.46,DEGREES C,.27,MG/L
+07/20/2016,5,METERS,9.34,DEGREES C,.2,MG/L
+07/20/2016,6,METERS,7.89,DEGREES C,.16,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/07/2001,SURFACE SAMPLE    
+07/23/2001,SURFACE SAMPLE    
+09/19/2016,SWF sediment sample collected via Ekman dredge. 4 aliquots (entire sample) examined. 
+
+
+
+
+Start Date,Group Name,Project Name
+05/07/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+07/23/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+07/20/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+08/24/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+09/19/2016,Jodi Lepsch,Directed Lakes 2016 Sorge

@@ -1,0 +1,55 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wisconsin,Columbia,1260600,SC,11,,10007595,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7505218,06/06/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,06/29/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,07/13/2017,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,07/21/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,08/08/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,08/24/2017,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,09/12/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,09/19/2017,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,10/04/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,10/12/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,10/16/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/06/2017,Sunny- NE wind 10 mph- little activity on the lake
+06/29/2017,Water temp 70F- has been very cool this past week- thus water temp had been down in mid 60s- partly sunny- lots of rain the past 2 months- Wind SW 10-15mph- 
+07/13/2017,Water temp 79F- 10mph NW wind- lots of rain past week- no bluegreen algae yet
+07/21/2017,Water 81F- mostly cloudy- no wind- hot humid last 4 days- bluegreen algae developing- more than upper lake yesterday- streaky pods of bluegreen floating in spots on surface- mayflies floatingon surface
+08/08/2017,Water temp 74F- sunny- light west wind- very slight algal bloom- past week cool- little rain- river normal
+08/24/2017,Wind north 5mph- sunny- water temp 73F- fair amount of bluegreen algae- most of the summer- but not much compared to most summers- no rain past week
+09/12/2017,Sunny- light wind- water 68f- light bluegreen algae- on main channel of lower lake moderate bluegreen algae- motor leaves green wake
+09/19/2017,Water 70F- - light wind- sparse bluegreen algae- very little rain past 3 weeks- next 5 days going to be hot and humid- above normal.
+10/04/2017,Water 65F- light n wind- slight bl green algae- little rain and warm temps past 2 weeks Water 61F- light east wind- sparse bluegreen algae- cloudy- misty
+10/12/2017,Water 61F- light east wind- sparse bluegreen algae- cloudy misty
+10/16/2017,Water temp 57F- light west wind- sparse bluegreen algae- sunny
+
+
+
+
+Start Date,Group Name,Project Name
+06/06/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+06/29/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+07/13/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+07/21/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+08/08/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+08/24/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+09/12/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+09/19/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+10/04/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+10/12/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 
+10/16/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin- Columbia Co. - Turtle Bay 

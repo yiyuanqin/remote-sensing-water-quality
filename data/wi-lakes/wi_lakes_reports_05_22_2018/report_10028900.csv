@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wisconsin,Columbia,1260600,SC,11,,10028900,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145711662,06/12/2017,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145711662,07/12/2017,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+145711662,07/28/2017,1.75,NO,0.5,,,69,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+145711662,10/25/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/12/2017,Clear Skies- light breeze- warm + humid
+
+
+
+
+Start Date,Group Name,Project Name
+06/12/2017,Melissa Keenan,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Okee Bay
+07/12/2017,Melissa Keenan,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Okee Bay
+07/28/2017,Melissa Keenan,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Okee Bay
+10/25/2017,Melissa Keenan,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Okee Bay

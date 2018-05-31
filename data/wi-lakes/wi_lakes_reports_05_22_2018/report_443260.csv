@@ -1,0 +1,68 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Soo Lake,Oneida,1018900,NO,44,,443260,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/17/1979,,,,,,,,,,,,,
+1,08/31/2007,7.5,NO,2.3,4.07,16,48,50,45,,,,,
+37124086,09/12/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+37124086,09/19/2010,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+37124086,10/09/2010,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+37124086,06/06/2011,11.5,NO,3.5,,,42,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,08/20/2012,10,NO,3,,,44,,,LOW,,,,
+1,09/21/2012,9.5,NO,2.9,,,45,,,LOW,,,,
+67227496,07/10/2013,5,NO,1.5,,,54,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+67227496,08/16/2013,,NO,,,,,,,LOW,8.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+130849533,08/03/2016,7,,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1979,,,23,C,,
+08/31/2007,0.5,METERS,21.2,DEGREES C,8.3,MG/L
+08/31/2007,1,METERS,21.2,DEGREES C,8.3,MG/L
+08/31/2007,2,METERS,21.2,DEGREES C,8.2,MG/L
+08/31/2007,3,METERS,21.1,DEGREES C,8.2,MG/L
+08/31/2007,3.5,METERS,20.9,DEGREES C,7.7,MG/L
+08/03/2016,2,FEET,8304,DEGREES F,7063,MG/L
+08/03/2016,4,FEET,81.4,DEGREES F,7.65,MG/L
+08/03/2016,6,FEET,80.2,DEGREES F,7.54,MG/L
+08/03/2016,8,FEET,79.4,DEGREES F,7.23,MG/L
+08/03/2016,10,FEET,78,DEGREES F,6.38,MG/L
+08/03/2016,12,FEET,76.7,DEGREES F,4.87,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/17/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/12/2010,Lake was 14 feet deep. Water level is going up.
+10/09/2010,Beautiful fall day.
+06/06/2011,lake is up 3 inches from last year.
+08/20/2012,Nathan Banfield collected data. Assumed noon
+Temperature 24.0 degrees C.
+pH 7.05
+09/21/2012,Nathan Banfield collected data.
+Assume noon
+Temperature 14.00 degrees C.
+pH 6.60
+07/10/2013,No boat traffic. Slight breeze- mostly sunny.  No boat traffic. Slight breeze- mostly sunny. 2 baby loons. No boat traffic. Slight breeze- mostly sunny. 2 baby loons. Water is still low.
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1979,Data Collectors,Migrated from STORET Legacy
+08/31/2007,Data Collectors,National Lake Survey - Index Sampling
+09/12/2010,Ellen Padgett,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+09/19/2010,Ellen Padgett,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+10/09/2010,Ellen Padgett,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+06/06/2011,Ellen Padgett,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+08/20/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+09/21/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+07/10/2013,Janet Frasier,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+08/16/2013,Janet Frasier,Citizen Lake Monitoring - Water Quality - Soo Lake - Deep Hole
+08/03/2016,Stephanie Boismenue and Aubrey Nycz,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

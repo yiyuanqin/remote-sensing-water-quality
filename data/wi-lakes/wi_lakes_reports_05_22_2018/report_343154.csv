@@ -1,0 +1,80 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+McGee Lake,Langlade,353200,NO,34,,343154,NE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188730,05/26/2004,22,NO,6.7,,12,33,47,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188730,08/26/2004,13,NO,4,3.6,14,40,49,44,,,,,
+130966180,07/30/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+130966180,07/31/2016,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+130966180,08/02/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+130966180,08/14/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+130966180,08/23/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+130966180,08/30/2016,25,NO,7.6,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+130966180,09/14/2016,29.5,NO,9,,,28,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+130966180,09/30/2016,26.25,NO,8,,,30,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+130966180,11/10/2016,30.5,NO,9.3,,,28,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/26/2004,0,FEET,15.3,DEGREES C,11.8,MG/L
+05/26/2004,3,FEET,14.8,DEGREES C,11.5,MG/L
+05/26/2004,6,FEET,14.7,DEGREES C,11.5,MG/L
+05/26/2004,9,FEET,14.6,DEGREES C,11.8,MG/L
+05/26/2004,12,FEET,14.3,DEGREES C,12.2,MG/L
+05/26/2004,15,FEET,13.5,DEGREES C,12.2,MG/L
+05/26/2004,18,FEET,12.8,DEGREES C,11.3,MG/L
+05/26/2004,21,FEET,12,DEGREES C,10.7,MG/L
+05/26/2004,24,FEET,10.3,DEGREES C,8.7,MG/L
+05/26/2004,27,FEET,9.6,DEGREES C,6.4,MG/L
+05/26/2004,30,FEET,8.8,DEGREES C,2.6,MG/L
+05/26/2004,33,FEET,8.5,DEGREES C,1.6,MG/L
+05/26/2004,36,FEET,8.3,DEGREES C,1.5,MG/L
+08/26/2004,0,FEET,20,DEGREES C,13,MG/L
+08/26/2004,3,FEET,19.2,DEGREES C,13.8,MG/L
+08/26/2004,6,FEET,18.5,DEGREES C,14.8,MG/L
+08/26/2004,9,FEET,17,DEGREES C,13.8,MG/L
+08/26/2004,12,FEET,16.2,DEGREES C,13.4,MG/L
+08/26/2004,15,FEET,15.5,DEGREES C,10.8,MG/L
+08/26/2004,18,FEET,15,DEGREES C,8.3,MG/L
+08/26/2004,21,FEET,14.8,DEGREES C,4.5,MG/L
+08/26/2004,24,FEET,13.5,DEGREES C,2.25,MG/L
+08/26/2004,27,FEET,12,DEGREES C,.14,MG/L
+08/26/2004,30,FEET,11.5,DEGREES C,.1,MG/L
+08/26/2004,33,FEET,10.5,DEGREES C,.05,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/26/2004,DEEP HOLE - GRAB    
+08/26/2004,DEEP HOLE - INTEGRATED SAMPLE    
+07/30/2016,2adult loons and two babies.
+07/31/2016,One adult loon and two babies. 2nd adult arrived later. Surface of the water is completely smooth.
+08/02/2016,2 baby loons and 1 adult at separate ends of the lake. Rained about an hour before collecting this reading.
+08/14/2016,2 baby loons. No adult. Water open at deep hole. Mucky- foliage floating at other end.
+08/23/2016,2 young loons- one adult. Green heron. Foliage bloom all blown to opposite end of the lake.
+08/30/2016,lake extremely clear.. 2 almost adult loons diving very close to our kayaks. No parents. Calm surface.
+09/14/2016,The water is as clear as I ever remember it being. 2 young loons- no adult. Saw flight practice earlier. 
+09/30/2016,Very clear and breezy. No loons - godspeed on your arduous journey! Four largish ducks of unknown species- 5 turtles- 1 dragongly- few small birds and one white butterfly.
+11/10/2016,Very clear. Little yuck on surface. Saw big trout by the rock. 1 turtle half buried in mud- maybe 10 feet. adequate flow out discharge.
+
+
+
+
+Start Date,Group Name,Project Name
+05/26/2004,Nate Guldan,Lake Baseline Monitoring- DNR (1970s-2006)
+08/26/2004,Nate Guldan,Lake Baseline Monitoring- DNR (1970s-2006)
+07/30/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+07/31/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+08/02/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+08/14/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+08/23/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+08/30/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+09/14/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+09/30/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 
+11/10/2016,Beth Castaldi,Citizen Lake Monitoring - Water Quality - McGee Lake - Deep Hole 

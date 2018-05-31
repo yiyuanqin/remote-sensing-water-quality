@@ -1,0 +1,556 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Delton Lake,Sauk,1295400,SC,57,,573055,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/12/1980,3.3,,1,,,60,,,,,,,
+1,08/21/1980,3.3,,1,51,,60,,65,,,,,
+1,04/23/1992,,,,78,,,,68,,,,,
+1,07/23/1992,,,,80.6,,,,68,,,,,
+1,08/20/1992,,,,54.7,,,,65,,,,,
+8190759,05/01/1993,3.5,NO,1.1,63.2,,59,,66,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191004,05/14/1993,3,NO,0.9,,,61,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191004,06/08/1993,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190759,07/19/1993,2.16,NO,0.7,70.1,,66,,67,1' ABOVE NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+1,09/08/1993,,,,,61,,60,,,,,,
+8190759,09/08/1993,2.75,NO,0.8,40.4,,63,,63,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190759,07/11/1994,1.5,NO,0.5,,,71,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190759,09/15/1994,2,NO,0.6,47.3,,67,,64,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190759,07/12/1995,2.25,NO,0.7,39,79,65,62,62,NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+7000129,08/03/2001,,,,17,,,,56,,,,,
+8188676,08/03/2001,1.75,NO,0.5,,,69,,,,,,,
+7000129,09/25/2003,,,,95.6,73,,61,69,,,,,
+18137453,07/04/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,06/04/2009,4.25,NO,1.3,,63,56,60,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+25475432,07/09/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+25475432,07/28/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+18137453,07/30/2009,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137453,08/03/2009,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,
+25475432,08/11/2009,3,YES,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+25475432,05/25/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25475432,06/30/2010,2.5,YES,0.8,32.7,94,64,63,61,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+25475432,08/11/2010,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,08/26/2010,2,YES,0.6,61.1,82,67,62,66,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,05/18/2012,3,YES,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25475432,05/25/2012,4,YES,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25475432,06/03/2012,3,YES,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25475432,06/14/2012,3.5,YES,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25475432,06/19/2012,2,YES,0.6,45.4,62,67,60,64,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,06/30/2012,1.75,YES,0.5,,,69,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,07/06/2012,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,07/14/2012,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,07/29/2012,2,YES,0.6,50.7,85,67,63,64,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+25475432,08/07/2012,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+25475432,08/18/2012,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+25475432,08/22/2012,3,YES,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+25475432,09/02/2012,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+25475432,05/13/2013,2,YES,0.6,,70.5,67,61,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/13/2013,4.1,NO,1.25,18.1,,57,,57,,,,,
+25475432,06/17/2013,4,YES,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25475432,06/18/2013,,,,30.5,66.3,,61,61,,,,,
+25475432,06/28/2013,3.5,YES,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25475432,07/15/2013,2,YES,0.6,63,76.5,67,62,66,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/16/2013,,,,44.5,59.3,,60,63,,,,,
+25475432,07/28/2013,2.5,YES,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,08/24/2013,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,05/10/2014,2,NO,0.6,,74.9,67,62,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+25475432,05/24/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+25475432,06/15/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+25475432,06/17/2014,,,,36.9,50.7,,59,62,,,,,
+25475432,06/28/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+25475432,07/13/2014,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+25475432,08/10/2014,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+25475432,09/06/2014,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+1,05/09/2015,,,,,41,,57,,,,,,
+25475432,05/09/2015,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,05/23/2015,4.5,YES,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,06/06/2015,4.5,YES,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,06/20/2015,5,YES,1.5,27.7,57.7,54,60,60,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+25475432,07/04/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+1,07/09/2015,,,,121,,,,71,,,,,
+25475432,07/25/2015,1.5,NO,0.5,59,124,71,65,66,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,08/15/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+25475432,08/22/2015,1.5,NO,0.5,54.9,125,71,66,65,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+1,11/16/2015,3.1,NO,0.9,,,61,,,,,,,
+25475432,05/15/2016,2,YES,0.6,,65.1,67,60,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25475432,05/28/2016,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25475432,06/10/2016,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25475432,06/28/2016,4,YES,1.2,30,57.5,57,60,61,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25475432,07/08/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,07/23/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,08/14/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25475432,05/10/2017,3.5,YES,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,05/25/2017,4,YES,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,06/08/2017,5,YES,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,06/29/2017,2,YES,0.6,47.2,107,67,64,64,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,07/17/2017,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,07/29/2017,2,YES,0.6,73.7,79.9,67,62,67,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25475432,08/10/2017,2.5,YES,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,08/24/2017,3.5,YES,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475432,09/21/2017,3.5,YES,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/19/1993,1,FEET,75,DEGREES F,,
+07/19/1993,3,FEET,73,DEGREES F,,
+07/19/1993,5,FEET,73,DEGREES F,,
+07/19/1993,7,FEET,73,DEGREES F,,
+07/19/1993,9,FEET,73,DEGREES F,,
+07/19/1993,11,FEET,71,DEGREES F,,
+07/19/1993,14,FEET,70,DEGREES F,,
+09/08/1993,9,FEET,71,DEGREES F,,
+09/08/1993,12,FEET,68,DEGREES F,,
+09/08/1993,15,FEET,67,DEGREES F,,
+07/11/1994,1,FEET,77,DEGREES F,,
+07/11/1994,14,FEET,74,DEGREES F,,
+09/15/1994,1,FEET,76,DEGREES F,,
+07/12/1995,1,FEET,80,DEGREES F,,
+07/12/1995,12,FEET,74,DEGREES F,,
+08/03/2001,3.28,FEET,27.6,DEGREES C,8.9,MG/L
+08/03/2001,6.56,FEET,26.4,DEGREES C,7.3,MG/L
+07/04/2007,1,FEET,76.2,DEGREES F,6.3,MG/L
+06/04/2009,3,FEET,68.7,DEGREES F,,
+06/04/2009,6,FEET,67.6,DEGREES F,,
+06/04/2009,9,FEET,66.5,DEGREES F,,
+06/04/2009,12,FEET,65.1,DEGREES F,,
+06/04/2009,15,FEET,65.1,DEGREES F,,
+07/09/2009,3,FEET,74.1,DEGREES F,,
+07/09/2009,6,FEET,73.2,DEGREES F,,
+07/09/2009,9,FEET,73,DEGREES F,,
+07/09/2009,12,FEET,72.6,DEGREES F,,
+07/09/2009,15,FEET,72.6,DEGREES F,,
+07/28/2009,3,FEET,73.2,DEGREES F,,
+07/28/2009,6,FEET,72.6,DEGREES F,,
+07/28/2009,9,FEET,72.3,DEGREES F,,
+07/28/2009,12,FEET,71,DEGREES F,,
+07/28/2009,15,FEET,69.4,DEGREES F,,
+07/28/2009,18,FEET,69,DEGREES F,,
+07/30/2009,1,FEET,24,DEGREES C,9.4,MG/L
+07/30/2009,10,FEET,23.9,DEGREES C,9.4,MG/L
+07/30/2009,12,FEET,23.7,DEGREES C,7.5,MG/L
+08/03/2009,1,FEET,24,DEGREES C,9.4,MG/L
+08/03/2009,10,FEET,23.9,DEGREES C,9.4,MG/L
+08/03/2009,12,FEET,23.7,DEGREES C,7.5,MG/L
+08/11/2009,3,FEET,75.9,DEGREES F,,
+08/11/2009,6,FEET,75.7,DEGREES F,,
+08/11/2009,9,FEET,75.2,DEGREES F,,
+08/11/2009,12,FEET,73.7,DEGREES F,,
+08/11/2009,15,FEET,73.4,DEGREES F,,
+05/25/2010,3,FEET,75.9,DEGREES F,,
+05/25/2010,6,FEET,74.4,DEGREES F,,
+05/25/2010,9,FEET,66.2,DEGREES F,,
+05/25/2010,12,FEET,61.7,DEGREES F,,
+05/25/2010,15,FEET,57.2,DEGREES F,,
+06/30/2010,3,FEET,76.1,DEGREES F,,
+06/30/2010,6,FEET,75.5,DEGREES F,,
+06/30/2010,9,FEET,75,DEGREES F,,
+06/30/2010,12,FEET,74.6,DEGREES F,,
+06/30/2010,15,FEET,74.6,DEGREES F,,
+08/11/2010,3,FEET,75.9,DEGREES F,,
+08/11/2010,6,FEET,75.9,DEGREES F,,
+08/11/2010,9,FEET,75.3,DEGREES F,,
+08/11/2010,12,FEET,71.6,DEGREES F,,
+08/11/2010,14,FEET,71.4,DEGREES F,,
+08/26/2010,3,FEET,75,DEGREES F,,
+08/26/2010,6,FEET,74.1,DEGREES F,,
+08/26/2010,9,FEET,74.1,DEGREES F,,
+08/26/2010,12,FEET,73.9,DEGREES F,,
+08/26/2010,15,FEET,73.9,DEGREES F,,
+05/18/2012,3,FEET,66.9,DEGREES F,,
+05/18/2012,6,FEET,66.2,DEGREES F,,
+05/18/2012,9,FEET,66,DEGREES F,,
+05/18/2012,12,FEET,62.9,DEGREES F,,
+05/25/2012,3,FEET,70.5,DEGREES F,,
+05/25/2012,6,FEET,70.1,DEGREES F,,
+05/25/2012,9,FEET,70.1,DEGREES F,,
+05/25/2012,12,FEET,70.1,DEGREES F,,
+05/25/2012,15,FEET,69.9,DEGREES F,,
+06/03/2012,3,FEET,69,DEGREES F,,
+06/03/2012,6,FEET,68,DEGREES F,,
+06/03/2012,9,FEET,67.8,DEGREES F,,
+06/03/2012,12,FEET,67.6,DEGREES F,,
+06/03/2012,15,FEET,66,DEGREES F,,
+06/14/2012,3,FEET,73.4,DEGREES F,,
+06/14/2012,6,FEET,73,DEGREES F,,
+06/14/2012,9,FEET,72.8,DEGREES F,,
+06/14/2012,12,FEET,72.5,DEGREES F,,
+06/14/2012,15,FEET,71,DEGREES F,,
+06/19/2012,3,FEET,76.8,DEGREES F,,
+06/19/2012,6,FEET,76.2,DEGREES F,,
+06/19/2012,9,FEET,76.2,DEGREES F,,
+06/19/2012,12,FEET,76.1,DEGREES F,,
+06/19/2012,15,FEET,75.9,DEGREES F,,
+06/30/2012,3,FEET,80.4,DEGREES F,,
+06/30/2012,6,FEET,79.7,DEGREES F,,
+06/30/2012,9,FEET,79.5,DEGREES F,,
+06/30/2012,12,FEET,77.7,DEGREES F,,
+06/30/2012,15,FEET,76.4,DEGREES F,,
+07/06/2012,3,FEET,86.7,DEGREES F,,
+07/06/2012,6,FEET,86,DEGREES F,,
+07/06/2012,9,FEET,84.5,DEGREES F,,
+07/06/2012,12,FEET,82.7,DEGREES F,,
+07/06/2012,15,FEET,81.8,DEGREES F,,
+07/14/2012,3,FEET,82.2,DEGREES F,,
+07/14/2012,6,FEET,82.2,DEGREES F,,
+07/14/2012,9,FEET,82,DEGREES F,,
+07/14/2012,12,FEET,81.3,DEGREES F,,
+07/14/2012,15,FEET,79.3,DEGREES F,,
+07/29/2012,3,FEET,79.5,DEGREES F,,
+07/29/2012,6,FEET,79.8,DEGREES F,,
+07/29/2012,9,FEET,79.7,DEGREES F,,
+07/29/2012,12,FEET,79.5,DEGREES F,,
+07/29/2012,15,FEET,77.3,DEGREES F,,
+08/07/2012,3,FEET,78.8,DEGREES F,,
+08/07/2012,6,FEET,78.6,DEGREES F,,
+08/07/2012,9,FEET,78.2,DEGREES F,,
+08/07/2012,12,FEET,78.2,DEGREES F,,
+08/07/2012,15,FEET,78,DEGREES F,,
+08/18/2012,3,FEET,72.3,DEGREES F,,
+08/18/2012,6,FEET,72.6,DEGREES F,,
+08/18/2012,9,FEET,72.5,DEGREES F,,
+08/18/2012,12,FEET,72.5,DEGREES F,,
+08/18/2012,15,FEET,71.6,DEGREES F,,
+08/22/2012,3,FEET,74.1,DEGREES F,,
+08/22/2012,6,FEET,73.5,DEGREES F,,
+08/22/2012,9,FEET,73.4,DEGREES F,,
+08/22/2012,12,FEET,71.9,DEGREES F,,
+08/22/2012,15,FEET,70.1,DEGREES F,,
+09/02/2012,3,FEET,75.5,DEGREES F,,
+09/02/2012,6,FEET,75.5,DEGREES F,,
+09/02/2012,9,FEET,75.3,DEGREES F,,
+09/02/2012,12,FEET,75.3,DEGREES F,,
+09/02/2012,15,FEET,75.2,DEGREES F,,
+05/13/2013,3,FEET,56.6,DEGREES F,,
+05/13/2013,6,FEET,56.6,DEGREES F,,
+05/13/2013,9,FEET,56.6,DEGREES F,,
+05/13/2013,12,FEET,56.6,DEGREES F,,
+05/13/2013,15,FEET,55.5,DEGREES F,,
+06/17/2013,3,FEET,73.2,DEGREES F,,
+06/17/2013,6,FEET,73.2,DEGREES F,,
+06/17/2013,9,FEET,71.4,DEGREES F,,
+06/17/2013,12,FEET,67.4,DEGREES F,,
+06/17/2013,15,FEET,65.1,DEGREES F,,
+06/28/2013,3,FEET,77.1,DEGREES F,,
+06/28/2013,6,FEET,77.3,DEGREES F,,
+06/28/2013,9,FEET,77.3,DEGREES F,,
+06/28/2013,12,FEET,72.5,DEGREES F,,
+06/28/2013,15,FEET,70.8,DEGREES F,,
+07/15/2013,3,FEET,78.4,DEGREES F,,
+07/15/2013,6,FEET,78,DEGREES F,,
+07/15/2013,9,FEET,78,DEGREES F,,
+07/15/2013,12,FEET,75.5,DEGREES F,,
+07/15/2013,15,FEET,74.4,DEGREES F,,
+07/28/2013,3,FEET,71.6,DEGREES F,,
+07/28/2013,6,FEET,71.9,DEGREES F,,
+07/28/2013,9,FEET,71.9,DEGREES F,,
+07/28/2013,12,FEET,71.9,DEGREES F,,
+07/28/2013,15,FEET,71.4,DEGREES F,,
+08/24/2013,3,FEET,75.3,DEGREES F,,
+08/24/2013,6,FEET,75.5,DEGREES F,,
+08/24/2013,9,FEET,75.5,DEGREES F,,
+08/24/2013,12,FEET,74.4,DEGREES F,,
+08/24/2013,15,FEET,72.3,DEGREES F,,
+05/10/2014,3,FEET,55.2,DEGREES F,,
+05/10/2014,6,FEET,54.8,DEGREES F,,
+05/10/2014,9,FEET,54.6,DEGREES F,,
+05/10/2014,12,FEET,54.5,DEGREES F,,
+05/10/2014,15,FEET,54.1,DEGREES F,,
+05/24/2014,3,FEET,65.4,DEGREES F,,
+05/24/2014,6,FEET,64.4,DEGREES F,,
+05/24/2014,9,FEET,60,DEGREES F,,
+05/24/2014,12,FEET,57.5,DEGREES F,,
+05/24/2014,15,FEET,56.4,DEGREES F,,
+06/15/2014,3,FEET,70.8,DEGREES F,,
+06/15/2014,6,FEET,70.7,DEGREES F,,
+06/15/2014,9,FEET,70.5,DEGREES F,,
+06/15/2014,12,FEET,70.5,DEGREES F,,
+06/15/2014,15,FEET,68.7,DEGREES F,,
+06/28/2014,3,FEET,76.6,DEGREES F,,
+06/28/2014,6,FEET,76.4,DEGREES F,,
+06/28/2014,9,FEET,73.7,DEGREES F,,
+06/28/2014,12,FEET,69.2,DEGREES F,,
+06/28/2014,15,FEET,67.2,DEGREES F,,
+07/13/2014,3,FEET,73.2,DEGREES F,,
+07/13/2014,6,FEET,73.4,DEGREES F,,
+07/13/2014,9,FEET,73.4,DEGREES F,,
+07/13/2014,12,FEET,72.6,DEGREES F,,
+07/13/2014,15,FEET,71,DEGREES F,,
+08/10/2014,3,FEET,75,DEGREES F,,
+08/10/2014,6,FEET,75,DEGREES F,,
+08/10/2014,9,FEET,74.1,DEGREES F,,
+08/10/2014,12,FEET,72.6,DEGREES F,,
+08/10/2014,15,FEET,70.8,DEGREES F,,
+09/06/2014,3,FEET,73,DEGREES F,,
+09/06/2014,6,FEET,73,DEGREES F,,
+09/06/2014,9,FEET,73,DEGREES F,,
+09/06/2014,12,FEET,72.8,DEGREES F,,
+09/06/2014,15,FEET,71.9,DEGREES F,,
+05/09/2015,3,FEET,64.5,DEGREES F,,
+05/09/2015,6,FEET,64.7,DEGREES F,,
+05/09/2015,9,FEET,63.8,DEGREES F,,
+05/09/2015,12,FEET,61.7,DEGREES F,,
+05/09/2015,15,FEET,60,DEGREES F,,
+05/23/2015,3,FEET,63.5,DEGREES F,,
+05/23/2015,6,FEET,62.4,DEGREES F,,
+05/23/2015,9,FEET,60.9,DEGREES F,,
+05/23/2015,12,FEET,60.2,DEGREES F,,
+05/23/2015,15,FEET,59.7,DEGREES F,,
+06/06/2015,3,FEET,68,DEGREES F,,
+06/06/2015,6,FEET,68.5,DEGREES F,,
+06/06/2015,9,FEET,68.3,DEGREES F,,
+06/06/2015,12,FEET,66.2,DEGREES F,,
+06/06/2015,15,FEET,64.2,DEGREES F,,
+06/20/2015,3,FEET,71.9,DEGREES F,,
+06/20/2015,6,FEET,72.6,DEGREES F,,
+06/20/2015,9,FEET,71,DEGREES F,,
+06/20/2015,12,FEET,67.4,DEGREES F,,
+06/20/2015,15,FEET,65.3,DEGREES F,,
+07/04/2015,3,FEET,72.8,DEGREES F,,
+07/04/2015,6,FEET,73.2,DEGREES F,,
+07/04/2015,9,FEET,73.2,DEGREES F,,
+07/04/2015,12,FEET,71.4,DEGREES F,,
+07/04/2015,15,FEET,69.8,DEGREES F,,
+07/04/2015,16,FEET,69.2,DEGREES F,,
+07/25/2015,3,FEET,76.8,DEGREES F,,
+07/25/2015,6,FEET,76.8,DEGREES F,,
+07/25/2015,9,FEET,76.6,DEGREES F,,
+07/25/2015,12,FEET,75.9,DEGREES F,,
+07/25/2015,15,FEET,73.7,DEGREES F,,
+07/25/2015,16,FEET,73.4,DEGREES F,,
+08/15/2015,3,FEET,77.3,DEGREES F,,
+08/15/2015,6,FEET,77.3,DEGREES F,,
+08/15/2015,9,FEET,77,DEGREES F,,
+08/15/2015,12,FEET,75.2,DEGREES F,,
+08/15/2015,15,FEET,73.4,DEGREES F,,
+08/15/2015,16,FEET,72.8,DEGREES F,,
+08/22/2015,3,FEET,72.3,DEGREES F,,
+08/22/2015,6,FEET,72.3,DEGREES F,,
+08/22/2015,9,FEET,72.1,DEGREES F,,
+08/22/2015,12,FEET,72.1,DEGREES F,,
+08/22/2015,15,FEET,71,DEGREES F,,
+08/22/2015,16,FEET,71,DEGREES F,,
+11/16/2015,,,8.6,C,13.7,MG/L
+05/15/2016,0,FEET,54.6,DEGREES F,,
+05/15/2016,3,FEET,55,DEGREES F,,
+05/15/2016,6,FEET,55,DEGREES F,,
+05/15/2016,9,FEET,55,DEGREES F,,
+05/15/2016,12,FEET,55,DEGREES F,,
+05/15/2016,15,FEET,55,DEGREES F,,
+05/28/2016,0,FEET,71.6,DEGREES F,,
+05/28/2016,3,FEET,71.4,DEGREES F,,
+05/28/2016,6,FEET,71.2,DEGREES F,,
+05/28/2016,9,FEET,67.2,DEGREES F,,
+05/28/2016,12,FEET,61.3,DEGREES F,,
+05/28/2016,15,FEET,57.3,DEGREES F,,
+05/28/2016,16,FEET,56.1,DEGREES F,,
+06/10/2016,0,FEET,72.6,DEGREES F,,
+06/10/2016,3,FEET,72.1,DEGREES F,,
+06/10/2016,6,FEET,71.9,DEGREES F,,
+06/10/2016,9,FEET,70.8,DEGREES F,,
+06/10/2016,12,FEET,69.2,DEGREES F,,
+06/10/2016,15,FEET,68,DEGREES F,,
+06/10/2016,16,FEET,66.5,DEGREES F,,
+06/28/2016,0,FEET,76.8,DEGREES F,,
+06/28/2016,3,FEET,76.8,DEGREES F,,
+06/28/2016,6,FEET,76.8,DEGREES F,,
+06/28/2016,9,FEET,76.8,DEGREES F,,
+06/28/2016,12,FEET,76.8,DEGREES F,,
+06/28/2016,15,FEET,76.4,DEGREES F,,
+06/28/2016,16,FEET,75.3,DEGREES F,,
+07/08/2016,0,FEET,77.7,DEGREES F,,
+07/08/2016,3,FEET,77.7,DEGREES F,,
+07/08/2016,6,FEET,77,DEGREES F,,
+07/08/2016,9,FEET,77.5,DEGREES F,,
+07/08/2016,12,FEET,73.9,DEGREES F,,
+07/08/2016,15,FEET,73.4,DEGREES F,,
+07/08/2016,16,FEET,72.1,DEGREES F,,
+07/23/2016,0,FEET,81.3,DEGREES F,,
+07/23/2016,3,FEET,81.3,DEGREES F,,
+07/23/2016,6,FEET,80.9,DEGREES F,,
+07/23/2016,9,FEET,79.5,DEGREES F,,
+07/23/2016,12,FEET,78.2,DEGREES F,,
+07/23/2016,15,FEET,77,DEGREES F,,
+07/23/2016,16,FEET,75.5,DEGREES F,,
+08/14/2016,3,FEET,77.9,DEGREES F,,
+08/14/2016,6,FEET,77.9,DEGREES F,,
+08/14/2016,9,FEET,77.9,DEGREES F,,
+08/14/2016,12,FEET,76.6,DEGREES F,,
+08/14/2016,15,FEET,74.1,DEGREES F,,
+08/14/2016,16,FEET,73.4,DEGREES F,,
+05/10/2017,3,FEET,57.5,DEGREES F,,
+05/10/2017,6,FEET,57,DEGREES F,,
+05/10/2017,9,FEET,55.4,DEGREES F,,
+05/10/2017,12,FEET,51.8,DEGREES F,,
+05/10/2017,15,FEET,49.6,DEGREES F,,
+05/10/2017,17,FEET,49.2,DEGREES F,,
+05/25/2017,3,FEET,58.4,DEGREES F,,
+05/25/2017,6,FEET,58.4,DEGREES F,,
+05/25/2017,9,FEET,55.2,DEGREES F,,
+05/25/2017,12,FEET,53.3,DEGREES F,,
+05/25/2017,15,FEET,49.7,DEGREES F,,
+05/25/2017,17,FEET,49.7,DEGREES F,,
+06/08/2017,3,FEET,73,DEGREES F,,
+06/08/2017,6,FEET,72.8,DEGREES F,,
+06/08/2017,9,FEET,69.2,DEGREES F,,
+06/08/2017,12,FEET,63.6,DEGREES F,,
+06/08/2017,15,FEET,61.1,DEGREES F,,
+06/08/2017,17,FEET,59.3,DEGREES F,,
+06/29/2017,3,FEET,67.1,DEGREES F,,
+06/29/2017,6,FEET,66.5,DEGREES F,,
+06/29/2017,9,FEET,66.5,DEGREES F,,
+06/29/2017,12,FEET,66.5,DEGREES F,,
+06/29/2017,15,FEET,64.4,DEGREES F,,
+06/29/2017,17,FEET,63.8,DEGREES F,,
+07/17/2017,3,FEET,76.2,DEGREES F,,
+07/17/2017,6,FEET,75.5,DEGREES F,,
+07/17/2017,9,FEET,74.4,DEGREES F,,
+07/17/2017,12,FEET,70.1,DEGREES F,,
+07/17/2017,15,FEET,66.5,DEGREES F,,
+07/29/2017,3,FEET,75.2,DEGREES F,,
+07/29/2017,6,FEET,75.2,DEGREES F,,
+07/29/2017,9,FEET,74.4,DEGREES F,,
+07/29/2017,12,FEET,71.6,DEGREES F,,
+07/29/2017,15,FEET,70.1,DEGREES F,,
+08/10/2017,3,FEET,72.8,DEGREES F,,
+08/10/2017,6,FEET,72.6,DEGREES F,,
+08/10/2017,9,FEET,72.6,DEGREES F,,
+08/10/2017,12,FEET,69.6,DEGREES F,,
+08/10/2017,15,FEET,68,DEGREES F,,
+08/24/2017,3,FEET,71.4,DEGREES F,,
+08/24/2017,6,FEET,71.4,DEGREES F,,
+08/24/2017,9,FEET,71.2,DEGREES F,,
+08/24/2017,12,FEET,71.2,DEGREES F,,
+08/24/2017,15,FEET,67.6,DEGREES F,,
+09/21/2017,3,FEET,71,DEGREES F,,
+09/21/2017,6,FEET,71,DEGREES F,,
+09/21/2017,9,FEET,66.9,DEGREES F,,
+09/21/2017,12,FEET,65.1,DEGREES F,,
+09/21/2017,15,FEET,63.3,DEGREES F,,
+09/21/2017,17,FEET,62.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/12/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/21/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1993,Rainy- 50 degrees- windy- ice off for 2 weeks- lots of precipitation last month.    
+05/14/1993,Have seen many dead game fish this year    
+06/08/1993,Heavy boat traffic- high runoff due to rain- sewer line leaks into lake    
+07/19/1993,Sunny- 80 F- slight algal present.    
+08/03/2001,DEEP HOLE- INTEGRATED SAMPLER 0 TO 6.65FT    
+08/03/2001,TO MANY BOATS AND JET SKI'S    
+09/25/2003,VAN DOREN - 1FT BELOW SURFACE    
+07/04/2007,75 F- sunny- calm- heavy boat traffic. Heavily developed shoreline.
+Surface temp  76.2 F- btm (12 ft)temp  75.5 F. Surface D.O. 6.3 mg/L.
+pH  7.90; 
+Conductivity 0.22 m/S; 
+TDS 150 ppm; 
+PO4 0.15 mg/L ;
+Alkalinity 128 mg/L; 
+Chlorides 36 mg/L; 
+NO3 0.1 mg/L;
+NH3 0.1 mg/L; 
+07/30/2009, 80F- sunny- calm. Heavy boat traffic of ski boats- jet skis and tour boats making sampling hazardous! Bottom depth 12 ft at sampling point. pH=8.50; Conductivity=0.23 uS/cm; TDS= 150 mg/L; PO4(chemet) less than o.1 mg/L; alkalinity= 125 mg/L. No floating mats of algae observed. Lake refilled in spring.
+08/03/2009,Heavy boat traffic.  Hazardous for monitoring.
+pH:8.5- Cond:0.23- TDS:150- PO4: less than 0.1- Alk:125
+08/11/2009,*Secchi depth of 2.8' indicated as hitting bottom- temp profile to 15'.
+08/24/2013,Last sample for 2013 due to illness in the family
+05/28/2016,Last temperature entry corresponds to bottom depth.
+06/10/2016,Last temperature entry corresponds to bottom depth.
+06/28/2016,Last temperature entry corresponds to bottom depth.
+06/29/2017,After heavy rains
+
+
+
+
+Start Date,Group Name,Project Name
+06/12/1980,Data Collectors,Migrated from STORET Legacy
+08/21/1980,Data Collectors,Migrated from STORET Legacy
+04/23/1992,Data Collectors,LAKE MGT PROJECTS
+07/23/1992,Data Collectors,LAKE MGT PROJECTS
+08/20/1992,Data Collectors,LAKE MGT PROJECTS
+05/01/1993,Kathy Zowin,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/14/1993,James Steyer,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/08/1993,James Steyer,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/19/1993,Kathy Zowin,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+09/08/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+09/08/1993,Kathy Zowin,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/11/1994,Kathy Zowin,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+09/15/1994,Kathy Zowin,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/12/1995,Kathy Zowin,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/03/2001,Carl Molter,Lakes Baseline and Trends Monitoring
+08/03/2001,Susan Graham,Lake Baseline Monitoring- DNR (1970s-2006)
+09/25/2003,Susan Graham,VILLAGE OF LAKE DELTON: Lk Delton-Water Quality Study
+07/04/2007,Frank Piraino,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/04/2009,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/09/2009,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/28/2009,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/30/2009,Frank Piraino,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/03/2009,Frank Piraino,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/11/2009,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/25/2010,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/30/2010,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/11/2010,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/26/2010,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/18/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/25/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/03/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/14/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/19/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/30/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/06/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/14/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/29/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/07/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/18/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/22/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+09/02/2012,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/13/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/13/2013,Data Collectors,
+06/17/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/18/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/28/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/15/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/16/2013,Data Collectors,
+07/28/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/24/2013,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/10/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/24/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/15/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/17/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/28/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/13/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/10/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+09/06/2014,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/09/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/09/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/23/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/06/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/20/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/04/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/09/2015,Data Collectors,
+07/25/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/15/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/22/2015,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+11/16/2015,Data Collectors,Bacteria + Plankton (Paid Private)
+05/15/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/28/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/10/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/28/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/08/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/23/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/14/2016,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/10/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+05/25/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/08/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+06/29/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/17/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+07/29/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/10/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+08/24/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center
+09/21/2017,Gordon Priegl,Citizen Lake Monitoring - Water Quality - Lake Delton - Center

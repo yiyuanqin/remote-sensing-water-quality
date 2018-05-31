@@ -1,0 +1,36 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Birch Lake,Sawyer,2113000,NO,58,,10048295,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/23/2017,,,,,39.5,,57,,,,,,
+1,05/28/2017,,,,,73.5,,61,,,,,,
+1,07/12/2017,,,,9.28,39.4,,57,52,,,,,
+1,07/30/2017,,,,89.1,104,,64,69,,,,,
+1,08/24/2017,,,,38.4,80,,62,62,,,,,
+1,09/17/2017,,,,4.52,63.7,,60,46,,,,,
+1,10/25/2017,,,,13.1,51.9,,59,54,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/23/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project
+05/28/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project
+07/12/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project
+07/30/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project
+08/24/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project
+09/17/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project
+10/25/2017,Data Collectors,BIG CHETAC CHAIN LAKE ASSOCIATION: Big Chetac + Birch Lakes WQ- Shoreland- + Aquatic Plant Project

@@ -1,0 +1,436 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Perch Lake,Saint Croix,2488300,WC,56,,563081,SW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190085,08/19/1991,20.25,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,09/01/1991,19.75,NO,6,,,34,,,GAUGE,1.18,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,09/13/1991,18.5,NO,5.6,,,35,,,GAUGE,90.65,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190085,09/28/1991,15.25,NO,4.6,,,38,,,GAUGE,90.43,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190085,04/02/1992,,,,,,,,,,,,BLUE,
+8190085,04/19/1992,12.5,NO,3.8,,,41,,,GAUGE,90.65,,BLUE,1-Beautiful, could not be nicer
+8190085,04/27/1992,12.5,NO,3.8,,,41,,,GAUGE,90.6,,BLUE,1-Beautiful, could not be nicer
+8190085,05/10/1992,,,,,,,,,GAUGE,90.55,,BLUE,
+8190085,05/14/1992,17.25,NO,5.2,,,36,,,GAUGE,90.55,,BLUE,1-Beautiful, could not be nicer
+8190085,05/20/1992,25,NO,7.6,,,31,,,GAUGE,90.53,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,05/24/1992,26.5,NO,8.1,,,30,,,GAUGE,90.53,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,05/31/1992,26.5,NO,8.1,,,30,,,GAUGE,90.45,CLEAR,BLUE,
+8190085,06/13/1992,27,NO,8.2,,,30,,,GAUGE,90.36,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,06/24/1992,16.5,NO,5,,,37,,,GAUGE,90.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/04/1992,16,NO,4.9,,,37,,,GAUGE,90.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/18/1992,15.5,NO,4.7,,,38,,,GAUGE,90.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,08/08/1992,17.5,NO,5.3,,,36,,,GAUGE,90.63,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,08/22/1992,18.25,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,09/06/1992,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,09/13/1992,20.5,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,10/01/1992,20,NO,6.1,,,34,,,GAUGE,90.35,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,10/11/1992,19.5,NO,5.9,,,34,,,GAUGE,90.42,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,03/08/1993,,,,1.09,,,,35,,,,,
+8190085,05/01/1993,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/03/1993,15.4,,4.7,2.76,,38,,42,,,,,
+8190085,05/22/1993,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,06/06/1993,17.25,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/14/1993,17.2,,5.25,1.84,5,36,41,39,,,,,
+8190085,06/26/1993,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/03/1993,16.25,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190085,07/16/1993,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/19/1993,13.1,,4,2.14,7,40,43,41,,,,,
+8190085,08/15/1993,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190085,08/29/1993,14.75,NO,4.5,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,09/02/1993,15.4,,4.7,2.52,7,38,43,42,,,,,
+8190085,09/04/1993,14.75,NO,4.5,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190085,09/25/1993,16.25,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,10/16/1993,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,10/26/1993,19.5,NO,5.9,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,11/03/1993,15.1,,4.6,2.06,8,38,44,40,,,,,
+8190085,11/03/1993,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,11/18/1993,9.8,,3,3.06,10,44,46,43,,,,,
+8190085,11/20/1993,13.25,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,03/14/1995,,,,0.313,10,,46,26,,,,,
+8190085,04/15/1995,18.5,NO,5.6,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,04/17/1995,,,,3.05,,,,43,,,,,
+8190085,04/22/1995,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,04/29/1995,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,05/06/1995,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,05/25/1995,25,NO,7.6,,,31,,,GAUGE,92.36,,,1-Beautiful, could not be nicer
+8190085,06/01/1995,26,NO,7.9,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/07/1995,24.6,,7.5,0.41,11,31,47,28,,,,,
+8190085,06/17/1995,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,06/24/1995,18,NO,5.5,,,35,,,GAUGE,92.73,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/01/1995,15,NO,4.6,,,38,,,GAUGE,92.89,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/04/1995,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/07/1995,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/09/1995,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/14/1995,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/17/1995,15.6,,4.75,0.18,,38,,22,,,,,
+8190085,07/22/1995,16.5,NO,5,,,37,,,GAUGE,92.98,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,07/26/1995,16.5,NO,5,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,08/05/1995,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,08/11/1995,15,NO,4.6,,,38,,,GAUGE,93.23,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,08/13/1995,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,08/17/1995,14.5,NO,4.4,,,39,,,GAUGE,93.48,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/29/1995,14.8,,4.5,2.08,8,38,44,40,,,,,
+8190085,09/02/1995,14.5,NO,4.4,,,39,,,GAUGE,93.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,09/10/1995,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190085,09/17/1995,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,11/06/1995,18.7,,5.7,1.82,10,35,46,39,,,,,
+1,11/16/1995,11.2,,3.4,0.98,14,42,49,35,,,,,
+7000001,04/27/2004,18,,5.5,,11,35,47,,,,,,
+7000001,07/14/2004,14.8,NO,4.5,1.81,10,38,46,39,,,,,
+7000001,08/10/2004,14.8,NO,4.5,2.9,10,38,46,43,,,,,
+7000001,10/05/2004,,,,3.596,10,,46,44,,,,,
+19627433,06/24/2007,14.25,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+19627433,07/08/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+19627433,07/29/2007,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+19627433,08/12/2007,17.25,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+19627433,09/03/2007,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+19627433,09/16/2007,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+145017412,04/03/2017,13.75,NO,4.2,,18.5,39,51,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,04/21/2017,24.75,NO,7.5,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,05/04/2017,26.25,NO,8,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,05/24/2017,,NO,,,,,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,05/31/2017,,NO,,,,,,,HIGH,26,,,
+145017412,06/09/2017,25.5,NO,7.8,,,30,,,HIGH,,,,
+145017412,06/16/2017,21.5,NO,6.5,,,33,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+8190085,06/23/2017,,,,2.91,11.3,,47,43,,,,,
+145017412,07/02/2017,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,07/05/2017,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,07/18/2017,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,07/26/2017,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/31/2017,,,,1.48,11.4,,47,38,,,,,
+145017412,07/31/2017,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145017412,08/07/2017,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+145017412,08/11/2017,14.6,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+145017412,08/21/2017,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+145017412,08/27/2017,14.6,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+145017412,09/06/2017,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/08/1993,,,0.5,C,0.05,MG/L
+05/03/1993,,,11.1,C,10.6,MG/L
+06/14/1993,,,13.0,C,0.5,MG/L
+07/19/1993,,,13.0,C,0.75,MG/L
+09/02/1993,,,16.8,C,0.0,MG/L
+11/03/1993,,,7.5,C,8.6,MG/L
+11/18/1993,,,5.0,C,8.8,MG/L
+03/14/1995,,,0.5,C,0.0,MG/L
+04/17/1995,,,5.62,C,8.85,MG/L
+06/07/1995,,,22.3,C,1.54,MG/L
+07/17/1995,,,12.4,C,0.42,MG/L
+08/29/1995,,,12.54,C,0.22,MG/L
+11/06/1995,,,7.53,C,8.6,MG/L
+11/16/1995,,,5.3,C,9.4,MG/L
+07/14/2004,,,24.9,C,14.2,MG/L
+08/10/2004,,,23.2,C,8.9,MG/L
+10/05/2004,,,16.3,C,9.8,MG/L
+04/03/2017,0,FEET,46.4,DEGREES F,,
+04/03/2017,5,FEET,46,DEGREES F,,
+04/03/2017,10,FEET,44.6,DEGREES F,,
+04/03/2017,15,FEET,42.9,DEGREES F,,
+04/03/2017,20,FEET,41.5,DEGREES F,,
+04/03/2017,25,FEET,41,DEGREES F,,
+04/03/2017,30,FEET,40.6,DEGREES F,,
+04/03/2017,35,FEET,40.4,DEGREES F,,
+04/03/2017,40,FEET,40.4,DEGREES F,,
+04/03/2017,45,FEET,40.2,DEGREES F,,
+04/03/2017,50,FEET,40.2,DEGREES F,,
+04/03/2017,60,FEET,40.2,DEGREES F,,
+04/03/2017,70,FEET,40.2,DEGREES F,,
+04/21/2017,0,FEET,52.8,DEGREES F,,
+04/21/2017,5,FEET,52.3,DEGREES F,,
+04/21/2017,10,FEET,52.1,DEGREES F,,
+04/21/2017,15,FEET,51.8,DEGREES F,,
+04/21/2017,20,FEET,45.3,DEGREES F,,
+04/21/2017,25,FEET,43.5,DEGREES F,,
+04/21/2017,30,FEET,42,DEGREES F,,
+04/21/2017,35,FEET,41,DEGREES F,,
+04/21/2017,40,FEET,40.6,DEGREES F,,
+04/21/2017,45,FEET,40.4,DEGREES F,,
+04/21/2017,50,FEET,40.4,DEGREES F,,
+04/21/2017,60,FEET,40.2,DEGREES F,,
+04/21/2017,70,FEET,40.4,DEGREES F,,
+05/04/2017,0,FEET,54.1,DEGREES F,,
+05/04/2017,5,FEET,53.9,DEGREES F,,
+05/04/2017,10,FEET,53.6,DEGREES F,,
+05/04/2017,15,FEET,51.2,DEGREES F,,
+05/04/2017,20,FEET,48.7,DEGREES F,,
+05/04/2017,25,FEET,45.6,DEGREES F,,
+05/04/2017,30,FEET,43.5,DEGREES F,,
+05/04/2017,35,FEET,43.5,DEGREES F,,
+05/04/2017,40,FEET,41.7,DEGREES F,,
+05/04/2017,45,FEET,41.3,DEGREES F,,
+05/04/2017,50,FEET,41.3,DEGREES F,,
+05/04/2017,60,FEET,40.6,DEGREES F,,
+05/04/2017,70,FEET,40.4,DEGREES F,,
+05/24/2017,0,FEET,60.2,DEGREES F,,
+05/24/2017,5,FEET,59.9,DEGREES F,,
+05/24/2017,10,FEET,59.7,DEGREES F,,
+05/24/2017,15,FEET,57.9,DEGREES F,,
+05/24/2017,20,FEET,51.6,DEGREES F,,
+05/24/2017,25,FEET,47.1,DEGREES F,,
+05/24/2017,30,FEET,44.8,DEGREES F,,
+05/24/2017,35,FEET,42.8,DEGREES F,,
+05/24/2017,40,FEET,42,DEGREES F,,
+05/24/2017,45,FEET,41.7,DEGREES F,,
+05/24/2017,50,FEET,41.3,DEGREES F,,
+05/24/2017,60,FEET,40.8,DEGREES F,,
+05/24/2017,70,FEET,40.6,DEGREES F,,
+06/16/2017,0,FEET,77.7,DEGREES F,,
+06/16/2017,2,FEET,77.3,DEGREES F,,
+06/16/2017,3,FEET,77,DEGREES F,,
+06/16/2017,4,FEET,76.8,DEGREES F,,
+06/16/2017,5,FEET,76.6,DEGREES F,,
+06/16/2017,10,FEET,76,DEGREES F,,
+06/16/2017,15,FEET,64.7,DEGREES F,,
+06/16/2017,20,FEET,57.7,DEGREES F,,
+06/16/2017,25,FEET,54.8,DEGREES F,,
+06/16/2017,30,FEET,51,DEGREES F,,
+06/16/2017,35,FEET,45,DEGREES F,,
+06/16/2017,40,FEET,44.2,DEGREES F,,
+07/02/2017,0,FEET,82,DEGREES F,,
+07/02/2017,5,FEET,74.6,DEGREES F,,
+07/02/2017,10,FEET,73.2,DEGREES F,,
+07/02/2017,15,FEET,69.2,DEGREES F,,
+07/02/2017,20,FEET,59.3,DEGREES F,,
+07/02/2017,25,FEET,51.4,DEGREES F,,
+07/02/2017,30,FEET,47.1,DEGREES F,,
+07/02/2017,35,FEET,44.6,DEGREES F,,
+07/02/2017,40,FEET,43.1,DEGREES F,,
+07/02/2017,45,FEET,42.2,DEGREES F,,
+07/02/2017,50,FEET,41,DEGREES F,,
+07/02/2017,60,FEET,41,DEGREES F,,
+07/02/2017,70,FEET,41,DEGREES F,,
+07/31/2017,0,FEET,81,DEGREES F,,
+07/31/2017,5,FEET,80,DEGREES F,,
+07/31/2017,10,FEET,79,DEGREES F,,
+07/31/2017,15,FEET,77.5,DEGREES F,,
+07/31/2017,20,FEET,61.5,DEGREES F,,
+07/31/2017,25,FEET,53.9,DEGREES F,,
+07/31/2017,30,FEET,48.5,DEGREES F,,
+07/31/2017,35,FEET,45.5,DEGREES F,,
+07/31/2017,40,FEET,44,DEGREES F,,
+07/31/2017,45,FEET,43.1,DEGREES F,,
+07/31/2017,50,FEET,42.6,DEGREES F,,
+07/31/2017,60,FEET,42.4,DEGREES F,,
+07/31/2017,70,FEET,42.3,DEGREES F,,
+08/11/2017,0,FEET,78.8,DEGREES F,,
+08/11/2017,5,FEET,75.9,DEGREES F,,
+08/11/2017,10,FEET,75.2,DEGREES F,,
+08/11/2017,15,FEET,74.8,DEGREES F,,
+08/11/2017,20,FEET,68.5,DEGREES F,,
+08/11/2017,25,FEET,57,DEGREES F,,
+08/11/2017,30,FEET,52.8,DEGREES F,,
+08/11/2017,35,FEET,48.5,DEGREES F,,
+08/11/2017,40,FEET,45.3,DEGREES F,,
+08/11/2017,45,FEET,44.4,DEGREES F,,
+08/11/2017,50,FEET,43,DEGREES F,,
+08/11/2017,60,FEET,42,DEGREES F,,
+08/11/2017,70,FEET,41.3,DEGREES F,,
+08/21/2017,0,FEET,76.8,DEGREES F,,
+08/21/2017,5,FEET,75.2,DEGREES F,,
+08/21/2017,10,FEET,74.3,DEGREES F,,
+08/21/2017,15,FEET,73.5,DEGREES F,,
+08/21/2017,20,FEET,66,DEGREES F,,
+08/21/2017,25,FEET,55.3,DEGREES F,,
+08/21/2017,30,FEET,49.4,DEGREES F,,
+08/21/2017,35,FEET,46.2,DEGREES F,,
+08/21/2017,40,FEET,44.6,DEGREES F,,
+08/21/2017,45,FEET,43.1,DEGREES F,,
+08/21/2017,50,FEET,42.4,DEGREES F,,
+08/21/2017,60,FEET,41.3,DEGREES F,,
+08/21/2017,70,FEET,41,DEGREES F,,
+08/27/2017,0,FEET,72.5,DEGREES F,,
+08/27/2017,5,FEET,72.4,DEGREES F,,
+08/27/2017,10,FEET,72.1,DEGREES F,,
+08/27/2017,15,FEET,71,DEGREES F,,
+08/27/2017,20,FEET,67.4,DEGREES F,,
+08/27/2017,25,FEET,66.7,DEGREES F,,
+08/27/2017,30,FEET,49.4,DEGREES F,,
+08/27/2017,35,FEET,46.4,DEGREES F,,
+08/27/2017,40,FEET,44.7,DEGREES F,,
+08/27/2017,45,FEET,43.5,DEGREES F,,
+08/27/2017,50,FEET,62.4,DEGREES F,,
+08/27/2017,60,FEET,41.7,DEGREES F,,
+08/27/2017,70,FEET,41.7,DEGREES F,,
+09/06/2017,0,FEET,70.8,DEGREES F,,
+09/06/2017,5,FEET,70.5,DEGREES F,,
+09/06/2017,10,FEET,69.9,DEGREES F,,
+09/06/2017,15,FEET,69.8,DEGREES F,,
+09/06/2017,20,FEET,68.5,DEGREES F,,
+09/06/2017,25,FEET,57.5,DEGREES F,,
+09/06/2017,30,FEET,50,DEGREES F,,
+09/06/2017,35,FEET,46.5,DEGREES F,,
+09/06/2017,40,FEET,44.6,DEGREES F,,
+09/06/2017,45,FEET,43.5,DEGREES F,,
+09/06/2017,50,FEET,42.8,DEGREES F,,
+09/06/2017,60,FEET,41.3,DEGREES F,,
+09/06/2017,70,FEET,41.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/19/1991,Sunny- calm- 70 F    
+09/01/1991,Sunny- 68 F- light SE wind    
+09/13/1991,Cloudy- windy- 50 F- 7" rain from 9/7 - 9/15    
+09/28/1991,Clear- breezy- 65 F- .2" rain from 9/15 - 9/28- surface temp: 62 F- at 20': 54 F- at 40': 44 F- at 65': 40 F    
+04/02/1992,Ice off: 4-28-91. ice on: 12-7-91.    
+04/19/1992,Ice off 4-14-92. water temps (surface) : 4-16=39 degrees- 4-19=42 degrees.    
+04/27/1992,Water temps: surface=45- 5'=44- 10'=44- 20'=42- 30'=42.    
+05/10/1992,Too windy for secchi. temp 60 degrees. first swim!    
+05/14/1992,Water temps: surface=61- 5'=60- 10'=59- 15'=54- 20'=46- 30'=40.    
+05/20/1992,Partly sunny- 88 degrees- calm.  Depth and temps are listed on cards.    
+05/24/1992,Sunny- light wind- 70 degrees- temps and depths on cards.    
+05/31/1992,Light winds- 80 degrees- sunny.    
+06/13/1992,Calm- 85 degrees- sunny- 3.1" of rain this week.    
+06/24/1992,Sunny- calm - 70 degrees.    
+07/18/1992,Calm- sunny- 65 degrees.    
+08/08/1992,Calm- sunny- 75 degrees.  1.5" of rain.    
+10/01/1992,Sunny- calm- 75 degrees.    
+10/11/1992,Calm- sunny.    
+03/08/1993,LATE WINTER SAMPLE - LAKES    
+05/01/1993,Ice off 4/18- ice on 12/8/93- loon back 4/25/93- turtles nesting 4/28/93- 1st swim 5/4/93.    
+05/03/1993,SPRING TURNOVER - NO BOTTOM SAMPLE    
+05/22/1993,Algal blooms    
+06/14/1993,SUMMER SAMPLING    
+07/16/1993,Some algal bloom- very rainy    
+09/02/1993,SUMMER SAMPLING    
+11/03/1993,FALL TURNOVER    
+11/18/1993,FALL TURNOVER    
+11/20/1993,Cold    
+03/14/1995,LAKE WINTER SAMPLE    
+04/29/1995,Very warm- first swim.    
+05/25/1995,28" above stump elev. 90.23.    
+06/01/1995,30".    
+06/07/1995,SUMMER SAMPLING    
+06/17/1995,29.5".    
+06/24/1995,Lots of rain- 2+ "    
+07/01/1995,31.5".    
+07/09/1995,31".    
+07/14/1995,32".    
+07/17/1995,SUMMER SAMPLING    
+07/22/1995,32.5".    
+08/11/1995,35.5".    
+08/17/1995,39".    
+08/29/1995,SUMMER SAMPLING    
+09/02/1995,38".    
+11/06/1995,FALL TURNOVER    
+11/16/1995,FALL TURNOVER    
+04/27/2004,SPRING TURNOVER - SURFACE 0M    
+07/14/2004,SUMMER SAMPLE - SURFACE 0M    
+08/10/2004,SUMMER SAMPLE - SURFACE 0M    
+10/05/2004,SUMMER SAMPLE - SURFACE 0M    
+05/24/2017,Cloudy skies
+08/21/2017,solar eclipse day
+08/27/2017,cloudy 
+
+
+
+
+Start Date,Group Name,Project Name
+08/19/1991,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/01/1991,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/13/1991,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/28/1991,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/02/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/19/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/27/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/10/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/14/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/20/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/24/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/31/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/13/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/24/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/04/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/18/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/08/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/22/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/06/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/13/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+10/01/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+10/11/1992,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+03/08/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/01/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/03/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/22/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/06/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/14/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/26/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/03/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/16/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/19/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/15/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/29/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/02/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/04/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/25/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+10/16/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+10/26/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+11/03/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+11/03/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+11/18/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+11/20/1993,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+03/14/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/15/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/17/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/22/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/29/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/06/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/25/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/01/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/07/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/17/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/24/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/01/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/04/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/07/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/09/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/14/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/17/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/26/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/05/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/11/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/13/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/17/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/29/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/02/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/10/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/17/1995,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+11/06/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+11/16/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/27/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+07/14/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+08/10/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+10/05/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+06/24/2007,Mary S. Klemp,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/08/2007,Mary S. Klemp,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/29/2007,Mary S. Klemp,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/12/2007,Mary S. Klemp,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/03/2007,Mary S. Klemp,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/16/2007,Mary S. Klemp,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/03/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+04/21/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/04/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/24/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+05/31/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/09/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/16/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+06/23/2017,Patrick Collins,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/02/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/05/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/18/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/26/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/31/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+07/31/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/07/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/11/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/21/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+08/27/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point
+09/06/2017,Lucy McNellis,Citizen Lake Monitoring - Water Quality - Perch Lake - At Deepest Point

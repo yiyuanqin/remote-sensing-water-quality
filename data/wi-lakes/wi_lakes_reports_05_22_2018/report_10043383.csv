@@ -1,0 +1,86 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bone Lake,Polk,2628100,NO,49,,10043383,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+106663400,04/15/2015,,,,,829,,80,,,,,,
+18137029,05/04/2015,,,,,19.1,,51,,,,,,
+106663400,05/21/2015,,,,,52,,59,,,,,,
+106663400,06/12/2015,,,,,28.1,,54,,,,,,
+106663400,06/28/2015,,,,,26.5,,54,,,,,,
+106663400,07/10/2015,,,,,42.8,,57,,,,,,
+106663400,07/27/2015,,,,,37.3,,56,,,,,,
+106663400,08/12/2015,,,,,58.1,,60,,,,,,
+106663400,08/26/2015,,,,,96.8,,64,,,,,,
+18137029,09/14/2015,,,,,114,,65,,,,,,
+18137029,09/28/2015,,,,,106,,64,,,,,,
+18137029,03/30/2016,,,,,31.8,,55,,,,,,
+106663400,05/19/2016,,,,,32.6,,55,,,,,,
+106663400,06/10/2016,,,,,28.7,,54,,,,,,
+106663400,06/24/2016,,,,,37,,56,,,,,,
+8188645,07/08/2016,,,,,36,,56,,,,,,
+1,07/24/2016,,,,,,,,,,,,,
+8188645,08/15/2016,,,,,47.3,,58,,,,,,
+8188645,08/25/2016,,,,,75.6,,62,,,,,,
+18137029,09/13/2016,,,,,94.9,,63,,,,,,
+18137029,09/29/2016,,,,,99.3,,64,,,,,,
+18137029,03/31/2017,,,,,21.5,,52,,,,,,
+18137029,05/09/2017,,,,,20.2,,51,,,,,,
+1,05/21/2017,,,,,29.2,,54,,,,,,
+8188645,06/07/2017,,,,,19,,51,,,,,,
+8188645,06/23/2017,,,,,27.6,,54,,,,,,
+8188645,07/05/2017,,,,,31.8,,55,,,,,,
+1,07/20/2017,,,,,36.1,,56,,,,,,
+1,08/04/2017,,,,,52.1,,59,,,,,,
+1,08/22/2017,,,,,54.3,,59,,,,,,
+18137029,09/08/2017,,,,,87,,63,,,,,,
+18137029,09/19/2017,,,,,86.3,,63,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/15/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+05/04/2015,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+05/21/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+06/12/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+06/28/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+07/10/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+07/27/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+08/12/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+08/26/2015,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+09/14/2015,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+09/28/2015,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+03/30/2016,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+05/19/2016,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+06/10/2016,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+06/24/2016,Sam Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+07/08/2016,Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+07/24/2016,Data Collectors,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+08/15/2016,Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+08/25/2016,Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+09/13/2016,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+09/29/2016,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+03/31/2017,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+05/09/2017,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+05/21/2017,Data Collectors,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+06/07/2017,Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+06/23/2017,Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+07/05/2017,Schieffer,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+07/20/2017,Data Collectors,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+08/04/2017,Data Collectors,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+08/22/2017,Data Collectors,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+09/08/2017,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update
+09/19/2017,Bob Boyd,BONE LAKE MANAGEMENT DISTRICT: Bone Lake Internal Load Study + Comprehensive Plan Update

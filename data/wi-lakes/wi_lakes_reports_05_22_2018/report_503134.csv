@@ -1,0 +1,662 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rinehart Lake,Portage,278600,WC,50,,503134,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190740,04/25/1993,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190740,05/09/1993,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190740,05/22/1993,19.25,NO,5.9,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189995,06/02/1993,13.5,NO,4.1,,,40,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/06/1993,12,NO,3.6,,,41,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190740,06/13/1993,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189995,06/17/1993,12.5,NO,3.8,,,41,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,06/20/1993,14,NO,4.3,,,39,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,06/30/1993,11.5,NO,3.5,,,42,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,07/07/1993,15,NO,4.6,,,38,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/11/1993,,,,2.84,,,,43,,,,,
+8190740,07/11/1993,14,NO,4.3,,9,39,45,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189995,07/14/1993,13,NO,4,,,40,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,07/23/1993,12,NO,3.6,,,41,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/01/1993,10.5,NO,3.2,,,43,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,08/12/1993,12,NO,3.6,,,41,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,08/21/1993,11,NO,3.3,,,43,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/24/1993,,,,,12,,47,,,,,,
+8190740,08/24/1993,14,NO,4.3,2.35,,39,,41,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,11/07/1993,,,,,13,,48,,,,,,
+8190740,11/07/1993,16,NO,4.9,1.21,,37,,36,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,04/10/1994,,,,,10,,46,,,,,,
+8190740,04/10/1994,14,NO,4.3,2.66,,39,,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189995,05/19/1994,13,NO,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189995,05/27/1994,15,NO,4.6,,,38,,,DOWN, BELOW NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189995,06/03/1994,15.5,NO,4.7,,,38,,,DOWN, BELOW NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/14/1994,13,NO,4,,,40,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/22/1994,11.5,NO,3.5,,,42,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/29/1994,12,NO,3.6,,,41,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/04/1994,12.5,NO,3.8,,,41,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/10/1994,,,,2.7,11,,47,42,,,,,
+8190740,07/10/1994,15,NO,4.6,,,38,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8189995,07/11/1994,12,NO,3.6,,,41,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/16/1994,11.25,NO,3.4,,,42,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/23/1994,15,NO,4.6,,,38,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/29/1994,17,NO,5.2,,,36,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/09/1994,15,NO,4.6,,,38,,,LOW,,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,08/17/1994,13.5,NO,4.1,,,40,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190740,08/17/1994,20.5,NO,6.2,1.31,8,34,44,37,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189995,08/24/1994,13,NO,4,,,40,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,08/31/1994,14.5,NO,4.4,,,39,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,09/04/1994,15.5,NO,4.7,,,38,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8189995,09/10/1994,16.5,NO,5,,,37,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8190740,09/10/1994,17.5,NO,5.3,0.573,18,36,51,31,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190740,04/08/1995,18.5,NO,5.6,2.15,,35,,41,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189995,05/27/1995,18.5,NO,5.6,,,35,,,BELOW NORMAL-CALM,,,GREEN,5-Enjoyment substantially impaired (algae)
+8189995,06/02/1995,20,NO,6.1,,,34,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,06/09/1995,16,NO,4.9,,,37,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,06/16/1995,15,NO,4.6,,,38,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8190740,06/18/1995,19.5,NO,5.9,1.01,12,34,47,35,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189995,06/23/1995,18,NO,5.5,,,35,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,06/28/1995,19.5,NO,5.9,,,34,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,07/04/1995,18,NO,5.5,,,35,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,07/11/1995,18.5,NO,5.6,,,35,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,07/18/1995,17,NO,5.2,,,36,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+1,07/23/1995,,,,0.14,10,,46,20,,,,,
+8189995,07/23/1995,15.5,NO,4.7,,,38,,,LOW,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,07/30/1995,16,NO,4.9,,,37,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8189995,08/05/1995,14.5,NO,4.4,,,39,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8189995,08/13/1995,16.5,NO,5,,,37,,,HIGH,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,08/19/1995,14.5,NO,4.4,,,39,,,ABOVE NORMAL-DUE TO HEAVY RAINS,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+8189995,08/26/1995,16,NO,4.9,,,37,,,NORMAL,,,GREEN BROWN,4-Would not swim but boating OK (algae)
+1,05/12/1996,,,,6.66,20,,51,49,,,,,
+8190740,05/12/1996,10,NO,3,,,44,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/02/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,06/09/1996,,,,0.47,13,,48,29,,,,,
+8190740,06/09/1996,20,YES,6.1,,,34,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+8189995,06/11/1996,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189995,06/20/1996,16.5,NO,5,,,37,,,HIGH,,,,3-Enjoyment somewhat impaired (algae)
+8189995,06/27/1996,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189995,07/02/1996,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189995,07/09/1996,14,NO,4.3,,,39,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/17/1996,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190740,07/21/1996,17.5,NO,5.3,1.31,7,36,43,37,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189995,07/24/1996,17.25,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189995,08/01/1996,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189995,08/08/1996,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189995,08/15/1996,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189995,08/22/1996,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190740,08/25/1996,10,NO,3,4.71,10,44,46,47,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/28/1996,12,NO,3.6,,,41,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,09/05/1996,15,NO,4.6,,,38,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,09/10/1996,16,NO,4.9,,,37,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190740,11/10/1996,18,NO,5.5,,,35,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189995,06/07/1997,15,NO,4.6,,,38,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/14/1997,16.5,NO,5,,,37,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/22/1997,17.5,NO,5.3,,,36,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,06/28/1997,17,NO,5.2,,,36,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/03/1997,18,NO,5.5,,,35,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/08/1997,17,NO,5.2,,,36,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/10/1997,18.5,NO,5.6,,,35,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,07/25/1997,15,NO,4.6,,,38,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/01/1997,16,NO,4.9,,,37,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/08/1997,17.5,NO,5.3,,,36,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/15/1997,12.5,NO,3.8,,,41,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,08/23/1997,14,NO,4.3,,,39,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189995,09/01/1997,15,NO,4.6,,,38,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000105,05/04/2005,,,,,11,,47,,,,,,
+8190740,05/22/2005,,,,,16,,50,,,,,,
+1,05/21/2006,,,,,,,,,,,,,
+1,07/15/2006,,,,0.34,22,,52,27,,,,,
+1,08/21/2006,,,,2.18,11,,47,41,,,,,
+8190740,07/04/2007,,,,1.64,11,,47,39,,,,,
+59986655,05/28/2012,19.5,NO,5.9,,,34,,,NORMAL,-.3,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,06/28/2012,15,NO,4.6,,,38,,,LOW,-.5,CLEAR,GREEN,2-Very minor aesthetic problems
+59986655,08/14/2012,19,NO,5.8,,,35,,,LOW,-.5,CLEAR,BLUE,2-Very minor aesthetic problems
+59986655,09/15/2012,18.5,NO,5.6,,,35,,,LOW,-.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,10/21/2012,14.5,NO,4.4,,,39,,,NORMAL,-.3,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,05/28/2013,14.5,NO,4.4,,,39,,,NORMAL,-.1,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,06/18/2013,,,,0.552,7.1,,43,30,,,,,
+59986655,06/30/2013,, ,,,,,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986659,11/03/2013,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,08/05/2014,10.5,NO,3.2,2.1,11.4,43,47,40,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+59986655,09/06/2014,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+59986655,10/19/2014,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,05/17/2015,20,NO,6.1,,,34,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+59986655,06/17/2015,,,,1.19,12.6,,48,36,,,,,
+59986655,07/24/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,07/26/2015,,,,2.44,17.2,,50,42,,,,,
+59986655,08/30/2015,19,NO,5.8,1.2,21.2,35,52,36,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,06/05/2016,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,06/05/2016,,,,0.886,22.4,,52,34,,,,,
+59986655,07/07/2016,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,07/20/2016,,,,0.789,16.7,,50,33,,,,,
+59986655,08/16/2016,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+121885992,08/16/2016,,,,0.728,16.1,,50,32,,,,,
+59986655,09/20/2016,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986655,10/23/2016,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,05/22/2017,11,NO,3.3,,18.9,43,51,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,06/30/2017,19.7,NO,6,0.954,15,34,49,34,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+59986659,07/31/2017,15.3,NO,4.7,1.37,16.4,38,50,37,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,08/27/2017,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+121885992,08/28/2017,,,,2.43,24.5,,53,42,,,,,
+121885992,10/23/2017,17.8,NO,5.4,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/11/1993,3,FEET,77,DEGREES F,,
+07/11/1993,5,FEET,76,DEGREES F,,
+07/11/1993,15,FEET,67,DEGREES F,,
+07/11/1993,20,FEET,60,DEGREES F,,
+08/24/1993,3,FEET,79,DEGREES F,,
+08/24/1993,5,FEET,77,DEGREES F,,
+08/24/1993,15,FEET,69,DEGREES F,,
+08/24/1993,20,FEET,64,DEGREES F,,
+11/07/1993,3,FEET,38,DEGREES F,,
+11/07/1993,5,FEET,38,DEGREES F,,
+11/07/1993,15,FEET,38,DEGREES F,,
+11/07/1993,20,FEET,38,DEGREES F,,
+04/10/1994,3,FEET,45,DEGREES F,,
+04/10/1994,5,FEET,45,DEGREES F,,
+04/10/1994,15,FEET,45,DEGREES F,,
+04/10/1994,20,FEET,43,DEGREES F,,
+07/10/1994,3,FEET,75,DEGREES F,,
+07/10/1994,5,FEET,75,DEGREES F,,
+07/10/1994,15,FEET,72,DEGREES F,,
+07/10/1994,20,FEET,65,DEGREES F,,
+08/17/1994,3,FEET,73,DEGREES F,,
+08/17/1994,5,FEET,73,DEGREES F,,
+08/17/1994,15,FEET,69,DEGREES F,,
+08/17/1994,20,FEET,67,DEGREES F,,
+09/10/1994,1,FEET,70,DEGREES F,,
+09/10/1994,3,FEET,70,DEGREES F,,
+09/10/1994,5,FEET,69,DEGREES F,,
+09/10/1994,10,FEET,68,DEGREES F,,
+09/10/1994,15,FEET,67,DEGREES F,,
+09/10/1994,20,FEET,65,DEGREES F,,
+04/08/1995,1,FEET,42,DEGREES F,,
+04/08/1995,3,FEET,42,DEGREES F,,
+04/08/1995,5,FEET,42,DEGREES F,,
+04/08/1995,15,FEET,42,DEGREES F,,
+04/08/1995,20,FEET,41,DEGREES F,,
+06/18/1995,1,FEET,80,DEGREES F,,
+06/18/1995,3,FEET,78,DEGREES F,,
+06/18/1995,5,FEET,78,DEGREES F,,
+06/18/1995,15,FEET,68,DEGREES F,,
+06/18/1995,20,FEET,67,DEGREES F,,
+05/12/1996,1,FEET,52,DEGREES F,,
+05/12/1996,3,FEET,52,DEGREES F,,
+05/12/1996,5,FEET,52,DEGREES F,,
+05/12/1996,10,FEET,51,DEGREES F,,
+05/12/1996,15,FEET,50,DEGREES F,,
+05/12/1996,20,FEET,48,DEGREES F,,
+06/09/1996,1,FEET,66,DEGREES F,,
+06/09/1996,3,FEET,66,DEGREES F,,
+06/09/1996,5,FEET,65,DEGREES F,,
+06/09/1996,10,FEET,62,DEGREES F,,
+06/09/1996,15,FEET,58,DEGREES F,,
+06/09/1996,20,FEET,54,DEGREES F,,
+07/21/1996,1,FEET,75,DEGREES F,,
+07/21/1996,3,FEET,75,DEGREES F,,
+07/21/1996,5,FEET,75,DEGREES F,,
+07/21/1996,10,FEET,71,DEGREES F,,
+07/21/1996,15,FEET,68,DEGREES F,,
+07/21/1996,20,FEET,62,DEGREES F,,
+08/25/1996,1,FEET,75,DEGREES F,,
+08/25/1996,3,FEET,75,DEGREES F,,
+08/25/1996,5,FEET,74,DEGREES F,,
+08/25/1996,10,FEET,74,DEGREES F,,
+08/25/1996,15,FEET,71,DEGREES F,,
+08/25/1996,20,FEET,66,DEGREES F,,
+11/10/1996,1,FEET,36,DEGREES F,,
+11/10/1996,3,FEET,36,DEGREES F,,
+11/10/1996,5,FEET,36,DEGREES F,,
+11/10/1996,10,FEET,36,DEGREES F,,
+11/10/1996,15,FEET,38,DEGREES F,,
+11/10/1996,20,FEET,38,DEGREES F,,
+06/30/2013,2,FEET,74.1,DEGREES F,,
+06/30/2013,4,FEET,75,DEGREES F,,
+06/30/2013,6,FEET,73.5,DEGREES F,,
+06/30/2013,8,FEET,71.2,DEGREES F,,
+06/30/2013,10,FEET,69,DEGREES F,,
+06/30/2013,12,FEET,64.4,DEGREES F,,
+06/30/2013,14,FEET,56.6,DEGREES F,,
+06/30/2013,16,FEET,54.8,DEGREES F,,
+06/30/2013,18,FEET,53.9,DEGREES F,,
+06/30/2013,20,FEET,53.4,DEGREES F,,
+11/03/2013,2,FEET,45.5,DEGREES F,,
+11/03/2013,4,FEET,45.5,DEGREES F,,
+11/03/2013,6,FEET,45.3,DEGREES F,,
+11/03/2013,8,FEET,45.3,DEGREES F,,
+11/03/2013,10,FEET,45.3,DEGREES F,,
+11/03/2013,12,FEET,45.3,DEGREES F,,
+11/03/2013,14,FEET,45.3,DEGREES F,,
+11/03/2013,16,FEET,45.3,DEGREES F,,
+11/03/2013,18,FEET,45.3,DEGREES F,,
+11/03/2013,20,FEET,45.3,DEGREES F,,
+08/05/2014,2,FEET,78.2,DEGREES F,,
+08/05/2014,4,FEET,78.4,DEGREES F,,
+08/05/2014,6,FEET,77.1,DEGREES F,,
+08/05/2014,8,FEET,76.4,DEGREES F,,
+08/05/2014,10,FEET,75.9,DEGREES F,,
+08/05/2014,12,FEET,75.3,DEGREES F,,
+08/05/2014,14,FEET,74.4,DEGREES F,,
+08/05/2014,16,FEET,71.6,DEGREES F,,
+08/05/2014,18,FEET,67.4,DEGREES F,,
+08/05/2014,20,FEET,69.9,DEGREES F,,
+08/05/2014,22,FEET,61.8,DEGREES F,,
+09/06/2014,2,FEET,73.7,DEGREES F,,
+09/06/2014,4,FEET,73.2,DEGREES F,,
+09/06/2014,6,FEET,72.6,DEGREES F,,
+09/06/2014,8,FEET,71.4,DEGREES F,,
+09/06/2014,10,FEET,70.8,DEGREES F,,
+09/06/2014,12,FEET,70.3,DEGREES F,,
+09/06/2014,14,FEET,65.4,DEGREES F,,
+09/06/2014,16,FEET,61.1,DEGREES F,,
+09/06/2014,18,FEET,58.8,DEGREES F,,
+09/06/2014,20,FEET,57.5,DEGREES F,,
+09/06/2014,22,FEET,57,DEGREES F,,
+10/19/2014,2,FEET,53,DEGREES F,,
+10/19/2014,4,FEET,53,DEGREES F,,
+10/19/2014,6,FEET,53,DEGREES F,,
+10/19/2014,8,FEET,53,DEGREES F,,
+10/19/2014,10,FEET,53,DEGREES F,,
+10/19/2014,12,FEET,53,DEGREES F,,
+10/19/2014,14,FEET,52.2,DEGREES F,,
+10/19/2014,16,FEET,52.2,DEGREES F,,
+10/19/2014,18,FEET,52.2,DEGREES F,,
+10/19/2014,20,FEET,52.2,DEGREES F,,
+05/17/2015,0,FEET,71.5,DEGREES F,,
+05/17/2015,2,FEET,71.9,DEGREES F,,
+05/17/2015,4,FEET,71.9,DEGREES F,,
+05/17/2015,6,FEET,72.1,DEGREES F,,
+05/17/2015,8,FEET,71.9,DEGREES F,,
+05/17/2015,10,FEET,70.8,DEGREES F,,
+05/17/2015,12,FEET,69.9,DEGREES F,,
+05/17/2015,14,FEET,68,DEGREES F,,
+05/17/2015,16,FEET,65.4,DEGREES F,,
+05/17/2015,18,FEET,61.8,DEGREES F,,
+05/17/2015,20,FEET,59.7,DEGREES F,,
+05/17/2015,22,FEET,58.8,DEGREES F,,
+07/24/2015,0,FEET,81.6,DEGREES F,,
+07/24/2015,2,FEET,81.8,DEGREES F,,
+07/24/2015,4,FEET,81.6,DEGREES F,,
+07/24/2015,6,FEET,80.9,DEGREES F,,
+07/24/2015,8,FEET,80.4,DEGREES F,,
+07/24/2015,10,FEET,79.8,DEGREES F,,
+07/24/2015,12,FEET,78.8,DEGREES F,,
+07/24/2015,14,FEET,77,DEGREES F,,
+07/24/2015,16,FEET,73.9,DEGREES F,,
+07/24/2015,18,FEET,69.8,DEGREES F,,
+07/24/2015,20,FEET,67.2,DEGREES F,,
+07/24/2015,22,FEET,66.9,DEGREES F,,
+08/30/2015,0,FEET,71.2,DEGREES F,,
+08/30/2015,2,FEET,70.8,DEGREES F,,
+08/30/2015,4,FEET,70.1,DEGREES F,,
+08/30/2015,6,FEET,69.4,DEGREES F,,
+08/30/2015,8,FEET,68.3,DEGREES F,,
+08/30/2015,10,FEET,68,DEGREES F,,
+08/30/2015,12,FEET,67.8,DEGREES F,,
+08/30/2015,14,FEET,67.8,DEGREES F,,
+08/30/2015,16,FEET,67.4,DEGREES F,,
+08/30/2015,18,FEET,67.2,DEGREES F,,
+08/30/2015,20,FEET,67.1,DEGREES F,,
+08/30/2015,22,FEET,66.7,DEGREES F,,
+08/30/2015,24,FEET,66,DEGREES F,,
+06/05/2016,0,FEET,73,DEGREES F,,
+06/05/2016,3,FEET,72.8,DEGREES F,,
+06/05/2016,5,FEET,72.8,DEGREES F,,
+06/05/2016,7,FEET,72.3,DEGREES F,,
+06/05/2016,9,FEET,71.7,DEGREES F,,
+06/05/2016,11,FEET,66.2,DEGREES F,,
+06/05/2016,13,FEET,62.9,DEGREES F,,
+06/05/2016,15,FEET,60.6,DEGREES F,,
+06/05/2016,17,FEET,57.4,DEGREES F,,
+06/05/2016,19,FEET,55.7,DEGREES F,,
+06/05/2016,21,FEET,54.5,DEGREES F,,
+06/05/2016,23,FEET,53.7,DEGREES F,,
+06/05/2016,25,FEET,53.6,DEGREES F,,
+07/07/2016,0,FEET,80.6,DEGREES F,,
+07/07/2016,3,FEET,80,DEGREES F,,
+07/07/2016,5,FEET,80,DEGREES F,,
+07/07/2016,7,FEET,79.8,DEGREES F,,
+07/07/2016,9,FEET,77.7,DEGREES F,,
+07/07/2016,11,FEET,76.4,DEGREES F,,
+07/07/2016,13,FEET,75.5,DEGREES F,,
+07/07/2016,15,FEET,73.9,DEGREES F,,
+07/07/2016,17,FEET,70.7,DEGREES F,,
+07/07/2016,19,FEET,68,DEGREES F,,
+07/07/2016,21,FEET,64.4,DEGREES F,,
+07/07/2016,23,FEET,62,DEGREES F,,
+07/07/2016,25,FEET,60.2,DEGREES F,,
+08/16/2016,0,FEET,82.4,DEGREES F,,
+08/16/2016,3,FEET,82.2,DEGREES F,,
+08/16/2016,5,FEET,81.6,DEGREES F,,
+08/16/2016,7,FEET,80,DEGREES F,,
+08/16/2016,9,FEET,79.5,DEGREES F,,
+08/16/2016,11,FEET,78.5,DEGREES F,,
+08/16/2016,13,FEET,77.6,DEGREES F,,
+08/16/2016,15,FEET,76.6,DEGREES F,,
+08/16/2016,17,FEET,73.4,DEGREES F,,
+08/16/2016,19,FEET,70.1,DEGREES F,,
+08/16/2016,21,FEET,66.9,DEGREES F,,
+08/16/2016,23,FEET,63.8,DEGREES F,,
+08/16/2016,25,FEET,61.1,DEGREES F,,
+08/16/2016,27,FEET,59.7,DEGREES F,,
+09/20/2016,0,FEET,72.6,DEGREES F,,
+09/20/2016,3,FEET,71.7,DEGREES F,,
+09/20/2016,5,FEET,71,DEGREES F,,
+09/20/2016,7,FEET,70.7,DEGREES F,,
+09/20/2016,9,FEET,69.6,DEGREES F,,
+09/20/2016,11,FEET,69.2,DEGREES F,,
+09/20/2016,13,FEET,69,DEGREES F,,
+09/20/2016,15,FEET,68.7,DEGREES F,,
+09/20/2016,17,FEET,68.7,DEGREES F,,
+09/20/2016,19,FEET,68.3,DEGREES F,,
+09/20/2016,21,FEET,67.6,DEGREES F,,
+09/20/2016,23,FEET,65.4,DEGREES F,,
+09/20/2016,25,FEET,62.4,DEGREES F,,
+09/20/2016,27,FEET,61.1,DEGREES F,,
+10/23/2016,0,FEET,57.3,DEGREES F,,
+10/23/2016,3,FEET,56,DEGREES F,,
+10/23/2016,5,FEET,55.5,DEGREES F,,
+10/23/2016,7,FEET,55.4,DEGREES F,,
+10/23/2016,9,FEET,55.2,DEGREES F,,
+10/23/2016,11,FEET,54.8,DEGREES F,,
+10/23/2016,13,FEET,54.8,DEGREES F,,
+10/23/2016,15,FEET,54.6,DEGREES F,,
+10/23/2016,17,FEET,54.5,DEGREES F,,
+10/23/2016,19,FEET,54.3,DEGREES F,,
+10/23/2016,21,FEET,54.1,DEGREES F,,
+10/23/2016,23,FEET,53.9,DEGREES F,,
+10/23/2016,25,FEET,54.6,DEGREES F,,
+10/23/2016,27,FEET,54.8,DEGREES F,,
+05/22/2017,0,FEET,60.8,DEGREES F,,
+05/22/2017,3,FEET,60.2,DEGREES F,,
+05/22/2017,6,FEET,60,DEGREES F,,
+05/22/2017,9,FEET,59.1,DEGREES F,,
+05/22/2017,12,FEET,58.6,DEGREES F,,
+05/22/2017,15,FEET,56.1,DEGREES F,,
+05/22/2017,18,FEET,53.4,DEGREES F,,
+05/22/2017,21,FEET,51.2,DEGREES F,,
+05/22/2017,24,FEET,50.3,DEGREES F,,
+05/22/2017,27,FEET,49.6,DEGREES F,,
+05/22/2017,30,FEET,49,DEGREES F,,
+06/30/2017,0,FEET,78,DEGREES F,,
+06/30/2017,3,FEET,75.2,DEGREES F,,
+06/30/2017,6,FEET,73.4,DEGREES F,,
+06/30/2017,9,FEET,71.6,DEGREES F,,
+06/30/2017,12,FEET,69.8,DEGREES F,,
+06/30/2017,15,FEET,66,DEGREES F,,
+06/30/2017,18,FEET,61,DEGREES F,,
+06/30/2017,21,FEET,57.3,DEGREES F,,
+06/30/2017,24,FEET,56,DEGREES F,,
+06/30/2017,27,FEET,55.2,DEGREES F,,
+06/30/2017,30,FEET,55,DEGREES F,,
+07/31/2017,0,FEET,81,DEGREES F,,
+07/31/2017,3,FEET,80.7,DEGREES F,,
+07/31/2017,6,FEET,79.1,DEGREES F,,
+07/31/2017,9,FEET,78,DEGREES F,,
+07/31/2017,12,FEET,75.9,DEGREES F,,
+07/31/2017,15,FEET,72.3,DEGREES F,,
+07/31/2017,18,FEET,65.4,DEGREES F,,
+07/31/2017,21,FEET,61.1,DEGREES F,,
+07/31/2017,24,FEET,58,DEGREES F,,
+07/31/2017,27,FEET,56.6,DEGREES F,,
+07/31/2017,30,FEET,56.4,DEGREES F,,
+08/27/2017,0,FEET,69.6,DEGREES F,,
+08/27/2017,3,FEET,70,DEGREES F,,
+08/27/2017,6,FEET,70.1,DEGREES F,,
+08/27/2017,9,FEET,69.8,DEGREES F,,
+08/27/2017,12,FEET,69.6,DEGREES F,,
+08/27/2017,15,FEET,69.2,DEGREES F,,
+08/27/2017,18,FEET,67.8,DEGREES F,,
+08/27/2017,21,FEET,64,DEGREES F,,
+08/27/2017,24,FEET,63,DEGREES F,,
+08/27/2017,27,FEET,62.6,DEGREES F,,
+08/27/2017,30,FEET,62.4,DEGREES F,,
+10/23/2017,0,FEET,57.2,DEGREES F,,
+10/23/2017,3,FEET,57.2,DEGREES F,,
+10/23/2017,6,FEET,57.2,DEGREES F,,
+10/23/2017,9,FEET,57,DEGREES F,,
+10/23/2017,12,FEET,57,DEGREES F,,
+10/23/2017,15,FEET,56.6,DEGREES F,,
+10/23/2017,18,FEET,56.6,DEGREES F,,
+10/23/2017,21,FEET,56.4,DEGREES F,,
+10/23/2017,24,FEET,56.1,DEGREES F,,
+10/23/2017,27,FEET,56.1,DEGREES F,,
+10/23/2017,30,FEET,56.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+04/25/1993,Ice out 4/22/93. first reading after ice out.    
+05/09/1993,Completely overcast- very windy- temp 62    
+05/22/1993,Calm wind- bright sun- temp. 60 degrees.    
+06/02/1993,Sunny- air temp 59- lake depth test area 26 ft.- calm water- some algal blooms.    
+06/06/1993,Partly sunny- air temp 70- calm weather- some algae blooms    
+06/13/1993,Moderate winds- heavy overcast- air temp 80    
+06/17/1993,Cloudy- air temp 61- drizzle- calm water- some algae blooms.  Lake level: very high    
+06/20/1993,Sunny- air temp 66- test area depth 25 ft- calm water- floating algae mats    
+06/30/1993,Sunny- air temp 68- test area depth 24 ft- calm water- lots of algal blooms    
+07/07/1993,Sunny- air temp 79- test area depth 26 ft- calm water- lots of algae and weed growth- bad runoff problem.  Lake level: very high    
+07/14/1993,Cloudy- temp is 70 degrees- test area depth is 25 ft- water is calm- algae level is very high- worse I've seen since 1983.    
+07/23/1993,Cloudy- temp is 68 degrees- test area depth is 24 ft- water is fairly calm.  Algae level- is bad- bad- most algae mats.    
+08/01/1993,Windy- temp is 75 degrees- test area is 25 ft deep.  Water is fairly calm- algae level is high.    
+08/12/1993,Water is calm- temp is 80 degrees- test area is 26 ft- many algae mats.    
+08/21/1993,Sunny- temp is 80 degrees- test area depth is 26 ft- water is calm- algal mats are bad- weeds are bad.    
+11/07/1993,Overcast- windy- cold- 20' of ice on the lake edge- 34 degrees.    
+04/10/1994,ICE OFF LAKE 4/7/94    
+05/19/1994,Sunny- calm- temp. 63 degrees.  Lake depth test area 23'.  Slight algae on water surface.  Weed growth just beginning.    
+05/27/1994,Sunny- windy.  Temp. 65 degrees.  Test area 24'.  Algae on water surface- weeds growing.  Lake level down slightly.    
+06/03/1994,Sunny- calm- temp. 72 degrees.  Test area 23'.  Weed growing rapidly.  Increase of algae on water surface.    
+06/14/1994,Sunny- windy- temp. 85 degrees.  Test area 25'.  Algae blooms bad- weeds growing rapidly.    
+06/22/1994,Lake choppy- temp. 78 degrees.  Test area 26'.  Algae + weed growth bad.  Lake Level: Way below normal    
+06/29/1994,Sunny- temp. 82 degrees- calm.  Test area 25'.  Weeds + algae in full growth.  Lake Level: Way below normal    
+07/04/1994,Cloudy- rained ~2 hours ago.  Temp. 74 degrees.  Test area 25'.  Weeds + algae bad around lake edges.  Lake Level: Way below normal    
+07/11/1994,Cloudy- windy- temp. 78 degrees.  Test area 24'.  Weed growth bad around lake edges + in bays.    
+07/16/1994,Cloudy- lake calm- temp. 75 degrees.  Test area 24'.  Weed growth bad around lake edges + in bays.    
+07/23/1994,Sunny- lake calm- temp. 72 degrees.  Test area 25'.  Weed growth bad along shorelines.    
+07/29/1994,Cloudy- lake calm- test area 27'.  Weeds + algae bad along shoe lines.    
+08/09/1994,Sunny- lake calm- temp. 78 degrees.  Test area 25'.  Weedy along shorelines.    
+08/17/1994,Beautiful- blue sky- minimal clouds- and the temperature is 70 degrees.    
+08/17/1994,Sunny- lake choppy- test area is 24'- and the temperature is 80 degrees.  Weedy along shorelines and algae blooms floating.    
+08/24/1994,Partly cloudy- lake calm- temp. 75 degrees- test area 24'.  Some algal blooms- weedy along shorelines.    
+08/31/1994,Partly cloudy- lake choppy- temp. 56 degrees- test area 26'- weeds along shoreline.    
+09/04/1994,Sunny- temp. 69- test area 26'- lake calm- weedy shorelines.    
+09/10/1994,Clear blue sky- light breeze- and the temperature is 75 degrees.    
+09/10/1994,Sunny- lake calm- temperature is 70 degrees- test area is 26'- weedy shorelines- and some algal blooms.    
+05/27/1995,Sunny- temp. 71 degrees.  Test area depth 27'.  Bad algae mats.  Bad algae and weeds along shorelines.    
+06/02/1995,Sunny- temp. 72 degrees- test area 27'-many floating algae mats along shoreline.  Weeds also a big problem along shorelines-middle of lake cleared off of algae mats.  Lake level: Way below normal- calm    
+06/09/1995,Cloudy- temp 72 degrees- test area 25'- lake calm- algae + weeds along shorelines.  Weeds and lily pads coming up all over.    
+06/16/1995,Test area 24'.  Lake semi-calm- temp. 89 degrees- sunny- weeds and algae plentiful along shorelines.  Weeds + pads up in force-water very low.    
+06/18/1995,Hot- sunny- light wind- 90 degree temp. No clouds- water is very clear- but with slight green tinge to it.    
+06/23/1995,Test area 25'- calm- temp. 83 degrees-sunny- heavy weeds and algae blooms- lake water extremely low- weedy shorelines.    
+06/28/1995,Test area 26.5'- temp 77 degrees- calm- extreme growth of lily pads- algae blooms- weed blooms let loose from bottom of lake-now floating on lake surface- cloudy.    
+07/04/1995,Test area 25.75'- sunny- temp. 83 degrees- calm- still many algae blooms- weedy shorelines- bad duckweed areas- floating bullrushes.  Water level: very low.    
+07/11/1995,Lake calm- temp. 80 degrees- sunny- test area 26.5'- algae plentiful- middle of lake clear- shoreline weeds and duck weed.  Water level: very low.    
+07/18/1995,Temp. 80- lake calm- sunny- test area 26.5'- weedy- algae plentiful- shorelines very weedy- lots of duckweed.  Water level: very low.    
+07/23/1995,Temp. 75 degrees- sunny- test area 24'- lake calm- algae- weeds- duck weed and algae floats.  Contributing to aesthetic enjoyment of lake and swimming.  Water level: Very low    
+07/30/1995,Temp. 80 degrees- sunny- test area 25'- calm- shorelines overrun by weeds- algae mats and blooms.  Water level: very low.    
+08/05/1995,Lake calm- temp. 75 degrees- sunny- test area 24.5'.  Shorelines extremely bad with weeds- lily pads- algae blooms- and duckweed.  Water level: Very low-down 6"    
+08/13/1995,Lake calm.  Temp. 83 degrees- sunny- test area 25.5'.  Weeds + pads bad- algae 7 duckweed accumulation along shorelines.    
+08/19/1995,Partly cloudy- temp. 48 degrees- lake calm- test area 24.5'- weeds + pads bad- heavy duckweed along shorelines from heavy rains.    
+08/26/1995,Sunny- temp. 81 degrees- lake calm- test area 25.5'.  Weeds + pads still bad- few algae mats- still heavy duckweed along shorelines.    
+05/12/1996,Cool- 52 degrees- partly cloudy- windy.  Bottom sample- no depth reported- assumed 20'.    
+06/02/1996,Sunny- temp. 60 degrees- test area 24'- lake calm- algae along shoreline- lily pads starting to grow.    
+06/09/1996,Windy- partly cloudy- 78 degrees.  Slight scum on lake surface.    
+06/11/1996,Partly sunny- temp. 70 degrees- lake calm- test area 27'- some duckweed- and a few algal mats.    
+06/20/1996,Partly sunny- 76 degrees- lake calm- test area 25'- some algae mats- duckweed growing.    
+06/27/1996,Sunny- 88 degrees- lake calm- test area 28'- algae mats getting more plentiful- more duckweed is showing up along shorelines.    
+07/02/1996,Partly sunny- 78 degrees- lake calm- test area 26'- many algal mats- lily pads plentiful in some areas- duckweed along shorelines.    
+07/09/1996,Cloudy- 70 degrees- lake fairly calm- test area 25'. weed blooms let loose from bottom of lake. dead floating bullrushes- duckweed along shoreline- algal mats still present.    
+07/17/1996,Lake calm- sunny- temp. 77 degrees- test area 25'. floating blooms- algae mats- duck weed along shoreline- lots of lily pads.    
+07/21/1996,Clear blue sky- temp is 75 degrees- light breeze.    
+07/24/1996,Lake calm- sunny- temp. 75 degrees- test area 25'. duckweed and algae along shoreline. floating dead bullrushes.    
+08/01/1996,Sunny- temp 74 degrees- lake calm- test area 26.5'. algae- blooms- duckweed. some bulrushes all floating on water. many lily pads.    
+08/08/1996,Sunny- temp. 72 degrees- lake calm- test area 27'. algae- buckweed- weed blooms + masses- all floating on surface of water- very weedy along shorelines.    
+08/15/1996,Lake calm- temp. 70 degrees- sunny- test area 25'. algae- duckweed- weed blooms- and lily pads floating on surface of water.    
+08/22/1996,Lake calm. temp. 75 degrees- sunny- test area 25'. algae and blooms on lake surface.    
+08/25/1996,Clear skies- slight breeze- 85 degrees.    
+08/28/1996,Lake-bad under tow. sunny- temp. 72 degrees- lake calm- test area 25'- mixture of weeds and algae on lake surface.    
+09/05/1996,Sunny- 80 degrees- lake calm- test area 27'- shoreline overrun with weeds- algae blooms and duckweed.    
+09/10/1996,Sunny- temp. 62 degrees- lake calm- test area 26'- shoreline weedy with lots of chara blooms and lily pads.  Lake Level: Way above average-due to 4" of rain received on 9-4-96    
+11/10/1996,Overcast- NW breeze- snowing.    
+06/07/1997,Sunny.  Lake calm.  Temperature 74 degrees. test area 25 1/5 feet.  Algae bloom on surface.  Weedy along the shoreline.    
+06/14/1997,Sunny and calm.  71 degrees- test area = 27 feet.  Algae blooms- mixture of weeds and algae on surface of lake.    
+06/22/1997,Greenish-brown.  Sunny - temperature 82 degrees.  Test area 27 feet.  Algae blooms on lake.  Very weed along shoreline.  Duckweed starting up.    
+06/28/1997,Greenish brown.  Partly sunny.  Temperature 80 degrees.  26 feet is the test area.  Algae and duckweed on lake surface.  Lily pads are growing.  Dead bull rush on lake surface.    
+07/03/1997,Temperature 69 degrees.  Test area is 26 feet.  Algae level bad.  Weedy around shoreline.  Duckweed and lily pads growing rapidly.    
+07/08/1997,Sunny- temperature 73 degrees.  Test area 25 feet.  Algae and weed level plentiful.  Duckweed plentiful.    
+07/10/1997,Greenish brown water.  Sunny.  Temperature of 72 degrees.  Test area 27 feet.  Algae mats and lily pads.  Good swimming in the center of the lake- impossible around edges.    
+07/25/1997,Greenish brown. partly sunny- 74 degrees  test area 24 feet.  Weedy shorelines- still some chara blooms floating.  Duckweed plentiful.    
+08/01/1997,Greenish brown water.  Sunny- temperature 78 degrees.  Test area 251/2 feet.  Algae and weeds bad along the shoreline.  Middle of lake is clear.    
+08/08/1997,Sunny.  Temperature 80 degrees.  Test area 27 1/2 feet.  Duckweed- algae and small weed mats along the shoreline.  Weeds in full growth.    
+08/15/1997,Sunny.  Temperature 70 degrees.  Test area 25 feet.  Lake clear in the middle- weedy and duckweed along the shore.    
+08/23/1997,Sunny. temperature 74 degrees.  Test area=24 feet.  Algae and weeds along shoreline.  Lily pads plentiful.    
+09/01/1997,Temperature 74 degrees.  Test area 25 feet.  Algae and weeds plentiful.  Lily pads are also plentiful.  Bad weed year.    
+05/04/2005,AT DEEPEST POINT    
+05/22/2005,DEEP HOLE    
+05/21/2006,AT DEEPEST POINT    
+07/15/2006,AT DEEPEST POINT    
+08/21/2006,AT DEEPEST POINT    
+
+
+
+
+Start Date,Group Name,Project Name
+04/25/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/09/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/22/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/02/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/06/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/13/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/17/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/20/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/30/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/07/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/11/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/11/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/14/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/23/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/01/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/12/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/21/1993,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/24/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/24/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+11/07/1993,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+11/07/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+04/10/1994,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+04/10/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/19/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/27/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/03/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/14/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/22/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/29/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/04/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/10/1994,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/10/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/11/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/16/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/23/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/29/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/09/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/17/1994,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/17/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/24/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/31/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/04/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/10/1994,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/10/1994,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+04/08/1995,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/27/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/02/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/09/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/16/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/18/1995,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/23/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/28/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/04/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/11/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/18/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/23/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/23/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/30/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/05/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/13/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/19/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/26/1995,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/12/1996,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/12/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/02/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/09/1996,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/09/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/11/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/20/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/27/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/02/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/09/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/17/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/21/1996,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/24/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/01/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/08/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/15/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/22/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/25/1996,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/28/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/05/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/10/1996,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+11/10/1996,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/07/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/14/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/22/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/28/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/03/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/08/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/10/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/25/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/01/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/08/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/15/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/23/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/01/1997,Ray Bagemehl,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/04/2005,Paul Garrison,Chippewa County Forest Lakes 2003-2005
+05/22/2005,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/21/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/15/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/21/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/04/2007,Barry Winrich,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/28/2012,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/28/2012,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/14/2012,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/15/2012,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+10/21/2012,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/28/2013,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/18/2013,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/30/2013,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+11/03/2013,Butch Pomeroy,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/05/2014,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/06/2014,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+10/19/2014,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/17/2015,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/17/2015,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/24/2015,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/26/2015,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/30/2015,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/05/2016,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/05/2016,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/07/2016,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/20/2016,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/16/2016,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/16/2016,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+09/20/2016,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+10/23/2016,Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+05/22/2017,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+06/30/2017,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+07/31/2017,Butch Pomeroy,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/27/2017,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+08/28/2017,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point
+10/23/2017,Lori Knepfel- Todd Knepfel,Citizen Lake Monitoring - Water Quality - Rinehart Lake; At Deepest Point

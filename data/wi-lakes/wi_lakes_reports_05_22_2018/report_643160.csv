@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Seventeen,Vilas,996200,NO,64,,643160,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/23/1995,,,,1.47,9,,45,38,,,,,
+1,06/20/1995,,,,0.864,9,,45,34,,,,,
+1,10/16/1995,,,,5.58,12,,47,48,,,,,
+145584054,07/24/2017,,,,22.3,30,,54,58,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/23/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Seventeen Lake - Deep Hole
+06/20/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Seventeen Lake - Deep Hole
+10/16/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Seventeen Lake - Deep Hole
+07/24/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

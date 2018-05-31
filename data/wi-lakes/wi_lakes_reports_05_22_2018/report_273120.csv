@@ -1,0 +1,310 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Arbutus Lake*,Jackson,1727700,WC,27,,273120,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/25/1973,,,,,,,,,,,,,
+1,11/06/1973,,,,,130,,66,,,,,,
+1,03/07/1974,,,,,820,,80,,,,,,
+1,04/22/1974,,,,,80,,62,,,,,,
+1,08/27/1974,,,,,80,,62,,,,,,
+1,10/09/1974,,,,,160,,67,,,,,,
+7185502,05/03/1994,,,,3.82,,,,45,,,,,
+1,05/15/1997,3.3,,1,8,119,60,65,51,,,,,
+1,06/02/1997,3.6,,1.1,8.32,150,59,67,51,,,,,
+1,06/17/1997,2.8,,0.85,5.8,160,62,67,48,,,,,
+1,07/01/1997,3.9,,1.2,9.57,132,57,66,52,,,,,
+1,07/14/1997,2.3,,0.7,19.4,174,65,68,57,,,,,
+1,08/04/1997,2,,0.6,18.6,143,67,67,57,,,,,
+1,08/26/1997,,,,22,140,,66,58,,,,,
+1,09/10/1997,2.3,,0.7,8.28,136,65,66,51,,,,,
+1,10/01/1997,1.6,,0.5,12.5,182,70,68,54,,,,,
+8188866,06/23/2002,0.75,NO,0.2,,,81,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8188866,07/07/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188870,07/18/2002,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188870,07/22/2002,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188870,08/13/2002,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188870,08/28/2002,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188865,10/02/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188865,10/09/2002,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188865,10/19/2002,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188865,10/25/2002,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188865,10/28/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188865,11/03/2002,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188865,11/14/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188866,05/10/2003,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188866,05/26/2003,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188728,06/13/2003,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188728,06/27/2003,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188712,08/20/2003,2.25,NO,0.7,,,65,,,LOW,,,,
+8188870,09/08/2003,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000022,09/15/2003,2.6,NO,0.8,37.8,91,63,63,62,,,,,
+8188870,09/20/2003,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188870,10/05/2003,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188866,05/15/2004,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188866,06/06/2004,2.25,NO,0.7,,,65,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188866,06/12/2004,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188866,06/27/2004,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188728,07/16/2004,2.25,NO,0.7,,,65,,,LOW,,CLEAR,BROWN,
+8188728,08/01/2004,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,
+8188728,08/13/2004,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,
+8188728,08/29/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,
+8188870,09/13/2004,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188870,09/27/2004,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000104,07/15/2005,,NO,,,,,,,,,,,
+7000104,08/01/2005,3,NO,0.9,55.2,146,61,67,65,,,,,
+8188866,05/16/2010,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,05/30/2010,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,06/20/2010,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188866,06/26/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188866,07/08/2010,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,07/26/2010,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,08/02/2010,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,08/09/2010,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,08/17/2010,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,08/25/2010,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,09/03/2010,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188866,09/10/2010,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,09/18/2010,1,NO,0.3,,,77,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188866,09/27/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+10589084,07/15/2014,,,,,161,,67,,,,,,
+101850106,07/15/2014,2.46,,0.7,,,64,,,,,,,
+10589084,08/12/2014,2.3,N,0.7,16.2,114,65,65,56,,,,,
+101850106,08/12/2014,2.46,,0.7,,,64,,,,,,,
+10589084,09/23/2014,2.3,,0.7,3.79,142,65,67,45,,,,,
+10589084,07/15/2015,4.3,NO,1.3,6.52,114,56,65,49,,,,,
+10589084,08/17/2015,,,,47.9,137,,66,64,,,,,
+10589084,09/14/2015,2.6,,0.8,2.45,192,63,69,42,,,,,
+10589084,07/19/2016,2.5,NO,0.8,27.6,137,64,66,60,,,MURKY,BROWN,
+10589084,08/16/2016,1.5,NO,0.5,2.54,205,71,69,42,,,,,
+10589084,09/12/2016,,,,1.66,190,,69,39,,,,,
+10589084,09/13/2016,1.5,NO,0.5,,,71,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/1973,,,18.0555,C,0,MG/L
+11/06/1973,,,43,C,9.7,MG/L
+03/07/1974,,,.555556,C,10.6,MG/L
+04/22/1974,,,10,C,9.1,MG/L
+08/27/1974,,,15.5556,C,0,MG/L
+10/09/1974,,,11.3889,C,7.4,MG/L
+05/15/1997,,,12.91,C,8.74,MG/L
+06/02/1997,,,14.10,C,8.46,MG/L
+06/17/1997,,,12.74,C,0.88,MG/L
+07/01/1997,,,15.56,C,0.22,MG/L
+07/14/1997,,,18.25,C,3.26,MG/L
+08/04/1997,,,17.82,C,0.25,MG/L
+08/26/1997,,,17.3,C,7.24,MG/L
+09/10/1997,,,18.1,C,4.2,MG/L
+10/01/1997,,,15.43,C,7.68,MG/L
+09/15/2003,,,18.6,C,14.8,MG/L
+07/15/2005,,,13.3,C,0.0,MG/L
+07/15/2014,0,METERS,22.02,DEGREES C,6.85,MG/L
+07/15/2014,1,METERS,22.02,DEGREES C,6.8,MG/L
+07/15/2014,2,METERS,22.02,DEGREES C,6.77,MG/L
+07/15/2014,3,METERS,22.01,DEGREES C,6.73,MG/L
+07/15/2014,4,METERS,21.93,DEGREES C,6.66,MG/L
+07/15/2014,5,METERS,21.64,DEGREES C,4.77,MG/L
+07/15/2014,6,METERS,21.01,DEGREES C,2.77,MG/L
+07/15/2014,7,METERS,20.88,DEGREES C,2.1,MG/L
+07/15/2014,8,METERS,20.68,DEGREES C,1.66,MG/L
+07/15/2014,9,METERS,20.52,DEGREES C,.97,MG/L
+08/12/2014,0,METERS,22.49,DEGREES C,7.59,MG/L
+08/12/2014,1,METERS,22.48,DEGREES C,7.51,MG/L
+08/12/2014,2,METERS,22.44,DEGREES C,7.44,MG/L
+08/12/2014,3,METERS,22.36,DEGREES C,7.28,MG/L
+08/12/2014,4,METERS,22.23,DEGREES C,7.21,MG/L
+08/12/2014,5,METERS,20.87,DEGREES C,3.71,MG/L
+08/12/2014,6,METERS,20.16,DEGREES C,2.01,MG/L
+08/12/2014,7,METERS,20.02,DEGREES C,1.75,MG/L
+08/12/2014,8,METERS,19.71,DEGREES C,1.18,MG/L
+08/12/2014,9,METERS,19.36,DEGREES C,.53,MG/L
+08/12/2014,10,METERS,19.27,DEGREES C,.38,MG/L
+08/12/2014,11,METERS,19.18,DEGREES C,.59,MG/L
+08/12/2014,12,METERS,19.09,DEGREES C,1.47,MG/L
+08/12/2014,,,22.5,C,7.6,MG/L
+09/23/2014,0,METERS,16.59,DEGREES C,8.88,MG/L
+09/23/2014,1,METERS,16.43,DEGREES C,8.83,MG/L
+09/23/2014,2,METERS,15.63,DEGREES C,8.69,MG/L
+09/23/2014,3,METERS,15.38,DEGREES C,8.68,MG/L
+09/23/2014,4,METERS,14.75,DEGREES C,8.38,MG/L
+09/23/2014,5,METERS,14.49,DEGREES C,8.31,MG/L
+09/23/2014,6,METERS,14.32,DEGREES C,8.02,MG/L
+09/23/2014,7,METERS,14.01,DEGREES C,7.69,MG/L
+09/23/2014,8,METERS,13.32,DEGREES C,7.07,MG/L
+09/23/2014,9,METERS,13.31,DEGREES C,6.87,MG/L
+09/23/2014,10,METERS,13.25,DEGREES C,6.55,MG/L
+09/23/2014,11,METERS,13.21,DEGREES C,6.32,MG/L
+09/23/2014,12,METERS,13.17,DEGREES C,6.15,MG/L
+09/23/2014,13,METERS,13.15,DEGREES C,5.92,MG/L
+09/23/2014,14,METERS,13.16,DEGREES C,5.56,MG/L
+09/23/2014,,,16.43,C,8.83,MG/L
+07/19/2016,0,METERS,26.43,DEGREES C,9.79,MG/L
+07/19/2016,1,METERS,26.14,DEGREES C,9.92,MG/L
+07/19/2016,2,METERS,24.27,DEGREES C,7.63,MG/L
+07/19/2016,3,METERS,23.53,DEGREES C,7.08,MG/L
+07/19/2016,4,METERS,23.07,DEGREES C,6.46,MG/L
+07/19/2016,5,METERS,22.59,DEGREES C,5.57,MG/L
+07/19/2016,6,METERS,21.82,DEGREES C,3.99,MG/L
+07/19/2016,7,METERS,21.58,DEGREES C,3.65,MG/L
+07/19/2016,8,METERS,21.25,DEGREES C,2.45,MG/L
+07/19/2016,9,METERS,21.07,DEGREES C,1.88,MG/L
+07/19/2016,10,METERS,20.91,DEGREES C,1.54,MG/L
+07/19/2016,11,METERS,20.75,DEGREES C,.78,MG/L
+07/19/2016,12,METERS,19.98,DEGREES C,.51,MG/L
+08/16/2016,0,METERS,22.92,DEGREES C,7.59,MG/L
+08/16/2016,1,METERS,22.14,DEGREES C,7.29,MG/L
+08/16/2016,2,METERS,21.79,DEGREES C,7.22,MG/L
+08/16/2016,3,METERS,21.71,DEGREES C,7.2,MG/L
+08/16/2016,4,METERS,21.68,DEGREES C,7.18,MG/L
+08/16/2016,5,METERS,21.63,DEGREES C,7.17,MG/L
+08/16/2016,6,METERS,21.61,DEGREES C,7.4,MG/L
+08/16/2016,7,METERS,21.61,DEGREES C,7.43,MG/L
+08/16/2016,8,METERS,21.62,DEGREES C,7.3,MG/L
+08/16/2016,9,METERS,21.59,DEGREES C,7.16,MG/L
+08/16/2016,10,METERS,21.55,DEGREES C,7.17,MG/L
+08/16/2016,11,METERS,21.56,DEGREES C,7.19,MG/L
+08/16/2016,12,METERS,21.54,DEGREES C,7.19,MG/L
+08/16/2016,13,METERS,21.53,DEGREES C,7.17,MG/L
+08/16/2016,14,METERS,21.57,DEGREES C,6.8,MG/L
+09/13/2016,0,METERS,19.19,DEGREES C,8.1,MG/L
+09/13/2016,1,METERS,18.77,DEGREES C,8.19,MG/L
+09/13/2016,3,METERS,18.53,DEGREES C,8.19,MG/L
+09/13/2016,5,METERS,18.18,DEGREES C,8.09,MG/L
+09/13/2016,7,METERS,17.85,DEGREES C,7.78,MG/L
+09/13/2016,9,METERS,17.78,DEGREES C,7.44,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/06/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/22/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/27/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/09/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/15/1997,SPRING TURNOVER    
+06/02/1997,SUMMER SAMPLE    
+06/17/1997,SUMMER SAMPLE    
+07/14/1997,SUMMER SAMPLE    
+08/04/1997,SUMMER SAMPLE    
+09/10/1997,SUMMER SAMPLE    
+10/01/1997,SUMMER SAMPLE    
+06/23/2002,Flooding on Black River and East Fork Black River
+
+    
+07/07/2002,Boat waves make measurement difficult.    
+07/22/2002,Heavy rain upstream  less than 20 hours earlier    
+05/10/2003,patches of woody debris    
+06/13/2003,Heavy pollen near shore + decreasing at measurement point.    
+06/27/2003,strong current    
+08/20/2003,light algae    
+09/15/2003,INLET OF LAKE ARBUTUS - GRAB SAMPLES    
+09/15/2003,STATION #2 - SURFACE SAMPLE W/VAN DORN    
+05/15/2004,Trace plant debris    
+06/06/2004,Trace plant debris    
+06/12/2004,Turbidity (susp. sediment) follows west shoreline    
+09/13/2004,Some algae present    
+09/27/2004,Some algae present    
+07/15/2005,MIDDLE - DEEP HOLE    
+08/01/2005,MIDDLE - DEEP    
+05/16/2010,partly sunny- light to moderate east wind.
+05/30/2010,partly sunny- moderate south wind- moderate waves from wind and boats.
+06/20/2010,light overcast- calm.  rain over last several days.
+06/26/2010,mostly sunny- calm- high inflow due to rain over last several days
+07/08/2010,mostly sunny- light wind. data collected by Julie Kenow
+07/26/2010,mostly sunny- 10 mph winds.  data collected by Jim Beale.
+08/02/2010,mostly cloudy- 15 mph winds.  data collected by Jim Beale
+08/09/2010,sunny- calm.  data collected by Jim Beale
+08/17/2010,partly sunny- light breeze.  data collected by Julie Kenow.
+08/25/2010,mostly sunny- 5 mph winds.  data collected by Julie Kenow
+09/03/2010,very windy- cloudy- ~1-in rain yeasterday.  data collected by Ralph Johnson.
+09/10/2010,sunny- windy.  data collected by Ralph Johnson.
+09/18/2010,thin clouds-  greater than 2-in rain in previous week.  data collected by Ralph Johnson
+09/27/2010,moderate clouds- 5 mph wind- 7.8-in rain on 23 Sept.  data collected by Julie Kenow.
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1973,Data Collectors,Migrated from STORET Legacy
+11/06/1973,Data Collectors,Migrated from STORET Legacy
+03/07/1974,Data Collectors,Migrated from STORET Legacy
+04/22/1974,Data Collectors,Migrated from STORET Legacy
+08/27/1974,Data Collectors,Migrated from STORET Legacy
+10/09/1974,Data Collectors,Migrated from STORET Legacy
+05/03/1994,PAUL LALIBERTE,Lake Baseline Monitoring- DNR (1970s-2006)
+05/15/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/02/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/17/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/01/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/14/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/04/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/26/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+09/10/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+10/01/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/23/2002,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/07/2002,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/18/2002,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/22/2002,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/13/2002,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/28/2002,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+10/02/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+10/09/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+10/19/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+10/25/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+10/28/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+11/03/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+11/14/2002,Michael Finney,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+05/10/2003,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+05/26/2003,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/13/2003,R. Repinski,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/27/2003,R. Repinski,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/20/2003,Ronald Hanson,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/08/2003,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/15/2003,DANIEL HELSEL,Response Monitoring
+09/20/2003,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+10/05/2003,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+05/15/2004,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/06/2004,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/12/2004,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/27/2004,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/16/2004,R. Repinski,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/01/2004,R. Repinski,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/13/2004,R. Repinski,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/29/2004,R. Repinski,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/13/2004,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/27/2004,Dennis Cullen,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/15/2005,PATRICK SORGE,LAKE ARBUTUS ASSOCIATION: Lake Arbutus Plan
+08/01/2005,PATRICK SORGE,LAKE ARBUTUS ASSOCIATION: Lake Arbutus Plan
+05/16/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+05/30/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/20/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+06/26/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/08/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/26/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/02/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/09/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/17/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+08/25/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/03/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/10/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/18/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+09/27/2010,Bernd Rehm,Citizen Lake Monitoring - Water Quality - Lake Arbutus; Deep Hole
+07/15/2014,JODI A LEPSCH- JACOB D RING,Lake Arbutus Tier II Assessment for 303(d) listing - WCR_13_CMP14
+07/15/2014,Jodi Lepsch,Lake Arbutus Tier II Assessment for 303(d) listing - WCR_13_CMP14
+08/12/2014,JODI A LEPSCH- JACOB D RING,Lake Arbutus Tier II Assessment for 303(d) listing - WCR_13_CMP14
+08/12/2014,Jodi Lepsch,Lake Arbutus Tier II Assessment for 303(d) listing - WCR_13_CMP14
+09/23/2014,Jodi Lepsch,Lake Arbutus Tier II Assessment for 303(d) listing - WCR_13_CMP14
+07/15/2015,Jodi Lepsch,Lake Arbutus  303(d) listing 
+08/17/2015,Jodi Lepsch,Lake Arbutus  303(d) listing 
+09/14/2015,Jodi Lepsch,Lake Arbutus  303(d) listing 
+07/19/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+08/16/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+09/12/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+09/13/2016,Jodi Lepsch,Directed Lakes 2016 Sorge

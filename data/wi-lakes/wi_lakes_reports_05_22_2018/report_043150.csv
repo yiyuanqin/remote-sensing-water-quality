@@ -1,0 +1,612 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Phantom Lake,Bayfield,2771200,NO,4,,043150,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189124,08/02/2000,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,08/06/2000,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,08/13/2000,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,09/12/2000,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,09/25/2000,12.25,NO,3.7,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,10/09/2000,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189124,10/20/2000,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189124,05/12/2001,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,05/27/2001,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,06/08/2001,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,06/25/2001,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189124,07/05/2001,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,07/11/2001,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189124,08/02/2001,14.5,NO,4.4,,,39,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,08/08/2001,14.25,NO,4.3,,,39,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8189124,08/13/2001,14,NO,4.3,,,39,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8189124,09/04/2001,9.75,NO,3,,,44,,,LOW,,MURKY,BLUE,4-Would not swim but boating OK (algae)
+8189124,09/28/2001,10.75,NO,3.3,,,43,,,LOW,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189124,10/07/2001,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189124,10/24/2001,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189124,04/25/2002,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,05/20/2002,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,06/06/2002,20.25,NO,6.2,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,06/22/2002,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,07/06/2002,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189124,07/11/2002,19,NO,5.8,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/17/2002,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/30/2002,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/12/2002,18,NO,5.5,,,35,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/28/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,09/09/2002,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,10/22/2002,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,05/08/2003,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,06/02/2003,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,06/11/2003,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,06/18/2003,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,06/25/2003,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,07/02/2003,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,07/09/2003,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189124,07/20/2003,8.25,NO,2.5,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,07/29/2003,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,08/09/2003,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,10/14/2003,7.9,NO,2.4,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,05/27/2004,19,NO,5.8,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,06/04/2004,18.5,NO,5.6,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,07/02/2004,16.75,NO,5.1,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,07/12/2004,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/28/2004,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/04/2004,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/13/2004,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/21/2004,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,09/12/2004,18,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,09/28/2004,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,10/22/2004,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191258,05/01/2005,10,NO,3,,25,44,53,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,05/10/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/20/2005,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/29/2005,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,10/15/2005,11.75,NO,3.6,6.86,22,42,52,49,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,05/07/2006,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/30/2006,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/08/2006,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/24/2006,15.5,NO,4.7,1.67,13,38,48,39,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,07/28/2006,18,NO,5.5,1.89,13,35,48,40,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/27/2006,14,NO,4.3,2.34,17,39,50,41,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,09/04/2006,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,09/15/2006,14.75,NO,4.5,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,09/30/2006,10.5,NO,3.2,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,04/20/2007,,,,,24,,53,,,,,,
+8189124,06/06/2007,20,NO,6.1,2.79,14,34,49,43,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/03/2007,,,,3.91,10,,46,45,,,,,
+8189124,05/06/2008,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,05/14/2008,12.25,NO,3.7,,35,41,56,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,05/28/2008,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189124,06/30/2008,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,07/05/2008,,,,1.85,15,,49,39,,,,,
+8189124,07/28/2008,15.75,NO,4.8,2.62,15,37,49,42,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189124,08/26/2008,,,,2.95,18,,51,43,,,,,
+8189124,08/27/2008,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191258,09/10/2008,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8189124,09/21/2008,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,10/04/2008,12.75,NO,3.9,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,04/17/2009,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,05/07/2009,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,05/11/2009,,,,,17,,50,,,,,,
+8189124,05/14/2009,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/24/2009,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/15/2009,,,,2.41,20,,51,41,,,,,
+8191258,07/12/2009,14.25,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191258,07/22/2009,13,NO,4,,,40,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,07/28/2009,,,,2.82,16,,50,43,,,,,
+8189124,08/30/2009,10.5,NO,3.2,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189124,08/31/2009,,,,4.95,15,,49,47,,,,,
+8189124,04/27/2010,4.5,NO,1.4,,19,55,51,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189124,04/29/2010,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189124,05/24/2010,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189124,06/05/2010,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189124,06/14/2010,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189124,06/29/2010,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,07/06/2010,,,,2.44,18,,51,42,,,,,
+8189124,07/07/2010,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,07/10/2010,,,,8.51,18,,51,51,,,,,
+8189124,07/15/2010,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,09/13/2010,,,,12.8,19,,51,54,,,,,
+8189124,05/16/2011,11,NO,3.3,,24,43,53,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,06/26/2011,11,NO,3.3,2.57,14,43,49,42,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/26/2011,10,NO,3,3.41,13,44,48,44,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,08/24/2011,5,NO,1.5,5.47,15,54,49,48,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189124,03/21/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,05/21/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,05/27/2012,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/09/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/29/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/08/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/19/2013,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/29/2013,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/09/2013,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189124,07/25/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/01/2013,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/21/2013,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/31/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,09/10/2013,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,10/01/2013,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/06/2014,9.5,NO,2.9,,,45,,,HIGH,,,,1-Beautiful, could not be nicer
+8189124,05/13/2014,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/29/2014,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/14/2014,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/22/2014,15,NO,4.6,,,38,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8189124,07/03/2014,14,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189124,07/16/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/04/2014,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,09/23/2014,13,NO,4,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189124,10/20/2014,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,04/04/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189124,05/13/2015,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/17/2015,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,06/29/2015,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/04/2015,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,07/30/2015,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/12/2015,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,09/15/2015,13.25,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,10/01/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/24/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,05/26/2017,13.3,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189124,08/05/2017,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/2000,0,FEET,77,DEGREES F,,
+08/02/2000,5,FEET,76,DEGREES F,,
+08/02/2000,10,FEET,72,DEGREES F,,
+08/02/2000,15,FEET,63,DEGREES F,,
+08/02/2000,20,FEET,54,DEGREES F,,
+08/02/2000,25,FEET,53,DEGREES F,,
+06/22/2002,3,FEET,78,DEGREES F,,
+06/22/2002,6,FEET,76,DEGREES F,,
+06/22/2002,9,FEET,76,DEGREES F,,
+06/22/2002,12,FEET,74,DEGREES F,,
+06/22/2002,15,FEET,66,DEGREES F,,
+06/22/2002,18,FEET,58,DEGREES F,,
+06/22/2002,21,FEET,53,DEGREES F,,
+06/22/2002,24,FEET,50,DEGREES F,,
+06/22/2002,27,FEET,48,DEGREES F,,
+06/22/2002,30,FEET,47,DEGREES F,,
+06/22/2002,33,FEET,46,DEGREES F,,
+05/01/2005,3,FEET,47.4,DEGREES F,6,MG/L
+05/01/2005,5,FEET,47.4,DEGREES F,,
+05/01/2005,10,FEET,47.3,DEGREES F,6,MG/L
+05/01/2005,15,FEET,47.1,DEGREES F,6,MG/L
+05/01/2005,20,FEET,46.2,DEGREES F,6,MG/L
+05/01/2005,25,FEET,43.8,DEGREES F,4,MG/L
+05/01/2005,30,FEET,43.5,DEGREES F,,
+06/24/2006,0,FEET,76,DEGREES F,,
+06/24/2006,5,FEET,73,DEGREES F,8,MG/L
+06/24/2006,10,FEET,72.5,DEGREES F,8,MG/L
+06/24/2006,15,FEET,64,DEGREES F,10,MG/L
+06/24/2006,20,FEET,53.5,DEGREES F,10,MG/L
+06/24/2006,25,FEET,47.5,DEGREES F,5,MG/L
+06/24/2006,30,FEET,44,DEGREES F,2,MG/L
+07/28/2006,0,FEET,80,DEGREES F,,
+07/28/2006,5,FEET,80.2,DEGREES F,8,MG/L
+07/28/2006,10,FEET,79.5,DEGREES F,11,MG/L
+07/28/2006,15,FEET,74.5,DEGREES F,10,MG/L
+07/28/2006,20,FEET,60.2,DEGREES F,11,MG/L
+07/28/2006,25,FEET,50.3,DEGREES F,10,MG/L
+07/28/2006,30,FEET,50.2,DEGREES F,9,MG/L
+08/27/2006,0,FEET,76.2,DEGREES F,,
+08/27/2006,5,FEET,73.9,DEGREES F,8.5,MG/L
+08/27/2006,10,FEET,73.2,DEGREES F,7,MG/L
+08/27/2006,15,FEET,72.6,DEGREES F,7.5,MG/L
+08/27/2006,20,FEET,67.6,DEGREES F,6.5,MG/L
+08/27/2006,25,FEET,53.6,DEGREES F,,
+08/27/2006,30,FEET,45.6,DEGREES F,8.5,MG/L
+09/30/2006,0,FEET,62.6,DEGREES F,,
+09/30/2006,5,FEET,59,DEGREES F,6,MG/L
+09/30/2006,10,FEET,58.4,DEGREES F,7,MG/L
+09/30/2006,15,FEET,57.5,DEGREES F,8,MG/L
+09/30/2006,20,FEET,57.3,DEGREES F,8,MG/L
+09/30/2006,25,FEET,56.6,DEGREES F,6,MG/L
+09/30/2006,30,FEET,54,DEGREES F,7,MG/L
+06/06/2007,0,FEET,67.1,DEGREES F,,
+06/06/2007,5,FEET,66.9,DEGREES F,8,MG/L
+06/06/2007,10,FEET,66.9,DEGREES F,9,MG/L
+06/06/2007,15,FEET,59.3,DEGREES F,10,MG/L
+06/06/2007,20,FEET,50.7,DEGREES F,10,MG/L
+06/06/2007,25,FEET,46.2,DEGREES F,8,MG/L
+06/06/2007,30,FEET,44,DEGREES F,8,MG/L
+05/06/2008,0,FEET,54.8,DEGREES F,,
+05/06/2008,5,FEET,52.1,DEGREES F,,
+05/06/2008,10,FEET,51.2,DEGREES F,,
+05/06/2008,15,FEET,44.9,DEGREES F,,
+05/06/2008,20,FEET,44.2,DEGREES F,,
+05/06/2008,25,FEET,43.1,DEGREES F,,
+05/14/2008,0,FEET,54.8,DEGREES F,,
+05/14/2008,5,FEET,52.1,DEGREES F,,
+05/14/2008,10,FEET,51.2,DEGREES F,,
+05/14/2008,15,FEET,44.9,DEGREES F,,
+05/14/2008,20,FEET,44.2,DEGREES F,,
+05/14/2008,25,FEET,43.1,DEGREES F,,
+06/30/2008,0,FEET,76.8,DEGREES F,,
+06/30/2008,5,FEET,76.2,DEGREES F,7.2,MG/L
+06/30/2008,10,FEET,74.1,DEGREES F,6.8,MG/L
+06/30/2008,15,FEET,65.1,DEGREES F,8.3,MG/L
+06/30/2008,20,FEET,54.6,DEGREES F,,
+06/30/2008,25,FEET,47.4,DEGREES F,2.8,MG/L
+06/30/2008,30,FEET,45.5,DEGREES F,,
+07/28/2008,0,FEET,79,DEGREES F,,
+07/28/2008,5,FEET,76.2,DEGREES F,8.2,MG/L
+07/28/2008,10,FEET,75.2,DEGREES F,,
+07/28/2008,15,FEET,71.6,DEGREES F,8.15,MG/L
+07/28/2008,20,FEET,59.6,DEGREES F,7.25,MG/L
+07/28/2008,25,FEET,49.1,DEGREES F,2,MG/L
+07/28/2008,30,FEET,46.5,DEGREES F,,
+08/27/2008,0,FEET,74.4,DEGREES F,,
+08/27/2008,5,FEET,74.1,DEGREES F,7.2,MG/L
+08/27/2008,10,FEET,73.7,DEGREES F,,
+08/27/2008,15,FEET,72.3,DEGREES F,8.6,MG/L
+08/27/2008,20,FEET,67.1,DEGREES F,4.2,MG/L
+08/27/2008,25,FEET,52.1,DEGREES F,1.4,MG/L
+08/27/2008,30,FEET,46.4,DEGREES F,,
+05/07/2009,0,FEET,57,DEGREES F,10,MG/L
+05/07/2009,5,FEET,56,DEGREES F,,
+05/07/2009,10,FEET,53.4,DEGREES F,10.8,MG/L
+05/07/2009,15,FEET,51,DEGREES F,10.6,MG/L
+05/07/2009,20,FEET,48.5,DEGREES F,10.7,MG/L
+05/07/2009,25,FEET,45,DEGREES F,10,MG/L
+05/24/2010,0,FEET,77,DEGREES F,8.1,MG/L
+05/24/2010,5,FEET,73,DEGREES F,,
+05/24/2010,10,FEET,63,DEGREES F,8.3,MG/L
+05/24/2010,15,FEET,57,DEGREES F,,
+05/24/2010,20,FEET,54,DEGREES F,6.3,MG/L
+05/24/2010,25,FEET,50,DEGREES F,1,MG/L
+07/07/2010,0,FEET,82,DEGREES F,,
+07/07/2010,5,FEET,79,DEGREES F,8,MG/L
+07/07/2010,10,FEET,74.3,DEGREES F,8.2,MG/L
+07/07/2010,15,FEET,62,DEGREES F,,
+07/07/2010,20,FEET,54.6,DEGREES F,4.2,MG/L
+07/07/2010,25,FEET,50.5,DEGREES F,,
+05/16/2011,0,FEET,57,DEGREES F,10.8,MG/L
+05/16/2011,5,FEET,55,DEGREES F,11.4,MG/L
+05/16/2011,10,FEET,52,DEGREES F,11.5,MG/L
+05/16/2011,15,FEET,49,DEGREES F,11.3,MG/L
+05/16/2011,20,FEET,47,DEGREES F,10.2,MG/L
+05/16/2011,25,FEET,46,DEGREES F,8,MG/L
+05/16/2011,30,FEET,45,DEGREES F,2.8,MG/L
+06/26/2011,1,FEET,64,DEGREES F,9.6,MG/L
+06/26/2011,5,FEET,63,DEGREES F,9.45,MG/L
+06/26/2011,10,FEET,61,DEGREES F,9.38,MG/L
+06/26/2011,15,FEET,59,DEGREES F,9.34,MG/L
+06/26/2011,20,FEET,58,DEGREES F,9.49,MG/L
+06/26/2011,25,FEET,56,DEGREES F,5.51,MG/L
+06/26/2011,30,FEET,52,DEGREES F,1.27,MG/L
+07/26/2011,0,FEET,76,DEGREES F,9,MG/L
+07/26/2011,5,FEET,76,DEGREES F,8.8,MG/L
+07/26/2011,10,FEET,74,DEGREES F,8.7,MG/L
+07/26/2011,15,FEET,71,DEGREES F,9.3,MG/L
+07/26/2011,20,FEET,59,DEGREES F,4.3,MG/L
+07/26/2011,25,FEET,50,DEGREES F,.15,MG/L
+07/26/2011,30,FEET,50,DEGREES F,.07,MG/L
+08/24/2011,1,FEET,80,DEGREES F,8.95,MG/L
+08/24/2011,5,FEET,76,DEGREES F,8.97,MG/L
+08/24/2011,10,FEET,71.7,DEGREES F,8.85,MG/L
+08/24/2011,15,FEET,71,DEGREES F,8.7,MG/L
+08/24/2011,20,FEET,63,DEGREES F,3.4,MG/L
+08/24/2011,25,FEET,53,DEGREES F,.18,MG/L
+08/24/2011,28,FEET,50,DEGREES F,.07,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/02/2000,Overcast and 80 degrees.    
+08/06/2000,Large amount of aquatic plants washed up on southeast shore (wind) and one loon.    
+08/13/2000,Sunny- 80 degrees- one loon sited.  In past year- our lake phantom- has been a staging lake for loons- sometimes 14-18 at a time.  This did not occur this year for the first time.    
+09/12/2000,Sunny- 72 degrees- water has been pea green for two weeks- slightly better this week- 2" rain last week- loon gone- osprey seen daily fishing during Aug.- osprey left 1st week of Sept.- large number of kingfisher- water is extremely low. Not many loons.    
+09/25/2000,Some algae still floating- no water fowl- and first frost on 9/26 (31 degrees).    
+10/09/2000,Sunny- windy- 42 degrees- water level continues to drop noticeably- bald eagle and cormorant sited.  Water level continues to fall.  Entrance to little phantom is completely closed now.    
+10/20/2000,Sunny- 62 degrees- exceptionally warm week- flock of Canadian geese (7) come every day.    
+05/12/2001,The temperature is 74 degrees- two loons today- six loons sighted on 5/1/01- ice out on 4/25/01- and water level up to normal.    
+05/27/2001,The temperature is 62 degrees- two loons still on lakes- other loons in morning and evening- channel to Little Phantom is open.    
+06/08/2001,The temperature is 77 degrees- cloudy- no loons- saw regular pair earlier this week- water is murky (brown)- and bad army worms.    
+06/25/2001,The temperature is 88 degrees- windy- excellent fishing- hunting osprey sited all week- high temperatures 88-95 degrees all week- and no rain.    
+07/05/2001,The water is clear- excellent fishing- army worms emerged from cocoons- three loons- osprey- and eagle.    
+07/11/2001,No changes- no loon chicks- group of 3-6 loons seen in morning and evening- much calling.    
+08/02/2001,Minor algae bloom- good fishing- water turnover (top water cooler than July)- osprey- no chicks- and three loons.    
+08/08/2001,Still no baby loons- but pain stays on lake with other adult loons- water warming- and three houses under construction.    
+08/13/2001,Conditions same- major construction - four homes being built.    
+09/04/2001,Loons gone- water is very murky- and still swimming.    
+09/28/2001,Colors beginning to peak- the temperature is 85 degrees- and some small ducks in sheltered water.    
+10/07/2001,Peak colors- ducks still around- and geese heading south.    
+04/25/2002,Ice out:4/16(late)/2 pairs of loons this yr!!:)-one on
+Little Phantom + another on Phantom(first time)/predators cited:bald eagle/osprey/two pairs of teals cited/water extremely clear    
+05/20/2002,cool weather/slow fishing:have not come in to shoreline    
+06/06/2002,great fishing!! Bluegills-Big/no. of crappies increasing/ Bass in:average-12-`16"/ no site of one of loons(female ) on Phantom/water temp.rising weekly    
+06/22/2002,very clear; 3-5 loons in a.m./p.m.-no chicks; army worms peaking-worse than last yr; good fishing/larger crappies/ northerns    
+07/06/2002,water temp-excellent; warm water still on top/no
+turnover yet; very slight am't of algae seen; fishing good; army worms to cocoons; two loons/no chicks    
+07/11/2002,Visit w/ D. Blumer. took water temps: Resuslt are:  Surface-78.2/ 3ft-77.7/ 6 ft.-75.9/ 9 ft.:75.5/ 12 ft.-74.4/ 15 ft-65.6/18ft.-57.5/ 21ft-53.0/ 24ft-50/ 27ft-48.2/30 ft=46.7/33ft(bottom)-46.2    
+07/17/2002,Plenty of noise pollution due to major construction
+around the lake 3 houses)no boating pressure for two weeks or more/four loons on lake in the a.m/  Alot of loon calling in the evenings- some of these are distress calls-    
+07/30/2002,recent rains (lg am'ts have cooled the water
+slightly)/ two loons observed/ loon calls in eve. after ten seen to indicate more than two/ minimal fishing activity/good fising-panfish- bass- northern/minimal algae observed    
+08/12/2002,beautiful/ 2 loons/ good fishing/ talked to permanent
+resident here who saw 9 loons at one time here about 2 wks ago-in the a.m./no boats/motors/ fox seen/    
+08/28/2002,Beautiful as ever!!
+
+    
+09/09/2002,Heavy rains have brought up water level.  Several
+sightings of eagles- vultures / and other predatory / participated in Wolf Ecology Workshop at Pigeon Field Station /  Unseasonably hot this week.
+(90's)  /    
+10/22/2002,Loons out 10/25. Bald eagles- many.  Indian summer 50-55 for 5 days!!  Wolves observed 2 times.    
+05/08/2003,water surface temp-53%. loons present91-4; Slightly overcast- 10 mph winds. Surface temp 53 F. Loons present- but don't stay around / fishing slow.    
+06/02/2003,two loons; Calm- sunny- no rain for a while.    
+06/18/2003,Good fishing activity/bass spawning/cool temps/2 loons
+sited consistently but not nesting pair/this will be 4th yr. w/o loon
+chicks/osprey and immature eagle sited/also pair of green heron observed
+along same lakeshore area several times    
+06/25/2003,very clear water still/xcellent fishing/nice swimming
+but slightly cool still/1 1/4"rain last nite.    
+07/02/2003,2003 DIP-IN data submitted/noticeable change in clarity(2.25'difference since last reading on 6/18)/algae bloom /this data
+aligns w/ typical change in clarity each yr. this time.
+clarity(2.25'difference since last reading on 6/18)/algae bloom /this data
+aligns w/ typical change in clarity each yr. this time.    
+07/09/2003,hazy day-may affect this reading/clarity continues to
+decline- but only minor difference now/may start to  greater than  on next
+reading/continue to observer green herons/very little fishing or
+recreational pressure over holiday wkend/swimming excellent/hatch of water
+skimmer bugs/hardly any sign of army worms-Hurray!!/also large flies seem
+to be decreasing as well/few  oaks on lake may be damaged by  twolined
+chestnut borer/still show healthy growth on bottom 2/3 of tree.
+
+decline- but only minor difference now/may start to  greater than  on next
+reading/continue to observer green herons/very little fishing or
+recreational pressure over holiday wkend/swimming excellent/hatch of water
+skimmer bugs/hardly any sign of army worms-Hurray!!/also large flies seem
+to be decreasing as well/few  oaks on lake may be damaged by  twolined
+chestnut borer/still show healthy growth on bottom 2/3 of tree.    
+07/20/2003,Clarity has decreased by 4ft.- may be due to
+inversion( )- surface temp. seems colder than previous reading-    
+07/29/2003,clarity + water levels still down- minimum of rain-
+green + cloudy water- temp-76 degrees- 2 loons observed during day- more
+loons at night- much calling- some alarms heard.    
+08/09/2003,Water level very low...approximately 12in. below previous yrs    
+10/14/2003,Slight improvement in secchi depth- water level continues to be lower than normal.  Fishing is average to good.    
+07/02/2004,two loons- no chicks- fishing is slow- water temps colder than normal    
+07/12/2004,water temps up- fishing still slow- slight increase in boating activity    
+07/28/2004,Warmer temps- but average temps below average.  Poor fishing.    
+08/04/2004,Osprey present several times.  Increased use of ATV's near lake observed.  Few army worms.    
+08/13/2004,Several days of rain this week. 1.75".  Con't increase observed in boating\fishing.    
+08/21/2004,Temps this week were in high 60's- low 70's(day) and dropped into low 40's/high 30's.  Recorded low of 34 degrees on 08/20.    
+09/12/2004,Sunny 70 degrees/ two loons present/ no chicks this yr.
+Lake owners commented that fishing has not been very productive this year    
+09/28/2004,cool temps.  rainy    
+05/01/2005,Chem testing w/ D.Blumer.Cool-45 degrees/breezy/overcast/snowshowers/lows in mid-20s(evenings)/ Ice-out: 4-10-05. Loons(2) arrived: 04-11. Eagle present.    
+05/10/2005,Two loons observed. adult eagle/immature eagle/sighted osprey once/weather warm    
+05/20/2005,Rain- few raptors observed- bluegill fishing good- walleyes- about 12-15- observed mimicing spawning behavior. These walleyes were approximately 14-16"in length. They were released by private party last summer.    
+05/29/2005,small amount of rain- very dry- warm weather-minimal boat pressure- lake owners observe lack of northerns- bass are also slow- about 14-16"- some small perch being caught. sandhill pair heard on Mudflat Lake during last two weeks.    
+10/15/2005,Sunny- breezy- beautiful day.  Wasn't able to do temp's - didn't receive gauge yet.      
+06/08/2006,SUNNY.CLEAR. 70'. 1/2" RAIN. WATER INVERSION 2 DAYS AGO. SLIGHT ALGAE BLOOM.  FISHING IS SLOW SO FAR.  2 LOONS.
+09/04/2006,DROUGHT BAD THIS YEAR.  WATER LEVEL DOWN LOWEST IN LAST 5+ YEARS.  HIGH TEMPS IN JULY
+
+05/06/2008,Spring turnover  
+
+Loon returned 4-25. female returned 5-3 2"rain this week.  Cool temps. wood ducks- mergansers- sandhills- + osprey present
+
+Bear arrives on deck 2 successive nites- 
+05/14/2008,Slightly overcast
+05/28/2008,sunny- 70- winds 0-5- no loons present but can be heard calling at night. last seen around 5-18. Possibly on nest Otter spotted off dock. Second sighting in last 2 wks. 
+06/30/2008,Spring/Summer about2-3 late due to lingering cold temps/above average rain. Water level up approx 3 in. Ice out late.  
+
+
+07/28/2008,Female returns to male; no chicks.
+08/27/2008,Low 70's Dry-Below Precip for month. Lake is down. Nights temps Hi 40's-mid 50's
+5-6 every a.m. Possible migrating lake  Eagles on lake daily.  Osprey occasionally. Fishing-so-so.  Entire summer- below average temps/rain. Beautiful.  One warm spell-mid 80's in early August.  
+09/10/2008,Perfect temps- very little rain
+09/21/2008,1st loon left lake- probably male- cool temps- 1-2" rain
+10/04/2008,last loon left today. First frost on 10-3. 28-30degress-nite. mid-high 50'3 day- Colors 50%  8 geese stopped on 10-3 for day.  fishing great
+ICE ON 11-22
+04/17/2009,Ice out 4-12- loon (male) return  -same day.  Many eagles present . 2nd loon returned 4-19.  Temps in Hi hi 50's- even some low 70's this week.  Water temps 47 at top and drop steady to 42 at bottom.  Negligible no. of regular ducks present - no buffo- one pair of mallards- no canadians.  This is the first time none or few buffos present.  
+
+Wk of 4-19 Snow and cold temps in mid 30's on Sunday/Sat. 
+05/07/2009,Sunny; 75-Temp; Wind 5-8 mph; 2 loons present; unseasonable dry Sunny- 75 temp; wind 5-8- 2 loons- low precip for April
+05/14/2009,65 degrees- sunny- Osprey has been present this week- loons not always seen on regular basis.  Very dry.  Fishing improving 
+05/24/2009,Cool- 46-  windy- two loons present- bass starting to spawn- 
+07/12/2009,slight breeze- partly cloudy
+07/22/2009,partly cloudy- slight breeze.  2 loons present most of the time- sometimes 3.  lone loon present often in the evenings.  several in the morning- leave around 9:00
+
+08/30/2009,Cool - 68- Sunny- Calm.  Plenty of rain in last two weeks. 2.5" Wk of 8-23. 1.5" Wk of  Aug 23. 
+Loon Activity-Leo seen along during day/night. Early a.m. 4-6 loons presents until 8:00 or so.  Layla returns in eve. infrequently.  Getsey-single loon present since mid-July. 
+
+Fishing-Excellent Bluegills-larger and and feed at certain times of day.  Bass are also growing (18-20") Northern much larger (25-30+).Minimal fishing activity this month.   
+04/27/2010,Very early spring. Ice out(3-29).  First loon arrived 4-9. 2nd loon arrived 4-13. Lowest secchi reading ever recorded on Phantom in last 15 yrs.  Began to lose site of disk at 1.5ft. Water is a brighter green than normal . Moderate amount of suspended particulates observed. Sunny- light breeze- temps-50-55. Early ice-out
+Observed several eagle sightings + osprey.  
+04/29/2010,Sunny- 58 degrees- slight breeze- no sight of loons today.Half the time  there's only the male or neither. Eagles sighted earlier-one mature- one juvenile- osprey seen taking fish. 
+05/24/2010,No change in Secchi reading.  Temp-55- 5-8 mph breeze- sunny.  During the DO testing (Winkler Titration Method)- I noted unusual occurrence during "fixing" step on samples at 0+5 ft. After adding manganous sulfate/alkaline potassium iodide aside + mixing samples twice. Upon adding sulfuric acid and mixing- the samples had a considerable amount of suspended black sediment the size of sand particles. It took between 8-10 min of mixing/waiting for this precipitate to finally dissolve.  Even after this length of time- there were still miniscule traces of these particles left in both samples.  I did a 2nd test on all the samples to verify the results. The sample taken at 10' was similar in that it also had the black particles- but much less.  All 3 samples (0-5-10') were a dark clear straw color after adding sulfuric acid. 
+06/05/2010,overcast- cool. Mild breeze. Water still murky w/ same reading. Single loon now.  Some calling + occasional 2nd loon.  Possibly too murky for good fishing. Cool temps persist and good soaking rain continues at least once/wk. 
+06/14/2010,Cool June- overcast- steady rain showers between 1/2-1 1/2" once or twice/wk. 
+Loon seen rarely- sometimes two.  No calling heard here- but possibly on Little Phantom- Bear Lake .  Pair on Getsey.  Went to nest on 6/4. 
+06/29/2010,Slght improvement in clarity. Approx 4 or 5in of rain  and cool temp  in Jun. Temps increase in last wk.  Very little sign of loons during June.  
+07/07/2010,82 degrees- calm- sunny.  Loon has begun to stay on lake most of the time now.  Calls at night. Occasional sighting of other loon.  Two families of Can. geese- one w/ 2 goslings- other w/ three.  Goslings from one pair disappeared. Possibly fox or Northern.  One pair remains on lake w/ their 2 goslings.  No osprey observed in last month.  Occasional eagle.  
+
+Very little fishing by residents. June brought considerable amount of rain.  Lake level rose a couple inches.  Warm temps in last 2 wks. 
+07/15/2010,Sunny. . Warm. Nice weather.  Above average rain in June (7+"). Several loons join resident loon a.m + p.m- possibly migratory.  
+05/16/2011,Ice out early this year-early April. Warm spring.  Sunny- calm. Temps in hi 60's Single loon present. Water level up about 6-8" higher than previous year due to increase snow cover and heavy spring rains. 
+06/26/2011,Cool temps- clear- partly sunny. Single loon sometime visited by others but alone most of the time.  Adult and immature eagles seen often- as well as osprey. 
+07/26/2011,Sunny- slight breeze- Temps in mid-80's- single loon present most of the time. 
+08/24/2011,Cooler temps. Witnessed an attempted loon takeover on Phantom- but Leo- our resident loon- has survived. Rain has cooled lake temps.  High winds. 71 degrees
+03/21/2012,Sunny- calm.  This is the earliest date that the ice has gone off the lake since I have been recording data on Phantom.  Usually the loon returns on "ice out" day. This year he didn't return until Mar. 28. 
+05/21/2012,Sunny- light breeze- warm. 2nd loon arrived
+05/27/2012,Sunny- some clouds- calm Temps have been down in 60's. Rain over last 2 wks. has been around 6". Lake level has increased a couple inches.  Loons come and go.  Resident loon seems to also be leaving at times. 
+06/09/2012,Calm- light breeze- cool. no precip lately. fishing has been excellent. Increase in Northerns this year.  
+05/29/2013,Sunny-late spring limited access to lakes due to ice. Ice out on May 5.  
+06/08/2013,Sunny- calm. Wood ducks seen feeding chicks.  Immature eagle present.  Two loons present. 
+06/29/2013,Lake level has been considerably higher than in past 5 years due to heavy rains this month.  Although still lower than 10 yrs. ago- it has stayed at shown a steady level for over a year.  The water clarity has increased considerably this year for the first time in the last 3 yrs. 
+07/09/2013,Osprey- eagle present- sunny. light breeze
+08/01/2013,Partly cloudy- light breeze. 
+08/21/2013,Some particles evident- but minimal 
+09/10/2013,July + August temps have been extremely high and humid- causing water temps to increase. This hasn't caused as much suspended sediment as I suspected there would be.  Fishing has not been good over the summer months.  
+
+ Only male loon has stayed around during August.  Osprey has not been seen as often as last year. 
+10/01/2013,Beautiful fall weather.  Autumn colors have stayed longer than usual.  
+05/06/2014,Loon returned same day.  90% clear. 45 degrees.  Eagles present.  Crarion present..  
+05/13/2014,Partly sunny- light breeze. Ice out-May 5th(90%). Single loon returns same day. Snow still present on in the woods. Wood duck activity observed last week of April. 
+05/29/2014,Sunny- calm- Temp-78. Woodies- mergansers observed in wood duck boxes.  Osprey observed twice this week. Fishing is good. Bass are on beds. Crappies spawning. Channel to Little Phantom open.  Discovered single Mudminnow in channel.  Water level is up about 8-10". It is close to levels seen back in '95.  Clarity is excellent.  Leo is present most of the time; other loon (Layla) seen often- heard in late night. 
+ 
+06/22/2014,Slightly overcast- calm. Rain (>2") over the last couple of weeks. Cool. Otter on the dock earlier this morning.  Green crane seen in last couple of weeks. Loons active in a.m.
+07/03/2014,Osprey present on numerous occasions.  Green Heron note on my dock several times.  Cool temps this week. 
+07/16/2014,Sunny- warm. 2 loons present.
+08/04/2014,Excellent fishing lately.  Bass reported up to 18".  Water is returning to normal levels after years of drought.  Currently- the water is only about 10-12 in. from prior high water mark (1996). Water temps cool due to cool summer temps.   
+
+Osprey present and occasional eagle seen.  Loons present- but not a bonded pair.  
+09/23/2014,Sunny- calm.
+10/20/2014,Sunny- light breeze
+
+
+
+
+Start Date,Group Name,Project Name
+08/02/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/06/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/13/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/12/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/25/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/09/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/20/2000,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/12/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/27/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/08/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/25/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/05/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/11/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/02/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/08/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/13/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/04/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/28/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/07/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/24/2001,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+04/25/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/20/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/06/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/22/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/06/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/11/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/17/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/30/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/12/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/28/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/09/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/22/2002,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/08/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/02/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/11/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/18/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/25/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/02/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/09/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/20/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/29/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/09/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/14/2003,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/27/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/04/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/02/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/12/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/28/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/04/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/13/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/21/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/12/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/28/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/22/2004,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/01/2005,Dave Blumer and Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/10/2005,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/20/2005,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/29/2005,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/15/2005,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/07/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/30/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/08/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/24/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/28/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/27/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/04/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/15/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/30/2006,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+04/20/2007,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/06/2007,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/03/2007,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/06/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/14/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/28/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/30/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/05/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/28/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/26/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/27/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/10/2008,Dave Blumer and Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/21/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/04/2008,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+04/17/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/07/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/11/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/14/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/24/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/15/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/12/2009,Dave Blumer and Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/22/2009,Dave Blumer and Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/28/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/30/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/31/2009,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+04/27/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+04/29/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/24/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/05/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/14/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/29/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/06/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/07/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/10/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/15/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/13/2010,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/16/2011,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/26/2011,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/26/2011,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/24/2011,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+03/21/2012,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/21/2012,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/27/2012,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/09/2012,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/29/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/08/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/19/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/29/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/09/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/25/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/01/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/21/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/31/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/10/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/01/2013,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/06/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/13/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/29/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/14/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/22/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/03/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/16/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/04/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/23/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/20/2014,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+04/04/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/13/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/17/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+06/29/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/04/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+07/30/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/12/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+09/15/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+10/01/2015,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/24/2017,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+05/26/2017,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole
+08/05/2017,Jane Swenson,Citizen Lake Monitoring - Water Quality - Phantom Lake; Near Deep Hole

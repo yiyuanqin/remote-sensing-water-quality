@@ -1,0 +1,43 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Dutch Hollow Lake,Sauk,1286500,SC,57,,10048310,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/13/2017,,,,,,,,,,,,,
+1,06/15/2017,,,,,,,,,,,,,
+1,06/17/2017,,,,,,,,,,,,,
+1,06/19/2017,,,,,,,,,,,,,
+1,06/26/2017,,,,,,,,,,,,,
+1,07/03/2017,,,,,,,,,,,,,
+1,07/10/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/13/2017,,,24,C,,
+06/15/2017,,,25.4,C,,
+06/17/2017,,,26.1,C,,
+06/19/2017,,,24.6,C,,
+06/26/2017,,,21.2,C,,
+07/03/2017,,,23.2,C,,
+07/10/2017,,,25.0,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/13/2017,Data Collectors,Herbicide Concentration Monitoring
+06/15/2017,Data Collectors,Herbicide Concentration Monitoring
+06/17/2017,Data Collectors,Herbicide Concentration Monitoring
+06/19/2017,Data Collectors,Herbicide Concentration Monitoring
+06/26/2017,Data Collectors,Herbicide Concentration Monitoring
+07/03/2017,Data Collectors,Herbicide Concentration Monitoring
+07/10/2017,Data Collectors,Herbicide Concentration Monitoring

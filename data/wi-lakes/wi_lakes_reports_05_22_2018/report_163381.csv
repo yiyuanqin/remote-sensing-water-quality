@@ -1,0 +1,490 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Minnesuing,Douglas,2866200,NO,16,,163381,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/09/1996,,,,4.73,17,,50,47,,,,,
+1,07/14/1996,,,,7.88,16,,50,50,,,,,
+1,08/12/1996,,,,6.51,25,,53,49,,,,,
+1,09/22/1996,,,,,19,,51,,,,,,
+1,10/28/1996,,,,6.17,28,,54,49,,,,,
+1,12/01/1996,,,,8.35,33,,55,51,,,,,
+1,01/26/1997,,,,0.89,30,,54,34,,,,,
+8189238,09/17/1997,9,NO,2.7,,,45,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8189238,10/16/1997,6,NO,1.8,,,51,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,02/16/1998,,,,4.34,39,,57,46,,,,,
+8189238,03/02/1998,,,,2.85,28,,54,43,,,,,
+1,03/24/1998,,,,5.83,37,,56,48,,,,,
+1,04/15/1998,6.5,,2,5.54,32,50,55,48,,,,,
+8189238,04/15/1998,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189238,05/20/1998,11.25,NO,3.4,,,42,,,,,,BROWN,
+8189238,06/26/1998,8.5,NO,2.6,,,46,,,,,,BROWN,
+8189238,07/09/1998,9.5,NO,2.9,,,45,,,,,,,
+8189238,07/25/1998,8.75,NO,2.7,,,46,,,,,,,
+8189238,08/30/1998,7,NO,2.1,,,49,,,,,,,
+8189238,10/10/1998,5.25,NO,1.6,,,53,,,,,,,
+8189238,10/27/1998,7,NO,2.1,,,49,,,,,,,
+8189238,06/25/1999,7.25,NO,2.2,,,49,,,HIGH,,,BROWN,
+8189238,09/11/1999,4,NO,1.2,,,57,,,,,,BROWN,
+8189238,06/25/2000,6.25,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189236,07/11/2000,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189236,07/27/2000,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189238,09/02/2002,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,10/01/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,06/03/2003,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189238,07/17/2003,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,08/01/2003,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,08/20/2003,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,06/15/2004,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,07/13/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,08/03/2004,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,10/24/2004,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,06/22/2005,7.6,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,08/02/2005,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,08/26/2005,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,05/22/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,06/19/2006,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,07/16/2006,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,08/28/2006,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,10/24/2006,6.7,NO,2,,,50,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189237,06/05/2007,11.2,NO,3.4,,,42,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189237,06/26/2007,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189237,07/20/2007,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,05/31/2008,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,07/17/2008,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189238,08/29/2008,7.4,NO,2.2,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,10/03/2008,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189238,06/10/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189238,07/02/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,08/10/2009,9.75,NO,3,,,44,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189238,08/31/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189236,09/26/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189238,10/13/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83673415,05/26/2014,5, ,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+83673415,06/30/2014,4.1,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83673415,07/28/2014,4.1,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83673415,08/31/2014,4.7, ,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83673415,05/15/2015,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83673415,06/26/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83673415,07/26/2015,6,NO,1.8,,,51,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83673415,09/07/2015,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+83673415,06/23/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83673415,07/26/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83673415,06/14/2017,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83673415,07/02/2017,5.5,NO,1.7,,,53,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/16/1998,,,1.0,C,,
+03/02/1998,3,FEET,38,DEGREES F,10,MG/L
+03/02/1998,7,FEET,38,DEGREES F,8,MG/L
+03/02/1998,10,FEET,39,DEGREES F,8,MG/L
+03/02/1998,13,FEET,39,DEGREES F,8,MG/L
+03/02/1998,16,FEET,39,DEGREES F,6,MG/L
+03/02/1998,20,FEET,40,DEGREES F,6,MG/L
+03/02/1998,23,FEET,40,DEGREES F,5,MG/L
+03/02/1998,26,FEET,40,DEGREES F,5,MG/L
+03/02/1998,,,3.5,C,,
+03/24/1998,,,2,C,,
+04/15/1998,,,7,C,,
+07/27/2000,3,FEET,63,DEGREES F,1,MG/L
+07/27/2000,6,FEET,71,DEGREES F,7,MG/L
+07/27/2000,9,FEET,71,DEGREES F,7,MG/L
+07/27/2000,12,FEET,69,DEGREES F,5,MG/L
+07/27/2000,18,FEET,57,DEGREES F,0,MG/L
+07/27/2000,30,FEET,51,DEGREES F,0,MG/L
+09/02/2002,0,FEET,73,DEGREES F,8,MG/L
+09/02/2002,3,FEET,71,DEGREES F,8,MG/L
+09/02/2002,10,FEET,69,DEGREES F,8,MG/L
+09/02/2002,16,FEET,69,DEGREES F,8,MG/L
+09/02/2002,20,FEET,64,DEGREES F,2,MG/L
+09/02/2002,26,FEET,55,DEGREES F,0,MG/L
+09/02/2002,32,FEET,53,DEGREES F,0,MG/L
+10/01/2002,0,FEET,51,DEGREES F,10,MG/L
+10/01/2002,3,FEET,51,DEGREES F,10,MG/L
+10/01/2002,10,FEET,51,DEGREES F,10,MG/L
+10/01/2002,16,FEET,51,DEGREES F,10,MG/L
+10/01/2002,20,FEET,51,DEGREES F,10,MG/L
+10/01/2002,26,FEET,51,DEGREES F,10,MG/L
+10/01/2002,30,FEET,51,DEGREES F,10,MG/L
+06/03/2003,0,FEET,65.1,DEGREES F,7.32,MG/L
+06/03/2003,3.2,FEET,64,DEGREES F,7.58,MG/L
+06/03/2003,10,FEET,60.8,DEGREES F,7.58,MG/L
+06/03/2003,16.4,FEET,55.2,DEGREES F,6.47,MG/L
+06/03/2003,19.6,FEET,50.5,DEGREES F,5.92,MG/L
+06/03/2003,29.5,FEET,49,DEGREES F,4.12,MG/L
+07/17/2003,0,FEET,72.4,DEGREES F,11.18,MG/L
+07/17/2003,3,FEET,72.4,DEGREES F,11.17,MG/L
+07/17/2003,6,FEET,72,DEGREES F,11.17,MG/L
+07/17/2003,10,FEET,69,DEGREES F,8.86,MG/L
+07/17/2003,16,FEET,61,DEGREES F,2.82,MG/L
+07/17/2003,20,FEET,54.6,DEGREES F,1.77,MG/L
+07/17/2003,26,FEET,51.2,DEGREES F,0,MG/L
+07/17/2003,30,FEET,51,DEGREES F,0,MG/L
+08/01/2003,0,FEET,77.5,DEGREES F,7.3,MG/L
+08/01/2003,3,FEET,75.7,DEGREES F,7.09,MG/L
+08/01/2003,6,FEET,75.2,DEGREES F,7.09,MG/L
+08/01/2003,10,FEET,73.4,DEGREES F,5.42,MG/L
+08/01/2003,16,FEET,62.4,DEGREES F,.08,MG/L
+08/01/2003,20,FEET,54.8,DEGREES F,0,MG/L
+08/01/2003,26,FEET,51,DEGREES F,0,MG/L
+08/01/2003,30,FEET,50,DEGREES F,0,MG/L
+08/20/2003,0,FEET,79.1,DEGREES F,7.35,MG/L
+08/20/2003,3,FEET,79.1,DEGREES F,7.43,MG/L
+08/20/2003,6,FEET,79.1,DEGREES F,7.43,MG/L
+08/20/2003,10,FEET,79.6,DEGREES F,7.46,MG/L
+08/20/2003,16,FEET,65.5,DEGREES F,.03,MG/L
+08/20/2003,20,FEET,57.2,DEGREES F,0,MG/L
+08/20/2003,26,FEET,53.4,DEGREES F,0,MG/L
+08/20/2003,30,FEET,51.4,DEGREES F,0,MG/L
+06/15/2004,0,FEET,21.7,DEGREES C,10.93,MG/L
+06/15/2004,3,FEET,20.1,DEGREES C,11.15,MG/L
+06/15/2004,6,FEET,19.2,DEGREES C,11.07,MG/L
+06/15/2004,10,FEET,18.3,DEGREES C,10.2,MG/L
+06/15/2004,16,FEET,15.5,DEGREES C,9.1,MG/L
+06/15/2004,20,FEET,14.1,DEGREES C,8.63,MG/L
+06/15/2004,26,FEET,12.4,DEGREES C,5.74,MG/L
+06/15/2004,30,FEET,11.7,DEGREES C,2.15,MG/L
+07/13/2004,0,FEET,23.3,DEGREES C,9.43,MG/L
+07/13/2004,3,FEET,22.6,DEGREES C,9.42,MG/L
+07/13/2004,6,FEET,21.1,DEGREES C,8.96,MG/L
+07/13/2004,10,FEET,20.3,DEGREES C,8.34,MG/L
+07/13/2004,16,FEET,15.9,DEGREES C,4.02,MG/L
+07/13/2004,20,FEET,14.7,DEGREES C,2.72,MG/L
+07/13/2004,26,FEET,12.1,DEGREES C,0,MG/L
+07/13/2004,30,FEET,11.9,DEGREES C,0,MG/L
+08/03/2004,0,FEET,24.1,DEGREES C,7.58,MG/L
+08/03/2004,3,FEET,24.2,DEGREES C,7.55,MG/L
+08/03/2004,6,FEET,22.9,DEGREES C,7.47,MG/L
+08/03/2004,10,FEET,21.5,DEGREES C,6.85,MG/L
+08/03/2004,16,FEET,17.4,DEGREES C,.64,MG/L
+08/03/2004,20,FEET,14.6,DEGREES C,.01,MG/L
+08/03/2004,26,FEET,12.5,DEGREES C,0,MG/L
+08/03/2004,30,FEET,11.7,DEGREES C,0,MG/L
+10/24/2004,0,FEET,10.7,DEGREES C,8.92,MG/L
+10/24/2004,3,FEET,10.7,DEGREES C,8.84,MG/L
+10/24/2004,6,FEET,10.7,DEGREES C,8.84,MG/L
+10/24/2004,10,FEET,10.5,DEGREES C,8.68,MG/L
+10/24/2004,16,FEET,10.5,DEGREES C,8.62,MG/L
+10/24/2004,20,FEET,10.5,DEGREES C,8.61,MG/L
+10/24/2004,26,FEET,10.5,DEGREES C,8.53,MG/L
+10/24/2004,30,FEET,10.5,DEGREES C,8.35,MG/L
+06/22/2005,0,FEET,24.4,DEGREES C,8.14,MG/L
+06/22/2005,3,FEET,24.3,DEGREES C,8.13,MG/L
+06/22/2005,6,FEET,24.1,DEGREES C,8.19,MG/L
+06/22/2005,10,FEET,22.1,DEGREES C,8.02,MG/L
+06/22/2005,16,FEET,13.8,DEGREES C,6.09,MG/L
+06/22/2005,20,FEET,12.1,DEGREES C,5.85,MG/L
+06/22/2005,26,FEET,10.6,DEGREES C,2.02,MG/L
+06/22/2005,30,FEET,10.1,DEGREES C,.4,MG/L
+08/02/2005,0,FEET,27.7,DEGREES C,7.41,MG/L
+08/02/2005,3,FEET,27.6,DEGREES C,7.44,MG/L
+08/02/2005,6,FEET,27.5,DEGREES C,7.46,MG/L
+08/02/2005,10,FEET,24.5,DEGREES C,6.96,MG/L
+08/02/2005,16,FEET,20.1,DEGREES C,2.44,MG/L
+08/02/2005,20,FEET,14.5,DEGREES C,.04,MG/L
+08/02/2005,26,FEET,11.1,DEGREES C,0,MG/L
+08/02/2005,30,FEET,10.4,DEGREES C,0,MG/L
+08/26/2005,0,FEET,21.5,DEGREES C,7.48,MG/L
+08/26/2005,3,FEET,21.5,DEGREES C,7.33,MG/L
+08/26/2005,6,FEET,21.2,DEGREES C,7.16,MG/L
+08/26/2005,10,FEET,21.1,DEGREES C,7.02,MG/L
+08/26/2005,16,FEET,20.4,DEGREES C,5.4,MG/L
+08/26/2005,20,FEET,15.5,DEGREES C,.03,MG/L
+08/26/2005,26,FEET,12.8,DEGREES C,0,MG/L
+08/26/2005,30,FEET,11.4,DEGREES C,0,MG/L
+08/26/2005,36,FEET,10.2,DEGREES C,0,MG/L
+08/26/2005,42,FEET,9.7,DEGREES C,0,MG/L
+05/22/2006,0,FEET,19.7,DEGREES C,8.8,MG/L
+05/22/2006,3,FEET,15.8,DEGREES C,9.12,MG/L
+05/22/2006,6,FEET,14,DEGREES C,9.04,MG/L
+05/22/2006,10,FEET,13.4,DEGREES C,9.1,MG/L
+05/22/2006,16,FEET,12.9,DEGREES C,8.89,MG/L
+05/22/2006,20,FEET,12.2,DEGREES C,8.43,MG/L
+05/22/2006,26,FEET,10.6,DEGREES C,6.45,MG/L
+05/22/2006,30,FEET,9.6,DEGREES C,1.38,MG/L
+06/19/2006,0,FEET,23.4,DEGREES C,7.75,MG/L
+06/19/2006,3,FEET,23.4,DEGREES C,7.71,MG/L
+06/19/2006,6,FEET,23,DEGREES C,7.71,MG/L
+06/19/2006,10,FEET,21.5,DEGREES C,7.14,MG/L
+06/19/2006,16,FEET,14.8,DEGREES C,4.56,MG/L
+06/19/2006,20,FEET,12.1,DEGREES C,3.67,MG/L
+06/19/2006,26,FEET,10.8,DEGREES C,.48,MG/L
+06/19/2006,30,FEET,10.5,DEGREES C,.02,MG/L
+07/16/2006,0,FEET,27.2,DEGREES C,7.22,MG/L
+07/16/2006,3,FEET,27.1,DEGREES C,7.23,MG/L
+07/16/2006,6,FEET,27,DEGREES C,7.28,MG/L
+07/16/2006,10,FEET,25.3,DEGREES C,7.27,MG/L
+07/16/2006,16,FEET,17.7,DEGREES C,1.51,MG/L
+07/16/2006,20,FEET,14.3,DEGREES C,0,MG/L
+07/16/2006,26,FEET,10.8,DEGREES C,0,MG/L
+07/16/2006,30,FEET,10.6,DEGREES C,0,MG/L
+08/28/2006,0,FEET,23.1,DEGREES C,7.38,MG/L
+08/28/2006,3,FEET,23.1,DEGREES C,7.51,MG/L
+08/28/2006,6,FEET,23.2,DEGREES C,7.39,MG/L
+08/28/2006,10,FEET,22.5,DEGREES C,7.35,MG/L
+08/28/2006,16,FEET,21.6,DEGREES C,6.38,MG/L
+08/28/2006,20,FEET,18.2,DEGREES C,0,MG/L
+08/28/2006,26,FEET,11.8,DEGREES C,0,MG/L
+08/28/2006,30,FEET,10.9,DEGREES C,0,MG/L
+10/24/2006,1,FEET,7.3,DEGREES C,10.48,MG/L
+10/24/2006,3,FEET,7.3,DEGREES C,10.53,MG/L
+10/24/2006,6,FEET,7.3,DEGREES C,10.52,MG/L
+10/24/2006,10,FEET,7.3,DEGREES C,10.55,MG/L
+10/24/2006,16,FEET,7.2,DEGREES C,10.5,MG/L
+10/24/2006,20,FEET,7.2,DEGREES C,10.54,MG/L
+10/24/2006,26,FEET,7.1,DEGREES C,10.54,MG/L
+10/24/2006,30,FEET,6.8,DEGREES C,10.56,MG/L
+06/05/2007,1,FEET,67.6,DEGREES F,8.83,MG/L
+06/05/2007,3,FEET,66.5,DEGREES F,8.85,MG/L
+06/05/2007,6,FEET,66.3,DEGREES F,8.97,MG/L
+06/05/2007,10,FEET,64.7,DEGREES F,8.92,MG/L
+06/05/2007,16,FEET,61.1,DEGREES F,7.61,MG/L
+06/05/2007,20,FEET,59.5,DEGREES F,7.06,MG/L
+06/05/2007,26,FEET,56.1,DEGREES F,3.98,MG/L
+06/05/2007,30,FEET,54.3,DEGREES F,1.1,MG/L
+06/26/2007,1,FEET,77.9,DEGREES F,7.78,MG/L
+06/26/2007,3,FEET,77.9,DEGREES F,7.74,MG/L
+06/26/2007,6,FEET,77.9,DEGREES F,7.75,MG/L
+06/26/2007,10,FEET,76.3,DEGREES F,7.55,MG/L
+06/26/2007,16,FEET,65.3,DEGREES F,4.85,MG/L
+06/26/2007,20,FEET,62,DEGREES F,2.93,MG/L
+06/26/2007,26,FEET,57.2,DEGREES F,.02,MG/L
+06/26/2007,30,FEET,53.8,DEGREES F,0,MG/L
+07/20/2007,1,FEET,75,DEGREES F,8.32,MG/L
+07/20/2007,3,FEET,74.1,DEGREES F,8.23,MG/L
+07/20/2007,6,FEET,73.2,DEGREES F,8.38,MG/L
+07/20/2007,10,FEET,71.9,DEGREES F,8.21,MG/L
+07/20/2007,16,FEET,68.5,DEGREES F,4.75,MG/L
+07/20/2007,20,FEET,65.5,DEGREES F,.96,MG/L
+07/20/2007,26,FEET,56.8,DEGREES F,0,MG/L
+07/20/2007,30,FEET,54.7,DEGREES F,0,MG/L
+05/31/2008,0.1,METERS,66.2,DEGREES F,9.06,MG/L
+05/31/2008,1,METERS,66.3,DEGREES F,8.9,MG/L
+05/31/2008,2,METERS,61.5,DEGREES F,8.93,MG/L
+05/31/2008,3,METERS,59.36,DEGREES F,8.44,MG/L
+05/31/2008,4,METERS,57.38,DEGREES F,8.35,MG/L
+05/31/2008,5,METERS,52.88,DEGREES F,7.25,MG/L
+05/31/2008,6,METERS,51.26,DEGREES F,7.02,MG/L
+05/31/2008,7,METERS,50.54,DEGREES F,6.33,MG/L
+05/31/2008,8,METERS,49.64,DEGREES F,3.73,MG/L
+07/17/2008,0.1,METERS,74.1,DEGREES F,8.04,MG/L
+07/17/2008,1,METERS,73.4,DEGREES F,8.02,MG/L
+07/17/2008,2,METERS,72.3,DEGREES F,7.07,MG/L
+07/17/2008,3,METERS,68,DEGREES F,6.55,MG/L
+07/17/2008,4,METERS,68.9,DEGREES F,6.18,MG/L
+07/17/2008,5,METERS,66.7,DEGREES F,4.83,MG/L
+07/17/2008,6,METERS,59,DEGREES F,1.33,MG/L
+07/17/2008,7,METERS,55.2,DEGREES F,.49,MG/L
+07/17/2008,8,METERS,53.4,DEGREES F,0,MG/L
+07/17/2008,9,METERS,52.7,DEGREES F,0,MG/L
+08/29/2008,0.1,METERS,71.06,DEGREES F,8.02,MG/L
+08/29/2008,1,METERS,71.06,DEGREES F,7.84,MG/L
+08/29/2008,2,METERS,71.06,DEGREES F,7.76,MG/L
+08/29/2008,3,METERS,70.09,DEGREES F,7.6,MG/L
+08/29/2008,4,METERS,70.3,DEGREES F,7.51,MG/L
+08/29/2008,5,METERS,69.6,DEGREES F,6.94,MG/L
+08/29/2008,6,METERS,66,DEGREES F,1.75,MG/L
+08/29/2008,7,METERS,58.1,DEGREES F,0,MG/L
+08/29/2008,8,METERS,55,DEGREES F,0,MG/L
+08/29/2008,9,METERS,52.9,DEGREES F,0,MG/L
+10/03/2008,0.1,METERS,60.1,DEGREES F,7.82,MG/L
+10/03/2008,1,METERS,59.9,DEGREES F,7.52,MG/L
+10/03/2008,2,METERS,59.5,DEGREES F,7.37,MG/L
+10/03/2008,3,METERS,59.4,DEGREES F,7.33,MG/L
+10/03/2008,4,METERS,59.4,DEGREES F,7.35,MG/L
+10/03/2008,5,METERS,59.2,DEGREES F,7.21,MG/L
+10/03/2008,6,METERS,59.2,DEGREES F,7.24,MG/L
+10/03/2008,7,METERS,59,DEGREES F,7.09,MG/L
+10/03/2008,8,METERS,58.8,DEGREES F,6.98,MG/L
+10/03/2008,9,METERS,58.5,DEGREES F,.31,MG/L
+06/10/2009,0.1,METERS,63.5,DEGREES F,9.23,MG/L
+06/10/2009,1,METERS,61,DEGREES F,9.45,MG/L
+06/10/2009,2,METERS,61,DEGREES F,9.28,MG/L
+06/10/2009,3,METERS,58.8,DEGREES F,8.81,MG/L
+06/10/2009,4,METERS,58.6,DEGREES F,8.76,MG/L
+06/10/2009,5,METERS,58.4,DEGREES F,8.7,MG/L
+06/10/2009,6,METERS,58.2,DEGREES F,8.45,MG/L
+06/10/2009,7,METERS,58,DEGREES F,8.11,MG/L
+06/10/2009,8,METERS,57.7,DEGREES F,6.32,MG/L
+07/02/2009,0.01,METERS,65.3,DEGREES F,8.51,MG/L
+07/02/2009,1,METERS,65.5,DEGREES F,8.4,MG/L
+07/02/2009,2,METERS,65.3,DEGREES F,8.34,MG/L
+07/02/2009,3,METERS,64.7,DEGREES F,7.85,MG/L
+07/02/2009,4,METERS,63.1,DEGREES F,7.7,MG/L
+07/02/2009,5,METERS,59.3,DEGREES F,6.18,MG/L
+07/02/2009,6,METERS,57.7,DEGREES F,3.81,MG/L
+07/02/2009,7,METERS,56.8,DEGREES F,1.89,MG/L
+07/02/2009,8,METERS,56.1,DEGREES F,.66,MG/L
+08/10/2009,0.01,METERS,69.6,DEGREES F,8.22,MG/L
+08/10/2009,1,METERS,71.6,DEGREES F,8.28,MG/L
+08/10/2009,2,METERS,70.9,DEGREES F,8.27,MG/L
+08/10/2009,3,METERS,71.1,DEGREES F,8.21,MG/L
+08/10/2009,4,METERS,68.4,DEGREES F,6.84,MG/L
+08/10/2009,5,METERS,66.9,DEGREES F,5.02,MG/L
+08/10/2009,6,METERS,63.5,DEGREES F,.4,MG/L
+08/10/2009,7,METERS,58.5,DEGREES F,.1,MG/L
+08/10/2009,8,METERS,55.9,DEGREES F,0,MG/L
+08/10/2009,9,METERS,54.9,DEGREES F,0,MG/L
+08/31/2009,0,METERS,68.9,DEGREES F,7.41,MG/L
+08/31/2009,1,METERS,68.2,DEGREES F,7.38,MG/L
+08/31/2009,2,METERS,67.6,DEGREES F,7.3,MG/L
+08/31/2009,3,METERS,67.1,DEGREES F,7.37,MG/L
+08/31/2009,4,METERS,66.9,DEGREES F,7.09,MG/L
+08/31/2009,5,METERS,66.4,DEGREES F,7.07,MG/L
+08/31/2009,6,METERS,66.02,DEGREES F,6.56,MG/L
+08/31/2009,7,METERS,62.1,DEGREES F,1.39,MG/L
+08/31/2009,8,METERS,57.9,DEGREES F,.15,MG/L
+08/31/2009,9,METERS,56.5,DEGREES F,.07,MG/L
+09/26/2009,0.01,METERS,69.4,DEGREES F,7.74,MG/L
+09/26/2009,1,METERS,69.4,DEGREES F,7.76,MG/L
+09/26/2009,2,METERS,69.8,DEGREES F,7.72,MG/L
+09/26/2009,3,METERS,69.8,DEGREES F,7.7,MG/L
+09/26/2009,4,METERS,69.8,DEGREES F,7.7,MG/L
+09/26/2009,5,METERS,68.9,DEGREES F,7.57,MG/L
+09/26/2009,6,METERS,64.9,DEGREES F,.7,MG/L
+09/26/2009,7,METERS,61.5,DEGREES F,.14,MG/L
+09/26/2009,8,METERS,59,DEGREES F,.08,MG/L
+09/26/2009,9,METERS,58,DEGREES F,0,MG/L
+10/13/2009,0.01,METERS,50.9,DEGREES F,8.75,MG/L
+10/13/2009,1,METERS,50.9,DEGREES F,8.37,MG/L
+10/13/2009,2,METERS,50.3,DEGREES F,8.27,MG/L
+10/13/2009,3,METERS,50.3,DEGREES F,8.17,MG/L
+10/13/2009,4,METERS,50.3,DEGREES F,8.15,MG/L
+10/13/2009,5,METERS,50.2,DEGREES F,8.11,MG/L
+10/13/2009,6,METERS,50.2,DEGREES F,8.1,MG/L
+10/13/2009,7,METERS,50.2,DEGREES F,8.12,MG/L
+10/13/2009,8,METERS,49.1,DEGREES F,4.33,MG/L
+05/26/2014,0,FEET,19.2,DEGREES C,,
+05/26/2014,3,FEET,17.8,DEGREES C,,
+05/26/2014,10,FEET,17,DEGREES C,,
+05/26/2014,15,FEET,11.3,DEGREES C,,
+05/26/2014,20,FEET,8,DEGREES C,,
+05/26/2014,26,FEET,6.8,DEGREES C,,
+07/28/2014,0,FEET,24.9,DEGREES C,6.01,MG/L
+07/28/2014,5,FEET,22.6,DEGREES C,7.1,MG/L
+07/28/2014,10,FEET,22.5,DEGREES C,6.99,MG/L
+07/28/2014,15,FEET,20.1,DEGREES C,4.32,MG/L
+07/28/2014,20,FEET,10.5,DEGREES C,.97,MG/L
+07/28/2014,26,FEET,8.2,DEGREES C,.6,MG/L
+07/28/2014,32,FEET,7.7,DEGREES C,.48,MG/L
+07/28/2014,39,FEET,7.3,DEGREES C,.06,MG/L
+07/28/2014,41,FEET,7.2,DEGREES C,.03,MG/L
+
+
+
+Start Date,Fieldwork Comment
+12/01/1996,NUTRIENT BOTTLE RECEIVED UNACIDIFIED (ACIDIFIED AT LAB)    
+09/17/1997,Cool.    
+10/16/1997,Cold.  Heavy algae bloom on the lake and limits visibility.  50 degrees air temperature.  Moderate wind from the se- blue sky.    
+03/02/1998,LAKE WATER SAMPLE    
+03/24/1998,LAKE WATER    
+04/15/1998,LAKE WATER    
+05/20/1998,19.8 degrees C. sunny- calm- blue sky- pollen brown water.    
+06/26/1998,22.7 degrees C. partly cloudy bright- calm brown water.    
+07/09/1998,23.3 C. sunny slight breeze- blue sky.    
+07/25/1998,24.1 C. partly cloudy- slight breeze.    
+08/30/1998,23.4 c partly cloudy- bright- moderate wind.    
+10/10/1998,14.6 c sunny- slight breeze- lots of algae.    
+10/27/1998,11.3 c sunny- clear- slight chop- algae.    
+06/25/1999,24 c bright sun- calm- lake level high 18-24 inches- brown water.    
+09/11/1999,18.6 C  clear blue sky- moderate chop- brown water.    
+09/02/2002,Bright sun - blue sky-calm water- warm 80 F air
+temp.some algae on shoreline-    
+06/03/2003,Water color brown slight chop- no algae- pollen
+gathering near shore...high clouds and some haze with air temp. 70+    
+07/17/2003,temp. in low 70's-brown water-no algae-slight
+chop-east wind -blue sky    
+08/01/2003,70F air temp-partly cloudy-slight breeze-brown water
+no algae    
+08/20/2003,82F air temp. hazy blue sky some light clouds water
+brown no algae small whitecaps at 1600 hrs    
+06/15/2004,The June 15- day is correct.
+06/22/2005,Air Temp.72F- Breezy blue sky- beautiful day- brown water-some algae near shore- slight algae in deep water- slight chop from SW wind
+08/02/2005,Air Temp. 86F  hazy blue sky -moderate wind some chop from SW warm muggy day -no algae
+06/26/2007,Cool late afternoon day water good with quiet chop-good clarity brown color
+06/10/2009,Air temp. in the low 60's--mostly cloudy with calm water- Brown - with some Algae-  quite nice when the sun breaks thru.....
+08/10/2009,Partly cloudy- some breeze- slight chop on water- brown color- Air tmp. in the mid 70's....One loon observed in the North bay at 12:50
+10/13/2009,No loons have been seen for quite some time
+07/28/2014,party cloudy day  
+
+
+
+
+Start Date,Group Name,Project Name
+06/09/1996,Data Collectors,LAKE MANAGEMENT 95/96
+07/14/1996,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring and Data Collection
+08/12/1996,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring and Data Collection
+09/22/1996,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring and Data Collection
+10/28/1996,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring and Data Collection
+12/01/1996,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring and Data Collection
+01/26/1997,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring and Data Collection
+09/17/1997,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/16/1997,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+02/16/1998,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring + WQ Sampling
+03/02/1998,Les And Diana Solin,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring + WQ Sampling
+03/24/1998,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring + WQ Sampling
+04/15/1998,Data Collectors,LAKE MINNESUING SANITARY DISTRICT: Lake Minnesuing Water Quality Monitoring + WQ Sampling
+04/15/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+05/20/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/26/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/09/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/25/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/30/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/10/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/27/1998,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/25/1999,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+09/11/1999,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/25/2000,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/11/2000,Les Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/27/2000,Les Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+09/02/2002,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/01/2002,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/03/2003,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/17/2003,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/01/2003,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/20/2003,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/15/2004,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/13/2004,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/03/2004,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/24/2004,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/22/2005,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/02/2005,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/26/2005,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+05/22/2006,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/19/2006,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/16/2006,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/28/2006,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/24/2006,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/05/2007,Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/26/2007,Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/20/2007,Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+05/31/2008,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/17/2008,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/29/2008,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/03/2008,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/10/2009,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/02/2009,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/10/2009,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/31/2009,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+09/26/2009,Les Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+10/13/2009,Les And Diana Solin,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+05/26/2014,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/30/2014,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/28/2014,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Lake Minnesuing; Deep Hole
+07/28/2014,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+08/31/2014,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Lake Minnesuing; Deep Hole
+08/31/2014,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+05/15/2015,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/26/2015,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/26/2015,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+09/07/2015,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/23/2016,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/26/2016,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+06/14/2017,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin
+07/02/2017,Jerry Trochinski,Citizen Lake Monitoring - Water Quality - Minnesuing Lake; Center Of NE Basin

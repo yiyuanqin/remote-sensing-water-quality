@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Franklin Lake,Forest,692900,NO,21,,10046960,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+118531867,04/22/2017,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+118531867,06/17/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+118531867,07/19/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+118531867,07/31/2017,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+118531867,08/19/2017,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+118531867,09/13/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/22/2017,Mary Doden,Citizen Lake Monitoring - Water Quality - Franklin Lake- South Bay- 20 foot hole
+06/17/2017,Mary Doden,Citizen Lake Monitoring - Water Quality - Franklin Lake- South Bay- 20 foot hole
+07/19/2017,Mary Doden,Citizen Lake Monitoring - Water Quality - Franklin Lake- South Bay- 20 foot hole
+07/31/2017,Mary Doden,Citizen Lake Monitoring - Water Quality - Franklin Lake- South Bay- 20 foot hole
+08/19/2017,Mary Doden,Citizen Lake Monitoring - Water Quality - Franklin Lake- South Bay- 20 foot hole
+09/13/2017,Mary Doden,Citizen Lake Monitoring - Water Quality - Franklin Lake- South Bay- 20 foot hole

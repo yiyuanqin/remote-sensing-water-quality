@@ -1,0 +1,256 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hewitt Lake,Iron,2763300,NO,26,,263179,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/17/2004,,,,2.18,8,,44,41,,,,,
+1,10/10/2004,,,,1.54,10,,46,38,,,,,
+1,05/20/2005,,,,,11,,47,,,,,,
+1,06/25/2005,,,,0.921,8,,44,34,,,,,
+1,07/17/2005,,,,0.71,,,,32,,,,,
+1,08/23/2005,,,,1.96,6,,42,40,,,,,
+1,10/16/2005,,,,2.71,7,,43,42,,,,,
+8191171,05/22/2006,17.5,NO,5.3,,15,36,49,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,06/18/2006,17,NO,5.2,1.48,6,36,42,38,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,07/16/2006,14.2,NO,4.3,1.2,12,39,47,36,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,08/15/2006,13.5,NO,4.1,2.1,7,40,43,40,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,10/20/2006,15,NO,4.6,1.93,11,38,47,40,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,05/08/2007,16,NO,4.9,,12,37,47,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,06/29/2007,18.25,NO,5.5,1.85,8,35,44,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,07/31/2007,17.5,NO,5.3,2.07,5,36,41,40,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,08/30/2007,20.5,NO,6.2,0.99,5,34,41,35,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191171,10/31/2007,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188687,05/02/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,08/01/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,08/09/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188687,08/23/2016,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,09/10/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,09/19/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,09/29/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,10/08/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,10/13/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,10/28/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130985160,11/08/2016,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/22/2006,3,FEET,55.7,DEGREES F,,
+05/22/2006,6,FEET,53.4,DEGREES F,,
+05/22/2006,9,FEET,52.8,DEGREES F,,
+05/22/2006,12,FEET,52.5,DEGREES F,,
+05/22/2006,15,FEET,52.3,DEGREES F,,
+05/22/2006,20,FEET,51.8,DEGREES F,,
+05/22/2006,25,FEET,51.2,DEGREES F,,
+05/22/2006,30,FEET,50.3,DEGREES F,,
+05/22/2006,35,FEET,48,DEGREES F,,
+05/22/2006,40,FEET,45.6,DEGREES F,,
+05/22/2006,45,FEET,42.2,DEGREES F,,
+05/22/2006,50,FEET,41,DEGREES F,,
+05/22/2006,55,FEET,40.8,DEGREES F,,
+05/22/2006,60,FEET,40.8,DEGREES F,,
+05/22/2006,65,FEET,40.8,DEGREES F,,
+05/22/2006,70,FEET,40.8,DEGREES F,,
+06/18/2006,3,FEET,75,DEGREES F,,
+06/18/2006,6,FEET,73.4,DEGREES F,,
+06/18/2006,9,FEET,71.4,DEGREES F,,
+06/18/2006,12,FEET,70.1,DEGREES F,,
+06/18/2006,15,FEET,64.2,DEGREES F,,
+06/18/2006,20,FEET,56,DEGREES F,,
+06/18/2006,25,FEET,52.8,DEGREES F,,
+06/18/2006,30,FEET,49.8,DEGREES F,,
+06/18/2006,35,FEET,46.8,DEGREES F,,
+06/18/2006,40,FEET,42.8,DEGREES F,,
+06/18/2006,45,FEET,40.9,DEGREES F,,
+06/18/2006,50,FEET,40.8,DEGREES F,,
+06/18/2006,55,FEET,40.8,DEGREES F,,
+06/18/2006,60,FEET,40.8,DEGREES F,,
+07/16/2006,3,FEET,79.1,DEGREES F,,
+07/16/2006,6,FEET,78.2,DEGREES F,,
+07/16/2006,9,FEET,77.3,DEGREES F,,
+07/16/2006,12,FEET,75.5,DEGREES F,,
+07/16/2006,15,FEET,72.6,DEGREES F,,
+07/16/2006,20,FEET,63.3,DEGREES F,,
+07/16/2006,25,FEET,56.1,DEGREES F,,
+07/16/2006,30,FEET,51.2,DEGREES F,,
+07/16/2006,35,FEET,49.8,DEGREES F,,
+07/16/2006,40,FEET,44,DEGREES F,,
+07/16/2006,45,FEET,42.6,DEGREES F,,
+07/16/2006,50,FEET,42,DEGREES F,,
+07/16/2006,55,FEET,41.7,DEGREES F,,
+07/16/2006,60,FEET,41.5,DEGREES F,,
+07/16/2006,65,FEET,41.5,DEGREES F,,
+08/15/2006,3,FEET,72.5,DEGREES F,,
+08/15/2006,6,FEET,72.3,DEGREES F,,
+08/15/2006,9,FEET,72.1,DEGREES F,,
+08/15/2006,12,FEET,71.9,DEGREES F,,
+08/15/2006,15,FEET,71.9,DEGREES F,,
+08/15/2006,20,FEET,71.4,DEGREES F,,
+08/15/2006,25,FEET,71.7,DEGREES F,,
+08/15/2006,30,FEET,65.4,DEGREES F,,
+08/15/2006,35,FEET,58.8,DEGREES F,,
+08/15/2006,40,FEET,57.2,DEGREES F,,
+08/15/2006,45,FEET,51.9,DEGREES F,,
+08/15/2006,50,FEET,48.7,DEGREES F,,
+08/15/2006,55,FEET,45.8,DEGREES F,,
+08/15/2006,60,FEET,44.4,DEGREES F,,
+08/15/2006,65,FEET,44.1,DEGREES F,,
+10/20/2006,3,FEET,46.2,DEGREES F,,
+10/20/2006,6,FEET,46.4,DEGREES F,,
+10/20/2006,9,FEET,46.5,DEGREES F,,
+10/20/2006,12,FEET,46.5,DEGREES F,,
+10/20/2006,15,FEET,46.5,DEGREES F,,
+10/20/2006,20,FEET,46.5,DEGREES F,,
+10/20/2006,25,FEET,46.5,DEGREES F,,
+10/20/2006,30,FEET,46.5,DEGREES F,,
+10/20/2006,35,FEET,46.5,DEGREES F,,
+10/20/2006,40,FEET,46.5,DEGREES F,,
+10/20/2006,45,FEET,46.7,DEGREES F,,
+10/20/2006,50,FEET,46.5,DEGREES F,,
+10/20/2006,55,FEET,46.7,DEGREES F,,
+10/20/2006,60,FEET,43.7,DEGREES F,,
+10/20/2006,65,FEET,43.4,DEGREES F,,
+05/08/2007,3,FEET,55.7,DEGREES F,,
+05/08/2007,6,FEET,53.6,DEGREES F,,
+05/08/2007,9,FEET,52.5,DEGREES F,,
+05/08/2007,12,FEET,51.8,DEGREES F,,
+05/08/2007,15,FEET,51,DEGREES F,,
+05/08/2007,20,FEET,50.7,DEGREES F,,
+05/08/2007,25,FEET,49.2,DEGREES F,,
+05/08/2007,30,FEET,47.5,DEGREES F,,
+05/08/2007,35,FEET,44.7,DEGREES F,,
+05/08/2007,40,FEET,44,DEGREES F,,
+05/08/2007,45,FEET,42.4,DEGREES F,,
+05/08/2007,50,FEET,42,DEGREES F,,
+05/08/2007,55,FEET,40.6,DEGREES F,,
+05/08/2007,60,FEET,40.4,DEGREES F,,
+05/08/2007,65,FEET,40.4,DEGREES F,,
+06/29/2007,3,FEET,72.6,DEGREES F,,
+06/29/2007,6,FEET,72.5,DEGREES F,,
+06/29/2007,9,FEET,72.5,DEGREES F,,
+06/29/2007,12,FEET,72.3,DEGREES F,,
+06/29/2007,15,FEET,72.3,DEGREES F,,
+06/29/2007,20,FEET,69.6,DEGREES F,,
+06/29/2007,25,FEET,64.7,DEGREES F,,
+06/29/2007,30,FEET,60.6,DEGREES F,,
+06/29/2007,35,FEET,50,DEGREES F,,
+06/29/2007,40,FEET,46.4,DEGREES F,,
+06/29/2007,45,FEET,42.8,DEGREES F,,
+06/29/2007,50,FEET,41.7,DEGREES F,,
+06/29/2007,55,FEET,41.3,DEGREES F,,
+06/29/2007,60,FEET,41,DEGREES F,,
+06/29/2007,65,FEET,41,DEGREES F,,
+07/31/2007,3,FEET,79.7,DEGREES F,,
+07/31/2007,6,FEET,78,DEGREES F,,
+07/31/2007,9,FEET,77.3,DEGREES F,,
+07/31/2007,12,FEET,75,DEGREES F,,
+07/31/2007,15,FEET,75,DEGREES F,,
+07/31/2007,20,FEET,73.5,DEGREES F,,
+07/31/2007,25,FEET,69.8,DEGREES F,,
+07/31/2007,30,FEET,59,DEGREES F,,
+07/31/2007,35,FEET,50.3,DEGREES F,,
+07/31/2007,40,FEET,46.4,DEGREES F,,
+07/31/2007,45,FEET,45,DEGREES F,,
+07/31/2007,50,FEET,44,DEGREES F,,
+07/31/2007,55,FEET,42.2,DEGREES F,,
+07/31/2007,60,FEET,41.7,DEGREES F,,
+07/31/2007,65,FEET,40.8,DEGREES F,,
+08/30/2007,3,FEET,71.4,DEGREES F,,
+08/30/2007,6,FEET,70.1,DEGREES F,,
+08/30/2007,9,FEET,69.8,DEGREES F,,
+08/30/2007,12,FEET,69.6,DEGREES F,,
+08/30/2007,15,FEET,69.2,DEGREES F,,
+08/30/2007,20,FEET,69,DEGREES F,,
+08/30/2007,25,FEET,62.9,DEGREES F,,
+08/30/2007,30,FEET,49.6,DEGREES F,,
+08/30/2007,35,FEET,44.9,DEGREES F,,
+08/30/2007,40,FEET,42.9,DEGREES F,,
+08/30/2007,45,FEET,42,DEGREES F,,
+08/30/2007,50,FEET,41.8,DEGREES F,,
+08/30/2007,55,FEET,41.3,DEGREES F,,
+08/30/2007,60,FEET,41.3,DEGREES F,,
+08/30/2007,65,FEET,41.1,DEGREES F,,
+10/31/2007,3,FEET,51,DEGREES F,,
+10/31/2007,6,FEET,51.2,DEGREES F,,
+10/31/2007,9,FEET,51.2,DEGREES F,,
+10/31/2007,12,FEET,51,DEGREES F,,
+10/31/2007,15,FEET,51,DEGREES F,,
+10/31/2007,20,FEET,51,DEGREES F,,
+10/31/2007,25,FEET,51,DEGREES F,,
+10/31/2007,30,FEET,51,DEGREES F,,
+10/31/2007,35,FEET,51,DEGREES F,,
+10/31/2007,40,FEET,51,DEGREES F,,
+10/31/2007,45,FEET,51,DEGREES F,,
+10/31/2007,50,FEET,50,DEGREES F,,
+10/31/2007,55,FEET,49.7,DEGREES F,,
+10/31/2007,60,FEET,45.7,DEGREES F,,
+10/31/2007,65,FEET,43.5,DEGREES F,,
+05/02/2016,1,FEET,10.9,DEGREES C,10.19,MG/L
+05/02/2016,3,FEET,10.6,DEGREES C,10.28,MG/L
+05/02/2016,6,FEET,10.5,DEGREES C,10.3,MG/L
+05/02/2016,9,FEET,10.1,DEGREES C,10.29,MG/L
+05/02/2016,12,FEET,9.1,DEGREES C,10.38,MG/L
+05/02/2016,15,FEET,8.5,DEGREES C,10.37,MG/L
+08/23/2016,1,FEET,22.7,DEGREES C,7.78,MG/L
+08/23/2016,3,FEET,22.5,DEGREES C,7.84,MG/L
+08/23/2016,6,FEET,22.1,DEGREES C,7.86,MG/L
+08/23/2016,9,FEET,22,DEGREES C,7.85,MG/L
+08/23/2016,12,FEET,21.9,DEGREES C,7.86,MG/L
+08/23/2016,15,FEET,21.9,DEGREES C,7.82,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/17/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/10/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+05/20/2005,DEEP HOLE - INTEGRATED SAMPLE    
+06/25/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/17/2005,DEEP HOLE - INTEGRATED SAMPLE
+08/23/2005,DEEP HOLE - INTEGRATED SAMPLE
+10/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+05/22/2006,Bright sun- lite breeze out of NW- lots of cottonwood catkins floating on lake- water flowing freely out of north notch- ice out completely on April 15
+06/18/2006,Partly cloudy- strong NW wind- water flowing briskly from North notch.  Temperature probe gave error at depths greater than 60 feet.
+07/16/2006,Partly cloudy- hot- practically no rain in last month but lake level is normal.
+08/15/2006,Clear and windy.  Considerable rain has overflow going out North exit at a good rate.  Some point water cloudiness from runoff at new construction sites.
+10/20/2006,Partly cloudy- hazy- cold- snow and rain last week and a half
+05/08/2007,Mostly sunny- light breeze- black flies out- water running out of N notch
+06/29/2007,Beautiful warm weather
+08/30/2007,full sun- no breeze- lake is low no water out of N notch
+10/31/2007,full sun- we've had rain- lake is back up
+
+
+
+
+Start Date,Group Name,Project Name
+09/17/2004,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/10/2004,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+05/20/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+06/25/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+07/17/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+08/23/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/16/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+05/22/2006,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+06/18/2006,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+07/16/2006,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+08/15/2006,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/20/2006,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+05/08/2007,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+06/29/2007,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+07/31/2007,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+08/30/2007,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/31/2007,Richard Thiede,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+05/02/2016,Zach Wilson,Iron County (Staff) Water Quality Monitoring
+08/01/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+08/09/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+08/23/2016,Zach Wilson,Iron County (Staff) Water Quality Monitoring
+09/10/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+09/19/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+09/29/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/08/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/13/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+10/28/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole
+11/08/2016,Lynne Kilian,Citizen Lake Monitoring - Water Quality - Hewitt Lake; Deep Hole

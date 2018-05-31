@@ -1,0 +1,45 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Butte des Morts,Winnebago,139900,NE,71,,713291,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000091,03/20/1997,,,,11.3,58,,60,53,,,,,
+7000091,04/23/1997,,,,32.7,48,,58,61,,,,,
+7000091,06/03/1997,,,,28.5,65,,60,60,,,,,
+7000091,06/17/1997,,,,28.5,56,,59,60,,,,,
+1,08/22/1997,,,,96.1,135,,66,69,,,,,
+62404880,05/31/2016,3,NO,0.9,,75.4,61,62,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,07/18/2016,2.5,NO,0.8,69.8,87.4,64,63,67,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,08/16/2016,2,NO,0.6,55.1,38.2,67,56,65,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,09/19/2016,,,,67.9,107,,64,67,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/31/2016,1,METERS,23,DEGREES C,8.24,MG/L
+07/18/2016,1,METERS,24.4,DEGREES C,10.72,MG/L
+08/16/2016,1,METERS,26.6,DEGREES C,9.8,MG/L
+08/16/2016,2,METERS,25.3,DEGREES C,6.16,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/22/1997,butte des morte mid-lake    
+
+
+
+
+Start Date,Group Name,Project Name
+03/20/1997,Mark Sesing,LAKE EVALUATION
+04/23/1997,Mark Sesing,Lake Baseline Monitoring- DNR (1970s-2006)
+06/03/1997,Mark Sesing,LAKE EVALUATION
+06/17/1997,Mark Sesing,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/22/1997,Data Collectors,DNR/DATCP FIELD PESTICIDE
+05/31/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+07/18/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+08/16/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+09/19/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment

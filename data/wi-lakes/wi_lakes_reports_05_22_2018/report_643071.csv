@@ -1,0 +1,56 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake of the Hills,Vilas,1620500,NO,64,,643071,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/14/1979,,,,,,,,,,,,,
+8190076,07/28/1994,3.75,NO,1.1,,,58,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190076,08/16/1994,4.75,NO,1.4,,,55,,,6" LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190076,08/23/1994,5.33,NO,1.6,,,53,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190076,09/18/1994,5,NO,1.5,,,54,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189641,07/25/1996,3.75,NO,1.1,,,58,,,,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189641,08/12/1996,5,NO,1.5,,,54,,,,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189641,07/14/1997,5.5,NO,1.7,,,53,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+144601491,06/06/2017,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+144601491,07/22/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+144601491,08/10/2017,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/14/1979,,,15.5,C,,
+
+
+
+Start Date,Fieldwork Comment
+08/14/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/28/1994,82 degrees.  Heavy weeds and lily pads around entire lake.  Center of lake fairly clear of weeds.    
+08/23/1994,Sunny + hazy at times- temp. 72 degrees- SE wind- lake shores heavily weeded- rain yesterday.    
+09/18/1994,78 degrees- south wind- weeds in lake are down considerably in the last 2 weeks.    
+07/25/1996,Calm - no whitecaps - slight breeze - slight rain yesterday.    
+08/12/1996,Cloudy or overcast - calm water - slight breeze.    
+07/14/1997,Steady breeze.  No white caps.  Early am rain (1am) .  Sunny at time of reading.    
+06/06/2017,Full sun. Air temp 74*F. Very slight chop to surface. Surface water temp 70*F.
+Lots of aquatic plant matter at boat landing.  
+Mature eagle.
+With Sterling Strathe
+
+
+
+
+Start Date,Group Name,Project Name
+08/14/1979,Data Collectors,Migrated from STORET Legacy
+07/28/1994,Frank Cieslik,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+08/16/1994,Frank Cieslik,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+08/23/1994,Frank Cieslik,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+09/18/1994,Frank Cieslik,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+07/25/1996,Robert Rehberg,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+08/12/1996,Robert Rehberg,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+07/14/1997,Robert Rehberg,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+06/06/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+07/22/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole
+08/10/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Lake Of The Hills - Deep Hole

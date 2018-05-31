@@ -1,0 +1,57 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Columbia Lake,Waupaca,262400,NE,69,,693044,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,11/03/1980,,,,8,,,,51,,,,,
+1,02/26/1981,,,,,30,,54,,,,,,
+1,04/15/1981,,,,,20,,51,,,,,,
+1,10/27/1981,,,,,,,,,,,,,
+1,02/22/1982,,,,,20,,51,,,,,,
+1,05/10/1982,,,,,20,,51,,,,,,
+8190880,05/02/1994,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190880,06/21/1994,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190880,08/02/1994,11,NO,3.3,,,43,,,,,,,1-Beautiful, could not be nicer
+8190880,09/21/1994,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/26/2016,7,N,2.1,3.07,13,49,48,43,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/03/1980,,,8,C,7.6,MG/L
+02/26/1981,,,4,C,6,MG/L
+04/15/1981,,,10.1,C,10.6,MG/L
+10/27/1981,,,7,C,6.1,MG/L
+02/22/1982,,,2,C,10.2,MG/L
+05/10/1982,,,14.8,C,4.6,MG/L
+07/26/2016,,,10.0,C,8.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+11/03/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/15/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/22/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/10/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+11/03/1980,Data Collectors,Migrated from STORET Legacy
+02/26/1981,Data Collectors,Migrated from STORET Legacy
+04/15/1981,Data Collectors,Migrated from STORET Legacy
+10/27/1981,Data Collectors,Migrated from STORET Legacy
+02/22/1982,Data Collectors,Migrated from STORET Legacy
+05/10/1982,Data Collectors,Migrated from STORET Legacy
+05/02/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Columbia Lake; Deepest Point
+06/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Columbia Lake; Deepest Point
+08/02/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Columbia Lake; Deepest Point
+09/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Columbia Lake; Deepest Point
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning

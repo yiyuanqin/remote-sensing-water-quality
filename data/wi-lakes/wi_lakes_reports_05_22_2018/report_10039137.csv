@@ -1,0 +1,140 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Holcombe Flowage,Chippewa,2184900,WC,9,,10039137,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+73278295,08/13/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+73278295,08/25/2012,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+73278295,09/11/2012,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+73278295,09/27/2012,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+73278295,06/30/2013,2.5,NO,0.8,4.41,51.9,64,59,46,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,07/14/2013,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,07/31/2013,3.5,NO,1.1,9.94,53.9,59,59,52,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,08/17/2013,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,09/03/2013,3.5,NO,1.1,44.1,51.6,59,59,63,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+73278295,09/24/2013,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+73278295,05/26/2014,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,06/17/2014,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,06/29/2014,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,08/03/2014,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+73278295,09/08/2014,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+129127555,06/28/2016,2.5,NO,0.8,3.01,62.9,64,60,43,NORMAL,27,CLEAR,BROWN,2-Very minor aesthetic problems
+129127555,07/25/2016,3,NO,0.9,4.64,50.2,61,58,46,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,08/30/2016,,,,,57.9,,60,,,,,,
+1,06/19/2017,,,,3.03,83,,62,43,,,,,
+1,07/26/2017,,,,19.4,55.6,,59,57,,,,,
+1,09/05/2017,,,,6.96,,,,49,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/31/2013,3,FEET,72.8,DEGREES F,,
+07/31/2013,6,FEET,72.6,DEGREES F,,
+07/31/2013,9,FEET,72.3,DEGREES F,,
+07/31/2013,12,FEET,71,DEGREES F,,
+07/31/2013,15,FEET,71.7,DEGREES F,,
+07/31/2013,18,FEET,71,DEGREES F,,
+09/03/2013,3,FEET,74.4,DEGREES F,,
+09/03/2013,6,FEET,73.9,DEGREES F,,
+09/03/2013,9,FEET,73.4,DEGREES F,,
+09/03/2013,12,FEET,73.2,DEGREES F,,
+09/03/2013,15,FEET,72.8,DEGREES F,,
+09/03/2013,18,FEET,71.9,DEGREES F,,
+09/03/2013,21,FEET,71,DEGREES F,,
+09/03/2013,24,FEET,70.8,DEGREES F,,
+05/26/2014,3,FEET,65.6,DEGREES F,,
+05/26/2014,6,FEET,64.7,DEGREES F,,
+05/26/2014,9,FEET,64.2,DEGREES F,,
+05/26/2014,12,FEET,64,DEGREES F,,
+05/26/2014,15,FEET,63.8,DEGREES F,,
+05/26/2014,18,FEET,63.6,DEGREES F,,
+06/17/2014,3,FEET,77,DEGREES F,,
+06/17/2014,6,FEET,76.8,DEGREES F,,
+06/17/2014,9,FEET,75.3,DEGREES F,,
+06/17/2014,12,FEET,74.4,DEGREES F,,
+06/17/2014,15,FEET,73.2,DEGREES F,,
+06/17/2014,18,FEET,72.8,DEGREES F,,
+06/17/2014,21,FEET,72.3,DEGREES F,,
+06/17/2014,24,FEET,71.9,DEGREES F,,
+06/17/2014,27,FEET,71.4,DEGREES F,,
+06/17/2014,30,FEET,71,DEGREES F,,
+06/17/2014,33,FEET,64.4,DEGREES F,,
+08/03/2014,3,FEET,77,DEGREES F,,
+08/03/2014,6,FEET,76.8,DEGREES F,,
+08/03/2014,9,FEET,75.3,DEGREES F,,
+08/03/2014,12,FEET,74.4,DEGREES F,,
+08/03/2014,15,FEET,73.2,DEGREES F,,
+08/03/2014,18,FEET,72.8,DEGREES F,,
+08/03/2014,21,FEET,72.3,DEGREES F,,
+08/03/2014,24,FEET,71.9,DEGREES F,,
+08/03/2014,27,FEET,71.4,DEGREES F,,
+08/03/2014,30,FEET,71,DEGREES F,,
+09/08/2014,3,FEET,64.4,DEGREES F,,
+09/08/2014,6,FEET,64.4,DEGREES F,,
+09/08/2014,9,FEET,64.4,DEGREES F,,
+09/08/2014,12,FEET,64.4,DEGREES F,,
+09/08/2014,15,FEET,64.4,DEGREES F,,
+09/08/2014,18,FEET,64.4,DEGREES F,,
+09/08/2014,21,FEET,64.4,DEGREES F,,
+09/08/2014,24,FEET,64.4,DEGREES F,,
+09/08/2014,27,FEET,64.4,DEGREES F,,
+09/08/2014,30,FEET,64.4,DEGREES F,,
+09/08/2014,33,FEET,64.4,DEGREES F,,
+06/28/2016,3,FEET,73.4,DEGREES F,,
+06/28/2016,6,FEET,72.8,DEGREES F,,
+06/28/2016,9,FEET,72.3,DEGREES F,,
+06/28/2016,12,FEET,71.6,DEGREES F,,
+06/28/2016,15,FEET,71.4,DEGREES F,,
+06/28/2016,18,FEET,71.4,DEGREES F,,
+06/28/2016,21,FEET,71.4,DEGREES F,,
+06/28/2016,24,FEET,71.4,DEGREES F,,
+06/28/2016,27,FEET,71.4,DEGREES F,,
+07/25/2016,3,FEET,78.6,DEGREES F,,
+07/25/2016,6,FEET,78.2,DEGREES F,,
+07/25/2016,9,FEET,77.9,DEGREES F,,
+07/25/2016,12,FEET,77.5,DEGREES F,,
+07/25/2016,15,FEET,77.3,DEGREES F,,
+07/25/2016,18,FEET,77.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/25/2012,very windy
+09/11/2012,very windy
+09/27/2012,clear + calm
+05/26/2014,Mild rain on / off.
+06/17/2014,Overcast.  2.75 inches of rain last 2 days Rain / Sun Mix   
+06/29/2014,Very windy / choppy
+08/03/2014,Rain / Sun mix.  Debbi Weiland assisted.
+06/28/2016,Partly cloudy- slight breeze- 65 degrees
+07/25/2016,Partly cloudy-wind 5-7 mph  temp 70 degrees
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+08/25/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+09/11/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+09/27/2012,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+06/30/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+07/14/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+07/31/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+08/17/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+09/03/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+09/24/2013,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+05/26/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+06/17/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+06/29/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+08/03/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+09/08/2014,Wayne Weiland,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+06/28/2016,Doug Olson,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+07/25/2016,Doug Olson,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+08/30/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+06/19/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+07/26/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Holcombe Flowage - Near Island In the Middle of the Main Lake
+09/05/2017,Data Collectors,Bacteria + Plankton (Paid Private)

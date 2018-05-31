@@ -1,0 +1,413 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Krohns Lake,Kewaunee,94700,NE,31,,313030,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/09/1976,,,,,27,,54,,,,,,
+1,04/13/1976,6.6,,2,,,50,,,,,,,
+1,07/07/1976,4.3,,1.3,,,56,,,,,,,
+1,10/25/1976,11.5,,3.5,,,42,,,,,,,
+1,03/01/1994,,,,,60,,60,,,,,,
+1,06/21/1994,6.3,,1.91,6.08,9,51,45,48,,,,,
+1,07/21/1994,6,,1.83,3.7,11,51,47,45,,,,,
+1,08/16/1994,6,,1.83,3.69,8,51,44,45,,,,,
+7000093,08/21/2003,,,,2.67,,,,42,,,,,
+8191175,09/18/2004,6.75,NO,2.1,,,50,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191175,09/25/2004,6.5,NO,2,,,50,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191175,10/09/2004,7,NO,2.1,,,49,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191175,10/25/2004,11.5,NO,3.5,,,42,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191175,06/04/2005,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191175,06/14/2005,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191175,06/21/2005,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191175,07/04/2005,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191175,07/22/2005,16.5,YES,5,,,37,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191175,08/13/2005,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191175,08/27/2005,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191175,09/06/2005,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191175,09/27/2005,14,NO,4.3,,,39,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191175,10/30/2005,10.5,NO,3.2,,,43,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+18663163,06/06/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,06/13/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,06/22/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,06/28/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/13/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18663163,07/30/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/13/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,08/30/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663163,05/15/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18663163,06/02/2008,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18663163,06/18/2008,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+18663163,07/04/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18663163,07/20/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18663163,07/28/2008,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/30/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18663163,08/26/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,08/29/2008,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,06/04/2009,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663163,07/05/2009,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,07/15/2009,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,08/12/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,08/24/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,07/10/2010,4.3,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18663163,07/26/2010,6.3,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18663163,08/15/2010,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,08/22/2010,7.3,NO,2.2,,,48,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,08/28/2010,7.8,NO,2.4,,,48,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,09/12/2010,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,06/25/2011,6.1,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,07/11/2011,5.6,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,07/13/2011,5.1,NO,1.6,,,54,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18663163,07/20/2011,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18663163,07/29/2011,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18663163,08/05/2011,9.1,NO,2.8,,,45,,,HIGH,9.1,CLEAR,BROWN,2-Very minor aesthetic problems
+18663163,09/01/2011,7.2,NO,2.2,,,49,,,HIGH,7.2,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,06/10/2012,5.9,NO,1.8,,,52,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/07/2012,5.2,NO,1.6,,,53,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/20/2012,8.2,NO,2.5,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,07/23/2012,9.1,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,08/03/2012,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,08/25/2012,8.2,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,09/02/2012,7.8,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,06/17/2013,,NO,,,,,,,HIGH,13.5,CLEAR,,1-Beautiful, could not be nicer
+18663163,06/24/2013,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+18663163,07/01/2013,9.8,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+18663163,07/12/2013,5.7,NO,1.7,,,52,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/03/2013,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/14/2013,6.1,NO,1.9,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/23/2013,5.1,NO,1.6,,,54,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,09/07/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18663163,05/30/2014,19,NO,5.8,,,35,,,HIGH,19.0,CLEAR,,1-Beautiful, could not be nicer
+18663163,07/04/2014,7.2,NO,2.2,,,49,,,HIGH,7.2,MURKY,BROWN,2-Very minor aesthetic problems
+18663163,07/21/2014,5.3,NO,1.6,,,53,,,HIGH,5.3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,08/05/2014,7.6,NO,2.3,,,48,,,HIGH,7.6,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000093,08/06/2014,8,N,2.4,2.73,10.4,47,46,42,,,,GREEN,
+18663163,09/07/2014,12.5,NO,3.8,,,41,,,HIGH,35,CLEAR,,1-Beautiful, could not be nicer
+18663163,06/23/2015,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+18663163,06/29/2015,6.1,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18663163,07/08/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/15/2015,5.2,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/24/2015,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/01/2015,9.9,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663163,08/09/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663163,08/17/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663163,05/30/2016,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+18663163,06/08/2016,6.2,NO,1.9,,,51,,,HIGH,6.2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,06/12/2016,4,NO,1.2,,,57,,,HIGH,4.0,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+18663163,06/24/2016,7.1,NO,2.2,,,49,,,HIGH,7.1,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,07/02/2016,7.6,NO,2.3,,,48,,,HIGH,7.6,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18663163,07/04/2016,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+18663163,07/18/2016,6.9,NO,2.1,,,49,,,HIGH,6.9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000093,07/26/2016,9,N,2.7,1.81,12,45,47,39,,,,,
+18663163,07/26/2016,8.6,NO,2.6,,,46,,,HIGH,8.6,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+7000093,08/15/2016,6.5,N,2,3.7,18.6,50,51,45,,,MURKY,BROWN,
+18663163,08/16/2016,5.6,NO,1.7,,,52,,,NORMAL,5.6,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,09/03/2016,7.3,NO,2.2,,,48,,,HIGH,7.3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000093,09/09/2016,7.3,N,2.2,5.54,18.8,48,51,48,,,,GREEN,
+18663163,09/12/2016,6.1,NO,1.9,,,51,,,HIGH,6.1,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,09/18/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+18663163,11/01/2016,11.7,NO,3.6,,,42,,,HIGH,11.7,CLEAR,BROWN,2-Very minor aesthetic problems
+18663163,06/27/2017,6.3,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18663163,07/05/2017,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000093,07/17/2017,,,,2.02,15.2,,49,40,,,,,
+144883596,07/17/2017,6.2,NO,1.9,2.02,15.2,51,49,40,NORMAL,,CLEAR,GREEN,
+18663163,07/29/2017,7,NO,2.1,,,49,,,HIGH,7.0,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/13/2017,4.5,NO,1.4,,,55,,,NORMAL,4.5,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000093,08/14/2017,3.3,,1,3.43,12.1,60,47,44,,,,,
+144883596,08/14/2017,3.3,NO,1,,,60,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,08/22/2017,5.3,NO,1.6,,,53,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18663163,08/30/2017,7.9,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+147430520,09/07/2017,9,N,2.7,3.73,15.1,45,49,45,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18663163,09/23/2017,6.2,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/09/1976,,,0,C,11,MG/L
+04/13/1976,,,4.3,C,7,MG/L
+07/07/1976,,,7.5,C,3.4,MG/L
+10/25/1976,,,9,C,7.6,MG/L
+03/01/1994,,,1.2,C,0.4,MG/L
+06/21/1994,,,25.3,C,0.84,MG/L
+07/21/1994,,,30,C,0.2,MG/L
+08/16/1994,,,22.0,C,0.4,MG/L
+08/06/2014,1,METERS,24.1,DEGREES C,9.1,MG/L
+08/06/2014,2,METERS,23.2,DEGREES C,9.7,MG/L
+08/06/2014,3,METERS,20.2,DEGREES C,18.5,MG/L
+08/06/2014,4,METERS,14.5,DEGREES C,18.3,MG/L
+08/06/2014,5,METERS,9.9,DEGREES C,7.8,MG/L
+08/06/2014,6,METERS,7.8,DEGREES C,2.1,MG/L
+08/06/2014,7,METERS,6.9,DEGREES C,.5,MG/L
+08/06/2014,8,METERS,6.3,DEGREES C,.3,MG/L
+08/06/2014,,,24.1,C,9.1,MG/L
+07/04/2016,5,FEET,73,DEGREES F,,
+07/04/2016,10,FEET,70,DEGREES F,,
+07/04/2016,15,FEET,51,DEGREES F,,
+07/04/2016,20,FEET,46,DEGREES F,,
+07/04/2016,25,FEET,41,DEGREES F,,
+07/04/2016,30,FEET,41,DEGREES F,,
+07/26/2016,1,METERS,26.8,DEGREES C,8.1,MG/L
+07/26/2016,2,METERS,26.2,DEGREES C,8.1,MG/L
+07/26/2016,3,METERS,21.7,DEGREES C,16.2,MG/L
+07/26/2016,4,METERS,15.6,DEGREES C,16.6,MG/L
+07/26/2016,5,METERS,10.2,DEGREES C,10.4,MG/L
+07/26/2016,6,METERS,7.9,DEGREES C,4.1,MG/L
+07/26/2016,7,METERS,6.9,DEGREES C,1.3,MG/L
+07/26/2016,8,METERS,6.5,DEGREES C,.8,MG/L
+07/26/2016,9,METERS,6,DEGREES C,.5,MG/L
+07/26/2016,10,METERS,5.7,DEGREES C,.4,MG/L
+07/26/2016,,,26.8,C,8.1,MG/L
+08/15/2016,1,METERS,26.19,DEGREES C,8.67,MG/L
+08/15/2016,2,METERS,26.08,DEGREES C,8.41,MG/L
+08/15/2016,3,METERS,22.92,DEGREES C,15.49,MG/L
+08/15/2016,4,METERS,16.19,DEGREES C,16.65,MG/L
+08/15/2016,5,METERS,10,DEGREES C,10.22,MG/L
+08/15/2016,6,METERS,8.12,DEGREES C,2.67,MG/L
+08/15/2016,7,METERS,7.06,DEGREES C,1.4,MG/L
+08/15/2016,8,METERS,6.58,DEGREES C,1.15,MG/L
+08/15/2016,9,METERS,6.15,DEGREES C,.87,MG/L
+08/15/2016,10,METERS,5.79,DEGREES C,.64,MG/L
+09/09/2016,1,METERS,23.8,DEGREES C,9.5,MG/L
+09/09/2016,2,METERS,23.8,DEGREES C,9.8,MG/L
+09/09/2016,3,METERS,21.9,DEGREES C,11.7,MG/L
+09/09/2016,4,METERS,17.3,DEGREES C,14.7,MG/L
+09/09/2016,5,METERS,11.5,DEGREES C,5.6,MG/L
+09/09/2016,6,METERS,8.7,DEGREES C,1,MG/L
+09/09/2016,7,METERS,7.3,DEGREES C,.8,MG/L
+09/09/2016,8,METERS,6.8,DEGREES C,.6,MG/L
+09/09/2016,9,METERS,6.3,DEGREES C,.5,MG/L
+09/09/2016,10,METERS,5.9,DEGREES C,.4,MG/L
+09/18/2016,5,FEET,69.2,DEGREES F,,
+09/18/2016,10,FEET,69.2,DEGREES F,,
+09/18/2016,15,FEET,62,DEGREES F,,
+09/18/2016,20,FEET,53,DEGREES F,,
+09/18/2016,25,FEET,46,DEGREES F,,
+09/18/2016,30,FEET,44.6,DEGREES F,,
+07/17/2017,1,METERS,24,DEGREES C,8.9,MG/L
+07/17/2017,2,METERS,23.7,DEGREES C,8.8,MG/L
+07/17/2017,3,METERS,21,DEGREES C,13.2,MG/L
+07/17/2017,4,METERS,15.4,DEGREES C,6.7,MG/L
+07/17/2017,5,METERS,11.2,DEGREES C,2.6,MG/L
+07/17/2017,6,METERS,8.9,DEGREES C,.2,MG/L
+07/17/2017,7,METERS,7.4,DEGREES C,.2,MG/L
+07/17/2017,8,METERS,6.8,DEGREES C,.1,MG/L
+07/17/2017,9,METERS,6.3,DEGREES C,.1,MG/L
+08/14/2017,1,METERS,23.8,DEGREES C,8.9,MG/L
+08/14/2017,2,METERS,22.9,DEGREES C,8.9,MG/L
+08/14/2017,3,METERS,21.8,DEGREES C,9.2,MG/L
+08/14/2017,4,METERS,16.2,DEGREES C,5.3,MG/L
+08/14/2017,5,METERS,11.7,DEGREES C,.4,MG/L
+08/14/2017,6,METERS,9.2,DEGREES C,.3,MG/L
+08/14/2017,7,METERS,7.7,DEGREES C,.2,MG/L
+08/14/2017,8,METERS,7,DEGREES C,.1,MG/L
+08/14/2017,9,METERS,6.5,DEGREES C,.1,MG/L
+08/14/2017,10,METERS,6.1,DEGREES C,.1,MG/L
+09/07/2017,1,METERS,19,DEGREES C,8.77,MG/L
+09/07/2017,2,METERS,18.97,DEGREES C,8.58,MG/L
+09/07/2017,3,METERS,18.95,DEGREES C,8.61,MG/L
+09/07/2017,4,METERS,16.36,DEGREES C,2.88,MG/L
+09/07/2017,5,METERS,11.25,DEGREES C,.45,MG/L
+09/07/2017,6,METERS,9.34,DEGREES C,.35,MG/L
+09/07/2017,7,METERS,7.84,DEGREES C,.25,MG/L
+09/07/2017,8,METERS,7.28,DEGREES C,.21,MG/L
+09/07/2017,9,METERS,6.57,DEGREES C,.17,MG/L
+09/07/2017,,,19.0,C,8.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/09/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/13/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/07/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/25/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/21/2003,DEEP SPOT - NEAR BOTTOM    
+09/18/2004,Clear day and cloudless.  5 mph +- wind.  No boats.  No fauna seen.  72 F air.  68 F at 1 ft.    
+09/25/2004,Very similar observations to 9/18!    
+10/09/2004,Mostly clear- calm.  No boater- no animals seen.    
+10/25/2004,Heavy rain Sat.  So I went out on Sunday.  Cool 56 F air.  Water temp 55 F at 1 ft. and 7ft.  2 fishermen and 1 boat.  No fauna.    
+06/04/2005,Cloudy- windy- no boats.  No animals.    
+06/14/2005,Overcast- windy.  No animals or people.    
+06/21/2005,Clear and sunny.  No fishermen or animals.    
+07/04/2005,Overcast.  No fishing or boaters or animals.    
+07/22/2005,Beautiful- warm.  1 boat.  Clear sky.  No critters. Deep Secchi reading.    
+08/13/2005,90 F- beautiful.  No critters - human or otherwise.    
+08/27/2005,Sunny- warm- several fishermen.    
+09/06/2005,Overcast and pleasant.  Water is 78 F at 5 feet.    
+09/27/2005,Beautiful day- 2 fishermen.  Water 72 F at 7 feet.    
+10/30/2005,Nice day- cool.  No critters - human or otherwise.    
+06/06/2007,It was not the best test conditions being too windy.  Let out 35 feet of anchor.  Two weeks ago the lake was clear and now the lake is murky.  If the lake does the same as last year it will become clear again by August.  I would not want to swim in the current conditions.
+06/13/2007,Anchor down 35 feet.  Excellent conditions for testing the water.  Water is still murky.
+06/22/2007,Anchor down 35 feet.  Calm and sunny with water temp at 79 degrees.  Recent heavy rain of 2 inches.
+06/28/2007,36 feet of anchor.  Water temp 81 degrees.
+07/13/2007,The lake has a problem and needs chemical testing.  It is as bad as I have seen it in 22 years.  Reading was taken at anchor of 34 feet and 78 degrees water temperature.
+07/30/2007,The lake is healing.  It is getting clear.  I even went swimming which I would not do before because of the way the water looked.  Anchor was down 36 feet and temp was 82 degrees. 
+08/13/2007,34 Feet of anchor.  Water is 82 degrees and clear.  I can see some green bloom floating on the surface of the water but not much.  I expect the water will clear up even more to a depth of 10 to 12 feet.
+08/30/2007,The lake is clear.  It looks like it has healed from the dirty look in June- and July.  Anchor was at 35 feet and water temp was 77 degrees.
+05/15/2008,Took a benchmark reading before the water got warm.  
+Anchored at 35 feet. Anchored at 35 feet
+06/02/2008,Anchored in 34 feet of water.  Sky clear but clouds approaching.
+06/18/2008,Cloudy with peeks of sun.  Over 3 inches of rain.
+07/04/2008,Anchored in 34 feet of water.  Clear- calm and sunny.
+07/20/2008,Partly cloudy.  Took reading between clouds.  Anchored in 34 feet of water
+07/28/2008,Sunny- 35 feet of anchor.
+07/30/2008,Water looks bad.  Took a reading just to see how bad.
+08/26/2008,34 feet of anchor.
+08/29/2008,Off Pier
+06/04/2009,35 feet of anchor.  Clear sky. No wind.
+07/05/2009,30 feet of water- Clear- Windy
+07/15/2009,34 feet of anchor- partly cloudy- some wind.
+08/12/2009,Sunny- calm.
+08/24/2009,34 feet of anchor.  Partly cloudy.  a little wind.
+07/10/2010,Clear skies
+07/26/2010,Clear skies no wind.
+08/15/2010,Sunny- windy-warm.
+08/28/2010,Sunny and windy.
+09/12/2010,Sunny Windy-
+07/11/2011,Clear some wind
+07/13/2011,Partly Cloudy some wind
+07/20/2011,Clear some wind
+07/29/2011,Clear some wind
+06/10/2012,Some clouds- windy
+07/07/2012,Clear some wind
+07/20/2012,Sunny
+07/23/2012,Clear and windy
+08/03/2012,Clear- sunny- no wind
+08/25/2012,Hazy
+09/02/2012,Sunny- clear- some wind
+05/30/2014,Sunny- calm- clear
+07/04/2014,Clear- brown
+07/21/2014,Sunny- some wind-
+08/05/2014,Clear- calm
+08/06/2014,Algae development moderate
+Quantra 
+Water fairly green
+winds 5mph out of east
+IS depth 0-2m
+09/07/2014,No wind- clear
+06/12/2016,After a 1" rain.  Impaired water
+07/26/2016,Green algae on top of the water...
+08/16/2016,Algae on top of water
+06/27/2017,Lots of rain so far this season...
+
+
+
+
+Start Date,Group Name,Project Name
+02/09/1976,Data Collectors,Migrated from STORET Legacy
+04/13/1976,Data Collectors,Migrated from STORET Legacy
+07/07/1976,Data Collectors,Migrated from STORET Legacy
+10/25/1976,Data Collectors,Migrated from STORET Legacy
+03/01/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/21/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/21/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/16/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/21/2003,Mary Gansberg,TRI-LAKES ASSN.: Krohn's Lake Baseline Diagnostic Study
+09/18/2004,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/25/2004,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+10/09/2004,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+10/25/2004,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/04/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/14/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/21/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/04/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/22/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/13/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/27/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/06/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/27/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+10/30/2005,Bill Iwen,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/06/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/13/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/22/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/28/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/13/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/30/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/13/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/30/2007,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+05/15/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/02/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/18/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/04/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/20/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/28/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/30/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/26/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/29/2008,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/04/2009,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/05/2009,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/15/2009,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/12/2009,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/24/2009,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/10/2010,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/26/2010,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/15/2010,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/22/2010,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/28/2010,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/12/2010,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/25/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/11/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/13/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/20/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/29/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/05/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/01/2011,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/10/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/07/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/20/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/23/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/03/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/25/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/02/2012,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/17/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/24/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/01/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/12/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/03/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/14/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/23/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/07/2013,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+05/30/2014,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/04/2014,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/21/2014,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/05/2014,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/06/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+09/07/2014,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/23/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/29/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/08/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/15/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/24/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/01/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/09/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/17/2015,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+05/30/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/08/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/12/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/24/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/02/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/04/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/18/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/26/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/26/2016,Mary Gansberg,Directed Lakes 2016 Gansberg
+08/15/2016,Mary Gansberg,Directed Lakes 2016 Gansberg
+08/16/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/03/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/09/2016,Mary Gansberg,Directed Lakes 2016 Gansberg
+09/12/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/18/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+11/01/2016,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+06/27/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/05/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+07/17/2017,HOLLY STEGEMANN,Directed Lakes 2017 Gansberg
+07/17/2017,Mary Gansberg,Directed Lakes 2017 Gansberg
+07/29/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/13/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/14/2017,HOLLY STEGEMANN,Directed Lakes 2017 Gansberg
+08/14/2017,Mary Gansberg,Directed Lakes 2017 Gansberg
+08/22/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+08/30/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle
+09/07/2017,REBBECA A KLEMME- HOLLY A STEGEMANN,Directed Lakes 2017 Gansberg
+09/23/2017,Don Strand,Citizen Lake Monitoring - Water Quality - Krohns Lake; Middle

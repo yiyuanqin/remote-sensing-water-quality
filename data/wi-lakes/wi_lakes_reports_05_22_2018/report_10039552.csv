@@ -1,0 +1,99 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Finnegan Lake,Oconto,420600,NE,43,,10039552,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18137035,05/30/2013,9,NO,2.7,,19.8,45,51,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137035,07/23/2013,8,N,2.4,3.6,25.8,47,53,44,,,,,
+18137035,08/20/2013,10,N,3,2.11,19.3,44,51,40,,,,,
+18137035,09/05/2013,,,,2.53,20.4,,52,42,,,,,
+74351568,04/30/2014,5,NO,1.5,,42.9,54,57,,,,,,
+7000093,07/25/2014,9,,2.7,,,45,,,,,CLEAR,,
+74351568,07/25/2014,9,,2.7,4.29,17.2,45,50,46,,,,,
+18137035,08/21/2014,,,,,,,,,,,,,
+74351568,08/22/2014,,,,3.46,18.7,,51,44,,,,,
+74351568,09/10/2014,9.2,N,2.8,3.16,16.1,45,50,43,,,,,
+125862804,07/19/2016,15,N,4.6,2.38,23.3,38,53,41,,,CLEAR,,2-Very minor aesthetic problems
+125862804,08/24/2016,13,N,4,4.43,19.4,40,51,46,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125862804,09/15/2016,15.5,N,4.7,2.47,18.1,38,51,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/30/2013,3,FEET,20.19,DEGREES C,7.57,MG/L
+05/30/2013,6,FEET,18.04,DEGREES C,7.84,MG/L
+05/30/2013,9,FEET,15.22,DEGREES C,8.56,MG/L
+05/30/2013,12,FEET,10.53,DEGREES C,7.29,MG/L
+05/30/2013,15,FEET,6394,DEGREES C,4392,MG/L
+05/30/2013,18,FEET,6.79,DEGREES C,2.92,MG/L
+07/23/2013,,,25.5,C,,
+08/20/2013,,,24.8,C,,
+04/30/2014,,,5.5,C,,
+07/25/2014,1,METERS,24.1,DEGREES C,6.5,MG/L
+07/25/2014,2,METERS,24.1,DEGREES C,6.5,MG/L
+07/25/2014,3,METERS,22.5,DEGREES C,6.1,MG/L
+07/25/2014,4,METERS,17.5,DEGREES C,8.2,MG/L
+07/25/2014,5,METERS,11.6,DEGREES C,.9,MG/L
+07/25/2014,,,24.1,C,6.5,MG/L
+08/21/2014,0,FEET,22.3,DEGREES C,4.9,MG/L
+08/21/2014,3,FEET,22.21,DEGREES C,4.7,MG/L
+08/21/2014,6,FEET,21.93,DEGREES C,3.32,MG/L
+08/21/2014,9,FEET,21.81,DEGREES C,3.21,MG/L
+08/21/2014,12,FEET,2080,DEGREES C,3.25,MG/L
+08/21/2014,15,FEET,15.87,DEGREES C,.29,MG/L
+08/21/2014,18,FEET,10.69,DEGREES C,0,MG/L
+08/21/2014,21,FEET,8.84,DEGREES C,0,MG/L
+08/21/2014,24,FEET,7.25,DEGREES C,0,MG/L
+08/21/2014,27,FEET,7.24,DEGREES C,0,MG/L
+08/21/2014,30,FEET,7.2,DEGREES C,0,MG/L
+07/19/2016,0,METERS,24.87,DEGREES C,7.33,MG/L
+07/19/2016,1,METERS,24.59,DEGREES C,7.23,MG/L
+07/19/2016,2,METERS,24.1,DEGREES C,6.9,MG/L
+07/19/2016,3,METERS,21.5,DEGREES C,6.18,MG/L
+07/19/2016,4,METERS,15.89,DEGREES C,7.12,MG/L
+07/19/2016,5,METERS,11.01,DEGREES C,3.65,MG/L
+07/19/2016,6,METERS,8.32,DEGREES C,.6,MG/L
+07/19/2016,7,METERS,7,DEGREES C,.29,MG/L
+07/19/2016,8,METERS,6.28,DEGREES C,.13,MG/L
+07/19/2016,9,METERS,6.07,DEGREES C,.06,MG/L
+07/19/2016,10,METERS,5.73,DEGREES C,.04,MG/L
+07/19/2016,,,24.87,C,7.33,MG/L
+08/24/2016,0,METERS,24.14,DEGREES C,5.09,MG/L
+08/24/2016,1,METERS,24.07,DEGREES C,4.78,MG/L
+08/24/2016,2,METERS,23.84,DEGREES C,2.8,MG/L
+08/24/2016,3,METERS,22.72,DEGREES C,1.48,MG/L
+08/24/2016,4,METERS,17.33,DEGREES C,1,MG/L
+08/24/2016,5,METERS,12.85,DEGREES C,.4,MG/L
+08/24/2016,6,METERS,9.68,DEGREES C,.23,MG/L
+08/24/2016,7,METERS,7.58,DEGREES C,.08,MG/L
+08/24/2016,8,METERS,6.8,DEGREES C,.02,MG/L
+08/24/2016,9,METERS,6.54,DEGREES C,0,MG/L
+08/24/2016,,,24.1,C,5.1,MG/L
+09/15/2016,,,21.12,C,4.95,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/2014,QuantaSLH#: FL-4
+
+
+
+
+Start Date,Group Name,Project Name
+05/30/2013,Brenda Nordin,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+07/23/2013,Brenda Nordin,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+08/20/2013,Brenda Nordin,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+09/05/2013,Brenda Nordin,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+04/30/2014,Amanda Perdzock,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+07/25/2014,Amanda Perdzock,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+07/25/2014,Mary Gansberg,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+08/21/2014,Brenda Nordin,Proposed SER Legacy and Historical Data Entry - East District 
+08/22/2014,Amanda Perdzock,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+09/10/2014,Amanda Perdzock,Lower Oconto River Watershed 303(d) waters evaluation and Lakes - NER_05_CMP14 - Year 2
+07/19/2016,Brenda L Nordin- TRAVIS J KINNING,Finnegan Lake Follow-up
+08/24/2016,Brenda L Nordin- TRAVIS J KINNING,Finnegan Lake Follow-up
+09/15/2016,Brenda L Nordin- TRAVIS J KINNING,Finnegan Lake Follow-up

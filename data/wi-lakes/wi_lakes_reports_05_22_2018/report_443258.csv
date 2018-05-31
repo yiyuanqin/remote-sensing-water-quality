@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Silverbass Lake,Oneida,1017800,NO,44,,443258,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/02/1979,,,,,,,,,,,,,
+1,07/20/1982,,,,11,20,,51,53,,,,,
+1,10/12/2000,,,,1,7,,43,35,,,,,
+19205950,10/04/2016,,,,,22.9,,52,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/1979,,,23,C,,
+07/20/1982,,,24.5,C,7.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/02/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/20/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/02/1979,Data Collectors,Migrated from STORET Legacy
+07/20/1982,Data Collectors,Migrated from STORET Legacy
+10/12/2000,Data Collectors,LAKE CLASSIFICATION - FISHERIE
+10/04/2016,Lake Remote Sensing Pilot,Long-term lake chemistry changes to acid deposition; revisiting Wisconsin Early Response Lakes 

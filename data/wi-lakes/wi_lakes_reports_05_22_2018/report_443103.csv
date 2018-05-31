@@ -1,0 +1,36 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+George Lake,Oneida,1569600,NO,44,,443103,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/05/1979,,,,,,,,,,,,,
+130849514,06/29/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/05/1979,,,22,C,,
+06/29/2016,3,FEET,75.5,DEGREES F,8.01,MG/L
+06/29/2016,6,FEET,74.2,DEGREES F,8.14,MG/L
+06/29/2016,9,FEET,73.6,DEGREES F,8.09,MG/L
+06/29/2016,12,FEET,69.7,DEGREES F,3.32,MG/L
+06/29/2016,15,FEET,64.9,DEGREES F,.14,MG/L
+06/29/2016,18,FEET,61.6,DEGREES F,.07,MG/L
+06/29/2016,21,FEET,59.2,DEGREES F,.05,MG/L
+06/29/2016,24,FEET,57.4,DEGREES F,.04,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/05/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+09/05/1979,Data Collectors,Migrated from STORET Legacy
+06/29/2016,Stephanie Boismenue and Abbi Bowman,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

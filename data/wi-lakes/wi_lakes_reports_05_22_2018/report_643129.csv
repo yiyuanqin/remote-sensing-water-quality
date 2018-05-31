@@ -1,0 +1,179 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Flambeau Lake,Vilas,2320500,NO,64,,643129,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/16/1973,,,,,20,,51,,,,,,
+1,11/14/1973,,,,,30,,54,,,,,,
+1,03/13/1974,,,,,30,,54,,,,,,
+1,05/07/1974,,,,,20,,51,,,,,,
+1,08/13/1974,,,,,10,,46,,,,,,
+1,10/16/1974,,,,,40,,57,,,,,,
+1,03/11/1975,,,,,0,,54,,,,,,
+32181067,05/27/2011,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+32181067,06/29/2011,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+32181067,08/29/2011,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+32181067,04/29/2012,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+32181067,07/02/2012,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+120591208,08/24/2016,,,,,,,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+120591208,09/24/2016,,,,,,,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23072101,06/02/2017,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+23072101,06/21/2017,,,,1.99,17.8,,50,40,,,,,
+23072101,07/10/2017,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+23072101,07/20/2017,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+23072101,07/24/2017,,,,2.4,10.3,,46,41,,,,,
+23072101,08/21/2017,,,,2.66,10.1,,46,42,,,,,
+23072101,08/23/2017,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/16/1973,,,10.5556,C,.6,MG/L
+11/14/1973,,,4.44444,C,11,MG/L
+03/13/1974,,,1.11111,C,2.7,MG/L
+05/07/1974,,,44.5,C,10,MG/L
+08/13/1974,,,10.5556,C,.6,MG/L
+10/16/1974,,,48.5,C,9.4,MG/L
+03/11/1975,,,-.555556,C,11.7,MG/L
+06/02/2017,1,FEET,64.5,DEGREES F,9.62,MG/L
+06/02/2017,2,FEET,63.3,DEGREES F,9.79,MG/L
+06/02/2017,3,FEET,60.5,DEGREES F,9.91,MG/L
+06/02/2017,4,FEET,61,DEGREES F,9.97,MG/L
+06/02/2017,5,FEET,60.3,DEGREES F,9.97,MG/L
+06/02/2017,6,FEET,59.9,DEGREES F,10.01,MG/L
+06/02/2017,7,FEET,59.2,DEGREES F,10.03,MG/L
+06/02/2017,8,FEET,59.5,DEGREES F,10.04,MG/L
+06/02/2017,9,FEET,59.5,DEGREES F,10.04,MG/L
+06/02/2017,10,FEET,58.9,DEGREES F,10.02,MG/L
+06/02/2017,11,FEET,58.4,DEGREES F,10.07,MG/L
+06/02/2017,12,FEET,58.2,DEGREES F,10.07,MG/L
+06/02/2017,15,FEET,57.6,DEGREES F,10.04,MG/L
+06/02/2017,20,FEET,56.7,DEGREES F,10.07,MG/L
+06/02/2017,25,FEET,54.6,DEGREES F,9.93,MG/L
+06/02/2017,30,FEET,51.3,DEGREES F,9.27,MG/L
+06/02/2017,35,FEET,49.4,DEGREES F,8.13,MG/L
+06/02/2017,40,FEET,48.8,DEGREES F,8.02,MG/L
+06/02/2017,45,FEET,48.2,DEGREES F,7.97,MG/L
+06/02/2017,50,FEET,47.4,DEGREES F,7.72,MG/L
+06/02/2017,55,FEET,47.3,DEGREES F,7.72,MG/L
+06/02/2017,60,FEET,46.7,DEGREES F,6.84,MG/L
+06/02/2017,65,FEET,46.4,DEGREES F,5.96,MG/L
+06/02/2017,70,FEET,46.2,DEGREES F,5.33,MG/L
+06/02/2017,75,FEET,45.7,DEGREES F,.14,MG/L
+07/10/2017,1,FEET,75.7,DEGREES F,8.52,MG/L
+07/10/2017,2,FEET,74,DEGREES F,8.59,MG/L
+07/10/2017,3,FEET,73.1,DEGREES F,8.69,MG/L
+07/10/2017,4,FEET,72.5,DEGREES F,8.73,MG/L
+07/10/2017,5,FEET,72.2,DEGREES F,8.75,MG/L
+07/10/2017,6,FEET,72.1,DEGREES F,8.78,MG/L
+07/10/2017,7,FEET,72,DEGREES F,8.79,MG/L
+07/10/2017,8,FEET,71.9,DEGREES F,8.79,MG/L
+07/10/2017,9,FEET,71.8,DEGREES F,8.78,MG/L
+07/10/2017,10,FEET,71.7,DEGREES F,8.78,MG/L
+07/10/2017,11,FEET,71.7,DEGREES F,8.76,MG/L
+07/10/2017,12,FEET,71.6,DEGREES F,8.76,MG/L
+07/10/2017,15,FEET,69.8,DEGREES F,9.32,MG/L
+07/10/2017,20,FEET,66.8,DEGREES F,8.86,MG/L
+07/10/2017,25,FEET,61,DEGREES F,8.56,MG/L
+07/10/2017,30,FEET,54.9,DEGREES F,7.46,MG/L
+07/10/2017,35,FEET,51.3,DEGREES F,5.46,MG/L
+07/10/2017,40,FEET,49.9,DEGREES F,4.4,MG/L
+07/10/2017,45,FEET,49.4,DEGREES F,3.85,MG/L
+07/10/2017,50,FEET,48.9,DEGREES F,3.74,MG/L
+07/10/2017,55,FEET,47.9,DEGREES F,3.14,MG/L
+07/10/2017,60,FEET,47.9,DEGREES F,2.09,MG/L
+07/10/2017,65,FEET,47.2,DEGREES F,.54,MG/L
+07/10/2017,70,FEET,47,DEGREES F,.11,MG/L
+07/20/2017,1,FEET,73.8,DEGREES F,8.7,MG/L
+07/20/2017,2,FEET,74,DEGREES F,8.68,MG/L
+07/20/2017,3,FEET,74.1,DEGREES F,8.68,MG/L
+07/20/2017,4,FEET,74.1,DEGREES F,8.68,MG/L
+07/20/2017,5,FEET,73.9,DEGREES F,8.7,MG/L
+07/20/2017,6,FEET,74,DEGREES F,8.68,MG/L
+07/20/2017,7,FEET,73.8,DEGREES F,8.7,MG/L
+07/20/2017,8,FEET,73.4,DEGREES F,8.74,MG/L
+07/20/2017,9,FEET,73.2,DEGREES F,8.7,MG/L
+07/20/2017,10,FEET,73.1,DEGREES F,8.72,MG/L
+07/20/2017,11,FEET,73,DEGREES F,8.72,MG/L
+07/20/2017,12,FEET,72.9,DEGREES F,8.72,MG/L
+07/20/2017,15,FEET,72.7,DEGREES F,8.67,MG/L
+07/20/2017,20,FEET,67.2,DEGREES F,8.65,MG/L
+07/20/2017,25,FEET,61.2,DEGREES F,8.19,MG/L
+07/20/2017,30,FEET,54,DEGREES F,6.36,MG/L
+07/20/2017,35,FEET,51.1,DEGREES F,4.22,MG/L
+07/20/2017,40,FEET,49.7,DEGREES F,3.09,MG/L
+07/20/2017,45,FEET,49.3,DEGREES F,2.71,MG/L
+07/20/2017,50,FEET,48.2,DEGREES F,2.99,MG/L
+07/20/2017,55,FEET,48.6,DEGREES F,2.51,MG/L
+07/20/2017,60,FEET,48,DEGREES F,1.29,MG/L
+07/20/2017,65,FEET,47.6,DEGREES F,.33,MG/L
+07/20/2017,70,FEET,47,DEGREES F,.12,MG/L
+08/23/2017,1,FEET,68.1,DEGREES F,8.79,MG/L
+08/23/2017,2,FEET,68.7,DEGREES F,8.67,MG/L
+08/23/2017,3,FEET,68.9,DEGREES F,8.64,MG/L
+08/23/2017,4,FEET,69,DEGREES F,8.6,MG/L
+08/23/2017,5,FEET,69.1,DEGREES F,8.58,MG/L
+08/23/2017,6,FEET,69.2,DEGREES F,8.58,MG/L
+08/23/2017,7,FEET,69.2,DEGREES F,8.56,MG/L
+08/23/2017,8,FEET,69.2,DEGREES F,8.55,MG/L
+08/23/2017,9,FEET,69.2,DEGREES F,8.53,MG/L
+08/23/2017,10,FEET,69.3,DEGREES F,8.53,MG/L
+08/23/2017,11,FEET,69.3,DEGREES F,8.51,MG/L
+08/23/2017,12,FEET,69.3,DEGREES F,8.5,MG/L
+08/23/2017,15,FEET,69.3,DEGREES F,8.49,MG/L
+08/23/2017,20,FEET,69.3,DEGREES F,8.45,MG/L
+08/23/2017,25,FEET,66.8,DEGREES F,7.08,MG/L
+08/23/2017,30,FEET,57.5,DEGREES F,4.91,MG/L
+08/23/2017,35,FEET,51.7,DEGREES F,1.68,MG/L
+08/23/2017,40,FEET,50.4,DEGREES F,1.01,MG/L
+08/23/2017,45,FEET,49.7,DEGREES F,.77,MG/L
+08/23/2017,50,FEET,49.4,DEGREES F,.61,MG/L
+08/23/2017,55,FEET,49,DEGREES F,.56,MG/L
+08/23/2017,60,FEET,48.3,DEGREES F,.12,MG/L
+08/23/2017,65,FEET,47.8,DEGREES F,.09,MG/L
+08/23/2017,70,FEET,47.4,DEGREES F,.08,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/16/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/14/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/13/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/13/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/16/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/11/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/27/2011,sunny- light clouds
+06/29/2011,sunny- clear- light clouds
+08/29/2011,sunny- clear
+04/29/2012,light clouds
+
+
+
+
+Start Date,Group Name,Project Name
+08/16/1973,Data Collectors,Migrated from STORET Legacy
+11/14/1973,Data Collectors,Migrated from STORET Legacy
+03/13/1974,Data Collectors,Migrated from STORET Legacy
+05/07/1974,Data Collectors,Migrated from STORET Legacy
+08/13/1974,Data Collectors,Migrated from STORET Legacy
+10/16/1974,Data Collectors,Migrated from STORET Legacy
+03/11/1975,Data Collectors,Migrated from STORET Legacy
+05/27/2011,Norm Wetzel- Roberta Gast,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+06/29/2011,Norm Wetzel- Roberta Gast,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+08/29/2011,Norm Wetzel- Roberta Gast,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+04/29/2012,Norm Wetzel- Roberta Gast,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+07/02/2012,Norm Wetzel- Roberta Gast,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+08/24/2016,Carol Warden and Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+09/24/2016,Carol Warden and Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+06/02/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+06/21/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+07/10/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+07/20/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+07/24/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+08/21/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole
+08/23/2017,Tom Skonie,Citizen Lake Monitoring - Water Quality - Flambeau Lake - Deep Hole

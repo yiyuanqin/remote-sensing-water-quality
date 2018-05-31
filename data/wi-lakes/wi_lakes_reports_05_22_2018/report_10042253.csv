@@ -1,0 +1,126 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wisconsin,Columbia,1260600,SC,11,,10042253,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+99924705,06/11/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99924705,06/25/2014,2.5,YES,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,07/03/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+99924705,07/11/2014,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+99924705,07/30/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,08/05/2014,3.25,YES,1,,,60,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+99924705,08/13/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,08/22/2014,2.5,YES,0.8,,,64,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99924705,08/28/2014,2.25,YES,0.7,,,65,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+99924705,09/06/2014,2.25,NO,0.7,,,65,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+99924705,09/13/2014,2.5,YES,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+99924705,09/23/2014,2.5,YES,0.8,,,64,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,10/02/2014,3.75,YES,1.1,,,58,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+99924705,04/29/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+99924705,05/04/2015,2.5,NO,0.8,,,64,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,05/13/2015,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,05/22/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,05/28/2015,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,06/03/2015,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,06/10/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,06/20/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,06/25/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+89214715,07/15/2015,,,,69.6,64.9,,60,67,,,,,
+99924705,07/15/2015,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,07/22/2015,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,07/31/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,08/05/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,08/07/2015,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924705,08/26/2015,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,09/01/2015,2.5, ,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924705,09/09/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+7505218,06/20/2017,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,07/20/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,08/08/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,09/12/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/11/2014,Rained earliet in day- wind 5 mph- not much boat traffic- partially cloudy
+06/25/2014,east wind 5mph- earlier rain- cloudy with peeks of sun- little boat traffic (one skier)- hazy.
+07/03/2014,slight wind- beautiful sunny/partly cloudy day- moderate boat traffic- 75 degrees and great day!
+07/11/2014,light rain earlier- little wind- mostly cloudy- No boat traffic at all- grandkids with us.
+07/30/2014,partly cloudy and cool- little wind- little boat traffic- partly sunny
+08/05/2014,MUCH algae- slight wind- big storm 2 days ago with large tree damage- leaves + dirt on houses and windows- and debris in lake.  Clumps of blue-green algae as well as routinely seen flecks of algae.  Active boat with tubing in testing area.
+08/13/2014,a bit windy but no white caps.  Few boats in area but no skiers or tubing.  sunny/partly cloudy nice cool day with low humidity.
+08/22/2014,no wind- thick stinky algae with blooms at shore and 150-200 feet out but less in middle of bay- heavy rain yesterday- mostly sunny with high clouds- hot and humid (90 degrees).
+08/28/2014,light south winds and sunny- no boat traffic- thick black algae yesterday but mostly blown out today- high water level for unknown reason.
+09/06/2014,8-9 mph winds from northwest- green algae flecks throughout- gorgeous sunny clear day- small amount boat traffic.
+09/13/2014,sunny with moderate wind- very cool=45 degrees- no boat traffic- much algae even in middle of lake.  Performed by kayak.
+09/23/2014,very sunny with light winds- 72 degrees- small amount boat traffic-algae blooms at shore and lots of algae throughout.  Performed by kayak.
+10/02/2014,very cloudy- rain predicted- no wind....lake like glass- no boats- algae clumps and sediment throughout.  Buoys out with no gps so unsure of accurate location but fairly close.  Performed by kayak.
+04/29/2015,lake like glass- no wind- no boat traffic- water very clear--can see to bottom at shoreline.
+05/04/2015,sunny and 62 degrees- 8 mph wind- no boat traffic- clear water.
+05/13/2015,sunny- 10 mph wind- slight boat traffic
+05/22/2015,sunny- no wind- slight boat traffic.
+05/28/2015,sunny- 7 mph wind- no boat traffic- 5 inches rain two days ago- fist size pieces of floating green algae.
+06/03/2015,sunny- 7 mph wind- little boat traffic- algae flecks throughout
+06/10/2015,test per kayak- sunny- 8 mph wind- little boat traffic- algae flecks.
+06/20/2015,rain pending- cool breeze- little boat traffic- algae flecks throughout
+06/25/2015,partly cloudy- no boat traffic
+07/15/2015,sunny- small amount boat traffic- calm with light winds- small clumps of algae
+07/22/2015,sunny/partly cloudy- windy from southwest- moderate boat traffic- algae flecks but not clumps
+08/05/2015,very hot- humid- and sunny with lots of weekend boat traffic.  Slight wind- algae significant at shoreline- but less in middle of lake.
+08/07/2015,cloudy- spitting rain with recent 1 inch rain- very little boat traffic- very few algae flecks seen.
+08/26/2015,cool- partly cloudy- no boat traffic- slight wind- algae significant at shoreline- less in middle of lake.
+09/09/2015,no wind- lots of algae throughout lake and putrid at shoreline.
+06/20/2017,Water temp 71- last week air temp was in 90s- had been raining - sun out now- low wind- few boats out
+07/20/2017,Water 80F- mostly cloudy- hot humid last 3 days- bluegreen algae present low density- wind 5mph W- 3/4" rain last night
+08/08/2017,Water temp 73F- Sunny- SW wind 10 mph- slight algal bloom- past week cool- little rain- river normal Water temp 73F- Sunny- SW wind 10 mph- no algal bloom- past week cool- little rain- river normal Water 73F- Sunny- light SW wind- past week cool- little rain- river normal- slight blue green algae Water temp 73F- moderate S wind- Sunny- past week cool- little rain- river normal- slight blue green algal bloom
+09/12/2017,sunny- light wind-water 66F- no bluegreen algae- cooler weather lately- no rain- main channel has bluegreen algae all way down lake
+
+
+
+
+Start Date,Group Name,Project Name
+06/11/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+06/25/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/03/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/11/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/30/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/05/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/13/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/22/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/28/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+09/06/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+09/13/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+09/23/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+10/02/2014,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+04/29/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+05/04/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+05/13/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+05/22/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+05/28/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+06/03/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+06/10/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+06/20/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+06/25/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/15/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/15/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/22/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/31/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/05/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/07/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/26/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+09/01/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+09/09/2015,Connie Ellis Ament,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+06/20/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+07/20/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+08/08/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Between Stoners Bay and Pine Bluff
+08/08/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Upper Reach of Lake Wisconsin
+08/08/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade
+09/12/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin; Whalen's Grade

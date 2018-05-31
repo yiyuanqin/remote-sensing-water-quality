@@ -1,0 +1,701 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fish Lake,Burnett,2464500,NO,7,,073081,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190828,07/17/1986,8.5,NO,2.6,,,46,,,,,,GREEN,
+8190828,07/27/1986,7.5,NO,2.3,,,48,,,,,,GREEN,
+8190828,08/17/1986,9.25,NO,2.8,,,45,,,,,,BLUE/GREEN,
+8190828,08/23/1986,9.75,NO,3,,,44,,,,,,GREEN,
+8190828,08/30/1986,10,NO,3,,,44,,,,,,GREEN/BROWN,
+8190828,09/06/1986,10.75,NO,3.3,,,43,,,,,CLEAR,GREEN,
+8190828,09/13/1986,11.6,NO,3.5,,,42,,,,,CLEAR,,
+8190828,09/23/1986,11.5,NO,3.5,,,42,,,,,,BLUE/GREEN,
+8190423,10/01/1986,12,NO,3.6,,,41,,,,,,GREEN,
+8191021,05/23/1987,19,NO,5.8,,,35,,,,,CLEAR,,
+8191021,05/30/1987,16,NO,4.9,,,37,,,,,CLEAR,,
+8191021,06/09/1987,12.8,NO,3.9,,,40,,,,,CLEAR,,
+8191021,06/15/1987,14,NO,4.3,,,39,,,,,CLEAR,,
+8191021,06/22/1987,11.8,NO,3.6,,,42,,,,,CLEAR,,
+8191021,06/29/1987,12.6,NO,3.8,,,41,,,,,CLEAR,BLUE,
+8191021,07/06/1987,11.5,NO,3.5,,,42,,,,,CLEAR,,
+8191021,07/14/1987,11.5,NO,3.5,,,42,,,,,CLEAR,,
+8191021,07/21/1987,10.8,NO,3.3,,,43,,,,,,,
+8191021,07/27/1987,11.2,NO,3.4,,,42,,,,,CLEAR,,
+8191021,08/06/1987,13.1,NO,4,,,40,,,,,,,
+8191021,08/13/1987,13.7,NO,4.2,,,39,,,,,,,
+8191021,08/20/1987,13.7,NO,4.2,,,39,,,,,CLEAR,,
+8191021,08/28/1987,15.7,NO,4.8,,,37,,,,,CLEAR,,
+8191021,09/04/1987,15.5,NO,4.7,,,38,,,,,CLEAR,,
+8191021,09/11/1987,18.2,NO,5.5,,,35,,,,,CLEAR,,
+8191021,09/22/1987,20.7,NO,6.3,,,33,,,,,CLEAR,,
+8191021,05/13/1988,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191021,05/20/1988,16.4,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,06/07/1988,10.3,NO,3.1,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,06/20/1988,14.8,NO,4.5,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,07/01/1988,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,07/07/1988,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,07/14/1988,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,07/21/1988,13.25,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,07/30/1988,13.8,NO,4.2,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,08/10/1988,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,08/23/1988,14.8,NO,4.5,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,08/31/1988,16.4,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191021,09/17/1988,19,NO,5.8,,,35,,,,,CLEAR,BLUE,
+8191021,10/08/1988,22,NO,6.7,,,33,,,,,CLEAR,BLUE,
+8191021,05/16/1989,17,NO,5.2,,,36,,,GAUGE,93.67,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,06/01/1989,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,06/10/1989,18.25,NO,5.5,,,35,,,GAUGE,93.68,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190423,07/02/1989,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190423,07/12/1989,11,NO,3.3,,,43,,,GAUGE,93.52,,GREEN,2-Very minor aesthetic problems
+8190423,07/21/1989,15,NO,4.6,,,38,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190423,08/01/1989,10.75,NO,3.3,,,43,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190423,08/09/1989,13,NO,4,,,40,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190423,08/21/1989,14,NO,4.3,,,39,,,GAUGE,93.48,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191021,09/06/1989,14,NO,4.3,,,39,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191021,09/16/1989,12.5,NO,3.8,,,41,,,GAUGE,93.54,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190423,10/04/1989,11.5,NO,3.5,,,42,,,GAUGE,93.32,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190423,05/21/1990,13.25,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190423,06/04/1990,12.25,NO,3.7,,,41,,,GAUGE,93.42,CLEAR,BLUE,
+8190423,06/14/1990,10.75,NO,3.3,,,43,,,GAUGE,93.46,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,06/19/1990,9.5,NO,2.9,,,45,,,GAUGE,93.56,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,06/29/1990,10.5,NO,3.2,,,43,,,GAUGE,93.66,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,07/10/1990,9.25,NO,2.8,,,45,,,GAUGE,93.58,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,07/18/1990,9.75,NO,3,,,44,,,GAUGE,93.5,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,08/03/1990,9.5,NO,2.9,,,45,,,GAUGE,93.38,,GREEN,
+8190423,08/10/1990,9.75,NO,3,,,44,,,GAUGE,93.3,,GREEN,2-Very minor aesthetic problems
+8190423,08/24/1990,11.25,NO,3.4,,,42,,,GAUGE,93.26,,GREEN,
+8190423,09/26/1990,20.25,NO,6.2,,,34,,,GAUGE,93.36,CLEAR,,1-Beautiful, could not be nicer
+8190423,10/12/1990,22,NO,6.7,,,33,,,GAUGE,93.28,CLEAR,,1-Beautiful, could not be nicer
+8191021,06/06/1991,15.5,NO,4.7,,,38,,,GAUGE,93.9,,GREEN,
+8191021,07/02/1991,13.5,NO,4.1,,,40,,,GAUGE,94,,BROWN,
+8191021,07/17/1991,11.5,NO,3.5,,,42,,,,,,GREEN,
+8191021,07/30/1991,12.75,NO,3.9,,,40,,,GAUGE,94.06,,GREEN,
+8191021,08/12/1991,14,NO,4.3,,,39,,,,,,GREEN,
+8191021,08/26/1991,15.5,NO,4.7,,,38,,,,,,BROWN,
+8191021,09/06/1991,15,NO,4.6,,,38,,,,,,GREEN,
+8191021,09/28/1991,20,NO,6.1,,,34,,,GAUGE,94.1,CLEAR,BLUE,
+8191021,05/26/1992,19,NO,5.8,,,35,,,GAUGE,94.76,CLEAR,,
+8191021,06/11/1992,21.5,NO,6.5,,,33,,,,,CLEAR,,2-Very minor aesthetic problems
+8191021,06/28/1992,17,NO,5.2,,,36,,,GAUGE,94.68,CLEAR,,2-Very minor aesthetic problems
+8191021,07/11/1992,16,NO,4.9,,,37,,,GAUGE,94.92,,GREEN,2-Very minor aesthetic problems
+8191021,07/27/1992,11,NO,3.3,,,43,,,GAUGE,94.86,,GREEN,2-Very minor aesthetic problems
+8191021,08/14/1992,11,NO,3.3,,,43,,,GAUGE,94.76,,BROWN,2-Very minor aesthetic problems
+8191021,08/31/1992,11,NO,3.3,,,43,,,GAUGE,94.7,,BROWN,2-Very minor aesthetic problems
+8191021,09/17/1992,15,NO,4.6,,,38,,,GAUGE,94.7,,GREEN/BROWN,2-Very minor aesthetic problems
+8191021,09/29/1992,16,NO,4.9,,,37,,,GAUGE,94.6,,GREEN/BROWN,2-Very minor aesthetic problems
+8191021,10/25/1992,22,NO,6.7,,,33,,,GAUGE,94.6,,BROWN,2-Very minor aesthetic problems
+1,05/05/1993,,,,2.26,,,,41,,,,,
+8190423,05/05/1993,20,NO,6.1,,9,34,45,,GAUGE,94.68,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/31/1993,,,,3.45,,,,44,,,,,
+8190423,08/31/1993,13.5,NO,4.1,,10,40,46,,GAUGE,94.64,CLEAR,,2-Very minor aesthetic problems
+8190423,07/05/1994,11,NO,3.3,,,43,,,GAUGE,94.6,,GREEN,2-Very minor aesthetic problems
+8190423,07/11/1994,10.5,NO,3.2,3.33,11,43,47,44,GAUGE,94.7,,GREEN,2-Very minor aesthetic problems
+8190423,08/05/1994,13.75,NO,4.2,,,39,,,GAUGE,94.54,,GREEN,2-Very minor aesthetic problems
+8190423,08/16/1994,11.25,NO,3.4,2.4,13,42,48,41,,,CLEAR,,1-Beautiful, could not be nicer
+8190423,09/19/1994,13.25,NO,4,1.75,9,40,45,39,,,,LIGHT GREEN,2-Very minor aesthetic problems
+8190423,07/04/1995,13.5,NO,4.1,,,40,,,GAUGE,94.74,CLEAR,BLUE,2-Very minor aesthetic problems
+8190423,10/10/1995,15,NO,4.6,,,38,,,,,,,
+8190423,07/23/1997,10,NO,3,,,44,,,GAUGE,95.38,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190423,08/26/1997,12,NO,3.6,,,41,,,GAUGE,95.34,CLEAR,GREEN,2-Very minor aesthetic problems
+8189110,06/03/2001,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189110,06/10/2001,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189110,06/17/2001,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,06/24/2001,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,06/30/2001,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,07/01/2001,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189110,07/08/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189110,07/15/2001,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189110,07/22/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189110,07/29/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189110,08/05/2001,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189110,08/12/2001,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189110,08/19/2001,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189110,08/26/2001,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,09/02/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,09/09/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,09/16/2001,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,09/23/2001,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,09/30/2001,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189110,05/27/2002,18,NO,5.5,,5,35,41,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,06/02/2002,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,06/09/2002,13,NO,4,,,40,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189110,06/16/2002,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189110,06/23/2002,15,NO,4.6,1,9,38,45,35,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189110,06/30/2002,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,07/07/2002,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,07/14/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,07/21/2002,11,NO,3.3,2.86,9,43,45,43,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,07/28/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189110,08/04/2002,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,08/11/2002,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,08/18/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,08/25/2002,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189110,09/01/2002,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,09/08/2002,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,09/12/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189110,09/15/2002,15,NO,4.6,3.15,11,38,47,43,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,04/06/2003,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,
+8189110,06/01/2003,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,06/15/2003,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189110,06/29/2003,15,NO,4.6,,,38,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189110,07/13/2003,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,
+8189110,07/20/2003,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,
+8189110,07/27/2003,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,
+8189110,08/03/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,
+8189110,08/10/2003,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,
+8189110,08/17/2003,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,
+8189110,08/31/2003,12,NO,3.6,,,41,,,,,MURKY,GREEN,
+8191323,05/06/2005,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,05/29/2005,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/25/2005,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,07/24/2005,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,08/27/2005,16.5,NO,5,,,37,,,NORMAL,94.84,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,05/21/2006,19.25,NO,5.9,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/03/2006,16.75,NO,5.1,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,07/16/2006,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,08/12/2006,14.5,YES,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,08/20/2006,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/19/2007,15.5,NO,4.7,,,38,,,LOW,993.82,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/29/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/15/2007,14.75,NO,4.5,,,38,,,LOW,993.64,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/24/2007,15,NO,4.6,,,38,,,LOW,993.62,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/30/2007,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/15/2007,11.75,NO,3.6,,,42,,,LOW,993.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/09/2007,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/25/2007,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,05/16/2008,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,05/26/2008,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/15/2008,15.9,NO,4.8,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/22/2008,14.9,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/27/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/07/2008,15.3,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,07/19/2008,14.3,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/26/2008,11.6,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/09/2008,13.9,NO,4.2,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/24/2008,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,09/01/2008,12.9,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,09/21/2008,16.9,NO,5.1,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/09/2009,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,05/30/2009,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/13/2009,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/28/2009,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,07/11/2009,15.6,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/23/2009,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/23/2009,10.5,NO,3.2,,,43,,,LOW,93.04,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/30/2009,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,09/27/2009,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,10/09/2009,11.6,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/16/2010,20.6,NO,6.3,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,05/31/2010,15.25,NO,4.6,,,38,,,LOW,92.92,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/12/2010,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/19/2010,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/26/2010,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/11/2010,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/23/2010,13.75,NO,4.2,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/08/2010,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/29/2010,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,09/17/2010,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,10/15/2010,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/13/2011,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/21/2011,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/04/2011,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/26/2011,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/22/2011,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/31/2011,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,08/27/2011,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,09/24/2011,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,10/15/2011,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/05/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/27/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/22/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/29/2012,15.3,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,07/07/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/19/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/29/2012,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/03/2012,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/16/2012,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/25/2012,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/30/2013,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/27/2013,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/04/2013,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,08/25/2013,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,10/06/2013,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/23/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/26/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/15/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/07/2014,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/26/2014,11,NO,3.3,,,43,,,HIGH,11,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/23/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,09/06/2014,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/26/2015,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/29/2015,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/25/2015,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/22/2016,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/30/2016,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,06/27/2016,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,07/25/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/03/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,08/29/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,09/25/2016,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,04/21/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/24/2017,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,05/29/2017,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,06/26/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,07/22/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191323,08/23/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18663392,09/25/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/05/1993,1,FEET,56,DEGREES F,,
+05/05/1993,26,FEET,47,DEGREES F,,
+05/05/1993,,,47 F,C,,
+08/31/1993,2,FEET,74,DEGREES F,,
+08/31/1993,23,FEET,64,DEGREES F,,
+08/31/1993,,,64 F,C,,
+07/11/1994,3,FEET,75,DEGREES F,,
+07/11/1994,23,FEET,57,DEGREES F,,
+07/11/1994,,,57,C,,
+08/16/1994,3,FEET,71,DEGREES F,,
+08/16/1994,21,FEET,65,DEGREES F,,
+09/19/1994,2,FEET,71,DEGREES F,,
+09/19/1994,22,FEET,65,DEGREES F,,
+09/12/2002,1,FEET,79,DEGREES F,,
+08/25/2007,0,FEET,72.8,DEGREES F,,
+08/25/2007,3,FEET,71.9,DEGREES F,6,MG/L
+08/25/2007,6,FEET,71,DEGREES F,,
+08/25/2007,9,FEET,70.1,DEGREES F,6,MG/L
+08/25/2007,12,FEET,69.8,DEGREES F,6,MG/L
+08/25/2007,15,FEET,69.6,DEGREES F,6,MG/L
+08/25/2007,18,FEET,69,DEGREES F,5,MG/L
+08/25/2007,21,FEET,68.7,DEGREES F,,
+08/25/2007,24,FEET,68.5,DEGREES F,5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/27/1986,Partly cloudy- and rain storm the previous night.    
+08/23/1986,Rain storm on 8/22.    
+08/30/1986,No rain for one week- partly cloudy and breezy.    
+09/06/1986,3 1/2" of rain the early part of this week.  Partly cloudy and breezy.    
+09/13/1986,There was 1 1/2" of rain during this week.  Plus a 1/4" on the 12th.  Sunny breezy on the 13th.    
+09/23/1986,Rain for the past week.  The day of the sample was clear and sunny.    
+10/01/1986,Clear and sunny.    
+06/22/1987,Hazy.    
+05/13/1988,Sunny and bright when water sample was taken.    
+05/20/1988,Sunny but hazy when sample was taken with choppy water fall out from trees.    
+06/07/1988,Sunny and bright when sample was taken- heavy boat traffic memorial day- weeds were floating- water clouded after that.    
+06/20/1988,Sunny and calm- thunderstorms two days ago- weekend was light boat traffic.    
+07/01/1988,Hazy- sunny day.    
+07/07/1988,Choppy water and the weather has been in the 90s.    
+07/14/1988,Sunny and calm.    
+07/30/1988,Sunny.    
+08/10/1988,Hazy sun- choppy water- had three inches of rain last week.    
+08/23/1988,Hazy sun and heavy chop.    
+08/31/1988,Hazy sun- light chop- water temperature is going down- and less boat traffic.    
+09/17/1988,We had an 1 1/4" of rain the day before reading was taken.  Day of reading was sunny and calm.    
+10/08/1988,Sunny- calm- no rain for the past week.  Last reading.    
+05/16/1989,Sample taken when the sun was hazy.    
+06/01/1989,Partly cloudy- light wind 4" of rain since last reading.    
+06/10/1989,Clear sky- only 0.05" rain since 5/29.  Lake dropped 1/10 of a foot in the last two weeks.    
+07/02/1989,No rain since 6/30-6/23 but 1 1/5" on 6/30.  Lake level same- quite heavy water skiing.    
+07/12/1989,No measurable rain since 6/30- extremely hot weather past week- northeast winds sine 7/9.    
+08/01/1989,Had 0.9" of rain since last reading. this past week noticed the young loons living- they are doing good.    
+08/09/1989,Strong winds and thunderstorms on 8/4 at 3: 30 am - 0.4" of rain.    
+08/21/1989,Had 3.1" of rain since 8/9.    
+09/06/1989,Sample taken on a hazy sunny day.  Had about 4" of rain since last reading.    
+09/16/1989,Too cool for swimming.  Staying about the same.    
+10/04/1989,Strong winds since last reading.    
+05/21/1990,Windy- rain the last week- will meet with Dan Ryan and see if we can use out lake gauge readings.    
+06/04/1990,Strong winds- rain 6/2=0.95"- windy- 6/3- ice out on April 9- 1990.  Lake level on 4/9/90  was 93.36.  Can give earlier readings if you want them.    
+06/14/1990,Strong winds and rain 6/11=0.35"- some pollen on the lake- 6/12=0.88"- loons back and only saw one baby.  More rain predicted for weekend.    
+06/19/1990,6/16=1.78" of rain- lake should clear up when wind and rain quit.  More rain predicted for tonight- fishing lake Michigan next five days.    
+06/29/1990,3" rain since last reading and stormy conditions.  Fishing lake Michigan wasn't the greatest (one rainbow- two lakers for the three of us).    
+07/10/1990,Rain- May 1.75"- June 7.26"- stormy July 7".  Weeds showing above water quite a few cut by speed boats.    
+07/18/1990,0.25" of rain since July 11.  Weeds quite tall and being cut loose by boaters.  One baby loon getting along well.    
+08/03/1990,July rainfall only 2.1"- algae level very low.    
+08/10/1990,0.35" of rain this month- very calm today.    
+08/24/1990,Boat traffic light last two weeks- 1.3" of rain on 8/18- northwest. conference was very good.    
+09/26/1990,Too cold for swimming.  No wind and sunny.  August rain was 3.4".  Will try for some more check before pulling pontoon out.  Been on vacation.    
+10/12/1990,Sunny but cool.  Loons still on lake.  Pulling out pontoon this will be the last card.  Sept. rain 4".  The temperature of the water is 42 degrees at 5 and 20 feet.    
+05/26/1992,Sunny and calm for three days and nights.    
+06/11/1992,Very little water skiing and boat traffic- calm and sunny.    
+06/28/1992,Sunny- heavy chop on the water at time of sample.    
+07/11/1992,Calm and sunny.    
+07/27/1992,Light chop and sunny.  Increase in boat traffic.  Weather for the summer has been cool.    
+08/14/1992,Calm and sunny.    
+08/31/1992,Hazy and sunny.    
+09/17/1992,Hazy sun and choppy.    
+09/29/1992,Sunny and light chop.    
+10/25/1992,Sunny but choppy.  Why the big difference in the big lake and small lake at this time of the year   last report for the season.    
+05/05/1993,Snowfall 10/16-4/10 was 57.625- lake froze 11/26- ice out 4/15.    
+08/31/1993,Windy- rain yesterday    
+07/05/1994,Rain 7/4-0.4".  7/5 0.35".    
+07/11/1994,Water temp top is 75 degrees- bottom 57 degrees- bottom temp checked twice- must have been on top of a spring    
+08/05/1994,July rainfall 4.2".  August 3-1" stormy.    
+07/04/1995,June rain-2.85"- July 0.2".    
+10/10/1995,Sky is clear.  September rain was 2.1".  No heavy frost yet.    
+07/23/1997,Ice out 4/19- lake level at that time=95.78.  Rain gauge reading from 7/1/997 to 7/23/97=2.9 inches.    
+08/26/1997,Loons had a late hatch- two young with them this past month. July rain = 5.45 inches.  Rain gauge reading from 8/1 to 8/26 = 2.9 inches.    
+05/27/2002,WEST BASIN - 3FT VAN DORN SAMPLE    
+06/09/2002,Pine pollen.    
+06/23/2002,WEST BASIN - 3FT VAN DORN SAMPLE    
+07/21/2002,WES BASIN-DEEP HOLE - 3FT VAN DORN SAMPLE    
+09/15/2002,WEST BASIN - 3FT VAN DORN SAMPLE    
+06/01/2003,66 F    
+08/17/2003,green    
+08/31/2003,green. Water level going down.    
+05/06/2005,Calm and sunny.    
+05/29/2005,Calm and sunny.  Water surface temp. 60 F.  Pollen on water.    
+06/25/2005,Calm and sunny.  Water surface temp. 79 F.    
+07/24/2005,Slight breeze and sunny.  Water surface temp. 82 F.    
+08/27/2005,Slight breeze and sunny.  Surface temp. 74 F.    
+05/21/2006,slight breeze and sunny- water temp. 58F. Pollen on the water
+06/03/2006,calm and partly cloudy- water surface Temp. 77F- Pollen on the water
+07/16/2006,partly cloudy and windy- pH 7.0- surface water temp- 82F
+08/12/2006,overcast and slight breeze
+08/20/2006,sunny and calm- surface water temp. 77F pH 7.0
+05/19/2007,Slight breeze- overcast- mayfly hatch- two new homes being built on lake.  
+05/29/2007,Windy- hazy/partly cloudy- noticed a lot of particulates in water in west basin.  This is the Tuesday after Memorial Day weekend- there was a lot of activitiy on the lake.  
+06/15/2007,Partly cloudy- breezy- warm and humid- no boats on lake.  
+06/24/2007,Sunny- breezy- one boat with water skier.  Some minute partiulates in water.
+06/30/2007,Light breeze- partly cloudly.  Lots of activity on lake (holiday weekend)- several boats- floating weeds- several floating- green- gelatin-like globs throughout lake.  
+07/15/2007,Sunny and calm.  One boat on lake
+08/09/2007,Small section of lake (West Basin) only:  Partly cloudy- breezy; floating weeds; 1 boat on lake..  
+08/25/2007,West basin (little lake) only:  Mostly cloudy- slight breeze- calm water- clumps of floating weeds; 3 boats on lake.  
+05/16/2008,West Basin:  Sunny; 1 boat on lake
+05/26/2008,West Basin:  Memorial Day weekend; very overcast/dark clouds; moderate breeze; lake rippley; 4 boats on lake; cottonwood seeds on lake.  
+06/15/2008,West Basin:  Partly cloudy; slight breeze; slight ripple to water; 1 boat on lake
+06/22/2008,West Basin:  Partly cloudy; slight breeze; a little pollen on shoreline; one boat on lake; one loon.
+06/27/2008,West Basin:  Cloudy/no sun; water had slight ripple; very slight breeze; three boats on lake.
+07/07/2008,West Basin:  Monday after 4th of July weekend; sunny with a few clouds; winds calm; water has slight ripple; suspended- fine particulates throughout water; 6 boats on lake; saw one adult loon.
+07/19/2008,West Basin:  Cloudy; water calm; 3 boats on lake; saw one adult loon and one baby; on 7/16 it rained approx. 2" and on 7/17 it rained another 1".
+07/26/2008,West Basin:  Sunny and hazy; no breeze; water has slight ripple; 3 boats on lake; saw one eagle and 2 adult loons with one baby.  NOTE:  When doing the water temperature- we kept hitting botton at 24 feet and therefore did not get that temperature.  
+08/09/2008,West Basin:  Partly cloudy- slight breeze- water wavy; five boats on lake; saw adult eagle with a fish.  
+08/24/2008,East Basin:  Sunny (with very few clouds)- water has slight ripple- slight breeze; one boat in water; we saw one seagull- one adult eagle and one adolescent eagle.
+09/01/2008,West Basin:  Sunny with a few clouds- hazy- very breezy- water wavy- four boats on lake- 1 seagull- 1 loon.
+09/21/2008,West Basin:  Water very calm and clear- sky sunny with no clouds- a little hazy; 2 boats on lake- two loons- trees beginning to change color.
+05/09/2009,Completely cloudy/overcast- light rain- slight breeze- water rippley; 3 boats; one eagle
+05/30/2009,Sunny- slight breeze- pollen on lake; one boat on lake
+06/13/2009,Partly cloudy- dark clouds moving in- water rippley; 2 boats; one eagle and 1 loon near nest.
+06/28/2009,Overcast/patly cloudy- windery- water wavy; 2 boats on lake.
+07/11/2009,Clear- slight breeze; one boat on lake; 3 loons.
+07/23/2009,Sunny with thin clouds- water very calm- some particulates in water; 3 boats on lake.  NOTE:  As we were leaving the west basin- near the narrows- the water was "bubbling" in one area- like it was carbonated.  We found this interesting.  
+08/23/2009,Sky clear with light wisps of clouds- slight breeze; water rippley; 4 boats on lake (2 canoes); 1 adult eagle and one loon.  NOTE:  After a pretty dry summer we just had approximately 4 inches of rain on the 18th or 19th of August.  
+08/30/2009,Sky clear with puffs of clouds- light breeze- lake rippley; 3 boats on lake- 1 loon.
+09/27/2009,Partly cloudy- slight breeze; no boats on lake.
+10/09/2009,Partly cloudy- slight breeze; no boats on lake.
+05/16/2010,Partly cloudy- very calm- cottonwood on lake.  One boat on lake.  Saw female loon sitting on nest.  
+05/31/2010,Sunny- no wind- water calm; 2 boats on lake; 2 eagles on lake shore.
+06/12/2010,Cloudy- breezy; 1 boat on lake.  
+06/19/2010,Cloudy/overcast- slight breeze- water rippley; 2 boats and 2 jet skis on lake; 2 adult loons with 1 baby loon and 1 osprey.
+06/26/2010,Total clouds/overcast- slight breeze; 2 jet skis and 2 boats; green slime globs in water near narrows; 2 adult loons and 1 baby loon.
+07/11/2010,4th of July Week (very busy):  Completely overcast- breezy- lake wavy; 2 boats on lake; 2 adult loons and one baby.  
+07/23/2010,Partly cloudy to sunny- lake calm- slight breeze; 3 boats on small lake; saw 1 adult loon with one baby.  
+08/08/2010,Partly cloudy- water very calm; 2 boats- 1 "peddle" canoe and 1 jet ski on small lake; saw 2 adult loons with 1 baby; there were lots of large clumps of weeks floating on the lake and washing into the shoreline- probably fom all the activity on the lake over the weekend.  Also- did not see any more green slime- that seemed to have disappeared.
+08/29/2010,A few wisps of clouds- mostly sunny- breezy- water had small ripples; 1 boat on lake (ours); a few clumps of floating weeds.
+09/17/2010,Cloudy and overcast- slight breeze- water had slight ripple; 1 boat on lake (us); 2 seagulls and a monarch butterfly; large excavation on N/E corner - new cabin being built.  
+10/15/2010,Partly cloudy- wisps of clouds- mostly sunny- very slight breeze with slight ripples in water; 1 boat on lake; 1 adolescent loon- new cabin construction.
+05/13/2011,Completely overcast and misting- water wavy- breezy; 1 boat (ours); 2 adult loons.  Water level is up this spring due to a larger amount of snow this past winter than we have had in several winters.  
+05/21/2011,Partly cloudy- slight breeze; 4 boats on lake; 2 adult geese and 4 babies.
+06/04/2011,Partly cloudy- slight breeze- pollen on water; three boats on lake.
+06/26/2011,Partly cloudy- slight breeze- water rippley; 3 boats on lake; lots of activity on the lake this past weekend; also- lake level continues to rise slightly- due to large amounts of rain in the last two weeks.
+07/22/2011,Partly cloudy- humid- slight breeze; water slight ripple; 1 boat on lake; 2 adult loons; another new cabin is being built on the NW corner of the little lake.  The past week was extremely hot and humid.  
+IMPORTANT NOTE:  On July 1st- around 6:30 p.m. Burnett County had a VERY bad storm with what the meteoroligsts decided were extreme straight line winds (we think they were tornadoes).  There was extensive damage to the north side of the lake (but some damage to the south).  Live power lines were down and the roads were covered and undrivable.  We were without power for over a week. There were extreme blown-downs in the woods.  We lost many large oaks- pines and aspen trees.  There was also some damage to structures and vehicles.  It was an extremely vast storm- covering almost all of Burnett County plus other counties.  The governor declared it a disaster area.
+
+07/31/2011,Mostly sunny (a few clouds)- water calm- no breeze; 7 boats on lake; 1 eagle; extremely large groups of floating weeds all around lake- floating in to shore.
+08/27/2011,Partly cloudy- mostly sunny- slight breeze; water wavey (because of skiers); 3 boats on lake.
+09/24/2011,Partly cloudy with slight breeze; 1 boat on lake; 1 loon. Partly cloudy with slight breeze; 1 boat on lake; 1 loon.
+10/15/2011,Partly cloudy to sunny- water wavy- windy; 1 boat on lake.
+05/05/2012,Completely cloudy and overcast- water wavy; opening fishing weekend; we received 1.5 inches of rain during the previous week; 3 boats on lake; saw 1 eagle and 2 adult loons.  
+05/27/2012,Overcast sky- very slight breeze- water had slight ripples; 4 boats on lake; saw 1 adult eagle.  NOTE:  We received approximately 3.25 inches of rain during the previous week.  
+06/22/2012,Partly cloudy- slight breeze; 2 boats on lake.  NOTE:  We received 1.7 inches of rain between 06-17-12 and 06-22-12.  
+06/29/2012,Sunny with wisps of clouds- breezy- water wavy; 3 boats.
+07/07/2012,Sunny- slight breeze; 4 boats on lake.  It was a holiday week.  
+07/19/2012,Sunny with puffs of clouds- water smooth- no breeze- hot and humid- floating weed mats; 2 boats on lake; 1 adult loon and one baby loon. 
+07/29/2012,Partly cloudy/sunny- water wavy- breezy; large floating weed masses on lake; 4 boats on lake (one water skier).
+08/03/2012,Partly cloudy- mostly sunny- water was calm- no breeze- floating weed masses on lake; 3 boats and 1 jet ski on the lake; saw 2 adult loons and 2 baby loons..
+08/16/2012,Mostly sunny with puffs of clouds; water had very slight ripples- no breeze-still several floating weed masses on little lake only;1 boat and 1 jet ski on lake; saw 1 blue heron.
+08/25/2012,Completely overcast- breezy and a little hazy- slight ripples on water; 1 boat on lake- saw 2 baby loons (did not see any adults).
+06/30/2013,Sunny with a few clouds- slight breeze- water calm; 1 boat on the lake; saw 1 loon and 1 eagle.
+07/27/2013,Completely cloudy by the time we got to little lake- very breezy to windy; 2 boats on lake; no wildlife sightings.
+08/04/2013,Partly cloudy- no breeze- water had slight ripple; 1 boat on the lake; saw 1 adult loon.  
+08/25/2013,Sunny- breezy- small wisps of clouds- small waves on lake; 3 boats and 3 jet skis on lake.
+10/06/2013,Overcast with dark clouds (a little blue sky peeking through)- very breezy- water had small wave- 2 boats on lake-no wildlife on small lake.  NOTE:  we received 2.8 inches of rain in the last few days.  Also- both the East Basin and the West Basin measured exactly the same for the secchi disk water clarity (14.5").  
+05/23/2014,Breezy- water wavey; 1 boat on lake (us); did not notice any wildlife.
+05/26/2014,Memorial Day weekend; breezy- water small waves; no wildlife sightings; 1 boat on lake (ours).
+06/15/2014,Overcast; we had a substantial amount of rain since last reading.  
+07/07/2014,Busy 4th of July weekend; sky overcast- water calm- slight breeze; lake is high due to substantial amount of rain in previous week and a half; no wildlife sightings; 1 boat on lake (us).
+07/26/2014,Beautiful day- sunny and hot (92 degrees); 2 boats on the lake and one plane; no wildlife sightings.   
+08/23/2014,Completely overcast- slight breeze- water had small waves; saw some seagulls; 1 boat on the lake (us).  
+09/06/2014,Sunny- water calm- 1 boat on lake. Sunny- water calm- 1 boat on lake.
+06/26/2015,Mostly sunny with a few clouds- no breeze- water calm- it was a beautiful day; 2 boats on lake; saw 1 adult with 4 baby geese and 2 adults with 2 baby loons.  Lake is very high due to a lot of rain this spring.  Because of water depth- we were unable to get an accurate water level reading because we could not find the base for measuring.  
+07/29/2015,Partly cloudy; 6 boats on the lake; saw 2 adults and 2 baby loons and 2 eagles; at approximatey 5:00 a.m. we received another 3/4" of rain.  
+08/25/2015,Cloudy- breezy and cold (62 degrees); water had small waves; only 1 boat (ours) on the lake; saw 4 loons.  Unfortunately- we were still unable to measure the lake level.  Our 2 grandchildren helped us with the secchi reading and the visual observations.  
+05/22/2016,Very ice sunny day with no clouds; water calm; 2 boats on the lake; saw 1 adult loon.  Note:  We have not been measuring the lake level because the water is at a high point and is over the measuring staff.  
+05/30/2016,Partly cloudy (it was a beautiful Memorial Day- sunny all day until late afternoon); lake water extremely high- the highest it has been since we have been on the lake in 1982; very busy Memorial day weekend on the lake; water calm; 3 boats on the lake.  
+06/27/2016,Cloudy/overcast with a little sun; water wavy; 1 boat on the lake (ours); no wildlife sightings on little lake.  
+07/25/2016,Sunny/partly cloudly; water calm; breezy; 3 loons (2 adults and 1 baby)- also saw ducks on the point by the narrows; 2 boats and 1 kayak on the lake.  Very Important:  On July 11th we got 10+ inches of rain between 5:00 p.m. and midnight (we had also received about ? to ? inch that morning also.  We also received more rain in subsequent days.   The Lake is EXTREMELY high- low lying lakeshore lots are flooded out- may people had water in their basements. The lake association put out a ?no wake? sign to protect the shoreline.  
+08/03/2016,Sunny with a few clouds; 1 boat on the lake; saw the loon family (2 adults and 1 baby).  Note:  Lake level still extremely high with no signs of receding.  
+08/29/2016,Sunny with a few puffs of clouds; slight breeze; no wildlife sightings; 1 boat on lake.  
+09/25/2016,Cloudy- breezy- off and on rain- water very wavy with white caps- two boats on the lake.  Note:  Lake still extremely high with no signs of receding. 
+04/21/2017,Sunny with a slight breeze- one boat on lake- no wildlife sightings.  Note:  Water is still extremely high.  Many low lying lots still have some flooding.  
+05/24/2017,Coudy- two boats on the lake.  
+05/29/2017,Breezy and chilly- sky overcast- water wavy; two boats on the lake; pollen on the lake; saw a blue heron- 2 eagles and a loon.  There was also a large mayfly hatch.  Lake is still extremely high.  Properties are still sandbagging the shoreline.  NOTE:  In September- 2016- they found out that Big McKenzie Lake had zebra muscles- a concern for all surrounding lakes.   Breezy and chilly- sky overcast with some sun- water wavy; one boat on the lake; pollen on the lake; saw one loon.  There was also a large mayfly hatch.  Lake is still extremely high.  Properties are still sandbagging the shoreline.  NOTE:  In September- 2016- they found out that Big McKenzie Lake had zebra muscles- a concern for all surrounding lakes.  
+06/26/2017,Cloudy with a slight breeze; 1 boat on the lake.  
+07/22/2017,Sunny with a few clouds; 2 boats on the lake.  
+08/23/2017,Partly cloudy with a slight breeze- one boat on the lake.  
+09/25/2017,Cloudy- breezy- off and on rain.  Water very wavy.  Water still extremely high and properties still flooded.   Cloudy- breezy- off and on rain;  water very wavy; two boats on lake.  Lake is still extremely high and properties still flooded.  
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/27/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/17/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/23/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/30/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/06/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/13/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/23/1986,Richard Dvorak,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/01/1986,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/23/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/30/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/09/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/15/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/22/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/29/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/06/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/14/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/21/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/27/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/06/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/13/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/20/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/28/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/04/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/11/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/22/1987,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/13/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/20/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/07/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/20/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/01/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/07/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/14/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/21/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/30/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/10/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/23/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/31/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/17/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/08/1988,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/16/1989,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/01/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/10/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/02/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/12/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/21/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/01/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/09/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/21/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/06/1989,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/16/1989,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/04/1989,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/21/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/04/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/14/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/19/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/29/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/10/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/18/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/03/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/10/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/24/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/26/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/12/1990,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/06/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/02/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/17/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/30/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/12/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/26/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/06/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/28/1991,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/26/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/11/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/28/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/11/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/27/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/14/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/31/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/17/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/29/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/25/1992,Edward Vacik,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/05/1993,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/05/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/31/1993,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/31/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/05/1994,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/11/1994,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/05/1994,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/16/1994,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/19/1994,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/04/1995,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/10/1995,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/23/1997,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/26/1997,Charles Mclellan,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/03/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/10/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/17/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/24/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/30/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/01/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/08/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/15/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/22/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/29/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/05/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/12/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/19/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/26/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/02/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/09/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/16/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/23/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/30/2001,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/27/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/02/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/09/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/16/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/23/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/30/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/07/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/14/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/21/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/28/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/04/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/11/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/18/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/25/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/01/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/08/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/12/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/15/2002,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+04/06/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/01/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/15/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/29/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/13/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/20/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/27/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/03/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/10/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/17/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/31/2003,James Jana,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/06/2005,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/29/2005,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/25/2005,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/24/2005,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/27/2005,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/21/2006,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/03/2006,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/16/2006,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/12/2006,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/20/2006,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/19/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/29/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/15/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/24/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/30/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/15/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/09/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/25/2007,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/16/2008,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/26/2008,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/15/2008,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/22/2008,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/27/2008,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/07/2008,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/19/2008,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/26/2008,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/09/2008,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/24/2008,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/01/2008,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/21/2008,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/09/2009,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/30/2009,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/13/2009,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/28/2009,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/11/2009,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/23/2009,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/23/2009,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/30/2009,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/27/2009,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/09/2009,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/16/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/31/2010,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/12/2010,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/19/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/26/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/11/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/23/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/08/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/29/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/17/2010,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/15/2010,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/13/2011,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/21/2011,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/04/2011,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/26/2011,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/22/2011,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/31/2011,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/27/2011,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/24/2011,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/15/2011,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/05/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/27/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/22/2012,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/29/2012,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/07/2012,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/19/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/29/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/03/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/16/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/25/2012,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/30/2013,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/27/2013,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/04/2013,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/25/2013,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+10/06/2013,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/23/2014,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/26/2014,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/15/2014,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/07/2014,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/26/2014,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/23/2014,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/06/2014,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/26/2015,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/29/2015,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/25/2015,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/22/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/30/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/27/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/25/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/03/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/29/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/25/2016,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+04/21/2017,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/24/2017,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+05/29/2017,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+06/26/2017,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+07/22/2017,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+08/23/2017,Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)
+09/25/2017,Gail and Bill Sobaski,Citizen Lake Monitoring - Water Quality - Fish Lake; West Basin (4-40-14)

@@ -1,0 +1,32 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Forestville Flowage,Door,95700,NE,15,,153160,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/05/1994,,,,33.5,76,,62,61,,,,,
+1,08/17/1994,3,,0.9,17.3,40,62,57,56,,,,,
+1,07/17/2017,,,,59,136,,66,66,,,,,
+1,09/16/2017,2.5,NO,0.8,5.1,,64,,47,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/17/1994,,,19,C,4.4,MG/L
+09/16/2017,,,23.6,C,10.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/05/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/17/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/17/2017,Data Collectors,DOOR COUNTY: Forestville Mill Pond Comprehensive Lake Management Plan
+09/16/2017,Data Collectors,DOOR COUNTY: Forestville Mill Pond Comprehensive Lake Management Plan

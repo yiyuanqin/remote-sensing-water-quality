@@ -1,0 +1,123 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Montgomery Lake,Florence,703300,NO,19,,193951,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188802,08/30/2001,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188802,08/15/2002,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188802,06/20/2003,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,
+8188802,07/15/2003,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,
+8188599,08/05/2003,15.5,NO,4.7,2.49,,38,,42,,,,,
+8188802,08/19/2003,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,
+8188802,09/25/2003,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,
+8188802,10/08/2003,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,
+8188802,07/18/2004,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188802,08/03/2004,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,08/14/2004,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,06/17/2005,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,07/10/2005,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,08/14/2005,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,07/19/2006,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188802,08/12/2006,16,NO,4.9,,,37,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8188802,08/27/2006,15,NO,4.6,,,38,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+18136776,08/09/2007,17,,5.2,,,36,,,,,,,
+18136776,08/14/2008,15,NO,4.6,,,38,,,,,,,
+29575558,08/05/2009,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+35006126,07/19/2010,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,06/06/2011,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188802,07/15/2011,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+47598699,07/28/2011,9.25,NO,2.8,,,45,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188802,08/19/2011,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+129140005,06/09/2017,,,,,28.1,,54,,,,,,
+129140005,07/11/2017,,,,,17.6,,50,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/05/2003,0,FEET,22.7,DEGREES C,8.18,MG/L
+08/05/2003,3,FEET,22.5,DEGREES C,8.15,MG/L
+08/05/2003,6,FEET,22.4,DEGREES C,8.16,MG/L
+08/05/2003,9,FEET,22.3,DEGREES C,8.04,MG/L
+08/05/2003,12,FEET,21.6,DEGREES C,9.7,MG/L
+08/05/2003,15,FEET,18.4,DEGREES C,14.45,MG/L
+08/05/2003,18,FEET,13.7,DEGREES C,10.52,MG/L
+08/05/2003,21,FEET,11.1,DEGREES C,4.79,MG/L
+08/05/2003,24,FEET,9.6,DEGREES C,1.67,MG/L
+08/05/2009,3,FEET,22.5,DEGREES C,,
+08/05/2009,6,FEET,22.4,DEGREES C,,
+08/05/2009,9,FEET,21.9,DEGREES C,,
+08/05/2009,12,FEET,21.1,DEGREES C,,
+08/05/2009,15,FEET,19.4,DEGREES C,,
+08/05/2009,18,FEET,16.4,DEGREES C,,
+08/05/2009,21,FEET,13.5,DEGREES C,,
+07/19/2010,0,FEET,78.3,DEGREES F,9.12,MG/L
+07/19/2010,3,FEET,77.7,DEGREES F,9.19,MG/L
+07/19/2010,6,FEET,77.1,DEGREES F,9.28,MG/L
+07/19/2010,9,FEET,76,DEGREES F,7.62,MG/L
+07/19/2010,12,FEET,72.7,DEGREES F,11.82,MG/L
+07/19/2010,15,FEET,68.2,DEGREES F,11.36,MG/L
+07/19/2010,18,FEET,61.7,DEGREES F,2.73,MG/L
+07/19/2010,21,FEET,57.2,DEGREES F,1.31,MG/L
+07/19/2010,24,FEET,54.2,DEGREES F,.54,MG/L
+07/28/2011,0,FEET,79.8,DEGREES F,8.77,MG/L
+07/28/2011,3,FEET,77.1,DEGREES F,8.9,MG/L
+07/28/2011,6,FEET,76.3,DEGREES F,8.37,MG/L
+07/28/2011,9,FEET,72.3,DEGREES F,11.18,MG/L
+07/28/2011,12,FEET,63.2,DEGREES F,14.1,MG/L
+07/28/2011,15,FEET,55.2,DEGREES F,13.97,MG/L
+07/28/2011,18,FEET,49.9,DEGREES F,1.95,MG/L
+07/28/2011,21,FEET,47.5,DEGREES F,.35,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/30/2001,Light breeze- partly cloudy
+
+    
+08/15/2002,Clear day-calm
+
+    
+08/05/2003,DEEP HOLE - INTEGRATED SAMPLER    
+08/14/2008,Assisted by Matt Yadro. Assisted by Matt Yadro.
+08/05/2009,Jim Moore
+07/19/2010,Partly cloudy- slight breeze.
+Volunteer- Jim Moore
+07/28/2011,Observers P. Tikusis- C. Anderson- B. Theer
+Weather- Sunny and Breezy
+AIS Observed Purple Loosestrife
+
+
+
+
+Start Date,Group Name,Project Name
+08/30/2001,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/15/2002,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+06/20/2003,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+07/15/2003,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/05/2003,Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+08/19/2003,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+09/25/2003,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+10/08/2003,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+07/18/2004,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/03/2004,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/14/2004,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+06/17/2005,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+07/10/2005,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/14/2005,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+07/19/2006,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/12/2006,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/27/2006,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+08/09/2007,Dane Gagnon,Florence County Land Conservation Department- Secchi Data 
+08/14/2008,Dane Gagnon,Florence County Land Conservation Department- Secchi Data 
+08/05/2009,Robert Ferris,Florence County Land Conservation Department- Secchi Data 
+07/19/2010,Paul Tikusis,Florence County Land Conservation Department- Secchi Data 
+06/06/2011,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+07/15/2011,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+07/28/2011,Bobby Theer,Florence County Land Conservation Department- Secchi Data 
+08/19/2011,Jim Moore,Citizen Lake Monitoring - Water Quality - Montgomery Lake (703300); Deep Hole
+06/09/2017,Carolyn Weber-Starling,FLORENCE COUNTY: Florence County AIS Prevention + Management Program
+07/11/2017,Carolyn Weber-Starling,FLORENCE COUNTY: Florence County AIS Prevention + Management Program

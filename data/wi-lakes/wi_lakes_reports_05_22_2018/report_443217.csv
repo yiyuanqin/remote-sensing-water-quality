@@ -1,0 +1,96 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Madeline Lake,Oneida,1544700,NO,44,,443217,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/09/1979,,,,5.75,,,,48,,,,,
+8190503,05/18/1990,10.5,NO,3.2,,,43,,,,,,,2-Very minor aesthetic problems
+8190503,05/29/1990,10,YES,3,,,44,,,,,,,3-Enjoyment somewhat impaired (algae)
+8190503,06/29/1990,11,NO,3.3,,,43,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190503,07/23/1990,6.5,NO,2,,,50,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190503,08/07/1990,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190503,08/15/1990,3.5,NO,1.1,,,59,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190503,08/26/1990,3,NO,0.9,,,61,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190503,09/05/1990,4,NO,1.2,,,57,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190503,09/15/1990,4.5,NO,1.4,,,55,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190503,09/25/1990,4.5,NO,1.4,,,55,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190503,10/11/1990,8.5,NO,2.6,,,46,,,NORMAL,,,,4-Would not swim but boating OK (algae)
+8190503,10/28/1990,11.25,NO,3.4,,,42,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190680,05/31/1992,8.25,NO,2.5,,,47,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190680,06/21/1992,7.25,NO,2.2,,,49,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190680,07/26/1992,8,NO,2.4,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,08/15/1993,,,,3.82,,,,45,,,,,
+8190680,08/15/1993,5.5,NO,1.7,,23,53,52,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+1,10/23/1993,,,,5.86,,,,48,,,,,
+8190680,10/23/1993,12,NO,3.6,,22,41,52,,GOOD,,,GREEN,2-Very minor aesthetic problems
+1,06/26/1994,,,,3.84,26,,53,45,,,,,
+1,08/17/2000,2.7,,0.8,28,54,63,59,60,,,,,
+17937531,05/03/2007,11.5,,3.5,,,42,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+145711549,07/19/2017,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/09/1979,,,24,C,,
+10/23/1993,1,FEET,46,DEGREES F,,
+10/23/1993,3,FEET,46,DEGREES F,,
+10/23/1993,9,FEET,44,DEGREES F,,
+10/23/1993,15,FEET,43,DEGREES F,,
+05/03/2007,0,FEET,53,DEGREES F,,
+07/19/2017,2,FEET,78.2,DEGREES F,9.86,MG/L
+07/19/2017,4,FEET,77.2,DEGREES F,10.14,MG/L
+07/19/2017,6,FEET,76.2,DEGREES F,10.85,MG/L
+07/19/2017,8,FEET,75.9,DEGREES F,11.04,MG/L
+07/19/2017,10,FEET,74.8,DEGREES F,12.26,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/18/1990,Submerged macrophytes growing rapidly- water 53 F- Assumed time was 12:00.    
+05/29/1990,Water 63 F- Assumed time was 12:00.    
+06/29/1990,Submerging vegetation. nearing surface- water 72 F @ 1.5'    
+07/23/1990,Water 75 F @ 18".    
+08/07/1990,Water 70 F @ 2'- free-floating plankton- emergent vegetation    
+08/15/1990,Water 72 F @ 2'- emergent vegetation. and floating/suspended phytoplankton.    
+08/26/1990,Water 73 F @ 2'- emergent macrophytes- suspended phytoplankton- floating algae mats.    
+09/05/1990,Algae bloom- water 69 F @ 2'    
+09/15/1990,Water 64 F    
+09/25/1990,Water 57 F @ 2'    
+10/11/1990,Water 48 F @ 2'    
+10/28/1990,Water cleared since turnover- macrophytes receding- water 45 F- sunny- calm    
+05/31/1992,Saw one loon diving for food.    
+07/19/2017,Position of deep hole on Oneida County GIS. Conditions were partly cloudy- windy- and water was murky.
+
+
+
+
+Start Date,Group Name,Project Name
+07/09/1979,Data Collectors,Migrated from STORET Legacy
+05/18/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+05/29/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+06/29/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+07/23/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+08/07/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+08/15/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+08/26/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+09/05/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+09/15/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+09/25/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+10/11/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+10/28/1990,David Picard,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+05/31/1992,Robert Tjensvold,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+06/21/1992,Robert Tjensvold,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+07/26/1992,Robert Tjensvold,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+08/15/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+08/15/1993,Robert Tjensvold,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+10/23/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+10/23/1993,Robert Tjensvold,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+06/26/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+08/17/2000,Data Collectors,GMU LAKE CLASS STUDY
+05/03/2007,Richard Rust,Citizen Lake Monitoring - Water Quality - Madeline Lake (1544700)- Deep Hole 
+07/19/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

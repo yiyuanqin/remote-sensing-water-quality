@@ -1,0 +1,147 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wapogasset Lake,Polk,2618000,NO,49,,493149,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190158,07/31/1991,4.5,NO,1.4,,,55,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,08/11/1991,3.25,NO,1,,,60,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190158,08/28/1991,2,NO,0.6,,,67,,,HIGH,,,,2-Very minor aesthetic problems
+8190158,09/11/1991,3.5,NO,1.1,,,59,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190158,09/27/1991,5,NO,1.5,,,54,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,10/09/1991,6.5,NO,2,,,50,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,10/28/1991,7,NO,2.1,,,49,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,05/04/1992,5.5,NO,1.7,,,53,,,4.1" ABOVE NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190158,05/18/1992,8,NO,2.4,,,47,,,3.2" ABOVE NORM,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190158,06/08/1992,8,NO,2.4,,,47,,,1.2 ABOVE,,,BROWNISH,2-Very minor aesthetic problems
+8190158,06/22/1992,7,NO,2.1,,,49,,,2.25 ABOVE,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190158,07/13/1992,10,NO,3,,,44,,,3.75 ABOVE NORM,,,GREEN,2-Very minor aesthetic problems
+8190158,07/27/1992,6,NO,1.8,,,51,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,08/18/1992,3,NO,0.9,,,61,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190158,09/21/1992,13,NO,4,,,40,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,10/05/1992,7.5,NO,2.3,,,48,,,1.05" ABOV NORM,,,GREEN,1-Beautiful, could not be nicer
+8190158,11/10/1992,14,YES,4.3,,,39,,,2" ABOV NORM,,,GREEN,1-Beautiful, could not be nicer
+8190158,06/21/1993,10,NO,3,,,44,,,6.6" ABOVE NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190158,07/12/1993,5,NO,1.5,,,54,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190158,07/26/1993,4,NO,1.2,,,57,,,3.6" UP,,,GREEN,2-Very minor aesthetic problems
+8190158,08/09/1993,4,NO,1.2,,,57,,,2.4" OVER NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190158,08/23/1993,2.5,NO,0.8,,,64,,,1.8" OVER NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188621,05/12/2007,17,,5.2,,,36,,,,,,,
+8188621,06/20/2007,11,,3.3,,,43,,,,,,,
+8188621,07/18/2007,3,,0.9,,,61,,,,,,,
+8188621,08/22/2007,3,,0.9,,,61,,,,,,,
+8188621,09/20/2007,3,,0.9,,,61,,,,,,,
+82607229,05/19/2016,11,NO,3.3,,,43,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/12/2007,1,FEET,16.8,DEGREES C,9,MG/L
+05/12/2007,3,FEET,16.7,DEGREES C,8.9,MG/L
+05/12/2007,6,FEET,16.5,DEGREES C,9,MG/L
+05/12/2007,9,FEET,16.1,DEGREES C,8.8,MG/L
+05/12/2007,12,FEET,14.8,DEGREES C,8.7,MG/L
+05/12/2007,15,FEET,14.5,DEGREES C,8.3,MG/L
+05/12/2007,18,FEET,14.2,DEGREES C,7.8,MG/L
+05/12/2007,21,FEET,14.1,DEGREES C,7,MG/L
+05/12/2007,24,FEET,14.1,DEGREES C,2,MG/L
+06/20/2007,1,FEET,22.9,DEGREES C,7.6,MG/L
+06/20/2007,3,FEET,22.9,DEGREES C,7.4,MG/L
+06/20/2007,6,FEET,22.9,DEGREES C,7.2,MG/L
+06/20/2007,9,FEET,22.8,DEGREES C,7.1,MG/L
+06/20/2007,12,FEET,22.8,DEGREES C,8.4,MG/L
+06/20/2007,15,FEET,22.8,DEGREES C,9.1,MG/L
+06/20/2007,18,FEET,22.4,DEGREES C,9.3,MG/L
+06/20/2007,21,FEET,20.5,DEGREES C,3.4,MG/L
+06/20/2007,24,FEET,20.5,DEGREES C,2.4,MG/L
+07/18/2007,1,FEET,27,DEGREES C,14.3,MG/L
+07/18/2007,3,FEET,26.8,DEGREES C,15.8,MG/L
+07/18/2007,6,FEET,24.1,DEGREES C,10.9,MG/L
+07/18/2007,9,FEET,23.4,DEGREES C,9.6,MG/L
+07/18/2007,12,FEET,22.8,DEGREES C,6.9,MG/L
+07/18/2007,15,FEET,22.8,DEGREES C,6.2,MG/L
+07/18/2007,18,FEET,22.7,DEGREES C,5.6,MG/L
+07/18/2007,21,FEET,22.5,DEGREES C,4.6,MG/L
+08/22/2007,1,FEET,21,DEGREES C,17.2,MG/L
+08/22/2007,3,FEET,21.1,DEGREES C,15.7,MG/L
+08/22/2007,6,FEET,21.1,DEGREES C,13.2,MG/L
+08/22/2007,9,FEET,21,DEGREES C,11.4,MG/L
+08/22/2007,12,FEET,21.1,DEGREES C,10.8,MG/L
+08/22/2007,15,FEET,21,DEGREES C,8.9,MG/L
+08/22/2007,18,FEET,20.8,DEGREES C,8.4,MG/L
+08/22/2007,21,FEET,20.6,DEGREES C,6,MG/L
+09/20/2007,1,FEET,17.4,DEGREES C,5.8,MG/L
+09/20/2007,3,FEET,17.4,DEGREES C,6,MG/L
+09/20/2007,6,FEET,17.4,DEGREES C,6,MG/L
+09/20/2007,9,FEET,17.4,DEGREES C,6,MG/L
+09/20/2007,12,FEET,17.4,DEGREES C,6,MG/L
+09/20/2007,15,FEET,17.4,DEGREES C,6,MG/L
+09/20/2007,18,FEET,17.4,DEGREES C,6.1,MG/L
+09/20/2007,21,FEET,17.4,DEGREES C,6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/31/1991,Clear- 78 F. Water level Up 4.7"    
+08/11/1991,Perfect weather- calm- clear.  Water level: up 2.4"    
+08/28/1991,Water level: Up 1.48"    
+09/11/1991,Cloudy- misty- rainy- lake temp: 20c. Water level: Up 6.5"    
+09/27/1991,Little cold for swimming- 14c- some algae- sunny.  Water level Up 4.5"    
+10/09/1991,Some algae- high winds- 30% clouds- 12c.  Water level Up 4.05"    
+10/28/1991,Temp 7.5c- 100% clouds- high winds- last reading    
+05/04/1992,Cloudy day - ice off two weeks prior.  3" chop.    
+05/18/1992,Clear day- air temp: 16.7 C.    
+06/08/1992,Mild wind    
+06/22/1992,Very high winds last week.    
+07/13/1992,Slight drizzle- lots of clouds.  Heavy rain for the last 36 hours.    
+07/27/1992,Clear day- aquatic growth increasing. Water level: up 2.4"    
+08/18/1992,Clear day- with 3" waves- aquatic plants and algae levels increasing.  Water level: Up .5"    
+09/21/1992,At 63 degrees- lake is a little cool for swimming- cloudy day- appears to have turned over- identical temps to the bottom.    
+10/05/1992,Clear windy day- temp down to 15 degrees.    
+11/10/1992,Clouds are 100%- weather- temp is 36 degrees- lake temp is 3.5 degrees- smaller surrounding lakes have had some ice.    
+06/21/1993,Water temp 21 degrees Celsius.    
+07/12/1993,Light algae- effects of balsam branch input noticeable. Water level: up 6"    
+07/26/1993,Balsam branch input murkier- slight algae    
+08/09/1993,Cloudy skies- heavy rains + electrical storm last night    
+08/23/1993,Balsam branch input area- S wind increasing    
+05/12/2007,Measurements taken mid day.  
+06/20/2007,Sunshine- 30 mph wind from SW which made sampling difficult.
+07/18/2007,Sunny- 90 F.  Both lakes green with evident particles.  No algae scum.  Wind 5-8 mph.
+08/22/2007,No wind- cloudy.  Both lakes green with evident algae scum around edge.
+09/20/2007,Overcast- 70 F.  Algae not evident but water wasn't clear.
+
+
+
+
+Start Date,Group Name,Project Name
+07/31/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+08/11/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+08/28/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+09/11/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+09/27/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+10/09/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+10/28/1991,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+05/04/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+05/18/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+06/08/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+06/22/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+07/13/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+07/27/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+08/18/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+09/21/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+10/05/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+11/10/1992,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+06/21/1993,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+07/12/1993,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+07/26/1993,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+08/09/1993,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+08/23/1993,Frank Fitzpatrick,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+05/12/2007,John Kugler,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+06/20/2007,John Kugler,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+07/18/2007,John Kugler,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+08/22/2007,John Kugler,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+09/20/2007,John Kugler,Citizen Lake Monitoring - Water Quality - Wapogasset Lake; NW End (Site A)
+05/19/2016,Mark Sundeen and Alex Smith,Extra Sampling - Northern Region - Spooner 

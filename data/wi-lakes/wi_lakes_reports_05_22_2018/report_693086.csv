@@ -1,0 +1,164 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sunset Lake,Waupaca,265500,NE,69,,693086,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/23/1992,,,,4.12,9,,45,46,,,,,
+1,02/02/1993,,,,,9,,45,,,,,,
+1,05/20/1993,,,,4.83,20,,51,47,,,,,
+1,08/17/1993,,,,4.06,6,,42,45,,,,,
+1,10/06/1993,,,,7.23,8,,44,50,,,,,
+1,01/24/1994,,,,,15,,49,,,,,,
+1,05/03/1994,,,,5.35,13,,48,47,,,,,
+8190880,05/03/1994,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190880,06/21/1994,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/03/1994,27.9,,8.5,3.89,5,29,41,45,,,,,
+8190880,08/03/1994,8.5,NO,2.6,,,46,,,,,,,1-Beautiful, could not be nicer
+1,09/22/1994,,,,3.57,5,,41,44,,,,,
+8190880,09/22/1994,8,NO,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/26/2016,7.1,N,2.2,2.65,10.5,49,46,42,,,,,
+125961548,04/29/2017,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+125961548,05/01/2017,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125961548,06/01/2017,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125961548,07/24/2017,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+125961548,08/28/2017,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/23/1992,,,16.97,C,0.72,MG/L
+02/02/1993,,,1.66,C,1.26,MG/L
+05/20/1993,,,14.69,C,11.1,MG/L
+08/17/1993,,,24.40,C,0.14,MG/L
+10/06/1993,,,12.74,C,0.73,MG/L
+01/24/1994,,,1.83,C,11.1,MG/L
+05/03/1994,,,10.89,C,11.7,MG/L
+08/03/1994,,,24.12,C,0.46,MG/L
+09/22/1994,,,21.46,C,0.45,MG/L
+07/26/2016,,,27.4,C,0.2,MG/L
+04/29/2017,0,FEET,52.3,DEGREES F,,
+04/29/2017,1,FEET,52.3,DEGREES F,,
+04/29/2017,2,FEET,52.3,DEGREES F,,
+04/29/2017,3,FEET,52.5,DEGREES F,,
+04/29/2017,4,FEET,52.9,DEGREES F,,
+04/29/2017,5,FEET,52.9,DEGREES F,,
+04/29/2017,6,FEET,52.9,DEGREES F,,
+04/29/2017,7,FEET,52.9,DEGREES F,,
+04/29/2017,8,FEET,52.8,DEGREES F,,
+04/29/2017,9,FEET,52.8,DEGREES F,,
+04/29/2017,10,FEET,52.8,DEGREES F,,
+04/29/2017,11,FEET,52.8,DEGREES F,,
+04/29/2017,12,FEET,52.8,DEGREES F,,
+04/29/2017,13,FEET,52.8,DEGREES F,,
+04/29/2017,14,FEET,52.5,DEGREES F,,
+04/29/2017,15,FEET,52.1,DEGREES F,,
+04/29/2017,16,FEET,52.1,DEGREES F,,
+04/29/2017,17,FEET,51.9,DEGREES F,,
+04/29/2017,18,FEET,51.6,DEGREES F,,
+04/29/2017,19,FEET,51.4,DEGREES F,,
+04/29/2017,20,FEET,51.1,DEGREES F,,
+04/29/2017,21,FEET,50.5,DEGREES F,,
+04/29/2017,22,FEET,50,DEGREES F,,
+04/29/2017,23,FEET,49.5,DEGREES F,,
+04/29/2017,24,FEET,48.4,DEGREES F,,
+04/29/2017,25,FEET,48.4,DEGREES F,,
+04/29/2017,26,FEET,48.2,DEGREES F,,
+04/29/2017,27,FEET,46.9,DEGREES F,,
+04/29/2017,28,FEET,46.2,DEGREES F,,
+04/29/2017,29,FEET,45.2,DEGREES F,,
+04/29/2017,30,FEET,44.6,DEGREES F,,
+04/29/2017,31,FEET,44,DEGREES F,,
+04/29/2017,32,FEET,43.7,DEGREES F,,
+04/29/2017,33,FEET,43.5,DEGREES F,,
+04/29/2017,34,FEET,43.5,DEGREES F,,
+04/29/2017,35,FEET,43.1,DEGREES F,,
+04/29/2017,36,FEET,42.8,DEGREES F,,
+04/29/2017,37,FEET,42.6,DEGREES F,,
+04/29/2017,38,FEET,42.6,DEGREES F,,
+04/29/2017,39,FEET,42.6,DEGREES F,,
+04/29/2017,40,FEET,42.6,DEGREES F,,
+06/01/2017,0,FEET,69.9,DEGREES F,,
+06/01/2017,1,FEET,66.2,DEGREES F,,
+06/01/2017,2,FEET,66.3,DEGREES F,,
+06/01/2017,3,FEET,66.1,DEGREES F,,
+06/01/2017,4,FEET,65.8,DEGREES F,,
+06/01/2017,5,FEET,65.3,DEGREES F,,
+06/01/2017,6,FEET,65.3,DEGREES F,,
+06/01/2017,7,FEET,65.1,DEGREES F,,
+06/01/2017,8,FEET,64.8,DEGREES F,,
+06/01/2017,9,FEET,64.1,DEGREES F,,
+06/01/2017,10,FEET,64.2,DEGREES F,,
+06/01/2017,11,FEET,63.8,DEGREES F,,
+06/01/2017,12,FEET,63.3,DEGREES F,,
+06/01/2017,13,FEET,64.1,DEGREES F,,
+06/01/2017,14,FEET,63.6,DEGREES F,,
+06/01/2017,15,FEET,61.8,DEGREES F,,
+06/01/2017,16,FEET,62.4,DEGREES F,,
+06/01/2017,17,FEET,61.9,DEGREES F,,
+06/01/2017,18,FEET,61.5,DEGREES F,,
+06/01/2017,19,FEET,60.8,DEGREES F,,
+06/01/2017,20,FEET,60.4,DEGREES F,,
+06/01/2017,21,FEET,60,DEGREES F,,
+06/01/2017,22,FEET,58,DEGREES F,,
+06/01/2017,23,FEET,57.5,DEGREES F,,
+06/01/2017,24,FEET,56.8,DEGREES F,,
+06/01/2017,25,FEET,56,DEGREES F,,
+06/01/2017,26,FEET,52.1,DEGREES F,,
+06/01/2017,27,FEET,51.7,DEGREES F,,
+06/01/2017,28,FEET,52.1,DEGREES F,,
+06/01/2017,29,FEET,50.5,DEGREES F,,
+06/01/2017,30,FEET,50.1,DEGREES F,,
+06/01/2017,31,FEET,49.2,DEGREES F,,
+06/01/2017,32,FEET,48.5,DEGREES F,,
+06/01/2017,33,FEET,47.4,DEGREES F,,
+06/01/2017,34,FEET,46.2,DEGREES F,,
+06/01/2017,35,FEET,46.1,DEGREES F,,
+06/01/2017,36,FEET,45.8,DEGREES F,,
+06/01/2017,37,FEET,45.3,DEGREES F,,
+06/01/2017,38,FEET,45.1,DEGREES F,,
+06/01/2017,39,FEET,45.1,DEGREES F,,
+06/01/2017,40,FEET,44.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/01/2017,Great late Spring day- a lot of birds and animals on the move on and around the lake.  We were fortunate enough to observe a pair of loons- what a special treat.  I was assisted in the testing by my husband- Bob Wells. 
+07/24/2017,Beautiful day- clear blue skies- temp. upper 70's.  Light wind- light boat traffic.
+08/28/2017,Sunset Lake is in the same condition as the other lakes we monitor- it is so sad.  The Lake Association- and the DNR need to get in the same boat save our beautiful lake
+
+
+
+
+Start Date,Group Name,Project Name
+09/23/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/23/1992,Data Collectors,LAKE MGT PROJECTS
+02/02/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+02/02/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/17/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/17/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/06/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+10/06/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/24/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+01/24/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+06/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+08/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/03/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+09/22/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/22/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/22/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+04/29/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+05/01/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+06/01/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+07/24/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole
+08/28/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole

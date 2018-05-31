@@ -1,0 +1,110 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Upper Springstead Lake,Iron,2267100,NO,26,,263046,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000017,05/05/1998,14,,4.3,4.12,19,39,51,46,,,,,
+7000017,06/15/1998,9.7,,2.9,3.82,18,44,51,45,,,,,
+7000017,07/21/1998,11.7,,3.6,3.94,28,42,54,45,,,,,
+8189296,08/13/1998,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+7000017,08/17/1998,8,,2.4,7.89,23,47,52,50,,,,,
+8189296,08/28/1998,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189296,09/05/1998,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189296,09/16/1998,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189296,10/15/1998,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+7000068,08/07/2001,,,,2.6,21,,52,42,,,,,
+8188599,08/07/2001,7,NO,2.1,,,49,,,,,,,
+8188687,08/12/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+145829844,06/17/2017,10,NO,3,5.64,20.8,44,52,48,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145829844,07/24/2017,11,NO,3.3,4.19,17.8,43,50,46,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145829844,09/08/2017,8,NO,2.4,4.76,18.4,47,51,47,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/05/1998,,,10.0,C,10.0,MG/L
+06/15/1998,,,16.1,C,2.7,MG/L
+07/21/1998,,,15.8,C,0.1,MG/L
+08/17/1998,,,17.8,C,0.0,MG/L
+08/07/2001,0,FEET,29.3,DEGREES C,7.74,MG/L
+08/07/2001,1,FEET,29.1,DEGREES C,7.77,MG/L
+08/07/2001,3,FEET,28.8,DEGREES C,7.8,MG/L
+08/07/2001,6,FEET,27.5,DEGREES C,8.17,MG/L
+08/07/2001,9,FEET,24.8,DEGREES C,8.22,MG/L
+08/07/2001,12,FEET,23.2,DEGREES C,4.76,MG/L
+08/07/2001,15,FEET,21.4,DEGREES C,1.18,MG/L
+08/07/2001,18,FEET,18.2,DEGREES C,.64,MG/L
+08/07/2001,21,FEET,15.6,DEGREES C,.56,MG/L
+08/12/2015,1,FEET,22.2,DEGREES C,7.69,MG/L
+08/12/2015,3,FEET,22.3,DEGREES C,7.62,MG/L
+08/12/2015,6,FEET,22.3,DEGREES C,7.54,MG/L
+08/12/2015,9,FEET,22.3,DEGREES C,7.08,MG/L
+08/12/2015,12,FEET,21.7,DEGREES C,5.39,MG/L
+08/12/2015,15,FEET,20.6,DEGREES C,2.86,MG/L
+08/12/2015,18,FEET,18.8,DEGREES C,.15,MG/L
+06/17/2017,1,FEET,74.1,DEGREES F,,
+06/17/2017,3,FEET,74.1,DEGREES F,,
+06/17/2017,6,FEET,73.5,DEGREES F,,
+06/17/2017,9,FEET,72.8,DEGREES F,,
+06/17/2017,12,FEET,65.4,DEGREES F,,
+06/17/2017,15,FEET,59,DEGREES F,,
+06/17/2017,18,FEET,55.7,DEGREES F,,
+06/17/2017,21,FEET,53.6,DEGREES F,,
+06/17/2017,24,FEET,53.2,DEGREES F,,
+06/17/2017,27,FEET,53,DEGREES F,,
+07/24/2017,1,FEET,76.8,DEGREES F,,
+07/24/2017,3,FEET,75.7,DEGREES F,,
+07/24/2017,6,FEET,75.5,DEGREES F,,
+07/24/2017,9,FEET,75.2,DEGREES F,,
+07/24/2017,12,FEET,72.6,DEGREES F,,
+07/24/2017,15,FEET,63.8,DEGREES F,,
+07/24/2017,18,FEET,58.4,DEGREES F,,
+07/24/2017,21,FEET,55.2,DEGREES F,,
+07/24/2017,24,FEET,53.6,DEGREES F,,
+07/24/2017,27,FEET,53.6,DEGREES F,,
+09/08/2017,1,FEET,63.8,DEGREES F,,
+09/08/2017,3,FEET,64,DEGREES F,,
+09/08/2017,6,FEET,64,DEGREES F,,
+09/08/2017,9,FEET,63.8,DEGREES F,,
+09/08/2017,12,FEET,63.6,DEGREES F,,
+09/08/2017,15,FEET,63.5,DEGREES F,,
+09/08/2017,18,FEET,63.3,DEGREES F,,
+09/08/2017,21,FEET,57.2,DEGREES F,,
+09/08/2017,24,FEET,55.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/13/1998,Sunny scattered clouds no wind. no boats.  Rain weeks ago. 1 seagull.    
+08/28/1998,Clear very breezy dry. no boats.    
+09/05/1998,Breezy warm. 3 ski boats 1 sail boat 2 motor boats 1 canoe.    
+09/16/1998,Clear calm. no boats loons.    
+10/15/1998,Partly cloudy warm.  Slight breeze.    
+08/07/2001,Exact collection time unknown; Clear.    
+08/07/2001,INTEGRATED SAMPLER- 2 METER SAMPLE    
+07/24/2017,Cloudless sky this morning. One adult eagle and eaglet watching from their nesting area.  Loons could be heard from Lower Springstead Lake. They did not incubate their eggs this spring.
+09/08/2017,Air temperature 60 degrees.  Sunny morning with light breeze causing ripples across water.  Observed one adult eagle perched high close to its nest.  Did not see the young eaglet that was born this spring.
+
+
+
+
+Start Date,Group Name,Project Name
+05/05/1998,Craig Roesler,LAKE EVALUATION
+06/15/1998,Craig Roesler,LAKE EVALUATION
+07/21/1998,Craig Roesler,LAKE EVAL BASIC
+08/13/1998,Meta Reigel,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+08/17/1998,Craig Roesler,LAKE EVAL BASIC
+08/28/1998,Meta Reigel,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+09/05/1998,Meta Reigel,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+09/16/1998,Meta Reigel,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+10/15/1998,Meta Reigel,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+08/07/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/07/2001,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/12/2015,Zach Wilson,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+06/17/2017,Debra Dequaine,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+07/24/2017,Debra Dequaine,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole
+09/08/2017,Debra Dequaine,Citizen Lake Monitoring - Water Quality - Upper Springstead Lake - Deep Hole

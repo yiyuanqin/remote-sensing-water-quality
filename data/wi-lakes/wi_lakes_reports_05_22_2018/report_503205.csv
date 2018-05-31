@@ -1,0 +1,190 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Marathon,5540624,WC,37,,503205,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+17880241,07/06/2006,1.25,NO,0.4,,,74,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17880241,07/18/2006,1.25,NO,0.4,,,74,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17880241,07/27/2006,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+17880241,08/06/2006,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+17880241,08/21/2006,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+17880241,05/19/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17880241,06/17/2008,,,,11,98,,64,53,,,,,
+25646709,07/25/2008,,,,43.7,68,,61,63,,,,,
+17880241,08/28/2008,,,,71.6,121,,65,67,,,,,
+17880241,05/22/2009,,,,,76,,62,,,,,,
+17880241,06/19/2009,,,,14.2,49,,58,55,,,,,
+17880241,07/05/2009,,,,48.1,89,,63,64,,,,,
+25646709,07/05/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,
+17880241,09/02/2009,,,,63.2,98,,64,66,,,,,
+25646709,09/02/2009,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+17880241,05/21/2010,,,,,46,,58,,,,,,
+17880241,06/24/2010,,,,36.2,65,,60,62,,,,,
+17880241,07/29/2010,,,,44.7,117,,65,64,,,,,
+16069611,08/25/2010,,,,32.7,111,,65,61,,,,,
+25646709,06/14/2011,,,,21.7,78,,62,58,,,,,
+25646709,07/12/2011,,,,41.8,69,,61,63,,,,,
+29175139,08/22/2011,,,,54.7,78,,62,65,,,,,
+17880241,05/21/2012,,,,,69,,61,,,,,,
+25646709,05/21/2012,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16069611,06/25/2012,,,,34.6,84,,62,62,,,,,
+25646709,06/28/2012,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16069611,07/23/2012,3,,0.9,59.9,84,61,62,66,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17880241,08/21/2012,3,NO,0.9,28.7,73,61,61,60,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17880241,06/11/2013,,,,9.71,76.2,,62,52,,,,,
+25646709,08/15/2013,,,,55,64.5,,60,65,,,,,
+17880241,06/24/2014,,,,25.2,46.1,,58,59,,,,,
+25646709,04/13/2015,,,,,74.9,,62,,,,,,
+25646709,05/19/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16069611,06/12/2015,3,NO,0.9,21.4,74.6,61,62,58,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25646709,07/14/2015,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25646709,08/23/2015,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17880241,05/16/2016,,,,,63.9,,60,,,,,,
+25646709,05/16/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25646709,06/22/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25646709,07/17/2016,3,NO,0.9,38,68.7,61,61,62,NORMAL,6,MURKY,BROWN,2-Very minor aesthetic problems
+25646709,08/22/2016,,,,40.3,87.7,,63,63,,,,,
+16069611,05/08/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+17880241,06/02/2017,,,,14.6,45.9,,58,55,,,,,
+25646709,06/08/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,07/22/2017,,,,28.6,64.9,,60,60,,,,,
+25646709,07/22/2017,2.9,NO,0.9,,,62,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25646709,08/23/2017,,NO,,43.2,64.9,,60,63,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/19/2008,0,FEET,59.3,DEGREES F,,
+05/19/2008,5,FEET,59.7,DEGREES F,,
+05/19/2008,10,FEET,59.7,DEGREES F,,
+05/19/2008,15,FEET,59,DEGREES F,,
+05/19/2008,20,FEET,58.8,DEGREES F,,
+05/19/2008,25,FEET,58.8,DEGREES F,,
+07/05/2009,0,FEET,71.4,DEGREES F,,
+07/05/2009,5,FEET,71.6,DEGREES F,,
+07/05/2009,10,FEET,71.6,DEGREES F,,
+07/05/2009,15,FEET,71.6,DEGREES F,,
+09/02/2009,0,FEET,68.7,DEGREES F,,
+09/02/2009,5,FEET,68.3,DEGREES F,,
+09/02/2009,10,FEET,67.2,DEGREES F,,
+09/02/2009,15,FEET,66.7,DEGREES F,,
+05/21/2012,0,FEET,65.4,DEGREES F,,
+05/21/2012,5,FEET,56.9,DEGREES F,,
+05/21/2012,10,FEET,67.2,DEGREES F,,
+05/21/2012,15,FEET,67.2,DEGREES F,,
+06/28/2012,0,FEET,78.6,DEGREES F,,
+06/28/2012,5,FEET,76.8,DEGREES F,,
+06/28/2012,10,FEET,75.2,DEGREES F,,
+06/28/2012,15,FEET,73.7,DEGREES F,,
+07/23/2012,0,FEET,80.9,DEGREES F,,
+07/23/2012,5,FEET,80.6,DEGREES F,,
+07/23/2012,10,FEET,79.8,DEGREES F,,
+07/23/2012,15,FEET,79.3,DEGREES F,,
+08/21/2012,0,FEET,71.6,DEGREES F,,
+08/21/2012,5,FEET,71,DEGREES F,,
+08/21/2012,10,FEET,70.8,DEGREES F,,
+08/21/2012,15,FEET,70.8,DEGREES F,,
+05/16/2016,0,FEET,56.6,DEGREES F,,
+05/16/2016,5,FEET,54.6,DEGREES F,,
+05/16/2016,10,FEET,53.4,DEGREES F,,
+05/16/2016,15,FEET,53.6,DEGREES F,,
+05/16/2016,20,FEET,53.2,DEGREES F,,
+06/22/2016,0,FEET,74.1,DEGREES F,,
+06/22/2016,5,FEET,74.1,DEGREES F,,
+06/22/2016,10,FEET,74.1,DEGREES F,,
+06/22/2016,15,FEET,74.1,DEGREES F,,
+07/17/2016,0,FEET,75.5,DEGREES F,,
+07/17/2016,5,FEET,74.6,DEGREES F,,
+07/17/2016,10,FEET,74.3,DEGREES F,,
+07/17/2016,15,FEET,73.4,DEGREES F,,
+05/08/2017,0,FEET,54.3,DEGREES F,,
+05/08/2017,5,FEET,54.6,DEGREES F,,
+05/08/2017,10,FEET,54.5,DEGREES F,,
+05/08/2017,15,FEET,54.5,DEGREES F,,
+06/08/2017,0,FEET,74.6,DEGREES F,,
+06/08/2017,5,FEET,73.7,DEGREES F,,
+06/08/2017,10,FEET,72.6,DEGREES F,,
+06/08/2017,15,FEET,62.7,DEGREES F,,
+07/22/2017,0,FEET,76,DEGREES F,,
+07/22/2017,5,FEET,77,DEGREES F,,
+07/22/2017,10,FEET,77,DEGREES F,,
+07/22/2017,15,FEET,77,DEGREES F,,
+08/23/2017,0,FEET,64.8,DEGREES F,,
+08/23/2017,5,FEET,70,DEGREES F,,
+08/23/2017,10,FEET,69.9,DEGREES F,,
+08/23/2017,15,FEET,69.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/02/2009,Carl Truss
+08/21/2012,algae
+05/19/2015,Cold- 45 degrees- windy- miserable
+06/12/2015,windy- lake looks murky- 61 degrees
+07/14/2015,Windy- clear day- water murky
+08/23/2015,Very windy- cloudy and cool
+05/16/2016,Sunny- breezy- temp 55 degrees. Has been very cold and windy past few days.
+Spring fishing has been only fair.
+06/22/2016,Very windy few days. Water temperature same at all depth readings.
+Carl Truss assisted with collection also.
+05/08/2017,Sid Ellenbecker only
+06/08/2017,Peter Boettcher and Sid Ellenbecker
+07/22/2017,Sid Ellenbecker. Warm- humid- calm.
+08/23/2017,Mild breeze today- sunny- air temp 58. Was very windy yesterday with white caps. Light breeze- sunny- air temp 58.  It was very windy yesterday with whitecaps all day.
+
+
+
+
+Start Date,Group Name,Project Name
+07/06/2006,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/18/2006,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/27/2006,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/06/2006,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/21/2006,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/19/2008,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/17/2008,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/25/2008,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/28/2008,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/22/2009,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/19/2009,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/05/2009,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/05/2009,Peter Boettcher,Citizen Lake Monitoring Network QA/QC - 2009
+07/05/2009,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+09/02/2009,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+09/02/2009,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/21/2010,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/24/2010,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/29/2010,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/25/2010,Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/14/2011,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/12/2011,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/22/2011,Summer 2008 Fourth Lake (Moen) Volunteers,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/21/2012,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/21/2012,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/25/2012,Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/28/2012,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/23/2012,Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/21/2012,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/11/2013,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/15/2013,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/24/2014,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+04/13/2015,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/19/2015,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/12/2015,Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/14/2015,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/23/2015,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/16/2016,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/16/2016,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/22/2016,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/17/2016,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/22/2016,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+05/08/2017,Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/02/2017,Peter Boettcher,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+06/08/2017,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/22/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+07/22/2017,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin
+08/23/2017,Peter Boettcher- Sidney J Ellenbecker,Citizen Lake Monitoring - Water Quality - Lake Dubay- Peplin

@@ -1,0 +1,115 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Round Lake,Oneida,1610400,NO,44,,443247,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/30/1979,,,,,,,,,,,,,
+8190389,09/19/1994,4,NO,1.2,,,57,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,07/01/1995,5,NO,1.5,,,54,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190389,07/14/1995,7,NO,2.1,,,49,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,07/24/1995,6,NO,1.8,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190389,08/12/1995,6.25,NO,1.9,,,51,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,09/14/1995,5,NO,1.5,,,54,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190389,10/11/1995,4.5,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8190389,07/05/1996,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,07/26/1996,4.8,NO,1.5,,,55,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,08/10/1996,5.25,NO,1.6,,,53,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,08/29/1996,5,NO,1.5,,,54,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,09/18/1996,5,NO,1.5,,,54,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,10/08/1996,4.75,NO,1.4,,,55,,,GOING DOWN,,,BROWN,2-Very minor aesthetic problems
+8190389,05/22/1997,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,06/05/1997,5,NO,1.5,,,54,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190389,07/19/1997,5.25,NO,1.6,,,53,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,07/30/1997,6,NO,1.8,,,51,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190389,08/27/1997,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8190389,06/15/1998,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190389,07/10/1998,6.5,NO,2,,,50,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190389,07/20/1998,6.5,NO,2,,,50,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190389,09/15/1998,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+82637790,07/25/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+82637790,08/31/2013,5.75,NO,1.7,,,52,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+82637790,09/24/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+82637790,10/08/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+82637790,10/19/2013,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+82637790,09/07/2014,6, ,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+21928796,04/28/2015,3.7,N,1.1,7.06,31.2,58,55,50,,,,,
+16073539,06/18/2015,4.1,N,1.2,9.79,30,57,54,52,,,,,
+16073539,07/15/2015,3.8,NO,1.2,6.52,34,58,55,49,,,,,
+16073539,08/18/2015,4.9,N,1.5,7.43,26.1,54,53,50,,,,,
+34972236,10/22/2015,4.7,N,1.4,10,27.6,55,54,52,,,,,
+21928796,02/23/2016,3.2,N,1,,43.5,60,57,,,,,,
+82637790,06/08/2016,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+82637790,06/16/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+82637790,09/18/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+82637790,07/29/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+82637790,08/12/2017,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/30/1979,,,22,C,,
+04/28/2015,,,10.3,C,10,MG/L
+06/18/2015,,,20.0,C,6.0,MG/L
+07/15/2015,,,22.3,C,5.7,MG/L
+08/18/2015,,,23.3,C,7.0,MG/L
+10/22/2015,,,9.7,C,10.3,MG/L
+02/23/2016,,,0.7,C,1.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/30/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/24/1995,Slightly overcast.    
+04/28/2015,Data was actually collected at Round Lake (not Townline) per note from Onterra staff.
+06/08/2016,Sunny- wind 0-2 mph
+06/16/2016,Sunny- Light wind
+09/18/2016,Sunny with very light wind from the SW
+
+
+
+
+Start Date,Group Name,Project Name
+07/30/1979,Data Collectors,Migrated from STORET Legacy
+09/19/1994,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/01/1995,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/14/1995,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/24/1995,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+08/12/1995,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+09/14/1995,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+10/11/1995,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/05/1996,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/26/1996,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+08/10/1996,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+08/29/1996,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+09/18/1996,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+10/08/1996,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+05/22/1997,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+06/05/1997,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/19/1997,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/30/1997,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+08/27/1997,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+06/15/1998,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/10/1998,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/20/1998,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+09/15/1998,Marv Lutz,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/25/2013,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+08/31/2013,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+09/24/2013,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+10/08/2013,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+10/19/2013,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+09/07/2014,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+04/28/2015,Brenton Butterfield - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+06/18/2015,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+07/15/2015,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+08/18/2015,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+10/22/2015,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+02/23/2016,Brenton Butterfield - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+06/08/2016,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+06/16/2016,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+09/18/2016,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+07/29/2017,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole
+08/12/2017,Michael Freehill,Citizen Lake Monitoring - Water Quality - Round Lake - Deep Hole

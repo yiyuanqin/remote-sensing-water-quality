@@ -1,0 +1,43 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lulu Lake,Shawano,324000,NE,59,,10048049,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/19/2017,,,,,,,,,,,,,
+1,05/21/2017,,,,,,,,,,,,,
+1,05/23/2017,,,,,,,,,,,,,
+1,05/25/2017,,,,,,,,,,,,,
+1,06/01/2017,,,,,,,,,,,,,
+1,06/08/2017,,,,,,,,,,,,,
+1,06/15/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/19/2017,,,19.1,C,,
+05/21/2017,,,14.7,C,,
+05/23/2017,,,15.3,C,,
+05/25/2017,,,16.2,C,,
+06/01/2017,,,22.5,C,,
+06/08/2017,,,26.1,C,,
+06/15/2017,,,24.1,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/19/2017,Data Collectors,Herbicide Concentration Monitoring
+05/21/2017,Data Collectors,Herbicide Concentration Monitoring
+05/23/2017,Data Collectors,Herbicide Concentration Monitoring
+05/25/2017,Data Collectors,Herbicide Concentration Monitoring
+06/01/2017,Data Collectors,Herbicide Concentration Monitoring
+06/08/2017,Data Collectors,Herbicide Concentration Monitoring
+06/15/2017,Data Collectors,Herbicide Concentration Monitoring

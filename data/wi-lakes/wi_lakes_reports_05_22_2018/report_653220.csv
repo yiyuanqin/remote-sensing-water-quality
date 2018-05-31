@@ -1,0 +1,766 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Potter Lake,Walworth,753800,SE,65,,653220,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+41731863,07/13/1978,2,NO,0.6,,,67,,,,,,,
+41731863,02/11/1980,,,,,,,,,,,,,
+1,09/10/1980,2.3,,0.71,20,,65,,57,,,,,
+1,09/14/1981,3.9,,1.2,10,,57,,52,,,,,
+8190304,06/12/1993,5,NO,1.5,,,54,,,GAUGE,8.25,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/20/1993,4,NO,1.2,,,57,,,GAUGE,8.3,,BROWN,4-Would not swim but boating OK (algae)
+1,06/21/1993,,,,16.2,34,,55,56,,,,,
+8190304,06/25/1993,3.5,NO,1.1,,,59,,,GAUGE,8.15,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190304,07/06/1993,3.5,NO,1.1,,,59,,,GAUGE,7.9,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+1,07/21/1993,,,,21.7,32,,55,58,,,,,
+8190304,08/01/1993,3,NO,0.9,,,61,,,GAUGE,7.8,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+1,08/10/1993,,,,18.2,33,,55,57,,,,,
+8190304,08/15/1993,3.5,NO,1.1,,,59,,,GAUGE,7.7,,GREEN,4-Would not swim but boating OK (algae)
+8190304,08/22/1993,3.5,NO,1.1,,,59,,,GAUGE,7.78,,BROWN,4-Would not swim but boating OK (algae)
+8190304,08/28/1993,3.5,NO,1.1,,,59,,,GAUGE,7.6,,BROWN,4-Would not swim but boating OK (algae)
+8190304,09/05/1993,3.5,NO,1.1,,,59,,,GAUGE,7.7,,BROWN,4-Would not swim but boating OK (algae)
+8190304,09/12/1993,3.5,NO,1.1,,,59,,,GAUGE,7.58,,BROWN,4-Would not swim but boating OK (algae)
+8190304,09/19/1993,3.5,NO,1.1,,,59,,,GAUGE,7.8,,BROWN,4-Would not swim but boating OK (algae)
+8190304,10/03/1993,3.5,NO,1.1,,,59,,,GAUGE,7.9,,GREEN/BROWN,
+8190304,10/17/1993,4.5,NO,1.4,,,55,,,GAUGE,7.5,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/24/1993,4.5,NO,1.4,,,55,,,GAUGE,7.3,,BROWN,
+8190304,11/21/1993,5.5,NO,1.7,,,53,,,GAUGE,7.18,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,01/01/1994,5.5,NO,1.7,,,53,,,GAUGE,7.1,MURKY,,2-Very minor aesthetic problems
+8190304,02/20/1994,,,,,,,,,GAUGE,7.4,,,3-Enjoyment somewhat impaired (algae)
+8190304,03/06/1994,9,NO,2.7,,,45,,,GAUGE,7.6,CLEAR,,
+8190304,03/13/1994,7,NO,2.1,,,49,,,GAUGE,7.6,CLEAR,,2-Very minor aesthetic problems
+1,04/11/1994,,,,6.09,26,,53,48,,,,,
+8190304,04/22/1994,5,NO,1.5,,,54,,,GAUGE,7.4,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/08/1994,5,NO,1.5,,,54,,,GAUGE,7.45,,BROWN,
+8190304,05/21/1994,9,NO,2.7,,,45,,,GAUGE,7.35,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/30/1994,4,NO,1.2,,,57,,,GAUGE,7.25,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,06/05/1994,4,NO,1.2,,,57,,,GAUGE,7.15,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,06/12/1994,2.5,NO,0.8,,,64,,,GAUGE,7.08,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/15/1994,,,,15,45,,58,55,,,,,
+8190304,06/19/1994,4,NO,1.2,,,57,,,GAUGE,7,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,06/26/1994,4,NO,1.2,,,57,,,GAUGE,7.05,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,07/08/1994,4,NO,1.2,,,57,,,GAUGE,6.9,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,07/17/1994,4,NO,1.2,,,57,,,GAUGE,6.9,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/18/1994,,,,7.94,33,,55,50,,,,,
+8190304,07/30/1994,3.5,NO,1.1,,,59,,,GAUGE,6.5,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/10/1994,,,,15.6,44,,57,56,,,,,
+8190304,08/13/1994,2.5,NO,0.8,,,64,,,GAUGE,6.95,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,08/27/1994,2.5,NO,0.8,,,64,,,GAUGE,7,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/05/1994,2.5,NO,0.8,,,64,,,GAUGE,6.8,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/11/1994,2.5,NO,0.8,,,64,,,GAUGE,6.85,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/18/1994,3.5,NO,1.1,,,59,,,GAUGE,6.78,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/25/1994,3,NO,0.9,,,61,,,GAUGE,6.7,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/09/1994,3.5,NO,1.1,,,59,,,GAUGE,6.6,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/14/1994,4,NO,1.2,,,57,,,GAUGE,6.5,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,12/18/1994,8,NO,2.4,,,47,,,GAUGE,6.7,CLEAR,BLUE,
+8190304,01/22/1995,4,NO,1.2,,,57,,,GAUGE,6.9,CLEAR,BLUE,2-Very minor aesthetic problems
+8190304,02/19/1995,7,NO,2.1,,,49,,,GAUGE,6.9,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190304,04/16/1995,7.5,NO,2.3,,,48,,,GAUGE,7.35,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,04/17/1995,,,,3.47,20,,51,44,,,,,
+8190304,05/06/1995,7.5,NO,2.3,,,48,,,GAUGE,7.55,,BLUE/GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/25/1995,6,NO,1.8,,,51,,,GAUGE,7.7,,BLUE/GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/28/1995,5,NO,1.5,,,54,,,GAUGE,7.8,,BLUE/GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/04/1995,7.5,NO,2.3,,,48,,,GAUGE,7.75,,BLUE/GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/18/1995,4,NO,1.2,,,57,,,GAUGE,7.6,,GREEN BROWN,4-Would not swim but boating OK (algae)
+1,06/19/1995,,,,3.11,18,,51,43,,,,,
+1,06/21/1995,3.6,,1.1,2.12,23,59,52,40,,,,,
+8190304,06/24/1995,4,NO,1.2,,,57,,,GAUGE,7.48,,GREEN,5-Enjoyment substantially impaired (algae)
+1,07/06/1995,,,,2.35,28,,54,41,,,,,
+8190304,07/13/1995,4,NO,1.2,,,57,,,GAUGE,7.2,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,07/18/1995,4,NO,1.2,,,57,,,GAUGE,7.32,,BLUE/GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/24/1995,4.5,NO,1.4,,,55,,,GAUGE,7.28,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,08/04/1995,5,NO,1.5,,,54,,,GAUGE,7.25,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,08/12/1995,7,NO,2.1,,,49,,,GAUGE,7.4,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,08/13/1995,7.5,NO,2.3,,,48,,,GAUGE,7.4,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/17/1995,,,,3.5,17,,50,44,,,,,
+8190304,08/17/1995,7.5,NO,2.3,,,48,,,GAUGE,7.56,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/22/1995,6.6,,2,3.44,16,50,50,44,,,,,
+8190304,08/26/1995,6,NO,1.8,,,51,,,GAUGE,7.62,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/02/1995,6.5,NO,2,,,50,,,GAUGE,7.6,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/03/1995,6,NO,1.8,,,51,,,GAUGE,7.6,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/04/1995,6,NO,1.8,,,51,,,GAUGE,7.6,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/20/1995,,,,6.64,20,,51,49,,,,,
+1,10/19/1995,9.2,,2.8,3.5,28,45,54,44,,,,,
+8190304,10/20/1995,8,NO,2.4,,,47,,,GAUGE,7.4,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,12/17/1995,12.5,NO,3.8,,,41,,,GAUGE,7.85,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190304,01/20/1996,11,NO,3.3,,,43,,,GAUGE,7.91,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,04/18/1996,,,,2.06,18,,51,40,,,,,
+8190304,04/27/1996,8,NO,2.4,,,47,,,GAUGE,7.9,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/04/1996,9,NO,2.7,,,45,,,GAUGE,7.95,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/08/1996,8,NO,2.4,,,47,,,GAUGE,8,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/18/1996,7,NO,2.1,,,49,,,GAUGE,8.09,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/25/1996,6,NO,1.8,,,51,,,GAUGE,8.09,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/27/1996,7,NO,2.1,,,49,,,GAUGE,8,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/31/1996,6.5,NO,2,,,50,,,GAUGE,7.95,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/02/1996,6,NO,1.8,,,51,,,GAUGE,8.05,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/04/1996,,,,5.53,21,,52,48,,,,,
+8190304,06/15/1996,8,NO,2.4,,,47,,,GAUGE,8.1,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/16/1996,9,NO,2.7,,,45,,,GAUGE,8.1,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/20/1996,11,NO,3.3,,,43,,,HIGHEST IN 80 YEARS,8.58,,,3-Enjoyment somewhat impaired (algae)
+8190304,06/23/1996,11.5,NO,3.5,,,42,,,GAUGE,8.48,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/28/1996,13,NO,4,,,40,,,GAUGE,8.4,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/29/1996,13,NO,4,,,40,,,GAUGE,8.3,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/30/1996,13.4,NO,4.1,,,40,,,GAUGE,8.28,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/04/1996,6,NO,1.8,,,51,,,GAUGE,7.95,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/10/1996,,,,2.25,14,,49,41,,,,,
+8190304,07/19/1996,9,NO,2.7,,,45,,,GAUGE,8,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/20/1996,8,NO,2.4,,,47,,,GAUGE,7.92,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/21/1996,8,NO,2.4,,,47,,,GAUGE,7.92,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/22/1996,8,NO,2.4,,,47,,,GAUGE,7.92,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/23/1996,8.5,NO,2.6,,,46,,,GAUGE,7.92,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/27/1996,8.5,NO,2.6,,,46,,,GAUGE,7.82,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/03/1996,7.5,NO,2.3,,,48,,,GAUGE,7.78,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/05/1996,,,,2.56,13,,48,42,,,,,
+8190304,08/10/1996,5.5,NO,1.7,,,53,,,GAUGE,7.78,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/16/1996,6,NO,1.8,,,51,,,GAUGE,7.7,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/17/1996,5.5,NO,1.7,,,53,,,GAUGE,7.68,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/18/1996,5.5,NO,1.7,,,53,,,GAUGE,7.65,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/23/1996,7,NO,2.1,,,49,,,GAUGE,7.7,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/30/1996,5.5,NO,1.7,,,53,,,GAUGE,7.6,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,08/31/1996,6.5,NO,2,,,50,,,GAUGE,7.6,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/01/1996,7.5,NO,2.3,,,48,,,GAUGE,7.58,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/02/1996,8,NO,2.4,,,47,,,GAUGE,7.58,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/08/1996,8,NO,2.4,,,47,,,GAUGE,7.5,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/14/1996,8,NO,2.4,,,47,,,GAUGE,7.38,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/15/1996,8,NO,2.4,,,47,,,GAUGE,7.37,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/19/1996,9,NO,2.7,,,45,,,GAUGE,7.3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/22/1996,9,NO,2.7,,,45,,,GAUGE,7.29,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/28/1996,8,NO,2.4,,,47,,,GAUGE,7.29,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/29/1996,7.5,NO,2.3,,,48,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/06/1996,8,NO,2.4,,,47,,,GAUGE,7.25,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/09/1996,7,NO,2.1,,,49,,,GAUGE,7.25,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/12/1996,7.5,NO,2.3,,,48,,,GAUGE,7.24,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/13/1996,8,NO,2.4,,,47,,,GAUGE,7.22,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/19/1996,9,NO,2.7,,,45,,,GAUGE,7.22,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/20/1996,9,NO,2.7,,,45,,,GAUGE,7.2,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,02/11/1997,,,,,27,,54,,,,,,
+1,04/10/1997,,,,3.73,19,,51,45,,,,,
+8190304,04/18/1997,8,NO,2.4,,,47,,,GAUGE,7.8,CLEAR,BLUE,2-Very minor aesthetic problems
+8190304,04/20/1997,9,NO,2.7,,,45,,,GAUGE,7.8,CLEAR,BLUE,2-Very minor aesthetic problems
+8190304,04/25/1997,9.5,NO,2.9,,,45,,,GAUGE,7.8,CLEAR,BLUE,2-Very minor aesthetic problems
+8190304,05/17/1997,8.6,NO,2.6,,,46,,,GAUGE,7.75,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/18/1997,7,NO,2.1,,,49,,,GAUGE,7.75,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/21/1997,7.5,NO,2.3,,,48,,,GAUGE,7.75,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/23/1997,7.5,NO,2.3,,,48,,,GAUGE,7.75,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/01/1997,10,NO,3,,,44,,,GAUGE,7.68,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,06/04/1997,,,,2.41,35,,56,41,,,,,
+8190304,06/08/1997,10,NO,3,,,44,,,GAUGE,7.59,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190304,06/14/1997,9,NO,2.7,,,45,,,GAUGE,7.5,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/15/1997,8,NO,2.4,,,47,,,GAUGE,7.5,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/20/1997,8,NO,2.4,,,47,,,GAUGE,7.62,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/21/1997,8,NO,2.4,,,47,,,GAUGE,7.65,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/22/1997,9,NO,2.7,,,45,,,GAUGE,7.76,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/21/1997,,,,6.51,18,,51,49,,,,,
+8190304,08/05/1997,6.5,NO,2,,,50,,,GAUGE,7.4,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,08/18/1997,,,,9.23,28,,54,52,,,,,
+8190304,08/24/1997,5,NO,1.5,,,54,,,GAUGE,7.38,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190304,08/25/1997,5,NO,1.5,,,54,,,GAUGE,7.38,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190304,09/26/1997,5,NO,1.5,,,54,,,GAUGE,7.2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190304,10/16/1997,5.6,NO,1.7,,,52,,,GAUGE,6.95,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190304,12/07/1997,9.34,NO,2.8,,,45,,,GAUGE,6.88,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,01/08/1998,10,NO,3,,,44,,,GAUGE,1,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,04/06/1998,5.5,NO,1.7,,,52,,,GAUGE,1,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,04/19/1998,5.5,NO,1.7,,,52,,,GAUGE,1,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,04/20/1998,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,04/26/1998,7,NO,2.1,,,49,,,GAUGE,1,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/03/1998,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,05/11/1998,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/06/1998,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/27/1998,7.75,NO,2.4,,,48,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/26/1998,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,09/20/1998,7.5,NO,2.3,,,48,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,10/06/1998,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,01/17/1999,5,NO,1.5,,,54,,,GAUGE,1,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,02/11/1999,,,,,51,,59,,,,,,
+1,04/21/1999,,,,1.91,17,,50,40,,,,,
+8190304,05/01/1999,7.5,NO,2.3,,,48,,,GAUGE,8.21,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/03/1999,7,NO,2.1,,,49,,,GAUGE,8.19,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/29/1999,5,NO,1.5,,,54,,,GAUGE,8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/30/1999,5,NO,1.5,,,54,,,GAUGE,8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/31/1999,3,NO,0.9,,,61,,,GAUGE,7.98,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,06/05/1999,4.5,NO,1.4,,,55,,,GAUGE,8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,06/06/1999,3,NO,0.9,,,61,,,GAUGE,7.98,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/11/1999,,,,7.74,22,,52,50,,,,,
+1,07/08/1999,,,,19.6,46,,58,57,,,,,
+8190304,07/24/1999,3,NO,0.9,,,61,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+8190304,07/31/1999,3,NO,0.9,,,61,,,GAUGE,7.8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/05/1999,,,,8,41,,57,51,,,,,
+8190304,08/14/1999,3,NO,0.9,,,61,,,GAUGE,7.4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188525,08/18/1999,2.296,,0.7,9,66,65,61,51,,,,,
+8190304,08/28/1999,2,NO,0.6,,,67,,,GAUGE,7.28,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,08/29/1999,2.5,NO,0.8,,,64,,,GAUGE,7.28,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/04/1999,3,NO,0.9,,,61,,,GAUGE,7.15,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/05/1999,4,NO,1.2,,,57,,,GAUGE,7.15,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/06/1999,4,NO,1.2,,,57,,,GAUGE,7.15,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/10/1999,4,NO,1.2,,,57,,,GAUGE,7.15,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,11/06/1999,4,NO,1.2,,,57,,,GAUGE,6.88,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,02/09/2000,,,,,36,,56,,,,,,
+1,03/29/2000,,,,18,36,,56,57,,,,,
+8190304,05/04/2000,2,NO,0.6,,,67,,,GAUGE,7.25,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/29/2000,2.5,NO,0.8,,,64,,,GAUGE,7.75,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/08/2000,,,,14,,,,55,,,,,
+1,07/06/2000,,,,13,,,,54,,,,,
+1,08/08/2000,,,,8,,,,51,,,,,
+8190304,08/15/2000,3,NO,0.9,,,61,,,GAUGE,7.69,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/10/2000,3,NO,0.9,,,61,,,GAUGE,7.69,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,02/12/2001,,,,,16,,50,,,,,,
+1,04/18/2001,,,,20,29,,54,57,,,,,
+8190304,04/29/2001,4,NO,1.2,,,57,,,GAUGE,8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/20/2001,3,NO,0.9,,,61,,,GAUGE,8,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,06/23/2001,8.25,NO,2.5,,,47,,,GAUGE,8.25,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,07/04/2001,2.5,NO,0.8,,,64,,,GAUGE,7.96,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/14/2001,,,,5.7,,,,48,,,,,
+8190304,07/31/2001,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/14/2001,,,,2,,,,40,,,,,
+1,02/12/2002,,,,,21,,52,,,,,,
+1,04/09/2002,,,,5,25,,53,47,,,,,
+8190304,05/13/2002,3,NO,0.9,,,61,,,GAUGE,8.12,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,05/31/2002,3,NO,0.9,,,61,,,GAUGE,8.05,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/10/2002,,,,3.92,31,,55,45,,,,,
+8190304,06/29/2002,2.5,NO,0.8,,,64,,,GAUGE,8.09,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/06/2002,,,,9.77,41,,57,52,,,,,
+8190304,08/06/2002,2.5,NO,0.8,,,64,,,GAUGE,7.48,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,09/29/2002,2,NO,0.6,,,67,,,GAUGE,7.34,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190304,10/08/2002,2,NO,0.6,,,67,,,GAUGE,7.3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190304,10/13/2002,2,NO,0.6,,,67,,,GAUGE,7.29,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,02/19/2003,,,,,17,,50,,,,,,
+1,04/15/2003,,,,7.07,,,,50,,,,,
+1,06/10/2003,,,,6.92,39,,57,49,,,,,
+1,07/09/2003,,,,14,37,,56,55,,,,,
+1,08/20/2003,,,,7.48,30,,54,50,,,,,
+7000066,09/09/2003,,,,8.14,32,,55,51,,,,,
+8188630,04/08/2004,,,,7.56,24,,53,50,,,,,
+7000045,04/14/2004,7.5,NO,2.3,,23,48,52,,,,,,
+8188630,06/07/2004,,,,3.06,38,,56,43,,,,,
+8188630,07/12/2004,,,,16.2,37,,56,56,,,,,
+8188630,07/27/2004,,,,13.8,42,,57,55,,,,,
+7000045,08/03/2004,5.2,YES,1.6,,35,53,56,,,,,,
+8188630,08/09/2004,,,,18.3,49,,58,57,,,,,
+1,08/24/2004,,,,27.1,54,,59,60,,,,,
+1,09/23/2004,,,,13.5,47,,58,54,,,,,
+1,02/09/2005,,,,,19,,51,,,,,,
+1,04/11/2005,,,,11.1,21,,52,53,,,,,
+1,06/07/2005,,,,12.2,36,,56,54,,,,,
+1,07/12/2005,,,,11.3,42,,57,53,,,,,
+1,07/28/2005,,,,22.4,56,,59,58,,,,,
+7000045,08/09/2005,,,,15.4,96,,63,55,,,,,
+1,08/25/2005,,,,17,72,,61,56,,,,,
+1,09/27/2005,,,,23.6,71,,61,59,,,,,
+1,02/22/2006,,,,,27,,54,,,,,,
+1,04/05/2006,,,,19.3,45,,58,57,,,,,
+1,06/12/2006,,,,8.11,47,,58,51,,,,,
+1,07/12/2006,,,,7.88,92,,63,50,,,,,
+8188630,07/27/2006,,,,10.4,42,,57,53,,,,,
+1,08/08/2006,,,,10.6,56,,59,53,,,,,
+1,08/31/2006,,,,16.8,49,,58,56,,,,,
+1,09/27/2006,,,,17.6,46,,58,56,,,,,
+8188630,02/27/2007,,,,,38,,56,,,,,,
+8188630,04/16/2007,,,,13.7,24,,53,55,,,,,
+8188630,06/13/2007,,,,3.17,39,,57,44,,,,,
+8188630,07/18/2007,,,,10.8,36,,56,53,,,,,
+8188630,07/30/2007,,,,8.63,29,,54,51,,,,,
+8188630,08/13/2007,,,,9.22,28,,54,52,,,,,
+8188630,08/27/2007,,,,9.94,,,,52,,,,,
+8188630,09/14/2007,,,,6.67,29,,54,49,,,,,
+7000045,07/31/2012,5.2,NO,1.6,,,53,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000045,08/23/2012,3.9,NO,1.2,6.25,39,57,57,49,,,,,
+44439825,08/23/2012,3.6,NO,1.1,,,59,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+20752318,09/05/2012,3.3,NO,1,16.1,43,60,57,56,,,,,
+44439825,09/05/2012,3.3,NO,1,,,60,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+67199520,05/16/2013,,,,5.37,51,,59,48,,,,,
+67199520,06/28/2013,,,,10.9,36.9,,56,53,,,,,
+7000045,07/30/2013,2.6,N,0.8,14.6,26.6,63,54,55,,,,,
+33543112,07/30/2013,2.5,NO,0.8,,,64,,,,,,,
+37541368,08/11/2013,,,,12.5,25.2,,53,54,,,,,
+33543112,08/16/2013,1.08,NO,0.3,11.4,26.7,76,54,53,,,,,
+7000045,09/05/2013,3.6,N,1.1,9.95,28.6,59,54,52,,,,,
+67199520,09/06/2013,,,,11,31.4,,55,53,,,,,
+37541368,10/25/2013,,,,4.79,29.3,,54,47,,,,,
+1,04/22/2016,,,,3.49,,,,44,,,,,
+1,06/29/2016,,,,7.3,29.8,,54,50,,,,,
+1,07/28/2016,,,,7.42,27.5,,54,50,,,,,
+1,08/31/2016,,,,11.3,33.9,,55,53,,,,,
+1,10/03/2016,,,,16.3,43.8,,57,56,,,,,
+1,04/12/2017,,,,5.84,24.9,,53,48,,,,,
+1,06/27/2017,,,,12.1,41.8,,57,54,,,,,
+1,08/31/2017,,,,13.5,28.8,,54,54,,,,,
+1,09/29/2017,,,,10.5,27.9,,54,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/13/1978,0,FEET,23.5,DEGREES C,8.2,MG/L
+07/13/1978,5,FEET,23.5,DEGREES C,8.1,MG/L
+07/13/1978,6,FEET,23,DEGREES C,8.1,MG/L
+07/13/1978,7,FEET,23,DEGREES C,8,MG/L
+07/13/1978,10,FEET,23,DEGREES C,7.9,MG/L
+07/13/1978,11,FEET,23,DEGREES C,7.7,MG/L
+07/13/1978,12,FEET,23,DEGREES C,7.4,MG/L
+07/13/1978,13,FEET,22,DEGREES C,0,MG/L
+07/13/1978,14,FEET,20,DEGREES C,0,MG/L
+07/13/1978,15,FEET,19.5,DEGREES C,0,MG/L
+07/13/1978,16,FEET,19,DEGREES C,0,MG/L
+07/13/1978,18,FEET,18.5,DEGREES C,0,MG/L
+07/13/1978,19,FEET,18,DEGREES C,0,MG/L
+07/13/1978,21,FEET,17.5,DEGREES C,0,MG/L
+02/11/1980,0,FEET,1,DEGREES C,15,MG/L
+02/11/1980,2,FEET,1,DEGREES C,14.4,MG/L
+02/11/1980,4,FEET,2,DEGREES C,8.8,MG/L
+02/11/1980,6,FEET,3,DEGREES C,8.2,MG/L
+02/11/1980,8,FEET,3,DEGREES C,7.7,MG/L
+02/11/1980,10,FEET,4,DEGREES C,7.7,MG/L
+02/11/1980,12,FEET,4,DEGREES C,7.5,MG/L
+02/11/1980,14,FEET,4,DEGREES C,7,MG/L
+02/11/1980,16,FEET,4,DEGREES C,5.8,MG/L
+02/11/1980,18,FEET,4,DEGREES C,5,MG/L
+02/11/1980,20,FEET,4,DEGREES C,2.5,MG/L
+02/11/1980,22,FEET,4,DEGREES C,2.2,MG/L
+02/11/1980,23,FEET,4,DEGREES C,.8,MG/L
+06/21/1993,,,15.1,C,0.0,MG/L
+07/21/1993,,,15.9,C,0.0,MG/L
+08/10/1993,,,17.7,C,0.0,MG/L
+04/11/1994,,,8.7,C,11.6,MG/L
+06/15/1994,,,15.1,C,0.1,MG/L
+07/18/1994,,,15.9,C,0.7,MG/L
+08/10/1994,,,17.1,C,0.7,MG/L
+06/19/1995,,,14.9,C,0.2,MG/L
+06/21/1995,,,19.3,C,1.7,MG/L
+07/06/1995,,,15.0,C,0.3,MG/L
+08/17/1995,,,16.8,C,0.4,MG/L
+08/22/1995,,,25.6,C,0.1,MG/L
+09/20/1995,,,18.95,C,8.56,MG/L
+10/19/1995,,,13.04,C,10.12,MG/L
+04/18/1996,,,8.8,C,11.5,MG/L
+06/04/1996,,,11.3,C,0.0,MG/L
+07/10/1996,,,14.0,C,0.2,MG/L
+08/05/1996,,,15.1,C,0.1,MG/L
+02/11/1997,,,3.0,C,0.7,MG/L
+08/18/1999,3.28,FEET,,,7.4,MG/L
+08/18/1999,,,23.7,C,7.4,MG/L
+04/14/2004,1,FEET,,,11.5,MG/L
+04/14/2004,,,9.5,C,11.5,MG/L
+08/03/2004,6,FEET,,,7.8,MG/L
+08/03/2004,,,26.1,C,7.8,MG/L
+07/31/2012,3,FEET,27.87,DEGREES C,,
+07/31/2012,6,FEET,27.44,DEGREES C,,
+07/31/2012,9,FEET,27.42,DEGREES C,,
+07/31/2012,12,FEET,27.25,DEGREES C,,
+08/23/2012,0,FEET,23.82,DEGREES C,3.61,MG/L
+08/23/2012,3,FEET,23.65,DEGREES C,4.77,MG/L
+08/23/2012,6,FEET,23.58,DEGREES C,4.93,MG/L
+08/23/2012,9,FEET,23.52,DEGREES C,4.7,MG/L
+08/23/2012,,,23.7,C,4.8,MG/L
+09/05/2012,0,FEET,25.39,DEGREES C,10.55,MG/L
+09/05/2012,3,FEET,25.37,DEGREES C,10.42,MG/L
+09/05/2012,6,FEET,25.08,DEGREES C,10.62,MG/L
+09/05/2012,9,FEET,24.95,DEGREES C,8.54,MG/L
+09/05/2012,,,25.4,C,10.6,MG/L
+07/30/2013,3,FEET,22.32,DEGREES C,,
+07/30/2013,6,FEET,22.16,DEGREES C,,
+07/30/2013,9,FEET,21.83,DEGREES C,,
+07/30/2013,,,22.3,C,,
+09/05/2013,3,FEET,24.64,DEGREES C,8.74,MG/L
+09/05/2013,6,FEET,24.6,DEGREES C,8.79,MG/L
+09/05/2013,9,FEET,24.44,DEGREES C,8.94,MG/L
+09/05/2013,,,24.6,C,8.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/13/1978,Bullfrogs-Water loostrife-White-water lilies-Cattails-Soft-stem bullrush.
+09/10/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/14/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/12/1993,Lake blooming.    
+06/20/1993,2-4" rain- lake brown from runoff.    
+06/25/1993,Dam vandalized- water passing through in greater quantities- will be fixed in 2 weeks    
+07/06/1993,Very rainy weather    
+08/01/1993,Lake cloudy from wet weather- a scuba diver said there is no visibility under water.    
+10/03/1993,2" of rain in the past week.    
+01/01/1994,Too cold to swim.    
+02/20/1994,Ice 14" thick.  Ten secchi disk readings from 1.25'-11' deep.  In some spots as soon as disk went beyond ice it disappeared.  I was in 12' of water at the 11' reading.    
+03/06/1994,Excellent conditions for ice fishing- ice skating- etc.  Ice 14" thick-8 different locations.  Water + slush 1-2" deep.    
+03/13/1994,12" ice - 10 different holes- 8-11' deep.    
+04/22/1994,First reading after ice went out.  Too cold to swim.    
+05/08/1994,Too cold too swim. sunny- no weeds growing at this time.    
+05/30/1994,No rain- lake low- clear + sunny.    
+06/05/1994,Sunny- hazy    
+06/12/1994,Sunny- clear    
+06/19/1994,Sunny- 17 things on lake (boats- air mattresses- canoes- etc.) .    
+06/26/1994,Sunny- cloudy.    
+08/13/1994,It was cloudy- sunny- overcast- etc.  4: 00 pm was about the best all day.    
+12/18/1994,No snow cover- 3.25" ice.  Just a little too cold to swim.    
+01/22/1995,Ice 6" thick.  It was snowing + the lake was covered with 6" of snow.    
+02/19/1995,Ice 11' thick- partial snow cover.    
+04/16/1995,First reading after ice out.  No boats- sunny + calm.    
+04/17/1995,nps appraisal monitoring    
+05/06/1995,Sunny + clear.    
+05/25/1995,Sunny- no breeze.  1 canoe.    
+05/28/1995,More weeds at this time of year than in the past 8 years.    
+06/04/1995,Weed cutter down for 1 week at this point.  Should have back ( ) end of this week.  Weeds to the surface.    
+06/18/1995,Very heavy boat traffic Saturday 6/17/95.  Weeds very heavy.    
+06/21/1995,POTTER LAKE NEAR MUKWONAGO WI    
+06/24/1995,Weeds heavy.  Cutter back at work after engine problems.  Working 6 days a week 12 hour days.    
+07/13/1995,Weed cutter now fixed-cutting twelve hours a day.    
+08/04/1995,Sunny- between showers.    
+08/17/1995,424905088204000    
+08/17/1995,This reading done about 12 hours. after very heavy rain.    
+08/22/1995,honey sugar nps    
+10/20/1995,Last from boat reading.  Next through the ice.  Ugh!!!    
+12/17/1995,Public perception due to ice.  First reading through the ice.  Sunny- clear- cold day.  T.j.    
+01/20/1996,Public perception due to ice and cold water.  Ice 13" thick. 10 degrees above- clear- sunny.    
+05/31/1996,Sunny.    
+06/02/1996,Sunny.    
+06/15/1996,Sunny.    
+06/20/1996,Reading after very heavy rains. surprised at seeing 11' down.    
+07/04/1996,Busiest day. 17 things on lake (cones- sailboats- floats- etc.)    
+07/23/1996,Milfoil at peak. 16-20 tons a day cut.    
+08/10/1996,Sunny- 8 jet skis- first time this many.    
+04/18/1997,Water is blue green.  First reading after ice out.    
+04/20/1997,Water is blue green.    
+04/25/1997,Water is blue green.    
+05/17/1997,Water is greenish brown.  Full sun.    
+05/18/1997,Water is greenish brown.  Cloudy.    
+05/21/1997,Water is greenish brown.  Full sun.    
+05/23/1997,Water is bluish green.    
+06/01/1997,Water is bluish green.  Sunny    
+06/08/1997,Sunny.    
+06/14/1997,Sunny.    
+06/15/1997,Sunny.    
+06/20/1997,Water is greenish brown.    
+06/21/1997,Water is greenish brown.    
+06/22/1997,Water is greenish brown. heavy rains last night.    
+08/05/1997,Water is bluish green.  Have been on vacation out of state.    
+08/25/1997,First two readings for secchi line went much easier- thanks    
+10/16/1997,Whole lake treatment for sonar (for Eurasion Watermilfoil) first lake in the state- on 9/30-97.    
+02/12/2001,TOP    
+02/12/2002,POTTER LAKE NEAR MUKWONAGO WI    
+04/09/2002,POTTER LAKE NEAR MUKWONAGO WI    
+06/10/2002,POTTER LAKE NEAR MUKWONAGO WI    
+08/06/2002,POTTER LAKE NEAR MUKWONAGO    
+02/19/2003,POTTER LAKE NEAR MUKWONAGO WI    
+04/15/2003,POTTER LAKE NEAR MUKWONAGO WI    
+06/10/2003,POTTER LAKE NEAR MUKWONAGO WI    
+07/09/2003,POTTER LAKE NEAR MUKWONAGO WI    
+08/20/2003,POTTER LAKE NEAR MUKWONAGO WI    
+09/09/2003,MIDDLE OF LAKE    
+04/08/2004,POTTER LAKE NEAR MUKWONAGO WI    
+04/14/2004,DEEP SPOT @ 19FT    
+06/07/2004,POTTER LAKE NEAR MUKWONAGO WI    
+07/12/2004,POTTER LAKE NEAR MUKWONAGO - TOP    
+07/27/2004,POTTER LAKE NEAR MUKWONAGO WI    
+08/03/2004,DEEP SPOT @ 24FT    
+08/09/2004,POTTER LAKE NEAR MUKWONAGO WI    
+08/24/2004,POTTERS LAKE NEAR MUKWONAGO WI    
+09/23/2004,POTTER LAKE NEAR MUKWONAGO WI    
+02/09/2005,POTTER LAKE NEAR MUKWONAGO WI    
+04/11/2005,POTTER LAKE NEAR MUKWONAGO WI    
+06/07/2005,POTTER LAKE NEAR MUKWONAGO WI    
+07/12/2005,POTTER LAKE NEAR MUKWONAGO WI    
+07/28/2005,POTTER LAKE NEAR MUKWONAGO WI    
+08/09/2005,POTTER LAKE NEAR MUKWONAGO WI    
+08/25/2005,POTTER LAKE NEAR MUKWONAGO WI    
+09/27/2005,POTTER LAKE NEAR MUKWONAGO WI    
+02/22/2006,POTTER LAKE NEAR MUKWONAGO WI    
+04/05/2006,POTTER LAKE NEAR MUKWONAGO WI    
+06/12/2006,POTTER LAKE NEAR MUKWONAGO WI    
+07/12/2006,POTTER LAKE NEAR MUKWONAGO WI    
+07/27/2006,POTTER LAKE NEAR MUKWONAGO WI    
+08/08/2006,POTTER LAKE NEAR MUKWONAGO WI    
+08/31/2006,POTTER LAKE NEAR MUKWONAGO WI    
+09/27/2006,POTTER LAKE NEAR MUKWONAGO WI    
+02/27/2007,POTTER LAKE NEAR MUKWONAGO WI
+07/31/2012,Dissolved Oxygen Meter was broken. 
+08/23/2012,Add. Helper: Jim Steinke
+09/05/2012,Add: Helper: Andrew Notbohm
+08/16/2013,No profile data taken
+
+
+
+
+Start Date,Group Name,Project Name
+07/13/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/11/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+09/10/1980,Data Collectors,Migrated from STORET Legacy
+09/14/1981,Data Collectors,Migrated from STORET Legacy
+06/12/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/20/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/21/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+06/25/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/06/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/21/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/01/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/10/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/15/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/22/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/28/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/05/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/12/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/19/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/03/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/17/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/24/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+11/21/1993,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+01/01/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/20/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+03/06/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+03/13/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/11/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+04/22/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/08/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/21/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/30/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/05/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/12/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/15/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+06/19/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/26/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/08/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/17/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/18/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/30/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/10/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/13/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/27/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/05/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/11/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/18/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/25/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/09/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/14/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+12/18/1994,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+01/22/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/19/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/16/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/17/1995,Data Collectors,Stream Evaluations 1988-1998
+05/06/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/25/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/28/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/04/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/18/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/19/1995,Data Collectors,LAKE MANAGEMENT PROJECTS
+06/21/1995,Data Collectors,Stream Evaluations 1988-1998
+06/24/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/06/1995,Data Collectors,LAKE MANAGEMENT 95/96
+07/13/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/18/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/24/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/04/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/12/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/13/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/17/1995,Data Collectors,LAKE MANAGEMENT 95/96
+08/17/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/22/1995,Data Collectors,Stream Evaluations 1988-1998
+08/26/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/02/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/03/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/04/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/20/1995,Data Collectors,Stream Evaluations 1988-1998
+10/19/1995,Data Collectors,Stream Evaluations 1988-1998
+10/20/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+12/17/1995,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+01/20/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/18/1996,Data Collectors,LAKE MANAGEMENT 95/96
+04/27/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/04/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/08/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/18/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/25/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/27/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/31/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/02/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/04/1996,Data Collectors,LAKE MANAGEMENT 95/96
+06/15/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/16/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/20/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/23/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/28/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/29/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/30/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/04/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/10/1996,Data Collectors,
+07/19/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/20/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/21/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/22/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/23/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/27/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/03/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/05/1996,Data Collectors,
+08/10/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/16/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/17/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/18/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/23/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/30/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/31/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/01/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/02/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/08/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/14/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/15/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/19/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/22/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/28/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/29/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/06/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/09/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/12/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/13/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/19/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/20/1996,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/11/1997,Data Collectors,
+04/10/1997,Data Collectors,
+04/18/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/20/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/25/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/17/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/18/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/21/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/23/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/01/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/04/1997,Data Collectors,
+06/08/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/14/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/15/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/20/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/21/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/22/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/21/1997,Data Collectors,
+08/05/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/18/1997,Data Collectors,
+08/24/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/25/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/26/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/16/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+12/07/1997,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+01/08/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/06/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/19/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/20/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+04/26/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/03/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/11/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/06/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/27/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/26/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/20/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/06/1998,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+01/17/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/11/1999,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+04/21/1999,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+05/01/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/03/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/29/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/30/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/31/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/05/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/06/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/11/1999,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+07/08/1999,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+07/24/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/31/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/05/1999,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+08/14/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/18/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/28/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/29/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/04/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/05/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/06/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/10/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+11/06/1999,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/09/2000,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+03/29/2000,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+05/04/2000,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/29/2000,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/08/2000,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+07/06/2000,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+08/08/2000,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+08/15/2000,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/10/2000,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/12/2001,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+04/18/2001,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+04/29/2001,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/20/2001,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/23/2001,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/04/2001,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+07/14/2001,Data Collectors,
+07/31/2001,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/14/2001,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+02/12/2002,Data Collectors,ANALYSIS OF LAKE WATER SAMPLES
+04/09/2002,Data Collectors,ANALYSIS OF LAKE WATER SAMPLES
+05/13/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+05/31/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+06/10/2002,Data Collectors,ANALYSIS OF LAKE WATER SAMPLES
+06/29/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+08/06/2002,Data Collectors,USGS Total Phosphorus in Lakes Statewide 2002-2003
+08/06/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+09/29/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/08/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+10/13/2002,Tom Jordens,Citizen Lake Monitoring - Water Quality - Potter Lake; Deep Hole
+02/19/2003,Data Collectors,USGS Total Phosphorus in Lakes Statewide 2002-2003
+04/15/2003,Data Collectors,
+06/10/2003,Data Collectors,USGS Total Phosphorus in Lakes Statewide 2002-2003
+07/09/2003,Data Collectors,USGS LAKE SAMPLES
+08/20/2003,Data Collectors,USGS LAKE SAMPLES
+09/09/2003,JENNIFER HAUXWELL,MACROPHYTES AS BIOCRITERIA
+04/08/2004,USGS,USGS LAKE SAMPLES
+04/14/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+06/07/2004,USGS,
+07/12/2004,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/27/2004,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/03/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/09/2004,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/24/2004,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+09/23/2004,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+02/09/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+04/11/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+06/07/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/12/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/28/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/09/2005,Heidi Bunk,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/25/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+09/27/2005,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+02/22/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+04/05/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+06/12/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/12/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/27/2006,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/08/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/31/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+09/27/2006,Data Collectors,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+02/27/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+04/16/2007,USGS,
+06/13/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/18/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/30/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/13/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+08/27/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+09/14/2007,USGS,POTTERS LAKE P + R DISTRICT: Potters Lake Whole-Lake Treatment
+07/31/2012,Heidi Bunk,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+08/23/2012,GARRETT LYON,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+08/23/2012,Heidi Bunk,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+09/05/2012,BRYAN D HARTSOOK- HEIDI J BUNK,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+09/05/2012,GARRETT LYON,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+05/16/2013,Cory McDonald,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+06/28/2013,Cory McDonald,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+07/30/2013,ANDREW NOTBOHM,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+07/30/2013,Heidi Bunk,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+08/11/2013,MATTHEW DIEBEL,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+08/16/2013,ANDREW NOTBOHM,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+09/05/2013,Heidi Bunk,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+09/06/2013,Cory McDonald,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+10/25/2013,MATTHEW DIEBEL,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+04/22/2016,Data Collectors,USGS LAKE SAMPLES
+06/29/2016,Data Collectors,USGS LAKE SAMPLES
+07/28/2016,Data Collectors,USGS LAKE SAMPLES
+08/31/2016,Data Collectors,USGS LAKE SAMPLES
+10/03/2016,Data Collectors,USGS LAKE SAMPLES
+04/12/2017,Data Collectors,USGS LAKE SAMPLES
+06/27/2017,Data Collectors,USGS LAKE SAMPLES
+08/31/2017,Data Collectors,USGS LAKE SAMPLES
+09/29/2017,Data Collectors,USGS LAKE SAMPLES

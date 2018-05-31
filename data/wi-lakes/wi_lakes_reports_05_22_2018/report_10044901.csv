@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Minong Flowage,Washburn,2692900,NO,66,,10044901,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/16/2016,,,,,,,,,,,,,
+1,05/17/2016,,,,,,,,,,,,,
+1,05/18/2016,,,,,,,,,,,,,
+1,05/20/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/16/2016,,,13.7,C,,
+05/17/2016,,,14.9,C,,
+05/18/2016,,,12.5,C,,
+05/20/2016,,,17.5,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/16/2016,Data Collectors,Herbicide Concentration Monitoring
+05/17/2016,Data Collectors,Herbicide Concentration Monitoring
+05/18/2016,Data Collectors,Herbicide Concentration Monitoring
+05/20/2016,Data Collectors,Herbicide Concentration Monitoring

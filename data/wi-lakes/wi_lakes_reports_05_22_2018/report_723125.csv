@@ -1,0 +1,653 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wazeecha Lake,Wood,1391200,WC,72,,723125,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/31/1973,,,,,30,,54,,,,,,
+1,10/23/1973,,,,,90,,63,,,,,,
+1,01/29/1974,,,,,50,,58,,,,,,
+1,04/18/1974,,,,,30,,54,,,,,,
+1,08/05/1974,,,,,20,,51,,,,,,
+1,10/10/1974,,,,,60,,60,,,,,,
+1,02/11/1975,,,,,20,,51,,,,,,
+8190051,05/28/1990,4,NO,1.2,,,57,,,GAUGE,1014.15,,BROWN,2-Very minor aesthetic problems
+8190051,06/24/1990,3.75,NO,1.1,,,58,,,GAUGE,1014.6,,BROWN,2-Very minor aesthetic problems
+8190051,07/02/1990,4.5,NO,1.4,,,55,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+8190051,08/04/1990,4,NO,1.2,,,57,,,GAUGE,1014.4,,BROWN,2-Very minor aesthetic problems
+8190051,08/29/1990,3.25,NO,1,,,60,,,GAUGE,1014.8,,BROWN,2-Very minor aesthetic problems
+8190051,06/08/1991,3,NO,0.9,,,61,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+8190051,06/19/1991,4.5,NO,1.4,,,55,,,GAUGE,1014.1,,BROWN,2-Very minor aesthetic problems
+8190051,07/03/1991,5.5,NO,1.7,,,53,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+8190051,07/19/1991,5.5,NO,1.7,,,53,,,GAUGE,1014.6,,BROWN,2-Very minor aesthetic problems
+8190051,08/25/1991,7,NO,2.1,,,49,,,GAUGE,1014.34,,BROWN,2-Very minor aesthetic problems
+8190051,06/10/1992,4,NO,1.2,,,57,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+8190051,07/17/1992,5,NO,1.5,,,54,,,GAUGE,1014.65,,BROWN,2-Very minor aesthetic problems
+8190051,08/21/1992,5,NO,1.5,,,54,,,GAUGE,1014.34,,BROWN,2-Very minor aesthetic problems
+8190051,06/05/1993,4.5,NO,1.4,,,55,,,GAUGE,1014,,BROWN,2-Very minor aesthetic problems
+8190051,07/03/1993,3.5,NO,1.1,,,59,,,GAUGE,1014.48,,BROWN,4-Would not swim but boating OK (algae)
+8190051,05/29/1994,2.5,NO,0.8,,,64,,,GAUGE,1014.5,,BROWN,2-Very minor aesthetic problems
+8190051,07/02/1994,2,NO,0.6,,,67,,,GAUGE,1014,,BROWN,2-Very minor aesthetic problems
+8190051,07/10/1994,1,NO,0.3,,,77,,,GAUGE,1014.5,,BROWN,2-Very minor aesthetic problems
+8190051,07/30/1994,1.5,NO,0.5,,,71,,,GAUGE,1014.1,,BROWN,2-Very minor aesthetic problems
+8190051,06/18/1995,4,NO,1.2,,,57,,,GAUGE,1014.34,,BROWN,2-Very minor aesthetic problems
+8190051,06/22/1995,3.5,NO,1.1,,,59,,,GAUGE,1014.34,,BROWN,2-Very minor aesthetic problems
+8190051,07/04/1995,3.5,NO,1.1,,,59,,,GAUGE,1014.4,,BROWN,2-Very minor aesthetic problems
+8190051,07/08/1995,3.5,NO,1.1,,,59,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+8190051,07/23/1995,6,NO,1.8,,,51,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+1,02/26/1997,,,,,,,,,,,,,
+1,05/15/1997,4.5,,1.4,4.63,57,55,59,46,,,,,
+8190051,06/01/1997,3.75,NO,1.1,,,58,,,GAUGE,1014.2,,BROWN,2-Very minor aesthetic problems
+1,06/19/1997,4,,1.2,11,66,57,61,53,,,,,
+8190051,06/22/1997,3.75,NO,1.1,,,58,,,GAUGE,1014.5,,BROWN,2-Very minor aesthetic problems
+8190051,07/13/1997,3.75,NO,1.1,,,58,,,GAUGE,1014.1,,,
+1,07/28/1997,5.3,,1.6,10.2,33,53,55,52,,,,,
+1,08/25/1997,4.9,,1.5,14.8,31,54,55,55,,,,,
+1,09/18/1997,4,,1.2,10.2,33,57,55,52,,,,,
+8190051,05/25/1998,3.25,NO,1,,,60,,,GAUGE,1014.2,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/03/1998,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/25/1998,4.5,NO,1.4,,,55,,,GAUGE,1014.4,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,06/06/2000,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,06/18/2000,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/14/2000,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/22/2000,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,05/27/2001,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/01/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/20/2001,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,09/21/2001,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/04/2002,5,YES,1.5,,,54,,,GAUGE,1014.1,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/08/2002,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,09/17/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,05/10/2003,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190051,06/30/2003,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/13/2003,5.75,NO,1.7,,,52,,,GAUGE,1014.34,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/04/2003,7,NO,2.1,,,49,,,GAUGE,1014.7,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,09/01/2003,5,NO,1.5,,,54,,,HIGH,1014.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000090,04/20/2004,3.5,NO,1.1,,26,59,53,,,,,,
+8190051,05/10/2004,4.5,NO,1.4,,,55,,,HIGH,1014.6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,05/31/2004,5.5,NO,1.7,,,53,,,HIGH,1014.9,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,06/25/2004,5,NO,1.5,,,54,,,HIGH,1015.2,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000090,08/10/2004,4,NO,1.2,5.07,22,57,52,47,,,,,
+8190051,08/15/2004,5.5,NO,1.7,,,53,,,NORMAL,1014.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,09/26/2004,6.5,NO,2,,,50,,,NORMAL,1014.2,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/04/2005,7,NO,2.1,,,49,,,,1014.4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/10/2005,6,NO,1.8,,,51,,,,1014.4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/14/2005,5,NO,1.5,,,54,,,,1015.6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,04/11/2006,4,NO,1.2,,,57,,,GAUGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190051,05/08/2006,5,NO,1.5,,,54,,,GAUGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,06/23/2006,6.25,NO,1.9,,,51,,,GAUGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/05/2006,5.5,NO,1.7,,,53,,,GAUGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/18/2006,7,NO,2.1,,,49,,,GAUGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190051,08/16/2006,7.75,NO,2.4,,,48,,,GAUGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,08/30/2006,7.5,NO,2.3,,,48,,,GAUGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,09/22/2006,6.75,NO,2.1,,,50,,,GAUGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,10/17/2006,4.5,NO,1.4,,,55,,,GAUGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,04/29/2007,4.25,NO,1.3,,,56,,,HIGH,1015.1,MURKY,GREEN,2-Very minor aesthetic problems
+8190051,05/21/2007,5.25,NO,1.6,,,53,,,STAFF_GAUGE,1014.5,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,06/28/2007,8,NO,2.4,,,47,,,STAFF_GAUGE,1014.34,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/29/2007,8.5,NO,2.6,,,46,,,STAFF_GAUGE,1014.7,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,08/28/2007,6.75,NO,2.1,,,50,,,STAFF_GAUGE,1014.7,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,05/19/2008,6,NO,1.8,,,51,,,,1014.2,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,06/23/2008,7,YES,2.1,,,49,,,,1014.0,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/01/2008,7.25,NO,2.2,,,49,,,,1014.5,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/14/2008,7.25,NO,2.2,,,49,,,,1014.9,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/23/2008,7.25,YES,2.2,,,49,,,,1014.5,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,08/05/2008,7.25,NO,2.2,,,49,,,,1014.5,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,08/19/2008,8,NO,2.4,,,47,,,,1014.34,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,09/17/2008,10.25,NO,3.1,,,44,,,,1014.5,CLEAR,GREEN,2-Very minor aesthetic problems
+8190051,10/06/2008,11.25,NO,3.4,,,42,,,,1014.2,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,04/18/2009,4.25,NO,1.3,,,56,,,GAUGE,1015.7,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190051,05/12/2009,6.25,NO,1.9,,,51,,,GAUGE,1014.4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190051,06/15/2009,6.25,NO,1.9,,,51,,,GAUGE,1014.1,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/13/2009,8.25,NO,2.5,,,47,,,GAUGE,1015.6,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,07/21/2009,8.25,NO,2.5,,,47,,,GAUGE,1015.8,MURKY,BROWN,2-Very minor aesthetic problems
+8190051,08/11/2009,7.75,NO,2.4,,,48,,,GAUGE,1014.7,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,08/31/2009,10.5,NO,3.2,,,43,,,GAUGE,1014.5,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,04/30/2010,10,NO,3,,,44,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,05/24/2010,8.5,NO,2.6,,,46,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,06/30/2010,8.25,NO,2.5,,,47,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,07/08/2010,7,,2.1,,,49,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,07/20/2010,7.75,NO,2.4,,,48,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,08/11/2010,7.75,NO,2.4,,,48,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,08/31/2010,10.5,NO,3.2,,,43,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,09/09/2010,7.5,NO,2.3,,,48,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,09/14/2010,9,NO,2.7,,,45,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,10/07/2010,7,NO,2.1,,,49,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+1,04/12/2011,4,NO,1.2,,,57,,,HIGH,1015.8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,05/26/2011,7,NO,2.1,,,49,,,HIGH,1014.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/29/2011,6.5,NO,2,,,50,,,HIGH,1014.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/13/2011,6.5,NO,2,,,50,,,HIGH,1014.6,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/26/2011,7.5,NO,2.3,,,48,,,LOW,1014.3,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/03/2011,7,NO,2.1,,,49,,,LOW,1014.2,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/15/2011,8,NO,2.4,,,47,,,NORMAL,1014.34,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/27/2011,2,NO,0.6,,,67,,,HIGH,1014.90,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,06/28/2012,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/08/2012,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,07/24/2012,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/11/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,08/19/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,09/03/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,09/26/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190051,05/04/2013,4.5,NO,1.4,,,55,,,,1014.9,MURKY,BROWN,4-Would not swim but boating OK (algae)
+36798636,05/04/2013,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+36798636,05/18/2013,5.25,NO,1.6,,,53,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+36798636,06/02/2013,5, ,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,06/11/2013,6.5,NO,2,,,50,,,,1014.6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36798636,06/21/2013,5.25,NO,1.6,3.61,18,53,51,45,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,06/25/2013,6,NO,1.8,,,51,,,,1014.4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/02/2013,5,NO,1.5,,,54,,,,1014.3,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+36798636,07/06/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36798636,07/26/2013,6.25,NO,1.9,0.902,13.6,51,48,34,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,08/08/2013,8.25,NO,2.5,,,47,,,,1014.6,CLEAR,BROWN,
+36798636,08/10/2013,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,08/22/2013,10,NO,3,,,44,,,,1014.6,CLEAR,BROWN,
+36798636,08/23/2013,8.5,NO,2.6,2.07,11.8,46,47,40,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,09/04/2013,8,NO,2.4,,,47,,,,1014.34,CLEAR,BROWN,
+36798636,09/07/2013,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36798636,09/22/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36798636,05/03/2014,6.5,NO,2,,,50,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+36798636,05/16/2014,6.75,NO,2.1,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+36798636,05/31/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,06/03/2014,6.25,NO,1.9,,,51,,,NORMAL,1014.34,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,06/11/2014,7,NO,2.1,,,49,,,NORMAL,1014.34,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,06/20/2014,5.75,NO,1.7,,,52,,,LOW,1014.2,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+36798636,06/20/2014,5.5,NO,1.7,1.37,18.8,53,51,37,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36798636,07/05/2014,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,07/16/2014,9.5,NO,2.9,,,45,,,HIGH,1014.9,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+36798636,07/25/2014,6.5,NO,2,2.46,14,50,49,42,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190051,07/30/2014,7,NO,2.1,,,49,,,NORMAL,1014.34,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+36798636,08/09/2014,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+36798636,08/23/2014,6.75,NO,2.1,2.54,15,50,49,42,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190051,09/23/2014,7,NO,2.1,,,49,,,NORMAL,1014.34,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190051,10/02/2014,7,NO,2.1,,,49,,,NORMAL,1014.4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190051,05/09/2015,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,06/09/2015,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/10/2015,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/21/2015,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/26/2015,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,08/04/2015,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,08/27/2015,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190051,09/02/2015,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8190051,09/06/2015,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/18/2016,8.25,NO,2.5,,,47,,,HIGH,1014.60,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/25/2016,8.25,NO,2.5,,,47,,,HIGH,1014.80,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,05/05/2017,5,NO,1.5,,,54,,,HIGH,1014.40,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,06/03/2017,4,NO,1.2,,,57,,,HIGH,1014.40,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,06/21/2017,5.5,NO,1.7,,,53,,,NORMAL,1014.40,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/10/2017,5.5,NO,1.7,,,53,,,HIGH,1014.60,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,07/27/2017,7.5,NO,2.3,,,48,,,HIGH,1015.20,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,08/29/2017,9,NO,2.7,,,45,,,NORMAL,1014.34,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,09/12/2017,6,NO,1.8,,,51,,,HIGH,1014.40,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190051,10/13/2017,6,NO,1.8,,,51,,,NORMAL,1014.34,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/31/1973,,,15.5556,C,.9,MG/L
+10/23/1973,,,13.0556,C,9.2,MG/L
+01/29/1974,,,0,C,10,MG/L
+04/18/1974,,,10.5556,C,9.7,MG/L
+08/05/1974,,,15.5556,C,1.9,MG/L
+10/10/1974,,,10,C,10.1,MG/L
+02/11/1975,,,0,C,11.3,MG/L
+02/26/1997,,,1.1,C,11.4,MG/L
+05/15/1997,,,10.6,C,9.8,MG/L
+06/19/1997,,,16.5,C,4.4,MG/L
+07/28/1997,,,17.1,C,1.2,MG/L
+08/25/1997,,,16.4,C,10.05,MG/L
+09/18/1997,,,16.0,C,5.95,MG/L
+04/20/2004,0,FEET,,,10.4,MG/L
+04/20/2004,,,12.0,C,10.4,MG/L
+08/10/2004,6.56,FEET,,,8.05,MG/L
+08/10/2004,,,19.0,C,8.05,MG/L
+05/04/2013,0,FEET,60,DEGREES F,,
+05/04/2013,2,FEET,60,DEGREES F,,
+05/04/2013,4,FEET,59,DEGREES F,,
+05/04/2013,6,FEET,58,DEGREES F,,
+05/04/2013,8,FEET,57,DEGREES F,,
+05/04/2013,10,FEET,54,DEGREES F,,
+05/04/2013,12,FEET,52,DEGREES F,,
+05/04/2013,14,FEET,50,DEGREES F,,
+05/04/2013,16,FEET,49,DEGREES F,,
+05/04/2013,18,FEET,49,DEGREES F,,
+05/04/2013,20,FEET,48,DEGREES F,,
+05/18/2013,2,FEET,60,DEGREES F,,
+05/18/2013,4,FEET,60,DEGREES F,,
+05/18/2013,6,FEET,60,DEGREES F,,
+05/18/2013,8,FEET,59,DEGREES F,,
+05/18/2013,10,FEET,59,DEGREES F,,
+05/18/2013,12,FEET,58,DEGREES F,,
+05/18/2013,14,FEET,55,DEGREES F,,
+05/18/2013,16,FEET,52,DEGREES F,,
+05/18/2013,18,FEET,51,DEGREES F,,
+05/18/2013,20,FEET,50,DEGREES F,,
+05/18/2013,22,FEET,50,DEGREES F,,
+06/02/2013,0,FEET,63,DEGREES F,,
+06/02/2013,2,FEET,63,DEGREES F,,
+06/02/2013,4,FEET,63,DEGREES F,,
+06/02/2013,6,FEET,63,DEGREES F,,
+06/02/2013,8,FEET,61,DEGREES F,,
+06/02/2013,10,FEET,60,DEGREES F,,
+06/02/2013,12,FEET,57,DEGREES F,,
+06/02/2013,14,FEET,55,DEGREES F,,
+06/02/2013,16,FEET,54,DEGREES F,,
+06/02/2013,18,FEET,53,DEGREES F,,
+06/02/2013,20,FEET,53,DEGREES F,,
+06/02/2013,22,FEET,53,DEGREES F,,
+06/21/2013,0,FEET,70,DEGREES F,,
+06/21/2013,2,FEET,69,DEGREES F,,
+06/21/2013,4,FEET,68,DEGREES F,,
+06/21/2013,6,FEET,67,DEGREES F,,
+06/21/2013,8,FEET,64,DEGREES F,,
+06/21/2013,10,FEET,62,DEGREES F,,
+06/21/2013,12,FEET,61,DEGREES F,,
+06/21/2013,14,FEET,60,DEGREES F,,
+06/21/2013,16,FEET,57,DEGREES F,,
+06/21/2013,18,FEET,56,DEGREES F,,
+06/21/2013,20,FEET,55,DEGREES F,,
+06/21/2013,22,FEET,54,DEGREES F,,
+07/06/2013,0,FEET,70,DEGREES F,,
+07/06/2013,2,FEET,70,DEGREES F,,
+07/06/2013,4,FEET,70,DEGREES F,,
+07/06/2013,6,FEET,68,DEGREES F,,
+07/06/2013,8,FEET,66,DEGREES F,,
+07/06/2013,10,FEET,64,DEGREES F,,
+07/06/2013,12,FEET,62,DEGREES F,,
+07/06/2013,14,FEET,61,DEGREES F,,
+07/06/2013,16,FEET,60,DEGREES F,,
+07/06/2013,18,FEET,58,DEGREES F,,
+07/06/2013,20,FEET,58,DEGREES F,,
+07/06/2013,22,FEET,57,DEGREES F,,
+07/26/2013,0,FEET,72,DEGREES F,,
+07/26/2013,2,FEET,71,DEGREES F,,
+07/26/2013,4,FEET,69,DEGREES F,,
+07/26/2013,6,FEET,68,DEGREES F,,
+07/26/2013,8,FEET,68,DEGREES F,,
+07/26/2013,10,FEET,67,DEGREES F,,
+07/26/2013,12,FEET,67,DEGREES F,,
+07/26/2013,14,FEET,67,DEGREES F,,
+07/26/2013,16,FEET,64,DEGREES F,,
+07/26/2013,18,FEET,64,DEGREES F,,
+07/26/2013,20,FEET,62,DEGREES F,,
+07/26/2013,22,FEET,61,DEGREES F,,
+08/10/2013,0,FEET,70,DEGREES F,,
+08/10/2013,2,FEET,70,DEGREES F,,
+08/10/2013,4,FEET,69,DEGREES F,,
+08/10/2013,6,FEET,69,DEGREES F,,
+08/10/2013,8,FEET,68,DEGREES F,,
+08/10/2013,10,FEET,67,DEGREES F,,
+08/10/2013,12,FEET,66,DEGREES F,,
+08/10/2013,14,FEET,65,DEGREES F,,
+08/10/2013,16,FEET,64,DEGREES F,,
+08/10/2013,18,FEET,63,DEGREES F,,
+08/10/2013,20,FEET,62,DEGREES F,,
+08/10/2013,22,FEET,62,DEGREES F,,
+08/23/2013,0,FEET,74,DEGREES F,,
+08/23/2013,2,FEET,74,DEGREES F,,
+08/23/2013,4,FEET,74,DEGREES F,,
+08/23/2013,6,FEET,74,DEGREES F,,
+08/23/2013,8,FEET,73,DEGREES F,,
+08/23/2013,10,FEET,69,DEGREES F,,
+08/23/2013,12,FEET,68,DEGREES F,,
+08/23/2013,14,FEET,66,DEGREES F,,
+08/23/2013,16,FEET,64,DEGREES F,,
+08/23/2013,18,FEET,64,DEGREES F,,
+08/23/2013,20,FEET,63,DEGREES F,,
+08/23/2013,22,FEET,63,DEGREES F,,
+09/07/2013,2,FEET,71,DEGREES F,,
+09/07/2013,4,FEET,71,DEGREES F,,
+09/07/2013,6,FEET,70,DEGREES F,,
+09/07/2013,8,FEET,69,DEGREES F,,
+09/07/2013,10,FEET,68,DEGREES F,,
+09/07/2013,12,FEET,68,DEGREES F,,
+09/07/2013,14,FEET,67,DEGREES F,,
+09/07/2013,16,FEET,67,DEGREES F,,
+09/07/2013,18,FEET,66,DEGREES F,,
+09/07/2013,20,FEET,65,DEGREES F,,
+09/07/2013,22,FEET,65,DEGREES F,,
+09/22/2013,0,FEET,63,DEGREES F,,
+09/22/2013,2,FEET,63,DEGREES F,,
+09/22/2013,4,FEET,63,DEGREES F,,
+09/22/2013,6,FEET,63,DEGREES F,,
+09/22/2013,8,FEET,63,DEGREES F,,
+09/22/2013,10,FEET,62,DEGREES F,,
+09/22/2013,12,FEET,62,DEGREES F,,
+09/22/2013,14,FEET,62,DEGREES F,,
+09/22/2013,16,FEET,62,DEGREES F,,
+09/22/2013,18,FEET,61,DEGREES F,,
+09/22/2013,20,FEET,61,DEGREES F,,
+09/22/2013,22,FEET,61,DEGREES F,,
+05/03/2014,0,FEET,48,DEGREES F,,
+05/03/2014,2,FEET,48,DEGREES F,,
+05/03/2014,4,FEET,48,DEGREES F,,
+05/03/2014,6,FEET,47,DEGREES F,,
+05/03/2014,8,FEET,47,DEGREES F,,
+05/03/2014,10,FEET,47,DEGREES F,,
+05/03/2014,12,FEET,47,DEGREES F,,
+05/03/2014,14,FEET,46,DEGREES F,,
+05/03/2014,16,FEET,46,DEGREES F,,
+05/03/2014,18,FEET,46,DEGREES F,,
+05/03/2014,20,FEET,46,DEGREES F,,
+05/16/2014,0,FEET,54,DEGREES F,,
+05/16/2014,2,FEET,54,DEGREES F,,
+05/16/2014,4,FEET,54,DEGREES F,,
+05/16/2014,6,FEET,54,DEGREES F,,
+05/16/2014,10,FEET,54,DEGREES F,,
+05/16/2014,12,FEET,53,DEGREES F,,
+05/16/2014,14,FEET,53,DEGREES F,,
+05/16/2014,16,FEET,53,DEGREES F,,
+05/16/2014,18,FEET,53,DEGREES F,,
+05/16/2014,20,FEET,52,DEGREES F,,
+05/31/2014,0,FEET,68,DEGREES F,,
+05/31/2014,2,FEET,68,DEGREES F,,
+05/31/2014,4,FEET,67,DEGREES F,,
+05/31/2014,6,FEET,64,DEGREES F,,
+05/31/2014,8,FEET,62,DEGREES F,,
+05/31/2014,10,FEET,61,DEGREES F,,
+05/31/2014,12,FEET,60,DEGREES F,,
+05/31/2014,14,FEET,60,DEGREES F,,
+05/31/2014,16,FEET,57,DEGREES F,,
+05/31/2014,18,FEET,54,DEGREES F,,
+05/31/2014,20,FEET,53,DEGREES F,,
+06/20/2014,0,FEET,69,DEGREES F,,
+06/20/2014,2,FEET,69,DEGREES F,,
+06/20/2014,4,FEET,67,DEGREES F,,
+06/20/2014,6,FEET,66,DEGREES F,,
+06/20/2014,8,FEET,65,DEGREES F,,
+06/20/2014,10,FEET,64,DEGREES F,,
+06/20/2014,12,FEET,64,DEGREES F,,
+06/20/2014,14,FEET,62,DEGREES F,,
+06/20/2014,16,FEET,61,DEGREES F,,
+06/20/2014,18,FEET,60,DEGREES F,,
+06/20/2014,20,FEET,60,DEGREES F,,
+07/05/2014,0,FEET,68,DEGREES F,,
+07/05/2014,2,FEET,68,DEGREES F,,
+07/05/2014,4,FEET,68,DEGREES F,,
+07/05/2014,6,FEET,67,DEGREES F,,
+07/05/2014,8,FEET,66,DEGREES F,,
+07/05/2014,10,FEET,65,DEGREES F,,
+07/05/2014,12,FEET,64,DEGREES F,,
+07/05/2014,14,FEET,63,DEGREES F,,
+07/05/2014,16,FEET,61,DEGREES F,,
+07/05/2014,18,FEET,61,DEGREES F,,
+07/05/2014,20,FEET,60,DEGREES F,,
+07/25/2014,0,FEET,71,DEGREES F,,
+07/25/2014,2,FEET,71,DEGREES F,,
+07/25/2014,4,FEET,71,DEGREES F,,
+07/25/2014,6,FEET,71,DEGREES F,,
+07/25/2014,8,FEET,69,DEGREES F,,
+07/25/2014,10,FEET,68,DEGREES F,,
+07/25/2014,12,FEET,67,DEGREES F,,
+07/25/2014,14,FEET,65,DEGREES F,,
+07/25/2014,16,FEET,63,DEGREES F,,
+07/25/2014,18,FEET,62,DEGREES F,,
+07/25/2014,20,FEET,62,DEGREES F,,
+08/09/2014,0,FEET,74,DEGREES F,,
+08/09/2014,2,FEET,74,DEGREES F,,
+08/09/2014,4,FEET,74,DEGREES F,,
+08/09/2014,6,FEET,73,DEGREES F,,
+08/09/2014,8,FEET,70,DEGREES F,,
+08/09/2014,10,FEET,68,DEGREES F,,
+08/09/2014,12,FEET,68,DEGREES F,,
+08/09/2014,14,FEET,67,DEGREES F,,
+08/09/2014,16,FEET,65,DEGREES F,,
+08/09/2014,18,FEET,65,DEGREES F,,
+08/09/2014,20,FEET,64,DEGREES F,,
+08/23/2014,0,FEET,72,DEGREES F,,
+08/23/2014,2,FEET,72,DEGREES F,,
+08/23/2014,4,FEET,71,DEGREES F,,
+08/23/2014,6,FEET,71,DEGREES F,,
+08/23/2014,8,FEET,70,DEGREES F,,
+08/23/2014,10,FEET,67,DEGREES F,,
+08/23/2014,12,FEET,66,DEGREES F,,
+08/23/2014,14,FEET,65,DEGREES F,,
+08/23/2014,16,FEET,64,DEGREES F,,
+08/23/2014,18,FEET,64,DEGREES F,,
+08/23/2014,20,FEET,64,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/31/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/23/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/29/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/18/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/05/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/10/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/11/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/28/1990,Partly cloudy- air 18 C- wind 11 mph    
+06/24/1990,Sunny- 77 F- calm- heavy road constantly.  Followed by rains    
+07/02/1990,Sunny- wind 3+ mph- 83 F    
+08/04/1990,Sunny- 79 F- rain last night- wind 9 mph    
+08/29/1990,Sunny- calm- 78 F    
+06/08/1991,Humidity: 10%- wind: 4 mph- 78 F.    
+06/19/1991,Calm- sunny- 82 F- relatively. hum.: 11%    
+07/03/1991,Winds at 16 mph- relatively humid.: 35%- 23 C- cloudy    
+07/19/1991,Rel hum: 40%- winds at 6 mph- 31 C- 87 F- sunny    
+08/21/1992,10-20 mph wind- 82 degrees.    
+06/05/1993,Air temp 71- sunny- winds 12-24 mph    
+07/03/1993,Air temp 79 F 26 C- relative humidity 42%- wind 12-22 mph- high nitrate levels    
+05/29/1994,Winds 10-20 mph.  Dredging (red beach area).    
+07/02/1994,Dredging continued- sunny- winds 25 mph.    
+07/10/1994,Torrential rains all week- 71 degrees- wind 8 mph- dredging- sunny.    
+07/30/1994,Hazy- 77 degrees- winds 13 mph- dredging continued.    
+06/18/1995,87 degrees- sunny- rh 50%- wind 13 mph.    
+06/22/1995,Hot- humid- sunny- 91 degrees F.    
+07/04/1995,Overcast- windy- 74 degrees F- rh 66%.    
+07/08/1995,Cool/windy.    
+04/20/2004,DEEP HOLE UPSTREAM FROM DAM - SPRING TURNOVER    
+08/10/2004,DEEP HOLE UPSTREAM FROM DAM - 2 METER INTEGRATED SAMPLE    
+07/05/2006,Crayfish die off 
+07/18/2006,Zebra mussels on N. side opposite boat landing
+10/17/2006,all night rain
+07/08/2010,5 Feet tall "ribbon grass" seaweed growing above the water.
+07/20/2010,5 Feet tall ribbongrass seaweed growing above the water
+09/09/2010,Water ski show - labor day.
+10/07/2010,Heavy rains/river flooding
+06/28/2012,new species of tall grass like seaweed- grows above surface of water
+07/08/2012,after 4th of July
+07/24/2012,after state ski show
+09/26/2012,zabra mussells have overcome all native clam/snail/crayfish species
+05/04/2013,light rain about 24 hours ahead of sampling; field work in the watershed started the week of April 29th.
+05/18/2013,Cloudy day
+06/02/2013,cloudy day- with several rainfall events in the week leading up to the sampling.  Weed beds are becoming more prevelant.
+South west part of lake is seeing development occuring along the shoreline.  Other development occuring west of the bridge on the north side of the lake.  No noticable silt fencing between the development and lake. 
+06/21/2013,strong rainfall event in the morning prior to the afternoon sampling.  Additional volunteers: Patty Fairchild and Samantha Molepske
+07/06/2013,clear day- temperatures in the mid 70's
+07/26/2013,rain in morning; windy and partly cloudy
+08/10/2013,Cloudy
+08/23/2013,mostly sunny day with a few clouds.  Saw a person pull out of the boat landing without cleaning his boat even though there was a washing station less than 20 feet from where he parked - what a shame!
+09/07/2013,sunny day- leaves are starting to turn
+09/22/2013,Sunny skies; last sampling of the year
+05/03/2014,Windy and partly sunny day.  Week proceeding sampling had heavy rains.  Feeder streams into the lake had significant sediment.
+05/16/2014,cloudy and several rain events the week preceeding sampling
+05/31/2014,clear sunny day- Patty Fairchild assisted.  
+06/20/2014,Strong rain storms earlier in the week; Cloudy day; Patty Fairchild assisted.
+07/05/2014,Cloudy day; Patty Fairchild assisted
+07/25/2014,Cloudy day- Patty Fairchild assisted
+08/09/2014,Partly cloudy- Patty Fairchild assisted
+08/23/2014,Overcast day; over 4 inches of rain in the week preceeding the sampling; Patty Fairchild assisted
+07/25/2016,Drained lake to dredge east end and dam repair west end.  Still no repair to gauge.  
+
+
+
+
+Start Date,Group Name,Project Name
+07/31/1973,Data Collectors,Migrated from STORET Legacy
+10/23/1973,Data Collectors,Migrated from STORET Legacy
+01/29/1974,Data Collectors,Migrated from STORET Legacy
+04/18/1974,Data Collectors,Migrated from STORET Legacy
+08/05/1974,Data Collectors,Migrated from STORET Legacy
+10/10/1974,Data Collectors,Migrated from STORET Legacy
+02/11/1975,Data Collectors,Migrated from STORET Legacy
+05/28/1990,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/24/1990,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/02/1990,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/04/1990,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/29/1990,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/08/1991,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/19/1991,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/03/1991,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/19/1991,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/25/1991,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/10/1992,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/17/1992,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/21/1992,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/05/1993,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/03/1993,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/29/1994,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/02/1994,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/10/1994,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/30/1994,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/18/1995,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/22/1995,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/04/1995,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/08/1995,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/23/1995,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+02/26/1997,Data Collectors,NONPOINT SOURCE
+05/15/1997,Data Collectors,NONPOINT SOURCE
+06/01/1997,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/19/1997,Data Collectors,NONPOINT SOURCE
+06/22/1997,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/13/1997,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/28/1997,Data Collectors,NONPOINT SOURCE
+08/25/1997,Data Collectors,NONPOINT SOURCE
+09/18/1997,Data Collectors,NONPOINT SOURCE
+05/25/1998,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/03/1998,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/25/1998,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/06/2000,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/18/2000,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/14/2000,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/22/2000,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/27/2001,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/01/2001,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/20/2001,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/21/2001,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/04/2002,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/08/2002,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/17/2002,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/10/2003,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/30/2003,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/13/2003,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/04/2003,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/01/2003,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+04/20/2004,Mark Hazuga,Lake Baseline Monitoring- DNR (1970s-2006)
+05/10/2004,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/31/2004,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/25/2004,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/10/2004,Mark Hazuga,Lake Baseline Monitoring- DNR (1970s-2006)
+08/15/2004,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/26/2004,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/04/2005,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/10/2005,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/14/2005,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+04/11/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/08/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/23/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/05/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/18/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/16/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/30/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/22/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+10/17/2006,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+04/29/2007,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/21/2007,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/28/2007,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/29/2007,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/28/2007,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/19/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/23/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/01/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/14/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/23/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/05/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/19/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/17/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+10/06/2008,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+04/18/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/12/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/15/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/13/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/21/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/11/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/31/2009,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+04/30/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/24/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/30/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/08/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/20/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/11/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/31/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/09/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/14/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+10/07/2010,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+04/12/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/26/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/29/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/13/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/26/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/03/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/15/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/27/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/28/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/08/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/24/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/11/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/19/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/03/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/26/2012,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/04/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/04/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/18/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/02/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/11/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/21/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/25/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/02/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/06/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/26/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/08/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/10/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/22/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/23/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/04/2013,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/07/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/22/2013,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/03/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/16/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/31/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/03/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/11/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/20/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/20/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/05/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/16/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/25/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/30/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/09/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/23/2014,Ron Fairchild,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/23/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+10/02/2014,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/09/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/09/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/10/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/21/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/26/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/04/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/27/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/02/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/06/2015,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/18/2016,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/25/2016,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+05/05/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/03/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+06/21/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/10/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+07/27/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+08/29/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+09/12/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole
+10/13/2017,Dianne Brown,Citizen Lake Monitoring - Water Quality - Wazeecha Lake; Deep Hole

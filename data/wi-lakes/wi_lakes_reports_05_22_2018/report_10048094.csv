@@ -1,0 +1,170 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Caldron Falls Reservoir*,Marinette,545400,NE,38,,10048094,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+128615570,06/14/2016,,,,,,,,,,,,,
+128615570,06/28/2016,,,,,,,,,,,,,
+128615570,07/12/2016,,,,,,,,,,,,,
+128615570,07/26/2016,,,,,,,,,,,,,
+128615570,08/09/2016,,,,,,,,,,,,,
+128615570,08/23/2016,,,,,,,,,,,,,
+128615570,09/06/2016,,,,,,,,,,,,,
+128615570,09/20/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/14/2016,0.5,METERS,67,DEGREES F,7.4,MG/L
+06/14/2016,1,METERS,67.4,DEGREES F,7.2,MG/L
+06/14/2016,1.5,METERS,67.4,DEGREES F,7.1,MG/L
+06/14/2016,2,METERS,67.4,DEGREES F,7.1,MG/L
+06/14/2016,2.5,METERS,67.4,DEGREES F,7.1,MG/L
+06/14/2016,3,METERS,67.4,DEGREES F,7.1,MG/L
+06/14/2016,3.5,METERS,67.3,DEGREES F,7.1,MG/L
+06/14/2016,4,METERS,67.2,DEGREES F,7,MG/L
+06/14/2016,4.5,METERS,66.1,DEGREES F,6.8,MG/L
+06/14/2016,5,METERS,65.6,DEGREES F,6.7,MG/L
+06/14/2016,5.5,METERS,64.9,DEGREES F,6.4,MG/L
+06/14/2016,6,METERS,64.8,DEGREES F,6.4,MG/L
+06/14/2016,6.5,METERS,63.1,DEGREES F,5.9,MG/L
+06/14/2016,7,METERS,60.9,DEGREES F,5.5,MG/L
+06/14/2016,7.5,METERS,59.1,DEGREES F,5,MG/L
+06/14/2016,8,METERS,58.6,DEGREES F,4.9,MG/L
+06/28/2016,0.5,METERS,73.5,DEGREES F,7.4,MG/L
+06/28/2016,1,METERS,73.3,DEGREES F,7.4,MG/L
+06/28/2016,1.5,METERS,73.2,DEGREES F,7.4,MG/L
+06/28/2016,2,METERS,73.3,DEGREES F,7.4,MG/L
+06/28/2016,2.5,METERS,73.3,DEGREES F,7.4,MG/L
+06/28/2016,3,METERS,73.2,DEGREES F,7.4,MG/L
+06/28/2016,3.5,METERS,73.2,DEGREES F,7.4,MG/L
+06/28/2016,4,METERS,73.1,DEGREES F,7.3,MG/L
+06/28/2016,4.5,METERS,73.1,DEGREES F,7.3,MG/L
+06/28/2016,5,METERS,73.1,DEGREES F,7.3,MG/L
+06/28/2016,5.5,METERS,73.1,DEGREES F,7.3,MG/L
+06/28/2016,6,METERS,72.8,DEGREES F,7.2,MG/L
+06/28/2016,6.5,METERS,72.7,DEGREES F,7.1,MG/L
+06/28/2016,7,METERS,70.2,DEGREES F,5.8,MG/L
+06/28/2016,7.5,METERS,65,DEGREES F,4.2,MG/L
+06/28/2016,8,METERS,63.2,DEGREES F,3.8,MG/L
+07/12/2016,0.5,METERS,75.1,DEGREES F,8,MG/L
+07/12/2016,1,METERS,75,DEGREES F,8,MG/L
+07/12/2016,1.5,METERS,75,DEGREES F,8,MG/L
+07/12/2016,2,METERS,75,DEGREES F,8,MG/L
+07/12/2016,2.5,METERS,75,DEGREES F,8,MG/L
+07/12/2016,3,METERS,74.9,DEGREES F,7.9,MG/L
+07/12/2016,3.5,METERS,74.8,DEGREES F,7.8,MG/L
+07/12/2016,4,METERS,74.5,DEGREES F,7.7,MG/L
+07/12/2016,4.5,METERS,74.4,DEGREES F,7.6,MG/L
+07/12/2016,5,METERS,74.4,DEGREES F,7.6,MG/L
+07/12/2016,5.5,METERS,74.4,DEGREES F,7.5,MG/L
+07/12/2016,6,METERS,74.2,DEGREES F,7.5,MG/L
+07/12/2016,6.5,METERS,71.1,DEGREES F,5,MG/L
+07/12/2016,7,METERS,69,DEGREES F,4.1,MG/L
+07/12/2016,7.5,METERS,67.1,DEGREES F,3.3,MG/L
+07/12/2016,8,METERS,66.7,DEGREES F,3.1,MG/L
+07/26/2016,0.5,METERS,80.6,DEGREES F,8.3,MG/L
+07/26/2016,1,METERS,80.7,DEGREES F,8.3,MG/L
+07/26/2016,1.5,METERS,80.8,DEGREES F,8.3,MG/L
+07/26/2016,2,METERS,80.7,DEGREES F,8.3,MG/L
+07/26/2016,2.5,METERS,80.1,DEGREES F,8.1,MG/L
+07/26/2016,3,METERS,80.1,DEGREES F,8.1,MG/L
+07/26/2016,3.5,METERS,80.1,DEGREES F,8.1,MG/L
+07/26/2016,4,METERS,80.1,DEGREES F,8,MG/L
+07/26/2016,4.5,METERS,75.7,DEGREES F,4.9,MG/L
+07/26/2016,5,METERS,74.8,DEGREES F,4.7,MG/L
+07/26/2016,5.5,METERS,74,DEGREES F,4.3,MG/L
+07/26/2016,6,METERS,71,DEGREES F,3.1,MG/L
+07/26/2016,6.5,METERS,69.8,DEGREES F,2.6,MG/L
+07/26/2016,7,METERS,66.4,DEGREES F,1.4,MG/L
+07/26/2016,7.5,METERS,65.8,DEGREES F,1,MG/L
+08/09/2016,0.5,METERS,79.6,DEGREES F,9.1,MG/L
+08/09/2016,1,METERS,79.6,DEGREES F,9.1,MG/L
+08/09/2016,1.5,METERS,79.3,DEGREES F,9.1,MG/L
+08/09/2016,2,METERS,79.3,DEGREES F,9.1,MG/L
+08/09/2016,2.5,METERS,79.3,DEGREES F,9,MG/L
+08/09/2016,3,METERS,79.3,DEGREES F,9,MG/L
+08/09/2016,3.5,METERS,75.2,DEGREES F,5,MG/L
+08/09/2016,4,METERS,74.8,DEGREES F,4.8,MG/L
+08/09/2016,4.5,METERS,74.3,DEGREES F,4.1,MG/L
+08/09/2016,5,METERS,74.1,DEGREES F,4,MG/L
+08/09/2016,5.5,METERS,73.8,DEGREES F,4,MG/L
+08/09/2016,6,METERS,72.4,DEGREES F,2.5,MG/L
+08/09/2016,6.5,METERS,71,DEGREES F,2,MG/L
+08/09/2016,7,METERS,68.9,DEGREES F,.8,MG/L
+08/09/2016,7.5,METERS,67.3,DEGREES F,.3,MG/L
+08/23/2016,0.5,METERS,73.8,DEGREES F,8.4,MG/L
+08/23/2016,1,METERS,73.8,DEGREES F,8.4,MG/L
+08/23/2016,1.5,METERS,73.8,DEGREES F,8.4,MG/L
+08/23/2016,2,METERS,73.8,DEGREES F,8.3,MG/L
+08/23/2016,2.5,METERS,73.9,DEGREES F,8.3,MG/L
+08/23/2016,3,METERS,73.9,DEGREES F,8.3,MG/L
+08/23/2016,3.5,METERS,73.9,DEGREES F,8.2,MG/L
+08/23/2016,4,METERS,73.6,DEGREES F,7.7,MG/L
+08/23/2016,4.5,METERS,72,DEGREES F,5,MG/L
+08/23/2016,5,METERS,71.9,DEGREES F,5,MG/L
+08/23/2016,5.5,METERS,71.7,DEGREES F,4.6,MG/L
+08/23/2016,6,METERS,70.6,DEGREES F,3.6,MG/L
+08/23/2016,6.5,METERS,70.2,DEGREES F,3.3,MG/L
+08/23/2016,7,METERS,67.4,DEGREES F,1.2,MG/L
+08/23/2016,7.5,METERS,66.5,DEGREES F,.8,MG/L
+09/06/2016,0.5,METERS,72.8,DEGREES F,8.5,MG/L
+09/06/2016,1,METERS,72.8,DEGREES F,8.6,MG/L
+09/06/2016,1.5,METERS,72.8,DEGREES F,8.5,MG/L
+09/06/2016,2,METERS,72.7,DEGREES F,8.5,MG/L
+09/06/2016,2.5,METERS,72.7,DEGREES F,8.4,MG/L
+09/06/2016,3,METERS,72.5,DEGREES F,8.1,MG/L
+09/06/2016,3.5,METERS,71.6,DEGREES F,7.1,MG/L
+09/06/2016,4,METERS,71.1,DEGREES F,6.5,MG/L
+09/06/2016,4.5,METERS,70.1,DEGREES F,5.3,MG/L
+09/06/2016,5,METERS,70,DEGREES F,5.2,MG/L
+09/06/2016,5.5,METERS,69.9,DEGREES F,5.1,MG/L
+09/06/2016,6,METERS,68.3,DEGREES F,4,MG/L
+09/06/2016,6.5,METERS,67,DEGREES F,3.1,MG/L
+09/06/2016,7,METERS,66.6,DEGREES F,2.5,MG/L
+09/06/2016,7.5,METERS,66.4,DEGREES F,2.6,MG/L
+09/20/2016,0.5,METERS,68.2,DEGREES F,8.7,MG/L
+09/20/2016,1,METERS,68.1,DEGREES F,8.6,MG/L
+09/20/2016,1.5,METERS,67.9,DEGREES F,8.5,MG/L
+09/20/2016,2,METERS,67.8,DEGREES F,8.4,MG/L
+09/20/2016,2.5,METERS,67.8,DEGREES F,8.2,MG/L
+09/20/2016,3,METERS,67.6,DEGREES F,8.1,MG/L
+09/20/2016,3.5,METERS,67.4,DEGREES F,8,MG/L
+09/20/2016,4,METERS,67.3,DEGREES F,7.9,MG/L
+09/20/2016,4.5,METERS,67.1,DEGREES F,7.5,MG/L
+09/20/2016,5,METERS,65.6,DEGREES F,6.2,MG/L
+09/20/2016,5.5,METERS,65.5,DEGREES F,6.2,MG/L
+09/20/2016,6,METERS,64.4,DEGREES F,5.4,MG/L
+09/20/2016,6.5,METERS,64,DEGREES F,5,MG/L
+09/20/2016,7,METERS,63.7,DEGREES F,5,MG/L
+09/20/2016,7.5,METERS,63.6,DEGREES F,4.9,MG/L
+09/20/2016,8,METERS,63.5,DEGREES F,4.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/14/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 6/14/2016 recorded as "overcast- 76F". Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 6/14/2016 recorded as "overcast- 76F".
+06/28/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 6/28/2016 recorded as "sunny".
+07/12/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 7/12/2016 recorded as "Partly sunny- 70F- light winds".
+07/26/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 7/26/2016 recorded as "clear".  Additional notes: "pH profile conducted separate from DO profile.  One fewer pH reading recorded (no reading at 4.0 feet)- believed to have missed a reading above the thermocline"
+08/09/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 8/9//2016 recorded as "partly cloudy- 78F".
+08/23/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 8/23/2016 recorded as "sunny- 70F".
+09/06/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016).  Conditions on 9/06/2016 recorded as "overcast- rain".
+09/20/2016,Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Data entered for FERC Project P-2525 monitoring conducted by Wisconsin Public Service Corporation for compliance with FERC license requirements (2016). Conditions on 9/20/2016 recorded as "Cloudy- 73F- light wind".
+
+
+
+
+Start Date,Group Name,Project Name
+06/14/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+06/28/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+07/12/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+07/26/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+08/09/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+08/23/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+09/06/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)
+09/20/2016,PEARL MAY,FERC WQ Monitoring - Peshtigo River Caldron Falls P-2525 (Wisconsin Public Service Corp)

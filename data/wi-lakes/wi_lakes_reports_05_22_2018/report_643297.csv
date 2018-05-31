@@ -1,0 +1,356 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Placid Twin Lake- North,Vilas,2323800,NO,64,,643297,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189123,08/22/2000,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,08/29/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/05/2000,15,NO,4.6,,,38,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189123,09/20/2000,15.25,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/26/2000,18.5,NO,5.6,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,10/04/2000,19,NO,5.8,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,10/12/2000,18.75,NO,5.7,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,10/31/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,04/29/2001,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189123,05/08/2001,12.5,NO,3.8,,,41,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189123,05/18/2001,14.25,NO,4.3,,,39,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189123,05/28/2001,17,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,06/12/2001,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,06/22/2001,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189123,06/27/2001,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,07/07/2001,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,07/24/2001,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,08/10/2001,11.5,NO,3.5,,,42,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,08/26/2001,17,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/10/2001,16.25,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/25/2001,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,10/11/2001,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,06/05/2002,16.5,NO,5,,,37,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,06/17/2002,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,06/25/2002,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,07/16/2002,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,07/23/2002,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,07/30/2002,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,08/06/2002,13.25,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,08/16/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,08/20/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,08/28/2002,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/09/2002,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/27/2002,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,05/05/2003,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,06/04/2003,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,06/11/2003,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/05/2003,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/13/2003,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/29/2003,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,08/12/2003,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,08/30/2003,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,10/07/2003,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,04/28/2004,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,05/26/2004,20,NO,6.1,,,34,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,06/10/2004,19,NO,5.8,,,35,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,06/29/2004,13.25,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/10/2004,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/19/2004,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/26/2004,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/08/2004,19.5,NO,5.9,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/22/2004,18.25,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,05/29/2005,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,06/21/2005,14.5,NO,4.4,2.27,9,39,45,41,NORMAL,1.6,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/10/2005,13.5,NO,4.1,,,40,,,NORMAL,1.6,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/27/2005,9.25,NO,2.8,2.86,15,45,49,43,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,08/23/2005,14.5,NO,4.4,3.1,10,39,46,43,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,09/14/2005,17,NO,5.2,,,36,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189123,05/03/2006,12.2,NO,3.7,,10,41,46,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,06/27/2006,10.6,NO,3.2,3.17,16,43,50,44,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189123,07/18/2006,14.5,NO,4.4,1.88,14,39,49,40,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,08/08/2006,12.75,NO,3.9,2.15,14,40,49,41,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,09/06/2006,18.75,NO,5.7,1.14,31,35,55,36,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,06/12/2007,16.25,NO,4.9,1.75,51,37,59,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189123,07/11/2007,7.5,NO,2.3,3.66,22,48,52,45,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189123,07/15/2007,7.5,NO,2.3,,,48,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189123,08/14/2007,14,NO,4.3,1.94,11,39,47,40,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37086096,08/27/2010,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37195537,09/05/2010,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+37195537,10/03/2010,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+37195537,10/22/2010,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37086096,07/26/2011,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37195537,08/07/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37195537,05/28/2012,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37195537,06/07/2012,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37195537,05/26/2014,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+37195537,05/30/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+102107494,09/22/2014,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102107494,05/15/2015,19,NO,5.8,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+102107494,06/09/2015,19,NO,5.8,,,35,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+102107494,06/27/2015,14,NO,4.3,,,39,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+102107494,07/21/2015,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102107494,08/13/2015,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102107494,09/01/2015,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102445467,09/25/2015,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102107494,05/21/2016,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102107494,08/25/2016,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+102107494,07/17/2017,11,NO,3.3,,,43,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+102107494,07/28/2017,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/21/2005,3,FEET,75.7,DEGREES F,,
+06/21/2005,6,FEET,74.1,DEGREES F,,
+06/21/2005,9,FEET,74.1,DEGREES F,,
+06/21/2005,12,FEET,72.3,DEGREES F,,
+06/21/2005,15,FEET,69.2,DEGREES F,,
+06/21/2005,18,FEET,63.6,DEGREES F,,
+06/21/2005,21,FEET,60.2,DEGREES F,,
+06/21/2005,24,FEET,58.2,DEGREES F,,
+07/27/2005,3,FEET,74.3,DEGREES F,,
+07/27/2005,6,FEET,74.4,DEGREES F,,
+07/27/2005,9,FEET,74.1,DEGREES F,,
+07/27/2005,12,FEET,73.7,DEGREES F,,
+07/27/2005,15,FEET,73.4,DEGREES F,,
+07/27/2005,18,FEET,71,DEGREES F,,
+07/27/2005,21,FEET,61.5,DEGREES F,,
+07/27/2005,24,FEET,57.2,DEGREES F,,
+08/23/2005,3,FEET,69.8,DEGREES F,,
+08/23/2005,6,FEET,69.8,DEGREES F,,
+08/23/2005,9,FEET,69.8,DEGREES F,,
+08/23/2005,12,FEET,69.6,DEGREES F,,
+08/23/2005,15,FEET,69.2,DEGREES F,,
+08/23/2005,18,FEET,69.2,DEGREES F,,
+08/23/2005,21,FEET,65.6,DEGREES F,,
+08/23/2005,24,FEET,59,DEGREES F,,
+09/14/2005,3,FEET,70.5,DEGREES F,,
+09/14/2005,6,FEET,70.1,DEGREES F,,
+09/14/2005,9,FEET,70.1,DEGREES F,,
+09/14/2005,12,FEET,70.1,DEGREES F,,
+09/14/2005,15,FEET,69.2,DEGREES F,,
+09/14/2005,18,FEET,68.3,DEGREES F,,
+09/14/2005,21,FEET,66.7,DEGREES F,,
+09/14/2005,24,FEET,64,DEGREES F,,
+05/03/2006,3,FEET,56.1,DEGREES F,,
+05/03/2006,6,FEET,54.3,DEGREES F,,
+05/03/2006,9,FEET,53,DEGREES F,,
+05/03/2006,12,FEET,53,DEGREES F,,
+05/03/2006,15,FEET,52.8,DEGREES F,,
+05/03/2006,18,FEET,52.7,DEGREES F,,
+05/03/2006,21,FEET,51,DEGREES F,,
+05/03/2006,24,FEET,48,DEGREES F,,
+05/03/2006,27,FEET,45.6,DEGREES F,,
+07/18/2006,3,FEET,80,DEGREES F,,
+07/18/2006,6,FEET,79.5,DEGREES F,,
+07/18/2006,9,FEET,79.1,DEGREES F,,
+07/18/2006,12,FEET,77.3,DEGREES F,,
+07/18/2006,15,FEET,73.4,DEGREES F,,
+07/18/2006,18,FEET,66.2,DEGREES F,,
+07/18/2006,21,FEET,60.2,DEGREES F,,
+07/18/2006,24,FEET,56.6,DEGREES F,,
+08/08/2006,3,FEET,76.9,DEGREES F,,
+08/08/2006,6,FEET,75.7,DEGREES F,,
+08/08/2006,9,FEET,75.3,DEGREES F,,
+08/08/2006,12,FEET,75.3,DEGREES F,,
+08/08/2006,15,FEET,75,DEGREES F,,
+08/08/2006,18,FEET,70.8,DEGREES F,,
+08/08/2006,21,FEET,62.4,DEGREES F,,
+08/08/2006,24,FEET,58.4,DEGREES F,,
+09/06/2006,3,FEET,71.4,DEGREES F,,
+09/06/2006,6,FEET,71.4,DEGREES F,,
+09/06/2006,9,FEET,71,DEGREES F,,
+09/06/2006,12,FEET,71,DEGREES F,,
+09/06/2006,15,FEET,70.8,DEGREES F,,
+09/06/2006,18,FEET,70.3,DEGREES F,,
+09/06/2006,21,FEET,69.4,DEGREES F,,
+09/06/2006,24,FEET,66.5,DEGREES F,,
+06/12/2007,3,FEET,71,DEGREES F,,
+06/12/2007,6,FEET,69.6,DEGREES F,,
+06/12/2007,9,FEET,68,DEGREES F,,
+06/12/2007,12,FEET,67.4,DEGREES F,,
+06/12/2007,15,FEET,65,DEGREES F,,
+06/12/2007,18,FEET,63.6,DEGREES F,,
+06/12/2007,21,FEET,58,DEGREES F,,
+06/12/2007,24,FEET,56.6,DEGREES F,,
+07/11/2007,3,FEET,74.4,DEGREES F,,
+07/11/2007,6,FEET,74.8,DEGREES F,,
+07/11/2007,9,FEET,74.6,DEGREES F,,
+07/11/2007,12,FEET,74.6,DEGREES F,,
+07/11/2007,15,FEET,72.6,DEGREES F,,
+07/11/2007,18,FEET,67.4,DEGREES F,,
+07/11/2007,21,FEET,63.8,DEGREES F,,
+07/11/2007,24,FEET,63.6,DEGREES F,,
+08/14/2007,3,FEET,77.3,DEGREES F,,
+08/14/2007,6,FEET,77.3,DEGREES F,,
+08/14/2007,9,FEET,77.1,DEGREES F,,
+08/14/2007,12,FEET,77,DEGREES F,,
+08/14/2007,15,FEET,76.2,DEGREES F,,
+08/14/2007,18,FEET,73.2,DEGREES F,,
+08/14/2007,21,FEET,69,DEGREES F,,
+08/14/2007,24,FEET,62.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/22/2000,Cloudless sky- lots of aquatic plants in water.    
+08/29/2000,No rain past week- clear day- slight wind.  Weedy.    
+09/05/2000,Clear- slight wind. rainstorm 3 days ago- sediment in water.    
+09/20/2000,Cloudy- windy. rain yesterday.    
+09/26/2000,Cloudy- slgiht wind. choppy water- no recent rain.    
+10/04/2000,Clear- cold. slightly choppy water.  No recent rain.    
+10/12/2000,Clear- breezy- some waves.  Snow 5 days ago.    
+10/31/2000,Semi-cloudy.  No boat traffic.  No rain- still water.    
+04/29/2001,Sunny    
+05/08/2001,Sunny- cool. Fair amount of boat traffic.    
+05/18/2001,Partly cloudy- some wind and low waves.    
+05/28/2001,Sunny- no clouds- clear water. Normal boat traffic.    
+06/12/2001,Sunny- pollen on surface water near shore. Slight breeze. No boat traffic.    
+06/22/2001,Partially cloudy. Little boat traffic- choppy water with wind.    
+06/27/2001,Hazy- clouds. Calm water. No boat traffic.    
+07/07/2001,Mostly cloudy with little sunlight. Slight breeze with small waves.    
+07/24/2001,Some wind with choppy water. Partly cloudy.    
+08/10/2001,Partly cloudy- some wind and small waves. More boat traffic than last week.    
+08/26/2001,Sunny- no wind. Little boat traffic. Clear water.    
+09/10/2001,Partly cloudy (1st time able to test in 5 days). Slight wind and waves. Little boat traffic. 2.5" rain in past few days.    
+09/25/2001,Mostly sunny- quite windy- so exact reading  is difficult at best b/c of lack of perpendicular reading.    
+10/11/2001,Clear day. Very windy and rain yesterday. Some wind and slight waves today.    
+06/05/2002,Slight breeze. No boat traffic.    
+06/17/2002,Breezy- making observation more difficult. More sediment in water.    
+06/25/2002,Breezy- semi-clear day.  Observations difficult. Less sediment. Hard to find clear day.    
+07/16/2002,Breezy- clear day.  More sediment.    
+07/30/2002,Some wind and slight choppiness. No boat traffic.    
+08/06/2002,Partly cloudy. Cool.  Slight breeze- no boat traffic.    
+08/16/2002,Partly cloudy- some wind and some choppiness of water.    
+08/20/2002,Clear day- slight wind and slight waves. No boat traffic.    
+08/28/2002,Clear day- no waves.  Best day yet for readings. No boat traffic.    
+09/27/2002,Clear day after days of rain.  No wind- no traffic.    
+05/05/2003,Clear day- boat traffic.    
+06/04/2003,Partly cloudy- no boat traffic.    
+06/11/2003,Partly cloudy- no boat traffic- slight breeze.    
+07/05/2003,clear day- quiet lake.  No traffic    
+07/13/2003,Partly cloudy- slight breeze- lake quiet    
+07/29/2003,Partly cloudy- slight breeze.  Some traffic.    
+08/30/2003,Slight breeze- no boat traffic. Water very low.  Partly cloudy    
+10/07/2003,Nice day (after 2 weeks of lousy- rainy windy days)    
+04/28/2004,clear day- finally! slight breeze- no boat traffic- ice out 10 days ago    
+05/26/2004,clear day (rare) slight wind- not much boat traffic yet    
+06/10/2004,clear day- no boat traffic- a lot of pollen on H2O    
+06/29/2004,mostly clear- slight breeze- no boat traffic    
+07/19/2004,mostly clear- slight breeze- very little boat traffic    
+07/26/2004,partly cloudy- slight breeze- little traffic    
+05/29/2005,Partly cloudy- slight breeze.  Very little boat traffic.    
+06/21/2005,Clear day- little traffic- slight wind.    
+07/10/2005,Partly cloudy- slight breeze.  No boat traffic.  Many more weeds than 2 weeks ago.    
+07/27/2005,Colder spell.  Windy past few days.  Partly cloudy.    
+08/23/2005,Colder (50s)- calm and clear.  Lake down - level very low.    
+09/14/2005,Colder.  2 inches of rain last 48 hours.  Slight breeze- no boat traffic.    
+05/03/2006,a lot windy- temp guage non-operational- phosphorus checked
+06/27/2006,partly cloudy- slight wind- no boats
+06/12/2007,Breezy- no boat traffic
+07/11/2007,Some breeze.  Cloudy water.  More weeds.
+07/15/2007,Repeat as I found 7/11/2007.  
+08/14/2007,Breezy- no boat traffic
+08/27/2010,Sunny and clear. In the 80's beautiful
+09/22/2014,Sunny and calm - 62 degrees
+05/15/2015,Cloudy- still- after a rain 12 hrs- water temp 58
+06/09/2015,Calm- 2 fishing boats- 1 bald eagle- smoky sky from Canadian wildfire
+06/27/2015,Mostly sunny- some boat traffic
+07/21/2015,Windy- 1 sailboat on lake
+05/21/2016,One fishing boat on the lake.  Lots of fish sightings.
+07/17/2017,Lots of green algae
+07/28/2017,Sunny- light breeze
+
+
+
+
+Start Date,Group Name,Project Name
+08/22/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/29/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/05/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/20/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/26/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/04/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/12/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/31/2000,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+04/29/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/08/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/18/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/28/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/12/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/22/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/27/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/07/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/24/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/10/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/26/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/10/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/25/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/11/2001,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/05/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/17/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/25/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/16/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/23/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/30/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/06/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/16/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/20/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/28/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/09/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/27/2002,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/05/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/04/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/11/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/05/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/13/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/29/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/12/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/30/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/07/2003,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+04/28/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/26/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/10/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/29/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/10/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/19/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/26/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/08/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/22/2004,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/29/2005,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/21/2005,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/10/2005,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/27/2005,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/23/2005,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/14/2005,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/03/2006,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/27/2006,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/18/2006,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/08/2006,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/06/2006,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/12/2007,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/11/2007,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/15/2007,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/14/2007,David Ahmann,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/27/2010,Rosemarie Herman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/05/2010,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/03/2010,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+10/22/2010,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/26/2011,Rosemarie Herman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/07/2011,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/28/2012,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/07/2012,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/26/2014,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/30/2014,Chase Hayman,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/22/2014,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/15/2015,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/09/2015,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+06/27/2015,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/21/2015,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/13/2015,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/01/2015,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+09/25/2015,Brent Costello,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+05/21/2016,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+08/25/2016,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/17/2017,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole
+07/28/2017,Karen Tupling,Citizen Lake Monitoring - Water Quality - North Placid Twin Lake; Deep Hole

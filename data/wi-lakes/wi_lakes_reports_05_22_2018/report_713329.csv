@@ -1,0 +1,819 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Winnebago,Winnebago,131100,NE,71,,713329,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+16115865,06/30/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/07/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,07/15/2005,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/30/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/10/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/20/2005,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/27/2005,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,09/03/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,09/18/2005,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,09/22/2005,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,05/20/2006,5.5,NO,1.7,,,53,,,NORMAL,3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,06/03/2006,6,NO,1.8,,,51,,,NORMAL,3,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,06/11/2006,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,06/18/2006,4.5,NO,1.4,,,55,,,NORMAL,3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,06/22/2006,4.5,NO,1.4,,,55,,,NORMAL,3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,06/29/2006,5.5,NO,1.7,,,53,,,NORMAL,3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/11/2006,4.5,NO,1.4,,,55,,,NORMAL,3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/17/2006,3.5,NO,1.1,,,59,,,LOW,2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,07/23/2006,3,NO,0.9,,,61,,,LOW,2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/02/2006,3.5,NO,1.1,,,59,,,LOW,2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/09/2006,3,NO,0.9,,,61,,,LOW,2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/16/2006,3.5,NO,1.1,,,59,,,LOW,2,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/27/2006,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,09/03/2006,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,09/17/2006,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,09/25/2006,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,04/29/2007,2,NO,0.6,,,67,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,05/07/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,05/13/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,05/20/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,05/25/2007,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/02/2007,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,06/09/2007,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,06/16/2007,5,,1.5,,,54,,,,,,,
+21957977,06/24/2007,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,07/02/2007,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,07/09/2007,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/15/2007,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/22/2007,0.5,NO,0.2,,,87,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,07/28/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/04/2007,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/13/2007,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/20/2007,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,08/24/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,08/30/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,09/05/2007,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/10/2007,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/17/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,05/14/2008,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16115865,05/23/2008,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16115865,05/30/2008,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,06/13/2008,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,06/20/2008,3.25,NO,1,,,60,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,06/28/2008,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16115865,07/03/2008,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,07/11/2008,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/18/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/25/2008,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/01/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/07/2008,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16115865,08/14/2008,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/23/2008,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/29/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/05/2008,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/10/2008,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/17/2008,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/25/2008,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,10/01/2008,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,10/08/2008,1.5,NO,0.5,,,71,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,05/05/2009,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,05/12/2009,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,05/22/2009,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,05/29/2009,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+21957977,06/04/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,06/10/2009,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,06/19/2009,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/28/2009,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,07/05/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,07/12/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,07/19/2009,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,07/26/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+21957977,08/02/2009,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,08/08/2009,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/16/2009,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/24/2009,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/29/2009,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,09/06/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,09/13/2009,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/20/2009,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,09/27/2009,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,10/04/2009,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,05/19/2010,8.5,YES,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,05/23/2010,3,NO,0.9,,,61,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,05/27/2010,8.1,NO,2.5,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,06/02/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+21957977,06/06/2010,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,06/09/2010,3.5,,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/13/2010,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/17/2010,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/23/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,06/27/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,06/30/2010,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/07/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,07/11/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,07/14/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/20/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/25/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/28/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/02/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/05/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/11/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/15/2010,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/18/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/22/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,08/25/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/29/2010,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+21957977,09/01/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,09/08/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/12/2010,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,09/15/2010,7.5,NO,2.3,,,48,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,09/18/2010,,NO,,,,,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/21/2010,,NO,,,,,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,06/05/2011,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16115865,06/11/2011,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,06/15/2011,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+16115865,06/19/2011,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,06/24/2011,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16115865,07/03/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16115865,07/10/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/17/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/24/2011,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/31/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/07/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/14/2011,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,08/21/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,08/28/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,09/04/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,09/11/2011,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,09/18/2011,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+16115865,05/14/2012,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115865,05/20/2012,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16115865,05/24/2012,6,YES,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,06/01/2012,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,06/06/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,06/11/2012,3,,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,06/21/2012,4.5,,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,06/25/2012,5.5,,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,07/01/2012,4,,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/07/2012,3.5,,1.1,,,59,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,07/13/2012,0.75,,0.2,,,81,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,07/21/2012,0.25,NO,0.1,,,97,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,07/27/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/04/2012,0.5,NO,0.2,,,87,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,08/11/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/18/2012,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/24/2012,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,08/31/2012,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,09/02/2012,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,09/09/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/13/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,06/08/2013,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+21957977,06/18/2013,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+21957977,06/21/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,06/27/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+21957977,07/05/2013,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/11/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,07/23/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/30/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/07/2013,2,NO,0.6,,,67,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/13/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/18/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/22/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/29/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+21957977,09/02/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/07/2013,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,09/13/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/20/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,09/27/2013,2.5,,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,06/07/2014,1.5,NO,0.5,,,71,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+21957977,06/13/2014,8,YES,2.4,,,47,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+21957977,06/22/2014,4,,1.2,,,57,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,06/27/2014,1,NO,0.3,,,77,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21957977,07/02/2014,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,07/11/2014,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,07/18/2014,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,07/25/2014,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/01/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,08/07/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,08/14/2014,4,NO,1.2,,,57,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/21/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/28/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,09/05/2014,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/10/2014,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,09/18/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/24/2014,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,10/02/2014,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,05/15/2015,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16115865,05/22/2015,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,06/08/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,06/14/2015,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,06/19/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,06/26/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/05/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/10/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/16/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/21/2015,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16115865,07/25/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16115865,07/31/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,08/04/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16115865,08/08/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/11/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/14/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/18/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,08/21/2015,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,08/27/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/01/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/04/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,09/09/2015,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16115865,09/13/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16115865,09/17/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16115865,09/21/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21957977,05/22/2016,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,05/26/2016,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+21957977,05/31/2016,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/04/2016,2,,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/10/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/14/2016,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,06/19/2016,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/25/2016,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,06/30/2016,3.5,,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/01/2016,1.5,,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,07/06/2016,3.5,,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,07/13/2016,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,07/17/2016,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,07/22/2016,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,07/26/2016,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/30/2016,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/03/2016,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21957977,08/07/2016,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/13/2016,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,08/20/2016,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,08/25/2016,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/30/2016,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,09/10/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/15/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/22/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,09/27/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/01/2017,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21957977,06/05/2017,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21957977,06/09/2017,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,06/14/2017,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,06/21/2017,6.5,NO,2,,,50,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,06/25/2017,5,NO,1.5,,,54,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+21957977,06/29/2017,1,NO,0.3,,,77,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,07/03/2017,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,07/06/2017,3,NO,0.9,,,61,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21957977,07/09/2017,5.5,NO,1.7,,,53,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,07/14/2017,6.5,NO,2,,,50,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,07/19/2017,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,07/26/2017,1,,0.3,,,77,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,07/30/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/02/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/06/2017,2,,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/09/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/13/2017,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,08/16/2017,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21957977,08/20/2017,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,08/23/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21957977,08/27/2017,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21957977,08/30/2017,4.5,,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21957977,09/05/2017,4.5,,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21957977,09/09/2017,1.5,,0.5,,,71,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+21957977,09/14/2017,0.5,,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21957977,09/17/2017,1,,0.3,,,77,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21957977,09/23/2017,0.5,,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21957977,09/27/2017,3.5,,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/30/2005,Partly cloudy- very windy- algae
+07/07/2005,Partly sunny- west wind- much algae
+07/15/2005,90 degrees- very hot- sunny- windy 90 degrees- very hot- sunny- windy 90 degrees- very hot
+07/30/2005,Sunny- windy- white caps
+08/10/2005,Twilight- very calm- water temperature 75 degrees
+08/20/2005,Sunny- light off-shore breeze- 72 degrees- rained last 2 nights
+08/27/2005,Sunny- light off-shore breeze- 70 degrees- rained hard last night
+09/03/2005,Sunny- light wind- water temperature 72 degrees
+09/18/2005,Sunny- moderate wind off lake- water temperature 76 degrees
+09/22/2005,Moderate wind- sunny- water temperature 72 degrees
+05/20/2006,Mod wind- some algae
+06/03/2006,Light wind- L. Algae
+06/11/2006,Very light wind- algae
+06/18/2006,Moderate wind- partly cloudy
+06/29/2006,no clouds or wind
+07/11/2006,Light rain and wind
+07/23/2006,clear
+08/02/2006,cloudy- calm
+08/09/2006,sunny- mild chop
+08/16/2006,sunny- calm
+08/27/2006,Sunny- 80F calm
+09/03/2006,Sunny- almost calm
+09/17/2006,Windy- 84F- sunny
+09/25/2006,slight breeze- sunny- 60F
+04/29/2007,Partly sunny.  72 F.  Very windy.
+05/07/2007,70 F.  Sunny.  Moderate wind.  
+05/13/2007,Mod. waves.
+05/20/2007,Very slight
+05/25/2007,Calm- algae.
+06/02/2007,Calm- rainy
+06/09/2007,Clear- light chop
+06/16/2007,Clear- slight chop
+06/24/2007,Clear
+07/02/2007,Cloudy- mod. waves.
+07/09/2007,Parlty cloudy.  Heavy waves.
+07/15/2007,Sunny- 75.  Slight chop.
+07/22/2007,Mod. chop.
+07/28/2007,Calm- 85 F.
+08/04/2007,79 F.
+08/13/2007,Slight wind.  76 F.
+08/20/2007,Cloudy- raining.  Med waves.
+08/24/2007,Sunny- slight ripples.  75 F.
+08/30/2007,Sunny.
+09/05/2007,Sunny- hot- 90+.  
+09/10/2007,Rainy- slight wind.  Cloudy.  60 F.
+09/17/2007,Windy- white caps.  60 F.
+05/14/2008,lakeflies
+05/23/2008,Sunny- Air temperature 45 F
+05/30/2008,sun setting- air temperature 65 F. 
+06/13/2008,Sunny- 75 F. Moderate waves- much turbidity after storms. 
+06/20/2008,Sunny- 80 F. Moderate waves. 
+06/28/2008,Sunny- 75 F. Slight waves. 
+07/03/2008,Sunny- 68 F. Slight waves. 
+07/11/2008,Sunny- 81 F. White caps. 
+07/18/2008,Cloudy- 71 F. Very little waves. 
+07/25/2008,Cloudy- 82 F. Moderate chop. 
+08/01/2008,Sunny- 84 F. Moderate waves after rainstorm. 
+08/07/2008,Brisk off shore wind- calm lake. 
+08/14/2008,Calm- sunny 75 F. 
+08/23/2008,Very light waves. Very green. Sunny- 83 F. 
+08/29/2008,Near calm- 72 F. Algae. 
+09/05/2008,Calm- 75 F. Algae
+09/10/2008,Very rough- 62 F. 
+09/17/2008,Moderate- 65 degrees F. 
+09/25/2008,Still algae- weeds. 
+10/01/2008,Off shore wind- 54 F. 
+10/08/2008,Moderate wind off shore- 62 degrees F. 
+05/05/2009,very windy
+05/12/2009,very windy
+05/22/2009,61 degrees. Cloudy- slight drizzle.
+05/29/2009,69 degrees. Sunny- very light wind.
+06/04/2009,70 degrees. Sunny- moderate wind.
+06/10/2009,65 degrees. Sunny- near calm.
+06/19/2009,70 degrees and raining. Moderate chop.
+06/28/2009,75 degrees. Off shore breeze.
+07/05/2009,65 degrees. Still.
+07/12/2009,71 degrees. Light wind.
+07/19/2009,65 degrees. Light off shore wind.
+07/26/2009,light off shore wind. 81 degrees.
+08/02/2009,moderate wind from the south. 73 degrees.
+08/08/2009,81 degrees. Slight wind. Severe storm last night.
+08/16/2009,75 degrees. 3 foot rollers. South wind. Very windy.
+08/24/2009,75 degrees. Raining. Slight wind.
+08/29/2009,60 degrees. Overcast.
+09/06/2009,75 degrees. Very light wind. Sunny.
+09/13/2009,80 degrees. Light wind- sunny.
+09/20/2009,74 degrees. Moderate wind- sunny.
+09/27/2009,70 degrees. Very rough. White caps.
+10/04/2009,50 degrees. Slight wind. 
+05/19/2010,Sunny 73 degrees.
+05/23/2010,Sunny and much turbidity; moderate waves 78 degrees.
+05/27/2010,Sunny- light wind.
+06/02/2010,Overcast- moderate waves; 70 degrees.
+06/06/2010,Overcast- slight waves; 65 degrees.
+06/09/2010,Sunny- light breeze; 2 days of rain - debris in lake.
+06/13/2010,Overcast- drizzle - very light wind; algae begins.
+06/17/2010,Overcast- calm.
+06/23/2010,Sunny- light wind; rained earlier in the day.
+06/27/2010,Cloudy- Southeast wind; heavy rain last night.
+06/30/2010,Sunny 75 degrees; light wind; algae.
+07/07/2010,Overcast- humid 75 degrees; increased algae and plants.
+07/11/2010,Sunny- 77 degrees; rough- occasional white caps - algae.
+07/14/2010,Cloudy- very windy - rough.
+07/20/2010,Slight wind.
+07/25/2010,slight wind; weeds.
+07/28/2010,Slight wind
+08/02/2010,windy.
+08/05/2010,light wind - 80 degrees; algae and weeds.
+08/11/2010,No wind- very humid; post storm.
+08/15/2010,Moderate wind- sunny 75 degrees; weeds.
+08/18/2010,78 degrees; moderate wind; weeds.
+08/22/2010,74 degrees; very light wind; terrible weeds.
+08/25/2010,76 degrees; sunny- light wind - weeds.
+08/29/2010,75 degrees; sunny- moderate wind; heavy winds yesterday - weeds.
+09/01/2010,78 degrees; partly sunny- light wind.
+09/08/2010,light wind; 65 degrees.
+09/12/2010,Very light winds; 66 degrees; clumps of weeds.
+09/15/2010,Rainy and weedy.
+09/18/2010,calm- 55 degrees.
+09/21/2010,calm- 75 degrees- cloudy - last of season.
+06/05/2011,very light breeze
+06/11/2011,no breeze- cloudy
+06/15/2011,mild breeze- partly cloudy
+06/19/2011,mild wind- beginning to rain
+06/24/2011,light breeze- 72 degrees
+07/03/2011,light breeze from the lake 75 degrees
+07/10/2011,light rains- 75 degrees- moderate waves
+07/17/2011,partly cloudy- 72 degrees- humid- moderate waves
+07/24/2011,rainy but clearing- 68 degrees- slight breeze
+07/31/2011,77 degrees- light wind- algae beginning
+08/07/2011,70 degrees- light wind- light algae
+08/14/2011,moderate breeze- 70 degrees
+08/21/2011,very windy- 75 degrees
+08/28/2011,light wind- 65 degrees- algae
+09/04/2011,light wind 55 degrees- algae + weeds
+09/11/2011,light wind- 55 degrees- much algae
+09/18/2011,very windy- 60 degrees
+05/14/2012,slight wind- lake flies
+05/20/2012,heavy wind
+05/24/2012,moderate wind- sunny- 75 degrees
+06/01/2012,moderate wind- sunny- 64 degrees
+06/06/2012,sunny- no wind- 70 degrees- much algae
+06/11/2012,sunny- moderate wind- after days of heavy wind
+06/21/2012,sunny. light wind- rained last night
+06/25/2012,sunny- moderate wind- 65 degrees
+07/01/2012,sunny- 70 degrees- slight wind- algae
+07/07/2012,sunny- moderate wind- 71 degrees- algae
+07/13/2012,sunny- 88 degrees- wind- much algae
+07/21/2012,moderate wind 70 degrees- much algae
+07/27/2012,moderate wind. 70 degrees- algae
+08/04/2012,moderate wind- 80 degrees- much algae
+08/11/2012,no wind- algae
+08/18/2012,very light wind- 74 degrees- algae
+08/24/2012,moderate wind- algae and murky
+08/31/2012,light wind- algae- 85 degrees- murky
+09/02/2012,light winds- 60 degrees
+09/09/2012,moderate wind
+09/13/2012,no wond- 62 degrees
+06/08/2013,Calm- raining- 70 f
+06/18/2013,Slight E wind- 75 f
+06/21/2013,Beginning to storm/rain
+06/27/2013,Light wind- some algae
+07/05/2013,Heavy wind
+07/11/2013,Mild green- slight wind
+07/23/2013,Light wind- storm last night
+07/30/2013,LIght wind
+08/07/2013,LIght wind- storm last night
+08/13/2013,Moderate wind
+08/18/2013,Moderate wind- 78 f
+08/22/2013,LIght wind- 64 f- storm last night
+08/29/2013,Calm- still 71 f
+09/02/2013,Still 62 f
+09/07/2013,Moderate wind- light rain
+09/13/2013,Light wind- 60 f
+09/20/2013,Raining- light wind
+09/27/2013,Light wind
+06/07/2014,medium wind; much algae
+06/13/2014,light wind; slight algae present
+06/22/2014,light to medium wind; medium amount algae present
+06/27/2014,rough water; much algae present
+07/02/2014,light winds; moderate amount of algae present
+07/11/2014,very windy; rough waters
+07/18/2014,very windy; rough waters
+07/25/2014,very windy; rough water
+08/01/2014,moderate wind
+08/07/2014,slight wind
+08/14/2014,very little wind; algae present
+08/21/2014,very rough; algae present
+08/28/2014,moderate wind; algae present
+09/05/2014,light wind; much turbidity from storms
+09/10/2014,light wind before storm; much algae present
+09/18/2014,light wind
+09/24/2014,algae present
+10/02/2014,very little wind; much algae
+05/15/2015,Light wind- much gunk
+05/22/2015,Moderately rough
+06/08/2015,Calm
+06/14/2015,foggy
+06/19/2015,moderate wind- blue-green algae
+06/26/2015,Slight wind- some algae
+07/05/2015,Slight wind- some algae
+07/10/2015,very rough
+07/16/2015,very rough
+07/21/2015,very light wind
+07/25/2015,moderate wind
+07/31/2015,Light wind
+08/04/2015,Light wind
+08/08/2015,Light wind- algae
+08/11/2015,Very light wind- algae
+08/14/2015,Very light wind- algae
+08/18/2015,Moderate wind- turbulence from rain
+08/21/2015,Moderate-heavy wind- much turbulence - *illegible*
+08/27/2015,Moderately rough
+09/01/2015,Moderate wind- algae
+09/04/2015,Light wind
+09/09/2015,Almost still
+09/13/2015,Moderate wind- much turbidity
+09/17/2015,Moderate/heavy wind- much turbidity
+09/21/2015,moderately windy- very green
+05/22/2016,lake flies down- little wind
+05/26/2016,medium wind
+05/31/2016,windy
+06/04/2016,windy
+06/10/2016,windy
+06/14/2016,med windy
+06/19/2016,mod windy
+06/25/2016,very windy
+06/30/2016,very light wind
+07/01/2016,windy
+07/06/2016,very light wind
+07/13/2016,mod wind
+07/17/2016,mod waves
+07/22/2016,light wind
+07/26/2016,light wind
+07/30/2016,light wind
+08/03/2016,light wind
+08/07/2016,very light wind
+08/13/2016,light wind
+08/20/2016,heavy wind
+08/25/2016,very light wind
+08/30/2016,mod wind
+09/10/2016,light rain light wind
+09/15/2016,mod wind
+09/22/2016,light wind
+09/27/2016,mod wind
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/07/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/15/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/30/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/10/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/20/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/27/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/03/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/18/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/22/2005,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/20/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/03/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/11/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/18/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/22/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/29/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/11/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/17/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/23/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/02/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/09/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/16/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/27/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/03/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/17/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/25/2006,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+04/29/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/07/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/13/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/20/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/25/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/02/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/09/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/16/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/24/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/02/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/09/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/15/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/22/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/28/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/04/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/13/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/20/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/24/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/30/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/05/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/10/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/17/2007,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/14/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/23/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/30/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/13/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/20/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/28/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/03/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/11/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/18/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/25/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/01/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/07/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/14/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/23/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/29/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/05/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/10/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/17/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/25/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+10/01/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+10/08/2008,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/05/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/12/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/22/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/29/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/04/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/10/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/19/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/28/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/05/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/12/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/19/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/26/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/02/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/08/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/16/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/24/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/29/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/06/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/13/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/20/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/27/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+10/04/2009,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/19/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/23/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/27/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/02/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/06/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/09/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/13/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/17/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/23/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/27/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/30/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/07/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/11/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/14/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/20/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/25/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/28/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/02/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/05/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/11/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/15/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/18/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/22/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/25/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/29/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/01/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/08/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/12/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/15/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/18/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/21/2010,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/05/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/11/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/15/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/19/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/24/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/03/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/10/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/17/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/24/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/31/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/07/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/14/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/21/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/28/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/04/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/11/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/18/2011,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/14/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/20/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/24/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/01/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/06/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/11/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/21/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/25/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/01/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/07/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/13/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/21/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/27/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/04/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/11/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/18/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/24/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/31/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/02/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/09/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/13/2012,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/08/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/18/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/21/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/27/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/05/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/11/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/23/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/30/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/07/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/13/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/18/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/22/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/29/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/02/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/07/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/13/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/20/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/27/2013,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/07/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/13/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/22/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/27/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/02/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/11/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/18/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/25/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/01/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/07/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/14/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/21/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/28/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/05/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/10/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/18/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/24/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+10/02/2014,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/15/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/22/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/08/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/14/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/19/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/26/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/05/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/10/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/16/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/21/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/25/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/31/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/04/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/08/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/11/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/14/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/18/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/21/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/27/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/01/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/04/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/09/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/13/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/17/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/21/2015,Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/22/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/26/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+05/31/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/04/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/10/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/14/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/19/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/25/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/30/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/01/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/06/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/13/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/17/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/22/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/26/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/30/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/03/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/07/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/13/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/20/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/25/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/30/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/10/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/15/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/22/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/27/2016,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/01/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/05/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/09/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/14/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/21/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/25/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+06/29/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/03/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/06/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/09/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/14/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/19/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/26/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+07/30/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/02/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/06/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/09/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/13/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/16/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/20/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/23/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/27/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+08/30/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/05/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/09/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/14/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/17/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/23/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21
+09/27/2017,Chelsea and Marc Blum,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G21

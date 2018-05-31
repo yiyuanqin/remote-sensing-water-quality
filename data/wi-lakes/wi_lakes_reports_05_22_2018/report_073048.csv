@@ -1,0 +1,475 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Yellow Lake,Burnett,2674800,NO,7,,073048,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190648,07/14/1992,3.75,NO,1.1,,,58,,,GAUGE,8.72,,GREEN,2-Very minor aesthetic problems
+8190648,07/23/1992,3.25,NO,1,,,60,,,GAUGE,6.68,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190648,08/13/1992,3.5,NO,1.1,,,59,,,GAUGE,6.6,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190648,09/03/1992,4.5,NO,1.4,,,55,,,GAUGE,6.76,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190648,06/10/1993,9.5,NO,2.9,,,45,,,GAUGE,6.76,,GREEN,2-Very minor aesthetic problems
+8190648,07/29/1993,5,NO,1.5,,,54,,,GAUGE,6.68,,GREEN,2-Very minor aesthetic problems
+8190648,08/13/1993,4.75,NO,1.4,,,55,,,GAUGE,6.72,,GREEN,2-Very minor aesthetic problems
+8190648,09/18/1993,4,NO,1.2,,,57,,,GAUGE,6.82,,GREEN,4-Would not swim but boating OK (algae)
+8190648,06/03/1994,8.5,NO,2.6,,,46,,,GAUGE,6.7,,GREEN,1-Beautiful, could not be nicer
+8190648,06/24/1994,7,NO,2.1,,,49,,,GAUGE,6.6,,GREEN,2-Very minor aesthetic problems
+8190648,07/06/1994,5.75,NO,1.7,,,52,,,GAUGE,6.78,,GREEN,2-Very minor aesthetic problems
+8190648,07/20/1994,5.25,NO,1.6,,,53,,,GAUGE,6.92,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190648,08/16/1994,4.75,NO,1.4,21.2,,55,,58,GAUGE,6.76,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190648,08/29/1994,3,NO,0.9,,,61,,,GAUGE,6.78,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190648,09/28/1994,6,NO,1.8,12.7,,34,,54,GAUGE,6.56,,BROWN,2-Very minor aesthetic problems
+8190648,10/26/1994,7.5,NO,2.3,19.3,,31,,57,,,,GREEN,1-Beautiful, could not be nicer
+8190648,05/24/1995,6.25,NO,1.9,7.66,,51,,50,,,,GREEN,1-Beautiful, could not be nicer
+8190648,06/09/1995,6.75,NO,2.1,,,50,,,MARKER HAS BEEN KNOCKED CROOKED,,,GREEN,1-Beautiful, could not be nicer
+8190648,06/21/1995,7.75,NO,2.4,3.92,,48,,45,,,,GREEN,2-Very minor aesthetic problems
+8190648,07/07/1995,5.25,NO,1.6,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190648,07/24/1995,6.25,NO,1.9,0.02,,51,,5,,,,GREEN,2-Very minor aesthetic problems
+8190648,08/09/1995,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190648,08/21/1995,3.25,NO,1,4.79,,60,,47,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190648,09/11/1995,3.25,NO,1,,,60,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190648,05/28/1996,5.75,NO,1.7,11.5,25,52,53,53,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190648,07/01/1996,6.25,NO,1.9,12.3,23,51,52,54,,,MURKY,YELLOW,
+8190648,07/10/1996,6.5,NO,2,,,50,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,07/22/1996,5,NO,1.5,25.8,35,54,56,59,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,08/01/1996,4.25,NO,1.3,,,56,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8190648,08/12/1996,,,,54.2,42,,57,65,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8190648,09/18/1996,3.75,NO,1.1,45.8,79,58,62,64,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8190648,06/11/1997,13.75,NO,4.2,,,39,,,8" LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190648,07/15/1997,3.75,NO,1.1,,,58,,,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8190648,08/05/1997,4.75,NO,1.4,,,55,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,09/10/1997,4.75,NO,1.4,,,55,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,09/26/1997,4.25,NO,1.3,,,56,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,06/23/1998,4.5,NO,1.4,21.5,,55,,58,NO CHANGE,,MURKY,YELLOW,2-Very minor aesthetic problems
+8190648,07/01/1998,4.25,NO,1.3,,,56,,,NO CHANGE,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,07/21/1998,3,NO,0.9,42.6,,61,,63,NO CHANGE,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,08/04/1998,2.25,NO,0.7,,,65,,,NO CHANGE,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,08/25/1998,3,NO,0.9,60.4,85,61,63,66,NO CHANGE,,MURKY,YELLOW,2-Very minor aesthetic problems
+8190648,09/11/1998,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8190648,09/23/1998,5,NO,1.5,30.5,,54,,61,NO CHANGE,,MURKY,YELLOW,2-Very minor aesthetic problems
+8190648,07/07/1999,4.25,NO,1.3,28.3,45,56,58,60,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8190648,08/04/1999,2.5,NO,0.8,51,92,64,63,65,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8190648,08/31/1999,2.25,NO,0.7,97,100,65,64,69,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189220,06/30/2002,,,,16.5,43,,57,56,,,,,
+8189220,07/30/2002,5,NO,1.5,,,54,,,GAUGE,930.198,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189220,09/09/2002,3.5,NO,1.1,30.1,62,59,60,61,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189220,07/21/2003,,,,20,40,,57,57,,,,,
+8189220,07/30/2003,5,NO,1.5,,,54,,,,930.198,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189220,09/09/2003,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189220,09/10/2003,,,,115,83,,62,71,,,,,
+8189220,10/15/2003,,,,4.53,46,,58,46,,,,,
+8191321,06/25/2005,,,,4.92,24,,53,47,,,,,
+1,07/24/2005,,,,24.4,,,,59,,,,,
+8191321,09/04/2005,,,,63.9,100,,64,66,,,,,
+8191321,05/21/2006,6,NO,1.8,,31,51,55,,NORMAL,,CLEAR,GREEN,
+8191321,06/18/2006,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,
+8191321,06/25/2006,5,NO,1.5,7.62,20,54,51,50,NORMAL,,CLEAR,GREEN,
+8191321,07/16/2006,4.5,NO,1.4,10.5,38,55,56,53,NORMAL,,,,
+8191321,08/19/2006,3.2,NO,1,92.7,77,60,62,69,HIGH,,,GREEN,
+8191321,05/19/2007,6,YES,1.8,,30,51,54,,HIGH,,CLEAR,GREEN,
+8191321,06/23/2007,4.5,YES,1.4,23.4,38,55,56,59,,,,,
+8191321,07/15/2007,4.5,,1.4,,,55,,,,,,,
+8191321,07/21/2007,,,,32.7,47,,58,61,,,,,
+8191321,08/26/2007,2,YES,0.6,77.3,117,67,65,68,,,,,
+8191321,05/26/2008,6.5,NO,2,,27,50,54,,NORMAL,,CLEAR,BROWN,
+8191321,07/03/2008,,,,3.26,32,,55,44,,,,,
+8191321,07/04/2008,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,
+8191321,08/03/2008,6.5,,2,8.59,35,50,56,51,,,,,
+37177101,05/18/2010,9.25,NO,2.8,,,45,,,NORMAL,,,,
+37177101,06/20/2010,5.25,NO,1.6,26.1,36,53,56,59,NORMAL,,,,
+37177101,08/13/2010,,,,34.7,50,,58,62,,,,,
+37177101,08/14/2010,4,NO,1.2,,,57,,,HIGH,,,,
+37177101,09/22/2010,3.5,NO,1.1,37.1,54,59,59,62,HIGH,,,,
+37177101,07/16/2011,,,,20.7,59,,60,58,,,,,
+37177101,07/15/2012,,,,25.2,40,,57,59,,,,,
+34951210,08/18/2012,,,,84,78,,62,68,,,,,
+37177101,07/05/2013,,,,11.7,27.2,,54,53,,,,,
+34951210,08/17/2013,,,,33.3,30.5,,55,61,,,,,
+34951210,07/03/2015,,,,9.01,29,,54,51,,,,,
+121396047,08/09/2015,,,,47.5,52.5,,59,64,,,,,
+34951210,06/15/2017,,,,2.44,39.9,,57,42,,,,,
+34951210,07/31/2017,,,,3.76,23.5,,53,45,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/16/1994,3,FEET,69,DEGREES F,,
+08/16/1994,5,FEET,69,DEGREES F,,
+08/16/1994,8,FEET,69,DEGREES F,,
+08/16/1994,10,FEET,68,DEGREES F,,
+08/16/1994,12,FEET,67,DEGREES F,,
+08/16/1994,14,FEET,66,DEGREES F,,
+08/16/1994,16,FEET,66,DEGREES F,,
+08/16/1994,18,FEET,60,DEGREES F,,
+08/16/1994,,,76,C,,
+09/28/1994,3,FEET,62,DEGREES F,,
+09/28/1994,5,FEET,62,DEGREES F,,
+09/28/1994,8,FEET,62,DEGREES F,,
+09/28/1994,11,FEET,62,DEGREES F,,
+09/28/1994,14,FEET,60,DEGREES F,,
+09/28/1994,17,FEET,60,DEGREES F,,
+09/28/1994,,,58 F,C,,
+10/26/1994,3,FEET,48,DEGREES F,,
+10/26/1994,6,FEET,48,DEGREES F,,
+10/26/1994,9,FEET,48,DEGREES F,,
+10/26/1994,12,FEET,46,DEGREES F,,
+10/26/1994,,,46 F,C,,
+05/24/1995,1,FEET,56,DEGREES F,,
+05/24/1995,3,FEET,56,DEGREES F,,
+05/24/1995,6,FEET,56,DEGREES F,,
+05/24/1995,9,FEET,56,DEGREES F,,
+05/24/1995,12,FEET,56,DEGREES F,,
+05/24/1995,15,FEET,55,DEGREES F,,
+05/24/1995,21,FEET,55,DEGREES F,,
+06/21/1995,3,FEET,82,DEGREES F,,
+06/21/1995,6,FEET,80,DEGREES F,,
+06/21/1995,9,FEET,78,DEGREES F,,
+06/21/1995,12,FEET,72,DEGREES F,,
+06/21/1995,15,FEET,68,DEGREES F,,
+06/21/1995,21,FEET,64,DEGREES F,,
+07/24/1995,1,FEET,77,DEGREES F,,
+07/24/1995,3,FEET,77,DEGREES F,,
+07/24/1995,6,FEET,76,DEGREES F,,
+07/24/1995,9,FEET,76,DEGREES F,,
+07/24/1995,12,FEET,75,DEGREES F,,
+07/24/1995,15,FEET,73,DEGREES F,,
+07/24/1995,21,FEET,69,DEGREES F,,
+05/28/1996,1,FEET,58,DEGREES F,,
+05/28/1996,3,FEET,58,DEGREES F,,
+05/28/1996,6,FEET,58,DEGREES F,,
+05/28/1996,9,FEET,58,DEGREES F,,
+05/28/1996,12,FEET,56,DEGREES F,,
+05/28/1996,15,FEET,56,DEGREES F,,
+07/01/1996,1,FEET,74,DEGREES F,,
+07/01/1996,3,FEET,73,DEGREES F,,
+07/01/1996,6,FEET,73,DEGREES F,,
+07/01/1996,9,FEET,73,DEGREES F,,
+07/01/1996,12,FEET,73,DEGREES F,,
+07/01/1996,14,FEET,73,DEGREES F,,
+07/22/1996,1,FEET,74,DEGREES F,,
+07/22/1996,3,FEET,73,DEGREES F,,
+07/22/1996,6,FEET,73,DEGREES F,,
+07/22/1996,9,FEET,73,DEGREES F,,
+07/22/1996,12,FEET,73,DEGREES F,,
+07/22/1996,15,FEET,73,DEGREES F,,
+07/22/1996,17,FEET,70,DEGREES F,,
+08/12/1996,1,FEET,65,DEGREES F,,
+08/12/1996,3,FEET,65,DEGREES F,,
+08/12/1996,6,FEET,65,DEGREES F,,
+08/12/1996,9,FEET,64,DEGREES F,,
+08/12/1996,12,FEET,64,DEGREES F,,
+08/12/1996,15,FEET,64,DEGREES F,,
+09/18/1996,1,FEET,65,DEGREES F,,
+09/18/1996,3,FEET,65,DEGREES F,,
+09/18/1996,9,FEET,64,DEGREES F,,
+09/18/1996,12,FEET,64,DEGREES F,,
+09/18/1996,15,FEET,64,DEGREES F,,
+06/23/1998,3,FEET,72,DEGREES F,,
+06/23/1998,6,FEET,70,DEGREES F,,
+06/23/1998,9,FEET,69,DEGREES F,,
+06/23/1998,12,FEET,68,DEGREES F,,
+06/23/1998,15,FEET,65,DEGREES F,,
+06/23/1998,18,FEET,65,DEGREES F,,
+07/21/1998,3,FEET,77,DEGREES F,,
+07/21/1998,6,FEET,77,DEGREES F,,
+07/21/1998,9,FEET,77,DEGREES F,,
+07/21/1998,12,FEET,75,DEGREES F,,
+07/21/1998,15,FEET,74,DEGREES F,,
+07/21/1998,18,FEET,74,DEGREES F,,
+08/25/1998,3,FEET,73,DEGREES F,,
+08/25/1998,6,FEET,73,DEGREES F,,
+08/25/1998,9,FEET,73,DEGREES F,,
+08/25/1998,12,FEET,73,DEGREES F,,
+08/25/1998,15,FEET,72,DEGREES F,,
+08/25/1998,18,FEET,72,DEGREES F,,
+09/23/1998,3,FEET,65,DEGREES F,,
+09/23/1998,6,FEET,65,DEGREES F,,
+09/23/1998,9,FEET,65,DEGREES F,,
+09/23/1998,12,FEET,65,DEGREES F,,
+09/23/1998,15,FEET,65,DEGREES F,,
+09/23/1998,18,FEET,65,DEGREES F,,
+07/07/1999,3,FEET,75,DEGREES F,,
+07/07/1999,6,FEET,74,DEGREES F,,
+07/07/1999,9,FEET,74,DEGREES F,,
+07/07/1999,12,FEET,71,DEGREES F,,
+07/07/1999,15,FEET,70,DEGREES F,,
+07/07/1999,18,FEET,70,DEGREES F,,
+08/04/1999,3,FEET,75,DEGREES F,,
+08/04/1999,6,FEET,75,DEGREES F,,
+08/04/1999,9,FEET,75,DEGREES F,,
+08/04/1999,12,FEET,75,DEGREES F,,
+08/04/1999,15,FEET,75,DEGREES F,,
+08/04/1999,18,FEET,74,DEGREES F,,
+08/31/1999,3,FEET,70,DEGREES F,,
+08/31/1999,6,FEET,69,DEGREES F,,
+08/31/1999,9,FEET,69,DEGREES F,,
+08/31/1999,12,FEET,69,DEGREES F,,
+08/31/1999,15,FEET,68,DEGREES F,,
+08/31/1999,18,FEET,68,DEGREES F,,
+07/30/2002,1,FEET,84,DEGREES F,,
+07/30/2002,3,FEET,78,DEGREES F,,
+07/30/2002,6,FEET,76,DEGREES F,,
+07/30/2002,9,FEET,75,DEGREES F,,
+07/30/2002,12,FEET,74,DEGREES F,,
+07/30/2002,15,FEET,73,DEGREES F,,
+07/30/2002,18,FEET,72,DEGREES F,,
+07/30/2002,21,FEET,66,DEGREES F,,
+09/09/2002,1,FEET,76.5,DEGREES F,,
+09/09/2002,3,FEET,76,DEGREES F,,
+09/09/2002,6,FEET,76,DEGREES F,,
+09/09/2002,9,FEET,75,DEGREES F,,
+09/09/2002,12,FEET,70.5,DEGREES F,,
+09/09/2002,15,FEET,70,DEGREES F,,
+09/09/2002,18,FEET,69,DEGREES F,,
+09/09/2002,21,FEET,68,DEGREES F,,
+07/30/2003,1,FEET,84,DEGREES F,,
+07/30/2003,3,FEET,78,DEGREES F,,
+07/30/2003,6,FEET,76,DEGREES F,,
+07/30/2003,9,FEET,75,DEGREES F,,
+07/30/2003,12,FEET,74,DEGREES F,,
+07/30/2003,15,FEET,73,DEGREES F,,
+07/30/2003,18,FEET,72,DEGREES F,,
+07/30/2003,21,FEET,66,DEGREES F,,
+09/09/2003,1,FEET,76.5,DEGREES F,,
+09/09/2003,3,FEET,76,DEGREES F,,
+09/09/2003,6,FEET,76,DEGREES F,,
+09/09/2003,9,FEET,75,DEGREES F,,
+09/09/2003,12,FEET,70.5,DEGREES F,,
+09/09/2003,15,FEET,70,DEGREES F,,
+09/09/2003,18,FEET,69,DEGREES F,,
+09/09/2003,21,FEET,68,DEGREES F,,
+05/21/2006,0,FEET,58,DEGREES F,6,MG/L
+05/21/2006,3,FEET,57,DEGREES F,7,MG/L
+05/21/2006,6,FEET,57,DEGREES F,8,MG/L
+05/21/2006,9,FEET,57,DEGREES F,6,MG/L
+05/21/2006,12,FEET,57,DEGREES F,6,MG/L
+05/21/2006,15,FEET,56,DEGREES F,5,MG/L
+05/21/2006,21,FEET,55,DEGREES F,5,MG/L
+06/25/2006,0,FEET,71,DEGREES F,8,MG/L
+06/25/2006,3,FEET,70,DEGREES F,6,MG/L
+06/25/2006,6,FEET,70,DEGREES F,6,MG/L
+06/25/2006,9,FEET,68,DEGREES F,6,MG/L
+06/25/2006,12,FEET,68,DEGREES F,4,MG/L
+06/25/2006,15,FEET,66,DEGREES F,2,MG/L
+06/25/2006,21,FEET,63,DEGREES F,1,MG/L
+07/16/2006,0,FEET,78,DEGREES F,8,MG/L
+07/16/2006,3,FEET,77,DEGREES F,9,MG/L
+07/16/2006,9,FEET,77,DEGREES F,7,MG/L
+07/16/2006,12,FEET,76,DEGREES F,4,MG/L
+07/16/2006,15,FEET,77,DEGREES F,4,MG/L
+07/16/2006,21,FEET,71,DEGREES F,2,MG/L
+08/19/2006,0,FEET,74,DEGREES F,8,MG/L
+08/19/2006,3,FEET,73,DEGREES F,7,MG/L
+08/19/2006,9,FEET,73,DEGREES F,6,MG/L
+08/19/2006,12,FEET,73,DEGREES F,5,MG/L
+08/19/2006,15,FEET,73,DEGREES F,5,MG/L
+08/19/2006,21,FEET,69,DEGREES F,4,MG/L
+05/19/2007,0,FEET,64,DEGREES F,12,MG/L
+05/19/2007,3,FEET,,,11,MG/L
+05/19/2007,9,FEET,63,DEGREES F,11,MG/L
+05/19/2007,12,FEET,62,DEGREES F,11,MG/L
+05/19/2007,15,FEET,,,10,MG/L
+05/19/2007,18,FEET,62,DEGREES F,9,MG/L
+06/23/2007,3,FEET,76,DEGREES F,8,MG/L
+06/23/2007,9,FEET,74,DEGREES F,7,MG/L
+06/23/2007,12,FEET,73,DEGREES F,6,MG/L
+06/23/2007,15,FEET,71,DEGREES F,4,MG/L
+06/23/2007,18,FEET,68,DEGREES F,2,MG/L
+07/21/2007,3,FEET,78,DEGREES F,7,MG/L
+07/21/2007,9,FEET,74,DEGREES F,7,MG/L
+07/21/2007,12,FEET,74,DEGREES F,6,MG/L
+07/21/2007,15,FEET,72,DEGREES F,3,MG/L
+07/21/2007,20,FEET,69,DEGREES F,2,MG/L
+08/26/2007,3,FEET,68,DEGREES F,7,MG/L
+08/26/2007,9,FEET,67,DEGREES F,6,MG/L
+08/26/2007,12,FEET,67,DEGREES F,5,MG/L
+08/26/2007,20,FEET,66,DEGREES F,3,MG/L
+05/26/2008,3,FEET,,,10,MG/L
+05/26/2008,9,FEET,,,9,MG/L
+05/26/2008,12,FEET,,,9,MG/L
+05/26/2008,15,FEET,,,9,MG/L
+05/26/2008,21,FEET,,,9,MG/L
+07/04/2008,3,FEET,,,10,MG/L
+07/04/2008,9,FEET,,,9,MG/L
+07/04/2008,15,FEET,,,8,MG/L
+07/04/2008,18,FEET,,,3,MG/L
+05/18/2010,1,FEET,65.1,DEGREES F,,
+05/18/2010,3,FEET,64.2,DEGREES F,,
+05/18/2010,6,FEET,57.9,DEGREES F,,
+05/18/2010,9,FEET,54.3,DEGREES F,,
+05/18/2010,12,FEET,53.4,DEGREES F,,
+05/18/2010,15,FEET,53,DEGREES F,,
+05/18/2010,18,FEET,52.7,DEGREES F,,
+05/18/2010,21,FEET,52.1,DEGREES F,,
+06/20/2010,1,FEET,70.4,DEGREES F,,
+06/20/2010,3,FEET,69.8,DEGREES F,,
+06/20/2010,6,FEET,68.3,DEGREES F,,
+06/20/2010,9,FEET,68,DEGREES F,,
+06/20/2010,12,FEET,66.9,DEGREES F,,
+06/20/2010,15,FEET,65.8,DEGREES F,,
+06/20/2010,18,FEET,64.7,DEGREES F,,
+06/20/2010,21,FEET,62.4,DEGREES F,,
+08/14/2010,1,FEET,78.2,DEGREES F,,
+08/14/2010,3,FEET,77.7,DEGREES F,,
+08/14/2010,6,FEET,77.1,DEGREES F,,
+08/14/2010,9,FEET,76.8,DEGREES F,,
+08/14/2010,12,FEET,76.4,DEGREES F,,
+08/14/2010,15,FEET,73.7,DEGREES F,,
+08/14/2010,18,FEET,72.6,DEGREES F,,
+08/14/2010,21,FEET,67.6,DEGREES F,,
+09/22/2010,1,FEET,61,DEGREES F,,
+09/22/2010,3,FEET,60.2,DEGREES F,,
+09/22/2010,6,FEET,60,DEGREES F,,
+09/22/2010,9,FEET,59.9,DEGREES F,,
+09/22/2010,12,FEET,59.7,DEGREES F,,
+09/22/2010,15,FEET,59.7,DEGREES F,,
+09/22/2010,18,FEET,59.7,DEGREES F,,
+09/22/2010,21,FEET,59.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/14/1992,Calm and sunny.    
+07/23/1992,Sunny- ripple.    
+08/13/1992,Partly sunny.    
+09/03/1992,Clear and sunny.    
+06/10/1993,Partly cloudy- calm- slight ripple    
+07/29/1993,Partly sunny- ripple    
+08/13/1993,Partly sunny- calm.    
+09/18/1993,Sunny and calm.    
+06/03/1994,Sunny- calm.    
+06/24/1994,Sunny- calm.    
+07/06/1994,Partly sunny- ripple.    
+07/20/1994,Breezy- sunny- .7 rain day before.    
+08/16/1994,Sunny    
+08/29/1994,Partly sunny.    
+06/09/1995,Partly sunny.    
+07/07/1995,1.2" rain-past 2 days- sunny today.    
+07/24/1995,Sunny. lots of rain last week. assumed noon for sample time.    
+08/09/1995,Sunny-4" rain the past weekend.    
+09/11/1995,Partly sunny.    
+05/28/1996,Hazy sun. light breeze.    
+07/01/1996,5" of rain the middles of last week.    
+07/10/1996,Sunny. nice day. a lot of traffic over the weekend.    
+07/22/1996,Sunny. 0.025 rain last night.    
+08/12/1996,Sunny. nice day.    
+06/11/1997,Only 1/4" rain last couple of weeks.    
+07/15/1997,Sunny- over 5" of rain in last 2 weeks.    
+09/10/1997,Partly sunny.    
+09/26/1997,Sunny.    
+06/23/1998,LAKE SAMPLE    
+07/21/1998,LAKE SAMPLE    
+08/25/1998,5.25" rain last week.    
+09/23/1998,LAKE SAMPLE    
+06/30/2002,SITE A-DEEP HOLE - 3FT VAN DORN SAMPLE    
+07/30/2002,Clear- sunny. Thundrstorms to east. Weeds floating. Fish not biting- flys are.    
+09/09/2002,SITE 1-DEEP HOLE - 3FT VAN DORN SAMPLE    
+07/21/2003,DEEP HOLE - 3FT SURFACE    
+07/30/2003,Clear- sunny- thunderstorms to the east. Weeds floating. Fish not biting- flys are.    
+09/10/2003,DEEP HOLE - SURFACE    
+10/15/2003,SITE A-DEEP HOLE - 3FT VAN DORN SAMPLE    
+06/25/2005,SITE 1 - DEEP HOLE    
+09/04/2005,SITE A - DEEP HOLE    
+05/21/2006,41F- cold- breezy- clear skies
+06/18/2006,59 F- partly cloudy- windy
+06/25/2006,61F- sunny- light breeze
+07/16/2006,88F- clear- breezy
+08/19/2006,72F- cloudy- sunny
+05/19/2007,Water level 4" high 
+05/18/2010,Clear skies. 62 degrees.
+06/20/2010,Clear skies. 62 degrees.
+08/14/2010,Clear skies. 80 degrees.
+09/22/2010,Clear and 55 degrees.
+
+
+
+
+Start Date,Group Name,Project Name
+07/14/1992,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/23/1992,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/13/1992,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/03/1992,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/10/1993,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/29/1993,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/13/1993,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/18/1993,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/03/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/24/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/06/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/20/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/16/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/29/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/28/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+10/26/1994,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+05/24/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/09/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/21/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/07/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/24/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/09/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/21/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/11/1995,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+05/28/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/01/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/10/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/22/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/01/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/12/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/18/1996,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/11/1997,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/15/1997,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/05/1997,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/10/1997,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/26/1997,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/23/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/01/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/21/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/04/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/25/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/11/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/23/1998,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/07/1999,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/04/1999,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/31/1999,John Stuart,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/30/2002,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/30/2002,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/09/2002,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/21/2003,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/30/2003,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/09/2003,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/10/2003,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+10/15/2003,Ron Johnson,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/25/2005,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/24/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/04/2005,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+05/21/2006,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/18/2006,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/25/2006,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/16/2006,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/19/2006,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+05/19/2007,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/23/2007,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/15/2007,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/21/2007,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/26/2007,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+05/26/2008,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/03/2008,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/04/2008,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/03/2008,William Yorkson and Steve Germain,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+05/18/2010,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/20/2010,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/13/2010,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/14/2010,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+09/22/2010,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/16/2011,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/15/2012,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/18/2012,Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/05/2013,Ed Collova and Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/17/2013,Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/03/2015,Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+08/09/2015,Jack Brunell + Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+06/15/2017,Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt
+07/31/2017,Tony Rutter,Citizen Lake Monitoring - Water Quality - Little Yellow Lake; Site A- Near Deepest Pt

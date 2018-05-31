@@ -1,0 +1,497 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Brekk Lake,Waupaca,183000,NE,69,,693046,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190978,07/06/1990,8.25,NO,2.5,,,47,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190978,07/13/1990,8,NO,2.4,,,47,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190978,07/20/1990,10,NO,3,,,44,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190978,07/28/1990,6,NO,1.8,,,51,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190978,08/04/1990,7,NO,2.1,,,49,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190978,08/09/1990,5.5,NO,1.7,,,53,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190978,08/20/1990,6.5,NO,2,,,50,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190978,08/26/1990,8.25,NO,2.5,,,47,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190978,09/01/1990,9.25,NO,2.8,,,45,,,LOW,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190978,09/10/1990,5.5,NO,1.7,,,53,,,LOW,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190978,09/15/1990,6.5,NO,2,,,50,,,LOW,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190978,04/20/1991,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+1,04/21/1991,12,,3.6,,,41,,,,,,,
+8190978,05/30/1991,13,NO,4,,,40,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190978,06/06/1991,14,NO,4.3,,,39,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190978,06/13/1991,15,NO,4.6,,,38,,,GOING DOWN,,,GREEN,1-Beautiful, could not be nicer
+8190978,06/24/1991,10.5,NO,3.2,,,43,,,GOING DOWN,,,GREEN,1-Beautiful, could not be nicer
+8190978,07/02/1991,9.5,NO,2.9,,,45,,,DOWN 4",,,GREEN,1-Beautiful, could not be nicer
+8190978,07/11/1991,9,NO,2.7,,,45,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190978,07/26/1991,7,NO,2.1,,,49,,,LOW,,,GREEN,
+8190978,08/05/1991,9,NO,2.7,,,45,,,LOW,,,GREEN,
+8190978,08/13/1991,10,NO,3,,,44,,,LOW,,,GREEN,
+1,05/04/1992,12,,3.6,,,41,,,,,,,
+8190978,05/04/1992,12,NO,3.6,,,41,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190978,05/19/1992,9.75,NO,3,,,44,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190978,06/01/1992,10.75,NO,3.3,,,43,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190978,07/14/1993,15,NO,4.6,,,38,,,HIGHEST IN 17 YEARS,,,GREEN,2-Very minor aesthetic problems
+8190978,08/05/1993,12.5,NO,3.8,,,41,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190978,08/16/1993,12,NO,3.6,,,41,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190508,05/17/1994,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/12/1994,13,NO,4,,,40,,,GOOD,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,07/20/1994,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,08/06/1994,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,08/28/1994,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,09/07/1994,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,05/16/1995,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,05/29/1995,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/13/1995,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,07/02/1995,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,08/22/1995,10,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,09/04/1995,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,09/27/1995,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,05/22/1996,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/12/1996,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,07/01/1996,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/23/1996,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,08/11/1996,8.25,NO,2.5,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,08/20/1996,9.5,NO,2.9,,,45,,,GOOD,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,09/18/1996,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/10/1997,14,NO,4.3,,,39,,,GOOD,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/28/1997,12,NO,3.6,,,41,,,GOOD,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,07/09/1997,12.5,NO,3.8,,,41,,,GOOD,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,07/26/1997,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,09/01/1997,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,09/26/1997,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,05/25/1998,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/13/1998,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/13/1998,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/19/1998,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,08/12/1998,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/28/1998,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,09/18/1998,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,10/10/1998,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,05/28/1999,15.5,NO,4.7,,,38,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/18/1999,14,NO,4.3,,,39,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/10/1999,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/25/1999,11.5,NO,3.5,,,42,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190508,08/02/1999,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,08/27/1999,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/19/2000,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/30/2000,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/10/2000,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/24/2000,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190508,08/20/2000,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190508,09/03/2000,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190508,05/12/2001,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,05/19/2001,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,06/29/2001,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,07/15/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/03/2001,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/21/2001,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,09/03/2001,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,09/16/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,10/07/2001,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,05/28/2002,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190508,06/29/2002,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190508,07/11/2002,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,07/28/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/07/2002,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/26/2002,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,09/21/2002,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,05/26/2003,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,06/22/2003,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,07/04/2003,12,YES,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,07/19/2003,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/09/2003,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,05/26/2004,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190508,06/25/2004,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190508,07/10/2004,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190508,07/26/2004,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/12/2004,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,08/22/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190508,09/09/2004,13.25,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190508,06/20/2005,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190508,07/07/2005,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,07/17/2005,13.6,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/31/2005,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,09/10/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,05/29/2006,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/10/2006,14.25,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/06/2006,8.25,NO,2.5,,,47,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,07/23/2006,11.25,NO,3.4,,,42,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,08/06/2006,10.25,NO,3.1,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,08/20/2006,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,09/09/2006,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,09/23/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191408,10/08/2006,12.5,NO,3.8,,,41,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8191408,06/10/2007,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/05/2007,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/21/2007,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,09/15/2007,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/10/2008,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8191408,05/30/2008,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,06/28/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/05/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/19/2008,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,09/07/2008,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/25/2009,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/13/2009,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/04/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/11/2009,10.25,NO,3.1,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/25/2009,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191408,08/15/2009,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191408,09/04/2009,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191408,09/12/2009,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,04/11/2010,19,NO,5.8,,,35,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116239337,04/11/2010,19,,5.8,,12,35,47,,,,,,
+8191408,05/09/2010,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,05/31/2010,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,06/13/2010,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/27/2010,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/25/2010,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/01/2010,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/28/2010,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,09/11/2010,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,05/07/2011,18,NO,5.5,,,35,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/28/2011,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116239337,05/30/2011,,,,,13,,48,,,,,,
+8191408,06/12/2011,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/02/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/09/2011,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/23/2011,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,08/07/2011,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/27/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,09/04/2011,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116239337,03/24/2012,,,,,18,,51,,,,,,
+8191408,04/14/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,05/05/2012,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,06/09/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/15/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/28/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/04/2012,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/12/2012,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,09/02/2012,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,09/08/2012,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,05/16/2013,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/02/2013,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116239337,06/02/2013,14.25,,4.3,,22,39,52,,,,,,
+8191408,06/23/2013,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/06/2013,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/21/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/10/2014,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116239337,05/11/2014,,,,,25,,53,,,,,,
+8191408,05/25/2014,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/28/2014,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/12/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/10/2014,8.5, ,2.6,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,04/04/2015,,,,,,,,,,,,,
+8191408,05/17/2015,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/31/2015,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,05/08/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/29/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/19/2016,,NO,,,,,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/10/2016,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,07/24/2016,,NO,,,,,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/20/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191408,09/17/2016,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,11/05/2016,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,04/22/2017,,,,,,,,,,,,,
+8191408,04/22/2017,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,05/13/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/03/2017,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,06/10/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/08/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,07/29/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,08/19/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191408,09/09/2017,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,10/14/2017,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191408,11/04/2017,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/11/2010,,,50,F,,
+04/04/2015,,,36,F,,
+04/22/2017,,,54,F,,
+
+
+
+Start Date,Fieldwork Comment
+07/06/1990,Algal bloom along protected shores    
+07/20/1990,Algae near surface in some places    
+07/28/1990,Cloudy- hazy    
+08/04/1990,Rain 3" 8/3    
+08/09/1990,Variable wind direction- Assumed 12:00.    
+08/20/1990,Water level: up some    
+08/26/1990,Some weeds above surface- 3" rain yesterday- blue heron visitor for past 3 years.  Water level: up some    
+09/01/1990,Used to be lots of little Bluegills- saw 1st this year last week    
+09/10/1990,Cloudy and high winds day before    
+09/15/1990,Flock of cranes flying s- also geese    
+04/20/1991,Fishing poor    
+05/30/1991,Little boat traffic- windy    
+07/02/1991,Windy    
+05/04/1992,Saw 5 loons three weeks ago by pier.    
+06/01/1992,The weeds have started to surface already.    
+08/05/1993,Water still high.    
+05/17/1994,Sunny day    
+08/28/1994,Ample rain- lake in good shape.    
+09/07/1994,Water remains high.    
+08/22/1995,Lake level lowest ever.  Recent rain has helped situation.    
+09/27/1995,Thank god for the fall rain.    
+05/22/1996,Windy    
+08/11/1996,Water high for time of year.    
+08/20/1996,Lake high for this time of year.    
+07/07/2005,Algae bloom    
+07/31/2005,Slight chop on water.  Sunny- warm.    
+09/10/2005,Hazy with light breeze. Warm.  Ruddy duck and mallard sitting on limb together.    
+05/29/2006,2 families of geese with about 10 total goslings- heavy pollen- bluegills starting to spawn
+07/06/2006,saw the loon- heavy algae bloom
+07/23/2006,water level way down- beautiful day
+08/06/2006,saw bald eagle and 11 geese- slight chop
+08/20/2006,lake is very low
+09/09/2006,water level is way down- very windy
+09/23/2006,water level still down- algae floating on surface (small amount)
+10/08/2006,water level way down- beautiful day- light breeze
+07/05/2007,Saw family of geese and full grown family of mallards.
+07/21/2007,Bald eagle was fishing.  Saw lots of little bluegills.
+05/30/2008,lots of pollen on water 
+very windy- probably cost us a few feet
+06/28/2008,Very windy and overcast
+06/13/2009,lots of pollen on water loon was out
+07/04/2009,recent algae bloom
+07/11/2009,late in day with slight chop
+09/04/2009,algae bloom
+09/12/2009,algae bloom ended - lake may have turned over day before
+04/11/2010,A Loon- Wood Duck- Mallard- and Common Merganzer was on the lake.
+05/09/2010,Slight Chop and sunny
+05/31/2010,Lots of stuff floating on top of water.
+06/13/2010,Very Clear
+06/27/2010,Algae Bloom going on. A bald Eagle was flying around. The water was cloudy with some chop.
+07/25/2010,Calm water
+08/01/2010,Algae bloom
+09/11/2010,Over cast with light chop. A heavy algae bloom.
+05/07/2011,Lake is very clear. and calm
+05/28/2011,Slight chop. Baby ducks. Mallards- wood ducks and Mergansers
+06/12/2011,Overcast
+07/02/2011,Slight chop. @ families of geese
+07/09/2011,Slight algae bloom
+07/23/2011,Slight chop. overcast. Algae bloom
+08/07/2011,Bald Eagle was fishing. Heavy algae bloom
+08/27/2011,Nice day . Sunny with a little chop.
+09/04/2011,A slight chop. Turtles in the tree.
+04/14/2012,Warm spring. Big storm last night. Water cloudy
+05/05/2012,Choppy- so visual not great.
+06/09/2012,Slight chop
+07/15/2012,I saw three turtles
+09/02/2012,It was windy and the lake looked like it was full of algea. Scuba dove and found the same.
+09/08/2012,Windy and sunny. Still lots of algae. 
+05/16/2013,Overcast sky and choppy
+06/02/2013,Calm with pollen on the lake
+06/23/2013,Saw a loon . Lake had a light chop.
+07/06/2013,Haze on the water due to an algae bloom. Cotton Wood heavy
+07/21/2013,Choppy and overcast. Had a hard time holding the boat.
+08/10/2014,Found a 5 quart pail full of Hi-bred milfoil around the lake. Including 3 plants on the south east end of the lake. The Loon has been around all summer. Hooded Mergansers- Mallards and Wood Ducks had little ones- as well as 2 families of geese
+
+
+
+
+Start Date,Group Name,Project Name
+07/06/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/13/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/20/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/28/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/04/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/09/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/20/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/26/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/01/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/10/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/15/1990,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+04/20/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+04/21/1991,Data Collectors,
+05/30/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/06/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/13/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/24/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/02/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/11/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/26/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/05/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/13/1991,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/04/1992,Data Collectors,
+05/04/1992,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/19/1992,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/01/1992,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/14/1993,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/05/1993,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/16/1993,Geri Schatschneider,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/17/1994,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/12/1994,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/20/1994,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/06/1994,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/28/1994,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/07/1994,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/16/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/29/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/13/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/02/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/22/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/04/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/27/1995,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/22/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/12/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/01/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/23/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/11/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/20/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/18/1996,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/10/1997,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/28/1997,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/09/1997,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/26/1997,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/01/1997,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/26/1997,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/25/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/13/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/13/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/19/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/12/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/28/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/18/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+10/10/1998,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/28/1999,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/18/1999,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/10/1999,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/25/1999,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/02/1999,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/27/1999,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/19/2000,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/30/2000,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/10/2000,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/24/2000,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/20/2000,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/03/2000,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/12/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/19/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/29/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/15/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/03/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/21/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/03/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/16/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+10/07/2001,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/28/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/29/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/11/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/28/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/07/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/26/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/21/2002,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/26/2003,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/22/2003,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/04/2003,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/19/2003,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/09/2003,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/26/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/25/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/10/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/26/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/12/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/22/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/09/2004,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/20/2005,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/07/2005,Orval Polzin,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/17/2005,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/31/2005,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/10/2005,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/29/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/10/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/06/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/23/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/06/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/20/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/09/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/23/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+10/08/2006,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/10/2007,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/05/2007,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/21/2007,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/15/2007,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/10/2008,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/30/2008,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/28/2008,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/05/2008,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/19/2008,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/07/2008,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/25/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/13/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/04/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/11/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/25/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/15/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/04/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/12/2009,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+04/11/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+04/11/2010,Mike Krueger,
+05/09/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/31/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/13/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/27/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/25/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/01/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/28/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/11/2010,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/07/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/28/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/30/2011,Mike Krueger,
+06/12/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/02/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/09/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/23/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/07/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/27/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/04/2011,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+03/24/2012,Mike Krueger,
+04/14/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/05/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/09/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/15/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/28/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/04/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/12/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/02/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/08/2012,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/16/2013,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/02/2013,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/02/2013,Mike Krueger,
+06/23/2013,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/06/2013,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/21/2013,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/10/2014,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/11/2014,Mike Krueger,
+05/25/2014,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/28/2014,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/12/2014,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/10/2014,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+04/04/2015,Data Collectors,
+05/17/2015,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/31/2015,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/08/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/29/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/19/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/10/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/24/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/20/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/17/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+11/05/2016,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+04/22/2017,Data Collectors,
+04/22/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+05/13/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/03/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+06/10/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/08/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+07/29/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+08/19/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+09/09/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+10/14/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole
+11/04/2017,Jim Ross,Citizen Lake Monitoring - Water Quality - Brekke Lake; Deep Hole

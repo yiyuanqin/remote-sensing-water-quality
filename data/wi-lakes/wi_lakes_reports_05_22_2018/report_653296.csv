@@ -1,0 +1,57 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Potter Lake,Walworth,753800,SE,65,,653296,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/13/2001,,,,13.9,,,,55,,,,,
+1,07/02/2002,,,,5.91,10,,46,48,,,,,
+1,08/06/2002,,,,10.3,36,,56,52,,,,,
+7000045,07/30/2013,2.5,N,0.75,16.9,31.1,64,55,56,,,,,
+33543112,07/30/2013,2.4,NO,0.7,,,65,,,,,,,
+33543112,08/16/2013,3.5,NO,1.1,11.1,27.8,59,54,53,,,,,
+7000045,09/05/2013,3.75,N,1.1,9.81,28.8,57,54,52,,,,,
+1,04/22/2016,,,,,20,,51,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/30/2013,3,FEET,22.33,DEGREES C,,
+07/30/2013,6,FEET,22.04,DEGREES C,,
+07/30/2013,9,FEET,21.77,DEGREES C,,
+07/30/2013,12,FEET,21.57,DEGREES C,,
+07/30/2013,15,FEET,21.22,DEGREES C,,
+07/30/2013,18,FEET,17.44,DEGREES C,,
+07/30/2013,21,FEET,15.11,DEGREES C,,
+07/30/2013,,,22.3,C,,
+09/05/2013,3,FEET,24.37,DEGREES C,8.77,MG/L
+09/05/2013,6,FEET,24.39,DEGREES C,8.75,MG/L
+09/05/2013,9,FEET,24.27,DEGREES C,8.79,MG/L
+09/05/2013,12,FEET,23.98,DEGREES C,7.85,MG/L
+09/05/2013,15,FEET,22.59,DEGREES C,.06,MG/L
+09/05/2013,18,FEET,18.97,DEGREES C,0,MG/L
+09/05/2013,21,FEET,17.76,DEGREES C,0,MG/L
+09/05/2013,,,24.6,C,8.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/02/2002,POTTER LAKE NEAR MUKWONAGO WI    
+08/06/2002,POTTER LAKE NEAR MUKWONAGO WI    
+08/16/2013,No profile data taken
+
+
+
+
+Start Date,Group Name,Project Name
+06/13/2001,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+07/02/2002,Data Collectors,ANALYSIS OF LAKE WATER SAMPLES
+08/06/2002,Data Collectors,USGS Total Phosphorus in Lakes Statewide 2002-2003
+07/30/2013,ANDREW NOTBOHM,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+07/30/2013,Heidi Bunk,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+08/16/2013,ANDREW NOTBOHM,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+09/05/2013,Heidi Bunk,303 D validation project for Potters Lake- Walworth County and Little Muskego Lake- Waukesha County - SER_05_CMP13B
+04/22/2016,Data Collectors,USGS LAKE SAMPLES

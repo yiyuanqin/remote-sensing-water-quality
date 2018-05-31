@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Winnebago,Winnebago,131100,NE,71,,713302,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189351,08/12/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189351,08/21/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189351,08/26/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189351,09/03/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+89214715,09/21/2015,,,,66.4,149,,67,67,,,,,
+89214715,09/02/2016,,,,41,123,,65,63,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/12/1998,Cloudy wind 6 mph 80 degrees.  Beautiful.    
+08/21/1998,Cloudy wind 4 mph. fog in morning.    
+08/26/1998,Calm 70 degrees. you can write your name in the algae.    
+09/03/1998,Lots of geese on water.    
+
+
+
+
+Start Date,Group Name,Project Name
+08/12/1998,Armond Braeger,Citizen Lake Monitoring - Water Quality - Lake Winnebago - Black Wolf Point
+08/21/1998,Armond Braeger,Citizen Lake Monitoring - Water Quality - Lake Winnebago - Black Wolf Point
+08/26/1998,Armond Braeger,Citizen Lake Monitoring - Water Quality - Lake Winnebago - Black Wolf Point
+09/03/1998,Armond Braeger,Citizen Lake Monitoring - Water Quality - Lake Winnebago - Black Wolf Point
+09/21/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+09/02/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

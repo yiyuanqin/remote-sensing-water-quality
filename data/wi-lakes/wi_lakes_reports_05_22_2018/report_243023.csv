@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Twin Lake,Green Lake,146400,NE,24,,243023,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,01/31/2005,5.8,NO,1.8,22.2,,52,,58,,,,,
+7000091,08/03/2005,,,,131,347,,73,72,,,,,
+1,01/13/2006,,,,12.8,95,,63,54,,,,,
+130579061,05/23/2016,,,,2.16,31.9,,55,41,,,,,
+28613168,07/21/2016,,,,130,199,,69,72,,,,,
+28613168,09/19/2016,,,,135,147,,67,72,,,,,
+28613168,10/25/2016,,,,38.8,71.3,,61,62,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+01/31/2005,,,1.2,C,9.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/03/2005,DEEP POINT    
+
+
+
+
+Start Date,Group Name,Project Name
+01/31/2005,Data Collectors,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Lake Management Plan
+08/03/2005,Mark Sesing,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Appraisal Phase 2
+01/13/2006,Data Collectors,TWIN LAKES ASSN INC.: Twin Lakes Comprehensive Appraisal Phase 2
+05/23/2016,Brad Roost and Derek Kavanaugh,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+07/21/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+09/19/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+10/25/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP

@@ -1,0 +1,26 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lac Vieux Desert,Vilas,1631900,NO,64,,10042274,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+89214715,06/25/2014,,,,5.07,20.6,,52,47,,,,,
+89214715,06/28/2016,,,,8.89,21.8,,52,51,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/25/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+06/28/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

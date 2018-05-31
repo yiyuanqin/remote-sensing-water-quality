@@ -1,0 +1,149 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Stone Lake,Burnett,2499500,NO,7,,074031,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/15/1979,,,,31.97,34,,55,61,,,,,
+15899687,05/28/2006,8.75,YES,2.7,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,06/10/2006,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+15899687,07/04/2006,10.75,YES,3.3,,,43,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,08/18/2006,9.25,NO,2.8,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,05/27/2007,8,YES,2.4,,,47,,,LOW,,,YELLOW,5-Enjoyment substantially impaired (algae)
+15899687,08/05/2007,8,NO,2.4,,,47,,,LOW,,,YELLOW,1-Beautiful, could not be nicer
+15899687,05/04/2008,8,YES,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,06/07/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,06/30/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,
+15899687,07/13/2008,7,NO,2.1,,,49,,,,,CLEAR,YELLOW,
+15899687,07/25/2008,6.75,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+15899687,08/10/2008,6.75,NO,2.1,,,50,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+15899687,08/18/2008,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+15899687,10/04/2008,8,NO,2.4,,,47,,,NORMAL,13.00,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,05/08/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,07/13/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+15899687,08/12/2009,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+15899687,09/06/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,09/29/2009,7,NO,2.1,,,49,,,LOW,,CLEAR,BLUE,
+15899687,05/12/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,
+15899687,07/06/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,08/12/2010,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,
+15899687,10/10/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,
+15899687,05/16/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,05/29/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,06/13/2011,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,07/06/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,07/16/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,09/25/2011,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,05/21/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,06/10/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,07/12/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,07/20/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,09/09/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,06/24/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+15899687,08/01/2013,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+15899687,08/05/2013,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+15899687,07/03/2014,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+15899687,08/11/2014,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+15899687,08/18/2014,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+15899687,05/31/2015,3,NO,0.9,,,61,,,HIGH,,,BLUE,2-Very minor aesthetic problems
+15899687,06/18/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,07/12/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+15899687,08/01/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+15899687,09/27/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129027528,05/07/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/15/1979,,,,,7.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/15/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/28/2006,Weather 90F- slight wind- sunny- partially cloudy- pine tree dust on water
+06/10/2006,overcast slight wind from east- 70F
+08/18/2006,hazy calm- 80F no wind
+08/05/2007,74 degrees F.- overcast day- slight currant-  74 degrees F.- overcast day- slight currant- 
+05/04/2008,partly cloudy- occasional wind gusts- secchi reading at 8 ft. averaged over 3 tries. hit bottom- lake level is normal- color is clear slightly yellow
+07/13/2008,We had a bad storm the night of 7/11 which may have affected the murkiness of the water below the surface.
+07/25/2008,Sunny- slight wind.
+08/10/2008,Clear day.
+10/04/2008,clear-blue sky- sunny fall day- eagle spotted
+07/13/2009,partially cloudy- slight wind- 2 loons fishing nearby- no other boats on lake/ a big black dog swam across the lake- at first thought it was a bear!
+08/12/2009,blue sky- slight wind- about 83degrees- beautiful summer day - accompanied by my brother -in-law.
+05/12/2010,overcast- around60 degrees-spotted a mallard which flew off as I approached- also noticed  a long deep hedge of tightly packed grass about 12 feet from neighbors shorline- very unusual.  My daughter helped with the reading. Slight wind causing some current.
+08/12/2010,Lake calm like glass-  a few clouds but mostly blue- hot and humid but a great summer day.
+10/10/2010,beautiful warm clear fall day.  Helper was my husband.  We spotted a deer drinking at edge of lake.
+05/16/2011,clear sunny day but a bit choppy due to the wind.  Spotted a couple of Loons fishing nearby.  Lake level is high.
+05/29/2011,overcast- no wind- had a partner to double check the reading since there is a 2 ft. difference from last fall.  Could be due to the high water level and presence of more rust color due to tamarack runoff in ditches into lake  Spotted an otter. 
+06/13/2011,slight breeze-sunny-few clouds- around 70 degrees slight breeze-sunny-few clouds- around 70 degrees
+07/06/2011,blue sky-a few clouds- noted a bug hatch over some of the lake- saw a beaver a snake at the shore line and an eagle overhead.
+09/25/2011,water  mildly choppy due to slight wind
+lake remains a rusty brown color possibly due to elevated water levels bringing in runoff from the decayed tamarack trees in ditches leading to the lake 
+05/21/2012,sunny/ a few clouds/ gentle breeze
+06/10/2012,quite windy- moderate wave action-sunny with a few clouds- lake remains stained with tannins from leaves- tamarack trees etc.
+07/12/2012,partly cloudy-slight breeze- between 85 and 90 degrees on lake.  did not anchor so some drifting occurred.  Beautiful summer day.
+07/20/2012,beautiful cloudless sky- slight breeze causing waves- did not anchor 
+09/09/2012,blue sky- few clouds- 74 degrees F.  very slight breeze
+06/24/2013,beautiful day with party cloudy skies and slight breeze
+08/01/2013,Partly cloudy/sunny day.  Saw frogs- turtles- panfish.
+
+08/05/2013,partly cloudy; monday
+07/03/2014,partly cloudy blue sky- gentle breeze
+
+
+
+
+Start Date,Group Name,Project Name
+08/15/1979,Data Collectors,Migrated from STORET Legacy
+05/28/2006,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/10/2006,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/04/2006,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/18/2006,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/27/2007,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/05/2007,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/04/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/07/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/30/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/13/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/25/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/10/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/18/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+10/04/2008,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/08/2009,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/13/2009,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/12/2009,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+09/06/2009,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+09/29/2009,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/12/2010,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/06/2010,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/12/2010,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+10/10/2010,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/16/2011,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/29/2011,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/13/2011,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/06/2011,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/16/2011,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+09/25/2011,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/21/2012,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/10/2012,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/12/2012,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/20/2012,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+09/09/2012,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/24/2013,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/01/2013,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/05/2013,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/03/2014,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/11/2014,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/18/2014,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/31/2015,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+06/18/2015,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+07/12/2015,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/01/2015,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+08/01/2015,Mary Gustavson,Ice Observations on Stone Lake- Burnett County
+09/27/2015,Mary Gustavson,Citizen Lake Monitoring - Water Quality - Stone Lake; Center
+05/07/2016,Mark Nupen,Citizen Lake Monitoring - Water Quality - Stone Lake; Center

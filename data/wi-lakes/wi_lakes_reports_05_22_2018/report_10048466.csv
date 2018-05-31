@@ -1,0 +1,28 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Sawyer,2018700,NO,58,,10048466,CE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+99475473,09/20/2017,,,,2.58,14.5,,49,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/20/2017,0,METERS,18.85,DEGREES C,7.05,MG/L
+09/20/2017,1,METERS,19,DEGREES C,7.5,MG/L
+09/20/2017,2,METERS,18.9,DEGREES C,7.1,MG/L
+09/20/2017,2.5,METERS,18.7,DEGREES C,6.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/20/2017,SHELBY KAIL,EPA National Lakes Assessment 2017

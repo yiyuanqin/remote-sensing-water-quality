@@ -1,0 +1,689 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Nelson Lake,Vilas,1007600,NO,64,,643090,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/02/1979,,,,,,,,,,,,,
+8190326,08/05/1991,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/11/1991,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,
+8190326,08/22/1991,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/02/1991,9.75,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/13/1991,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/24/1991,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/30/1992,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/09/1992,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/24/1992,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,
+8190326,08/05/1992,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BLUE,
+8190326,08/13/1992,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,
+8190326,08/28/1992,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/13/1992,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/18/1992,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190326,09/24/1992,7.5,NO,2.3,,,48,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190326,09/30/1992,8.25,NO,2.5,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190326,06/29/1994,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/05/1994,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/14/1994,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/20/1994,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/30/1994,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/06/1994,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/12/1994,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/18/1994,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/28/1994,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/07/1994,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/15/1994,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,09/29/1994,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,10/06/1994,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,05/31/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,
+8190326,06/08/1995,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/15/1995,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/23/1995,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/30/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/04/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/12/1995,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/19/1995,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/27/1995,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/04/1995,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/13/1995,17.25,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/20/1995,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/28/1995,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/04/1995,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/11/1995,17.25,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/17/1995,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,09/24/1995,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,10/02/1995,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,06/30/1996,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/09/1996,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,07/17/1996,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,07/24/1996,11.75,NO,3.6,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,08/02/1996,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,08/10/1996,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,08/18/1996,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,08/27/1996,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,09/05/1996,15.75,NO,4.8,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,09/16/1996,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,06/01/1997,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/10/1997,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,06/19/1997,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,07/08/1997,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/18/1997,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/27/1997,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,
+8190326,08/07/1997,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,
+8190326,08/18/1997,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/31/1997,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,
+8190326,06/15/1998,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/22/1998,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/29/1998,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/05/1998,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/15/1998,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/28/1998,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/03/1998,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/10/1998,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190326,08/24/1998,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190326,06/20/1999,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,06/26/1999,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,07/14/1999,11.5,NO,3.5,,,42,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8190326,07/24/1999,12.25,NO,3.7,,,41,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8190326,08/06/1999,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,08/21/1999,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190326,08/26/1999,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/03/1999,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/14/1999,10,NO,3,,,44,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190326,06/19/2000,12,NO,3.6,,,41,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8190326,06/27/2000,13,NO,4,,,40,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8190326,07/04/2000,11.5,NO,3.5,,,42,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8190326,07/13/2000,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/20/2000,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/29/2000,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/05/2000,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/14/2000,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/21/2000,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/30/2000,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/15/2000,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/18/2001,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/24/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/05/2001,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/13/2001,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/18/2001,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/24/2001,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/31/2001,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/07/2001,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/19/2001,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/03/2001,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/22/2001,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,06/27/2002,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/03/2002,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/11/2002,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/19/2002,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,07/26/2002,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/02/2002,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/17/2002,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/27/2002,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/03/2002,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/09/2002,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/15/2002,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190326,08/17/2004,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,08/29/2004,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190326,09/02/2004,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/01/2005,23,NO,7,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/10/2005,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/19/2005,17.25,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/27/2005,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/05/2005,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/11/2005,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/04/2006,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/12/2006,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/28/2006,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/14/2006,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/22/2006,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/14/2006,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/22/2006,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/30/2006,14.25,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/14/2007,27.5,NO,8.4,,,29,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/24/2007,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/01/2007,22.75,NO,6.9,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/18/2007,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/24/2007,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/02/2007,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/17/2007,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/26/2007,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,09/03/2007,14.25,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/09/2008,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/24/2008,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/03/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/11/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/20/2008,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/27/2008,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/04/2008,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/14/2008,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/20/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/27/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/11/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+35008240,06/17/2009,9.8,NO,3,2.67,11,44,47,42,,,,,
+8191432,06/18/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/04/2009,13.75,NO,4.2,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/13/2009,14.75,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/21/2009,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34972241,07/22/2009,11.7,NO,3.6,0.84,12,42,47,33,,,,,
+8191432,07/29/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/06/2009,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34972241,08/11/2009,14.1,NO,4.3,0.73,11,39,47,32,,,,,
+8191432,08/14/2009,16.75,NO,5.1,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/22/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/30/2009,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/23/2010,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/24/2010,9.25,NO,2.8,,,45,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8191432,07/07/2010,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/16/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/25/2010,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/03/2010,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/10/2010,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/17/2010,12.75,NO,3.9,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/26/2010,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/02/2011,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/17/2011,24.75,NO,7.5,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/25/2011,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/03/2011,21.25,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/11/2011,23.5,NO,7.1,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/20/2011,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/28/2011,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/03/2011,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/12/2011,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/20/2011,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/28/2011,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/03/2012,14.5,NO,4.4,,,39,,,LOW,,MURKY,BLUE,
+8191432,06/12/2012,12.5,NO,3.8,,,41,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,06/19/2012,12.5,NO,3.8,,,41,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,06/27/2012,14.25,NO,4.3,,,39,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,07/05/2012,13,NO,4,,,40,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8191432,07/14/2012,16,NO,4.9,,,37,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+8191432,07/21/2012,14,NO,4.3,,,39,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+8191432,07/30/2012,12.25,NO,3.7,,,41,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,08/07/2012,10,NO,3,,,44,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,08/15/2012,11.75,NO,3.6,,,42,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,08/22/2012,11.75,NO,3.6,,,42,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8191432,08/30/2012,12.25,NO,3.7,,,41,,,LOW,,MURKY,,1-Beautiful, could not be nicer
+8191432,06/23/2013,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/30/2013,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/08/2013,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/16/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191432,07/25/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/01/2013,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/10/2013,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/18/2013,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/25/2013,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/26/2014,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/04/2014,24.5,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/12/2014,20.5,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/21/2014,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/26/2014,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/08/2014,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/12/2014,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/24/2014,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/29/2014,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,
+8191432,06/21/2015,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191432,06/28/2015,18.25,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/07/2015,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/15/2015,17.25,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/23/2015,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/02/2015,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/15/2015,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/22/2015,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/23/2016,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/01/2016,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/08/2016,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/16/2016,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/24/2016,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/03/2016,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/09/2016,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/17/2016,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/25/2016,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/01/2017,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/11/2017,18.25,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/18/2017,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,06/27/2017,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/05/2017,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/12/2017,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,07/19/2017,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/07/2017,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191432,08/20/2017,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/1979,,,23,C,,
+06/17/2009,,,21.7,C,8.8,MG/L
+07/22/2009,,,21.5,C,8.7,MG/L
+08/11/2009,,,23.7,C,8.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/02/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/05/1991,Calm- sunny    
+08/22/1991,Saw 2 adult loons w/2 chicks    
+06/30/1992,Spring has been cool.    
+07/09/1992,Had a storm 2-3 days earlier.    
+07/24/1992,Beautiful day- calm and sunny.    
+08/05/1992,Windy lately.    
+09/13/1992,Weather has been cloudy but today was sunny and warm.    
+09/18/1992,Some green bloom on the surface in the bay.    
+09/30/1992,Last report until spring.    
+06/29/1994,I'm back again after severe knee injury last year.    
+09/29/1994,Last report this year.    
+10/06/1994,Definitely the last report of 1994.    
+09/17/1995,Some algae on plant stems.    
+09/24/1995,Some algae on plant stems.    
+10/02/1995,Last report this year.    
+06/30/1996,Slight amount of yellow pollen on water.    
+07/17/1996,Had a heavy rain last night.    
+06/01/1997,Beautiful- 80 degree day.    
+06/10/1997,Some pollen on surface.    
+06/19/1997,Some pollen on surface.    
+07/18/1997,Water was very warm- 78 degrees.    
+08/31/1997,Minor amount of particles seen in water but far from murky.    
+06/15/1998,Water temp 70 degrees.    
+06/22/1998,Water temp 72 degrees.    
+06/29/1998,Water temp 73 degrees.    
+07/05/1998,Water temp 74 degrees.    
+07/15/1998,Water temp 75 degrees.    
+07/28/1998,Water temp 73 degrees.    
+08/03/1998,Water temp 74 degrees.    
+08/10/1998,Lake level down about 8" since spring.    
+08/24/1998,Beautiful warm day.    
+06/20/1999,Sunny- saw merganser mother duck + 10 young.    
+06/26/1999,Beautiful day- we are short of rain.    
+09/14/1999,Lake level was low all summer + fall.    
+07/04/2000,Had almost 4" of rain a couple of days ago.    
+07/13/2000,Beautiful day- saw merganzer mother duck and nine young.    
+08/14/2000,Lake level was low all summer.    
+06/24/2001,Beautiful warm day. Water temp 70 deg F    
+07/13/2001,Water temp 73 deg F    
+07/18/2001,Water temp 78 deg F    
+07/31/2001,Water temp 80 deg F    
+08/07/2001,Water temp 82 deg F    
+07/03/2002,Water temp 82 deg F    
+07/11/2002,Water temp 76 deg F.    
+07/19/2002,Water temp 79 deg F    
+07/26/2002,Water temp 80 deg F. Very warm summer.    
+08/02/2002,Very rainy (wet) summer    
+08/17/2002,Water Temp 74 deg F.    
+08/27/2002,Water temp 74 deg F    
+09/03/2002,Water temp 72 deg F    
+09/09/2002,Water temp 75 deg F- Air 80 degrees.    
+09/15/2002,Water temp 72 deg F- Air 60 degrees    
+08/17/2004,Sky overcast- filtered sunlight only; Lake surface mod. choppy.    
+08/29/2004,Partly cloudy- light chop on surface.  52 F.  1 heron- 1 eagle.    
+09/02/2004,Sky clear- light chop on surface.    
+07/01/2005,windy mostly sunny- 3/4" rain 6/29    
+07/10/2005,windy- humid- 90F- mostly sunny- heavy boat traffic- including 2 inboard ski boats- over the 4th of July weekend; one loon- one eagle    
+07/19/2005,clear- sunny- 74F- chop from boat traffic    
+07/27/2005,partly sunny- windy- choppy    
+08/05/2005,clear and sunny- one eagle    
+08/11/2005,completely overcast- two loons    
+06/04/2006,calm- sunny- 79 degrees. Pollen in lake.
+06/12/2006,sunny- light wind- 74 degrees. Family of 6 ducklings
+06/28/2006,Partly cloudy with haze. Breezy. Jet ski on lake
+07/14/2006,Partly cloudy- inboard on lake over 4th of July weekend. Lots of deep wave action.
+07/22/2006,Partly overcast. High 76 degrees
+08/14/2006,Partly sunny- windy. Heavy chop.
+08/22/2006,Sunny and clear. Light chop.
+08/30/2006,Light chop- sunny. 40% cloud cover.
+06/14/2007,78 F.  40% cloud cover.  Blue sky.  Calm.  1 pair of nesting loons.
+06/24/2007,77 F.  10% cloud cover.  Light chop.  Pair of loons and one chick.  Eagle overhead.
+07/01/2007,62 F.  Blue sky.  0% cloud cover.  Med chop.  Loon pair + chick.
+07/18/2007,76 F.  Partly cloudy.  LIght chop.  Loon chick and adult pair.
+07/24/2007,78 F.  Sunny- no wind.  Surface calm.  Loon pair and chick.
+08/02/2007,81 F- sunny and clear.  Windy.  Heavy chop.  Loon chick beginning to dive.  1 eagle.
+08/17/2007,60 F.  Clear and sunny.  Windy.  Heavy chop.
+08/26/2007,76 F.  40% cloud cover.  Light breeze and hcop.  Loon chick trying to "take off".
+09/03/2007,76 F.  Clear and sunny.  LIght breeze.
+06/09/2008,Air temperature 71 F- 60% Cloud cover. Light chop- pollen on surface. 
+06/24/2008,Air temperature 75 F- 50% Cloud cover. Light chop. 1 Loon. 
+07/03/2008,Air temperature 68 F. Lot of boat traffic. 
+07/11/2008,Air temperature 82 F. 
+07/20/2008,Air temperature 76 F. Partly cloudy- light chop. 2 loons. 
+07/27/2008,Air temperature 78 F. Partly cloudy- windy- heavy chop. 3 inboards on lake. 
+08/04/2008,Air temperature 73 F. Overcast- no shadows. 2 loons- 1 inboard on lake. 
+08/14/2008,Air temperature 82 F- sunny- 10% Cloud cover. No inboards for past 3 days- 1 loon. 
+08/20/2008,Air temperature 72 F- 60% Cloud cover- light wind/chop. 1 loon. 
+08/27/2008,Air temperature 73 F- 90% Cloud cover- windy- moderate chop. 2 loons- 1 eagle. 
+06/11/2009,Air temp 64 F- cloud cover 70%- light breeze/chop- tree pollen on surface.
+06/18/2009,Air temp 72 F- overcast- no shadows.  Light breeze/chop some tree pollen.
+07/04/2009,Air temp 76 F- 50% cloud cover.  Sunny- light breeze/chop.
+07/13/2009,Air temp 70 F- cloud cover 20%.  Sunny- moderate breeze/chop- two loons.
+07/21/2009,Air temp 70 F.  Overcast- occasional filtered sunlight- strong breeze- heavy chop.
+07/29/2009,Air temp 67 F.  Cloud cover 50%- sunny- breezy- moderate chop- one loon.
+08/06/2009,Air temp 74 F- cloud cover 40%- sunny light breeze and chop.  Two loons.
+08/14/2009,Air temp 79 F- cloud cover 40%- filtered sunlight- moderate breeze/chop.
+08/22/2009,Air temp 62 F- cloud cover 50%.  Light breeze and chop- two loons- 16 mergansers.
+08/30/2009,Air temp 56 F.  Cloud cover 80%- moderate breeze and chop.  19 mergansers.
+06/23/2010,Air temperature 76 degrees. Slight breeze. Light chop. 80% cloud cover. Some pollen on surface. 1 eagle.
+06/24/2010,Air temperature 74 degrees. Slight breeze. Light chop. Clear and sunny. Much pollen on surface. 2 Loons.
+07/07/2010,Air temperature 79 degrees. Wind calm. 80% cloud cover. Very little pollen on surface.
+07/16/2010,Air temperature 74 degrees. Wind 10 to 20 MPH. Gusty. Heavy chop. 2 loons.
+07/25/2010,Air temperature 77 degrees. Light breeze and chop. Mostly sunny. 15% cloud cover. 1 loon
+08/03/2010,Air temperature 78 degrees. Steady breeze- small waves. Sunny and clear. 2 loons.
+08/10/2010,Air temperature 78 degrees. Light breeze and chop. Total overcast. 2 loons.
+08/17/2010,Air temperature 60 degrees. Windy- small waves. Clear and sunny. 2 loons- 1 eagle
+08/26/2010,Air temperature 62 degrees. Light breeze and chop. Sunny - 5% cloud cover. 1 loon.
+06/02/2011,Air Temp. 62 degrees- moderate breeze and chop- 60% mackere sky- 40% clear blue- some pollen on water- 1 loon- 1 Pr- Canada Geese
+06/17/2011,Air Temp. 70 degres- Moderate breeze and chop- 30% cloud cover- sunny- 2 loons
+06/25/2011,Air tmep. 76 degrees- moderate breeze and chop- 50% cloud cover- haze over blue- 2 loons- 1 Pr geese
+07/03/2011,Air Temp. 74 degrees- moderate breeze and chop- 5% cloud cover- sunny- blue sky- 2 loons- 1 eagle- 1 Pr geese and 6 goslings
+07/11/2011,Air temp. 79 degrees- moderate breeze  and chop- 50% cloud cover- sunny- blue sky. 1 loon and 6 ducks
+07/20/2011,Air Temp. 88 degrees- strong breeze- small waves- blue sky- sunny- 6 geese
+07/28/2011,Air temp. 86 degrees- moderate breeze and chop- 95% cloud cover- intermittent sun- 12 ducks
+08/03/2011,Air temp. 82 degrees- moderate breeze and chop- clear w/haze- no clouds- 1 loon
+08/12/2011,Air temp. 72 degrees- moderate breeze and chop- total overcast- 100% cloud cover Air temp. 74 degrees- strong wind- waves and white caps- 10% cloud cover- sunny- 2 ducks Air temp. 74 degrees- strong wind- waves and white caps- 10% cloud cover- sunny- 2 ducks
+08/20/2011,Air temp. 74 degrees- strong wind- waves and whitecaps- 10% cloud cover- sunny- 2 ducks
+08/28/2011,Air temp. 71 degrees- moderate breeze and chop- 65% cloud cover- sunny- 17 ducks
+06/03/2012,air temp. = 72 degrees F- light breeze- 20% cloud cover- sunny- 2 loons 1 pair of geese
+06/12/2012,air temp. = 68 degrees F- strong breeze- white caps- 5% cloud cover- sunny- 1 loon- 2 geese- 4 goslings
+06/19/2012,air temp. = 76 degrees F- moderate breeze and chop- 55% cloud cover and overcast- 1 loon- 2 eagles- a pair of mallards
+06/27/2012,air temp. = 78 degrees- moderate SW breeze- light chop- clear sky- 2 loons- 8 geese- 1 eagle
+07/05/2012,air temp. = 81 degrees F- moderate breeze and chop- clear sky/haze- 7 geese- 21 ducks- 1 eagle
+07/14/2012,air temp = 72 degrees- moderate breeze and chop- 70% cloud cover- slight haze- 7 geese- 6 ducks
+07/21/2012,air temp. = 74 degrees- moderate breeze and chop- 10% cloud cover- clear and sunny- 6 mallards- 1 eagle
+07/30/2012,air temp. = 80 degrees- moderate breeze and chop- 95% cloud cover- daily AM + PM inboard boat travel during July (deep wake)
+08/07/2012,air temp. = 72 degres- strong breeze- heavy chop-30% cloud cover- partly sunny- 1 loon
+08/15/2012,air temp. = 70 degrees- moderate breeze and chop- 60% cloud cover- light haze
+08/22/2012,air temp. = 75 degrees- strong west wind- heavy chop- clear- slight haze- 1 eagle
+08/30/2012,air temp. = 81 degrees-
+06/23/2013,Air temp 72- water temp at 1 foot 69- strong S wind- complete overcast of light haze
+06/30/2013,Air Temp 71- water temp at 1 ft 71.8- strong N wind and chop- haze but clear- 1 loon- 1 eagle
+07/08/2013,Air temp 79- water temp at 1 ft 77.9- overcast- w wind- 1 heron- lily pads blooming- 1 eagle
+07/16/2013,Air Temp 84- water temp at 1 ft 80-  70% cloud Cover- Sunny- strong SW wind- heavy chop
+07/25/2013,air temp 68 water temp at 1 ft 74.5- 75% cloud cover- sunny- strong wind gusts- heavy chop
+08/01/2013,Air temp 70- water temp at 1 foot 70.0- 60% cloud cover- strong W wind- small cont. waves.
+08/10/2013,Air temp 60- water temp at 1 ft 70.2- 98% light cloud cover- moderate wind and chop
+08/18/2013,Air temp 74- water temp at 1ft 71- 15% cloud cover- sunny with slight haze
+08/25/2013,air temp 74- water temp at 1 ft 73.9 (slight L from vert) Haze overcast- strong SW wind and contiunuous wave action- family of 14 mergansers and 6 mallards since June- only one loon during June and last 2 weeks of August
+06/26/2014,Air Temp 74- Water Temp 71- Cloud cover 65%- Avg pH 6.77- Wind light West
+07/04/2014,Air Temp 77- Water temp 71- Cloud cover 5%- Avg pH 6.58- Wind light West
+07/12/2014,Air temp 76- Water temp 72- Cloud cover 100%- Avg pH 6.71- Wind calm
+07/21/2014,Air temp 75- Water Temp 72- Cloud cover 0%- Avg pH 6.86- Wind calm
+07/26/2014,Air temp 76- Water temp 72- Cloud cover 60%- Avg pH 6.68- Wind calm
+08/08/2014,Air Temp 75- Water Temp 75.2- Cloud cover 65%- Avg pH 6.59- Wind calm
+08/12/2014,Air temp 65- Water temp 73.1- Cloud cover 95%- Avg pH 6.50- Wind calm
+08/24/2014,Air temp 72- Water temp 71.8- Cloud cover 100%- Avg pH 6.49- Wind calm
+08/29/2014,Air temp 67- Water temp 72- Cloud cover 95%- Avg pH 6.42- Wind calm
+06/21/2015,Air temp: 68 F- sunny- 10% cloud cover- pollen in water + on surface- average pH 6.61
+06/28/2015,Air temp unknown- partly sunny- 50% cloud cover- average water temp 73 F- average pH 6.43
+07/07/2015,Air temp 61 F- sunny- 15% cloud cover- windy and heavy chop- water temp 71 F- average pH 6.61
+07/15/2015,Air temp 69 F- sunny- 10% cloud cover- moderate wind and chop- steady boat wakes
+07/23/2015,Air temp 82 F- sunny- 10% cloud cover- NW light wind- light chop- average water temp 72 F
+08/02/2015,Air temp 74 F- partly sunny- 50% cloud cover- light wind + chop- average water temp 71.6 F
+08/15/2015,Air temp 82 F- total overcast- strong wind and wave action w/ "white caps"- average water temp 76 F
+08/22/2015,Air temp 78 F- 90% overcast- strong wind and wave action
+06/23/2016,All water temps at 1 ft depth. All avg pH values given are the average of 3 readings at west end- 3 at middle and 3 at east end. Rain fall- Aug 17-25 = 3.02 inches.
+
+Air temp 64 deg- water temp 74 deg- cloud cover 20%- light wind and chop- avg pH 6.94. 
+07/01/2016,Air temp 64 deg- water temp 71 deg- cloud cover 70%- moderate wind.gusty- heavy chop- avg pH 7.00
+07/08/2016,Air temp 65 deg- water temp 73.5 deg- cloud cover 90%- wind WNW @ 12 mph- avg pH = 6.84
+07/16/2016,Air temp 70 deg- water temp 73.4 deg- cloud cover 50%- WNW moderate wind- moderate chop- avg pH - 7.07- one loon
+07/24/2016,Air temp 73 deg- water temp 78.5 deg- cloud cover 100%- ESE wind- moderate chop- avg pH 6.77- two eagles and one loon
+08/03/2016,Air temp 77 deg- water temp 80.3 deg- cloud cover 5%- WNW wind 4 mph- avg pH 6.64- two loons
+08/09/2016,Air temp 75 deg- water temp 76.5 deg- cloud cover 60%- SSW wind 9 mph- moderate chop- avg pH 6.89 Air temp 75 deg- water temp 76.5 deg- cloud cover 60%- SSW wind 9 mph- moderate chop- avg pH 6.60- one loon and one eagle.
+08/17/2016,Air temp 78 deg- water temp 78.9 deg- cloud cover 25%- WSW wind- mod chop- avg pH 6.89- 1 loon
+08/25/2016,Air temp 72 deg- water temp 73.3 deg- cloud cover 50%- wind WNW and strong wave action- avg pH 6.54
+06/01/2017,Air Temp: 61F- 20% cloud cover- Strong NW Wind- Heavy Chop- Avg. pH 6.47
+06/11/2017,69 F- Total Overcast- Moderate W Wind- Heavy Chop- Avg. pH 66.2- 1 Loon- 1 Eagle
+06/18/2017,57 F- 96% Overcast- Strong West Wind- Heavy Chop- Avg. pH 6.05- 1 Loon
+06/27/2017,70 F- 30% Cloud Cover + Haze- WNW Strong?/Gusty Wind- Continuous Chop- Avg. pH 6.14
+07/05/2017,62 F- 60% Cloud Cover- Strong NNW Wind- Heavy Chop- pH 6.31
+07/12/2017,64 F- 98% Cloud Cover- Moderate NNE Wind- Mod. Chop- Avg. pH 6.47
+07/19/2017,72 F- Clear Sky- Slight WNW Breeze- No Chop- Avg. pH 6.47
+08/07/2017,67 F- 50% Cloud Cover- NW Wind- Light Chop- Avg. pH 6.38
+08/20/2017,72 F- 100% Cloud Cover- NW Gales- Extreme Chop- Avg. pH 6.66
+
+
+
+
+Start Date,Group Name,Project Name
+08/02/1979,Data Collectors,Migrated from STORET Legacy
+08/05/1991,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/11/1991,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/22/1991,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/02/1991,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/13/1991,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/24/1991,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/30/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/09/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/24/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/05/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/13/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/28/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/13/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/18/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/24/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/30/1992,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/29/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/05/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/14/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/20/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/30/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/06/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/12/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/18/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/28/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/07/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/15/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/29/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+10/06/1994,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+05/31/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/08/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/15/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/23/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/30/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/04/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/12/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/19/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/27/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/04/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/13/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/20/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/28/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/04/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/11/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/17/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/24/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+10/02/1995,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/30/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/09/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/17/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/24/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/02/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/10/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/18/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/27/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/05/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/16/1996,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/01/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/10/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/19/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/08/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/18/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/27/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/07/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/18/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/31/1997,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/15/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/22/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/29/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/05/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/15/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/28/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/03/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/10/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/24/1998,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/20/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/26/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/14/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/24/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/06/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/21/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/26/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/03/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/14/1999,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/19/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/27/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/04/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/13/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/20/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/29/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/05/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/14/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/21/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/30/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/15/2000,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/18/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/24/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/05/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/13/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/18/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/24/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/31/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/07/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/19/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/03/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/22/2001,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/27/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/03/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/11/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/19/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/26/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/02/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/17/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/27/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/03/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/09/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/15/2002,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/17/2004,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/29/2004,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/02/2004,Albert Knuth,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/01/2005,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/10/2005,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/19/2005,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/27/2005,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/05/2005,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/11/2005,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/04/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/12/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/28/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/14/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/22/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/14/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/22/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/30/2006,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/14/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/24/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/01/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/18/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/24/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/02/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/17/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/26/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+09/03/2007,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/09/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/24/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/03/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/11/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/20/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/27/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/04/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/14/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/20/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/27/2008,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/11/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/17/2009,Todd Hanke and Craig Stettner - Onterra- LLC,TOWN OF CLOVERLAND: Town of Cloverland Lakes Management Planning Project
+06/18/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/04/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/13/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/21/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/22/2009,Dan Cibulka and Todd Hanke - Onterra- LLC,TOWN OF CLOVERLAND: Town of Cloverland Lakes Management Planning Project
+07/29/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/06/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/11/2009,Dan Cibulka and Todd Hanke - Onterra- LLC,TOWN OF CLOVERLAND: Town of Cloverland Lakes Management Planning Project
+08/14/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/22/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/30/2009,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/23/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/24/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/07/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/16/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/25/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/03/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/10/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/17/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/26/2010,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/02/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/17/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/25/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/03/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/11/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/20/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/28/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/03/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/12/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/20/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/28/2011,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/03/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/12/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/19/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/27/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/05/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/14/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/21/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/30/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/07/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/15/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/22/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/30/2012,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/23/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/30/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/08/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/16/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/25/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/01/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/10/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/18/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/25/2013,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/26/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/04/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/12/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/21/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/26/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/08/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/12/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/24/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/29/2014,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/21/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/28/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/07/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/15/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/23/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/02/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/15/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/22/2015,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/23/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/01/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/08/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/16/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/24/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/03/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/09/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/17/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/25/2016,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/01/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/11/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/18/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+06/27/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/05/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/12/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+07/19/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/07/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole
+08/20/2017,Carl Pfeiffer,Citizen Lake Monitoring - Water Quality - Nelson Lake; Deep Hole

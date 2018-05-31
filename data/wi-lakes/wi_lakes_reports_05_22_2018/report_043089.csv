@@ -1,0 +1,250 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Siskiwit Lake,Bayfield,2882300,NO,4,,043089,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189901,08/22/2001,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189901,09/09/2001,6.25,NO,1.9,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189901,09/20/2001,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189901,09/26/2001,7,NO,2.1,,,49,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189901,10/14/2001,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189901,06/25/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/08/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,07/13/2002,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,08/08/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,09/11/2002,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,05/17/2003,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/09/2003,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/06/2003,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/27/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,08/06/2003,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,09/14/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,
+8189901,10/07/2003,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,
+8189901,06/06/2004,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/29/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/17/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,08/11/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,09/12/2004,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,10/10/2004,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,10/20/2004,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/18/2005,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/11/2005,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,08/07/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,08/22/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,09/17/2005,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,10/16/2005,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,04/29/2006,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,05/31/2006,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/25/2006,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/09/2006,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,08/27/2006,4.75,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,09/24/2006,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,04/28/2007,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189901,06/10/2007,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/06/2007,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/27/2007,6.25,NO,1.9,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,09/03/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,10/04/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,05/17/2008,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/15/2008,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,08/04/2008,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189901,09/05/2008,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,05/31/2009,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/14/2009,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,07/19/2009,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,08/15/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/20/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,08/16/2010,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,09/26/2010,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/10/2011,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,08/14/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,08/28/2011,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,09/28/2011,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189901,06/03/2012,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,06/30/2012,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,08/12/2012,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,10/01/2012,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,06/19/2013,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,07/07/2013,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189901,08/11/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189901,09/25/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130962896,08/08/2016,6.5,NO,2,7.08,,50,,50,,,,,
+7000102,09/12/2016,2.1,NO,0.6,0.798,27.5,66,54,33,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/22/2001,Sunny- clear and calm.    
+09/09/2001,Cloudy- slight waves. 65 deg F. Flock of geese flying over. Eagle perched in tree on island.    
+09/20/2001,Sunny and clear. Slight waves. 70 deg F. Light breeze. Geese flying. About 6 mallards-eagle in same tree.    
+09/26/2001,Sunny and clear. Calm- 60 deg F. Had frost in the morning.    
+10/14/2001,Overcast- choppy- 45 deg F. taking boat out of water. Last reading for this year.    
+06/25/2002,88 F.  Partly cloudy.  Thunder in distance.  Slight breeze.  Humid.    
+07/08/2002,75 F.  Partly cloudy.  Rained 1.5" this morning.    
+07/13/2002,Partly cloudy.    
+08/08/2002,78 F.  Several ducks and geese on lake.  Slight rain day before.    
+09/11/2002,75 F.  Sunny- bright.  Slight breeze.  Last reading.  Taking boat out of water.    
+05/17/2003,temp. 65 degrees
+partly cloudy- wind out of the east- lake quiet
+ice went out on April 24- 2003    
+06/09/2003,temp is 65 degrees
+sunny with light wind
+
+
+    
+07/06/2003,temp is 75 degrees
+bright sunny day with no clouds
+
+
+    
+07/27/2003,80 degrees  partly sunny- very nice day.  great day to
+be on the lake
+
+
+    
+08/06/2003,83 degrees  very humid- muggy day
+slight breeze- partly cloudy
+has not rained in about two weeks    
+09/14/2003,cloudy- slight breeze   65 degrees
+    
+10/07/2003,81 degrees- light breeze- not a cloud in the sky
+couldn't ask for a better fall day
+    
+06/06/2004,80 degrees- partly sunny- eagle spotted perched on a tree
+ice went out 4/15/2004    
+06/29/2004,85 degrees- sunny- slight breeze. saw 2 loons- which on this lake is unusual.    
+07/17/2004,75 degrees   cloudy-calm    
+08/11/2004,70 degrees- overcast    
+09/12/2004,65 degrees- overcast with slight breeze    
+10/10/2004,65 degrees- clear blue sky- no wind- perfect fall day    
+10/20/2004,55 degrees- clear sky. Lake is calm.  Last reading of the year.  We put the boat away for the winter.    
+06/18/2005,70 degrees- partly cloudy and windy
+ice went out on 04/10/2005    
+07/11/2005,85 degrees- sunny + clear sky- very warm day
+saw an eagle perched in a tree and a pair of loons    
+08/07/2005,90 degrees- clear sunny day- saw 2 deer in the water- 1 eagle in its nest feeding its young and 2 other eagles in a tree    
+08/22/2005,70 degrees- slight wind- clear sunny sky    
+09/17/2005,75 degrees- no wind- clear sky    
+10/16/2005,65 degrees- beautiful fall day- clear sky
+we took the boat out of the water for the season    
+04/29/2006,Ice went out on 4/11/2006.  We put our boat in the water for the first time today.  Overcast and cool.  55 degrees
+05/31/2006,clear sky- 80 degrees
+saw an eagle in its nest
+06/25/2006,sunny- slight wind.  saw a loon and a young eagle in its nest   75 degrees
+07/09/2006,90 degrees- very humid day. No wind and clear sky
+08/27/2006,70 degrees   clear sky no wind
+09/24/2006,60 degrees- slight wind- partly cloudy sky.  Several geese and ducks on the lake.  This will be the last reading for the year- we are putting our boat away for the season
+04/28/2007,ice went out on 04/14/2007.  65 degrees- breezy and partly sunny sky
+06/10/2007,80 degrees- slight wind-clear sky. saw a pair of loons and a nesting eagle with chick
+07/06/2007,very warm day- about 85 degrees. Few clouds in the sky- but breezy. saw a pair of loons and an adult eagle perched on a branch and one young bird in the nest.  Alot of activity on the lake such as swimmers- water skiers and boaters.
+07/27/2007,80 degrees- slight breeze-sunny sky. We have been under severe drought conditions. It did finally rain yesterday.
+09/03/2007,clear sky- 65 degrees-calm and sunny. Beautiful fall morning. Quiet on the lake even though it is a holiday weekend.
+10/04/2007,clear blue sky- 70 degrees- a perfect fall day- colors on the trees are gorgeous with perfect reflection on the lake- no wind
+saw an eagle perched in a tree and several geese flying overhead heading south
+
+05/17/2008,about 60 degrees- sunny sky with light wind
+ice went out on 04/26/2008.  We also had snow flurries on this day.
+Quiet on the lake
+06/15/2008,Temp is around 70 degrees. Windy day. Spotted an eagle by its nest. Quiet on the lake
+08/04/2008,80 degrees .  Very warm and humid day with overcast sky.  The water seems to be cloudy.  We haven't had much rain lately.  Lots of activity on the lake with swimmers and boaters.
+09/05/2008,Very quiet on the lake.  Slight wind with overcast skies.  65 degrees
+05/31/2009,took out our pontoon today for the first time.  Sunny clear sky with a slight breeze.   About 58 degrees. nice day for a boat ride.
+06/14/2009,around 70 degrees- very slight breeze- clear sky
+saw 2 pairs of loons- which we don't see very often
+07/19/2009,partly cloudy day- about 72 degrees- very slight breeze.  this day is a perfect day to be spending time outdoors.  Not to hot and not to cold.
+08/15/2009,about 75 degrees- choppy water and overcast sky
+06/20/2010,beautiful day- clear sky- no breeze  75 degrees.  We saw several turtles sunny themselves on logs near the shoreline
+09/26/2010,clear sky- very slight breeze. Very quiet on the lake
+07/10/2011,partly cloudy- breezy. about 80 degrees
+08/14/2011,about 80 degrees- slight wind- few clouds. A very nice day to be on the lake.  Saw a mother loon and one of her young
+08/28/2011,beautiful day  no breeze about 75 degrees
+saw a pair of loons
+09/28/2011,beautiful fall day. Calm and sunny. around 65 degrees- very quiet.  Algae on surface of lake
+06/03/2012,overcast sky. slight breeze. about 75 degrees. very quiet day on the lake.  We just put our boat out this weekend
+06/30/2012,80 degrees  choppy
+08/12/2012,quiet day on the lake. overcast with a slight breeze
+10/01/2012,very nice day
+06/19/2013,very warm day  about 80 degrees with a slight wind.  Partly cloudy sky.  Quite a bit of pollen floating on the surface of the lake
+07/07/2013,very nice day.  mild breeze and around 75 degrees.  Several people on the lake boating
+08/11/2013,slight breeze.  several people out enjoying the lake.  partly cloudy and about 73 degrees
+09/25/2013,beautiful fall day- about 70 degrees- very little breeze and sunny
+
+
+
+
+Start Date,Group Name,Project Name
+08/22/2001,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/09/2001,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/20/2001,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/26/2001,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/14/2001,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/25/2002,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/08/2002,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/13/2002,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/08/2002,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/11/2002,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+05/17/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/09/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/06/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/27/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/06/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/14/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/07/2003,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/06/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/29/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/17/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/11/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/12/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/10/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/20/2004,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/18/2005,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/11/2005,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/07/2005,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/22/2005,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/17/2005,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/16/2005,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+04/29/2006,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+05/31/2006,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/25/2006,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/09/2006,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/27/2006,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/24/2006,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+04/28/2007,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/10/2007,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/06/2007,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/27/2007,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/03/2007,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/04/2007,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+05/17/2008,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/15/2008,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/04/2008,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/05/2008,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+05/31/2009,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/14/2009,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/19/2009,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/15/2009,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/20/2010,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/16/2010,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/26/2010,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/10/2011,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/14/2011,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/28/2011,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/28/2011,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/03/2012,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/30/2012,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/12/2012,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+10/01/2012,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+06/19/2013,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+07/07/2013,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/11/2013,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+09/25/2013,Duane Pratt,Citizen Lake Monitoring - Water Quality - Siskiwit Lake; Deep Hole
+08/08/2016,Jeremy M Bates- Pamela J Toshner,Directed Lakes 2016 Toshner - AIS Surveys
+09/12/2016,Pamela Toshner,Directed Lakes 2016 Toshner

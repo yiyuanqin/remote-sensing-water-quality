@@ -1,0 +1,32 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hill Lake,Oneida,990200,NO,44,,443340,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,11/07/1985,4.9,,1.5,,18,54,51,,,,,,
+143525538,05/25/2017,14.75,,4.5,,,38,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+143525538,07/12/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+143525538,07/27/2017,13,NO,4,,,40,,,LOW,,,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/07/1985,,,5,C,8.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+11/07/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+11/07/1985,Data Collectors,Migrated from STORET Legacy
+05/25/2017,Marie Margitan,Citizen Lake Monitoring - Water Quality - Hill Lake - Deep Hole
+07/12/2017,Marie Margitan,Citizen Lake Monitoring - Water Quality - Hill Lake - Deep Hole
+07/27/2017,Marie Margitan,Citizen Lake Monitoring - Water Quality - Hill Lake - Deep Hole

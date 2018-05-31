@@ -690,3 +690,895 @@ JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 2
 [Child 17336, Chro
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1526741505418	geckodriver	INFO	Listening on 127.0.0.1:54683
+1526741508568	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.ekm3bSKVnbd6
+1526741508597	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526741508738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54692
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526741519827	Marionette	INFO	Listening on port 54692
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 1896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21484, Chrome_ChildT[Parent 1896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2064, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526744074845	geckodriver	INFO	Listening on 127.0.0.1:55403
+1526744077993	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.vrA52I2v7prd
+1526744078020	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526744078144	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55411
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526744086859	Marionette	INFO	Listening on port 55411
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Child 21036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21036, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526925635086	geckodriver	INFO	Listening on 127.0.0.1:57465
+1526925638251	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.Uv6zJi6EI567
+1526925638279	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1526925638399	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57473
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1526925648037	Marionette	INFO	Listening on port 57473
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 19652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chromeUnable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17488[Child 15236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip[Parent 19652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527003368012	geckodriver	INFO	Listening on 127.0.0.1:59596
+1527003371328	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.sortQXwbLCTB
+1527003371369	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527003371503	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59604
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527003381446	Marionette	INFO	Listening on port 59604
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 17124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527032505242	geckodriver	INFO	Listening on 127.0.0.1:52996
+1527032508394	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.7BwA0XAFOo3O
+1527032508423	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527032508579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53004
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527032518470	Marionette	INFO	Listening on port 53004
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 14680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5524, Chrome_ChildThrea[Child 20228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20228, Chrome_ChildThr[Parent 14680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChiJavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 4380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15416, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527032697789	geckodriver	INFO	Listening on 127.0.0.1:53221
+1527032700960	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.tzp4qxYLCyzI
+1527032700988	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527032701027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53229
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527032708050	Marionette	INFO	Listening on port 53229
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 16164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527032836135	Marionette	INFO	Listening on port 53404
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527034442558	geckodriver	INFO	Listening on 127.0.0.1:49184
+1527034445680	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.YOnxI1eOqeVo
+1527034445713	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527034445756	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49192
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527034453675	Marionette	INFO	Listening on port 49192
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 2860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21256, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+path
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527036917068	Marionette	INFO	Listening on port 53276
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7572[Child 14256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 142[Parent 7804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13740, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527037081120	geckodriver	INFO	Listening on 127.0.0.1:53465
+1527037084518	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.8YGESX3i73hu
+1527037084577	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527037084668	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53474
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527037091932	Marionette	INFO	Listening on port 53474
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527556210751	geckodriver	INFO	Listening on 127.0.0.1:49855
+1527556213897	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.0MZoqrBJ4QEY
+1527556213925	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527556214049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49863
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527556223606	Marionette	INFO	Listening on port 49863
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Child 13268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13268, Chr[Parent 10888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527557047576	geckodriver	INFO	Listening on 127.0.0.1:51273
+1527557050965	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.fWauCLjJMH1f
+1527557050999	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527557051051	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51281
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527557058339	Marionette	INFO	Listening on port 51281
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Child 19288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19[Child 1752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17[Parent 19872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527561807514	geckodriver	INFO	Listening on 127.0.0.1:54135
+1527561810712	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.JUbP5YPcvsm0
+1527561810739	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527561810776	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54143
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527561818482	Marionette	INFO	Listening on port 54143
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 21996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Parent 21996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 135
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527562836023	geckodriver	INFO	Listening on 127.0.0.1:55799
+1527562839332	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.9Aowpnn19ZSU
+1527562839363	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527562839495	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55807
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527562849637	Marionette	INFO	Listening on port 55807
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 9932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527567461134	geckodriver	INFO	Listening on 127.0.0.1:58729
+1527567464269	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.DOIIWvsA6Ayn
+1527567464297	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527567464419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58737
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527567473290	Marionette	INFO	Listening on port 58737
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Parent 20028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_c[Parent 20028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiumh/src/chrome/common/ipc_channel_win.cc, line 346
+annel_win.cc, line 346
+[Child 15552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 20028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527729783543	geckodriver	INFO	Listening on 127.0.0.1:53039
+1527729786741	mozprofile::profile	INFO	Using profile path C:\Users\Yiyuan.Qin\AppData\Local\Temp\rust_mozprofile.MgxZQ8vgUGfn
+1527729786780	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1527729786977	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53047
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Yiyuan.Qin\AppData\Local\openvr\openvrpaths.vrpath
+1527729796490	Marionette	INFO	Listening on port 53047
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+JavaScript error: https://dnr.wi.gov/scripts/globalSiteAll_v1.8.4-f20.js, line 205: TypeError: viewport is null
+[Child 7048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu[ild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346P
+arent 19112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21096, Chrome_ChildThread[Parent 19112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

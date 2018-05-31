@@ -1,0 +1,746 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Morris,Waushara,246500,NE,70,,703038,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189757,07/21/1986,8.5,NO,2.6,,,46,,,,,,BROWN,
+8189757,07/28/1986,7.75,NO,2.4,,,48,,,,,,BROWN,
+8189757,08/04/1986,8.75,NO,2.7,,,46,,,,,CLEAR,,
+8189757,08/11/1986,8,NO,2.4,,,47,,,,,CLEAR,,
+8189757,08/18/1986,11.5,NO,3.5,,,42,,,,,CLEAR,,
+8189757,08/25/1986,12.75,NO,3.9,,,40,,,,,CLEAR,,
+8189757,09/07/1986,12,NO,3.6,,,41,,,,,CLEAR,,
+8189757,09/24/1986,5.5,NO,1.7,,,53,,,,,,BROWN,
+8189757,10/01/1986,7,NO,2.1,,,49,,,,,,BROWN,
+8189757,10/09/1986,6.75,NO,2.1,,,50,,,,,,BROWN,
+8189757,05/15/1987,10.75,NO,3.3,,,43,,,,,,GREEN,
+8189757,05/25/1987,9.75,NO,3,,,44,,,,,,,
+8189757,05/31/1987,11.5,NO,3.5,,,42,,,,,,BROWN,
+8189757,06/05/1987,13,NO,4,,,40,,,,,,GREEN,
+8189757,06/14/1987,12.25,NO,3.7,,,41,,,,,CLEAR,,
+8189757,06/30/1987,10.5,NO,3.2,,,43,,,,,,BROWN,
+8189757,09/27/1987,12,NO,3.6,,,41,,,,,,GREEN,
+8189757,06/10/1988,11,NO,3.3,,,43,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,06/16/1988,8.5,NO,2.6,,,46,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,06/23/1988,12.25,NO,3.7,,,41,,,,,CLEAR,,
+8189757,06/30/1988,13.5,NO,4.1,,,40,,,GAUGE,5.3,,GREEN,2-Very minor aesthetic problems
+8189757,07/06/1988,8.75,NO,2.7,,,46,,,GAUGE,5.28,,GREEN,2-Very minor aesthetic problems
+8189757,07/13/1988,9.75,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,07/21/1988,8.75,NO,2.7,,,46,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,07/27/1988,9,NO,2.7,,,45,,,,,,GREEN,
+8189757,08/05/1988,12,NO,3.6,,,41,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/12/1988,10.75,NO,3.3,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,08/20/1988,8.5,NO,2.6,,,46,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/28/1988,6,NO,1.8,,,51,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,09/02/1988,8,NO,2.4,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,09/09/1988,7,NO,2.1,,,49,,,,,,BROWN,
+8189757,09/15/1988,9,NO,2.7,,,45,,,GAUGE,2,,GREEN,2-Very minor aesthetic problems
+8189757,09/23/1988,10,NO,3,,,44,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,09/30/1988,13.5,NO,4.1,,,40,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,10/08/1988,17,NO,5.2,,,36,,,,,,BROWN,2-Very minor aesthetic problems
+8190205,06/10/1989,5.25,NO,1.6,,,53,,,,,,,2-Very minor aesthetic problems
+8190205,06/22/1989,5.25,NO,1.6,,,53,,,,,,,2-Very minor aesthetic problems
+8190205,07/14/1989,8.75,NO,2.7,,,46,,,,,,,2-Very minor aesthetic problems
+8189757,07/29/1989,8,NO,2.4,,,47,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,08/03/1989,10.5,NO,3.2,,,43,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,08/10/1989,11.25,NO,3.4,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,08/17/1989,12.5,NO,3.8,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,08/25/1989,11,NO,3.3,,,43,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,08/31/1989,11,NO,3.3,,,43,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,09/08/1989,10,NO,3,,,44,,,,,CLEAR,,
+8189757,09/16/1989,10.5,NO,3.2,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,09/27/1989,12,NO,3.6,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8189757,05/29/1991,8,NO,2.4,,,47,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,06/06/1991,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,06/11/1991,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,06/18/1991,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,06/25/1991,11.5,NO,3.5,,,42,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,07/03/1991,8.5,NO,2.6,,,46,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,07/10/1991,11.25,NO,3.4,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,07/16/1991,12.25,NO,3.7,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/25/1991,11,NO,3.3,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,08/09/1991,12.25,NO,3.7,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/15/1991,10,NO,3,,,44,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/24/1991,11.75,NO,3.6,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/30/1992,10.5,NO,3.2,,,43,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,07/06/1992,9.5,NO,2.9,,,45,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,07/16/1992,12,NO,3.6,,,41,,,,,,BROWN,1-Beautiful, could not be nicer
+8189757,07/24/1992,14.25,NO,4.3,,,39,,,,,,BROWN,1-Beautiful, could not be nicer
+8189757,07/29/1992,13,NO,4,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/04/1992,8,NO,2.4,,,47,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/13/1992,8.25,NO,2.5,,,47,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/20/1992,10.25,NO,3.1,,,44,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/28/1992,13,NO,4,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,09/04/1992,13,NO,4,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,09/30/1992,12.5,NO,3.8,,,41,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,06/11/1993,3.5,NO,1.1,,,59,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,06/23/1993,4,NO,1.2,,,57,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,07/02/1993,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,07/09/1993,3.25,NO,1,,,60,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189757,07/14/1993,3.75,NO,1.1,,,58,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189757,07/22/1993,5.25,NO,1.6,,,53,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,07/30/1993,5.5,NO,1.7,,,53,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/10/1993,6.5,NO,2,,,50,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/20/1993,7,NO,2.1,,,49,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/28/1993,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,09/07/1993,9.5,NO,2.9,,,45,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,09/19/1993,10.25,NO,3.1,,,44,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,10/05/1993,13.75,NO,4.2,,,39,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,05/18/1994,11,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,05/27/1994,11.5,NO,3.5,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,06/02/1994,9.25,NO,2.8,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/09/1994,12,NO,3.6,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/18/1994,11.25,NO,3.4,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/26/1994,13,NO,4,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/06/1994,12.5,NO,3.8,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/15/1994,11,NO,3.3,,,43,,,,,,BROWN,1-Beautiful, could not be nicer
+8189757,07/30/1994,7.5,NO,2.3,,,48,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/06/1994,9.5,NO,2.9,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/13/1994,13.5,NO,4.1,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/22/1994,14.25,NO,4.3,,,39,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/31/1994,13,NO,4,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,09/09/1994,14,NO,4.3,,,39,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/02/1995,5,NO,1.5,,,54,,,,,,BROWN,1-Beautiful, could not be nicer
+8189757,06/09/1995,7.75,NO,2.4,,,48,,,,,,BROWN,1-Beautiful, could not be nicer
+8189757,06/16/1995,9,NO,2.7,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/24/1995,9.5,NO,2.9,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/02/1995,11.5,NO,3.5,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/09/1995,11.25,NO,3.4,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/14/1995,11.5,NO,3.5,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/21/1995,12,NO,3.6,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/28/1995,9.25,NO,2.8,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/04/1995,10.25,NO,3.1,,,44,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/11/1995,9.5,NO,2.9,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,08/21/1995,4.25,NO,1.3,,,56,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189757,06/27/1996,8,NO,2.4,,,47,,,,,,BROWN,2-Very minor aesthetic problems
+8189757,07/06/1996,7.5,NO,2.3,,,48,,,,,,BROWN,1-Beautiful, could not be nicer
+8189757,07/11/1996,9,NO,2.7,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,07/29/1996,8.75,NO,2.7,,,46,,,,,CLEAR,,2-Very minor aesthetic problems
+8189757,08/10/1996,11,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/20/1996,9,NO,2.7,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,08/28/1996,10.5,NO,3.2,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8189757,09/04/1996,9.5,NO,2.9,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8189757,06/04/1997,13.25,NO,4,,,40,,,NO CHANGE,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/13/1997,10.25,NO,3.1,,,44,,,NO CHANGE,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/23/1997,5.25,NO,1.6,,,53,,,GAUGE,532,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,06/30/1997,6.25,NO,1.9,,,51,,,GAUGE,528,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,07/11/1997,9.5,NO,2.9,,,45,,,GAUGE,517,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/18/1997,4.25,NO,1.3,,,56,,,GAUGE,5.42,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,07/29/1997,5,NO,1.5,,,54,,,GAUGE,5.09,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,08/14/1997,10,NO,3,,,44,,,GAUGE,4.96,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/28/1997,10.5,NO,3.2,,,43,,,GAUGE,5.1,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/08/1998,13.25,NO,4,,,40,,,GAUGE,5.24,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/16/1998,12.25,NO,3.7,,,41,,,GAUGE,5.17,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189757,06/25/1998,8.5,NO,2.6,,,46,,,GAUGE,5.19,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/02/1998,10.75,NO,3.3,,,43,,,GAUGE,5.15,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189757,07/09/1998,12.5,NO,3.8,,,41,,,GAUGE,5.19,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189757,07/17/1998,12.5,NO,3.8,,,41,,,GAUGE,5.18,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/24/1998,10.5,NO,3.2,,,43,,,GAUGE,5.13,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/01/1998,14,NO,4.3,,,39,,,GAUGE,5.16,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/10/1998,10.5,NO,3.2,,,43,,,GAUGE,5.13,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/18/1998,10,NO,3,,,44,,,GAUGE,5.21,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/25/1998,11.25,NO,3.4,,,42,,,GAUGE,5.23,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/10/1999,8,NO,2.4,,,47,,,GAUGE,5.18,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/22/1999,11,NO,3.3,,,43,,,GAUGE,5.17,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/02/1999,10.75,NO,3.3,,,43,,,GAUGE,5.24,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/13/1999,7.75,NO,2.4,,,48,,,GAUGE,5.14,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189757,07/20/1999,4.25,NO,1.3,,,56,,,GAUGE,5.65,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,07/27/1999,4.5,NO,1.4,,,55,,,GAUGE,5.23,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,08/03/1999,4.75,NO,1.4,,,55,,,GAUGE,5.17,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,08/18/1999,7,NO,2.1,,,49,,,GAUGE,5.8,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/26/1999,6,NO,1.8,,,51,,,GAUGE,5.24,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,09/02/1999,8,NO,2.4,,,47,,,GAUGE,5.19,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,06/06/2000,4.5,NO,1.4,,,55,,,GAUGE,5.25,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,06/17/2000,6.25,NO,1.9,,,51,,,GAUGE,5.27,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,06/28/2000,8.5,NO,2.6,,,46,,,GAUGE,5.12,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/05/2000,10.5,NO,3.2,,,43,,,GAUGE,5.23,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/13/2000,12.5,NO,3.8,,,41,,,GAUGE,5.19,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,07/29/2000,11.5,NO,3.5,,,42,,,GAUGE,5.2,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/11/2000,11.75,NO,3.6,,,42,,,GAUGE,5.06,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/16/2000,9.75,NO,3,,,44,,,GAUGE,5.17,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/31/2000,10.5,NO,3.2,,,43,,,GAUGE,5.22,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,09/16/2000,11,NO,3.3,,,43,,,GAUGE,5.16,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,10/17/2000,17.5,NO,5.3,,,36,,,GAUGE,5.13,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189757,06/11/2001,7.5,NO,2.3,,,48,,,GAUGE,5.29,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,06/29/2001,7.5,NO,2.3,,,48,,,GAUGE,5.26,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189757,07/09/2001,7.75,NO,2.4,,,48,,,GAUGE,5.28,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189757,07/16/2001,10.75,NO,3.3,,,43,,,GAUGE,5.28,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/04/2001,10.5,NO,3.2,,,43,,,GAUGE,5.29,CLEAR,BROWN,2-Very minor aesthetic problems
+8189757,08/11/2001,8.5,NO,2.6,,,46,,,GAUGE,5.27,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189757,08/17/2001,10.5,NO,3.2,,,43,,,GAUGE,5.33,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189757,10/20/2001,16,NO,4.9,,,37,,,GAUGE,5.16,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189757,06/10/2002,6.25,NO,1.9,,,51,,,GAUGE,5.24,CLEAR,BROWN,2-Very minor aesthetic problems
+8189185,08/04/2002,10.5,NO,3.2,,,43,,,GAUGE,5.29,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188823,08/11/2002,10.25,NO,3.1,,,44,,,GAUGE,5.21,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188823,08/25/2002,9.25,NO,2.8,,,45,,,GAUGE,5.28,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188823,09/08/2002,9.75,NO,3,,,44,,,GAUGE,5.28,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188823,09/22/2002,9.5,NO,2.9,,,45,,,GAUGE,5.19,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188823,10/05/2002,10.5,NO,3.2,,,43,,,GAUGE,5.29,CLEAR,GREEN,2-Very minor aesthetic problems
+1,04/12/2004,7.6,NO,2.3,4.78,16,36,50,47,,,,,
+8188618,07/14/2004,6.7,NO,2,3.63,30,50,54,45,,,,,
+8188618,11/23/2004,14.8,NO,4.5,2.73,9,38,45,42,,,,,
+1,03/17/2005,10.2,NO,3.1,,12,44,47,,,,,,
+16073539,05/22/2006,9.3,NO,2.8,,,45,,,,,,,
+10589000,05/23/2006,8,NO,2.4,,22,35,52,,,,,,
+1,05/30/2006,10,NO,3,,23,37,52,,,,,,
+10589000,06/13/2006,,,,,19,,51,,,,,,
+10589000,06/26/2006,,,,,18,,51,,,,,,
+10589000,07/18/2006,,,,,20,,51,,,,,,
+1,07/27/2006,11.4,NO,3.5,,,36,,,,,,,
+10589000,08/21/2006,,,,,21,,52,,,,,,
+19015637,05/14/2007,9,NO,2.7,,20,45,51,,,,,,
+19015637,05/29/2007,9,NO,2.7,,22,45,52,,,,,,
+19015637,06/12/2007,10,NO,3,,14,44,49,,,,,,
+19015637,06/26/2007,9,NO,2.7,,17,45,50,,,,,,
+19015637,07/11/2007,8,NO,2.4,,23,30,52,,,,,,
+19015637,07/23/2007,8,NO,2.4,,20,47,51,,,,,,
+19015637,08/07/2007,9,NO,2.7,,19,45,51,,,,,,
+19015637,08/28/2007,7,NO,2.1,,25,49,53,,,,,,
+19015637,05/13/2008,8,NO,2.4,,23,47,52,,,,,,
+19015637,05/28/2008,8,NO,2.4,,22,47,52,,,,,,
+19015637,06/10/2008,5,NO,1.5,,61,54,60,,,,,,
+19015637,06/24/2008,8,NO,2.4,,22,47,52,,,,,,
+19015637,07/09/2008,8,NO,2.4,,20,47,51,,,,,,
+21928796,06/02/2009,10.1,NO,3.1,,19,44,51,,,,,,
+21928796,04/08/2010,5,NO,1.5,9.43,23,54,52,52,,,,,
+34972236,07/14/2010,4.3,NO,1.3,5.2,32,56,55,47,,,,,
+34972236,11/03/2010,,,,2.81,16,,50,43,,,,,
+34972236,03/08/2011,9.2,NO,2.8,,12,45,47,,,,,,
+48016018,06/13/2012,9,NO,2.7,,,45,,,NORMAL,5.4,CLEAR,GREEN,1-Beautiful, could not be nicer
+48016018,06/21/2012,10.5,NO,3.2,,,43,,,NORMAL,5.35,CLEAR,GREEN,1-Beautiful, could not be nicer
+48016018,06/28/2012,11.5,NO,3.5,,,42,,,NORMAL,5.4,CLEAR,GREEN,1-Beautiful, could not be nicer
+48016018,07/04/2012,13.75,NO,4.2,,,39,,,NORMAL,5.37,CLEAR,GREEN,1-Beautiful, could not be nicer
+48016018,07/12/2012,18,NO,5.5,,,35,,,NORMAL,5.38,CLEAR,GREEN,1-Beautiful, could not be nicer
+48016018,07/20/2012,12,NO,3.6,,,41,,,NORMAL,5.38,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,07/28/2012,8.5,NO,2.6,,,46,,,NORMAL,5.4,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,08/03/2012,10,NO,3,,,44,,,NORMAL,5.4,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,08/13/2012,11.5,NO,3.5,,,42,,,NORMAL,5.4,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,08/20/2012,10,NO,3,,,44,,,NORMAL,5.41,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,08/27/2012,10,NO,3,,,44,,,NORMAL,5.42,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,09/06/2012,9.5,NO,2.9,,,45,,,NORMAL,5.43,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,09/25/2012,7.25,NO,2.2,,,49,,,NORMAL,5.4,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+48016018,06/03/2013,8,NO,2.4,,,47,,,NORMAL,5.34,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,06/13/2013,8,NO,2.4,,,47,,,NORMAL,5.42,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,06/20/2013,9,NO,2.7,,,45,,,NORMAL,5.4,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,07/11/2013,10,NO,3,,,44,,,NORMAL,5.38,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,07/24/2013,11.25,NO,3.4,,,42,,,NORMAL,5.4,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,08/08/2013,10.5, ,3.2,,,43,,,NORMAL,5.5,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,08/22/2013,12.5,NO,3.8,,,41,,,NORMAL,5.42,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,09/05/2013,13.5,NO,4.1,,,40,,,NORMAL,5.36,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,09/27/2013,12.25,NO,3.7,,,41,,,NORMAL,5.41,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,10/10/2013,15.5,NO,4.7,,,38,,,NORMAL,5.42,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,05/29/2014,7.25,NO,2.2,,,49,,,NORMAL,5.39,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,06/06/2014,5,NO,1.5,,,54,,,NORMAL,5.48,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,07/01/2014,10,NO,3,,,44,,,NORMAL,5.41,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,07/11/2014,9.5,NO,2.9,,,45,,,NORMAL,5.36,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,07/21/2014,11,NO,3.3,,,43,,,NORMAL,5.35,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,07/30/2014,13.5,NO,4.1,,,40,,,NORMAL,5.38,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,08/13/2014,11.5,NO,3.5,,,42,,,NORMAL,5.31,CLEAR,GREEN,1-Beautiful, could not be nicer
+48016018,08/25/2014,9.45,NO,2.9,,,45,,,NORMAL,5.45,MURKY,BROWN,2-Very minor aesthetic problems
+48016018,09/08/2014,9.5,NO,2.9,,,45,,,NORMAL,5.48,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,09/28/2014,14.5, ,4.4,,,39,,,NORMAL,5.39,CLEAR,GREEN,2-Very minor aesthetic problems
+48016018,06/07/2017,8.5,NO,2.6,,,46,,,NORMAL,5.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+48016018,06/27/2017,6,NO,1.8,,,51,,,NORMAL,5.4,MURKY,BROWN,
+48016018,07/17/2017,8,NO,2.4,,,47,,,NORMAL,5.4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+48016018,07/27/2017,8.5,NO,2.6,,,46,,,NORMAL,5.4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+48016018,08/09/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+48016018,08/17/2017,7.25,NO,2.2,,,49,,,NORMAL,5.6,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/12/2004,3,FEET,,,10.4,MG/L
+04/12/2004,16,FEET,,,1.9,MG/L
+04/12/2004,,,6.0,C,1.9,MG/L
+07/14/2004,3,FEET,,,8.4,MG/L
+07/14/2004,19,FEET,,,.2,MG/L
+07/14/2004,,,21.3,C,0.2,MG/L
+11/23/2004,3,FEET,,,10.1,MG/L
+11/23/2004,17,FEET,,,10,MG/L
+11/23/2004,,,5.3,C,10.0,MG/L
+03/17/2005,3,FEET,,,8.2,MG/L
+03/17/2005,18,FEET,,,0,MG/L
+03/17/2005,,,3.2,C,0.0,MG/L
+05/22/2006,,,8.0,C,,
+05/23/2006,,,15.0,C,,
+05/30/2006,,,19.0,C,,
+07/27/2006,,,10.8,C,,
+05/14/2007,,,16.3,C,,
+05/29/2007,,,16,C,,
+06/12/2007,,,18.4,C,,
+06/26/2007,,,11.8,C,,
+07/11/2007,,,14.7,C,,
+07/23/2007,,,19.5,C,,
+08/07/2007,,,15.8,C,,
+08/28/2007,,,13.8,C,,
+05/13/2008,,,14.6,C,,
+05/28/2008,,,15,C,,
+06/10/2008,,,17.6,C,,
+06/24/2008,,,16.0,C,,
+07/09/2008,,,18.8,C,,
+06/02/2009,,,19.9,C,0.37,MG/L
+04/08/2010,,,6.1,C,0.3,MG/L
+07/14/2010,,,12.0,C,0.0,MG/L
+11/03/2010,,,5.9,C,8.9,MG/L
+03/08/2011,,,2.8,C,0.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/28/1986,Partly cloudy; breezy.    
+08/04/1986,Clear; slight breeze.    
+08/11/1986,Partly cloudy; breezy.    
+08/18/1986,Mostly sunny; slight breeze.    
+08/25/1986,Mostly sunny; slight breeze.    
+09/07/1986,Sunny and breezy.    
+09/24/1986,Mostly sunny with a slight breeze.    
+10/01/1986,Sunny.    
+10/09/1986,This is the last reading for 1986.    
+05/15/1987,Sunny; wind southerly 4-10 mph.    
+05/25/1987,Cloudy.    
+05/31/1987,Partly cloudy and wind at 0-5 mph.    
+06/05/1987,Clear and calm.    
+06/14/1987,Clear and wind is 5 mph.    
+06/30/1987,Partly cloudy and near calm.    
+09/27/1987,Clear; wind 5 mph.    
+06/10/1988,Clear- 0-5 mph winds.    
+06/16/1988,Clear- 0-5 mph wind.    
+06/23/1988,Partly cloudy- 0-5 mph wind.    
+06/30/1988,Clear- wind 5-10 mph.    
+07/06/1988,Partly cloudy- 5-10 mph.    
+07/13/1988,Clear- wind 10-15 mph.    
+07/21/1988,Partly cloudy- wind 5-10 miles per hour.    
+07/27/1988,Sunny- wind 0-5 mph.    
+08/05/1988,Partly cloudy- wind 5-15 mph.    
+08/12/1988,Partly cloudy.    
+08/20/1988,Partly cloudy- calm.    
+08/28/1988,Partly cloudy- 10-15 mph wind- lot of boat traffic.    
+09/02/1988,Partly cloudy- wind 0-5 mph.    
+09/09/1988,Clear- wind 5-10 mph.    
+09/15/1988,Partly cloudy- wind 5-10 mph.    
+09/23/1988,Clear- 5-15 mph- 6.3" of rain in September (2.47" on 9/22).    
+09/30/1988,Hazy sunshine- wind 0-5 mph.    
+10/08/1988,Partly cloudy- wind 0-5 mph.- last reading.    
+07/29/1989,Thin overcast- hazy sun- E wind 0-5 mph.    
+08/03/1989,Sunny- high thin clouds- wind 0-5 mph.    
+08/10/1989,Mostly sunny- E wind 5 mph.    
+08/17/1989,Sunny- E wind 0-5 mph- weed harvesting in channels.    
+08/25/1989,Partly sunny- E wind 0-5 mph.    
+08/31/1989,Partly cloudy- S wind 5-10 mph.    
+09/08/1989,Mostly cloudy- weed harvesting.    
+09/16/1989,Sunny- no clouds- near calm.    
+09/27/1989,S wind 5-10 mph- sky clear- last report.    
+05/29/1991,Sunny- wind SE at 5-8 mph- pine pollen.    
+06/06/1991,Clear- calm- weed harvesting the last week.    
+06/11/1991,Clear- breezy- no weed harvesting.    
+06/18/1991,Sunny- breezy- weed harvesting.    
+06/25/1991,Sunny- light breeze.    
+07/03/1991,Cloudy- S wind at 5-10 mph- weed harvester not working.    
+07/10/1991,Clear- calm.    
+07/16/1991,Clear- S wind.    
+07/25/1991,Partly cloudy- northeast wind at 0-5 mph.    
+08/09/1991,Same as Site A.    
+08/15/1991,Clear- W wind at 5-10 mph.    
+08/24/1991,Same as Site A.    
+06/30/1992,Clear skies.    
+07/06/1992,Mostly sunny.    
+07/16/1992,Partly sunny- about 3.7" of rain on the 11th and 12th.    
+07/24/1992,Clear- wind easterly at 5 mph.    
+08/04/1992,Clear sky- wind NW  less than  5 mph.    
+08/13/1992,Partly cloudy to mostly cloudy- wind SE  less than 5 mph.  About .95" of rain on 8-12.    
+08/20/1992,Partly cloudy- wind SW about 5 mph.    
+08/28/1992,Partly sunny- wind w-northwest about 5 mph.    
+09/04/1992,Mostly cloudy- wind southerly 0-5 mph.  Lake level about 3" below high water marker at dam.    
+06/11/1993,Same comments as Site A.    
+05/18/1994,Clear- wind NE  less than 5 mph.    
+05/27/1994,Clear- wind NW  less than 5 mph.    
+06/02/1994,Clear- wind NE  greater than 5 mph.    
+06/09/1994,Partly sunny.  Wind SW  less than 5 mph.    
+06/18/1994,Clear- wind about 5 mph from the west.    
+06/26/1994,Mostly cloudy- wind E 0-5 mph.    
+07/06/1994,Partly cloudy- calm.    
+07/15/1994,Partly cloudy- calm.    
+07/30/1994,Thin- hazy cloud cover.  Near calm.    
+08/06/1994,Partly cloudy- wind W 0-5 mph.  1.50" of rain on 3 August.    
+08/13/1994,Partly cloudy- wind W about 5 mph.    
+08/22/1994,Clear- hazy sunlight.  Calm.    
+08/31/1994,Mostly cloudy- wind NW  greater than 5 mph.    
+09/09/1994,Partly cloudy- calm.  Last report for 1994.    
+06/02/1995,Partly cloudy- wind E 0-5 mph.    
+06/09/1995,Mostly cloudy- wind E 0-5 mph.  Our dam repair project is scheduled to start about 1 August.    
+06/16/1995,Sunny- wind SW 0-5 mph.    
+06/24/1995,Clear sky- calm.    
+07/02/1995,Sunny- wind SW 0-5 mph.    
+07/09/1995,Clear- hazy sunshine- wind n-northwest 5+ mph.    
+07/14/1995,Clear skies- wind SW at 5 mph.  Hot. dam repair starts on or about 14 August 1995.    
+07/21/1995,Partly cloudy- wind s-se 0-5 mph.    
+07/28/1995,Mostly cloudy- wind W 5-10 mph.    
+08/04/1995,Partly cloudy- wind SE 0-5 mph.  Lake will be lowered 1' in a week or so for dam repair.    
+08/11/1995,Partly cloudy- wind SW 0-5 mph.    
+08/21/1995,Public perception also due to low water levels and lots of rain.  Clear- wind NW 5-10 mph.  Dam repair started 8/14.  Water level at low water mark.  About 9.7" of rain since 8/1 about 6.2" since 8/ ( ) .    
+06/27/1996,Clear sky- wind 0-3 mph from west.    
+07/06/1996,Mostly cloudy- near calm.    
+07/11/1996,Partly cloudy- wind SW 3-5 mph.    
+07/29/1996,Mostly cloudy- calm.    
+08/10/1996,Partly cloudy- wind east 0-5 mph.    
+08/20/1996,Clear- wind west about 5 mph.    
+08/28/1996,Clear sky- no wind.    
+09/04/1996,Clear sky- little or no wind. humid + hazy.    
+06/13/1997,Partly cloudy- wind variable 0-5 mph.    
+06/23/1997,Sunny- wind south less 5 mph- 2 " rain on 6/19- 1.75" on 6/21.    
+06/30/1997,Partly cloudy- gentle east breeze- .50" of rain in the morning.    
+07/18/1997,Sunny and calm- 3.6 inches of rain on July 16th.    
+06/08/1998,Clear calm.    
+06/16/1998,Partly cloudy variable breezes.  2.8" rain on 6/11/98.    
+06/25/1998,Partly cloudy hazy.  1.1" rain on 6/24-25/98.    
+07/02/1998,Clear calm.    
+07/09/1998,Partly cloudy calm.    
+07/17/1998,Partly cloudy westerly breezes.    
+07/24/1998,Clear W wind 5-10 mph.    
+08/01/1998,Sunny near calm.    
+08/10/1998,Clear W breeze.  4.2" rain from 8/4-6/98.    
+08/18/1998,Partly cloudy NE wind 5 mph.  1.35" rain on 8/17/98.    
+08/25/1998,Clear NW wind 5 mph.  0.8" rain on 8/22/98.    
+06/10/1999,Sunny and easterly wind less than five mph.    
+06/22/1999,Hazy sun and south wind less than five mph.    
+07/02/1999,Overcast and calm.    
+07/13/1999,Water temp 77 F.  Partly cloudy- southerly breeze- and 1.8" of rain on 7/8.    
+07/20/1999,Overcast- hazy sun- near calm- and 3.4" of rain on 7/18.    
+08/03/1999,Partly cloudy- W breezes.    
+08/18/1999,Overcast- hazy sun- SE breeze.    
+08/26/1999,Sunny- calm.    
+09/02/1999,Hazy sun- calm.    
+06/06/2000,Clear sky- breezy.    
+06/17/2000,Mostly sunny- wind NW 5-10 mph.    
+06/28/2000,See observations for site D.    
+07/05/2000,Partly cloudy- wind easterly 5 mph.    
+07/13/2000,Sunny- westerly breezes.    
+07/29/2000,Overcast- NE breeze.    
+08/11/2000,Clear- sunny- calm.    
+08/16/2000,Sunny- calm.    
+08/31/2000,Warm- humid- hazy sunshine- SW breeze.    
+09/16/2000,Clear- sunny- SW breeze.    
+10/17/2000,Overcast- calm.    
+06/11/2001,Clear and calm.    
+06/29/2001,Mostly clear- westerly breezes.    
+07/09/2001,Clear and calm.    
+07/16/2001,Sunny- near calm.    
+08/04/2001,Clear- calm.    
+08/11/2001,Partly cloudy- near calm.    
+08/17/2001,Clear- few scattered clouds- wind westerly +/- 5 mph.    
+10/20/2001,Partly sunny- near calm.    
+06/10/2002,Cloudy- near calm. Ice out on this site on 1 Apr 2002    
+08/04/2002,Mostly cloudy- westerly breeze.
+
+    
+08/11/2002,Clear sky- west breeze
+
+    
+08/25/2002,partly cloudy- east breeze
+
+    
+09/08/2002,Clear- east breeze
+
+    
+09/22/2002,Clear- west wind.  Adult osprey fishing.
+
+    
+10/05/2002,Clear- slight west wind.
+
+    
+04/12/2004,DEEP SPOT - NEAR BOTTOM    
+07/14/2004,DEEP SPOT - NEAR BOTTOM    
+11/23/2004,DEEP SPOT - NEAR BOTTOM    
+03/17/2005,DEEP SPOT - NEAR BOTTOM SAMPLE    
+05/22/2006,NEAR BOTTOM    
+05/23/2006,NEAR SURFACE    
+06/13/2006,NEAR SURFACE    
+06/26/2006,NEAR SURFACE    
+07/18/2006,NEAR SURFACE    
+08/21/2006,NEAR SURFACE    
+06/21/2012,Helper - Judy Foster
+06/28/2012,Helper - Judy Foster
+07/04/2012,Judy Foster - Helper. Extremely hot. No measureable rainfall since 06/20/2012
+07/12/2012,Helper - Judy Foster - Hot + dry - No measureable rain since 6/20/2012
+07/20/2012,Judy Foster - Helper - Some drought relief - About .6" rain since 7/14.
+07/28/2012,Helper - Judy Foster
+08/03/2012,Judy Foster - Helper       Julia + Trevor Foster (Grandchildren) - Helpers
+08/13/2012,Judy Foster - Helper
+08/20/2012,Judy Foster - Helper
+08/27/2012,Judy Foster - Helper
+09/06/2012,Judy Foster - Helper
+09/25/2012,Judy Foster - Helper.......This will be our last reading for 2012
+06/03/2013,Assisted by Judy Foster
+06/13/2013,Assisted by Judy Foster
+06/20/2013,Assisted by Judy Foster
+07/11/2013,Assisted by Judy Foster
+07/24/2013,Assisted by Judy Foster - Partly cloudy- but bright.
+08/08/2013,Assisted by Judy Foster Beautiful- cool sunny day
+08/22/2013,Assisted by Judy Foster
+09/05/2013,Assisted by Judy Foster
+09/27/2013,Beautiful- sunny fall day. Slight southerly breeze. Assister by Judy Foster
+10/10/2013,Assited by Judy Foster. Another beautiful fall day! The water is calm. We saw a bald eagle soaring over the lake. This is the final reading for this season. See you in the spring!
+05/29/2014,Assisted by Judy Foster. Beaver activity in channel between Lakes B + C. Water very brackish.
+06/06/2014,Assisted by Judy Foster. Lake still very brackish. Heavy rain on 6/1/2014 2.6"
+07/01/2014,Assisted by Judy Foster. Water is starting to clear- but still very brackish. Water appears to have a lot of suspended particulate in it. Last week the presence of Zebra Mussels was confirmed in Lake Morris by the DNR.
+07/11/2014,Assisted by Judy Foster. Water in Lakes C+D still brackish.
+07/21/2014,Assisted by Judy Foster.
+07/30/2014,Assisted by Judy Foster. Zebra Mussel monitoring plates installed July 26- 2014 on my pier by Golden Sands R+D
+08/25/2014,Assisted by Judy Foster
+09/08/2014,Assisted by Judy Foster
+09/28/2014,Assisted by Judy Foster
+06/07/2017,Assisted by Judy Foster
+06/27/2017,Assisted by Judy Foster - Water very brown due to heavy June rains.
+07/27/2017,Assisted by Judy Foster
+08/09/2017,Assisted by Judy Foster
+
+
+
+
+Start Date,Group Name,Project Name
+07/21/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/28/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/04/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/11/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/18/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/25/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/07/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/24/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/01/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/09/1986,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/15/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/25/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/31/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/05/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/14/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/30/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/27/1987,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/10/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/16/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/23/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/30/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/06/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/13/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/21/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/27/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/05/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/12/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/20/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/28/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/02/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/09/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/15/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/23/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/30/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/08/1988,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/10/1989,Bob Greathouse,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/22/1989,Bob Greathouse,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/14/1989,Bob Greathouse,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/29/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/03/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/10/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/17/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/25/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/31/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/08/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/16/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/27/1989,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/29/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/06/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/11/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/18/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/25/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/03/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/10/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/16/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/25/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/09/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/15/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/24/1991,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/30/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/06/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/16/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/24/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/29/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/04/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/13/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/20/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/28/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/04/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/30/1992,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/11/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/23/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/02/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/09/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/14/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/22/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/30/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/10/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/20/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/28/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/07/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/19/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/05/1993,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/18/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/27/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/02/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/09/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/18/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/26/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/06/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/15/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/30/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/06/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/13/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/22/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/31/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/09/1994,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/02/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/09/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/16/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/24/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/02/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/09/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/14/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/21/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/28/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/04/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/11/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/21/1995,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/27/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/06/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/11/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/29/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/10/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/20/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/28/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/04/1996,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/04/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/13/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/23/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/30/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/11/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/18/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/29/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/14/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/28/1997,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/08/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/16/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/25/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/02/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/09/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/17/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/24/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/01/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/10/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/18/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/25/1998,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/10/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/22/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/02/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/13/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/20/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/27/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/03/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/18/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/26/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/02/1999,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/06/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/17/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/28/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/05/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/13/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/29/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/11/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/16/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/31/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/16/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/17/2000,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/11/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/29/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/09/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/16/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/04/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/11/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/17/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/20/2001,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/10/2002,Nils And Lois Dahlstrand,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/04/2002,Nils Dahlstrand And Clayton Pietsch,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/11/2002,Clayton Pietsch,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/25/2002,Clayton Pietsch,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/08/2002,Clayton Pietsch,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/22/2002,Clayton Pietsch,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/05/2002,Clayton Pietsch,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+04/12/2004,Data Collectors,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lake Comprehensive Lake Management Plan Phase 2
+07/14/2004,Nedland,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lake Comprehensive Lake Management Plan Phase 2
+11/23/2004,Nedland,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lake Comprehensive Lake Management Plan Phase 2
+03/17/2005,Data Collectors,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lake Comprehensive Lake Management Plan Phase 2
+05/22/2006,Tim Hoyman - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+05/23/2006,RICHARD SACHS,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+05/30/2006,Data Collectors,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/13/2006,RICHARD SACHS,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/26/2006,RICHARD SACHS,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+07/18/2006,RICHARD SACHS,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+07/27/2006,Data Collectors,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+08/21/2006,RICHARD SACHS,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+05/14/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+05/29/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/12/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/26/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+07/11/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+07/23/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+08/07/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+08/28/2007,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+05/13/2008,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+05/28/2008,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/10/2008,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/24/2008,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+07/09/2008,Bob and Betty Mueller,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+06/02/2009,Brenton Butterfield - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lk AIS Control + Prevention Project
+04/08/2010,Brenton Butterfield - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lakes Management Plan Update Ph 1
+07/14/2010,Todd Hanke - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lakes Management Plan Update Ph 1
+11/03/2010,Todd Hanke - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lakes Management Plan Update Ph 1
+03/08/2011,Todd Hanke - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lakes Management Plan Update Ph 1
+06/13/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/21/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/28/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/04/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/12/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/20/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/28/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/03/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/13/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/20/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/27/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/06/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/25/2012,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/03/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/13/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/20/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/11/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/24/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/08/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/22/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/05/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/27/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+10/10/2013,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+05/29/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/06/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/01/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/11/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/21/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/30/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/13/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/25/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/08/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+09/28/2014,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/07/2017,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+06/27/2017,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/17/2017,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+07/27/2017,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/09/2017,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C
+08/17/2017,Greg Foster,Citizen Lake Monitoring - Water Quality - Mt Morris Lake - Lake C

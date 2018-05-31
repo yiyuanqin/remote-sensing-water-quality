@@ -1,0 +1,58 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Dunn Lake,Washburn,2709800,NO,66,,663132,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000082,04/25/2000,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,05/25/2000,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,06/07/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,06/16/2000,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,06/28/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,07/05/2000,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,08/17/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,09/12/2000,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+7000082,06/30/2002,9.5,NO,2.9,,,45,,,,,,BROWN,
+7000082,07/31/2002,10,NO,3,,,44,,,,,,,
+7000082,06/15/2003,10,NO,3,,,44,,,,,,,
+7000082,06/20/2003,10,NO,3,,,44,,,,,,,
+7000082,07/15/2003,10,NO,3,,,44,,,,,,,
+7000082,07/25/2003,10,NO,3,,,44,,,,,,,
+7000082,08/15/2003,9,NO,2.7,,,45,,,,,,,
+7000082,08/25/2003,9,NO,2.7,,,45,,,,,,,
+7000082,07/25/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/30/2002,June average secchi depth 9.5 feet    
+07/31/2002,July average secchi depth 10 feet.    
+
+
+
+
+Start Date,Group Name,Project Name
+04/25/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+05/25/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+06/07/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+06/16/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+06/28/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+07/05/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+08/17/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+09/12/2000,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+06/30/2002,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+07/31/2002,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+06/15/2003,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+06/20/2003,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+07/15/2003,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+07/25/2003,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+08/15/2003,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+08/25/2003,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin
+07/25/2016,Kris Larsen,Citizen Lake Monitoring - Water Quality - Dunn Lake - Center Middle Basin

@@ -1,0 +1,472 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Delavan Lake,Walworth,793600,SE,65,,10031264,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+28460463,04/09/2010,10,YES,3,,,44,,,,,,,
+28460463,04/14/2010,9,YES,2.7,,,45,,,,,,,
+28460463,04/19/2010,13,YES,4,,,40,,,,,,,
+28460463,04/28/2010,12,YES,3.6,,,41,,,,,,,
+35019915,05/06/2010,13,YES,4,,,40,,,,,,,
+35019895,05/21/2010,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+35019895,05/24/2010,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+35019895,06/03/2010,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+35027411,06/15/2010,6,,1.8,,,51,,,HIGH,927.96,CLEAR,GREEN,
+35019895,06/28/2010,8,,2.4,,,47,,,HIGH,927.96,CLEAR,GREEN,
+35019895,07/14/2010,8,NO,2.4,,,47,,,LOW,927.88,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+35019895,07/26/2010,7,NO,2.1,,,49,,,HIGH,928.04,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+28460463,08/05/2010,8,NO,2.4,,,47,,,HIGH,927.95,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/19/2010,6,YES,1.8,,,51,,,LOW,927.88,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,08/23/2010,8,YES,2.4,,,47,,,NORMAL,927.91,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,08/30/2010,8,YES,2.4,,,47,,,LOW,927.87,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/10/2010,8,YES,2.4,,,47,,,LOW,927.80,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,09/20/2010,4,NO,1.2,,,57,,,LOW,927.88,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/29/2010,11,NO,3.3,,,43,,,LOW,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/07/2010,8,NO,2.4,,,47,,,LOW,927.84,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,10/14/2010,10,NO,3,,,44,,,LOW,927.84,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/25/2010,9,NO,2.7,,,45,,,HIGH,927.94,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,11/01/2010,8,NO,2.4,,,47,,,HIGH,927.95,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,11/08/2010,9,YES,2.7,,,45,,,HIGH,927.95,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,11/16/2010,6,NO,1.8,,,51,,,HIGH,928.0,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,03/31/2011,5,YES,1.5,,,54,,,NORMAL,927.91,MURKY,BROWN,2-Very minor aesthetic problems
+28460463,04/25/2011,3,NO,0.9,,,61,,,HIGH,927.98,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,05/04/2011,9,YES,2.7,,,45,,,HIGH,927.94,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/10/2011,9,YES,2.7,,,45,,,HIGH,927.96,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/20/2011,16,YES,4.9,,,37,,,NORMAL,927.92,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/24/2011,9,YES,2.7,,,45,,,HIGH,928.02,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/01/2011,9,YES,2.7,,,45,,,LOW,927.86,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,06/10/2011,8,NO,2.4,,,47,,,HIGH,928.02,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/14/2011,9,YES,2.7,,,45,,,NORMAL,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/20/2011,8,NO,2.4,,,47,,,NORMAL,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/29/2011,9,NO,2.7,,,45,,,NORMAL,927.92,CLEAR,GREEN,2-Very minor aesthetic problems
+35027413,07/05/2011,8,YES,2.4,,,47,,,NORMAL,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/12/2011,6,NO,1.8,,,51,,,LOW,927.88,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,07/18/2011,4,NO,1.2,,,57,,,LOW,927.82,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/20/2011,6,NO,1.8,,,51,,,LOW,927.82,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/26/2011,5,NO,1.5,,,54,,,NORMAL,927.92,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,08/01/2011,6,NO,1.8,,,51,,,NORMAL,927.92,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/10/2011,7,NO,2.1,,,49,,,HIGH,927.98,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/16/2011,8,NO,2.4,,,47,,,NORMAL,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,08/22/2011,8,NO,2.4,,,47,,,NORMAL,927.90,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/29/2011,9,YES,2.7,,,45,,,LOW,927.88,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/07/2011,4,NO,1.2,,,57,,,LOW,927.88,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/13/2011,6,NO,1.8,,,51,,,LOW,927.80,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,09/23/2011,7,NO,2.1,,,49,,,LOW,927.78,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,09/28/2011,5.5,NO,1.7,,,53,,,HIGH,928.02,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/05/2011,4,NO,1.2,,,57,,,NORMAL,927.92,MURKY,GREEN,4-Would not swim but boating OK (algae)
+28460463,10/11/2011,5.5,NO,1.7,,,53,,,NORMAL,927.92,MURKY,GREEN,4-Would not swim but boating OK (algae)
+28460463,10/21/2011,8,YES,2.4,,,47,,,NORMAL,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/24/2011,9,NO,2.7,,,45,,,NORMAL,927.91,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,03/14/2012,5,NO,1.5,,,54,,,HIGH,927.97,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,04/02/2012,16,NO,4.9,,,37,,,HIGH,927.96,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,04/24/2012,12,NO,3.6,,,41,,,NORMAL,927.90,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/01/2012,10,NO,3,,,44,,,LOW,927.85,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,05/08/2012,14,NO,4.3,,,39,,,HIGH,928.01,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,05/16/2012,12,NO,3.6,,,41,,,LOW,927.86,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,05/23/2012,9,NO,2.7,,,45,,,LOW,927.80,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,05/30/2012,10,NO,3,,,44,,,LOW,927.78,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/06/2012,15,NO,4.6,,,38,,,LOW,927.82,CLEAR,BLUE,1-Beautiful, could not be nicer
+28460463,06/11/2012,7,NO,2.1,,,49,,,LOW,927.76,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/21/2012,9,NO,2.7,,,45,,,LOW,927.70,CLEAR,BLUE,2-Very minor aesthetic problems
+28460463,06/28/2012,7,NO,2.1,,,49,,,LOW,927.58,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/03/2012,7,NO,2.1,,,49,,,LOW,927.52,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/10/2012,6,NO,1.8,,,51,,,LOW,927.46,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/16/2012,7,NO,2.1,,,49,,,LOW,927.32,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/26/2012,5.5,NO,1.7,,,53,,,LOW,927.42,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/31/2012,8,NO,2.4,,,47,,,LOW,927.38,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/09/2012,6,NO,1.8,,,51,,,LOW,927.26,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,08/13/2012,8,NO,2.4,,,47,,,LOW,927.22,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/22/2012,8,NO,2.4,,,47,,,LOW,927.20,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,08/29/2012,8,NO,2.4,,,47,,,LOW,927.18,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/04/2012,7,NO,2.1,,,49,,,LOW,927.10,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/12/2012,8,NO,2.4,,,47,,,LOW,927.08,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/21/2012,8,NO,2.4,,,47,,,LOW,927.01,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,09/26/2012,5,NO,1.5,,,54,,,LOW,927.03,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,10/02/2012,6,NO,1.8,,,51,,,LOW,926.99,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/21/2012,8,NO,2.4,,,47,,,LOW,927.16,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,11/05/2012,15,NO,4.6,,,38,,,LOW,927.14,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,04/29/2013,8,YES,2.4,,,47,,,HIGH,928.15,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,05/08/2013,14.5,YES,4.4,,,39,,,HIGH,928.05,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,05/15/2013,8.5,NO,2.6,,,46,,,HIGH,928.34,CLEAR,BLUE,2-Very minor aesthetic problems
+28460463,05/28/2013,8,YES,2.4,,,47,,,LOW,927.87,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/11/2013,8,NO,2.4,,,47,,,NORMAL,927.92,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,06/17/2013,6.5,NO,2,,,50,,,HIGH,927.95,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,06/20/2013,1.5,NO,0.5,,,71,,,NORMAL,927.91,MURKY,BROWN,2-Very minor aesthetic problems
+28460463,06/27/2013,2,NO,0.6,,,67,,,HIGH,929.21,MURKY,GREEN,4-Would not swim but boating OK (algae)
+28460463,07/02/2013,9,NO,2.7,,,45,,,HIGH,928.15,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,07/16/2013,5,NO,1.5,,,54,,,LOW,927.85,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/25/2013,5,NO,1.5,,,54,,,LOW,927.79,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/01/2013,5,NO,1.5,,,54,,,LOW,927.79,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/13/2013,5,NO,1.5,,,54,,,LOW,927.87,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/21/2013,4,NO,1.2,,,57,,,LOW,927.85,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/28/2013,4,NO,1.2,,,57,,,LOW,927.86,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,09/13/2013,7,NO,2.1,,,49,,,LOW,927.76,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,09/24/2013,5,NO,1.5,,,54,,,NORMAL,927.89,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,10/11/2013,5,NO,1.5,,,54,,,HIGH,927.93,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,11/05/2013,8,NO,2.4,,,47,,,LOW,927.68,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,11/21/2013,12,NO,3.6,,,41,,,LOW,927.74,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/12/2014,15,YES,4.6,,,38,,,LOW,927.86,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/22/2014,8,YES,2.4,,,47,,,LOW,927.87,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/16/2014,10,NO,3,,,44,,,LOW,927.78,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/25/2014,6,NO,1.8,,,51,,,NORMAL,927.90,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/18/2014,6,NO,1.8,,,51,,,NORMAL,927.92,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/01/2014,10,NO,3,,,44,,,LOW,927.78,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,08/06/2014,9,NO,2.7,,,45,,,NORMAL,927.87,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/13/2014,8.5,NO,2.6,,,46,,,LOW,927.76,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/18/2014,6,NO,1.8,,,51,,,LOW,927.72,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,09/02/2014,5,NO,1.5,,,54,,,NORMAL,927.87,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/18/2014,7,NO,2.1,,,49,,,LOW,927.85,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,09/23/2014,9,NO,2.7,,,45,,,LOW,927.81,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/01/2014,8,NO,2.4,,,47,,,LOW,927.79,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/23/2014,9,YES,2.7,,,45,,,LOW,927.82,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,04/06/2015,4.5,NO,1.4,,,55,,,LOW,927.76,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/06/2015,11,YES,3.3,,,43,,,NORMAL,927.86,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,06/02/2015,12,YES,3.6,,,41,,,NORMAL,927.87,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,06/23/2015,8,NO,2.4,,,47,,,HIGH,927.90,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,07/07/2015,8,NO,2.4,,,47,,,HIGH,927.89,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,07/21/2015,8,NO,2.4,,,47,,,LOW,927.82,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/06/2015,9,NO,2.7,,,45,,,LOW,927.71,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/26/2015,7,NO,2.1,,,49,,,LOW,927.79,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,10/04/2015,7.5,NO,2.3,,,48,,,LOW,927.84,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/20/2015,12,NO,3.6,,,41,,,LOW,927.62,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,11/04/2015,16,YES,4.9,,,37,,,HIGH,927.81,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,03/21/2016,14,NO,4.3,,,39,,,HIGH,927.48,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,04/15/2016,11,NO,3.3,,,43,,,LOW,927.77,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/13/2016,14,NO,4.3,,,39,,,NORMAL,927.80,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,06/15/2016,11,NO,3.3,,,43,,,NORMAL,927.84,CLEAR,GREEN,1-Beautiful, could not be nicer
+28460463,06/21/2016,16,,4.9,,,37,,,NORMAL,927.86,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,07/05/2016,2,NO,0.6,,,67,,,LOW,927.79,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/14/2016,9,NO,2.7,,,45,,,LOW,927.75,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,07/25/2016,7,NO,2.1,,,49,,,HIGH,927.95,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,08/02/2016,7,NO,2.1,,,49,,,LOW,427.89,CLEAR,BLUE,2-Very minor aesthetic problems
+28460463,04/12/2017,9,YES,2.7,,,45,,,NORMAL,927.88,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/04/2017,11,NO,3.3,,,43,,,NORMAL,927.93,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,05/11/2017,9.1,YES,2.8,,,45,,,HIGH,927.99,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,06/01/2017,10,NO,3,,,44,,,NORMAL,927.92,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,06/08/2017,14,NO,4.3,,,39,,,NORMAL,927.86,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,06/20/2017,11,NO,3.3,,,43,,,NORMAL,927.91,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/06/2017,6,NO,1.8,,,51,,,NORMAL,927.95,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/18/2017,6,NO,1.8,,,51,,,HIGH,928.37,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,07/20/2017,11,NO,3.3,,,43,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/26/2017,5,NO,1.5,,,54,,,NORMAL,927.87,MURKY,GREEN,2-Very minor aesthetic problems
+28460463,07/31/2017,5,NO,1.5,,,54,,,NORMAL,927.91,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28460463,08/16/2017,6,NO,1.8,,,51,,,NORMAL,927.86,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,08/29/2017,6,NO,1.8,,,51,,,NORMAL,927.92,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/16/2017,5,NO,1.5,,,54,,,NORMAL,927.76,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,09/26/2017,3,NO,0.9,,,61,,,NORMAL,927.76,CLEAR,GREEN,2-Very minor aesthetic problems
+28460463,10/12/2017,6.6,NO,2,,,50,,,NORMAL,927.78,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/2015,0,FEET,71.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+04/09/2010,Sunny
+04/14/2010,Sunny
+04/19/2010,Sunny
+04/28/2010,Sunny
+05/06/2010,Partly Sunny 
+
+Slight water ripple
+06/15/2010,Overcast
+06/28/2010,Sunny
+08/05/2010,High Boat Traffic
+09/29/2010,Sunny
+10/07/2010,Sunny
+10/14/2010,Partly cloudy
+11/01/2010,Sunny
+11/08/2010,Sunny
+11/16/2010,Sunny
+
+3 pair of loons on the lake
+03/31/2011,Sunny
+04/25/2011,Partly Cloudy
+05/04/2011,Sunny
+05/10/2011,Sunny
+05/20/2011,Sunny
+05/24/2011,Partly cloudy
+06/01/2011,Sunny
+06/10/2011,Cloudy with fog
+06/14/2011,Overcast
+06/20/2011,Cloudy/overcast
+06/29/2011,Sunny
+07/05/2011,Sunny
+07/12/2011,Sunny
+07/18/2011,Overcast
+07/20/2011,Sunny (Hot)
+07/26/2011,Sunny
+08/01/2011,Sunny and muggy
+08/10/2011,Sunny
+08/16/2011,Sunny
+08/22/2011,Sunny- calm
+08/29/2011,Sunny
+09/07/2011,Sunny
+09/13/2011,Partly sunny
+09/23/2011,Sunny
+09/28/2011,Partly cloudy
+10/05/2011,Sunny- Weeds/Algae- 4 loons
+
+10/11/2011,Sunny- Algae in water column
+10/21/2011,Sunny- 5 Loons on the lake
+10/24/2011,Sunny
+03/14/2012,Sunny
+Winds - NW 5-10
+Air Temp  63 degrees
+04/02/2012,Sunny
+04/24/2012,Sunny
+05/01/2012,Sunny
+05/08/2012,Sunny
+05/16/2012,Sunny
+05/23/2012,Sunny
+05/30/2012,Sunny Sunny
+06/06/2012,Sunny
+06/11/2012,Cloudy
+06/21/2012,Cloudy/Light Rain
+06/28/2012,Sunny and humid
+07/03/2012,Partly cloudy
+07/10/2012,Sunny
+07/16/2012,Sunny and hot 85 degrees- suny and hot- wind from SW ~3 mph- lake elevation 4.40- water temp. 26 degrees- weedy
+07/26/2012,Cloudy/overcast
+07/31/2012,Sunny
+08/09/2012,Cloudy
+08/13/2012,Cloudy
+08/22/2012,Sunny
+08/29/2012,Sunny
+09/04/2012,Sunny
+09/12/2012,Sunny/windy
+09/21/2012,Cloudy
+09/26/2012,Cloudy
+10/02/2012,Sunny
+10/21/2012,Overcast
+11/05/2012,Floating weed mats
+04/29/2013,Partly cloudy
+05/08/2013,Sunny
+05/15/2013,Sunny
+Weeds/Algae
+05/28/2013,Overcast
+06/11/2013,Sunny
+06/17/2013,Sunny
+06/20/2013,Sunny
+07/02/2013,Sunny
+07/16/2013,Sunny
+07/25/2013,Sunny
+08/01/2013,Sunny
+08/13/2013,Sunny
+08/21/2013,Sunny
+08/28/2013,Overcast
+09/13/2013,Sunny
+09/24/2013,Sunny
+10/11/2013,Algae
+11/05/2013,Cloudy
+11/21/2013,Partly cloudy
+05/12/2014,Partly cloudy
+05/22/2014,Sunny
+06/16/2014,Sunny
+06/25/2014,Foggy
+07/18/2014,Partly cloudy
+08/01/2014,Sunny
+08/06/2014,Sunny
+08/13/2014,Sunny.  Lots of suspended algae in water column.
+08/18/2014,Overcast
+09/02/2014,Sunny
+09/18/2014,Overcast.  Pelican spotted near Lake Lawn.
+09/23/2014,Sunny
+10/01/2014,Sunny
+10/23/2014,Partly sunny
+06/23/2015,74 degrees- sunny- winds W-SW at 5-10 MPH 
+04/15/2016,Sunny
+04/12/2017,Sunny
+05/04/2017,Sunny
+06/01/2017,Sunny
+06/08/2017,Sunny
+Water Temp 68.3 F
+06/20/2017,Algae Water Column
+Sunny
+Water Temp 73.2 F
+07/06/2017,Sunny- Hot
+Water Temp 74.1 F  Algae
+Sunny- Hot
+Water Temp 74.1 F
+07/18/2017,Sunny
+Water Temp 75.1
+07/20/2017,73.2 F water temp
+07/26/2017,Over Cast
+Water Temp 77.5 F
+07/31/2017,Sunny
+Water Temp 77.5 F Sunny
+Water Temp 77.5 F
+08/16/2017,Weeds- M.F.
+Sunny
+Water Temp 75.3 F
+08/29/2017,Overcast
+Water Temp 71.9
+09/16/2017,Sunny
+Water Temp 70.8 F
+09/26/2017,Sunny
+Water Temp 75.5 F
+10/12/2017,Overcast
+Water Temp 63.3
+
+
+
+
+Start Date,Group Name,Project Name
+04/09/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/14/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/19/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/28/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/06/2010,Ray Seitz,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/21/2010,Casey Kostecha,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/24/2010,Casey Kostecha,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/03/2010,Casey Kostecha,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/15/2010,Jeff Clark,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/28/2010,Casey Kostecha,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/14/2010,Casey Kostecha,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/26/2010,Casey Kostecha,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/05/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/19/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/23/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/30/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/10/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/20/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/29/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/07/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/14/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/25/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/01/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/08/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/16/2010,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+03/31/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/25/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/04/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/10/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/20/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/24/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/01/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/10/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/14/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/20/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/29/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/05/2011,Ben Lodahl,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/12/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/18/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/20/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/26/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/01/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/10/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/16/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/22/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/29/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/07/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/13/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/23/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/28/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/05/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/11/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/21/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/24/2011,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+03/14/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/02/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/24/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/01/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/08/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/16/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/23/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/30/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/06/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/11/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/21/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/28/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/03/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/10/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/16/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/26/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/31/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/09/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/13/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/22/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/29/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/04/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/12/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/21/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/26/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/02/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/21/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/05/2012,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/29/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/08/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/15/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/28/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/11/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/17/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/20/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/27/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/02/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/16/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/25/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/01/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/13/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/21/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/28/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/13/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/24/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/11/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/05/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/21/2013,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/12/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/22/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/16/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/25/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/18/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/01/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/06/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/13/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/18/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/02/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/18/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/23/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/01/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/23/2014,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/06/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/06/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/02/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/23/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/07/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/21/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/06/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/26/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/04/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/20/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+11/04/2015,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+03/21/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/15/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/13/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/15/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/21/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/05/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/14/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/25/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/02/2016,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+04/12/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/04/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+05/11/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/01/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/08/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+06/20/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/06/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/18/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/20/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/26/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+07/31/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/16/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+08/29/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/16/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+09/26/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)
+10/12/2017,Charlie Handel,Citizen Lake Monitoring - Water Quality - Delavan Lake - NE End of Lake (Lake Lawn /Assembly Park)

@@ -1,0 +1,210 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Lime,Portage,190100,WC,50,,503154,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189863,06/10/2001,9,NO,2.7,,,45,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8189863,06/23/2001,9.25,NO,2.8,,,45,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8189863,06/24/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+34943172,05/16/2010,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34943172,05/23/2010,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34943172,05/30/2010,15,NO,4.6,,,38,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34943172,06/11/2010,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+34943172,06/17/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+34943172,06/26/2010,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+34943172,07/07/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+34943172,07/15/2010,11,NO,3.3,,,43,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34943172,07/28/2010,10,NO,3,,,44,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34943172,08/30/2010,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+34943172,07/01/2011,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34943172,07/13/2011,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34943172,07/20/2011,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34943172,07/24/2011,9,NO,2.7,,,45,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34943172,08/02/2011,8,NO,2.4,,,47,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,08/10/2011,7,NO,2.1,,,49,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,08/18/2011,7,NO,2.1,,,49,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,09/02/2011,10,NO,3,,,44,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,09/10/2011,10,NO,3,,,44,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,09/30/2011,10,NO,3,,,44,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34943172,10/05/2011,6,NO,1.8,,,51,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34943172,10/20/2011,21,NO,6.4,,,33,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,05/15/2012,19,NO,5.8,,,35,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34943172,06/11/2012,11,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34943172,07/15/2012,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34943172,08/22/2012,19,NO,5.8,,,35,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34943172,09/11/2012,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34943172,09/30/2012,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34943172,05/27/2013,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/08/2013,,,,9.7,41.1,,57,52,,,,,
+34943172,06/09/2013,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34943172,06/25/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34943172,07/05/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34943172,07/23/2013,9,NO,2.7,2.37,9.66,45,46,41,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34943172,08/04/2013,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34943172,08/25/2013,9,NO,2.7,5.19,6.92,45,43,47,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34943172,10/02/2013,,,,5.15,20.3,,51,47,,,,,
+34943172,10/03/2013,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34943172,11/03/2013,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+34943172,06/15/2014,,,,3.17,18,,51,44,,,,,
+121886168,05/31/2015,,,,4.32,20.5,,52,46,,,,,
+121886170,05/31/2015,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+121886170,06/28/2015,9,NO,2.7,3.86,17.1,45,50,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+121886170,08/09/2015,9,NO,2.7,6.4,13.7,45,48,49,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+121886170,05/30/2016,,,,,40.8,,57,,,,,,
+121886170,06/25/2016,,,,4.2,18.4,,51,46,,,,,
+121886170,08/02/2016,,,,2.87,18.5,,51,43,,,,,
+121886170,08/29/2016,,,,5.39,22.1,,52,48,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/09/2013,2,FEET,63.8,DEGREES F,,
+06/09/2013,4,FEET,63.6,DEGREES F,,
+06/09/2013,6,FEET,63.6,DEGREES F,,
+06/09/2013,8,FEET,63.6,DEGREES F,,
+06/09/2013,10,FEET,63.6,DEGREES F,,
+06/09/2013,12,FEET,54.8,DEGREES F,,
+06/09/2013,14,FEET,50.9,DEGREES F,,
+06/09/2013,16,FEET,45.6,DEGREES F,,
+06/09/2013,18,FEET,42.8,DEGREES F,,
+06/09/2013,20,FEET,41.5,DEGREES F,,
+06/09/2013,22,FEET,41.3,DEGREES F,,
+06/09/2013,24,FEET,41,DEGREES F,,
+07/23/2013,2,FEET,77.7,DEGREES F,,
+07/23/2013,4,FEET,77.9,DEGREES F,,
+07/23/2013,6,FEET,77.9,DEGREES F,,
+07/23/2013,8,FEET,77.9,DEGREES F,,
+07/23/2013,10,FEET,77.5,DEGREES F,,
+07/23/2013,12,FEET,72.3,DEGREES F,,
+07/23/2013,14,FEET,62.6,DEGREES F,,
+07/23/2013,16,FEET,56.6,DEGREES F,,
+07/23/2013,18,FEET,53,DEGREES F,,
+07/23/2013,20,FEET,54.8,DEGREES F,,
+07/23/2013,22,FEET,47.1,DEGREES F,,
+07/23/2013,24,FEET,46,DEGREES F,,
+08/25/2013,2,FEET,77.5,DEGREES F,,
+08/25/2013,4,FEET,77.3,DEGREES F,,
+08/25/2013,6,FEET,75.5,DEGREES F,,
+08/25/2013,8,FEET,75,DEGREES F,,
+08/25/2013,10,FEET,73.4,DEGREES F,,
+08/25/2013,12,FEET,69,DEGREES F,,
+08/25/2013,14,FEET,66.2,DEGREES F,,
+08/25/2013,16,FEET,65.4,DEGREES F,,
+08/25/2013,18,FEET,60.8,DEGREES F,,
+08/25/2013,20,FEET,54.3,DEGREES F,,
+08/25/2013,22,FEET,52.1,DEGREES F,,
+08/25/2013,24,FEET,52.1,DEGREES F,,
+10/03/2013,2,FEET,64.5,DEGREES F,,
+10/03/2013,4,FEET,63.8,DEGREES F,,
+10/03/2013,6,FEET,63.6,DEGREES F,,
+10/03/2013,8,FEET,63.3,DEGREES F,,
+10/03/2013,10,FEET,63.1,DEGREES F,,
+10/03/2013,12,FEET,62.7,DEGREES F,,
+10/03/2013,14,FEET,62.4,DEGREES F,,
+10/03/2013,16,FEET,60.6,DEGREES F,,
+10/03/2013,18,FEET,57.5,DEGREES F,,
+10/03/2013,20,FEET,52.8,DEGREES F,,
+10/03/2013,22,FEET,49.4,DEGREES F,,
+10/03/2013,24,FEET,46.7,DEGREES F,,
+05/31/2015,2,FEET,66.5,DEGREES F,,
+05/31/2015,4,FEET,66.5,DEGREES F,,
+05/31/2015,6,FEET,66.5,DEGREES F,,
+05/31/2015,8,FEET,66.5,DEGREES F,,
+05/31/2015,10,FEET,62.6,DEGREES F,,
+05/31/2015,12,FEET,61.1,DEGREES F,,
+05/31/2015,14,FEET,57.9,DEGREES F,,
+05/31/2015,16,FEET,53.9,DEGREES F,,
+05/31/2015,18,FEET,51.8,DEGREES F,,
+05/31/2015,20,FEET,50,DEGREES F,,
+05/31/2015,22,FEET,47.1,DEGREES F,,
+06/28/2015,2,FEET,74.4,DEGREES F,,
+06/28/2015,4,FEET,75,DEGREES F,,
+06/28/2015,6,FEET,75,DEGREES F,,
+06/28/2015,8,FEET,74.6,DEGREES F,,
+06/28/2015,10,FEET,70.1,DEGREES F,,
+06/28/2015,12,FEET,67.8,DEGREES F,,
+06/28/2015,14,FEET,62.6,DEGREES F,,
+06/28/2015,16,FEET,58.6,DEGREES F,,
+06/28/2015,18,FEET,55,DEGREES F,,
+06/28/2015,20,FEET,52.8,DEGREES F,,
+06/28/2015,22,FEET,49.2,DEGREES F,,
+08/09/2015,2,FEET,77,DEGREES F,,
+08/09/2015,4,FEET,75.2,DEGREES F,,
+08/09/2015,6,FEET,74.3,DEGREES F,,
+08/09/2015,8,FEET,73.7,DEGREES F,,
+08/09/2015,10,FEET,73,DEGREES F,,
+08/09/2015,12,FEET,72.5,DEGREES F,,
+08/09/2015,14,FEET,71,DEGREES F,,
+08/09/2015,16,FEET,64,DEGREES F,,
+08/09/2015,18,FEET,60.2,DEGREES F,,
+08/09/2015,20,FEET,56,DEGREES F,,
+08/09/2015,22,FEET,52.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/20/2011,Torrential rains the night before (2+ inches).
+05/15/2012,Data collected by Will Neeb. Data collected by Will Neeb.  The blue-green agae has appeared earlier than ever before. By Memorial Day the algae had covered nearly all visible vegetation. Data collected by Will Neeb.  The blue-green agae has appeared earlier than ever before. By Memorial Day the algae had covered nearly all visible vegetation.
+06/11/2012,Lake warming very early- weeds are prolific.
+07/15/2012,Weeds are beginning to fall back. Some blue-green algae is floating.
+08/22/2012,Freaky clear- algae mostly gone already.
+
+
+
+
+Start Date,Group Name,Project Name
+06/10/2001,Joe Shead,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/23/2001,Joe Shead,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/24/2002,Joe Shead,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/16/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/23/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/30/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/11/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/17/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/26/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/07/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/15/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/28/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/30/2010,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/01/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/13/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/20/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/24/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/02/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/10/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/18/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+09/02/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+09/10/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+09/30/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+10/05/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+10/20/2011,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/15/2012,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/11/2012,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/15/2012,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/22/2012,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+09/11/2012,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+09/30/2012,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/27/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/08/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/09/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/25/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/05/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+07/23/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/04/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/25/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+10/02/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+10/03/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+11/03/2013,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/15/2014,Corinna Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/31/2015,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/31/2015,Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/28/2015,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/09/2015,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+05/30/2016,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+06/25/2016,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/02/2016,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole
+08/29/2016,Corinna Neeb- Will Neeb,Citizen Lake Monitoring - Water Quality - Lime Lake - Deep Hole

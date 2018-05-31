@@ -1,0 +1,402 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Blueberry Lake,Sawyer,1835700,NO,58,,583030,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/18/1977,11.8,,3.6,,,42,,,,,,,
+8190448,07/29/1993,12.5,NO,3.8,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190448,08/07/1993,11,YES,3.3,,,43,,,,,,GREEN,1-Beautiful, could not be nicer
+8190448,08/19/1993,11,YES,3.3,,,43,,,,,,GREEN,1-Beautiful, could not be nicer
+8190448,09/10/1993,10.5,NO,3.2,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8190448,10/19/1993,21,NO,6.4,,,33,,,,,,GREEN,
+8190448,05/10/1994,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,05/16/1994,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,05/28/1994,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/22/1994,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,07/06/1994,15,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190448,07/25/1994,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190448,08/24/1994,7,NO,2.1,,,49,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190448,09/15/1994,5.5,NO,1.7,,,53,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/26/1994,,,,,14,,49,,,,,,
+1,11/07/1994,,,,,16,,50,,,,,,
+8190448,05/30/1995,10,NO,3,,,44,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190448,06/13/1995,15,NO,4.6,,,38,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190448,06/21/1995,13,NO,4,,,40,,,DROPPING-HAS DROPPED ABOUT 1",,,GREEN,2-Very minor aesthetic problems
+8190448,07/07/1995,12,NO,3.6,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190448,08/02/1995,8,NO,2.4,,,47,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190448,08/22/1995,6.5,NO,2,,,50,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190448,09/02/1995,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190448,09/18/1995,4.5,NO,1.4,,,55,,,LOWEST OF THE SUMMER,,,BROWN,2-Very minor aesthetic problems
+8190448,10/04/1995,7,NO,2.1,,,49,,,NORMAL,,,GREEN,
+8190448,06/09/1996,26,NO,7.9,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/16/1996,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,
+8190448,07/01/1996,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190448,08/02/1996,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190448,08/27/1996,6,NO,1.8,,,51,,,DOWN FROM SPRING,,,GREEN,2-Very minor aesthetic problems
+8190448,10/07/1996,18,NO,5.5,,,35,,,DOWN FROM SPRING BUT ABOUT AVERAGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/01/1997,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/11/1997,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,
+8190448,07/07/1997,12,NO,3.6,,,41,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190448,07/22/1997,14,NO,4.3,,,39,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190448,08/05/1997,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190448,08/28/1997,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,09/14/1997,8,NO,2.4,,,47,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190448,10/02/1997,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190448,04/30/1998,14,YES,4.3,,,39,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,05/15/1998,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/17/1998,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190448,06/24/1998,13,NO,4,,,40,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190448,07/02/1998,12.5,NO,3.8,,,41,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190448,07/09/1998,10,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190448,07/22/1998,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/01/1998,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/11/1998,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/25/1998,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,09/11/1998,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,09/14/1998,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190448,10/02/1998,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190448,10/03/1998,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,05/28/1999,22,NO,6.7,,,33,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/07/1999,13.5,NO,4.1,,,40,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190448,06/25/1999,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,07/02/1999,11.5,NO,3.5,,,42,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,08/02/1999,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/06/1999,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/11/1999,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/14/1999,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,09/16/1999,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190448,05/18/2000,24,NO,7.3,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/14/2000,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/25/2000,11,NO,3.3,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,07/11/2000,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,08/02/2000,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,08/13/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,08/29/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,09/13/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,05/16/2001,15,YES,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,05/31/2001,18,YES,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,06/28/2001,15,YES,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,07/14/2001,14.5,YES,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,08/02/2001,12.5,YES,3.8,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/13/2001,12,YES,3.6,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,08/31/2001,6.5,YES,2,,,50,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,09/17/2001,9,YES,2.7,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190448,06/13/2002,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,07/14/2002,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,08/25/2002,9.5,YES,2.9,,,45,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190448,09/15/2002,9.5,YES,2.9,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190448,07/12/2003,15.5,YES,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190448,07/28/2003,14.5,YES,4.4,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190448,08/26/2003,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190448,10/06/2003,8.5,YES,2.6,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000017,04/26/2004,,,,,11,,47,,,,,,
+8190448,06/06/2004,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,07/05/2004,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190448,08/21/2004,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+7000017,08/31/2004,14,NO,4.3,5.51,13,39,48,48,,,,,
+8190448,10/09/2004,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190448,06/10/2005,16,YES,4.9,,,37,,,LOW,1.72,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190448,07/14/2005,13,NO,4,,,40,,,LOW,,,GREEN,
+8190448,08/18/2005,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,
+8190448,09/18/2005,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,
+16116001,06/10/2006,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116001,06/24/2006,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116001,07/08/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116001,08/24/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+16116001,10/02/2006,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+16116001,06/08/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116001,06/30/2007,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+16116001,07/13/2007,8.3,NO,2.5,,,47,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116001,07/23/2007,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116001,08/10/2007,13,NO,4,,,40,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+16116001,08/29/2007,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+16116001,06/22/2008,19,NO,5.8,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116001,07/04/2008,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116001,07/18/2008,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116001,08/02/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116001,08/16/2008,11,NO,3.3,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+16116001,10/03/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+31595352,05/24/2009,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31595352,06/09/2009,17,NO,5.2,,,36,,,LOW,,,BLUE,1-Beautiful, could not be nicer
+31595352,06/26/2009,19,YES,5.8,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+31595352,07/19/2009,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+31595352,09/05/2009,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+31595352,09/15/2009,15,YES,4.6,,,38,,,LOW,,CLEAR,GREEN,
+31595352,09/27/2009,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+31595352,10/05/2009,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+82607229,07/25/2016,17,NO,5.2,0.894,12.7,36,48,34,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+82607229,08/09/2016,15,NO,4.6,1.07,16.5,38,50,35,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10585221,09/01/2016,13,NO,4,2.2,15.6,40,49,41,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/18/1977,,,10.5,C,10.5,MG/L
+10/26/1994,,,12,C,12,MG/L
+11/07/1994,,,10,C,,
+08/31/2004,6.56,FEET,,,8,MG/L
+08/31/2004,,,20.1,C,8.0,MG/L
+07/25/2016,0,METERS,79.4,DEGREES F,7.81,MG/L
+07/25/2016,1,METERS,79.1,DEGREES F,7.84,MG/L
+07/25/2016,2,METERS,78.3,DEGREES F,7.85,MG/L
+07/25/2016,3,METERS,77.6,DEGREES F,7.76,MG/L
+07/25/2016,4,METERS,76.8,DEGREES F,7.74,MG/L
+07/25/2016,5,METERS,72.5,DEGREES F,6.53,MG/L
+07/25/2016,6,METERS,68.6,DEGREES F,3.29,MG/L
+07/25/2016,7,METERS,62.7,DEGREES F,.23,MG/L
+07/25/2016,8,METERS,61.2,DEGREES F,.22,MG/L
+07/25/2016,9,METERS,61.2,DEGREES F,.24,MG/L
+08/09/2016,0,METERS,77.7,DEGREES F,7.71,MG/L
+08/09/2016,1,METERS,77.7,DEGREES F,7.7,MG/L
+08/09/2016,2,METERS,77.6,DEGREES F,7.7,MG/L
+08/09/2016,3,METERS,77.5,DEGREES F,7.72,MG/L
+08/09/2016,4,METERS,77.4,DEGREES F,7.69,MG/L
+08/09/2016,5,METERS,77,DEGREES F,7.55,MG/L
+08/09/2016,6,METERS,72.6,DEGREES F,2.4,MG/L
+08/09/2016,7,METERS,65,DEGREES F,.13,MG/L
+08/09/2016,8,METERS,63.7,DEGREES F,.1,MG/L
+08/09/2016,9,METERS,63.4,DEGREES F,.11,MG/L
+09/01/2016,0,METERS,72.8,DEGREES F,7.95,MG/L
+09/01/2016,1,METERS,72.8,DEGREES F,7.94,MG/L
+09/01/2016,2,METERS,72.7,DEGREES F,7.92,MG/L
+09/01/2016,3,METERS,72.6,DEGREES F,7.89,MG/L
+09/01/2016,4,METERS,72.3,DEGREES F,7.86,MG/L
+09/01/2016,5,METERS,71.5,DEGREES F,5.69,MG/L
+09/01/2016,6,METERS,70.3,DEGREES F,3.94,MG/L
+09/01/2016,7,METERS,67.9,DEGREES F,.33,MG/L
+09/01/2016,8,METERS,62.7,DEGREES F,.14,MG/L
+09/01/2016,9,METERS,62.3,DEGREES F,.14,MG/L
+09/01/2016,10,METERS,62.4,DEGREES F,.15,MG/L
+
+
+
+Start Date,Fieldwork Comment
+04/18/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/07/1993,Lots of skiing.  Rain during the week.    
+08/19/1993,Wind the day before.  Not a lot of boats.    
+09/10/1993,We have had lots of wind.  Need rain.  The lake level has dropped some more.    
+10/19/1993,No wind- cloudy.    
+05/10/1994,Very windy day before.  Calm morning of 5-10-94.  Wind started to blow about 10: 00.  Lake level is up.  Clear day.    
+05/16/1994,Sunny afternoon-small amount of wind.  Beautiful day.    
+05/28/1994,Quite a bit of wind.  Holiday weekend so there was boat traffic.  Also an airplane landing + taking off.    
+06/22/1994,Cloudy- very mild- not a lot of boat activity- overflow has been cleaned out by someone.    
+07/06/1994,Partly cloudy- above normal boat traffic- storms for 2 days.    
+07/25/1994,Cloudy- lots of boat traffic over the weekend.  About 2" to 3' rain during the week.    
+08/24/1994,Water is really cloudy.    
+09/15/1994,We've had lots of rain.  Seems to be seaweed along the shore.  Wonder if it's the reason for the water being so cloudy     
+11/07/1994,(PTL SUNNY 60 DEG- SOUTHWIND 5 MPH- NO RAIN ALL LAST WKND)    
+05/30/1995,Windy-had .5" rain.    
+06/13/1995,Calm day- sunny.    
+06/21/1995,Very hot-lots of pine pollen.  No rain in about two weeks.    
+07/07/1995,Has rained and some wind.    
+08/02/1995,We have had rain- wind- storms- cloudy day.    
+08/22/1995,Windy.  Lots of traffic last week + weekend- some hard rain.    
+09/02/1995,We had a shower the night before.  Boat traffic light.  More weeds than usual.    
+09/18/1995,Light boat traffic.  Wind.  It appears the lake has turned over.    
+10/04/1995,Very light boat traffic.  Heavy rain storm 3 days ago.    
+06/09/1996,Finally hot- little wind.    
+06/16/1996,Windy + rain.    
+07/01/1996,Several rains- wind. more boat traffic than there has been.    
+08/02/1996,Some down pours and wind- more boat traffic than there has been.    
+08/27/1996,Boat traffic has started to drop off.    
+10/07/1996,There is a bright green weed starting on bottom through out lake.    
+06/11/1997,Little wind    
+07/07/1997,Wind- rain- increased boat activity.    
+07/22/1997,Rain- some wind.  Boat activity average.    
+08/28/1997, 3-4 inches rain- cloudy- lots of algae- water is warm    
+10/02/1997,A lot of wind but no rain the  last couple of days- today is calm- the water temperature has cooled down quite a bit.    
+06/17/1998,Windy.    
+06/24/1998,Rain.    
+07/02/1998,Wind.    
+07/09/1998,Lots of boats jet skis and skiing.    
+07/22/1998,No rain.    
+08/01/1998,No rain.    
+08/11/1998,No rain.  Water level: very low.    
+08/25/1998,3-4" rain cloudy with algae.    
+09/11/1998,No rain wind.    
+09/14/1998,Little rain windy.    
+10/02/1998,Has been windy.  Need rain. water has cooled down    
+10/03/1998,No rain wind.    
+05/28/1999,Need rain- loons here- not as many ducks.    
+06/07/1999,We had very strong winds and waves the day before.  Heavy rain.  Never have seen anything like it.    
+06/25/1999,Area was 35' deep.  Beautiful day - have had wind and rain.    
+07/02/1999,Little wind- cloudy- ski boats are being used.    
+08/02/1999,Rain- wind- boat traffic.    
+08/06/1999,Rain- wind- lots of boat traffic.    
+08/11/1999,Rain- wind- lots of boat traffic.    
+08/14/1999,Rain and wind.    
+09/16/1999,No rain- wind.    
+05/18/2000,Calm    
+06/14/2000,Rain    
+06/25/2000,Rain- very windy    
+08/02/2000,Some wind and rain.    
+08/13/2000,Wind- rain yesterday.    
+08/29/2000,Windy yesterday.    
+09/13/2000,Cloudy- strong winds on 9/9.  Need rain.    
+05/16/2001,Had wind.    
+05/31/2001,Wind and rain.    
+06/28/2001,Wind and storm- there was a downpour the day before.    
+07/14/2001,Hot weather.    
+08/13/2001,There was 5" of rain and wind.    
+08/31/2001,Storm and wind.    
+09/17/2001,No rain.    
+08/25/2002,Storm- lots of rain and wind.    
+07/12/2003,Lake is down even though there has been rain.    
+07/28/2003,Storms- wind    
+08/26/2003,No rain- wind.    
+10/06/2003,Very dry- lake down over 1'. Lots of wind.    
+04/26/2004,DEEPEST SPOT    
+06/06/2004,Lots of wind and rain    
+08/31/2004,DEEPEST SPOT    
+10/09/2004,Lots of wind - no rain.    
+07/14/2005,Wind- very little rain.    
+08/18/2005,Lake is very low.  Lots of wind.    
+09/18/2005,Lake is down more.  Lots of wind.    
+06/10/2006,Quiet day on the lake.  Little wind - lots of sun!
+07/08/2006,Windy
+08/24/2006,Lake is low.
+10/02/2006,Beautiful- 80 F day.  Lake is very very low.
+06/08/2007,Finally- rainy days.  Lake still 9" lower than normal.
+06/30/2007,lake is very low + lots of vegetation floating in water today
+07/13/2007,lake is even lower
+07/23/2007,overcast day.  rained yesterday.  lake down 1.5 ft. or more
+08/10/2007,finally rained hard yesterday.  lake had lots of sediment floating in it.
+05/24/2009,clear day and no wind  1st day of no winds.
+09/05/2009,beautiful day
+09/15/2009,Beautiful day
+09/27/2009,Beautiful day
+10/05/2009,Beautiful cold and crisp
+07/25/2016,SWF sediment sample collected via Ekman dredge. Sample was a half gallon of extremely fine sediments- so multi-stage processing was necessary (examining material screened through 500 um mesh- then liquid portion through 150 um mesh- then subsamples of remaining fine sediments through 150 um mesh.) 10 aliquots examined.
+
+
+
+
+Start Date,Group Name,Project Name
+04/18/1977,Data Collectors,Migrated from STORET Legacy
+07/29/1993,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/07/1993,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/19/1993,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/10/1993,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/19/1993,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/10/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/16/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/28/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/22/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/06/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/25/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/24/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/15/1994,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/26/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+11/07/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+05/30/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/13/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/21/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/07/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/02/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/22/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/02/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/18/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/04/1995,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/09/1996,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/16/1996,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/01/1996,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/02/1996,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/27/1996,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/07/1996,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/01/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/11/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/07/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/22/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/05/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/28/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/14/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/02/1997,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+04/30/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/15/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/17/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/24/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/02/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/09/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/22/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/01/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/11/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/25/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/11/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/14/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/02/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/03/1998,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/28/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/07/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/25/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/02/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/02/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/06/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/11/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/14/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/16/1999,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/18/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/14/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/25/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/11/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/02/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/13/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/29/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/13/2000,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/16/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/31/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/28/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/14/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/02/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/13/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/31/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/17/2001,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/13/2002,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/14/2002,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/25/2002,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/15/2002,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/12/2003,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/28/2003,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/26/2003,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/06/2003,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+04/26/2004,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+06/06/2004,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/05/2004,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/21/2004,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/31/2004,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+10/09/2004,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/10/2005,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/14/2005,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/18/2005,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/18/2005,Jean Morris,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/10/2006,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/24/2006,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/08/2006,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/24/2006,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/02/2006,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/08/2007,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/30/2007,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/13/2007,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/23/2007,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/10/2007,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/29/2007,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/22/2008,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/04/2008,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/18/2008,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/02/2008,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+08/16/2008,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/03/2008,Katie George,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+05/24/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/09/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+06/26/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/19/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/05/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/15/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+09/27/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+10/05/2009,Jackie Eckerly,Citizen Lake Monitoring - Water Quality - Blueberry Lake; Deep Hole
+07/25/2016,Mark Sundeen and Alex Smith,Directed Lakes 2016 Smith
+08/09/2016,Mark Sundeen and Alex Smith,Directed Lakes 2016 Smith
+09/01/2016,MARK SUNDEEN,Directed Lakes 2016 Smith

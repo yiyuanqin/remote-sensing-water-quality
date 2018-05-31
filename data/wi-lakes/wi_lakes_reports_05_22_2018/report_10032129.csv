@@ -1,0 +1,187 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mission Lake,Shawano,192900,NE,59,,10032129,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+36802647,06/18/2010,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,07/09/2010,14.75,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,08/26/2010,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36802647,09/27/2010,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36802647,10/10/2010,2.75,NO,0.8,,,63,,,LOW,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+36802647,05/20/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36802647,06/10/2011,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+36802647,06/29/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36802647,07/22/2011,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+36802647,08/18/2011,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+36802647,09/07/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+36802647,10/07/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+36802647,04/12/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+36802647,05/19/2012,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36802647,06/13/2012,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,07/11/2012,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+36802647,08/12/2012,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36802647,09/06/2012,6.75,NO,2.1,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36802647,06/14/2013,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,07/15/2013,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,08/12/2013,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,09/24/2013,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,06/03/2015,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+36802647,06/17/2015,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+36802647,06/28/2015,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+36802647,07/15/2015,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+1,07/26/2015,,,,5.7,25.3,,53,48,,,,,
+36802647,07/26/2015,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+36802647,08/12/2015,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+36802647,08/30/2015,3,NO,0.9,31.6,29.4,61,54,61,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+36802647,05/27/2016,24.25,NO,7.4,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,05/30/2016,,,,,23.2,,53,,,,,,
+36802647,06/08/2016,22.25,NO,6.8,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,06/23/2016,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,06/25/2016,,,,3.84,16.4,,50,45,,,,,
+36802647,07/25/2016,17.25,NO,5.2,2.71,14.5,36,49,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36802647,09/05/2016,,,,3.19,15.5,,49,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/2015,2,FEET,79.8,DEGREES F,,
+07/26/2015,4,FEET,79.5,DEGREES F,,
+07/26/2015,6,FEET,79.1,DEGREES F,,
+07/26/2015,8,FEET,76.9,DEGREES F,,
+07/26/2015,10,FEET,72.5,DEGREES F,,
+07/26/2015,12,FEET,59.7,DEGREES F,,
+07/26/2015,14,FEET,52.5,DEGREES F,,
+07/26/2015,18,FEET,48.7,DEGREES F,,
+08/30/2015,2,FEET,67.4,DEGREES F,,
+08/30/2015,4,FEET,67.2,DEGREES F,,
+08/30/2015,6,FEET,67.2,DEGREES F,,
+08/30/2015,8,FEET,67.1,DEGREES F,,
+08/30/2015,10,FEET,66.9,DEGREES F,,
+08/30/2015,12,FEET,65.1,DEGREES F,,
+08/30/2015,14,FEET,58.8,DEGREES F,,
+08/30/2015,18,FEET,50,DEGREES F,,
+05/27/2016,1,FEET,69,DEGREES F,,
+05/27/2016,2,FEET,68.9,DEGREES F,,
+05/27/2016,3,FEET,68.7,DEGREES F,,
+05/27/2016,6,FEET,68.3,DEGREES F,,
+05/27/2016,10,FEET,62.9,DEGREES F,,
+05/27/2016,15,FEET,57.9,DEGREES F,,
+05/27/2016,18,FEET,53.4,DEGREES F,,
+05/27/2016,20,FEET,50.7,DEGREES F,,
+05/27/2016,24,FEET,47.1,DEGREES F,,
+05/27/2016,27,FEET,44,DEGREES F,,
+05/27/2016,30,FEET,42.8,DEGREES F,,
+05/27/2016,35,FEET,42.2,DEGREES F,,
+05/27/2016,38,FEET,42,DEGREES F,,
+06/08/2016,1,FEET,67.8,DEGREES F,,
+06/08/2016,2,FEET,67.4,DEGREES F,,
+06/08/2016,3,FEET,67.2,DEGREES F,,
+06/08/2016,6,FEET,67.1,DEGREES F,,
+06/08/2016,10,FEET,66.5,DEGREES F,,
+06/08/2016,15,FEET,56.6,DEGREES F,,
+06/08/2016,18,FEET,52.1,DEGREES F,,
+06/08/2016,20,FEET,49.2,DEGREES F,,
+06/08/2016,24,FEET,45.3,DEGREES F,,
+06/08/2016,27,FEET,44,DEGREES F,,
+06/08/2016,30,FEET,43.5,DEGREES F,,
+06/08/2016,35,FEET,42.6,DEGREES F,,
+06/08/2016,38,FEET,42.6,DEGREES F,,
+06/23/2016,1,FEET,76.4,DEGREES F,,
+06/23/2016,2,FEET,76.2,DEGREES F,,
+06/23/2016,3,FEET,76.1,DEGREES F,,
+06/23/2016,6,FEET,74.6,DEGREES F,,
+06/23/2016,10,FEET,72.6,DEGREES F,,
+06/23/2016,15,FEET,60.2,DEGREES F,,
+06/23/2016,18,FEET,55.2,DEGREES F,,
+06/23/2016,20,FEET,55.4,DEGREES F,,
+06/23/2016,24,FEET,54.6,DEGREES F,,
+06/23/2016,27,FEET,54.3,DEGREES F,,
+06/23/2016,30,FEET,47.3,DEGREES F,,
+06/23/2016,35,FEET,47.1,DEGREES F,,
+06/23/2016,38,FEET,48.7,DEGREES F,,
+07/25/2016,1,FEET,80,DEGREES F,,
+07/25/2016,2,FEET,79.8,DEGREES F,,
+07/25/2016,3,FEET,79.5,DEGREES F,,
+07/25/2016,6,FEET,79.1,DEGREES F,,
+07/25/2016,10,FEET,78,DEGREES F,,
+07/25/2016,15,FEET,69.6,DEGREES F,,
+07/25/2016,18,FEET,62.9,DEGREES F,,
+07/25/2016,20,FEET,58.8,DEGREES F,,
+07/25/2016,24,FEET,56.4,DEGREES F,,
+07/25/2016,27,FEET,55,DEGREES F,,
+07/25/2016,30,FEET,47.1,DEGREES F,,
+07/25/2016,35,FEET,45.8,DEGREES F,,
+07/25/2016,38,FEET,45.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/18/2010,Small Grey Particles
+
+07/09/2010,No particles.  Reading taken after 4 days of hard- intermittant rains.
+08/26/2010,Lake turned in late July.  6 weeks earlier than 2008-09.  In 2005 lake turned in June.  Scummy surface covered shoreline to 30 feet out during last three weeks.  Now no longer appears.  New areas of lily pads and arrowhead appearing along southern and western shores.
+09/27/2010,Small green particles.  Reading done 4 days after 4 inches of rainfall.
+10/10/2010,Small green particles-very dense.  Reading after 10 days higher than normal temperature during the day- 60 to 75 degrees.
+05/20/2011,water level up ~ 2 " from fall 2010. Ice out about 4/20/2011
+06/10/2011,cloudy/rainy day. Hydrologist testing due to dense particulate condition
+06/29/2011,water level within 4" of old high water mark on shoreline rocks
+07/22/2011,hot- humid for last 10 days- late day t-stroms with wind. fine yellow particulate
+08/18/2011,fine particulates- no rain in 7 days- lillies and cattails present - no arrowhead this year
+09/07/2011,fine particulates- day temp. 60 degrees F- nights 40 degrees F in past 7 days  more than 1" rain in 7 days
+10/07/2011,fine particulates- previous week temp. 65-75 degrees during days- 45-50 degrees during nights- no rain in 7 days
+04/12/2012,Dense- very fine particles
+05/19/2012,few particles. Some floating algae and aquatic plants.
+06/13/2012,No algae. No particles
+07/11/2012,level down three inches from 2011. No algae- few particles.
+08/12/2012,patches of blue/grey algae
+09/06/2012,No surface algae. Dense particles.
+06/14/2013,Small particles.  Lake level ~6" below historic high water mark.
+07/15/2013,Clear
+08/12/2013,Clear- unclouded
+09/24/2013,Ice out 4/23/13. No turnover this year.  cattails few due to muskrats needing forage longer this year 11/18/13
+
+
+
+
+Start Date,Group Name,Project Name
+06/18/2010,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/09/2010,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+08/26/2010,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+09/27/2010,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+10/10/2010,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+05/20/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/10/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/29/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/22/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+08/18/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+09/07/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+10/07/2011,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+04/12/2012,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+05/19/2012,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/13/2012,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/11/2012,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+08/12/2012,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+09/06/2012,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/14/2013,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/15/2013,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+08/12/2013,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+09/24/2013,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/03/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/17/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/28/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/15/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/26/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/26/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+08/12/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+08/30/2015,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+05/27/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+05/30/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/08/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/23/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+06/25/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+07/25/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center
+09/05/2016,Lorna Dreher,Citizen Lake Monitoring - Water Quality - Mission Lake - Center

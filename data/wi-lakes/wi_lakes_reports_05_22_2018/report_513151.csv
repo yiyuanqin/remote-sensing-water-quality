@@ -1,0 +1,42 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Big Dardis Lake,Price,2244200,NO,51,,513151,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/24/1979,,,,9.48,19,,51,52,,,,,
+7000017,05/01/2003,,,,,19,,51,,,,,,
+7000017,09/08/2003,6.2,NO,1.9,16.4,31,51,55,56,,,,,
+147487179,08/24/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,08/27/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,09/04/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,09/26/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/24/1979,,,,,7.2,MG/L
+09/08/2003,7,FEET,,,8.8,MG/L
+09/08/2003,,,22.4,C,8.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/24/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/2003,CENTER    
+09/08/2003,DEEPEST SPOT    
+
+
+
+
+Start Date,Group Name,Project Name
+07/24/1979,Data Collectors,Migrated from STORET Legacy
+05/01/2003,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+09/08/2003,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+08/24/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+08/27/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+09/04/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+09/26/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole

@@ -1,0 +1,33 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Rice Lake,Forest,406400,NO,21,,213158,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/18/2000,3.3,,1,10,39,60,57,52,,,,,
+1,06/12/2017,,,,8.09,30.4,,55,51,,,,,
+1,07/11/2017,,,,10.3,14.3,,49,52,,,,,
+1,08/21/2017,,,,3.38,20.2,,51,44,,,,,
+1,09/25/2017,,,,3.19,23.6,,53,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/18/2000,,,21.0,C,6.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/18/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/2017,Data Collectors,FOREST COUNTY: Little Rice Lake Comprehensive Lake Mgt Plan
+07/11/2017,Data Collectors,FOREST COUNTY: Little Rice Lake Comprehensive Lake Mgt Plan
+08/21/2017,Data Collectors,FOREST COUNTY: Little Rice Lake Comprehensive Lake Mgt Plan
+09/25/2017,Data Collectors,FOREST COUNTY: Little Rice Lake Comprehensive Lake Mgt Plan

@@ -1,0 +1,37 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Beaver Dam Lake,Barron,2081200,NO,3,,10048427,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/17/2017,,,,,,,,,,,,,
+1,04/18/2017,,,,,,,,,,,,,
+1,04/19/2017,,,,,,,,,,,,,
+1,04/20/2017,,,,,,,,,,,,,
+1,04/21/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/17/2017,,,9,C,,
+04/18/2017,,,8.5,C,,
+04/19/2017,,,9.5,C,,
+04/20/2017,,,8,C,,
+04/21/2017,,,9,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/17/2017,Data Collectors,Herbicide Concentration Monitoring
+04/18/2017,Data Collectors,Herbicide Concentration Monitoring
+04/19/2017,Data Collectors,Herbicide Concentration Monitoring
+04/20/2017,Data Collectors,Herbicide Concentration Monitoring
+04/21/2017,Data Collectors,Herbicide Concentration Monitoring

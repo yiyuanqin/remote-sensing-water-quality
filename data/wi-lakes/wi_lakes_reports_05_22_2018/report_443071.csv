@@ -1,0 +1,164 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Clawson Lake,Oneida,976900,NO,44,,443071,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1979,,,,,,,,,,,,,
+8191063,06/03/1994,19.5,NO,5.9,,,34,,,20-22'-AVERAGE TO BELOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,06/09/1994,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,06/20/1994,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,06/30/1994,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,07/06/1994,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,07/15/1994,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,07/22/1994,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,07/28/1994,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,08/05/1994,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,08/12/1994,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,08/17/1994,14.75,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,08/25/1994,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,09/02/1994,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,09/08/1994,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,09/16/1994,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,09/23/1994,11.5,NO,3.5,,,42,,,NORMAL,,,,2-Very minor aesthetic problems
+8191063,10/06/1994,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,05/16/1995,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,05/25/1995,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,06/02/1995,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,06/11/1995,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,06/18/1995,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,06/26/1995,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,07/04/1995,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,07/13/1995,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,07/20/1995,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,08/01/1995,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,08/17/1995,14.25,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,08/28/1995,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,09/05/1995,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,09/18/1995,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,09/26/1995,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,06/09/1996,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,06/22/1996,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191063,07/04/1996,15.75,NO,4.8,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,07/15/1996,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,08/01/1996,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,08/13/1996,15.5,NO,4.7,,,38,,,HIGH - VERY HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,08/23/1996,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,08/31/1996,15,NO,4.6,,,38,,,HIGH-VERY HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,09/19/1996,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191063,07/01/1997,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191063,07/16/1997,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+145711549,06/21/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/1979,,,23.5,C,,
+06/21/2017,2,FEET,71.7,DEGREES F,8.39,MG/L
+06/21/2017,4,FEET,71.2,DEGREES F,8.36,MG/L
+06/21/2017,6,FEET,70.8,DEGREES F,8.17,MG/L
+06/21/2017,8,FEET,70.6,DEGREES F,8.18,MG/L
+06/21/2017,10,FEET,70.2,DEGREES F,8.03,MG/L
+06/21/2017,12,FEET,66,DEGREES F,9.74,MG/L
+06/21/2017,14,FEET,63.2,DEGREES F,8.62,MG/L
+06/21/2017,16,FEET,59.9,DEGREES F,5.68,MG/L
+06/21/2017,18,FEET,57.8,DEGREES F,1.04,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/03/1994,Beautiful clear day.  Other than minor surface pollen close to shore-great.  Ducks + a loon on the lake today.    
+06/09/1994,Beautiful day.  Green slime (is this algae ) starting on west shoreline.  Ducks + a loon on the lake today.  Three blue heron on NW bog.    
+06/20/1994,Hot humid weather.  Received heavy rain about 2 days prior to reading.  Loon- ducks + blue heron still on lake.    
+06/30/1994,Green slime.  Sunny today-had rain for the last 2 days.  Green slime accumulating in many parts of lake now.    
+07/06/1994,Green slime.  Hot humid sunny day.  Received heavy rain early in the morning.  Would like to know what green hairy-like masses are (they are not weeds) .  Many such masses throughout the lake.    
+07/15/1994,Green slime.  Sunny day.  Have had several days of rain since last reading along with windy conditions.  Green airy slime patches throughout the lake.    
+07/22/1994,Public perception due to green slime.  Had heavy rain yesterday.  Still have patches of green slime in the lake.    
+07/28/1994,Public perception due to green slime.  Have had considerable rain + days have been much cooler.    
+08/05/1994,Had rain 2 days ago.  Yesterday was cool + breezy.  Today sunny + warmer.  Not as much slime present.    
+08/12/1994,Green slime or algae almost gone.  Weather cool.    
+08/17/1994,No rain for several days-cold temps.  Green slime going away.  Lake level going down.    
+08/25/1994,Hot sunny day.  No rain for a few days.  Has been warm.    
+09/02/1994,Water becoming murky.  Weather has been cool.  Today sunny- but cool.  About 2 dozen ducks on the lake today.    
+09/08/1994,Last few days the weather has been beautiful-sunny + warm.    
+09/16/1994,Has been warm and humid.  Received heavy rainfall the last 2 days.    
+09/23/1994,Hot- humid-have had thunderstorms rain for 2 days.  Some weeds showing on surface of water.    
+10/06/1994,Except for today- has been cold + rainy.  This will be last reading for season.    
+05/16/1995,Had heavy rain this a.m.  Breezy- no heavy rains.  Ducks are on the lake.    
+05/25/1995,Weather has been cool.  Today it was about 60 degrees and partly sunny.    
+06/02/1995,Public perception due to pollen.  Have had four warm days.  White fluffy pollen- very bad.  Observed start of water lilies on bottom of lake.    
+06/11/1995,Pollen.  Cool temps. the last five days-pollen still very bad.    
+06/18/1995,Pollen.  Very hot weather-today it was 100 degrees.    
+06/26/1995,Pollen.  No rain for over 2 weeks.  Has been very hot + humid.  Today's reading was taken just after rain-overcast-partly cloudy.    
+07/04/1995,Algae starting.  Having a cold spell.  No significant rainfall lately.  This reading was in participation of national "secchi dip-in".    
+07/13/1995,Algae present.  In a hot humid spell-no significant rain for quite some time.  Algae is quite evident.    
+07/20/1995,Have had rain + some storms in past week.  Saw blue heron today.  Fewer ducks on lake this year-no babies.    
+08/01/1995,Has been hot/humid for a few days.  Yesterday had thunderstorm.    
+08/17/1995,Hot + humid lately-severe thunderstorms a few days ago.    
+08/28/1995,Have had several thunderstorms lately with heavy rain-high humidity.    
+09/05/1995,Still hot + humid and warm water.    
+09/18/1995,Has been cool + windy.    
+09/26/1995,Have had frost + snow about 4 days ago.  This is the last reading for this year.    
+06/09/1996,Fuzzy pollen on surface.    
+07/04/1996,This was a reading for the great secchi dip-in. clear warm day.    
+07/15/1996,Weather has been cool and rainy for several days.    
+08/01/1996,Has been cool- breezy and rainy for almost 2 weeks.    
+08/13/1996,Most days it's very breezy. had storm with heavy rain a week ago.    
+08/23/1996,Algae only on west side of lake. two clumps of soil floating on water far from shore.  Lake level: very high    
+08/31/1996,Nights have been cool-days are warm but breezy. loon on lake today.    
+09/19/1996,Night are cool but no frost here. leaves are changing.    
+06/21/2017,Partly cloudy- 72 degrees Fahrenheit- slight wind- and water clarity was good.
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1979,Data Collectors,Migrated from STORET Legacy
+06/03/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/09/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/20/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/30/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/06/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/15/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/22/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/28/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/05/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/12/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/17/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/25/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/02/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/08/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/16/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/23/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+10/06/1994,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+05/16/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+05/25/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/02/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/11/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/18/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/26/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/04/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/13/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/20/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/01/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/17/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/28/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/05/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/18/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/26/1995,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/09/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/22/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/04/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/15/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/01/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/13/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/23/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+08/31/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+09/19/1996,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/01/1997,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+07/16/1997,Dennis And Carole Bulinski,Citizen Lake Monitoring - Water Quality - Clawson Lake - Deep Hole
+06/21/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

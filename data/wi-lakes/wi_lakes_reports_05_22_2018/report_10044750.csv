@@ -1,0 +1,71 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Butternut Lake,Barron,2105800,NO,3,,10044750,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+82607229,07/19/2016,2,NO,0.6,48,82.4,67,62,64,,,MURKY,BROWN,2-Very minor aesthetic problems
+10585221,08/12/2016,2.5,NO,0.8,51.1,61.7,64,60,65,,,MURKY,BROWN,
+10585221,08/31/2016,2.5,NO,0.8,30.7,58.9,64,60,61,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/19/2016,0,FEET,79.9,DEGREES F,10.53,MG/L
+07/19/2016,1,FEET,79.3,DEGREES F,10.48,MG/L
+07/19/2016,2,FEET,78.4,DEGREES F,10.1,MG/L
+07/19/2016,3,FEET,76.4,DEGREES F,8.91,MG/L
+07/19/2016,4,FEET,76.2,DEGREES F,8.8,MG/L
+07/19/2016,5,FEET,74,DEGREES F,5.62,MG/L
+07/19/2016,6,FEET,73.8,DEGREES F,5.3,MG/L
+07/19/2016,7,FEET,73.5,DEGREES F,4.79,MG/L
+07/19/2016,8,FEET,73.3,DEGREES F,4.6,MG/L
+07/19/2016,9,FEET,72.9,DEGREES F,3.98,MG/L
+07/19/2016,10,FEET,72.5,DEGREES F,3.27,MG/L
+07/19/2016,11,FEET,72.3,DEGREES F,2.44,MG/L
+07/19/2016,12,FEET,71.4,DEGREES F,.25,MG/L
+07/19/2016,13,FEET,71.3,DEGREES F,.33,MG/L
+08/12/2016,0,FEET,77.6,DEGREES F,7.29,MG/L
+08/12/2016,1,FEET,77.6,DEGREES F,7.28,MG/L
+08/12/2016,2,FEET,77.6,DEGREES F,7.27,MG/L
+08/12/2016,3,FEET,77.5,DEGREES F,7.1,MG/L
+08/12/2016,4,FEET,77.4,DEGREES F,7,MG/L
+08/12/2016,5,FEET,77.3,DEGREES F,6.91,MG/L
+08/12/2016,6,FEET,77.3,DEGREES F,6.74,MG/L
+08/12/2016,7,FEET,77.1,DEGREES F,6.35,MG/L
+08/12/2016,8,FEET,76.2,DEGREES F,4.03,MG/L
+08/12/2016,9,FEET,75.8,DEGREES F,2.13,MG/L
+08/12/2016,10,FEET,75,DEGREES F,1.36,MG/L
+08/12/2016,11,FEET,72.8,DEGREES F,.16,MG/L
+08/12/2016,12,FEET,71.2,DEGREES F,.2,MG/L
+08/12/2016,13,FEET,69.5,DEGREES F,.32,MG/L
+08/31/2016,0,FEET,73.3,DEGREES F,,
+08/31/2016,1,FEET,73.2,DEGREES F,,
+08/31/2016,2,FEET,72.9,DEGREES F,,
+08/31/2016,3,FEET,72.6,DEGREES F,,
+08/31/2016,4,FEET,72.5,DEGREES F,,
+08/31/2016,5,FEET,72.5,DEGREES F,,
+08/31/2016,6,FEET,72.4,DEGREES F,,
+08/31/2016,7,FEET,72.3,DEGREES F,,
+08/31/2016,8,FEET,72.2,DEGREES F,,
+08/31/2016,9,FEET,71.7,DEGREES F,,
+08/31/2016,10,FEET,71.6,DEGREES F,,
+08/31/2016,11,FEET,71.3,DEGREES F,,
+08/31/2016,12,FEET,71.1,DEGREES F,,
+08/31/2016,13,FEET,69.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/19/2016,SWF sediment sample collected via Ekman dredge. Sample was a half gallon of extremely fine sediments- so multi-stage processing was necessary (examining material screened through 500 um mesh- then liquid portion through 150 um mesh- then subsamples of remaining fine sediments through 150 um mesh.) 7 aliquots examined. 
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/2016,Mark Sundeen and Alex Smith,Directed Lakes 2016 Smith
+08/12/2016,MARK SUNDEEN,Directed Lakes 2016 Smith
+08/31/2016,MARK SUNDEEN,Directed Lakes 2016 Smith

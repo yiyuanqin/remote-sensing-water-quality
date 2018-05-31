@@ -1,0 +1,119 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sunrise Lake,Oconto,460900,NE,43,,433363,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189967,08/29/2000,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189967,09/13/2000,14.25,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189967,07/15/2001,20.5,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189967,08/24/2001,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189967,09/04/2001,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189967,09/22/2001,20.5,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189967,06/25/2002,12.5,NO,3.8,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189967,07/06/2002,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189967,07/12/2002,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188810,07/20/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188811,08/10/2002,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189967,08/25/2002,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189967,08/29/2002,21,NO,6.4,,,33,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,08/12/2003,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,08/19/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,08/26/2003,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,09/02/2003,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,09/09/2003,17,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,09/16/2003,19,NO,5.8,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188693,09/23/2003,17,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+88156081,06/01/2004,23,NO,7,,,32,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+88156081,06/14/2007,17,YES,5.2,,,36,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+88156081,09/20/2007,16.75,NO,5.1,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,05/22/2008,17.25,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,07/23/2008,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,08/20/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,09/14/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,10/11/2013,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,07/07/2014,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,08/08/2014,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,08/20/2014,14,NO,4.3,,,39,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+88156081,09/02/2014,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,09/14/2014,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,09/24/2014,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,06/26/2015,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,08/04/2015,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,09/04/2015,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+88156081,09/23/2015,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+88156081,07/14/2016,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,08/06/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,09/21/2016,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,08/22/2017,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+88156081,10/23/2017,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/15/2001,Absolutely beautiful day.  Very light breeze and lots of people swimming in the water.    
+08/24/2001,0.25" of rain the day before- small bass jumping in schools- calm- and light breeze - perfect day.    
+09/04/2001,School of small bass jumping- clear skies- calm- sunny- and absolutely quiet- no one on lake.    
+09/22/2001,Partly sunny- calm and quiet- lots of water bugs on surface- lots of monarch butterflies- and tiny minnows in shallows.    
+08/12/2003,Calm- clear- ducks on lake.  Almost 2" rain in previous 4 days.    
+08/19/2003,Clear and calm- slight breeze- muggy- no rain.    
+08/26/2003,Windy- clear- no rain.    
+09/02/2003,Moderate wind- clear sky.  No rain.    
+09/09/2003,Breezy- clear sky.  No rain.    
+09/16/2003,Beautiful day- no breeze.  Had 3 days straight of rain previously (9/12-9/14).    
+09/23/2003,Very windy but sunny.  No measurable rain lately.    
+
+
+
+
+Start Date,Group Name,Project Name
+08/29/2000,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/13/2000,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/15/2001,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/24/2001,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/04/2001,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/22/2001,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+06/25/2002,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/06/2002,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/12/2002,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/20/2002,Thomas Klauke And Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/10/2002,Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/25/2002,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/29/2002,Thomas And Joan Klauke and Charles Roberts,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/12/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/19/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/26/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/02/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/09/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/16/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/23/2003,Ken and Debbie Oestreich,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+06/01/2004,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+06/14/2007,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/20/2007,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+05/22/2008,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/23/2008,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/20/2013,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/14/2013,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+10/11/2013,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/07/2014,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/08/2014,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/20/2014,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/02/2014,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/14/2014,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/24/2014,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+06/26/2015,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/04/2015,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/04/2015,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/23/2015,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+07/14/2016,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/06/2016,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+09/21/2016,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+08/22/2017,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole
+10/23/2017,William Thorn,Citizen Lake Monitoring - Water Quality - Sunrise Lake; Deep Hole

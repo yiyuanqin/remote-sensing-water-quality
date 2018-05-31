@@ -1,0 +1,36 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Ten,Price,1859400,NO,51,,10048430,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,07/18/2017,,,,4.13,18.2,,51,46,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/18/2017,0,METERS,24.6,DEGREES C,7.85,MG/L
+07/18/2017,1,METERS,24.8,DEGREES C,7.8,MG/L
+07/18/2017,2,METERS,22.9,DEGREES C,6.3,MG/L
+07/18/2017,3,METERS,19.7,DEGREES C,3.8,MG/L
+07/18/2017,4,METERS,15.8,DEGREES C,.3,MG/L
+07/18/2017,5,METERS,11.5,DEGREES C,.1,MG/L
+07/18/2017,6,METERS,10.1,DEGREES C,.04,MG/L
+07/18/2017,7,METERS,8.4,DEGREES C,.04,MG/L
+07/18/2017,8,METERS,7.2,DEGREES C,.04,MG/L
+07/18/2017,9,METERS,6.6,DEGREES C,.1,MG/L
+07/18/2017,10,METERS,6,DEGREES C,.1,MG/L
+07/18/2017,10.5,METERS,5.8,DEGREES C,.04,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/18/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

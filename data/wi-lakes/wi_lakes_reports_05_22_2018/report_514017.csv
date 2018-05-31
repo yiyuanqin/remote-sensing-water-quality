@@ -1,0 +1,178 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wintergreen Lake,Price,2046700,NO,51,,514017,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/23/1979,,,,5.71,12,,47,48,,,,,
+37489957,09/18/2010,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/30/2010,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,06/26/2011,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/07/2011,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/24/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37489957,08/04/2011,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37489957,08/27/2011,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37489957,09/09/2011,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37489957,05/12/2012,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,05/22/2012,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,06/05/2012,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,06/13/2012,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/01/2012,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/13/2012,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/24/2012,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/13/2012,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/22/2012,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/15/2012,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/27/2012,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,05/13/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,06/03/2013,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,06/16/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/11/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/17/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/09/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/16/2013,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/28/2013,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/06/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37489957,09/16/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37489957,09/26/2013,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,10/10/2013,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,05/23/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,06/11/2014,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,07/09/2014,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,07/29/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,08/09/2014,6.5,NO,2,,,50,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,08/14/2014,6.5,NO,2,,,50,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,08/27/2014,7,NO,2.1,,,49,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+37489957,09/17/2014,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+37489957,06/21/2015,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+37489957,07/12/2015,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+37489957,07/27/2015,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+37489957,08/05/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/12/2015,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/03/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/21/2015,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+37489957,10/07/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+37489957,06/08/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/15/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,07/25/2016,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/06/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,08/16/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/02/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37489957,09/18/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/23/1979,,,,,7.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/30/2010,Windy- 10-15 MPH wind. 4.70 inches of rain in the last 8 days. Total measure rainfall April through October over 39 inches. Surface water temperature on October 20 was 48 degrees. F.
+05/22/2012,Wind at 18 MPH
+06/05/2012,Wind 8 MPH. Abundant pollen on water.
+06/13/2012,Wind at 10 MPH
+07/01/2012,Calm conditions
+07/13/2012,Wind at 8-10 MPH
+07/24/2012,Calm conditions
+08/13/2012,Partly cloudy
+08/22/2012,wind at 10-12 MPH
+09/15/2012,wind at 8-10 MPH
+09/27/2012,Lake down 9 inches.
+05/13/2013,Lake ic out May 6. Sunny- NE wind at 7 MPH. Lake overflowing.
+06/03/2013,Sunny. N wind 3.5 MPH. Lake overflowing.
+06/16/2013,Partly cloudy. WNW wind at 12 MPH. 1/2 inch of rain last night.
+07/11/2013,Clear and calm. Over 2 inches of rain the last 12 days.
+07/17/2013,West wind 3 MPH. Partly cloudy.
+08/09/2013,Wind at 14 MPH. Parly cloudy. Lake is down 3 inches.
+08/16/2013,West wind at 2-3 MPH. Partly cloudy. Lake down 5 inches.
+08/28/2013,Calm wind. Partly cloudy. 3.50 inches of rain in the last 3 days.
+09/06/2013,Partly cloudy. Wind at 5 MPH.
+09/16/2013,East wind at 12 MPH. Sunny.
+09/26/2013,SW wind at 10 MPH. Sunny.
+10/10/2013,SW wind at 4 MPH. Partly sunny. Lake hasn't turned over yet. Lake is overflowing.
+05/23/2014,Lake ice off May 1. Total May rainfall 5.85 inches. Abundant pollen on water. Lake is overflowing.
+06/11/2014,Total rainfall for June is 5.60 inches.
+07/09/2014,Partly cloudy. Wind 10-12 MPH out of the west.
+07/29/2014,Partly cloudy. Wind at 8 MPH. Lake level is high.
+08/09/2014,Sunny. Wind from the west at 6 MPH.
+08/14/2014,Sunny. Wind from the north at 4 MPH.
+08/27/2014,Sunny. Wind from the west at 5 MPH
+09/17/2014,Wind out of the west at 12 MPH. Well over 6 inches of rain for the month of September. Sunny. Lake is overflowing.
+06/21/2015,Lake ice went off on April 4. Lake is overflowing
+07/12/2015,Total monthly June rainfall 5.10 inches.
+07/27/2015,Wind out of the southwest at 5 MPH. Full sun.
+08/12/2015,Wind out of west at 7-8 MPH.
+09/03/2015,Wind out of the east at 5 MPH. 1 inch of rain in last 24 hours.
+09/21/2015,SW wind at 14 MPH. 1.0 inches of rain 2 days ago. Full sunshine.
+10/07/2015,NE wind at 5-9 MPH. Sunny
+07/15/2016,wind out of the SW at 12 MH. Cloudy and over cast. Water very high.
+07/25/2016,wind out of the NW at 5-7 MPH. Partly cloudy.
+08/06/2016,wind out of the NW at 4-5 MPH. Partly cloudy.
+08/16/2016,Wind out of the west at 4 MPH. Partly cloudy and overcast. water very high.
+09/02/2016,Sunny. SW wind at 3-5 MPH.
+09/18/2016,Sunny. wind 8-10 MPH.
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+09/18/2010,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/30/2010,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/26/2011,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/07/2011,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/24/2011,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/04/2011,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/27/2011,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/09/2011,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+05/12/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+05/22/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/05/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/13/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/01/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/13/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/24/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/13/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/22/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/15/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/27/2012,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+05/13/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/03/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/16/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/11/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/17/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/09/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/16/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/28/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/06/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/16/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/26/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+10/10/2013,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+05/23/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/11/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/09/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/29/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/09/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/14/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/27/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/17/2014,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/21/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/12/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/27/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/05/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/12/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/03/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/21/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+10/07/2015,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+06/08/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/15/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+07/25/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/06/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+08/16/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/02/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole
+09/18/2016,Gerald Brillhart,Citizen Lake Monitoring - Water Quality - Wintergreen Lake - Deep Hole

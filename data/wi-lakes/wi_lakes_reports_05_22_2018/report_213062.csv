@@ -1,0 +1,111 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Round Lake,Forest,480100,NO,21,,213062,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+52777745,05/04/2015,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,05/13/2015,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,06/01/2015,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/16/2015,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/27/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,07/05/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,07/15/2015,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,07/27/2015,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,08/13/2015,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,08/27/2015,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+52777745,09/12/2015,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,09/23/2015,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,10/07/2015,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+52777745,05/07/2016,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/19/2016,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/29/2016,8.25,NO,2.5,,,47,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+52777745,07/04/2016,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,07/16/2016,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,07/26/2016,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,08/02/2016,,NO,,,,,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,08/16/2016,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,08/26/2016,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,09/14/2016,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/04/2017,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/12/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,06/21/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,06/30/2017,8,NO,2.4,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+52777745,07/08/2017,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+52777745,07/16/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+52777745,07/24/2017,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+52777745,08/05/2017,9.5,YES,2.9,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+52777745,08/12/2017,10,YES,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+52777745,08/20/2017,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+52777745,09/08/2017,10,YES,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/01/2015,Heavy rain last several days.Beaver activity causing water level to rise.  Level up 2-3 inches based on boat dock distance from water.
+06/16/2015,Lots of rain.  Beaver activity continues.  Most boat docks touching water.  Loons present since ice out.  No signs of nest.
+06/27/2015,Boater looking for loon nest.  No loon chicks sighted. 
+
+07/05/2015,Many careless boaters motoring close to shore.  Persons in Kayak probing every inch of shore looking for wildlife.  little regard for waterfowl.
+07/27/2015,Some minor particulate in water
+08/13/2015,None
+08/27/2015,One adult loon spotted.  Some boat activity.
+09/12/2015,None
+09/23/2015,None
+10/07/2015,Bottom is 10.25 feet.  No boating activity on lake.  Ice out was on 4/10/2015.  Not certain if this date can be entered online.  No loons this year.  Have had loons past four years.  My guess was the water level changing frequently causing nest failure.  I plan to install 15" pipes through dams next year to regulate water level.
+06/29/2016,Loon pair not nesting again this year.  lake level more constant due to reduced Beaver activity.  
+07/04/2016,minor debris from 4 July activities.
+07/16/2016,Aquatic plant beds seem larger than usual.  Not invasive Aquatic vegetation.
+09/14/2016,bottom of lake can be seen.  very clear.
+06/04/2017,ice out first week of april
+06/12/2017,1.6" rain last evening
+06/21/2017,lots of rain again
+06/30/2017,Beaver activity on Round Creek.
+07/08/2017,Aggressive Eagle activity and or drastic level changes possible reason Round Lake had Loon nesting failure again. 
+09/08/2017,Cool day.  Occasional loon sighted.  Wondering if ANP for loons would be helpful.  Several rentals on lake.  All season folks disturbed waterfowl nesting areas. 
+
+
+
+
+Start Date,Group Name,Project Name
+05/04/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+05/13/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/01/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/16/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/27/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/05/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/15/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/27/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/13/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/27/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+09/12/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+09/23/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+10/07/2015,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+05/07/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/19/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/29/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/04/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/16/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/26/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/02/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/16/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/26/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+09/14/2016,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/04/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/12/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/21/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+06/30/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/08/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/16/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+07/24/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/05/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/12/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+08/20/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth
+09/08/2017,Keith Gillaume,Citizen Lake Monitoring - Water Quality - Round Lake- Max Depth

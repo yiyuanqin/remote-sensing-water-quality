@@ -1,0 +1,647 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Black Otter Lake (Hortonville),Outagamie,315600,NE,45,,453121,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190858,06/12/1986,4,NO,1.2,,,57,,,,,,BROWN,
+8190858,06/19/1986,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190858,06/26/1986,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190858,07/03/1986,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190858,07/17/1986,6.5,NO,2,,,50,,,,,,BROWN,
+8190858,07/24/1986,5.75,NO,1.7,,,52,,,,,,BROWN,
+8190858,07/31/1986,3.75,NO,1.1,,,58,,,,,,BROWN,
+8190858,08/07/1986,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190858,08/19/1986,4.25,NO,1.3,,,56,,,,,,BROWN,
+8190858,08/25/1986,4.25,NO,1.3,,,56,,,,,,BROWN,
+8190858,09/06/1986,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190858,09/13/1986,3.5,NO,1.1,,,59,,,,,,BROWN,
+8190858,09/24/1986,3.25,NO,1,,,60,,,,,,BROWN,
+8190858,10/01/1986,4.25,NO,1.3,,,56,,,,,,BROWN,
+8190858,10/19/1986,7,NO,2.1,,,49,,,,,,BROWN,
+8190858,11/02/1986,6,NO,1.8,,,51,,,,,,BROWN,
+8190858,03/28/1987,7,NO,2.1,,,49,,,,,,BROWN,
+8190858,04/08/1987,7,NO,2.1,,,49,,,,,,BROWN,
+8190858,05/04/1987,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190858,05/28/1987,3.5,NO,1.1,,,59,,,,,,BROWN,
+8190858,06/13/1987,2.75,NO,0.8,,,63,,,,,,BROWN,
+8190858,07/04/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190858,08/01/1987,3.5,NO,1.1,,,59,,,,,,BROWN,
+8190858,08/23/1987,5.5,NO,1.7,,,53,,,,,,BROWN,
+8190858,09/05/1987,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190858,10/03/1987,5.5,NO,1.7,,,53,,,,,,BROWN,
+8190858,01/21/1989,6,NO,1.8,,,51,,,,,,,
+8190858,07/01/1989,4.75,NO,1.4,,,55,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190858,07/21/1990,2.5,NO,0.8,,80,64,62,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190858,08/30/1990,5.25,NO,1.6,,,53,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190858,10/13/1990,4.25,NO,1.3,,22,56,52,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190858,07/30/1991,4.5,NO,1.4,,82,55,62,,,,,,
+8190858,08/10/1991,4.5,NO,1.4,,74,55,61,,,,,,
+8190858,10/13/1991,,,,,39,,57,,,,,,
+8190858,07/31/1992,6.5,NO,2,,42,50,57,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190858,08/09/1992,6.5,NO,2,,50,50,58,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190858,08/16/1992,7,NO,2.1,,48,49,58,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190858,08/29/1992,5.5,NO,1.7,,78,53,62,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190858,10/11/1992,4.75,NO,1.4,,65,55,60,,,,,BROWN,2-Very minor aesthetic problems
+8190658,07/09/1994,5.5,NO,1.7,,,53,,,,,,BROWN,4-Would not swim but boating OK (algae)
+1,07/30/1994,,,,11.1,56,,59,53,,,,,
+8190658,07/30/1994,5.25,NO,1.6,,,53,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190858,07/21/1996,3.25,NO,1,19.7,149,60,67,57,12.25' AT SAMPLE SITE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190858,06/01/1997,2.25,NO,0.7,25.8,52,65,59,59,,,MURKY,BROWN,
+8190858,06/28/1997,3,NO,0.9,21.8,129,61,66,58,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188659,04/24/2002,,,,33,60,,60,61,,,,,
+7000093,06/17/2002,3.4,NO,1,10,,59,,52,,,,,
+7000093,07/12/2002,3.1,NO,0.9,54.4,,61,,65,,,,,
+7000093,08/07/2002,2.5,NO,0.8,17,,64,,56,,,,,
+7000093,11/04/2002,6.9,NO,2.1,3.95,,49,,45,,,,,
+19321756,09/12/2007,9,YES,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,09/19/2007,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,09/28/2007,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,10/03/2007,9.2,NO,2.8,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,10/12/2007,7.2,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,10/20/2007,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,11/07/2007,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,04/20/2008,4.3,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19321756,04/27/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,05/01/2008,4.8,NO,1.5,,,55,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,05/08/2008,5.4,NO,1.6,,,53,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,05/15/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,05/23/2008,6.1,NO,1.9,,,51,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,05/28/2008,10.1,NO,3.1,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,06/05/2008,8.6,NO,2.6,,,46,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,06/13/2008,9.1,NO,2.8,,,45,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,06/18/2008,8.6,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,06/26/2008,7.2,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/04/2008,5.4,NO,1.6,,,53,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/12/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/20/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/27/2008,3.2,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,08/09/2008,2.8,NO,0.9,,,62,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19321756,08/25/2008,3.7,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,08/31/2008,3.7,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,09/06/2008,3.7,NO,1.1,,,58,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,05/20/2009,0,NO,0,,,,,,LOW,4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19321756,06/13/2009,5.8,NO,1.8,,,52,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,07/06/2009,5,NO,1.5,,,54,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,08/12/2009,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,08/26/2009,5.8,NO,1.8,,,52,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188659,08/27/2009,,,,33.3,122,,65,61,,,,,
+19321756,09/01/2009,4.8,NO,1.5,,,55,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+28613168,09/22/2009,,,,28.9,149,,67,60,,,,,
+19321756,10/13/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+19321756,11/01/2009,4.4,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,04/11/2010,5.7,NO,1.7,,,52,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+28613168,04/12/2010,,,,6.93,36,,56,49,,,,,
+19321756,04/19/2010,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,04/26/2010,5.3,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,05/02/2010,5.4,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,05/03/2010,,,,,37,,56,,,,,,
+19321756,05/09/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,05/15/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,05/24/2010,7.6,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,06/01/2010,6.3,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,06/09/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,06/15/2010,7.3,NO,2.2,4.73,30,48,54,47,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,07/07/2010,6.1,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/26/2010,,,,1.37,234,,70,37,,,,,
+19321756,07/26/2010,6.3,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,08/16/2010,,,,8.8,222,,70,51,,,,,
+19321756,08/26/2010,5.1,NO,1.6,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,09/13/2010,5.1,NO,1.6,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,11/09/2010,5.6,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19321756,11/22/2010,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19321756,05/25/2011,5.1,NO,1.6,,,54,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19321756,06/29/2011,5.9,NO,1.8,3.49,82,52,62,44,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19321756,07/10/2011,5.4,NO,1.6,,,53,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/19/2011,5.1,NO,1.6,29.9,95,54,63,60,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,08/30/2011,,,,13.9,95,,63,55,,,,,
+19321756,09/12/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,04/01/2012,4.4,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,04/09/2012,5.6,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+87677773,04/20/2012,,,,4.49,76,,62,46,,,,,
+19321756,05/03/2012,2.3,,0.7,,,65,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+87677773,05/03/2012,,,,2.85,161,,67,43,,,,,
+19321756,05/23/2012,7.2,,2.2,10.2,103,49,64,52,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,06/04/2012,,,,96.1,99,,64,69,,,,,
+19321756,06/24/2012,5.2,NO,1.6,22.8,74,53,61,58,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/09/2012,4.7,NO,1.4,41.5,135,55,66,63,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,07/20/2012,4.2,NO,1.3,,,56,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19321756,07/24/2012,4.8,NO,1.5,9.14,80,55,62,52,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,08/08/2012,4.9,NO,1.5,10.1,30,54,54,52,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,08/22/2012,6.2,NO,1.9,1.59,54,51,59,38,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,09/05/2012,5.9,NO,1.8,28,61,52,60,60,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,09/17/2012,5.8,NO,1.8,7.61,45,52,58,50,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,10/02/2012,5.7,NO,1.7,9.46,31,52,55,52,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19321756,10/09/2012,5.1,NO,1.6,4.76,32,54,55,47,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19321756,10/29/2012,,,,16.9,53,,59,56,,,,,
+19321756,05/16/2013,5.3,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34806821,07/09/2013,,,,12,71.5,,61,54,,,,,
+19321756,09/19/2013,6.8,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19321756,10/19/2013,8.4,YES,2.6,,,46,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+127853785,05/23/2016,6,NO,1.8,,44.1,51,57,,HIGH,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+127853785,07/05/2016,,,,57.5,165,,68,65,,,,,
+127853785,07/08/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+127853785,07/31/2016,,,,88.4,140,,66,69,,,,,
+127853785,08/29/2016,3.5,NO,1.1,29,90.9,59,63,60,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/04/1987,1,FEET,,,5,MG/L
+08/01/1987,1,FEET,,,6,MG/L
+08/23/1987,1,FEET,,,11,MG/L
+07/21/1990,3,FEET,78,DEGREES F,12,MG/L
+07/21/1990,5,FEET,71,DEGREES F,1,MG/L
+08/30/1990,3,FEET,75,DEGREES F,7,MG/L
+08/30/1990,6,FEET,69,DEGREES F,8,MG/L
+08/30/1990,8,FEET,67,DEGREES F,3,MG/L
+10/13/1990,3,FEET,48,DEGREES F,12,MG/L
+10/13/1990,6,FEET,48,DEGREES F,12,MG/L
+10/13/1990,8,FEET,48,DEGREES F,,
+10/13/1990,11,FEET,,,12,MG/L
+07/30/1991,3,FEET,50,DEGREES F,6,MG/L
+07/30/1991,6,FEET,50,DEGREES F,4,MG/L
+07/30/1991,9,FEET,50,DEGREES F,0,MG/L
+07/30/1991,11,FEET,50,DEGREES F,0,MG/L
+08/10/1991,3,FEET,66,DEGREES F,9,MG/L
+08/10/1991,6,FEET,68,DEGREES F,4,MG/L
+08/10/1991,9,FEET,67,DEGREES F,0,MG/L
+08/10/1991,11,FEET,62,DEGREES F,1,MG/L
+07/31/1992,3,FEET,73,DEGREES F,7,MG/L
+07/31/1992,6,FEET,73,DEGREES F,5,MG/L
+07/31/1992,9,FEET,70,DEGREES F,4,MG/L
+07/31/1992,10,FEET,64,DEGREES F,2,MG/L
+08/09/1992,3,FEET,70,DEGREES F,7,MG/L
+08/09/1992,6,FEET,70,DEGREES F,4,MG/L
+08/09/1992,9,FEET,70,DEGREES F,3,MG/L
+08/09/1992,10,FEET,66,DEGREES F,2,MG/L
+08/16/1992,3,FEET,69,DEGREES F,8,MG/L
+08/16/1992,6,FEET,66,DEGREES F,6,MG/L
+08/16/1992,9,FEET,66,DEGREES F,3,MG/L
+08/16/1992,10,FEET,67,DEGREES F,3,MG/L
+08/29/1992,3,FEET,69,DEGREES F,6,MG/L
+08/29/1992,6,FEET,68,DEGREES F,6,MG/L
+08/29/1992,9,FEET,66,DEGREES F,5,MG/L
+08/29/1992,10,FEET,67,DEGREES F,4,MG/L
+10/11/1992,3,FEET,55,DEGREES F,9,MG/L
+10/11/1992,6,FEET,54,DEGREES F,7,MG/L
+10/11/1992,9,FEET,54,DEGREES F,7,MG/L
+10/11/1992,11,FEET,54,DEGREES F,7,MG/L
+07/21/1996,3,FEET,72,DEGREES F,,
+07/21/1996,11,FEET,62,DEGREES F,,
+06/01/1997,3,FEET,69,DEGREES F,16,MG/L
+06/01/1997,6,FEET,64,DEGREES F,14,MG/L
+06/01/1997,9,FEET,64,DEGREES F,11,MG/L
+06/28/1997,3,FEET,76,DEGREES F,8,MG/L
+06/28/1997,6,FEET,72,DEGREES F,4,MG/L
+06/28/1997,9,FEET,64,DEGREES F,2,MG/L
+06/17/2002,,,24.9,C,11.1,MG/L
+07/12/2002,,,25.6,C,5.7,MG/L
+08/07/2002,,,24.0,C,5.4,MG/L
+11/04/2002,,,4.8,C,13.4,MG/L
+04/20/2008,11,FEET,57,DEGREES F,,
+04/27/2008,4,FEET,56,DEGREES F,,
+05/01/2008,3,FEET,11.9,DEGREES C,14.17,MG/L
+05/01/2008,6,FEET,12,DEGREES C,14.3,MG/L
+05/08/2008,3,FEET,18,DEGREES C,14.63,MG/L
+05/08/2008,6,FEET,15.6,DEGREES C,15.2,MG/L
+05/15/2008,3,FEET,17,DEGREES C,15.96,MG/L
+05/15/2008,6,FEET,16.5,DEGREES C,15.43,MG/L
+05/15/2008,9,FEET,15.2,DEGREES C,14.64,MG/L
+05/23/2008,3,FEET,18.6,DEGREES C,15.73,MG/L
+05/23/2008,6,FEET,18.4,DEGREES C,15.96,MG/L
+05/23/2008,9,FEET,17.2,DEGREES C,17.14,MG/L
+05/28/2008,3,FEET,18.1,DEGREES C,12.37,MG/L
+05/28/2008,6,FEET,17.7,DEGREES C,12.34,MG/L
+05/28/2008,9,FEET,17.6,DEGREES C,12.29,MG/L
+06/05/2008,3,FEET,20.1,DEGREES C,8.97,MG/L
+06/05/2008,6,FEET,19.5,DEGREES C,9.2,MG/L
+06/05/2008,9,FEET,18,DEGREES C,3.64,MG/L
+06/13/2008,3,FEET,21.1,DEGREES C,6.32,MG/L
+06/13/2008,6,FEET,19.2,DEGREES C,3.63,MG/L
+06/13/2008,9,FEET,18.3,DEGREES C,2.64,MG/L
+06/18/2008,3,FEET,21.8,DEGREES C,11.94,MG/L
+06/18/2008,6,FEET,20.7,DEGREES C,9.69,MG/L
+06/18/2008,9,FEET,19.2,DEGREES C,.19,MG/L
+06/26/2008,3,FEET,24.5,DEGREES C,11.92,MG/L
+06/26/2008,6,FEET,22.9,DEGREES C,8.65,MG/L
+06/26/2008,9,FEET,19.9,DEGREES C,.24,MG/L
+07/04/2008,3,FEET,23.3,DEGREES C,12.97,MG/L
+07/04/2008,6,FEET,22.5,DEGREES C,5.62,MG/L
+07/04/2008,9,FEET,19.9,DEGREES C,.18,MG/L
+07/12/2008,3,FEET,25.5,DEGREES C,8.76,MG/L
+07/12/2008,6,FEET,24.6,DEGREES C,6.21,MG/L
+07/12/2008,9,FEET,20.7,DEGREES C,.16,MG/L
+07/20/2008,3,FEET,25.6,DEGREES C,8.1,MG/L
+07/20/2008,6,FEET,23.6,DEGREES C,3.79,MG/L
+07/20/2008,9,FEET,21,DEGREES C,.13,MG/L
+07/27/2008,3,FEET,25,DEGREES C,9.71,MG/L
+07/27/2008,6,FEET,23.6,DEGREES C,1.93,MG/L
+07/27/2008,9,FEET,20.8,DEGREES C,.1,MG/L
+08/09/2008,3,FEET,23.5,DEGREES C,9.59,MG/L
+08/09/2008,6,FEET,23.3,DEGREES C,.95,MG/L
+08/09/2008,9,FEET,20.4,DEGREES C,.12,MG/L
+08/25/2008,3,FEET,23.2,DEGREES C,7.81,MG/L
+08/25/2008,6,FEET,22.7,DEGREES C,4.63,MG/L
+08/25/2008,9,FEET,20.5,DEGREES C,.17,MG/L
+08/31/2008,3,FEET,23.4,DEGREES C,9.79,MG/L
+08/31/2008,6,FEET,22.1,DEGREES C,.42,MG/L
+08/31/2008,9,FEET,20.5,DEGREES C,.12,MG/L
+09/06/2008,3,FEET,21.4,DEGREES C,6.7,MG/L
+09/06/2008,6,FEET,20.7,DEGREES C,5.7,MG/L
+09/06/2008,9,FEET,20,DEGREES C,5.84,MG/L
+06/13/2009,3,FEET,19.8,DEGREES C,10.4,MG/L
+06/13/2009,6,FEET,15.6,DEGREES C,3.42,MG/L
+06/13/2009,9,FEET,14.5,DEGREES C,.92,MG/L
+07/06/2009,3,FEET,24.4,DEGREES C,12.68,MG/L
+07/06/2009,6,FEET,23.5,DEGREES C,14.77,MG/L
+07/06/2009,9,FEET,20.8,DEGREES C,1.1,MG/L
+08/12/2009,3,FEET,24.8,DEGREES C,11.51,MG/L
+08/12/2009,6,FEET,23.3,DEGREES C,5.04,MG/L
+08/12/2009,9,FEET,22.1,DEGREES C,.29,MG/L
+08/26/2009,3,FEET,21.9,DEGREES C,9.62,MG/L
+08/26/2009,6,FEET,21.4,DEGREES C,5.49,MG/L
+08/26/2009,9,FEET,21,DEGREES C,4.22,MG/L
+09/01/2009,3,FEET,19.8,DEGREES C,9.63,MG/L
+09/01/2009,6,FEET,19.2,DEGREES C,8.58,MG/L
+09/01/2009,9,FEET,18.8,DEGREES C,4.19,MG/L
+10/13/2009,3,FEET,9.5,DEGREES C,12.25,MG/L
+10/13/2009,6,FEET,9.4,DEGREES C,12.29,MG/L
+10/13/2009,9,FEET,8.5,DEGREES C,13.2,MG/L
+11/01/2009,3,FEET,8.8,DEGREES C,9.77,MG/L
+11/01/2009,6,FEET,8.5,DEGREES C,9.45,MG/L
+11/01/2009,9,FEET,8.1,DEGREES C,9.06,MG/L
+04/11/2010,3,FEET,9.8,DEGREES C,11.74,MG/L
+04/11/2010,6,FEET,9.5,DEGREES C,11.73,MG/L
+04/11/2010,9,FEET,8.9,DEGREES C,11.63,MG/L
+04/19/2010,3,FEET,14.7,DEGREES C,12.2,MG/L
+04/19/2010,6,FEET,14.4,DEGREES C,12.19,MG/L
+04/19/2010,9,FEET,14.1,DEGREES C,12.13,MG/L
+04/26/2010,3,FEET,13,DEGREES C,9.69,MG/L
+04/26/2010,6,FEET,12.6,DEGREES C,9.78,MG/L
+04/26/2010,9,FEET,12.2,DEGREES C,10.1,MG/L
+05/02/2010,3,FEET,17.6,DEGREES C,10.42,MG/L
+05/02/2010,6,FEET,17,DEGREES C,10.05,MG/L
+05/02/2010,9,FEET,15.4,DEGREES C,7.6,MG/L
+05/09/2010,3,FEET,12.6,DEGREES C,9.73,MG/L
+05/09/2010,6,FEET,12,DEGREES C,9.6,MG/L
+05/09/2010,9,FEET,11.7,DEGREES C,9.7,MG/L
+05/15/2010,3,FEET,12.1,DEGREES C,10.75,MG/L
+05/15/2010,6,FEET,11.9,DEGREES C,10.91,MG/L
+05/15/2010,9,FEET,11.6,DEGREES C,11.07,MG/L
+05/24/2010,3,FEET,25.6,DEGREES C,12.41,MG/L
+05/24/2010,6,FEET,18.4,DEGREES C,15.13,MG/L
+05/24/2010,9,FEET,15,DEGREES C,17.03,MG/L
+06/01/2010,3,FEET,24.5,DEGREES C,13.81,MG/L
+06/01/2010,6,FEET,20.9,DEGREES C,17.24,MG/L
+06/01/2010,9,FEET,16.3,DEGREES C,12.72,MG/L
+06/09/2010,3,FEET,19.7,DEGREES C,9.3,MG/L
+06/09/2010,6,FEET,19.4,DEGREES C,8.77,MG/L
+06/09/2010,9,FEET,17.3,DEGREES C,.62,MG/L
+06/15/2010,3,FEET,20.3,DEGREES C,9.77,MG/L
+06/15/2010,6,FEET,19.7,DEGREES C,5.58,MG/L
+06/15/2010,9,FEET,17.5,DEGREES C,.26,MG/L
+07/07/2010,3,FEET,26.1,DEGREES C,8.83,MG/L
+07/07/2010,6,FEET,23.5,DEGREES C,.49,MG/L
+07/07/2010,9,FEET,21,DEGREES C,.1,MG/L
+07/26/2010,3,FEET,24.4,DEGREES C,3.85,MG/L
+07/26/2010,6,FEET,22.7,DEGREES C,.82,MG/L
+07/26/2010,9,FEET,21,DEGREES C,.46,MG/L
+08/26/2010,3,FEET,21.2,DEGREES C,9.3,MG/L
+08/26/2010,6,FEET,20.9,DEGREES C,7.16,MG/L
+08/26/2010,9,FEET,20.8,DEGREES C,6.35,MG/L
+09/13/2010,3,FEET,18.6,DEGREES C,8.48,MG/L
+09/13/2010,6,FEET,17.9,DEGREES C,6.71,MG/L
+09/13/2010,9,FEET,17.2,DEGREES C,4.2,MG/L
+11/09/2010,3,FEET,8.1,DEGREES C,8.56,MG/L
+11/09/2010,6,FEET,7.2,DEGREES C,8.52,MG/L
+11/09/2010,9,FEET,7.2,DEGREES C,7.67,MG/L
+11/22/2010,3,FEET,5.1,DEGREES C,10.45,MG/L
+11/22/2010,6,FEET,4.6,DEGREES C,10.47,MG/L
+11/22/2010,9,FEET,3.7,DEGREES C,9.77,MG/L
+05/25/2011,3,FEET,17.4,DEGREES C,8.12,MG/L
+05/25/2011,6,FEET,17.3,DEGREES C,7.9,MG/L
+05/25/2011,9,FEET,15.4,DEGREES C,2.66,MG/L
+06/29/2011,3,FEET,20.9,DEGREES C,9.29,MG/L
+06/29/2011,6,FEET,19.7,DEGREES C,5.78,MG/L
+06/29/2011,9,FEET,16.7,DEGREES C,1.11,MG/L
+07/10/2011,3,FEET,25.7,DEGREES C,9.17,MG/L
+07/10/2011,6,FEET,23.4,DEGREES C,.71,MG/L
+07/10/2011,9,FEET,18.8,DEGREES C,.19,MG/L
+07/19/2011,3,FEET,24.8,DEGREES C,6.73,MG/L
+07/19/2011,6,FEET,21.7,DEGREES C,.18,MG/L
+07/19/2011,9,FEET,19.8,DEGREES C,.14,MG/L
+09/12/2011,3,FEET,22.3,DEGREES C,8.98,MG/L
+09/12/2011,6,FEET,21.1,DEGREES C,3.76,MG/L
+09/12/2011,9,FEET,19.9,DEGREES C,.11,MG/L
+04/01/2012,3,FEET,9.2,DEGREES C,11.72,MG/L
+04/01/2012,6,FEET,8.6,DEGREES C,10.04,MG/L
+04/01/2012,9,FEET,7.8,DEGREES C,9.17,MG/L
+04/09/2012,3,FEET,12.5,DEGREES C,13.17,MG/L
+05/03/2012,3,FEET,18,DEGREES C,12.11,MG/L
+05/03/2012,6,FEET,13.3,DEGREES C,11.03,MG/L
+05/03/2012,9,FEET,12.7,DEGREES C,6.54,MG/L
+05/23/2012,3,FEET,20.2,DEGREES C,11.6,MG/L
+05/23/2012,6,FEET,18.2,DEGREES C,2.07,MG/L
+06/24/2012,3,FEET,23.9,DEGREES C,4.77,MG/L
+06/24/2012,6,FEET,21.5,DEGREES C,.21,MG/L
+07/09/2012,3,FEET,28.2,DEGREES C,4.05,MG/L
+07/09/2012,6,FEET,23.9,DEGREES C,.19,MG/L
+07/20/2012,0,FEET,25.7,DEGREES C,.19,MG/L
+07/20/2012,3,FEET,25.8,DEGREES C,.17,MG/L
+07/20/2012,6,FEET,25.8,DEGREES C,.12,MG/L
+07/24/2012,0,FEET,27.5,DEGREES C,4.49,MG/L
+07/24/2012,3,FEET,27.3,DEGREES C,2.58,MG/L
+07/24/2012,6,FEET,23.5,DEGREES C,.09,MG/L
+08/08/2012,0,FEET,25.4,DEGREES C,7.94,MG/L
+08/08/2012,3,FEET,25.4,DEGREES C,7.82,MG/L
+08/08/2012,6,FEET,24,DEGREES C,.16,MG/L
+08/22/2012,0,FEET,24.4,DEGREES C,11.53,MG/L
+08/22/2012,3,FEET,23,DEGREES C,11.15,MG/L
+08/22/2012,6,FEET,22.2,DEGREES C,2.39,MG/L
+09/05/2012,0,FEET,24,DEGREES C,7.7,MG/L
+09/05/2012,3,FEET,24.2,DEGREES C,7.47,MG/L
+09/05/2012,6,FEET,23.8,DEGREES C,.45,MG/L
+09/17/2012,0,FEET,19.6,DEGREES C,9.34,MG/L
+09/17/2012,3,FEET,19.4,DEGREES C,9.35,MG/L
+09/17/2012,6,FEET,19.2,DEGREES C,8.55,MG/L
+10/02/2012,0,FEET,17.6,DEGREES C,11.99,MG/L
+10/02/2012,3,FEET,15.9,DEGREES C,12.93,MG/L
+10/02/2012,6,FEET,15.5,DEGREES C,13.43,MG/L
+10/09/2012,0,FEET,10.1,DEGREES C,9.45,MG/L
+10/09/2012,3,FEET,10,DEGREES C,9.43,MG/L
+10/09/2012,6,FEET,10,DEGREES C,9.43,MG/L
+05/16/2013,6,FEET,17.4,DEGREES C,7.29,MG/L
+09/19/2013,3,FEET,20.6,DEGREES C,8.35,MG/L
+09/19/2013,6,FEET,18.9,DEGREES C,.5,MG/L
+09/19/2013,9,FEET,18.2,DEGREES C,.17,MG/L
+10/19/2013,3,FEET,12,DEGREES C,7.03,MG/L
+10/19/2013,6,FEET,11.8,DEGREES C,7.01,MG/L
+10/19/2013,8,FEET,11.6,DEGREES C,6.86,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/03/1986,Start cutting weeds today.    
+07/31/1986,We have had 7+ inches of rain the past two weeks.    
+09/13/1986,Four inches of rain on Wednesday and Thursday of this week.    
+10/19/1986,Secchi disc almost hit the bottom.  The spot I have been taking readings is at 7.5 feet.    
+03/28/1987,Most of the ice went out Wednesday 3/25/87.    
+05/04/1987,Sunny with light winds from the northeast.    
+05/28/1987,Cold and drizzly last week.  Hot and humid with occasional heavy rains this week- heavy weed growth this year.    
+06/13/1987,Sprayed diquat on the weeds on June 2nd.    
+07/04/1987,A large amount of chuckweed on the lake.    
+08/01/1987,Weather has been hot- humid and very little rain.    
+08/23/1987,About an inch of rain since last reading.    
+09/05/1987,Sky became overcast while out taking the reading.    
+10/03/1987,Last reading.    
+01/21/1989,About 14" of ice.  Oxygen level is 10.6.  Monitored with Dwight l. Louison.    
+07/01/1989,No algae but excessive weeds- one inch of rain on 6/28- only rain to amount to anything this summer.  Oxygen level is 6.4. monitored with Dwight l. Louison.    
+07/21/1990,Partly cloudy.  Monitored with Tony.    
+08/30/1990,The water is about 3' below normal.  5" of rain from 8/1-8/30.  Monitored with Tony Habeck.    
+07/30/1991,1.15" of rain from 7/21-7/29.    
+08/10/1991,2.2" of rainfall from 8/6-8/7.    
+10/13/1991,No secchi reading given.    
+08/09/1992,Rain gauge reading from 8/2-8/9 is 1.2 inches.    
+08/16/1992,Rain gauge reading from 8/9-8/16 is 0.1 inches.    
+08/29/1992,Weeds harvested starting 8/16 to 8/18.  Rain gauge reading from 8/15-8/29 is 0.7 inches.    
+10/11/1992,Rain gauge reading from 8/27-10/11 is 7.5 inches.    
+07/21/1996,More of a problem with duck week rather than algae.    
+06/01/1997,Had a major runoff from some area.  Area that was suspected was said to have proper erosion control.  Feel this happened after the rain that clouded the lake.    
+06/28/1997,Enjoyment impaired because of aquatic plants.  Harvesting to begin June 30- 1997.    
+04/24/2002,DEEP SPOT - 1FT BELOW SURFACE    
+06/17/2002,DEEP SPOT    
+07/12/2002,DEEP SPOT    
+08/07/2002,DEEP SPOT    
+11/04/2002,(C) DEEP SPOT    
+09/12/2007,Weather Clear - Wind Minimal
+09/19/2007,Party cloudy low/moderate breeze.
+09/28/2007,Found 11' of depth. Clear + Calm.
+10/03/2007,Clear Day - Moderate Wind
+Water Temp 66
+10/12/2007,Cloudy- moderate breeze - Water 58. Starting turnover.
+10/20/2007,Moderate Wind - Weather Clear
+11/07/2007,In the middle of turnover- moderate breeze- overcast.
+04/20/2008,Lake had terrible rain + runoff 4/8 just recovering now- water is quite turbid. Minimal depth clarity- first reading. Ordered dissolved oxygen meter 4/19.
+04/27/2008,Water quite choppy- in middle of cold front lake is still very murky.
+05/01/2008,Very windy- considerable chop from East.
+05/08/2008,Water had chop- lots of dead vegetation floating water somewhat turbid.
+05/15/2008,Lake had slight chop. Was seen to be a little more murky than last week probably due to chemical treatment of curly leaf last Tuesday. Treated 30 acres.
+05/23/2008,Quite windy- lots of floating debris in water decaying plants etc. Water otherwise appears to be clearing up a bit.
+05/28/2008,
+Very calm  + clear sunshine. Water quality is very good visibility is the best it's been this early in the year. 
+06/05/2008,Had rain visibilty down slightly- water level up somewhat. Moderate chop on the lake.
+06/13/2008,Water had moderate chop appears to be clearing up from rains.
+06/18/2008,It was late in the evening but lake was calm + last of a sunny day. Lake is really getting depleted of oxygen.
+06/26/2008,Water apepared as clear but did not get normal depth perhaps due to taking reading so early. Water calm- weather clear.
+07/04/2008,Lake was quite calm visibilty a little worse- some bloom. Lake was quite calm visibilty a little worse- some bloom.
+07/12/2008,Water Had a slight chop + continues murky.
+07/20/2008,Slight Chop on water- surface looked a little clearer.
+07/27/2008,Slight chop on water- water at shore looks as though it's starting to clear. Water when placing Secchi down looks worse.
+08/09/2008,Water was quite murky- an obvious algae bloom + some aquatics are dying or dropping down anyway- Slight chop on water.
+08/25/2008,Water is still very turbid. Slight chop on the lake- alot of the weeds have gone down.
+08/31/2008,Lake was calm- dropped 1st 6" for drawdown since Friday 8/29. Water still very murky.
+09/06/2008,Drawdown has begun as of 8/29 down 19 1/4". Light chop on water- still murky.
+05/20/2009,Just started refilling the lake today. Will be two weeks before Secchi's + dissolved oxygen can be taken.
+06/13/2009,Calm + clear. 69.
+07/06/2009,Call + Clear. Water starting to get murky. Curly leaf may be starting to die.
+08/12/2009,Very calm + clear. Water a little murky- curly leaf pondweed still around. Overabundance of sago pondweed.
+08/26/2009,Water was choppy curly leaf starting to die.
+09/01/2009,Water was calm- algae bloom started.
+10/13/2009,Lake was choppy- appeared more clear- bloom pretty much gone.
+11/01/2009,Water was calm but quite murky.
+04/11/2010,Lake relatively calm water reasonably clear.
+04/19/2010,Very calm water quality affected by some algae.
+04/26/2010,Lake had considerable chop + perhaps a little more cloudiness due to treatment 4/19.
+05/02/2010,Slight chop on lake- appears a little clearer. Mostly cloudy 55.
+05/09/2010,Water looks to be clearing up more slight chop.
+05/15/2010,Slight chop algae blooming- water quite clear.
+05/24/2010,Water clear lots of bloom- very choppy.
+06/01/2010,Just a slight chop new algae showing otherwise very clear + good.
+06/01/2010,Light chop visibility improving but considerable new algae. Baby bass in swarms.
+06/09/2010,A little choppy but clarity is great more new algae growth. Bottom DO was incorrect due to a problem with the meter.
+06/15/2010,Cloudy with chop- clarity good very low oxygen at bottom.
+07/07/2010,Slight Chop - Duck Weed has sure started to bloom. 
+07/26/2010,Water Calm - Still a ton of duckweed. Water has cleared up some. DO was incorrect due to problem with meter.
+08/26/2010,Slight chop water has cleared up discovered previous readings of DO wrong.
+09/13/2010,Water moderate chop- lake weeds improving duck weed deminishing.
+11/09/2010,Fairly calm water on browner side. Readings this summer for DO were incorrect due to problem with meter. Readings were not taken in Sept + Oct because lake was drawn down for rebuild of landing.
+11/22/2010,Very cloudy + misting- slight chop. Last reading before ice. Will take readings this winter.
+05/25/2011,Lake was very choppy + murky from rains.
+06/29/2011,Lake was calm but tanic stained- otherwuse quality quite good.
+07/10/2011,Lake was choppy- water appeared less tanic.
+07/19/2011,Calm + foggy water looks pretty clear.
+09/12/2011,Lake was very calm + skies were clear. Water quality looked visually improved.
+04/01/2012,Overcast + moderate chop. Lake quite murky.
+05/03/2012,Water very muddy due to heavy rain. Heavy chop due to windy condition-
+05/23/2012,Slight chop- lake dropped about 20" to date. Water quite clear. Will not be able to do D.O. at 9 ft. through the summer due to water level drop. Just a slit chop on lake.
+06/24/2012,Water clearing- slight chop. 
+07/09/2012,Water somewhat murky- lake calm. Water level down 3 ft.
+07/20/2012,Lake calm- fish dieoff- approx. 1000 80% bluegills. Larger fish were primarily suckers- 25% northerns- some bass + several jumbp perch.
+07/24/2012,Some what choppy- no more dieoff of fish. visability improved somewhat.
+08/08/2012,Slight chop- water improving somewhat.
+08/22/2012,Good chop- water quality moving up.
+09/05/2012,Walm calm + overcast. lots of duckweed.
+09/17/2012,Moderate chop- lake clearing up.
+10/02/2012,Lake calm- alot of duckweed on top.
+10/09/2012,Lake calm- looks quite murky.
+08/29/2016,Temp 82 degrees- partly cloudy- weed harvester lanes made navigation much easier than in July. 
+
+
+
+
+Start Date,Group Name,Project Name
+06/12/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/19/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/26/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/03/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/17/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/24/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/31/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/07/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/19/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/25/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/06/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/13/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/24/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/01/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/19/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+11/02/1986,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+03/28/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/08/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/04/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/28/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/13/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/04/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/01/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/23/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/05/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/03/1987,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+01/21/1989,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/01/1989,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/21/1990,Al Habeck,Statewide Lakes TP 1990
+08/30/1990,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/13/1990,Al Habeck,Statewide Lakes TP 1990
+07/30/1991,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/10/1991,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/13/1991,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/31/1992,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/09/1992,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/16/1992,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/29/1992,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/11/1992,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/09/1994,Jeff Swoboda,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/30/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/30/1994,Jeff Swoboda,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/21/1996,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/01/1997,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/28/1997,Al Habeck,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/24/2002,Chad Cason,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Comprehensive Management Plan
+06/17/2002,Mary Gansberg,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Comprehensive Management Plan
+07/12/2002,Mary Gansberg,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Comprehensive Management Plan
+08/07/2002,Mary Gansberg,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Comprehensive Management Plan
+11/04/2002,Mary Gansberg,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Comprehensive Management Plan
+09/12/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/19/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/28/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/03/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/12/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/20/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+11/07/2007,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/20/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/27/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/01/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/08/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/15/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/23/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/28/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/05/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/13/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/18/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/26/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/04/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/12/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/20/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/27/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/09/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/25/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/31/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/06/2008,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/20/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/13/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/06/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/12/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/26/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/27/2009,Chad Cason,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Drawdown + CLP/EWM Control Project
+09/01/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/22/2009,Brad Roost,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Drawdown + CLP/EWM Control Project
+10/13/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+11/01/2009,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/11/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/12/2010,Brad Roost,BLACK OTTER LAKE P + R DISTRICT: Black Otter Lake Drawdown + CLP/EWM Control Project
+04/19/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/26/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/02/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/03/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/09/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/15/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/24/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/01/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/09/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/15/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/07/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/26/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/26/2010,Data Collectors,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/16/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/26/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/13/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+11/09/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+11/22/2010,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/25/2011,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/25/2011,Bill Curtis,Citizen Lake Monitoring Network QA/QC - 2011
+06/29/2011,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/10/2011,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/19/2011,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/30/2011,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/12/2011,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/01/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/09/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+04/20/2012,Beil,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+05/03/2012,Beil,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+05/03/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/23/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+05/23/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+06/04/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+06/24/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+06/24/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/09/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+07/09/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/20/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/24/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+07/24/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/08/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+08/08/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/22/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+08/22/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/05/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+09/05/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/17/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+09/17/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/02/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+10/02/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/09/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+10/09/2012,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/29/2012,Bill Curtis,BLACK OTTER LAKE P + R DISTRICT: Black Otter Comp. Watershed Assess.
+05/16/2013,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/09/2013,Mason Arnold,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+09/19/2013,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+10/19/2013,Bill Curtis,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+05/23/2016,Emily Heeg,Citizen Aquatic Invasives Monitoring - Black Otter Lake
+05/23/2016,Emily Heeg,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/05/2016,Emily Heeg,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/08/2016,Emily Heeg,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+07/31/2016,Emily Heeg,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole
+08/29/2016,Emily Heeg,Citizen Lake Monitoring - Water Quality - Black Otter Lake - Deep Hole

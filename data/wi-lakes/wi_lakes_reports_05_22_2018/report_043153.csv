@@ -1,0 +1,85 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Turtle Lake,Bayfield,2502900,NO,4,,043153,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189147,08/22/2000,8,YES,2.4,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,09/25/2000,8,YES,2.4,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,10/16/2000,6.5,YES,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,05/27/2001,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BROWN,
+8189147,07/04/2001,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,BROWN,
+8189147,08/02/2001,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,BROWN,
+8189147,10/04/2001,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,BROWN,
+8189147,05/31/2002,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,07/08/2002,7,YES,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,09/04/2002,7,YES,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,10/08/2002,7,YES,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,05/22/2003,6.5,YES,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,07/08/2003,6.25,YES,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,07/22/2003,6.25,YES,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,09/23/2003,6,YES,1.8,,,51,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189147,05/25/2004,5.5,YES,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,07/15/2004,5.75,YES,1.7,,,52,,,LOW,,CLEAR,,
+8189147,09/12/2004,6,YES,1.8,,,51,,,LOW,,MURKY,,
+8189147,05/23/2005,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,07/18/2005,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,09/26/2005,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189147,05/02/2006,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,07/18/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,08/10/2006,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189147,10/18/2006,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,08/02/2011,6,YES,1.8,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,09/15/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,08/27/2015,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,08/25/2016,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189147,09/04/2017,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/02/2011,The rainfall this year caused the lake to explode with aquatic plants - this made it easier to find the deep hole.  The lake is still very difficult to get out into - shallow mucky bottomw with very thick grasses out from shoreline.
+08/25/2016,The lake is now trapping the dead and live vegetation along the shoreline.
+09/04/2017,The lake level continues to rise- little or no lake activity.
+
+
+
+
+Start Date,Group Name,Project Name
+08/22/2000,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/25/2000,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+10/16/2000,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+05/27/2001,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/04/2001,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+08/02/2001,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+10/04/2001,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+05/31/2002,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/08/2002,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/04/2002,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+10/08/2002,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+05/22/2003,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/08/2003,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/22/2003,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/23/2003,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+05/25/2004,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/15/2004,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/12/2004,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+05/23/2005,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/18/2005,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/26/2005,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+05/02/2006,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+07/18/2006,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+08/10/2006,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+10/18/2006,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+08/02/2011,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/15/2014,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+08/27/2015,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+08/25/2016,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center
+09/04/2017,Ingemar Ekstrom,Citizen Lake Monitoring - Water Quality - Turtle Lake; Near Center

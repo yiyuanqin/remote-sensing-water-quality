@@ -1,0 +1,32 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Joyce Lake,Vilas,993300,NO,64,,643070,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1979,,,,,,,,,,,,,
+1,10/12/1999,,,,,5,,41,,,,,,
+1,10/12/2000,,,,2,13,,48,40,,,,,
+19205950,10/05/2016,,,,,14.5,,49,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/1979,,,24.5,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1979,Data Collectors,Migrated from STORET Legacy
+10/12/1999,Data Collectors,LAKE CLASSIFICATION FISHERIES
+10/12/2000,Data Collectors,LAKE CLASSIFICATION - FISHERIE
+10/05/2016,Lake Remote Sensing Pilot,Long-term lake chemistry changes to acid deposition; revisiting Wisconsin Early Response Lakes 

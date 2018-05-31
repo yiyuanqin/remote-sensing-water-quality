@@ -1,0 +1,168 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sugar Camp Lake,Oneida,1020400,NO,44,,443471,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+36969336,08/12/2010,11,YES,3.3,,,43,,,LOW,11.5,CLEAR,GREEN,2-Very minor aesthetic problems
+36969336,09/18/2010,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+36969336,10/30/2010,4.5,NO,1.4,,,55,,,LOW,12,MURKY,BROWN,2-Very minor aesthetic problems
+36969333,05/28/2011,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+36969336,07/03/2011,8.5,NO,2.6,,,46,,,NORMAL,13,CLEAR,BLUE,1-Beautiful, could not be nicer
+36969336,07/26/2011,10.3,NO,3.1,,,44,,,NORMAL,13,CLEAR,GREEN,1-Beautiful, could not be nicer
+36969336,09/10/2011,6,NO,1.8,,,51,,,LOW,12,MURKY,GREEN,2-Very minor aesthetic problems
+36969336,10/02/2011,4.5,NO,1.4,,,55,,,LOW,12,MURKY,GREEN,2-Very minor aesthetic problems
+36969336,10/23/2011,4.5,NO,1.4,,,55,,,LOW,12,MURKY,GREEN,2-Very minor aesthetic problems
+132673627,09/20/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+132673627,10/06/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+132673627,07/05/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+132673627,07/29/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+132673627,09/08/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+132673627,09/15/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+132673627,10/09/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/18/2010,1,FEET,57.2,DEGREES F,,
+09/18/2010,2,FEET,57.2,DEGREES F,,
+09/18/2010,3,FEET,57.2,DEGREES F,,
+09/18/2010,4,FEET,57.2,DEGREES F,,
+09/18/2010,5,FEET,57,DEGREES F,,
+09/18/2010,6,FEET,56.8,DEGREES F,,
+09/18/2010,7,FEET,56.6,DEGREES F,,
+09/18/2010,8,FEET,56.6,DEGREES F,,
+09/18/2010,9,FEET,56.4,DEGREES F,,
+09/18/2010,10,FEET,55.7,DEGREES F,,
+09/18/2010,11,FEET,55.4,DEGREES F,,
+09/18/2010,12,FEET,55.4,DEGREES F,,
+09/18/2010,13,FEET,55.4,DEGREES F,,
+10/30/2010,0,FEET,39.9,DEGREES F,,
+10/30/2010,1,FEET,39.9,DEGREES F,,
+10/30/2010,2,FEET,39.9,DEGREES F,,
+10/30/2010,3,FEET,39.9,DEGREES F,,
+10/30/2010,4,FEET,39.9,DEGREES F,,
+10/30/2010,5,FEET,39.9,DEGREES F,,
+10/30/2010,6,FEET,39.9,DEGREES F,,
+10/30/2010,7,FEET,39.9,DEGREES F,,
+10/30/2010,8,FEET,39.9,DEGREES F,,
+10/30/2010,9,FEET,39.9,DEGREES F,,
+10/30/2010,10,FEET,39.9,DEGREES F,,
+10/30/2010,11,FEET,39.9,DEGREES F,,
+10/30/2010,12,FEET,39.9,DEGREES F,,
+05/28/2011,0,FEET,60,DEGREES F,,
+05/28/2011,1,FEET,60,DEGREES F,,
+05/28/2011,2,FEET,60,DEGREES F,,
+05/28/2011,3,FEET,60,DEGREES F,,
+05/28/2011,4,FEET,59.9,DEGREES F,,
+05/28/2011,5,FEET,59.7,DEGREES F,,
+05/28/2011,6,FEET,59.7,DEGREES F,,
+05/28/2011,7,FEET,59.5,DEGREES F,,
+05/28/2011,8,FEET,59.3,DEGREES F,,
+05/28/2011,9,FEET,59.3,DEGREES F,,
+05/28/2011,10,FEET,59.3,DEGREES F,,
+05/28/2011,11,FEET,59.3,DEGREES F,,
+07/03/2011,0,FEET,75.3,DEGREES F,,
+07/03/2011,1,FEET,75.3,DEGREES F,,
+07/03/2011,2,FEET,75.3,DEGREES F,,
+07/03/2011,3,FEET,75,DEGREES F,,
+07/03/2011,4,FEET,75,DEGREES F,,
+07/03/2011,5,FEET,74.4,DEGREES F,,
+07/03/2011,6,FEET,74.4,DEGREES F,,
+07/03/2011,7,FEET,74.3,DEGREES F,,
+07/03/2011,8,FEET,74.3,DEGREES F,,
+07/03/2011,9,FEET,74.1,DEGREES F,,
+07/03/2011,10,FEET,74.1,DEGREES F,,
+07/03/2011,11,FEET,74.1,DEGREES F,,
+07/03/2011,12,FEET,73,DEGREES F,,
+07/03/2011,13,FEET,72.5,DEGREES F,,
+07/26/2011,0,FEET,75.9,DEGREES F,,
+07/26/2011,1,FEET,75.9,DEGREES F,,
+07/26/2011,2,FEET,75.9,DEGREES F,,
+07/26/2011,3,FEET,75.7,DEGREES F,,
+07/26/2011,4,FEET,75.7,DEGREES F,,
+07/26/2011,5,FEET,75.7,DEGREES F,,
+07/26/2011,6,FEET,75.5,DEGREES F,,
+07/26/2011,7,FEET,75.5,DEGREES F,,
+07/26/2011,8,FEET,75.2,DEGREES F,,
+07/26/2011,9,FEET,75.2,DEGREES F,,
+07/26/2011,10,FEET,75,DEGREES F,,
+07/26/2011,11,FEET,75,DEGREES F,,
+07/26/2011,12,FEET,75,DEGREES F,,
+07/26/2011,13,FEET,75,DEGREES F,,
+09/10/2011,0,FEET,72.3,DEGREES F,,
+09/10/2011,1,FEET,70.8,DEGREES F,,
+09/10/2011,2,FEET,69.8,DEGREES F,,
+09/10/2011,3,FEET,69.4,DEGREES F,,
+09/10/2011,4,FEET,69,DEGREES F,,
+09/10/2011,5,FEET,68.7,DEGREES F,,
+09/10/2011,6,FEET,68.1,DEGREES F,,
+09/10/2011,7,FEET,67.8,DEGREES F,,
+09/10/2011,8,FEET,67.4,DEGREES F,,
+09/10/2011,9,FEET,67.2,DEGREES F,,
+09/10/2011,10,FEET,67.2,DEGREES F,,
+09/10/2011,11,FEET,67.1,DEGREES F,,
+09/10/2011,12,FEET,67.1,DEGREES F,,
+10/02/2011,0,FEET,54.3,DEGREES F,,
+10/02/2011,1,FEET,54.1,DEGREES F,,
+10/02/2011,2,FEET,53.9,DEGREES F,,
+10/02/2011,3,FEET,52.8,DEGREES F,,
+10/02/2011,4,FEET,52.5,DEGREES F,,
+10/02/2011,5,FEET,52.1,DEGREES F,,
+10/02/2011,6,FEET,51.9,DEGREES F,,
+10/02/2011,7,FEET,51.8,DEGREES F,,
+10/02/2011,8,FEET,51.6,DEGREES F,,
+10/02/2011,9,FEET,51.6,DEGREES F,,
+10/02/2011,10,FEET,51.6,DEGREES F,,
+10/02/2011,11,FEET,51.4,DEGREES F,,
+10/02/2011,12,FEET,51.4,DEGREES F,,
+10/23/2011,0,FEET,43.7,DEGREES F,,
+10/23/2011,1,FEET,43.7,DEGREES F,,
+10/23/2011,2,FEET,43.7,DEGREES F,,
+10/23/2011,3,FEET,43.7,DEGREES F,,
+10/23/2011,4,FEET,43.5,DEGREES F,,
+10/23/2011,5,FEET,43.5,DEGREES F,,
+10/23/2011,6,FEET,43.5,DEGREES F,,
+10/23/2011,7,FEET,43.5,DEGREES F,,
+10/23/2011,8,FEET,43.5,DEGREES F,,
+10/23/2011,9,FEET,43.5,DEGREES F,,
+10/23/2011,10,FEET,43.5,DEGREES F,,
+10/23/2011,11,FEET,43.5,DEGREES F,,
+10/23/2011,12,FEET,43.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/12/2010,Sunny- calm wind and water.  Numerous locations of lily pad growth.  
+09/18/2010,Sunny day- light winds.  
+10/30/2010,Sunny- air temperature 43 degrees- light winds.  Measures taken 3 days following a strong 60 mile wind gusts + rain storm that lasted 2 days.  Water appeared turbid and water levels continue to be low but have risen a bit from last reading in September
+05/28/2011,Cloudy- calm winds
+07/03/2011,Lake calm- lily pad expansion into 5' foot water level.  Significant vegetation encroaching from shoreline into lake.  Minimal algae.   Weather clear- low winds. Deepest water level continues to be up by 2' from last year's measures (from 11' in 2010 to 13' in this reading).
+07/26/2011,Calm- sunny weather.  Lake depth continues to be 2' above prior year levels at 13'.  Continued encroachment of heavy lily pad vegetation into deeper waters up to 20' from the shoreline.  Little algae (spirogyra) growth observed.  
+09/10/2011,75 degrees- sunny- 3 mph winds.  Little motorized boat traffic due to low water levels.  Opening between North and South lobes deep enough for wave runners if dragged across. Numerous water plants observed on the surface in deeper 4-5 foot waters. Algae moderate.
+10/02/2011,Sunny- 2 mph winds.  Water appears green and murky.  Lake plants less noticeable.  Low level of algae.  Little motorized boat traffic.  Water levels continue to be low.  Channel between lobes shallower limiting crossovers.  
+10/23/2011,Light clouds- 7mph winds. No boat traffic.  Most surface level vegetation gone.  Depth holding at 12'.  
+
+
+
+
+Start Date,Group Name,Project Name
+08/12/2010,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+09/18/2010,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+10/30/2010,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+05/28/2011,Kerry Kindt,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+07/03/2011,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+07/26/2011,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+09/10/2011,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+10/02/2011,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+10/23/2011,Peg Djurdjulov,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+09/20/2016,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+10/06/2016,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+07/05/2017,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+07/29/2017,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+09/08/2017,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+09/15/2017,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin
+10/09/2017,Dale Watson,Citizen Lake Monitoring - Water Quality - Sugar Camp Lake - South Basin

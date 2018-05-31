@@ -1,0 +1,65 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Bass Lake,Vilas,998400,NO,64,,643385,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+16097342,06/24/2006,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,07/06/2006,17.5,NO,5.3,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,07/12/2006,19,NO,5.8,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,07/13/2006,18.75,NO,5.7,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,07/30/2006,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,08/07/2006,17,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,08/14/2006,17.5,NO,5.3,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,08/15/2006,18.5,NO,5.6,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097342,06/18/2012,18,,5.5,,,35,,,LOW,Down 2 feet,CLEAR,BROWN,1-Beautiful, could not be nicer
+16097342,06/26/2012,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+16097342,07/10/2012,13,,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097342,05/25/2014,10,NO,3,,,44,,,HIGH,High,MURKY,BROWN,2-Very minor aesthetic problems
+16097342,06/17/2014,11,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16097342,07/03/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16097342,07/04/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/24/2006,Loons with one young. Three Bald Eagles - one immature. 0.25 inches of rain on the evening of 6/23/06. Light wind. No waves. Partially cloudy. Bass feeding in schools on the surface in deep water.
+07/06/2006,Two loons with one young. Young loon about 12 to 14 inches in length. Over 1 inch of rain the previous week. Wind 0-5 knots. Water surface calm. Sky clear to hazy. Insects hatching and fish surface feeding.
+07/12/2006,Bald Eagle feeding on a fish in a mature White Pine on the south shore of the lake. Dry period. Wind west 0-3 knots. Lake surface calm.
+07/13/2006,Male ( ) loon landed on lake and joined other mature (mother ) with young. Clear. Wind west 0-3 knots. Lake surface calm.
+07/30/2006,Wind East @ 10 knots. Waves interfere with secchi disk visibility . Partly cloudy with breaks in cloud cover during secchi reading. 2 days of rain with 2.5 inches total.
+08/07/2006,Light winds north at 2-5 knots. Clear with only a few clouds. Ripples on lake surface. Two Bald Eagles (pair ) perched on mature White Pines on south shore. Hummingbird flying west over lake.
+08/14/2006,Winds north 15-25 knots. Waves and wind make reading difficult. Great Blue Heron flying towards east bay. Partly cloudy. 0.20 inches of rain on the evening of 8/13.
+08/15/2006,Clear. Wind north 10-15 knots. Waves intermitent - light to moderate. Great Blue Heron in east bay.
+06/18/2012,Heavy rains the night before secchi  reading- calm winds- clear sky- immature bald eagle flew of perch and left a trail of down feathers on the surface of the water- loons Heavy rains the night before secchi  reading- calm winds- clear sky- immature bald eagle flew of perch and left a trail of down feathers on the surface of the water- loons
+06/26/2012,Cloudy- calm- I observed two bald eagles harassing a pair of loons that had a chick swimming with them.
+07/10/2012,A pair of loons seems to have lost their chick. This came after many weeks of harassment by eagles- although I am uncertain that the eagles were the cause of the chicks demise.
+07/03/2017,Skies clear with 30% of sky in small clouds. Extremely high water. 1 Loon. Calm.
+07/04/2017,Cloudless sky. Variable winds. Sunny + warm. Loon nest discovered by relatives.
+
+
+
+
+Start Date,Group Name,Project Name
+06/24/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/06/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/12/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/13/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/30/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+08/07/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+08/14/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+08/15/2006,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+06/18/2012,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+06/26/2012,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/10/2012,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+05/25/2014,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+06/17/2014,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/03/2017,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole
+07/04/2017,Michael L. Connors,Citizen Lake Monitoring - Water Quality - Little Bass Lake (998400); Deep Hole

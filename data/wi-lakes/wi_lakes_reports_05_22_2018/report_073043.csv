@@ -1,0 +1,888 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Love Lake,Burnett,2671000,NO,7,,073043,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191124,06/21/1990,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/29/1990,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/06/1990,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/20/1990,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/29/1990,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/03/1990,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/10/1990,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/24/1990,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/12/1990,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/21/1990,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,11/04/1990,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/03/1991,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/25/1991,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/05/1991,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/14/1991,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/30/1991,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/20/1991,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/06/1991,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/20/1991,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/27/1991,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/07/1991,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/11/1991,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/01/1992,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/18/1992,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/24/1992,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/29/1992,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/05/1992,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/10/1992,19.75,NO,6,,,34,,,NORMAL,,,LIGHT GREEN,1-Beautiful, could not be nicer
+8191124,06/12/1992,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/20/1992,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/05/1992,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/05/1992,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/14/1992,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/31/1992,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/08/1992,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/17/1992,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/27/1992,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/03/1992,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/11/1992,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/14/1993,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/21/1993,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/05/1993,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/11/1993,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/21/1993,,,,,11,,47,,,,,,
+8191124,06/21/1993,13.25,NO,4,3.43,,40,,44,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/28/1993,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,07/12/1993,,,,,7,,43,,,,,,
+8191124,07/12/1993,14.75,NO,4.5,1.8,,38,,39,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/07/1993,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/28/1993,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/31/1993,,,,,9,,45,,,,,,
+8191124,08/31/1993,11.25,NO,3.4,3.74,,42,,45,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/07/1994,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/08/1994,9,NO,2.7,9.46,21,45,52,52,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/27/1994,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/24/1994,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/25/1994,9.75,NO,3,2.73,12,44,47,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/01/1994,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/17/1994,11.75,NO,3.6,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/18/1994,12.5,NO,3.8,2.52,12,41,47,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/24/1994,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/04/1994,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/14/1994,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/15/1994,11,NO,3.3,4.61,14,43,49,46,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/21/1994,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/26/1994,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/08/1994,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/17/1994,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/29/1994,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/10/1994,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/14/1994,12.25,NO,3.7,4.28,19,41,51,46,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/06/1995,8.25,NO,2.5,5.26,24,47,53,47,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/19/1995,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/26/1995,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/03/1995,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/09/1995,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/16/1995,8.25,NO,2.5,1.77,11,47,47,39,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/23/1995,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/01/1995,12.25,NO,3.7,,,41,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/14/1995,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/16/1995,13.5,NO,4.1,0.05,,40,,12,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/28/1995,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/19/1995,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/04/1995,10,NO,3,3.82,10,44,46,45,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/09/1995,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/08/1995,10.75,NO,3.3,4.47,13,43,48,46,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/11/1996,7.75,NO,2.4,6.64,16,48,50,49,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/18/1996,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/02/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/08/1996,14.75,NO,4.5,1.87,20,38,51,40,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/14/1996,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/29/1996,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/16/1996,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/17/1996,9,NO,2.7,2.85,15,45,49,43,HIGH,,CLEAR,BLUE,
+8191124,07/20/1996,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/11/1996,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/15/1996,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/17/1996,8.25,NO,2.5,3.47,13,47,48,44,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/23/1996,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/12/1996,11,NO,3.3,4.14,20,43,51,46,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/17/1997,8.5,NO,2.6,,80,46,62,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/01/1997,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/27/1997,12,NO,3.6,1.83,23,41,52,39,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/02/1997,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/10/1997,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/18/1997,11.75,NO,3.6,3.97,30,42,54,45,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/21/1997,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/26/1997,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/04/1997,11.75,NO,3.6,3.79,19,42,51,45,,,,,
+8191124,05/03/1998,18.25,NO,5.5,,72,35,61,,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,05/10/1998,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/25/1998,11.25,NO,3.4,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,06/13/1998,13.5,NO,4.1,3.13,14,40,49,43,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,07/04/1998,15,NO,4.6,,,38,,,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,07/13/1998,18.25,NO,5.5,1.48,48,35,58,38,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,08/01/1998,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/09/1998,8.25,NO,2.5,,,47,,,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,08/21/1998,8.5,NO,2.6,,,46,,,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,08/29/1998,7.75,NO,2.4,6.2,21,48,52,49,,,CLEAR,,1-Beautiful, could not be nicer
+8191124,09/18/1998,7,NO,2.1,,,49,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/09/1998,9.5,NO,2.9,5.45,19,45,51,48,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/02/1999,8.5,NO,2.6,,20,46,51,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,05/27/1999,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/10/1999,12,NO,3.6,2.3,13,41,48,41,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/21/1999,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/06/1999,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/21/1999,11.5,NO,3.5,2.39,16,42,50,41,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/29/1999,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,10/02/1999,12.75,NO,3.9,3,19,40,51,43,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,06/25/2000,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/14/2000,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/09/2000,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/24/2000,13.1,,4,3.9,13,40,48,45,,,,,
+8191124,09/24/2000,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,05/12/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,06/03/2001,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,06/16/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,07/12/2001,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,08/04/2001,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,08/19/2001,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,09/28/2001,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,05/31/2002,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,06/15/2002,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,06/29/2002,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,07/11/2002,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,07/28/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,08/25/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,09/07/2002,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,09/27/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,06/14/2003,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,07/19/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191238,05/17/2004,12,NO,3.6,,13,41,48,,,,,,
+8191124,06/06/2004,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191203,06/12/2004,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191204,06/19/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,07/08/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191205,07/12/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190116,07/19/2004,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191206,07/25/2004,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191203,08/06/2004,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191226,08/10/2004,9.5,NO,2.9,5.19,13,45,48,47,,,,,
+8191124,06/12/2005,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191399,06/19/2005,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191399,06/25/2005,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/02/2005,11.5,NO,3.5,,,42,,,NORMAL,1.72,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/09/2005,15.75,NO,4.8,,,37,,,NORMAL,1.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/17/2005,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,07/27/2005,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/06/2005,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,08/27/2005,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191124,09/18/2005,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,07/03/2006,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/07/2006,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,07/03/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116053,09/23/2007,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116053,06/15/2008,10.25,,3.1,,,44,,,,,,BLUE,1-Beautiful, could not be nicer
+16116053,07/29/2008,10,,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/19/2008,9,,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,07/05/2009,11,,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,07/29/2009,13.5,,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/23/2009,10,,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/29/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116053,09/04/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116053,05/28/2011,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116053,07/16/2011,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116053,10/29/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+16116053,07/01/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116053,07/06/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116053,08/02/2013,12,NO,3.6,,,41,,,NORMAL,60,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/18/2013,11,NO,3.3,,,43,,,NORMAL,62,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/31/2013,12,NO,3.6,,,41,,,NORMAL,60,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,09/29/2013,9,NO,2.7,,,45,,,NORMAL,60,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,08/01/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116053,05/12/2017,8,NO,2.4,,,47,,,,63,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/21/1993,3,FEET,65,DEGREES F,,
+06/21/1993,9,FEET,65,DEGREES F,,
+06/21/1993,12,FEET,64,DEGREES F,,
+06/21/1993,15,FEET,64,DEGREES F,,
+06/21/1993,20,FEET,58,DEGREES F,,
+06/21/1993,25,FEET,48,DEGREES F,,
+06/21/1993,35,FEET,44,DEGREES F,,
+06/21/1993,45,FEET,44,DEGREES F,,
+06/21/1993,55,FEET,43,DEGREES F,,
+06/21/1993,60,FEET,43,DEGREES F,,
+07/12/1993,3,FEET,72,DEGREES F,,
+07/12/1993,9,FEET,72,DEGREES F,,
+07/12/1993,12,FEET,72,DEGREES F,,
+07/12/1993,15,FEET,70,DEGREES F,,
+07/12/1993,20,FEET,59,DEGREES F,,
+07/12/1993,25,FEET,52,DEGREES F,,
+07/12/1993,35,FEET,45,DEGREES F,,
+07/12/1993,45,FEET,44,DEGREES F,,
+07/12/1993,55,FEET,43,DEGREES F,,
+07/12/1993,60,FEET,43,DEGREES F,,
+08/31/1993,3,FEET,74,DEGREES F,,
+08/31/1993,9,FEET,74,DEGREES F,,
+08/31/1993,12,FEET,74,DEGREES F,,
+08/31/1993,15,FEET,74,DEGREES F,,
+08/31/1993,20,FEET,67,DEGREES F,,
+08/31/1993,25,FEET,55,DEGREES F,,
+08/31/1993,35,FEET,45,DEGREES F,,
+08/31/1993,45,FEET,44,DEGREES F,,
+08/31/1993,55,FEET,44,DEGREES F,,
+05/08/1994,3,FEET,53,DEGREES F,,
+05/08/1994,9,FEET,53,DEGREES F,,
+05/08/1994,12,FEET,52,DEGREES F,,
+05/08/1994,15,FEET,52,DEGREES F,,
+05/08/1994,20,FEET,49,DEGREES F,,
+05/08/1994,25,FEET,48,DEGREES F,,
+05/08/1994,35,FEET,47,DEGREES F,,
+05/08/1994,45,FEET,46,DEGREES F,,
+05/08/1994,55,FEET,45,DEGREES F,,
+06/25/1994,3,FEET,78,DEGREES F,,
+06/25/1994,9,FEET,78,DEGREES F,,
+06/25/1994,12,FEET,75,DEGREES F,,
+06/25/1994,15,FEET,68,DEGREES F,,
+06/25/1994,20,FEET,63,DEGREES F,,
+06/25/1994,25,FEET,51,DEGREES F,,
+06/25/1994,35,FEET,46,DEGREES F,,
+06/25/1994,45,FEET,45,DEGREES F,,
+06/25/1994,55,FEET,45,DEGREES F,,
+06/25/1994,60,FEET,45,DEGREES F,,
+07/18/1994,3,FEET,76,DEGREES F,,
+07/18/1994,9,FEET,75,DEGREES F,,
+07/18/1994,12,FEET,75,DEGREES F,,
+07/18/1994,15,FEET,74,DEGREES F,,
+07/18/1994,20,FEET,66,DEGREES F,,
+07/18/1994,25,FEET,53,DEGREES F,,
+07/18/1994,35,FEET,50,DEGREES F,,
+07/18/1994,45,FEET,46,DEGREES F,,
+07/18/1994,55,FEET,45,DEGREES F,,
+07/18/1994,60,FEET,45,DEGREES F,,
+08/15/1994,3,FEET,72,DEGREES F,,
+08/15/1994,9,FEET,70,DEGREES F,,
+08/15/1994,12,FEET,70,DEGREES F,,
+08/15/1994,15,FEET,70,DEGREES F,,
+08/15/1994,20,FEET,65,DEGREES F,,
+08/15/1994,25,FEET,53,DEGREES F,,
+08/15/1994,35,FEET,53,DEGREES F,,
+08/15/1994,45,FEET,46,DEGREES F,,
+08/15/1994,55,FEET,45,DEGREES F,,
+08/15/1994,60,FEET,45,DEGREES F,,
+10/14/1994,3,FEET,56,DEGREES F,,
+10/14/1994,9,FEET,56,DEGREES F,,
+10/14/1994,12,FEET,56,DEGREES F,,
+10/14/1994,15,FEET,55,DEGREES F,,
+10/14/1994,20,FEET,55,DEGREES F,,
+10/14/1994,25,FEET,55,DEGREES F,,
+10/14/1994,35,FEET,50,DEGREES F,,
+10/14/1994,45,FEET,47,DEGREES F,,
+10/14/1994,55,FEET,46,DEGREES F,,
+10/14/1994,60,FEET,45,DEGREES F,,
+05/06/1995,1,FEET,55,DEGREES F,,
+05/06/1995,10,FEET,53,DEGREES F,,
+05/06/1995,20,FEET,48,DEGREES F,,
+05/06/1995,30,FEET,42,DEGREES F,,
+05/06/1995,40,FEET,41,DEGREES F,,
+05/06/1995,50,FEET,41,DEGREES F,,
+05/06/1995,54,FEET,41,DEGREES F,,
+06/16/1995,1,FEET,71,DEGREES F,,
+06/16/1995,10,FEET,63,DEGREES F,,
+06/16/1995,20,FEET,55,DEGREES F,,
+06/16/1995,30,FEET,40,DEGREES F,,
+06/16/1995,40,FEET,38,DEGREES F,,
+06/16/1995,50,FEET,37,DEGREES F,,
+06/16/1995,58,FEET,38,DEGREES F,,
+07/16/1995,1,FEET,73,DEGREES F,,
+07/16/1995,10,FEET,72,DEGREES F,,
+07/16/1995,20,FEET,63,DEGREES F,,
+07/16/1995,30,FEET,51,DEGREES F,,
+07/16/1995,40,FEET,42,DEGREES F,,
+07/16/1995,50,FEET,40,DEGREES F,,
+07/16/1995,58,FEET,38,DEGREES F,,
+09/04/1995,1,FEET,73,DEGREES F,,
+09/04/1995,10,FEET,72,DEGREES F,,
+09/04/1995,20,FEET,68,DEGREES F,,
+09/04/1995,30,FEET,48,DEGREES F,,
+09/04/1995,40,FEET,45,DEGREES F,,
+09/04/1995,50,FEET,39,DEGREES F,,
+09/04/1995,58,FEET,39,DEGREES F,,
+10/08/1995,1,FEET,52,DEGREES F,,
+10/08/1995,10,FEET,52,DEGREES F,,
+10/08/1995,20,FEET,52,DEGREES F,,
+10/08/1995,30,FEET,47,DEGREES F,,
+10/08/1995,40,FEET,41,DEGREES F,,
+10/08/1995,50,FEET,40,DEGREES F,,
+10/08/1995,58,FEET,40,DEGREES F,,
+05/11/1996,3,FEET,52,DEGREES F,,
+05/11/1996,5,FEET,50,DEGREES F,,
+05/11/1996,10,FEET,50,DEGREES F,,
+05/11/1996,15,FEET,49,DEGREES F,,
+05/11/1996,20,FEET,47,DEGREES F,,
+05/11/1996,25,FEET,45,DEGREES F,,
+05/11/1996,30,FEET,44,DEGREES F,,
+05/11/1996,40,FEET,41,DEGREES F,,
+05/11/1996,50,FEET,40,DEGREES F,,
+05/11/1996,58,FEET,40,DEGREES F,,
+06/08/1996,3,FEET,69,DEGREES F,,
+06/08/1996,5,FEET,64,DEGREES F,,
+06/08/1996,10,FEET,64,DEGREES F,,
+06/08/1996,15,FEET,62,DEGREES F,,
+06/08/1996,20,FEET,50,DEGREES F,,
+06/08/1996,25,FEET,52,DEGREES F,,
+06/08/1996,30,FEET,45,DEGREES F,,
+06/08/1996,40,FEET,42,DEGREES F,,
+06/08/1996,50,FEET,41,DEGREES F,,
+07/17/1996,3,FEET,76,DEGREES F,,
+07/17/1996,5,FEET,74,DEGREES F,,
+07/17/1996,10,FEET,73,DEGREES F,,
+07/17/1996,15,FEET,66,DEGREES F,,
+07/17/1996,20,FEET,62,DEGREES F,,
+07/17/1996,25,FEET,57,DEGREES F,,
+07/17/1996,30,FEET,48,DEGREES F,,
+07/17/1996,40,FEET,42,DEGREES F,,
+07/17/1996,50,FEET,42,DEGREES F,,
+07/17/1996,58,FEET,42,DEGREES F,,
+08/17/1996,3,FEET,75,DEGREES F,,
+08/17/1996,5,FEET,75,DEGREES F,,
+08/17/1996,10,FEET,74,DEGREES F,,
+08/17/1996,15,FEET,73,DEGREES F,,
+08/17/1996,20,FEET,65,DEGREES F,,
+08/17/1996,25,FEET,50,DEGREES F,,
+08/17/1996,30,FEET,49,DEGREES F,,
+08/17/1996,40,FEET,49,DEGREES F,,
+08/17/1996,50,FEET,42,DEGREES F,,
+08/17/1996,58,FEET,42,DEGREES F,,
+10/12/1996,3,FEET,54,DEGREES F,,
+10/12/1996,5,FEET,53,DEGREES F,,
+10/12/1996,10,FEET,53,DEGREES F,,
+10/12/1996,15,FEET,53,DEGREES F,,
+10/12/1996,20,FEET,53,DEGREES F,,
+10/12/1996,25,FEET,52,DEGREES F,,
+10/12/1996,30,FEET,49,DEGREES F,,
+10/12/1996,40,FEET,43,DEGREES F,,
+10/12/1996,50,FEET,41,DEGREES F,,
+05/17/1997,1,FEET,55,DEGREES F,,
+05/17/1997,5,FEET,53,DEGREES F,,
+05/17/1997,10,FEET,52,DEGREES F,,
+05/17/1997,15,FEET,51,DEGREES F,,
+05/17/1997,20,FEET,51,DEGREES F,,
+05/17/1997,25,FEET,50,DEGREES F,,
+05/17/1997,30,FEET,46,DEGREES F,,
+05/17/1997,40,FEET,42,DEGREES F,,
+05/17/1997,50,FEET,40,DEGREES F,,
+05/17/1997,58,FEET,40,DEGREES F,,
+07/27/1997,1,FEET,78,DEGREES F,,
+07/27/1997,5,FEET,77,DEGREES F,,
+07/27/1997,10,FEET,75,DEGREES F,,
+07/27/1997,15,FEET,74,DEGREES F,,
+07/27/1997,20,FEET,65,DEGREES F,,
+07/27/1997,25,FEET,61,DEGREES F,,
+07/27/1997,30,FEET,50,DEGREES F,,
+07/27/1997,40,FEET,45,DEGREES F,,
+07/27/1997,50,FEET,43,DEGREES F,,
+08/18/1997,0,FEET,70,DEGREES F,,
+08/18/1997,5,FEET,69,DEGREES F,,
+08/18/1997,10,FEET,69,DEGREES F,,
+08/18/1997,15,FEET,69,DEGREES F,,
+08/18/1997,20,FEET,65,DEGREES F,,
+08/18/1997,25,FEET,60,DEGREES F,,
+08/18/1997,30,FEET,55,DEGREES F,,
+08/18/1997,40,FEET,45,DEGREES F,,
+08/18/1997,50,FEET,45,DEGREES F,,
+08/18/1997,58,FEET,42,DEGREES F,,
+10/04/1997,1,FEET,60,DEGREES F,,
+10/04/1997,5,FEET,60,DEGREES F,,
+10/04/1997,10,FEET,60,DEGREES F,,
+10/04/1997,15,FEET,60,DEGREES F,,
+10/04/1997,20,FEET,60,DEGREES F,,
+10/04/1997,25,FEET,59,DEGREES F,,
+10/04/1997,30,FEET,55,DEGREES F,,
+10/04/1997,40,FEET,45,DEGREES F,,
+10/04/1997,50,FEET,43,DEGREES F,,
+10/04/1997,58,FEET,43,DEGREES F,,
+05/03/1998,1,FEET,60,DEGREES F,,
+05/03/1998,5,FEET,59,DEGREES F,,
+05/03/1998,10,FEET,58,DEGREES F,,
+05/03/1998,15,FEET,55,DEGREES F,,
+05/03/1998,20,FEET,55,DEGREES F,,
+05/03/1998,25,FEET,54,DEGREES F,,
+05/03/1998,30,FEET,48,DEGREES F,,
+05/03/1998,40,FEET,48,DEGREES F,,
+05/03/1998,50,FEET,45,DEGREES F,,
+05/03/1998,58,FEET,42,DEGREES F,,
+06/13/1998,0,FEET,67,DEGREES F,,
+06/13/1998,5,FEET,65,DEGREES F,,
+06/13/1998,10,FEET,65,DEGREES F,,
+06/13/1998,15,FEET,64,DEGREES F,,
+06/13/1998,20,FEET,63,DEGREES F,,
+06/13/1998,25,FEET,57,DEGREES F,,
+06/13/1998,30,FEET,55,DEGREES F,,
+06/13/1998,40,FEET,48,DEGREES F,,
+06/13/1998,50,FEET,45,DEGREES F,,
+06/13/1998,58,FEET,44,DEGREES F,,
+07/13/1998,0,FEET,79,DEGREES F,,
+07/13/1998,5,FEET,79,DEGREES F,,
+07/13/1998,10,FEET,78,DEGREES F,,
+07/13/1998,15,FEET,77,DEGREES F,,
+07/13/1998,20,FEET,62,DEGREES F,,
+07/13/1998,25,FEET,61,DEGREES F,,
+07/13/1998,30,FEET,55,DEGREES F,,
+07/13/1998,40,FEET,48,DEGREES F,,
+07/13/1998,50,FEET,47,DEGREES F,,
+07/13/1998,58,FEET,44,DEGREES F,,
+08/29/1998,1,FEET,75,DEGREES F,,
+08/29/1998,5,FEET,75,DEGREES F,,
+08/29/1998,10,FEET,75,DEGREES F,,
+08/29/1998,15,FEET,75,DEGREES F,,
+08/29/1998,20,FEET,70,DEGREES F,,
+08/29/1998,25,FEET,63,DEGREES F,,
+08/29/1998,30,FEET,57,DEGREES F,,
+08/29/1998,40,FEET,48,DEGREES F,,
+08/29/1998,50,FEET,45,DEGREES F,,
+08/29/1998,58,FEET,45,DEGREES F,,
+10/09/1998,1,FEET,58,DEGREES F,,
+10/09/1998,5,FEET,58,DEGREES F,,
+10/09/1998,10,FEET,58,DEGREES F,,
+10/09/1998,15,FEET,57,DEGREES F,,
+10/09/1998,20,FEET,57,DEGREES F,,
+10/09/1998,25,FEET,56,DEGREES F,,
+10/09/1998,30,FEET,54,DEGREES F,,
+10/09/1998,40,FEET,46,DEGREES F,,
+10/09/1998,50,FEET,44,DEGREES F,,
+10/09/1998,58,FEET,44,DEGREES F,,
+05/02/1999,1,FEET,63,DEGREES F,,
+05/02/1999,5,FEET,59,DEGREES F,,
+05/02/1999,10,FEET,53,DEGREES F,,
+05/02/1999,15,FEET,53,DEGREES F,,
+05/02/1999,20,FEET,47,DEGREES F,,
+05/02/1999,25,FEET,48,DEGREES F,,
+05/02/1999,30,FEET,45,DEGREES F,,
+05/02/1999,40,FEET,44,DEGREES F,,
+05/02/1999,50,FEET,42,DEGREES F,,
+05/02/1999,58,FEET,42,DEGREES F,,
+07/10/1999,1,FEET,76,DEGREES F,,
+07/10/1999,5,FEET,74,DEGREES F,,
+07/10/1999,10,FEET,73,DEGREES F,,
+07/10/1999,15,FEET,72,DEGREES F,,
+07/10/1999,20,FEET,63,DEGREES F,,
+07/10/1999,25,FEET,51,DEGREES F,,
+07/10/1999,30,FEET,45,DEGREES F,,
+07/10/1999,40,FEET,44,DEGREES F,,
+07/10/1999,50,FEET,45,DEGREES F,,
+07/10/1999,58,FEET,43,DEGREES F,,
+08/21/1999,1,FEET,73,DEGREES F,,
+08/21/1999,5,FEET,74,DEGREES F,,
+08/21/1999,10,FEET,73,DEGREES F,,
+08/21/1999,15,FEET,73,DEGREES F,,
+08/21/1999,20,FEET,72,DEGREES F,,
+08/21/1999,25,FEET,62,DEGREES F,,
+08/21/1999,30,FEET,52,DEGREES F,,
+08/21/1999,40,FEET,47,DEGREES F,,
+08/21/1999,50,FEET,44,DEGREES F,,
+08/21/1999,58,FEET,44,DEGREES F,,
+10/02/1999,1,FEET,57,DEGREES F,,
+10/02/1999,5,FEET,57,DEGREES F,,
+10/02/1999,10,FEET,57,DEGREES F,,
+10/02/1999,15,FEET,57,DEGREES F,,
+10/02/1999,20,FEET,57,DEGREES F,,
+10/02/1999,25,FEET,57,DEGREES F,,
+10/02/1999,30,FEET,49,DEGREES F,,
+10/02/1999,40,FEET,47,DEGREES F,,
+10/02/1999,50,FEET,44,DEGREES F,,
+10/02/1999,58,FEET,44,DEGREES F,,
+05/17/2004,1.64,FEET,,,12.2,MG/L
+05/17/2004,,,14.5,C,12.2,MG/L
+08/10/2004,1.64,FEET,,,8.5,MG/L
+08/10/2004,,,19.0,C,8.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/21/1990,Gusty 15-25 mph W winds- 50% clouds    
+06/29/1990,W wind 0-5 mph- 60% clouds- no rain past 24 hours.    
+07/06/1990,SE wind 0-5 mph- 10% clouds    
+07/20/1990,W wind 5-10 mph- 50% clouds.    
+07/29/1990,N wind 5-15 mph- 50% clouds    
+08/03/1990,Calm- 10% clouds    
+08/10/1990,N wind 5-10 mph- 50% clouds- reading during sun    
+08/24/1990,Partly cloudy- calm- 1 surviving loon chick first in 3 years.    
+10/12/1990,Sky clear- water cloudy- wind calm- been in England past month.  Lake level: very high    
+10/21/1990,Clouds 50%- W wind 15 mph- air 44 F.  Lake level: very high    
+11/04/1990,Clouds 10%- NE wind 10 mph- air 38 F- depth at site 63'    
+06/03/1991,5 to 10% cloud cover- east wind: 15 to 20 mph- 3" of rain in last 2 weeks.    
+06/25/1991,S wind at 10 mph- hazy- clear    
+07/05/1991,Algae- 3.43" rain since 6/28- partly cloudy- SW winds at 10mph- heavy rainfall this year    
+07/14/1991,E wind at 5 mph- clear- above average rain this year- no mating loons    
+07/30/1991,Wind S at 5 mph- clear    
+08/20/1991,Southwest wind at 10-15 mph- clear- black specks falling from sky daily    
+09/06/1991,S wind at 5 mph- clear- particles in water    
+09/20/1991,Southwest wind at 5-10 mph- clear- thin clouds- particles in water- more rain than normal this month    
+09/27/1991,Cold- calm- clear- particles in water- fallout on white rowing shell reduced last week    
+10/07/1991,Clear- SW wind at 10 mph- 40 F    
+10/11/1991,Clear-  W wind at 10 mph- 55 F- particles suspended in water    
+05/01/1992,Thin clouds- light winds. air temp: 80.    
+05/18/1992,Loons and Canada geese are nesting- bald eagle feeding young. clear- blue skies- air temp: 65.    
+05/24/1992,High thin clouds- light winds- air temp: 55.    
+05/29/1992,Southwest wind at 5-10 mph- high thin clouds in the sky- eagles nest with a baby eaglet flexing his wings- and the presence of two loons indicate they are not nesting.    
+06/05/1992,Clear sky- northwest wind at 10 mph- particles in suspension in water- witnessed male mudfish herding a 8" glob of black 1" fingerlings.  Mudfish about 18" long and 2" wide.    
+06/12/1992,Particles in suspension in water- sky clear- water calm.    
+06/20/1992,Partly cloudy- northeast wind most of the week- no particles and 2.3 inches of rain.    
+07/05/1992,Sky- high thin clouds- winds- 5-10 mph northwest- no particles in the water.    
+08/05/1992,Wind is calm- sky is clear.    
+08/14/1992,Calm wind- clear sky.    
+08/31/1992,Wind: 10 mph from west- sky: tested during a break in the clouds.    
+09/08/1992,Wind: 10 mph from the west- sky: clear.    
+09/17/1992,Sky is clear- wind is 10-15 mph from SE- particles in the water- anchor came up clean- as always.    
+09/27/1992,Sky is clear- wind @ 10 mph from the south- particles in the water.    
+10/03/1992,Sky is clear- wind from NE 10-15 mph- particles in the water.    
+10/11/1992,Sky-high thin clouds- wind- west 10 mph- particles in water.    
+05/14/1993,Sky is clear- wind is 10-15 mph from the north.    
+05/21/1993,Clear sky- calm winds- anchor came up clean- first loon arrived first day after ice out.    
+06/05/1993,Suspended green particles- clear sky- west wind 5 mph- anchor came up clean    
+06/11/1993,S wind 10 mph- clear sky- suspended particles in water- 1.72" of rain in last 4 days    
+06/21/1993,Clear sky- some particles in water.    
+07/12/1993,Clear- very windy- air temp 55 at 5 a.m.  Lake level: very high    
+08/07/1993,Clear sky- calm wind    
+08/28/1993,Wind- south @ 10 mph.  Sky - high thin clouds.    
+08/31/1993,Temperature is 58 degrees- skies clear- brisk breeze- .25" of rain yesterday afternoon.    
+05/07/1994,Clear sky- calm wind.    
+05/08/1994,Had trouble getting sampler to close- south wind @ 20 mph- clear sky at time of secchi    
+05/27/1994,Particles in water- clear sky- west wind 10 mph.    
+06/24/1994,Water calm- sky-test during break in clouds.    
+06/25/1994,Very sunny- calm    
+07/01/1994,Test during break in clouds.  West wind 10 mph.    
+07/17/1994,West wind 10 mph- test during break in clouds.    
+07/24/1994,Sky clear- wind 10 mph west.    
+08/04/1994,Calm water- clear sky- no loon family this year- lots of single loons.    
+08/14/1994,Clear sky- west wind 15 mph.    
+08/15/1994,Skies clear- bright.  Slight breeze- very windy in the last 2 days- temp is 53 degrees at 8 am.  There are some particles.    
+08/21/1994,Calm water- clear sky but hazy- particles in water.    
+08/26/1994,Clear sky- N wind @ 10 mph- particles in water.    
+09/08/1994,Clear sky- winds are calm- particles in the water.    
+09/17/1994,Sky is clear- wind is 10 mph @ W- particles in the water- received 4.65" of rain in the last 4 days.    
+09/29/1994,Clear sky- calm winds- some particles in the water.    
+10/10/1994,Clear sky- south wind- 10 mph- some particles- two loons still on the lake.    
+10/14/1994,High thin haze- bright sun- east wind @ 5-10 mph- temp is 45 degrees at 8 am.    
+05/06/1995,Ice out on 4/21/1995.  Bright and hazy- the air temperature is 45 degrees at 7:00am- calm wind- pair of eagles with one carrying a fish- flew over- calling as they approached nest at southeast corner of lake.    
+05/19/1995,2.3" of rain since last test on 5/6/95.  The west wind is 15 mph and there are clear skies.    
+05/26/1995,Northeast wind at 5-10 mph- high thin clouds in the sky- and 0.14" of rain since last test.    
+06/03/1995,Clear sky- north wind at 5 mph- 0.14" of rain since last test- and baby crow on ground near cabin- can't fly yet.    
+06/09/1995,Clear sky- calm- two geese and five goslings on north shore- one inch of rain since last reading.    
+06/16/1995,Clear sky and south wind at 15 mph.    
+06/23/1995,High thin clouds- wind-5 mph from south- no rain in two weeks.    
+07/01/1995,High thin clouds- west wind 10 mph- no rain since last week.    
+07/14/1995,Sky high thin clouds- wind south east 5-10 mph- 2.25" rain since 7/7/95.    
+07/16/1995,Clear sky and south wind at 15 mph.    
+07/28/1995,Clear sky- west wind @ 10 mph- 0.50" rain in last 24 hours +1.10" since 7/14/95.    
+08/19/1995,Rain-7.85" since 7/28/95.  Sky-clear.  Wind-west 15 mph.    
+09/04/1995,Had 6" of rain in July and 25" of rain in August.    
+09/09/1995,Clear sky- east wind 10 mph.    
+10/08/1995,Sulfur smell.    
+05/11/1996,Ice out 4/28 + 29.  Spring at least 2 weeks late. hepatica- traveling arbutus just blooming.  A few lonely warblers (yellow rump- pine) wandering through.  Temp 7 am 35 F. 51 F at 1 pm.    
+05/18/1996,West wind 15 mph.  Clear sky.  Cold temperature.  Lake level: very high    
+06/02/1996,Cold- clear sky- and west wind at 5 mph.    
+06/08/1996,Beautiful calm day- clear- blue skies. " What is so rare as a day in June "  45 F at 6 am- 78 F at 2 pm.    
+06/14/1996,Clear sky.  Calm wind.  Pinhead or smaller particles in water.    
+06/29/1996,5" rain two days ago. Clear sky. West wind 15 mph.    
+07/16/1996,Clear sky.  Water calm.  Lake level: very high    
+07/20/1996,Clear sky.  Winds south 15 mph. 10" rain in last month. forest is lush.  Lake level: very high    
+08/11/1996,Clear sky.  Southwest wind 5-10 mph.    
+08/15/1996,Clear sky.  North winds 5 mph.    
+08/17/1996,Wind SW 5 mph.    
+08/23/1996,Clear sky.  West wind 10 mph.    
+10/12/1996,48 F at 8 am. Very little rain in last month. Beautiful fall day. Colors at peak.    
+05/17/1997,64 degrees at noon.  Very still- high thin clouds.  Glorious day.    
+06/01/1997,W winds 5 mph. clear sky.    
+07/27/1997,Air very still and humid.  Rain gauge reading on 7/25/97 = 2.5 inches.    
+08/10/1997,High thin clouds- W wind 5 mph.    
+08/18/1997,LAKE SAMPLE    
+09/21/1997,South wind at 10-15 mph- clear skies- high water level    
+09/26/1997,South wind at 10 mph- high thin clouds- water level is still high    
+10/04/1997,The temperature is 58 degrees- light breeze from southwest at 10 mph- clear sky- temperature yesterday in low 80's and there has been no rain for the past 2 weeks.    
+05/03/1998,Cold water- NE wind 5 mph- clear sky.    
+05/10/1998,High- thin clouds- calm.    
+05/25/1998,NW wind 10 mph- clear sky- particles in water.    
+06/13/1998,LAKE SAMPLE    
+07/04/1998,Northeast wind 10 mph- clear sky.    
+07/13/1998,LAKE SAMPLE    
+08/01/1998,SE wind 10 mph- thin clouds.    
+08/09/1998,S wind 10 mph- clear sky- particles in water.    
+08/21/1998,Calm- clear sky- particles.    
+08/29/1998,LAKE SAMPLE    
+09/18/1998,Clear sky- SW wind 5 mph.    
+10/09/1998,Clear sky- S wind 10 mph- 2 adult eagles overhead.    
+05/02/1999,Clear sky- west wind at 10 mph- cold water.    
+05/27/1999,Clear sky- southwest wind at 5-10 mph.    
+07/10/1999,Clear sky- west wind at 5 mph.    
+07/21/1999,Calm- clear sky.    
+08/06/1999,Calm- clear sky.    
+08/21/1999,Clear- S wind 5-10 mph- 5.5" rain so far in August- 5.5" rain in July    
+08/29/1999,High thin clouds- E wind 15 mph.    
+10/02/1999,Test between clouds - W wind 10 mph- air temp in low 40's (cold hands)    
+06/25/2000,High thin clouds.    
+07/14/2000,Clear sky- north wind at 5-10 mph.    
+08/09/2000,With grand niece- Haley Stewart (age 7 1/2)- clear sky- west wind at 5 mph- 1.1" of rain in the last 24 hours.    
+09/24/2000,Clear sky and west wind at 10-15 mph.    
+05/12/2001,South wind at 10 mph and clear sky.    
+06/03/2001,North wind at 10-15 mph- clear sky between clouds- and two geese and six goslings on south side.    
+06/16/2001,West wind at 10 mph and clear sky.    
+07/12/2001,Monitored with grand niece- Haley Stewart.  Calm and clear sky.    
+08/04/2001,Calm and clear sky.    
+08/19/2001,Clear sky and northeast wind at 5 mph.    
+09/28/2001,South wind at 5 mph and clear sky.    
+05/31/2002,West wind 10-15 mph. Clear sky    
+06/15/2002,North wind 10-15 mph. Clear sky. 2 loons diving.    
+06/29/2002,South wind 10 mph. Clear- hazy sky. Hot and humid.    
+07/11/2002,East wind about 10 mph. Clear sky. 5.71 inches of rain in last 3 days.    
+07/28/2002,West wind about 5 mph. Clear sky. 3/4 inches of rain the day before.    
+08/25/2002,Clear- calm- particles in water. Drowned person has not floated. Drowned 8/15/02.    
+09/07/2002,South wind 10 mph. High thin clouds. 5.5" rain during last wek. Very high water level.    
+09/27/2002,Clear sky- calm. 1" rain during last week. Rowed to sample site.    
+06/14/2003,Clear sky- north wind 10-15 mph.    
+07/19/2003,Clear sky- west wind 10 mph    
+05/17/2004,DEEPEST SPOT NEAR CENTER OF LAKE    
+06/06/2004,Reading corrected for 4 ft rail on pontoon.  Particles in water; Pollen on surface- calm clear sky- adult eagle flying.    
+06/12/2004,Rail correction. SW wind 15-20 mph.  Clear sky.  Over 2" rain in past week.    
+06/19/2004,Rail correction. SW wind 10 mph.  Clear sky.    
+07/08/2004,Rail correction. NE wind 5 mph. Clear sky. Cata collectors: Kent Dickerman and Marshall Thompson- Blaine Darrah- Toni Ventenbergs.    
+07/12/2004,South wind 5 mph.  Clear sky. Rail correction.    
+07/19/2004,Loon.  Test between clouds.  Wind southwest 5 mph.  Rail correction.  Data collectors: John Darrah- Sam VanWetter- Sampson Darrah- Issabela D.- Walker Stewert- Jesse and Jared Colin- Chris D.    
+07/25/2004,West wind 10 mph.  Clear sky.  4 geese flying.  4 ft to water surface rail correction.    
+08/06/2004,Calm- high thin clouds.  4 ft rail correction.    
+08/10/2004,DEEPEST SPOT NEAR CENTER OF LAKE    
+06/12/2005,West wind 10 mph.  Test between clouds.    
+06/19/2005,West wind 10 mph.  Clear sky.    
+06/25/2005,Clear sky- east wind 5 mph.    
+07/02/2005,Clear sky- south wind 15 mph.    
+07/09/2005,Clear sky- SE wind 5 mph.  Four loons (includes two babies)    
+07/17/2005,High thin clouds.  South wind 10 mph.    
+07/27/2005,South wind 10 mph.  Clear sky.    
+08/06/2005,SW wind 10-15 mph.  Clear sky.  Less than 1/2" rain since 7/1/2005.  Only one baby loon remains.    
+08/27/2005,SW wind 5 mph.  Clear sky.    
+09/18/2005,NE wind 5 mph.  Mother and baby loon on lake.  Clear sky.    
+06/15/2008,slight breeze- recent rain- Mark Bixby helper
+07/29/2008,recent rain- Mark Bixby helper
+08/19/2008,clear and cool- Mark Bixby helper clear and cool- Mark Bixby helper
+07/05/2009,scattered clouds- fresh breeze- Mark Bixby helper scattered clouds- fresh breeze- unseasonably cool summer so far.  Mark Bixby helper
+07/29/2009,high clouds- fair- cool- Mark Bixby helper
+08/23/2009,warm and sunny- recent rain- Mark Bixby helper
+08/29/2010,Mark Bixby was my helper. It was a windy day.
+09/04/2010,Mark Bixby was my helper. It was a windy day.
+05/28/2011,A late spring for the first reading. Rain the night before- scattered clouds- blueberries blooming. Beaufort 3- 65 degrees F. 
+07/16/2011,No Blueberries! Did all the blossoms blow off in the huge storm July 1  Trees down everywhere--enormous damage to the forests. 
+    
+10/29/2011,Light haze- nice fall day- Beaufort 1
+07/01/2012,Hot summer day- a bit hazy because of wildfires to west- still. Some boat activity. Accompanied by Mark Bixby and Tina Juliana and Angel Hillstrom  We were glad to see the clarity improved. It had declined quite a bit last year.
+07/06/2012,Scattered clouds- 85 degrees- calm but some boat traffic. Mark Bixby is my helper.
+08/02/2013,High haze- light breeze- scattered cirrostratus clouds
+08/02/2013,Scattered cirrostratus clouds- light breeze
+08/18/2013,Moderate wind- scattered cumulus clouds- occasional cirrostratus clouds Moderate wind- scattered cumulus clouds- occasional serostratus clouds
+08/31/2013,Light breeze from SW- rare cirrus clouds
+08/31/2013,Light breeze from the southwest- rare cirrus clouds
+09/29/2013,light breeze- air temperature 70 degrees- water temperature 66 degrees
+08/01/2015,Clear + breezy
+05/12/2017,Water 59 degrees
+
+
+
+
+Start Date,Group Name,Project Name
+06/21/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/29/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/06/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/20/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/29/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/03/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/10/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/24/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/12/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/21/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+11/04/1990,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/03/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/25/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/05/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/14/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/30/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/20/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/06/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/20/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/27/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/07/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/11/1991,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/01/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/18/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/24/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/29/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/05/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/10/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/12/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/20/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/05/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/05/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/14/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/31/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/08/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/17/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/27/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/03/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/11/1992,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/14/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/21/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/05/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/11/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/21/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/21/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/28/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/12/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/12/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/07/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/28/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/31/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/31/1993,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/07/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/08/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/27/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/24/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/25/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/01/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/17/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/18/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/24/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/04/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/14/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/15/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/21/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/26/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/08/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/17/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/29/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/10/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/14/1994,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/06/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/19/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/26/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/03/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/09/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/16/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/23/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/01/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/14/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/16/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/28/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/19/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/04/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/09/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/08/1995,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/11/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/18/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/02/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/08/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/14/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/29/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/16/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/17/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/20/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/11/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/15/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/17/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/23/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/12/1996,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/17/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/01/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/27/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/02/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/10/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/18/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/21/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/26/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/04/1997,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/03/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/10/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/25/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/13/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/04/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/13/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/01/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/09/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/21/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/29/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/18/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/09/1998,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/02/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/27/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/10/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/21/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/06/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/21/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/29/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/02/1999,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/25/2000,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/14/2000,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/09/2000,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/24/2000,Data Collectors,GMU LAKE CLASS STUDY
+09/24/2000,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/12/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/03/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/16/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/12/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/04/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/19/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/28/2001,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/31/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/15/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/29/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/11/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/28/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/25/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/07/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/27/2002,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/14/2003,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/19/2003,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/17/2004,Mark Stanley and Brent Flatten,Lake Baseline Monitoring- DNR (1970s-2006)
+06/06/2004,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/12/2004,Kent Dickerman and Marian Simacek,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/19/2004,Kent Dickerman and Dick Otis,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/08/2004,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/12/2004,Kent and Ariel Dickerman and Eliza VanWellet,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/19/2004,Kent Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/25/2004,Kent Dickerman and Emily Wurtz,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/06/2004,Kent Dickerman and Marian Simacek,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/10/2004,Kent Bass,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/19/2005,Kent and Ariel Dickerman- Marian Simacek,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/25/2005,Kent and Ariel Dickerman- Marian Simacek,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/02/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/09/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/17/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/27/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/06/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/27/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/18/2005,Kent And Ariel Dickerman,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/03/2006,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/07/2006,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/03/2007,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/23/2007,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+06/15/2008,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/29/2008,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/19/2008,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/05/2009,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/29/2009,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/23/2009,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/29/2010,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/04/2010,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/28/2011,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/16/2011,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+10/29/2011,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/01/2012,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+07/06/2012,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/02/2013,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/18/2013,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/31/2013,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+09/29/2013,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+08/01/2015,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point
+05/12/2017,Keelin Kane,Citizen Lake Monitoring - Water Quality - Love Lake; At Deep Point

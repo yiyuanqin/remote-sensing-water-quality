@@ -1,0 +1,118 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pickerel Lake,Oconto,474900,NE,43,,10047121,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+130435685,01/21/2016,,,,,,,,,NORMAL,,,,
+130435685,01/30/2016,,,,,,,,,,,,,
+130435685,02/16/2016,,,,,,,,,,,,,
+130435685,03/06/2016,,,,,,,,,,,,,
+130435685,12/28/2016,,,,,,,,,NORMAL,,CLEAR,,
+130435685,01/09/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,01/22/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,02/04/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,02/18/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,02/27/2017,,,,,,,,,NORMAL,,CLEAR,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+01/21/2016,1,FEET,1.2,DEGREES C,13,MG/L
+01/21/2016,4,FEET,1.8,DEGREES C,12.7,MG/L
+01/21/2016,7,FEET,2,DEGREES C,11.9,MG/L
+01/21/2016,10,FEET,2.1,DEGREES C,11.8,MG/L
+01/30/2016,1,FEET,1.5,DEGREES C,12.5,MG/L
+01/30/2016,3,FEET,1.9,DEGREES C,11.3,MG/L
+01/30/2016,5,FEET,2.1,DEGREES C,11.1,MG/L
+01/30/2016,7,FEET,2.1,DEGREES C,10.9,MG/L
+01/30/2016,9,FEET,2.2,DEGREES C,10.9,MG/L
+02/16/2016,1,FEET,.2,DEGREES C,11.6,MG/L
+02/16/2016,3,FEET,1.1,DEGREES C,10.8,MG/L
+02/16/2016,5,FEET,1.7,DEGREES C,9.9,MG/L
+02/16/2016,7,FEET,2.1,DEGREES C,8.8,MG/L
+02/16/2016,9,FEET,2.3,DEGREES C,8.6,MG/L
+03/06/2016,1,FEET,1.6,DEGREES C,8.8,MG/L
+03/06/2016,3,FEET,2.1,DEGREES C,7.4,MG/L
+03/06/2016,5,FEET,2.6,DEGREES C,6.5,MG/L
+03/06/2016,7,FEET,2.7,DEGREES C,6.2,MG/L
+03/06/2016,9,FEET,2.9,DEGREES C,5.8,MG/L
+12/28/2016,1,FEET,1,DEGREES C,12.1,MG/L
+12/28/2016,4,FEET,1.4,DEGREES C,12.2,MG/L
+12/28/2016,7,FEET,1.5,DEGREES C,11.9,MG/L
+12/28/2016,10,FEET,2,DEGREES C,10.6,MG/L
+12/28/2016,12,FEET,2.6,DEGREES C,5,MG/L
+12/28/2016,14,FEET,3.5,DEGREES C,2.2,MG/L
+01/09/2017,1,FEET,.5,DEGREES C,11.6,MG/L
+01/09/2017,3,FEET,1.6,DEGREES C,10.3,MG/L
+01/09/2017,5,FEET,1.8,DEGREES C,9.5,MG/L
+01/09/2017,7,FEET,2,DEGREES C,8.9,MG/L
+01/09/2017,9,FEET,2.4,DEGREES C,8.1,MG/L
+01/09/2017,11,FEET,2.1,DEGREES C,5.3,MG/L
+01/09/2017,12,FEET,2.4,DEGREES C,3.7,MG/L
+01/22/2017,1,FEET,.5,DEGREES C,9.6,MG/L
+01/22/2017,3,FEET,1.7,DEGREES C,7.5,MG/L
+01/22/2017,5,FEET,2,DEGREES C,7.1,MG/L
+01/22/2017,7,FEET,2.1,DEGREES C,6.8,MG/L
+01/22/2017,9,FEET,2.4,DEGREES C,5.8,MG/L
+01/22/2017,11,FEET,2.2,DEGREES C,2.5,MG/L
+01/22/2017,13,FEET,3.4,DEGREES C,.1,MG/L
+02/04/2017,1,FEET,.5,DEGREES C,7.8,MG/L
+02/04/2017,3,FEET,1.7,DEGREES C,5.9,MG/L
+02/04/2017,5,FEET,2.2,DEGREES C,5.3,MG/L
+02/04/2017,7,FEET,2.3,DEGREES C,5,MG/L
+02/04/2017,9,FEET,2.6,DEGREES C,4.3,MG/L
+02/04/2017,11,FEET,2.2,DEGREES C,.4,MG/L
+02/04/2017,12,FEET,2.4,DEGREES C,0,MG/L
+02/18/2017,1,FEET,.5,DEGREES C,5,MG/L
+02/18/2017,3,FEET,2.1,DEGREES C,3.7,MG/L
+02/18/2017,5,FEET,2.4,DEGREES C,3.4,MG/L
+02/18/2017,7,FEET,2.5,DEGREES C,2.7,MG/L
+02/18/2017,9,FEET,2.7,DEGREES C,1.1,MG/L
+02/18/2017,11,FEET,2.7,DEGREES C,.2,MG/L
+02/18/2017,13,FEET,3.7,DEGREES C,.9,MG/L
+02/27/2017,1,FEET,.4,DEGREES C,7.3,MG/L
+02/27/2017,2,FEET,1.6,DEGREES C,3.9,MG/L
+02/27/2017,3,FEET,2.5,DEGREES C,3,MG/L
+02/27/2017,5,FEET,3,DEGREES C,2.6,MG/L
+02/27/2017,7,FEET,3.2,DEGREES C,2.4,MG/L
+02/27/2017,9,FEET,3.4,DEGREES C,1.7,MG/L
+02/27/2017,11,FEET,3.6,DEGREES C,.7,MG/L
+02/27/2017,13,FEET,4.2,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+01/21/2016,Data measured by Steve Heimerman.  Data entered by Jim Lamers
+02/16/2016,Data measured by Steve Heimerman.  Data entered by Jim Lamers
+03/06/2016,Data measured by Steve Heimerman.   Data entered by Jim Lamers
+Site 5 is west of the aeration system
+12/28/2016,Ice thickness  - 9";  snow depth - 1/2";  water depth - 14'
+01/09/2017,Ice thickness - 11 1/2";  snow depth - 2";  water depth - 12'
+Weather - cloudy- light wind
+01/22/2017,Ice thickness - 13" ; snow depth - 5" ; water depth - 13 1/2'
+Weather - cloudy- calm; air temp - 38 F
+02/04/2017,Ice thickness = 14"; snow depth = 3";  water depth = 12'
+Weather - pty cloudy- calm
+02/18/2017,Ice thickness - 16" ; snow depth - 2" ; air temp - 40 F
+Weather - sunny- calm
+02/27/2017,Ice thickness - 12" ; Snow depth - 2" ; Waster depth - 14'
+Weather - sunny- light breeze; air temp 32 F
+
+
+
+
+Start Date,Group Name,Project Name
+01/21/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/30/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/16/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+03/06/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+12/28/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/09/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/22/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/04/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/18/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/27/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring

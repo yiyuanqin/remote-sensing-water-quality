@@ -1,0 +1,61 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sapokesick Lake,Menominee,340900,NE,40,,10043834,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+130285013,05/22/2015,,,,,,,,,,,,,
+130285013,05/24/2015,,,,,,,,,,,,,
+130285013,05/26/2015,,,,,,,,,,,,,
+130285013,05/28/2015,,,,,,,,,,,,,
+130285013,06/04/2015,,,,,,,,,,,,,
+130285013,06/11/2015,,,,,,,,,,,,,
+1,05/23/2017,,,,,,,,,,,,,
+1,05/25/2017,,,,,,,,,,,,,
+1,05/27/2017,,,,,,,,,,,,,
+1,05/29/2017,,,,,,,,,,,,,
+1,06/05/2017,,,,,,,,,,,,,
+1,06/12/2017,,,,,,,,,,,,,
+1,06/19/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/22/2015,,,15.9,C,,
+05/24/2015,,,17.4,C,,
+05/26/2015,,,18.9,C,,
+05/28/2015,,,20.5,C,,
+06/04/2015,,,20,C,,
+06/11/2015,,,21.3,C,,
+05/23/2017,,,13.9,C,,
+05/25/2017,,,15,C,,
+05/27/2017,,,16.7,C,,
+05/29/2017,,,17.2,C,,
+06/05/2017,,,21.1,C,,
+06/12/2017,,,23.3,C,,
+06/19/2017,,,22.8,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/22/2015,Arland Dillenburg and Tom Ittner,Herbicide Concentration Monitoring
+05/24/2015,Arland Dillenburg and Tom Ittner,Herbicide Concentration Monitoring
+05/26/2015,Arland Dillenburg and Tom Ittner,Herbicide Concentration Monitoring
+05/28/2015,Arland Dillenburg and Tom Ittner,Herbicide Concentration Monitoring
+06/04/2015,Arland Dillenburg and Tom Ittner,Herbicide Concentration Monitoring
+06/11/2015,Arland Dillenburg and Tom Ittner,Herbicide Concentration Monitoring
+05/23/2017,Data Collectors,Herbicide Concentration Monitoring
+05/25/2017,Data Collectors,Herbicide Concentration Monitoring
+05/27/2017,Data Collectors,Herbicide Concentration Monitoring
+05/29/2017,Data Collectors,Herbicide Concentration Monitoring
+06/05/2017,Data Collectors,Herbicide Concentration Monitoring
+06/12/2017,Data Collectors,Herbicide Concentration Monitoring
+06/19/2017,Data Collectors,Herbicide Concentration Monitoring

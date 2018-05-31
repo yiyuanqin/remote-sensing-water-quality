@@ -1,0 +1,42 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mann Lake,Vilas,2332000,NO,64,,10047981,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+15899248,01/17/2017,,,,,,,,,,,,,
+15899248,01/19/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+01/17/2017,3,FEET,,,8.8,MG/L
+01/17/2017,6,FEET,,,7.3,MG/L
+01/17/2017,9,FEET,,,6.2,MG/L
+01/19/2017,2,FEET,.6,DEGREES C,10.8,MG/L
+01/19/2017,3,FEET,1.7,DEGREES C,10.2,MG/L
+01/19/2017,4,FEET,2.4,DEGREES C,9.3,MG/L
+01/19/2017,5,FEET,3.1,DEGREES C,7.2,MG/L
+01/19/2017,6,FEET,3.6,DEGREES C,5.5,MG/L
+01/19/2017,8,FEET,4.3,DEGREES C,2.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+01/17/2017,Snow depth (in): 4;
+Ice thickness (in): 16;
+Dissolved Oxygen (mg/l) (Hach meter): 3': 9.8; 6': 4.75- 9': 2.7;
+Dissolved Oxygen (% Saturation) (Hach meter): 3': 75.0; 6': 37.0- 9': 20.0
+01/19/2017,Snow depth (in): 4.5;
+Ice thickness (in): 14;
+Used Hatch meter for DO readings
+
+
+
+
+Start Date,Group Name,Project Name
+01/17/2017,Richard Jenks,Mann Lake Winter Aeration Project Monitoring Data - LPT50616
+01/19/2017,Richard Jenks,Mann Lake Winter Aeration Project Monitoring Data - LPT50616

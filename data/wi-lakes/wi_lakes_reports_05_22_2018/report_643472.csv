@@ -1,0 +1,89 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Jerms Lake,Vilas,1856500,NO,64,,643472,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+37086190,08/21/2010,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,
+37086190,08/30/2010,14.5,NO,4.4,,,39,,,HIGH,,,GREEN,
+66797113,06/14/2012,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,06/29/2012,22,NO,6.7,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37086190,07/31/2012,23.25,NO,7.1,,,32,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37086190,08/31/2012,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37086190,06/16/2014,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37086190,08/28/2014,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37086190,09/03/2014,20.5,NO,6.2,,,34,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37086190,09/09/2014,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+66797113,06/09/2015,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,07/07/2015,23.5,NO,7.1,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,07/16/2015,26,NO,7.9,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,07/27/2015,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,08/28/2015,18,NO,5.5,,,35,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+66797113,05/09/2016,23.5,NO,7.1,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,06/03/2016,23.5,NO,7.1,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,07/06/2016,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,07/17/2016,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+66797113,08/02/2016,21.5,NO,6.5,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37086190,05/25/2017,27.5,NO,8.4,,,29,,,HIGH,,CLEAR,GREEN,
+37086190,07/05/2017,21,NO,6.4,,,33,,,HIGH,,MURKY,GREEN,
+37086190,07/31/2017,23.5,NO,7.1,,,32,,,HIGH,,CLEAR,GREEN,
+37086190,08/07/2017,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,GREEN,
+37086190,08/18/2017,20.5,NO,6.2,,,34,,,HIGH,,CLEAR,GREEN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/21/2010,coordinates for deep hole N45 degrees 54.787
+89 degrees x52.624
+
+Has been rainy. 2 inches an hour- 3-4 inches prior
+08/30/2010,no rain for 9 days.
+06/14/2012,overcast.
+06/29/2012,Deep Hole at 
+N45 degrees- 54.787
+W89 degrees 52.624 
+Sunny. Water is higher than on June 14.
+07/31/2012,Sunny.
+06/16/2014,sunny- windy
+08/28/2014,bright- clear- sun
+09/03/2014,sunny- bright- slight breeze- lake ripples
+09/09/2014,sunny- bright- clear- breeze
+05/25/2017,Dave Anderson
+08/18/2017,bright sun- calm
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/2010,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/30/2010,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+06/14/2012,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+06/29/2012,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/31/2012,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/31/2012,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+06/16/2014,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/28/2014,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+09/03/2014,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+09/09/2014,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+06/09/2015,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/07/2015,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/16/2015,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/27/2015,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/28/2015,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+05/09/2016,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+06/03/2016,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/06/2016,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/17/2016,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/02/2016,Roy Bodo- Geralyn Karl,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+05/25/2017,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/05/2017,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+07/31/2017,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/07/2017,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole
+08/18/2017,Roy Bodo,Citizen Lake Monitoring - Water Quality - Jerms Lake - Deep Hole

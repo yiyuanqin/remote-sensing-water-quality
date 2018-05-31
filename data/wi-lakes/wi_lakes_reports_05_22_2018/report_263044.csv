@@ -1,0 +1,403 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Echo Lake,Iron,2301800,NO,26,,263044,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190050,08/28/1992,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8190050,09/12/1992,4.75,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8191061,07/27/1993,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191061,08/08/1993,5.5,NO,1.7,,,53,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8191061,08/26/1993,5,NO,1.5,,,54,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8191061,09/10/1993,5,NO,1.5,,,54,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8191061,06/16/1994,6,NO,1.8,,,51,,,DOWN FOR THIS EARLY IN SEASON,,,BROWN,2-Very minor aesthetic problems
+8191061,06/21/1994,6,NO,1.8,,,51,,,DOWN FOR MID-JUNE,,,BROWN,1-Beautiful, could not be nicer
+8190050,07/04/1994,6.75,NO,2.1,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190050,07/24/1994,6.25,NO,1.9,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191061,08/22/1994,6.75,NO,2.1,,,50,,,HIGH,,,,2-Very minor aesthetic problems
+8191061,09/18/1994,8,NO,2.4,,,47,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8191061,06/15/1995,6.25,NO,1.9,,,51,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8191061,08/15/1995,6.5,NO,2,,,50,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191061,06/25/1996,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191061,07/05/1996,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8191061,08/02/1996,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191061,09/03/1996,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191061,06/21/1997,5.25,NO,1.6,,,53,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191061,07/06/1997,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191061,07/28/1997,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191061,08/12/1997,5.25,NO,1.6,,,53,,,LOW - ABOUT NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191061,09/14/1997,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,
+8191061,06/13/1998,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191061,07/04/1998,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191061,08/03/1998,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191061,08/31/1998,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191061,09/23/1998,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191061,06/29/2000,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191061,07/06/2000,5.25,NO,1.6,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8191061,08/25/2000,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190908,10/16/2000,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191061,07/05/2001,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191061,08/01/2001,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191061,06/14/2002,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,
+8191061,07/17/2002,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,
+8191061,10/18/2002,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,
+8191061,06/11/2003,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,
+8191061,06/30/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,
+8191061,07/29/2003,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,
+8191061,08/30/2003,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,
+37543079,09/10/2010,5.4,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+37543079,10/07/2010,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+37543079,05/22/2011,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/12/2011,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/17/2011,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/25/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/03/2011,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/11/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/19/2011,5.25,NO,1.6,,,53,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/26/2011,4.75,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+48746156,08/04/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/12/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/20/2011,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+37543079,09/05/2011,4.5,NO,1.4,,,55,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,09/16/2011,4.75,NO,1.4,,,55,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,05/21/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,05/26/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/03/2012,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/11/2012,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/19/2012,5.75,NO,1.7,,,52,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/27/2012,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/05/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/12/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/21/2012,5.5,NO,1.7,,,53,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/02/2012,4.25,NO,1.3,,,56,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,08/06/2012,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,08/22/2012,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,08/30/2012,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,09/08/2012,3.5,NO,1.1,,,59,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,09/23/2012,3,NO,0.9,,,61,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,10/27/2012,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,05/04/2013,, ,,,,,,,,,,,
+37543079,06/22/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/30/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/08/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/16/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/24/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/01/2013,4,NO,1.2,,,57,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/25/2013,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,09/04/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,09/16/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,09/26/2013,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,12/09/2013,, ,,,,,,,,,,,
+37543079,01/06/2014,, ,,,,,,,,,,,
+37543079,03/08/2014,, ,,,,,,,,,,,
+37543079,05/16/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/01/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/17/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/25/2014,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/11/2014,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/24/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/05/2014,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/20/2014,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,09/13/2014,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+37543079,10/10/2014,5.5,NO,1.7,,,53,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,10/30/2014,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,04/17/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,05/10/2015,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,05/27/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/07/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/27/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/13/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/21/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/02/2015,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/26/2015,5,NO,1.5,,,54,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,09/05/2015,6,NO,1.8,,,51,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,09/12/2015,5,NO,1.5,,,54,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,10/20/2015,7,NO,2.1,,,49,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+37543079,11/03/2015,6.5,NO,2,,,50,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+37543079,04/17/2016,,,,,,,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,05/02/2016,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/05/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/28/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/06/2016,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/22/2016,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/04/2016,4,NO,1.2,,,57,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/11/2016,5.5,NO,1.7,,,53,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/26/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/30/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,09/13/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,10/22/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,04/29/2017,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,06/23/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/07/2017,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,07/15/2017,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/05/2017,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+37543079,08/16/2017,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188687,08/29/2017,,,,11.3,19.1,,51,53,,,,,
+37543079,09/17/2017,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+09/12/1992,Bright weather.    
+08/26/1993,Shoreline surface clean for this time of the year.    
+09/10/1993,Some wind effect- frequent showers yesterday.    
+07/04/1994,Light overcast.  After several hours of rain + heaviest boat traffic of the year was very surprised on depths.  Readings reported to great American secchi dip-in.    
+07/24/1994,No lake activity all day!  mild wind- cool temp.- rain night before.  Some algae bloom near shore.    
+08/22/1994,Second day after 3 days of heavy rain and storms.  No boat activity- wind is light.    
+06/15/1995,Light winds- light wave action.    
+08/15/1995,Windy with strong wave action- algae increasing daily- little rain past several days.    
+06/25/1996,Lake vegetation growth seems late + slow this year. question if late (ice out) May have impact.    
+07/05/1996,Vegetation growth continues to be slow. question if record and late heavy snow has increased the volume of runoff causing impact on water (darker). reported information. to great "96" secchi dip.    
+08/02/1996,Vegetation growth (below normal) for same period of past few years. visible algae-little on surface-wind calm.    
+09/03/1996,Light wind-readings consistent with previous reports. question remains. why  history shows they are lower than past years. what effect does record snows and late ice out have     
+06/21/1997,Some wave action    
+07/06/1997,Overcast- surface winds/wave action.    
+07/28/1997,Surface water exceptional.    
+08/12/1997,No rain past 10 days- overcast- little trace of algae- surface winds/wave action.    
+09/14/1997,No traffic for 3 days.  Surface is placid.   special note - latest date recorded- what effect does the angle of the sun have     
+06/13/1998,Partly cloudy moderate wind    
+07/04/1998,Heavy boat traffic typical for week of July 4.    
+08/03/1998,Calm driest July in 109 years!    
+08/31/1998,Lowest level in 20 yrs.  Warm fall breeze no rain in 3 wks.    
+09/23/1998,Continued dry.  Partly sunny moderate winds + waves.    
+06/29/2000,Partly cloudy- south wind.  Heavy rain prior (5) days.  No rain in 24 hours.  No traffic.    
+07/06/2000,Lake quiet after 4th of July.  Heavy traffic over the 4th with serious accident.    
+08/25/2000,Last days of summer.  Safety and courtesy lacking - notified Lake Association.    
+10/16/2000,Latest reading ever.  Temp mid 40's.  Bright sky.  3 boats fishing.    
+07/05/2001,Light boat traffic for season.  Light wave action.    
+08/01/2001,DNR moving and locating new fish cribs.  North bay- built in February.    
+06/14/2002,Clear and cloudless sky. Light south wind. No activity.    
+07/17/2002,Bright- hi sky- some light clouds. No activity.    
+10/18/2002,Sunny- mild breeze- rippling water. No boats. Preceeding 3 days had strong winds- sporadic heavy rains. Science teacher friend came along. Air temp 27 degrees C- Water = 22 C- D.O - 8.7- conductivity - 77- site depth - 14 feet.    
+06/11/2003,Neighbor took reading unassisted.    
+06/30/2003,Heavy rippled water surface. Good conditions for any activity.    
+07/29/2003,Very light wind. No boats. No rainfall in the last 10 days.    
+08/30/2003,Bright- high sky. Water temp 71 F. Heavier than normal plant growth.    
+09/10/2010,Clear sky- UV index of 8; water temp 63; temp in the morning was 44- got to 70.  
+10/07/2010,clear sky lake turnover over water temp 52 temp in morning 44 wind slight chop some weeds in 3feet and shallower starting to lay down
+05/22/2011,cloudy sky tree pollen high water temp64 slight chop on water
+06/12/2011,sunny watertemp 68 pollen on lake out side temp 65 little or no wind
+06/17/2011,little alge in water water temp 68 sunny wind 5 and variable weed growth still low
+06/25/2011,watertemp 66 pollen on water weed growth where it should be at this time because water was high in spring sunny wind light outside temp 71
+07/03/2011,lots of boat traffic water temp 75 weed growth starting to show a little better clear sky wind light
+07/11/2011,water temp 78 north wind 10 to 15 partly cloudy outside temp 70 counted 6 loons on lake  need rain about 3 inches behind june and july waters down almost 2 feet since ice out weed growth still ok
+07/26/2011,clear sky wind light uv index 9 lake still down 2' did extensive weed survey with dnr and county people used my boat
+08/04/2011,water temp 75 wind 8mph south uv idex 8 outside temp 84 lake came up 6" since july 29 storms last week dumped 3" rain weed growth at normal this time of year lots of mallard ducks hatched all flinging
+08/12/2011,depth 5' water temp 74 outside temp 75 sunny light wind s at 5 had some rain since last reading about .75" lake came up 2" still low by normal standards weed growth still normal or little behind no real alge detection still loons on lake seagulls showd up
+08/20/2011,water temp 71 outside temp 71 mostly sunny wind nw 10-15 water level went down about 2-3" still loons on lake water quality up since last reading at 6.5' water temp mostly in 70's
+09/05/2011,sunny temp60 watertemp 65 depth 4.5 water cloudy had big cold front move throughtemp in morn 45 windy on the 4th 15-25 gusting over 30 got some rain need more lake 2ft down
+09/16/2011,watertemp58 air temp62 was 30 outside this morning lake started turning over on sept 14. sunny wind 5-10 south weeds still green lake still down almost 3ft water dingy depth 4.75feet
+05/26/2012,water temp 65 wind south 10 to 15 outside temp 80 got 2"rain this past week water level about 3" down from ice out cabbage starting to show ducks and geese had little ones swimming around memorial weekend musky season open .
+06/03/2012,water temp 66 air temp 75 wind 10-15nw uv index 8 weed growth at normal below average people memorial weekend could use some rain 2 loons on lake but no little one
+06/11/2012,water temp 74 air temp 76 sunny uv index 8 wind sw 10 to 20 lake down 10" got little rain need more weed growth about normal lots of wind last couple days 20 to 30 mostly south got first hot spell upper 80-s to low 90-s
+06/19/2012,water temp 70 air temp 74 overcast change of storms wind south 5-10 water level came up a little about 2" we got some rain still behind for year weed growth ok cabbage comin along good very little algie in water ducks and geese getin pretty big
+06/27/2012,water temp 75 air temp 89 wind south 10-15 big storms rolled through the 20th dumped 2.5 inches brought lake up all most a foot weed growth still ok uv index at 9 water darkend up a little ducks and geese gitten big
+07/05/2012,watertemp 84 air temp 88 wind north at 5-10 hot and muggy last 5 days highs in the 90-s lows upper 60-s storms went through couple times lots of wind 50 plus water level still up little rain with storms weeds still ok lots of people up for the 4th lots of boats terrin up lake
+07/12/2012,water temp 80 air temp 84 uv index 8 mostly sunny wind sw5-10 4 foot and less weeds on top water down 6" could use some rain been pretty warm last week and half maybe tiny little bit of alge seen common merganser with little ones
+07/21/2012,water temp 79 uv index 7 partly cloudy outside temp 80 wind nw5-10 ben dry since last reading lake 1ft down from ice out lots hot temps on water since last weeds still holding there own little more alge loon still out with little one
+08/02/2012,water temp 79 air temp 85 wind south 10-15 mostly sunny been still pretty warm 4or 5 degrees above normal could use some rain lake is 1.5 down weeds starting to show on top more alge in water. water temp been hangin around middle to upper 70-s fore the last 3 weeks not to good fore fishin
+08/06/2012,water temp 73 air temp 75 uv index 8 wind sw 10-15 lots weeds floatin water skiers and jet skis lake still down 1.5ft month of july more than normal rain fall
+08/22/2012,water temp 69 air temp 75 wind 10 to 15sw uv index 8 lake level still down 1.8ft alge in full bloom weeds at full growth most people have 8 to 10ft of beach compared to spring
+08/30/2012,water temp 73 air temp 79 wind sw10-20 overcast bin real dry all month down about 3.5 inches since end of june lake down almost 2 feet alge still present weeds holding there own loons still here also lots of ducks and geese 2 eagles workin the lake one young one
+09/08/2012,water temp 68 air temp 60 wind w 10-15 little sun uv index 4 got some needed rain last couple days alge still big time weeds at normal lake still down 22 inches baby loon still around
+09/23/2012,water temp 52 air temp44 partly cloudy wind nw 10-20 turnover started 9-17 most weeds still green lake still down behind on rain fall about 5 inches young loon still on lake freeze on 22 week of 17-21 rain-sleet-hail and wind
+10/27/2012,water temp 40 air temp 36 wind nw10-15 mostly cloudy lake level back to normal cause they drained fisher lake down 4 feet cause of some weed problem been in the 20s over night storms rolled through on the 24th 21/2" of rain loons and ducks and geese still here mostly deep weeds left good cabbage
+05/04/2013,iced
+06/22/2013,little wind water temp 70 air temp 72 little tree pollen in water ducks and loons on lake geese also with little ones.ice out on 5-12 water highest since ive been here 2005 at least 11/2 feet above normal plus over 5"rain in may and june so far 5 plus inches mosquitos carry you away weed growth below normal .
+06/30/2013,air temp 75 water temp 74 wind north 10-15 uv index 8 some rain since last reading 11/2 inch lake still normal level pair loons have 2 little ones weed growth 5-6 feet mafly hatch finally happend
+07/08/2013,water temp 80 air temp80 sunny light breeze out of north uv index 8 last couple nights storms come through 2" rain water still normal weed growth ok loons doing ok 2 little ones ducks have nice broods mosqitos still bad and have seen no bats this year.
+07/16/2013,water temp 82 air temp 90 wind s10-20 uv idex 9 weeds ok growing to 7' looks like we lost one baby loon been warm last couple days in low 90's rain so far head of schedule 3" for the month
+07/24/2013,water temp 73 air temp70 wind 5-10 south water been preaty dark in color all year so far weeds still like normal little bloom showing up lake still normal level
+08/01/2013,water temp 67 air temp 66 wind north 10-20 uv index 8 big cold front moved through little rain we got need more lake little below normal geese are big so is the loon
+08/25/2013,sunny and warm air temp 86 water temp 75 wind 15-25 sw water low need some rain havent got any since july 2 loons duing fine weeds ok.
+09/04/2013,sunny air temp 68 water temp 68 wind n10-15 41/2 inches rain last week august no real alge bloom to speak of lake level back to normal loons still here
+09/16/2013,water temp 64 air temp 59 sunny light wind north at 5
+09/26/2013,water temp 62 air temp74 wind south 10-20 uv index 8 waters low need some rain hasn-t raind in couple weeks 1 loon still on lake
+12/09/2013,very cold last couple days highs single didgets lows below zero 5-16 ice thickness 8-10" snow on ground 8 to 10 bitter wind chill factor
+01/06/2014,since dec.1 20 days below zero coldest since 1996 ice thickness 20. 15 inches snow on top
+03/08/2014,28 inches snow on ground ice thickness 22 inches 10 inches slush set all new cold records for the winter so far lake superior 95% froze over
+05/16/2014,water temp 50 wind wnw 10-20 partly cloudy we have pair of loons back and ducks and geese water is real high higest its been since ive been here 2008 like 2 feet to high it even knocked the boat ramp dock off its pipes weather been real cold way more than normal
+06/01/2014,water temp 68 air temp 77 rain in forcast wind south 10-15 gusting weeds just starting to pop water still real high mosquittos eat you alive have to have bug spray
+06/17/2014,water temp 73-75 air temp74 wind wnw 5-10 uv index 8 got 3/4"rain sunday night into monday weeds about a foot loons I don't think have little one think mosquitos kept off nest geese have little ones don't see to many ducks tree polen in water
+06/25/2014,water temp 70 air temp 62 overcast wind north 5-10 weed growth good for this time of year water went down about 2 feet since ice out have not seen no ducks with little ones geese only
+07/11/2014,water temp 70 air temp 71 wind sw 10-20 gusting uv index 4 we do have little ducks swimming 2 loons no little ones weeds ok water up a little lots of people up for the 4th excelent weather.
+07/24/2014,water temp 76 air temp 70 uv index 8 wind light and variable water level still ok weeds little below normal for this time  of year ducks and geese doing well kinda normal fishing pressure water temp hasn-t reached 80 so far may flies a little
+08/05/2014,water temp 74 air temp 74 wind light and variable big storm yesterday 2 inches rain in half our lake was 1 foot down little alge starting to show been pretty dry lately weeds still ok
+08/20/2014,water temp 70 air temp 67 overcast no wind water level came up a little but still below normal ducks and geese doing ok haven't had water temps in upper 70's all year weeds ok
+09/13/2014,water temp 55 air temp 52 wind sw 10-15 mostly cloudy turn over started water level up to where it was in june i think we have one lone goose that can-t fly loons still here lots of rain since labor day weekend 6" plus where like 7" over fore yearly totals so far.
+10/10/2014,water temp 46 air temp 48 wind west 10-15 water finnally cleared up it-s done turning over adult loons have left still have ducks and geese water level down a little deeper weeds still green
+10/30/2014,water temp 44 air temp 38 wind 5-10 west overcast storm comming expect 2-4" wind blowing 15-30 northwest water level little below normal diving ducks on lake most of reagular ducks and geese gone still green weeds out in 5 to 7 feet good cabbage
+04/17/2015,water temp 46 wind west 5-10 sunny air temp 72 beautiful have loons-ducks-and geese most weeds still dormant except deep weeds still green water level normal
+05/10/2015,water temp 62 air temp 60 wind 10-15 northeast partly sunny still could use some rain lake still down loons still here weed growth still down
+05/27/2015,water temp 65 air temp 74 wind west 5-10 clear sky cabage weed starting to come up water level hangin around normal got 2" rain from sunday eve to tuseday geese have little ones loons still here havent seen no little ones
+06/07/2015,water temp 68 air temp 70 wind west 5-10 uv index 5 see geese with little ones but no ducks or loons decent rain past week 2" keeping lake at normal
+06/27/2015,water temp 76 air temp78 wind lite west sunny sky all most 2" rain since last report water level still normal weeds doing ok said the loons had a little one don-.t see it any more geese are doing well not to much boating activity so fare
+07/13/2015,water temp 77 air temp79 wind light sw partly cloudy lake about 1ft down tops off weeds showing in 4ft and less no alge yet mallard duck has about 8 ducklings geese have about 12 little ones loons just a pair.-
+07/21/2015,water temp 74 air temp 74 wind nw 10-20 with gusting water level about a ft down weeds still ok no alge yet two pair loons on lake no little ones mostly sunny skies could use some rain last measurable rain was a week ago.
+08/02/2015,water temp 75 air temp71 wind light west partly cloudy uv index 7 need some rain lake 11/2feet down no alge yet
+08/26/2015,water temp 65 air temp 68 sunny wind nw 10-15 uv index 8 big cold front moved in lows in the 40-s highs in the 50-s    with some rain about 11/2" lake still down 2' some alge starting to show 
+09/05/2015,water temp 76 air temp 86 wind sw 10-15 got some needed rain 1 1/2" lake came up a little lake temp droped to 64 lake in alge bloom uv index 8
+09/12/2015,water temp 66 air temp 62 wind nw10-15 couple clouds uv idex 7 lake still in alge bloom last couple nights upper 30s to low 40s had some rain since last reading lake came up 4" but still not normal loons still here
+10/20/2015,water temp 47 air temp55 partly cloudy wind ne5-10 lake still down 2' plus weeds still green majourty lake just about done turning over hade 24degrees the other day adult loons have left
+11/03/2015,water temp45 air temp60 mostly sunny wind 5-10 se got some needed rain about 2" brought the lake up but still below normal just couple sea gulls around about half weeds still green deeper weeds will stay green all winter 
+04/17/2016,ice out april 17 out side temp 80 pair loons on lake water level little high water temp 41
+05/02/2016,water temp 53 air temp 61 wind light + variable water level still little high still 2 loons couple malards haven-t seen no geese
+06/05/2016,water temp 65 air temp58 wind nw10-20 with gusts had lots of rain last 2 weeks lake was down 12 to 14" came back up to higher than normal  weeds doin fine have not seen no loon duck or geese little ones
+06/28/2016,water temp 73 air temp 70 wind nw5-10 sunny lake about normal lots of cabbage weed this year weeds ok as far as growth
+07/06/2016,water temp 75-77 air temp78 wind nw10-15 all sun water level down below normal no measurable rain for 2 weeks geese almost full grown herd from some people on the lake eagles took out most of the ducks little duck weed showin up
+07/22/2016,been warm last couple days upper 80's low 90's todays air temp 90 water temp low 80's lake still above normal weeds ok did see some malards swimin around boat trafic ok got 4 to 5" of rain since reading
+08/04/2016,water temp 76-78 air temp 70 overcast wind 15-20 sw water down about 1ft still preaty good fore this time of year but could use some rain no alge to report weeds doing ok
+08/11/2016,water temp 74 air temp70 overcast wind ne 5-10 got 21/2" rain on the 10th lake was down about a foot came up couple inches still below normal
+08/26/2016,water temp 69-70 air temp66 wind nw 10-15 partly cloudy water level came up to where it was in spring got more rain on the 20th 21/2"uv index 6
+08/30/2016,water temp72-73 air temp 70 wind nw10-15 lake has start of little alge see it in the morning when clam water level still higher than normal cause all rain we got month of august close to 7" still have pair loons on lake
+09/13/2016,water temp 67 air temp 60 partly cloudy wind nw10-15 with gusts couple nights middle 40-s our pair of loons left for the year humming birds left also lake level still up like normal
+10/22/2016,water temp 50 air temp57 wind west 5-10 uv index 9 right at end of turnover some shallow weeds gone deep weeds still green they will stay green all winter still getting rain month of october lake level about normal this time of year no diving ducks yet from canada
+04/29/2017,water temp 46 air temp 49 wind ne 10-15 partly cloudy lake level little high 3" snow on the 27th outher wise almost 2" rain last week pair loons on lake
+06/23/2017,water temp 70 air temp63 wind w 10-20 partly cloudy uv index 6 lake level normal this time of year lots of rain april into may 5 to 7 inches water temp been pretty cool so far this year but the good thing is cabbage really got a good crop weeds little below normal geese have little ones no loon babies
+07/07/2017,water temp 70 air temp 72 partly cloudy wind west 10-15 uv index 7 lake little below normal could use some rain ducks and geese getin big most weeds ok but the cabbage really took off bears visting most properties around lake
+07/15/2017,water temp 73 air temp76 wind ne10-15 lake level still low could use some measureable rain weeds ok only out to 5 to 6 feet
+08/05/2017,water temp 72 air temp 74 wind n5-10 uv index 6 finally got some rain on 3rd about 1" lake down 1' from normal all the weeds showing up in normal places 2loons still here lots ducks and geese all flying by now
+08/16/2017,water temp 70 air temp 72 wind se 10-15 uv index 5 little bit alge in morning when clam lake still down about 1' even though we got some rain all the spring hatches are all flying
+09/17/2017,water temp 68 air temp55 wind nw10-15 gusting mostly sunny un seasonbly warm weather past week highs 80-85 no rain lows in the 60-s trees turning color still two loons on lake water temp got down to low 60-s before warm spell water level still 1' down ducks +geese gone
+
+
+
+
+Start Date,Group Name,Project Name
+08/28/1992,Kathleen Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/12/1992,Kathleen Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/27/1993,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/08/1993,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/26/1993,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/10/1993,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/16/1994,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/21/1994,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/04/1994,Kathleen Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/24/1994,Kathleen Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/22/1994,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/18/1994,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/15/1995,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/15/1995,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/25/1996,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/05/1996,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/02/1996,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/03/1996,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/21/1997,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/06/1997,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/28/1997,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/12/1997,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/14/1997,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/13/1998,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/04/1998,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/03/1998,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/31/1998,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/23/1998,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/29/2000,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/06/2000,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/25/2000,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/16/2000,Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/05/2001,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/01/2001,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/14/2002,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/17/2002,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/18/2002,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/11/2003,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/30/2003,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/29/2003,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/30/2003,Kathleen And Norb Brossmer,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/10/2010,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/07/2010,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/22/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/12/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/17/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/25/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/03/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/11/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/19/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/26/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/04/2011,Heather Palmquist- Maureen Ferry- Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/12/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/20/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/05/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/16/2011,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/21/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/26/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/03/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/11/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/19/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/27/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/05/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/12/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/21/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/02/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/06/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/22/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/30/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/08/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/23/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/27/2012,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/04/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/22/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/30/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/08/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/16/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/24/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/01/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/25/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/04/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/16/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/26/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+12/09/2013,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+01/06/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+03/08/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/16/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/01/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/17/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/25/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/11/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/24/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/05/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/20/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/13/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/10/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/30/2014,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+04/17/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/10/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/27/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/07/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/27/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/13/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/21/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/02/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/26/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/05/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/12/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/20/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+11/03/2015,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+04/17/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+05/02/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/05/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/28/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/06/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/22/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/04/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/11/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/26/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/30/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/13/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+10/22/2016,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+04/29/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+06/23/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/07/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+07/15/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/05/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/16/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+08/29/2017,Zach Wilson,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North
+09/17/2017,Jim Falkowski,Citizen Lake Monitoring - Water Quality - Echo Lake - Site A - North

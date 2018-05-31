@@ -1,0 +1,228 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Nicaboyne Lake,Burnett,2486100,NO,7,,073134,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191237,05/18/2004,13,NO,4,,10,40,46,,,,,,
+8191226,08/16/2004,8,NO,2.4,4.47,12,47,47,46,,,,,
+8191177,10/15/2004,7.75,NO,2.4,,,48,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,10/20/2004,10.5,NO,3.2,,,43,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191177,06/12/2005,9.75,NO,3,,,44,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191177,06/29/2005,9,NO,2.7,,,45,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,07/16/2005,10,NO,3,,,44,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,07/26/2005,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,08/14/2005,9.5,NO,2.9,,,45,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191177,09/11/2005,11,NO,3.3,,,43,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,10/01/2005,7,NO,2.1,,,49,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,05/30/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/13/2006,11.3,NO,3.4,,,42,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,07/26/2006,12.3,NO,3.7,,,41,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,09/09/2006,13.3,NO,4,,,40,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,09/14/2006,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,10/14/2006,9.3,NO,2.8,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/05/2007,12.75,NO,3.9,,,40,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,06/23/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,08/06/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,08/31/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,09/15/2007,7.5,NO,2.3,,,48,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,06/16/2008,9,NO,2.7,,,45,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,07/01/2008,10.25,NO,3.1,,,44,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,07/11/2008,9.25,NO,2.8,,,45,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,08/15/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,05/07/2009,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,06/16/2009,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/16/2009,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,06/19/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/19/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,07/25/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,07/25/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,09/18/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,09/18/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/13/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/18/2010,13.5,NO,4.1,,,40,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,07/16/2010,12.5,NO,3.8,,,41,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,08/04/2010,13.5,NO,4.1,,,40,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,08/17/2010,13,NO,4,,,40,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,09/30/2010,14,NO,4.3,,,39,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,05/12/2012,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,06/05/2012,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,06/22/2012,9,NO,2.7,,,45,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,06/30/2012,11,NO,3.3,,,43,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,07/27/2012,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,09/06/2012,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+16115833,09/18/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,06/01/2013,11.5,NO,3.5,,,42,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,06/08/2013,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191178,07/10/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,07/26/2013,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191178,09/07/2013,8.5,NO,2.6,,,46,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,07/01/2014,5,NO,1.5,,,54,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16115833,07/09/2014,6.5,NO,2,,,50,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16115833,07/16/2014,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16115833,07/26/2014,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16115833,08/27/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16115833,09/27/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16115833,05/08/2015,6,NO,1.8,,,51,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,06/06/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,07/23/2015,6.3,NO,1.9,,,51,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,08/14/2015,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,09/04/2015,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+16115833,06/04/2016,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115833,06/28/2016,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115833,07/03/2016,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115833,08/13/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115833,06/06/2017,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115833,06/26/2017,7.75,NO,2.4,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16115833,08/29/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/18/2004,1.64,FEET,,,11.3,MG/L
+05/18/2004,,,16.8,C,11.3,MG/L
+08/16/2004,1.64,FEET,,,8.2,MG/L
+08/16/2004,,,19.0,C,8.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/18/2004,DEEPEST SPOT NEAR CENTER OF LAKE    
+08/16/2004,DEEPEST SPOT NEAR CENTER OF LAKE    
+10/15/2004,cloudy- calm    
+10/20/2004,sunny- calm    
+06/12/2005,Cloudy- calm    
+06/29/2005,Cloudy    
+07/16/2005,Partly cloudy    
+07/26/2005,Heavy clouds    
+08/14/2005,Partly cloudy- boating activity    
+09/11/2005,Clear- windy    
+10/01/2005,Partly cloudy- choppy    
+05/30/2006,partly cloudy- slightly choppy- day after strong storms
+06/13/2006,partly cloudy- slightly choppy 
+07/26/2006,partly cloudy- calm- hot day 
+09/09/2006,clear- slightly choppy 
+09/14/2006,windy- sunny- choppy 
+10/14/2006,cloudy- choppy- windy 
+06/05/2007,Partly cloudy- choppy
+06/23/2007,Sunny- choppy
+08/06/2007,Cloudy- calm
+08/31/2007,Cloudy- calm
+09/15/2007,Clear- choppy
+06/16/2008,Cloudy- slightly choppy
+07/01/2008,Sunny- Calm
+07/11/2008,Sunny- windy- very wavy
+08/15/2008,Sunny- calm
+05/07/2009,Partly cloudy. Choppy.
+06/16/2009,Cloudy- windy.
+06/19/2009,Prior night - storms. Today calm and cloudy.
+07/25/2009,Cloudy and choppy.
+09/18/2009,cloudy and calm.
+06/13/2010,Overcast. Calm day after all day rain. 
+06/18/2010,Clear sky. Choppy.
+07/16/2010,Sunny. Slightly choppy
+08/04/2010,Sunny- choppy
+08/17/2010,Sunny and calm.
+09/30/2010,Sunny and calm.
+05/12/2012,calm + sunny
+06/05/2012,calm and sunny
+06/22/2012,calm and sunny
+06/30/2012,calm and sunny
+07/27/2012,choppy water after rain
+09/06/2012,choppy and partly sunny
+09/18/2012,calm and a clear sky
+06/01/2013,Overcast- slightly choppy
+06/08/2013,Sunny choppy
+07/10/2013,Sunny choppy
+07/26/2013,Sunny- choppy
+09/07/2013,Cloudy- very choppy- windy
+07/01/2014,Cloudy- windy- choppy- murky
+07/09/2014,Sunny- calm- murky
+07/16/2014,Sunny- calm- murky
+07/26/2014,Sunny- slightly choppy- murky
+08/27/2014,Partly cloudy- choppy- murky
+09/27/2014,Overcast- choppy- murky
+05/08/2015,cloudy- slightly choppy
+06/06/2015,cloudy- choppy
+07/23/2015,Slightly choppy- clear skies
+08/14/2015,calm- clear skies
+09/04/2015,windy- clear skies
+
+
+
+
+Start Date,Group Name,Project Name
+05/18/2004,Mark Stanley and Christopher Willger,Lake Baseline Monitoring- DNR (1970s-2006)
+08/16/2004,Kent Bass,Lake Baseline Monitoring- DNR (1970s-2006)
+10/15/2004,Dorothy Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+10/20/2004,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/12/2005,Dorothy Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/29/2005,Dorothy Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/16/2005,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/26/2005,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/14/2005,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/11/2005,Dorothy Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+10/01/2005,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+05/30/2006,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/13/2006,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/26/2006,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/09/2006,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/14/2006,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+10/14/2006,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/05/2007,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/23/2007,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/06/2007,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/31/2007,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/15/2007,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/16/2008,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/01/2008,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/11/2008,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/15/2008,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+05/07/2009,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/16/2009,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/16/2009,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/19/2009,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/19/2009,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/25/2009,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/25/2009,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/18/2009,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/18/2009,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/13/2010,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/18/2010,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/16/2010,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/04/2010,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/17/2010,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/30/2010,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+05/12/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/05/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/22/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/30/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/27/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/06/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/18/2012,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/01/2013,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/08/2013,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/10/2013,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/26/2013,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/07/2013,Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/01/2014,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/09/2014,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/16/2014,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/26/2014,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/27/2014,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/27/2014,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+05/08/2015,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/06/2015,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/23/2015,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/14/2015,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+09/04/2015,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/04/2016,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/28/2016,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+07/03/2016,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/13/2016,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/06/2017,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+06/26/2017,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole
+08/29/2017,Dorothy and Ken Busby,Citizen Lake Monitoring - Water Quality - Nicaboyne Lake; Deep Hole

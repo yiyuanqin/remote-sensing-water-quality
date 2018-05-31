@@ -1,0 +1,79 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Stone Lake,Iron,2267200,NO,26,,263142,NW,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188905,06/11/2003,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188905,07/26/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,
+8188905,08/28/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,
+8188905,06/23/2004,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,
+8188905,08/14/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,
+8188905,09/10/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,
+8191411,07/14/2005,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191411,08/05/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191411,08/23/2005,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191411,06/24/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,
+8191411,07/17/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,
+8191411,08/22/2006,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,
+8188905,06/15/2007,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,
+8188905,07/13/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,
+8188905,08/06/2007,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,
+8188905,07/15/2008,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8188905,08/26/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,
+8188687,08/11/2015,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+129920827,06/21/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+129920827,07/15/2016,5.5,NO,1.7,,,53,,,HIGH,1  ,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/11/2015,2,FEET,23,DEGREES C,6.28,MG/L
+08/11/2015,4,FEET,22,DEGREES C,5.53,MG/L
+08/11/2015,6,FEET,21.7,DEGREES C,5.15,MG/L
+08/11/2015,8,FEET,21.4,DEGREES C,4.92,MG/L
+08/11/2015,12,FEET,18.3,DEGREES C,.07,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/11/2003,Sun- light wind.    
+08/28/2003,Lake lower than it has been for many years.    
+06/23/2004,Lake leval higher than normal due to beaver dam on State owned land. (total depth 20') light wind sunny    
+08/14/2004,light wind- sun    
+07/14/2005,lake high    
+08/05/2005,lake lower    
+08/23/2005,lake very low    
+06/15/2007,Lake lowest in many years.  Several dead fish.
+07/13/2007,No increase in lake level.
+08/06/2007,Large pieces of green material below surface.
+07/15/2008,Lake higher than normal
+08/26/2008,lake lower than normal
+
+
+
+
+Start Date,Group Name,Project Name
+06/11/2003,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/26/2003,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/28/2003,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/23/2004,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/14/2004,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+09/10/2004,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/14/2005,Jennifer Rothe,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/05/2005,Jennifer Rothe,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/23/2005,Jennifer Rothe,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/24/2006,Jennifer Rothe,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/17/2006,Jennifer Rothe,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/22/2006,Jennifer Rothe,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/15/2007,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/13/2007,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/06/2007,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/15/2008,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/26/2008,Bill Lindsay,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/11/2015,Zach Wilson,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/21/2016,Nancy Osgood,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/15/2016,Nancy Osgood,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole

@@ -1,0 +1,42 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Half Moon Lake,Bayfield,2762700,NO,4,,10037628,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+62595126,08/29/2012,7.2,NO,2.2,1.67,20,49,51,39,,,,,
+145584054,06/28/2017,,,,5.15,19.5,,51,47,,,,,
+145584054,08/15/2017,,,,5.13,53.1,,59,47,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/2012,0,METERS,23.6,DEGREES C,9.6,MG/L
+08/29/2012,0.5,METERS,23.5,DEGREES C,9.4,MG/L
+08/29/2012,1,METERS,23.4,DEGREES C,9.4,MG/L
+08/29/2012,1.5,METERS,23.3,DEGREES C,9.5,MG/L
+08/29/2012,2,METERS,23.1,DEGREES C,5.2,MG/L
+08/29/2012,2.5,METERS,22.5,DEGREES C,1.3,MG/L
+06/28/2017,0,METERS,19.7,DEGREES C,9.8,MG/L
+06/28/2017,0.5,METERS,19.7,DEGREES C,9.8,MG/L
+06/28/2017,1,METERS,19.7,DEGREES C,9.8,MG/L
+06/28/2017,1.5,METERS,19.7,DEGREES C,9.8,MG/L
+08/15/2017,0,METERS,22.8,DEGREES C,8.6,MG/L
+08/15/2017,0.5,METERS,22.2,DEGREES C,8.8,MG/L
+08/15/2017,1,METERS,22.1,DEGREES C,8.8,MG/L
+08/15/2017,1.5,METERS,21.9,DEGREES C,9.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/29/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+06/28/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017
+08/15/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

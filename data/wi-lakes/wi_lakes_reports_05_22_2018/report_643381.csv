@@ -1,0 +1,188 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Rock Lake,Vilas,1862100,NO,64,,643381,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/10/1988,,,,,8,,44,,,,,,
+1,09/08/1988,,,,,11,,47,,,,,,
+1,10/06/1988,,,,,13,,48,,,,,,
+1,12/05/1988,,,,,9,,45,,,,,,
+1,02/27/1989,,,,,10,,46,,,,,,
+1,03/29/1989,,,,,9,,45,,,,,,
+1,04/26/1989,,,,,10,,46,,,,,,
+1,06/14/1989,,,,,8,,44,,,,,,
+1,07/11/1989,,,,,8,,44,,,,,,
+1,08/22/1989,,,,,10,,46,,,,,,
+1,10/10/1989,,,,,6,,42,,,,,,
+1,12/06/1989,,,,,8,,44,,,,,,
+7000080,02/20/2001,,,,1.3,,,,37,,,,,
+7000080,08/14/2001,,,,,8,,44,,,,,,
+7000080,11/08/2001,,,,,21,,52,,,,,,
+7000080,02/18/2002,,,,,13,,48,,,,,,
+7000080,04/24/2002,,,,,18,,51,,,,,,
+7000010,09/05/2002,,,,,9,,45,,,,,,
+7000010,10/23/2002,,,,,9,,45,,,,,,
+7000010,02/19/2003,,,,,5,,41,,,,,,
+7000010,04/21/2003,,,,,15,,49,,,,,,
+7000010,08/14/2003,,,,,6,,42,,,,,,
+7000010,09/18/2003,,,,,9,,45,,,,,,
+7000010,11/03/2003,,,,,11,,47,,,,,,
+7000010,02/17/2004,,,,,8,,44,,,,,,
+7000010,05/06/2004,,,,,13,,48,,,,,,
+7000010,08/25/2004,,,,,8,,44,,,,,,
+7000010,11/04/2004,,,,,11,,47,,,,,,
+7000010,04/27/2005,,,,,5,,41,,,,,,
+7000010,08/29/2005,,,,,8,,44,,,,,,
+7000010,09/01/2005,,,,,9,,45,,,,,,
+7000010,11/16/2005,,,,,12,,47,,,,,,
+7000010,03/06/2006,,,,,10,,46,,,,,,
+7000010,04/26/2006,,,,,11,,47,,,,,,
+7000010,08/29/2006,,,,,7,,43,,,,,,
+7000010,09/05/2006,,,,,11,,47,,,,,,
+1,02/26/2007,,,,,8,,44,,,,,,
+1,04/25/2007,,,,,13,,48,,,,,,
+7000080,09/11/2007,,,,,10,,46,,,,,,
+7000080,11/14/2007,,,,,10,,46,,,,,,
+7000080,03/13/2008,,,,,13,,48,,,,,,
+7000080,05/08/2008,,,,,11,,47,,,,,,
+7000080,08/27/2008,,,,,6,,42,,,,,,
+7000080,09/03/2008,,,,,6,,42,,,,,,
+7000080,10/30/2008,,,,,11,,47,,,,,,
+7000080,02/25/2009,,,,,11,,47,,,,,,
+7000080,04/30/2009,,,,,14,,49,,,,,,
+7000080,09/03/2009,,,,,11,,47,,,,,,
+7000080,10/26/2009,,,,,10,,46,,,,,,
+7000080,03/03/2010,,,,,9,,45,,,,,,
+7000080,04/06/2010,,,,,8,,44,,,,,,
+7000080,09/01/2010,,,,,10,,46,,,,,,
+7000080,11/03/2010,,,,,13,,48,,,,,,
+7000080,02/23/2011,,,,,11,,47,,,,,,
+7000080,05/02/2011,,,,,15,,49,,,,,,
+7000080,09/01/2011,,,,,11,,47,,,,,,
+7000080,11/08/2011,,,,,7,,43,,,,,,
+7000080,02/29/2012,,,,,7,,43,,,,,,
+7000080,03/28/2012,,,,,11,,47,,,,,,
+7000080,08/22/2012,,,,,14,,49,,,,,,
+7000080,11/01/2012,,,,,8,,44,,,,,,
+7000080,02/27/2013,,,,,10,,46,,,,,,
+7000080,05/15/2013,,,,,13.3,,48,,,,,,
+7000080,09/03/2013,,,,,9.76,,46,,,,,,
+7000080,11/07/2013,,,,,7.39,,44,,,,,,
+7000080,03/12/2014,,,,,8.13,,44,,,,,,
+1,05/20/2014,,,,,8.39,,45,,,,,,
+10588851,08/04/2014,,,,,8.35,,45,,,,,,
+7000080,10/28/2014,,,,,10.8,,47,,,,,,
+7000080,03/09/2015,,,,,11,,47,,,,,,
+7000080,04/27/2015,,,,,13,,48,,,,,,
+7000080,08/27/2015,,,,,11.7,,47,,,,,,
+1,11/03/2015,,,,,13.4,,48,,,,,,
+7000080,03/03/2016,,,,,14.5,,49,,,,,,
+1,04/26/2016,,,,,13.7,,48,,,,,,
+1,08/23/2016,,,,,9.72,,46,,,,,,
+1,11/03/2016,,,,,15.4,,49,,,,,,
+7000010,03/06/2017,,,,,11.5,,47,,,,,,
+7000010,05/01/2017,,,,,12.8,,48,,,,,,
+7000010,08/15/2017,,,,,13,,48,,,,,,
+7000010,10/29/2017,,,,,17.1,,50,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+02/18/2002,NORTH BASIN    
+05/06/2004,NORTH BASIN    
+03/06/2006,NORTH BASIN    
+04/26/2006,NORTH BASIN    
+
+
+
+
+Start Date,Group Name,Project Name
+08/10/1988,Data Collectors,MERCURY DEPOSITION EPRI
+09/08/1988,Data Collectors,MERCURY DEPOSITION EPRI
+10/06/1988,Data Collectors,MERCURY DEPOSITION EPRI
+12/05/1988,Data Collectors,MERCURY DEPOSITION EPRI
+02/27/1989,Data Collectors,MERCURY DEPOSITION EPRI
+03/29/1989,Data Collectors,MERCURY DEPOSITION EPRI
+04/26/1989,Data Collectors,MERCURY DEPOSITION EPRI
+06/14/1989,Data Collectors,MERCURY DEPOSITION EPRI
+07/11/1989,Data Collectors,MERCURY DEPOSITION EPRI
+08/22/1989,Data Collectors,MERCURY DEPOSITION EPRI
+10/10/1989,Data Collectors,MERCURY DEPOSITION EPRI
+12/06/1989,Data Collectors,MERCURY DEPOSITION EPRI
+02/20/2001,KENNETH MORRISON,MERCURY METHYLATION STUDY
+08/14/2001,KENNETH MORRISON,Little Rock Lake Study
+11/08/2001,KENNETH MORRISON,Little Rock Lake Study
+02/18/2002,KENNETH MORRISON,Little Rock Lake Study
+04/24/2002,KENNETH MORRISON,Little Rock Lake Study
+09/05/2002,CARL WATRAS,DL/LRL MERCURY PROJECT
+10/23/2002,CARL WATRAS,DL/LRL MERCURY PROJECT
+02/19/2003,CARL WATRAS,DL/LRL MERCURY PROJECT
+04/21/2003,CARL WATRAS,DL/LRL MERCURY PROJECT
+08/14/2003,CARL WATRAS,DL/LRL MERCURY PROJECT
+09/18/2003,CARL WATRAS,DL/LRL MERCURY PROJECT
+11/03/2003,CARL WATRAS,DL/LRL MERCURY PROJECT
+02/17/2004,CARL WATRAS,DL/LRL MERCURY PROJECT
+05/06/2004,CARL WATRAS,Little Rock Lake Study
+08/25/2004,CARL WATRAS,DL/LRL MERCURY PROJECT
+11/04/2004,CARL WATRAS,DL/LRL MERCURY PROJECT
+04/27/2005,CARL WATRAS,Little Rock Lake Study
+08/29/2005,CARL WATRAS,Little Rock Lake Study
+09/01/2005,CARL WATRAS,Little Rock Lake Study
+11/16/2005,CARL WATRAS,Little Rock Lake Study
+03/06/2006,CARL WATRAS,Little Rock Lake Study
+04/26/2006,CARL WATRAS,Little Rock Lake Study
+08/29/2006,CARL WATRAS,Little Rock Lake Study
+09/05/2006,CARL WATRAS,Little Rock Lake Study
+02/26/2007,Data Collectors,Little Rock Lake Study
+04/25/2007,Data Collectors,Little Rock Lake Study
+09/11/2007,KENNETH MORRISON,Sentinel Lakes Project
+11/14/2007,KENNETH MORRISON,Sentinel Lakes Project
+03/13/2008,KENNETH MORRISON,Sentinel Lakes Project
+05/08/2008,KENNETH MORRISON,Sentinel Lakes Project
+08/27/2008,KENNETH MORRISON,Sentinel Lakes Project
+09/03/2008,KENNETH MORRISON,Sentinel Lakes Project
+10/30/2008,KENNETH MORRISON,Sentinel Lakes Project
+02/25/2009,KENNETH MORRISON,Sentinel Lakes Project
+04/30/2009,KENNETH MORRISON,Sentinel Lakes Project
+09/03/2009,KENNETH MORRISON,Sentinel Lakes Project
+10/26/2009,KENNETH MORRISON,Sentinel Lakes Project
+03/03/2010,KENNETH MORRISON,Sentinel Lakes Project
+04/06/2010,KENNETH MORRISON,Sentinel Lakes Project
+09/01/2010,KENNETH MORRISON,Sentinel Lakes Project
+11/03/2010,KENNETH MORRISON,Sentinel Lakes Project
+02/23/2011,KENNETH MORRISON,Sentinel Lakes Project
+05/02/2011,KENNETH MORRISON,Sentinel Lakes Project
+09/01/2011,KENNETH MORRISON,Sentinel Lakes Project
+11/08/2011,KENNETH MORRISON,Sentinel Lakes Project
+02/29/2012,KENNETH MORRISON,Sentinel Lakes Project
+03/28/2012,KENNETH MORRISON,Sentinel Lakes Project
+08/22/2012,KENNETH MORRISON,Sentinel Lakes Project
+11/01/2012,KENNETH MORRISON,Sentinel Lakes Project
+02/27/2013,KENNETH MORRISON,Sentinel Lakes Project
+05/15/2013,KENNETH MORRISON,Sentinel Lakes Project
+09/03/2013,KENNETH MORRISON,Sentinel Lakes Project
+11/07/2013,KENNETH MORRISON,Sentinel Lakes Project
+03/12/2014,KENNETH MORRISON,Sentinel Lakes Project
+05/20/2014,Data Collectors,Sentinel Lakes Project
+08/04/2014,JEFFREY RUBSAM,Sentinel Lakes Project
+10/28/2014,KENNETH MORRISON,Sentinel Lakes Project
+03/09/2015,KENNETH MORRISON,Sentinel Lakes Project
+04/27/2015,KENNETH MORRISON,Sentinel Lakes Project
+08/27/2015,KENNETH MORRISON,Sentinel Lakes Project
+11/03/2015,Data Collectors,Sentinel Lakes Project
+03/03/2016,KENNETH MORRISON,Sentinel Lakes Project
+04/26/2016,Data Collectors,
+08/23/2016,Data Collectors,
+11/03/2016,Data Collectors,Sentinel Lakes Project
+03/06/2017,CARL WATRAS,Sentinel Lakes Project
+05/01/2017,CARL WATRAS,Sentinel Lakes Project
+08/15/2017,CARL WATRAS,Sentinel Lakes Project
+10/29/2017,CARL WATRAS,Sentinel Lakes Project

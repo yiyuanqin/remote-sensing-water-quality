@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Twin Lakes,Vilas,1623700,NO,64,,10044685,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/08/2016,,,,,,,,,,,,,
+1,06/10/2016,,,,,,,,,,,,,
+1,06/12/2016,,,,,,,,,,,,,
+1,06/14/2016,,,,,,,,,,,,,
+1,06/21/2016,,,,,,,,,,,,,
+1,06/28/2016,,,,,,,,,,,,,
+1,07/05/2016,,,,,,,,,,,,,
+1,07/15/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/08/2016,,,16.1,C,,
+06/10/2016,,,18.3,C,,
+06/12/2016,,,18.9,C,,
+06/14/2016,,,20.0,C,,
+06/21/2016,,,21.1,C,,
+06/28/2016,,,21.7,C,,
+07/05/2016,,,23.3,C,,
+07/15/2016,,,21.7,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/08/2016,Data Collectors,Herbicide Concentration Monitoring
+06/10/2016,Data Collectors,Herbicide Concentration Monitoring
+06/12/2016,Data Collectors,Herbicide Concentration Monitoring
+06/14/2016,Data Collectors,Herbicide Concentration Monitoring
+06/21/2016,Data Collectors,Herbicide Concentration Monitoring
+06/28/2016,Data Collectors,Herbicide Concentration Monitoring
+07/05/2016,Data Collectors,Herbicide Concentration Monitoring
+07/15/2016,Data Collectors,Herbicide Concentration Monitoring

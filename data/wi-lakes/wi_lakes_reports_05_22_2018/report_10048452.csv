@@ -1,0 +1,33 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hagen Lake,Oconto,421700,NE,43,,10048452,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,08/23/2017,,,,11.2,19.7,,51,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/23/2017,0,METERS,21.7,DEGREES C,7.15,MG/L
+08/23/2017,1,METERS,21.8,DEGREES C,7.1,MG/L
+08/23/2017,2,METERS,21.7,DEGREES C,6.9,MG/L
+08/23/2017,3,METERS,18.8,DEGREES C,.1,MG/L
+08/23/2017,4,METERS,14,DEGREES C,.03,MG/L
+08/23/2017,5,METERS,11.2,DEGREES C,.03,MG/L
+08/23/2017,6,METERS,9.2,DEGREES C,.03,MG/L
+08/23/2017,7,METERS,8.6,DEGREES C,.03,MG/L
+08/23/2017,7.3,METERS,8.4,DEGREES C,.03,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/23/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

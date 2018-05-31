@@ -1,0 +1,44 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Elkhart Lake,Sheboygan,59300,SE,60,,10014825,SW,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/27/1990,,,,,9,,45,,,,,,
+1,07/24/1990,,,,2,50,,58,40,,,,,
+1,02/28/1991,,,,,28,,54,,,,,,
+1,04/29/1991,,,,15,23,,52,55,,,,,
+1,06/27/1991,,,,4,12,,47,45,,,,,
+1,07/24/1991,,,,3,,,,43,,,,,
+1,08/20/1991,,,,3,8,,44,43,,,,,
+1,10/15/1991,,,,7,12,,47,50,,,,,
+1,10/28/1991,,,,11,,,,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/27/1990,,,20.5,C,9.9,MG/L
+07/24/1990,,,22,C,10.4,MG/L
+08/20/1991,,,22,C,8.7,MG/L
+10/28/1991,,,,,7.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/27/1990,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/24/1990,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+02/28/1991,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/29/1991,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/27/1991,Data Collectors,NONPOINT SOURCE
+07/24/1991,Data Collectors,NONPOINT SOURCE
+08/20/1991,Data Collectors,NONPOINT SOURCE
+10/15/1991,Data Collectors,NONPOINT SOURCE
+10/28/1991,Data Collectors,NONPOINT SOURCE

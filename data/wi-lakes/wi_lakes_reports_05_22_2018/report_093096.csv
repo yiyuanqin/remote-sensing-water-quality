@@ -1,0 +1,522 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wissota,Chippewa,2152800,WC,9,,093096,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/21/1989,,,,1,40,,57,35,,,,,
+1,05/08/1989,4.3,,1.3,13,51,56,59,54,,,,,
+1,05/09/1989,4.6,,1.4,,,55,,,,,,,
+1,06/06/1989,3,,0.9,23,110,62,65,59,,,,,
+1,07/13/1989,3.3,,1,45,12,60,47,64,,,,,
+1,08/15/1989,2.1,,0.65,81,138,66,66,68,,,,,
+1,11/01/1989,8.9,,2.7,2,48,46,58,40,,,,,
+7000081,05/03/2001,3,NO,0.9,13,91,62,63,54,,,,,
+7000081,05/16/2001,3.3,NO,1,34,77,60,62,61,,,,,
+7000081,05/31/2001,3.6,NO,1.1,14,86,59,63,55,,,,,
+7000081,06/13/2001,2.3,NO,0.7,2.1,164,65,68,40,,,,,
+7000081,06/27/2001,2,NO,0.6,58,124,67,65,65,,,,,
+7000081,07/11/2001,,,,64,119,,65,66,,,,,
+7000081,07/24/2001,3.6,NO,1.1,25,101,59,64,59,,,,,
+7000081,08/07/2001,2.3,NO,0.7,53,164,65,68,65,,,,,
+7000081,08/22/2001,3.6,NO,1.1,4,117,59,65,45,,,,,
+7000081,09/05/2001,2.6,NO,0.8,82,130,63,66,68,,,,,
+7000081,09/18/2001,5.2,NO,1.6,38,90,53,63,62,,,,,
+8188743,06/10/2002,4.9,NO,1.5,1.03,92,54,63,35,,,,,
+1,06/26/2002,,,,1.77,123,,65,39,,,,,
+1,07/25/2002,3.6,NO,1.1,5.69,121,59,65,48,,,,,
+1,08/07/2002,3.3,NO,1,,,60,,,,,,,
+1,08/20/2002,3,NO,0.9,42.7,104,62,64,63,,,,,
+1,09/03/2002,3.3,NO,1,11.9,135,60,66,54,,,,,
+1,09/16/2002,3.3,NO,1,,,60,,,,,,,
+8188953,05/28/2007,,,,,87,,63,,,,,,
+8188953,06/24/2007,2.25,NO,0.7,62.9,64,65,60,66,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8188953,07/19/2007,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188953,07/30/2007,1.75,NO,0.5,69.5,82,69,62,67,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188953,08/10/2007,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188953,09/24/2007,3,NO,0.9,61.1,68,61,61,66,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,06/14/2008,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188953,07/15/2008,2.5,NO,0.8,12.9,116,64,65,54,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188953,08/31/2008,2.75,NO,0.8,47.8,80,63,62,64,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,09/20/2008,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,06/15/2009,5.75,NO,1.7,3.82,77,52,62,45,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188953,08/09/2009,3.25,NO,1,52.5,124,60,65,65,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188953,09/07/2009,3,NO,0.9,49.3,71,61,61,64,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188953,05/23/2010,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188953,06/26/2010,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,RED,3-Enjoyment somewhat impaired (algae)
+8188953,07/03/2010,2,NO,0.6,,,67,,,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+8188953,07/16/2010,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,RED,3-Enjoyment somewhat impaired (algae)
+8188953,08/03/2010,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,RED,3-Enjoyment somewhat impaired (algae)
+8188953,08/22/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188953,06/06/2011,4.25,NO,1.3,2.09,51,56,59,40,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188953,06/30/2011,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,RED,2-Very minor aesthetic problems
+8188953,07/18/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,07/31/2011,2.75,NO,0.8,20.9,115,63,65,58,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,06/10/2012,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,06/18/2012,4.5,NO,1.4,23.7,68,55,61,59,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188953,06/29/2012,3,NO,0.9,,,61,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188953,08/07/2012,3.75,NO,1.1,30.5,63,58,60,61,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188953,08/15/2012,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+102403939,06/26/2013,2,NO,0.6,7.26,145,67,67,50,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+102403939,07/29/2013,3.5,NO,1.1,22,105,59,64,58,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+102403939,08/26/2013,5.75,NO,1.7,15.1,75.8,52,62,55,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+102403939,05/31/2014,3.25,NO,1,,109,60,64,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+102403939,06/24/2014,2.5,NO,0.8,32.6,155,64,67,61,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+102403939,07/21/2014,5.25,NO,1.6,3.31,80.8,53,62,44,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+102403939,08/23/2014,4.75,,1.4,33.7,93.6,55,63,61,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118829495,05/09/2015,4.5,NO,1.4,,113,55,65,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+102403939,06/27/2015,,,,4.36,107,,64,46,,,,,
+118829495,06/27/2015,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+102403939,07/25/2015,,,,104,130,,66,70,,,,,
+118829495,07/25/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+102403939,08/30/2015,5.5,NO,1.7,5.56,61.7,53,60,48,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+102403939,05/30/2016,,,,,103,,64,,,,,,
+102403939,06/13/2016,2.75,NO,0.8,,,63,,,,,,,
+102403939,06/28/2016,,,,14.1,92.4,,63,55,,,,,
+102403939,07/26/2016,2.25,NO,0.7,49.4,99.3,65,64,64,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+102403939,08/31/2016,2.25,NO,0.7,89.2,137,65,66,69,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+102403939,05/31/2017,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+102403939,06/29/2017,3.25,NO,1,2.32,89.9,60,63,41,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+102403939,07/11/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+102403939,07/30/2017,3.75,NO,1.1,91.2,109,58,64,69,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+118829495,08/20/2017,,,,78.7,121,,65,68,,,,,
+102403939,08/21/2017,1.25,NO,0.4,,,74,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/21/1989,,,-0.5,C,8.4,MG/L
+05/08/1989,,,7.4,C,10.0,MG/L
+05/09/1989,,,7.1,C,8.5,MG/L
+06/06/1989,,,17.9,C,6.3,MG/L
+07/13/1989,,,24.2,C,1.7,MG/L
+08/15/1989,,,23.1,C,6.0,MG/L
+11/01/1989,,,9.6,C,8.7,MG/L
+05/03/2001,,,16.44,C,10.56,MG/L
+05/16/2001,,,15.8,C,11.7,MG/L
+05/31/2001,,,15.0,C,11.8,MG/L
+06/13/2001,,,16.7,C,4.98,MG/L
+06/27/2001,,,21.9,C,15.3,MG/L
+07/24/2001,,,28.11,C,5.64,MG/L
+08/07/2001,,,24.01,C,0.52,MG/L
+08/22/2001,,,26.03,C,10.35,MG/L
+09/05/2001,,,22.96,C,10.88,MG/L
+09/18/2001,,,16.89,C,7.78,MG/L
+06/10/2002,,,21.25,C,7.93,MG/L
+06/26/2002,,,24.0,C,7.1,MG/L
+07/25/2002,,,25.3,C,5.67,MG/L
+08/07/2002,,,25.8,C,9.78,MG/L
+08/20/2002,,,23.06,C,10.58,MG/L
+09/03/2002,,,22.87,C,7.02,MG/L
+09/16/2002,,,21.1,C,8.94,MG/L
+05/28/2007,3,FEET,65,DEGREES F,,
+05/28/2007,6,FEET,64.7,DEGREES F,,
+05/28/2007,9,FEET,64.5,DEGREES F,,
+05/28/2007,12,FEET,64.4,DEGREES F,,
+05/28/2007,15,FEET,64.4,DEGREES F,,
+05/28/2007,18,FEET,64.2,DEGREES F,,
+05/28/2007,21,FEET,63.8,DEGREES F,,
+05/28/2007,24,FEET,62.9,DEGREES F,,
+05/28/2007,27,FEET,62.6,DEGREES F,,
+05/28/2007,30,FEET,62.6,DEGREES F,,
+06/24/2007,3,FEET,78.8,DEGREES F,,
+06/24/2007,6,FEET,78.2,DEGREES F,,
+06/24/2007,9,FEET,73.5,DEGREES F,,
+06/24/2007,12,FEET,72.6,DEGREES F,,
+06/24/2007,15,FEET,72.5,DEGREES F,,
+06/24/2007,18,FEET,72.3,DEGREES F,,
+06/24/2007,21,FEET,71.6,DEGREES F,,
+06/24/2007,24,FEET,70.7,DEGREES F,,
+06/24/2007,27,FEET,69.6,DEGREES F,,
+06/24/2007,30,FEET,69.2,DEGREES F,,
+07/30/2007,3,FEET,85.4,DEGREES F,,
+07/30/2007,6,FEET,85.4,DEGREES F,,
+07/30/2007,9,FEET,82.5,DEGREES F,,
+07/30/2007,12,FEET,78.9,DEGREES F,,
+07/30/2007,15,FEET,76.7,DEGREES F,,
+07/30/2007,18,FEET,75.5,DEGREES F,,
+07/30/2007,21,FEET,74.8,DEGREES F,,
+07/30/2007,24,FEET,74.4,DEGREES F,,
+07/30/2007,27,FEET,74,DEGREES F,,
+09/24/2007,3,FEET,66.9,DEGREES F,,
+09/24/2007,6,FEET,66.9,DEGREES F,,
+09/24/2007,9,FEET,66.9,DEGREES F,,
+09/24/2007,12,FEET,66.7,DEGREES F,,
+09/24/2007,15,FEET,66.5,DEGREES F,,
+09/24/2007,18,FEET,66,DEGREES F,,
+09/24/2007,21,FEET,65.8,DEGREES F,,
+09/24/2007,24,FEET,65.1,DEGREES F,,
+09/24/2007,27,FEET,64.4,DEGREES F,,
+09/24/2007,30,FEET,64,DEGREES F,,
+07/15/2008,0,FEET,81.5,DEGREES F,,
+07/15/2008,3,FEET,78,DEGREES F,,
+07/15/2008,6,FEET,75.9,DEGREES F,,
+07/15/2008,9,FEET,73.4,DEGREES F,,
+07/15/2008,12,FEET,72.8,DEGREES F,,
+07/15/2008,15,FEET,72.5,DEGREES F,,
+07/15/2008,18,FEET,71.9,DEGREES F,,
+07/15/2008,21,FEET,71.9,DEGREES F,,
+07/15/2008,24,FEET,71.9,DEGREES F,,
+08/31/2008,3,FEET,75.5,DEGREES F,,
+08/31/2008,6,FEET,75.5,DEGREES F,,
+08/31/2008,9,FEET,75.3,DEGREES F,,
+08/31/2008,12,FEET,72.8,DEGREES F,,
+08/31/2008,15,FEET,71.8,DEGREES F,,
+08/31/2008,18,FEET,71.4,DEGREES F,,
+08/31/2008,21,FEET,71,DEGREES F,,
+08/31/2008,24,FEET,70.5,DEGREES F,,
+08/31/2008,27,FEET,70.5,DEGREES F,,
+08/31/2008,30,FEET,70.5,DEGREES F,,
+06/15/2009,1,FEET,74.1,DEGREES F,,
+06/15/2009,3,FEET,74.1,DEGREES F,,
+06/15/2009,6,FEET,69.6,DEGREES F,,
+06/15/2009,9,FEET,65.4,DEGREES F,,
+06/15/2009,12,FEET,63.8,DEGREES F,,
+06/15/2009,15,FEET,62.6,DEGREES F,,
+06/15/2009,18,FEET,62,DEGREES F,,
+08/09/2009,3,FEET,75.3,DEGREES F,,
+08/09/2009,6,FEET,73.7,DEGREES F,,
+08/09/2009,9,FEET,72.8,DEGREES F,,
+08/09/2009,12,FEET,71.6,DEGREES F,,
+08/09/2009,15,FEET,70.8,DEGREES F,,
+08/09/2009,18,FEET,70.1,DEGREES F,,
+08/09/2009,21,FEET,69.8,DEGREES F,,
+08/09/2009,24,FEET,69.6,DEGREES F,,
+08/09/2009,27,FEET,69.2,DEGREES F,,
+08/09/2009,30,FEET,68.7,DEGREES F,,
+09/07/2009,3,FEET,74.6,DEGREES F,,
+09/07/2009,6,FEET,71.2,DEGREES F,,
+09/07/2009,9,FEET,70.5,DEGREES F,,
+09/07/2009,12,FEET,69.7,DEGREES F,,
+09/07/2009,15,FEET,69.2,DEGREES F,,
+09/07/2009,18,FEET,68.3,DEGREES F,,
+09/07/2009,21,FEET,67.8,DEGREES F,,
+09/07/2009,24,FEET,66.9,DEGREES F,,
+09/07/2009,27,FEET,66.7,DEGREES F,,
+09/07/2009,30,FEET,66.7,DEGREES F,,
+06/06/2011,3,FEET,73.4,DEGREES F,,
+06/06/2011,6,FEET,71,DEGREES F,,
+06/06/2011,9,FEET,69,DEGREES F,,
+06/06/2011,12,FEET,67.4,DEGREES F,,
+06/06/2011,15,FEET,65.4,DEGREES F,,
+06/06/2011,18,FEET,64.2,DEGREES F,,
+06/06/2011,21,FEET,64,DEGREES F,,
+06/06/2011,24,FEET,63.8,DEGREES F,,
+06/06/2011,27,FEET,63.6,DEGREES F,,
+06/06/2011,30,FEET,63.2,DEGREES F,,
+07/31/2011,3,FEET,80.9,DEGREES F,,
+07/31/2011,6,FEET,78.2,DEGREES F,,
+07/31/2011,9,FEET,76.8,DEGREES F,,
+07/31/2011,12,FEET,75.5,DEGREES F,,
+07/31/2011,15,FEET,74.4,DEGREES F,,
+07/31/2011,18,FEET,74.1,DEGREES F,,
+07/31/2011,21,FEET,74.6,DEGREES F,,
+07/31/2011,24,FEET,74.6,DEGREES F,,
+07/31/2011,27,FEET,74.6,DEGREES F,,
+06/18/2012,3,FEET,74.1,DEGREES F,,
+06/18/2012,6,FEET,72.6,DEGREES F,,
+06/18/2012,9,FEET,71.6,DEGREES F,,
+06/18/2012,12,FEET,71.2,DEGREES F,,
+06/18/2012,15,FEET,69.8,DEGREES F,,
+06/18/2012,18,FEET,69.4,DEGREES F,,
+06/18/2012,21,FEET,68.5,DEGREES F,,
+06/18/2012,24,FEET,68,DEGREES F,,
+06/18/2012,27,FEET,67.2,DEGREES F,,
+06/18/2012,30,FEET,66.7,DEGREES F,,
+08/07/2012,3,FEET,79.8,DEGREES F,,
+08/07/2012,6,FEET,79.1,DEGREES F,,
+08/07/2012,9,FEET,78.8,DEGREES F,,
+08/07/2012,12,FEET,77.7,DEGREES F,,
+08/07/2012,15,FEET,77.1,DEGREES F,,
+08/07/2012,18,FEET,76.9,DEGREES F,,
+08/07/2012,21,FEET,76.6,DEGREES F,,
+08/07/2012,24,FEET,75.9,DEGREES F,,
+08/07/2012,27,FEET,75.5,DEGREES F,,
+08/07/2012,30,FEET,75,DEGREES F,,
+06/26/2013,3,FEET,77.7,DEGREES F,,
+06/26/2013,6,FEET,77.3,DEGREES F,,
+06/26/2013,9,FEET,77.3,DEGREES F,,
+06/26/2013,12,FEET,76.4,DEGREES F,,
+06/26/2013,15,FEET,76.4,DEGREES F,,
+06/26/2013,18,FEET,76.4,DEGREES F,,
+06/26/2013,21,FEET,76.4,DEGREES F,,
+07/29/2013,0,FEET,75.2,DEGREES F,,
+07/29/2013,3,FEET,71.6,DEGREES F,,
+07/29/2013,6,FEET,71,DEGREES F,,
+07/29/2013,9,FEET,71,DEGREES F,,
+07/29/2013,12,FEET,70.7,DEGREES F,,
+07/29/2013,15,FEET,70.7,DEGREES F,,
+07/29/2013,18,FEET,70.7,DEGREES F,,
+07/29/2013,21,FEET,70.7,DEGREES F,,
+08/26/2013,0,FEET,77.5,DEGREES F,,
+08/26/2013,3,FEET,77.3,DEGREES F,,
+08/26/2013,6,FEET,77.1,DEGREES F,,
+08/26/2013,9,FEET,75.9,DEGREES F,,
+08/26/2013,12,FEET,75,DEGREES F,,
+08/26/2013,15,FEET,75.2,DEGREES F,,
+08/26/2013,18,FEET,75,DEGREES F,,
+08/26/2013,21,FEET,75,DEGREES F,,
+08/26/2013,24,FEET,74.6,DEGREES F,,
+08/26/2013,27,FEET,74.6,DEGREES F,,
+08/26/2013,30,FEET,74.6,DEGREES F,,
+05/31/2014,0,FEET,73,DEGREES F,,
+05/31/2014,3,FEET,71.6,DEGREES F,,
+05/31/2014,6,FEET,69.8,DEGREES F,,
+05/31/2014,9,FEET,68.1,DEGREES F,,
+05/31/2014,12,FEET,66.2,DEGREES F,,
+05/31/2014,15,FEET,66.2,DEGREES F,,
+05/31/2014,18,FEET,66.2,DEGREES F,,
+05/31/2014,21,FEET,66.2,DEGREES F,,
+05/31/2014,24,FEET,66.3,DEGREES F,,
+05/31/2014,27,FEET,66.3,DEGREES F,,
+05/31/2014,30,FEET,66.3,DEGREES F,,
+06/24/2014,0,FEET,79.5,DEGREES F,,
+06/24/2014,3,FEET,77.3,DEGREES F,,
+06/24/2014,6,FEET,75,DEGREES F,,
+06/24/2014,9,FEET,73.4,DEGREES F,,
+06/24/2014,12,FEET,72.3,DEGREES F,,
+06/24/2014,15,FEET,71.9,DEGREES F,,
+06/24/2014,18,FEET,71.9,DEGREES F,,
+06/24/2014,21,FEET,71.9,DEGREES F,,
+06/24/2014,24,FEET,71.9,DEGREES F,,
+06/24/2014,27,FEET,71.9,DEGREES F,,
+06/24/2014,30,FEET,71.9,DEGREES F,,
+07/21/2014,0,FEET,78.4,DEGREES F,,
+07/21/2014,3,FEET,75,DEGREES F,,
+07/21/2014,6,FEET,74.1,DEGREES F,,
+07/21/2014,9,FEET,73.3,DEGREES F,,
+07/21/2014,12,FEET,72.8,DEGREES F,,
+07/21/2014,15,FEET,71.9,DEGREES F,,
+07/21/2014,18,FEET,71.7,DEGREES F,,
+07/21/2014,21,FEET,71.7,DEGREES F,,
+07/21/2014,24,FEET,71.9,DEGREES F,,
+07/21/2014,27,FEET,71.9,DEGREES F,,
+07/21/2014,30,FEET,71.9,DEGREES F,,
+08/23/2014,0,FEET,76.4,DEGREES F,,
+08/23/2014,3,FEET,76.2,DEGREES F,,
+08/23/2014,6,FEET,76.1,DEGREES F,,
+08/23/2014,9,FEET,75,DEGREES F,,
+08/23/2014,12,FEET,73.2,DEGREES F,,
+08/23/2014,15,FEET,72.8,DEGREES F,,
+08/23/2014,18,FEET,72.8,DEGREES F,,
+08/23/2014,21,FEET,72.6,DEGREES F,,
+08/23/2014,24,FEET,72.6,DEGREES F,,
+08/23/2014,27,FEET,72.6,DEGREES F,,
+08/23/2014,30,FEET,72.6,DEGREES F,,
+05/09/2015,0,FEET,65.6,DEGREES F,,
+05/09/2015,3,FEET,65.1,DEGREES F,,
+05/09/2015,6,FEET,64.6,DEGREES F,,
+05/09/2015,9,FEET,64.3,DEGREES F,,
+05/09/2015,12,FEET,62.9,DEGREES F,,
+05/09/2015,15,FEET,61.8,DEGREES F,,
+05/09/2015,18,FEET,61.6,DEGREES F,,
+05/09/2015,21,FEET,61.5,DEGREES F,,
+05/09/2015,24,FEET,61.8,DEGREES F,,
+06/27/2015,0,FEET,79.1,DEGREES F,,
+06/27/2015,3,FEET,77,DEGREES F,,
+06/27/2015,6,FEET,74.4,DEGREES F,,
+06/27/2015,9,FEET,72.6,DEGREES F,,
+06/27/2015,12,FEET,71.6,DEGREES F,,
+06/27/2015,15,FEET,71.3,DEGREES F,,
+06/27/2015,18,FEET,71.2,DEGREES F,,
+06/27/2015,21,FEET,71.2,DEGREES F,,
+06/27/2015,24,FEET,71.2,DEGREES F,,
+07/25/2015,0,FEET,81.6,DEGREES F,,
+07/25/2015,3,FEET,78.2,DEGREES F,,
+07/25/2015,6,FEET,78,DEGREES F,,
+07/25/2015,9,FEET,76.8,DEGREES F,,
+07/25/2015,12,FEET,75.2,DEGREES F,,
+07/25/2015,15,FEET,75,DEGREES F,,
+07/25/2015,18,FEET,75,DEGREES F,,
+07/25/2015,21,FEET,75,DEGREES F,,
+07/25/2015,24,FEET,75,DEGREES F,,
+08/30/2015,0,FEET,69.8,DEGREES F,,
+08/30/2015,3,FEET,68.7,DEGREES F,,
+08/30/2015,6,FEET,68.3,DEGREES F,,
+08/30/2015,9,FEET,68,DEGREES F,,
+08/30/2015,12,FEET,67.8,DEGREES F,,
+08/30/2015,15,FEET,67.8,DEGREES F,,
+08/30/2015,18,FEET,67.8,DEGREES F,,
+08/30/2015,21,FEET,67.8,DEGREES F,,
+07/26/2016,0,FEET,79.5,DEGREES F,,
+07/26/2016,3,FEET,79.5,DEGREES F,,
+07/26/2016,6,FEET,79.5,DEGREES F,,
+07/26/2016,9,FEET,79.5,DEGREES F,,
+07/26/2016,12,FEET,78.8,DEGREES F,,
+07/26/2016,15,FEET,78.5,DEGREES F,,
+07/26/2016,18,FEET,78.5,DEGREES F,,
+07/26/2016,21,FEET,78.5,DEGREES F,,
+08/31/2016,0,FEET,77.9,DEGREES F,,
+08/31/2016,3,FEET,77.7,DEGREES F,,
+08/31/2016,6,FEET,74.8,DEGREES F,,
+08/31/2016,9,FEET,73.7,DEGREES F,,
+08/31/2016,12,FEET,72.6,DEGREES F,,
+08/31/2016,15,FEET,72.5,DEGREES F,,
+08/31/2016,18,FEET,72.5,DEGREES F,,
+08/31/2016,21,FEET,72.5,DEGREES F,,
+05/31/2017,0,FEET,63.8,DEGREES F,,
+05/31/2017,3,FEET,63.3,DEGREES F,,
+05/31/2017,6,FEET,63.1,DEGREES F,,
+05/31/2017,9,FEET,62,DEGREES F,,
+05/31/2017,12,FEET,59.9,DEGREES F,,
+05/31/2017,15,FEET,60,DEGREES F,,
+05/31/2017,18,FEET,59.7,DEGREES F,,
+05/31/2017,21,FEET,59.7,DEGREES F,,
+06/29/2017,0,FEET,68.9,DEGREES F,,
+06/29/2017,3,FEET,68.7,DEGREES F,,
+06/29/2017,6,FEET,68.3,DEGREES F,,
+06/29/2017,9,FEET,68,DEGREES F,,
+06/29/2017,12,FEET,66.5,DEGREES F,,
+06/29/2017,15,FEET,66.3,DEGREES F,,
+06/29/2017,18,FEET,66.2,DEGREES F,,
+06/29/2017,21,FEET,66.2,DEGREES F,,
+07/11/2017,0,FEET,84.5,DEGREES F,,
+07/11/2017,3,FEET,79.7,DEGREES F,,
+07/11/2017,6,FEET,75.5,DEGREES F,,
+07/11/2017,9,FEET,73.9,DEGREES F,,
+07/11/2017,12,FEET,73.5,DEGREES F,,
+07/11/2017,15,FEET,72.8,DEGREES F,,
+07/11/2017,18,FEET,72.6,DEGREES F,,
+07/11/2017,21,FEET,72.6,DEGREES F,,
+07/30/2017,0,FEET,84.5,DEGREES F,,
+07/30/2017,3,FEET,81.3,DEGREES F,,
+07/30/2017,6,FEET,78.8,DEGREES F,,
+07/30/2017,9,FEET,77,DEGREES F,,
+07/30/2017,12,FEET,75.5,DEGREES F,,
+07/30/2017,15,FEET,75.2,DEGREES F,,
+07/30/2017,18,FEET,75,DEGREES F,,
+07/30/2017,21,FEET,75,DEGREES F,,
+08/21/2017,0,FEET,72.6,DEGREES F,,
+08/21/2017,3,FEET,72.3,DEGREES F,,
+08/21/2017,6,FEET,72.3,DEGREES F,,
+08/21/2017,9,FEET,71.9,DEGREES F,,
+08/21/2017,12,FEET,70.5,DEGREES F,,
+08/21/2017,15,FEET,69.9,DEGREES F,,
+08/21/2017,18,FEET,70.1,DEGREES F,,
+08/21/2017,21,FEET,70.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/03/2001,DEEPEST PART OF BAY- SURFACE SAMPLE    
+05/16/2001,DEEPEST PART OF BAY- BOTTOM SAMPLE 6M    
+05/16/2001,DEEPEST PART OF BAY- SURFACE SAMPLE    
+05/31/2001,DEEPEST PART OF BAY- BOTTOM SAMPLE    
+05/31/2001,DEEPEST PART OF BAY- SURFACE SAMPLE    
+06/13/2001,DEEPEST PART OF BAY- SURFACE SAMPLE    
+06/27/2001,SURFACE SAMPLE    
+07/11/2001,SURFACE    
+07/24/2001,SURFACE SAMPLE    
+08/07/2001,SURFACE SAMPLE    
+08/22/2001,SURFACE SAMPLE    
+09/05/2001,BOTTOM SAMPLE    
+09/18/2001,BOTTOM SAMPLE    
+06/26/2002,SURFACE
+07/25/2002,SURFACE SAMPLE
+08/07/2002,BOTTOM
+08/20/2002,SURFACE SAMPLE
+09/03/2002,DEEPEST PART OF BAY - SURFACE
+09/16/2002,BOTTOM SAMPLE
+06/18/2012,Heavy rainfall within the last 24 hours
+08/07/2012,Helper - Scott Jaenecke
+05/31/2014,Partly sunny- south breeze- air temp 78.8F
+06/24/2014,Mostly cloudy- NW breeze
+07/21/2014,Hot- humid- slight south breeze- partly cloudy- air temp 89F
+08/23/2014,Overcast- humid- light wind- 82F
+05/09/2015,Mostly sunny- 62 degrees F Mostly sunny 62 F
+06/27/2015,Sunny- 84 degrees F 
+07/25/2015,Sunny- calm- 82 F
+08/30/2015,partly sunny- light breeze- 76 degrees
+07/26/2016,80 degrees calm sunny- rise in algae
+08/31/2016,77 degrees light breeze- mostly sunny
+05/31/2017,72 F- moderate breeze- sunny
+05/31/2017,Ice out 3/31/2017. 72 deg F- moderate breeze- sunny
+06/29/2017,70 F- mostly cloudy- slight breeze
+07/11/2017,83.6 F- slight breeze- hazy sun
+07/30/2017,86 F- mostly sunny- light breeze
+08/21/2017,71 F- Calm- hazy sun- lots of algae
+
+
+
+
+Start Date,Group Name,Project Name
+02/21/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/08/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/09/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/06/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/13/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/15/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+11/01/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/03/2001,KENNETH SCHREIBER,TMDL 2001
+05/16/2001,KENNETH SCHREIBER,TMDL 2001
+05/31/2001,KENNETH SCHREIBER,TMDL 2001
+06/13/2001,KENNETH SCHREIBER,TMDL 2001
+06/27/2001,KENNETH SCHREIBER,TMDL 2001
+07/11/2001,KENNETH SCHREIBER,TMDL 2001
+07/24/2001,KENNETH SCHREIBER,TMDL 2001
+08/07/2001,KENNETH SCHREIBER,TMDL 2001
+08/22/2001,KENNETH SCHREIBER,TMDL 2001
+09/05/2001,KENNETH SCHREIBER,TMDL 2001
+09/18/2001,KENNETH SCHREIBER,TMDL 2001
+06/10/2002,Ken Schreiber,TMDL 2002
+06/26/2002,Data Collectors,TMDL 2002
+07/25/2002,Data Collectors,TMDL 2002-03
+08/07/2002,Data Collectors,TMDL 2002-03
+08/20/2002,Data Collectors,TMDL 2002-03
+09/03/2002,Data Collectors,TMDL 2002-03
+09/16/2002,Data Collectors,TMDL 2002-03
+05/28/2007,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/24/2007,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/19/2007,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/30/2007,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/10/2007,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+09/24/2007,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/14/2008,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/15/2008,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/31/2008,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+09/20/2008,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/15/2009,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/09/2009,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+09/07/2009,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+05/23/2010,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/26/2010,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/03/2010,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/16/2010,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/03/2010,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/22/2010,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/06/2011,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/30/2011,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/18/2011,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/31/2011,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/10/2012,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/18/2012,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/29/2012,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/07/2012,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/15/2012,Kitt Siegfried,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/26/2013,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/29/2013,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/26/2013,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+05/31/2014,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/24/2014,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/21/2014,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/23/2014,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+05/09/2015,Barb MacNaughton-Bernhardt- Whitney Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/27/2015,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/27/2015,Barb MacNaughton-Bernhardt- Whitney Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/25/2015,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/25/2015,Barb MacNaughton-Bernhardt- Whitney Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/30/2015,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+05/30/2016,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/13/2016,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/28/2016,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/26/2016,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/31/2016,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+05/31/2017,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+06/29/2017,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/11/2017,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+07/30/2017,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/20/2017,Barb MacNaughton-Bernhardt- Whitney Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay
+08/21/2017,Barb MacNaughton-Bernhardt,Citizen Lake Monitoring - Water Quality - Lake Wissota - 100' Bernhart's-Yellow Riv Bay

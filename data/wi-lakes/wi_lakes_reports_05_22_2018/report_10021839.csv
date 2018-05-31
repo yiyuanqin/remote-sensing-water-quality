@@ -1,0 +1,424 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Camelot Lake,Adams,1378100,WC,1,,10021839,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,10/29/1985,4.5,,1.4,,,55,,,,,,,
+1,05/08/1986,7.5,,2.3,,,48,,,,,,,
+1,06/13/1986,7,,2.1,,,49,,,,,,,
+1,07/11/1986,7,,2.1,,,49,,,,,,,
+1,08/12/1986,4,,1.2,,,57,,,,,,,
+1,09/10/1986,7.5,,2.3,,,48,,,,,,,
+1,05/28/1987,10,,3,,,44,,,,,,,
+1,06/30/1987,6,,1.8,,,51,,,,,,,
+1,07/28/1987,8.5,,2.6,,,46,,,,,,,
+1,08/24/1987,5.5,,1.7,,,53,,,,,,,
+1,09/22/1987,5.5,,1.7,,,53,,,,,,,
+1,10/27/1987,8,,2.4,,,47,,,,,,,
+1,06/07/1988,10,,3,,,44,,,,,,,
+1,07/05/1988,6,,1.8,,,51,,,,,,,
+1,10/04/1988,2,,0.6,,,67,,,,,,,
+1,06/27/1989,6,,1.8,,,51,,,,,,,
+1,07/31/1989,6,,1.8,,,51,,,,,,,
+1,08/28/1989,5.5,,1.7,,,53,,,,,,,
+1,10/10/1989,6,,1.8,,,51,,,,,,,
+1,07/10/1990,7,,2.1,,,49,,,,,,,
+1,08/06/1990,5.5,,1.7,,,53,,,,,,,
+1,05/21/1991,7,,2.1,,,49,,,,,,,
+1,06/25/1991,8,,2.4,,,47,,,,,,,
+1,08/19/1991,5,,1.5,,,54,,,,,,,
+1,06/22/1992,4,,1.2,,,57,,,,,,,
+1,07/27/1992,4.5,,1.4,,,55,,,,,,,
+1,08/31/1992,3,,0.9,,,61,,,,,,,
+18137361,05/25/2007,8.7,NO,2.6,,,46,,,LOW,,MURKY,BROWN,
+18137361,07/17/2007,3.3,NO,1,,,60,,,LOW,,MURKY,GREEN,
+18137361,09/11/2007,3.2,NO,1,,,60,,,LOW,,MURKY,BROWN,
+18137361,10/17/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,
+18137361,06/19/2008,4.9,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,
+18137361,07/22/2008,7.8,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,
+18137361,08/20/2008,5.8,NO,1.8,,,52,,,NORMAL,,MURKY,BROWN,
+18137361,05/28/2009,4.8,NO,1.5,,24,55,53,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/01/2009,,,,12.6,22,,52,54,,,,,
+29525896,07/27/2009,,,,8.74,,,,51,,,,,
+18137361,09/09/2009,4.5,YES,1.4,25.3,33,55,55,59,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137361,06/02/2010,6.8,NO,2.1,,,50,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+34991315,06/02/2010,,,,16.9,21,,52,56,,,,,
+18137361,06/30/2010,4.7,YES,1.4,,,55,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+34991315,06/30/2010,,,,8.64,23,,52,51,,,,,
+1,07/27/2010,,,,28.3,46,,58,60,,,,,
+29401203,07/27/2010,3.8,NO,1.2,,,58,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29401203,08/20/2010,4.2,NO,1.3,,,56,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+35007228,08/20/2010,,,,11.8,44,,57,53,,,,,
+18137361,09/17/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34991326,09/17/2010,,,,18.7,43,,57,57,,,,,
+18137361,05/04/2011,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+29401203,05/26/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236087,05/26/2011,,,,,20,,51,,,,,,
+29401203,06/29/2011,9,YES,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236087,06/29/2011,,,,4.44,19,,51,46,,,,,
+29401203,07/25/2011,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+48236087,07/25/2011,,,,7.32,23,,52,50,,,,,
+29401203,08/24/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236087,08/24/2011,,,,9.67,23,,52,52,,,,,
+29401203,09/20/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236087,09/20/2011,,,,,38,,56,,,,,,
+18137361,04/03/2012,5.6,NO,1.7,,14,52,49,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+29401203,06/26/2012,9.25,YES,2.8,2.83,18,45,51,43,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29401203,07/18/2012,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+50481978,07/18/2012,,,,23.5,28,,54,59,,,,,
+29401203,08/28/2012,5.25,NO,1.6,,,53,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+62237788,08/28/2012,,,,9.54,47,,58,52,,,,,
+29401203,09/17/2012,5.5,YES,1.7,,,53,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+50481978,09/17/2012,,,,7.67,34,,55,50,,,,,
+18137361,05/01/2013,5,NO,1.5,,32,54,55,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29401203,06/25/2013,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,06/25/2013,,,,3.13,23.3,,53,43,,,,,
+29401203,07/29/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,07/29/2013,,,,8.46,13.5,,48,51,,,,,
+29401203,08/27/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,08/27/2013,,,,11.3,27.1,,54,53,,,,,
+29401203,09/24/2013,6,NO,1.8,,,51,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+34991315,09/24/2013,,,,16.9,51.3,,59,56,,,,,
+29401203,10/14/2013,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,10/14/2013,,,,8.72,40.4,,57,51,,,,,
+29401203,06/10/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,06/10/2014,,,,4.84,16.7,,50,47,,,,,
+29401203,07/14/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,07/14/2014,,,,1.79,20.1,,51,39,,,,,
+29401203,08/25/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,08/25/2014,,,,9.82,22.2,,52,52,,,,,
+29401203,09/22/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,09/22/2014,,,,13.6,31.6,,55,55,,,,,
+29401203,10/20/2014,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,10/20/2014,,,,2.9,22,,52,43,,,,,
+18137361,04/16/2015,9,NO,2.7,,,45,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+1,06/29/2015,,,,2.01,18.2,,51,40,,,,,
+29401203,06/29/2015,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,07/27/2015,,,,9.74,23.8,,53,52,,,,,
+29401203,07/27/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,08/17/2015,,,,20.2,36.5,,56,58,,,,,
+29401203,08/17/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+29401203,09/15/2015,6.75,NO,2.1,11.5,28,50,54,53,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,10/19/2015,,,,2.9,23.4,,53,43,,,,,
+29401203,10/19/2015,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,03/29/2016,,,,,31,,55,,,,,,
+18137361,03/29/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,06/20/2016,,,,2.15,19.7,,51,41,,,,,
+29401203,06/20/2016,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/25/2016,,,,,52.7,,59,,,,,,
+29401203,07/25/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/15/2016,,,,67.7,91,,63,67,,,,,
+29401203,08/15/2016,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/29/2017,,,,4.42,25.8,,53,46,,,,,
+18137361,06/29/2017,7.6,,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,07/26/2017,,,,26.1,31,,55,59,,,,,
+18137361,07/26/2017,5.5,,1.7,,,53,,,NORMAL,,MURKY,YELLOW,
+1,08/30/2017,,,,25.2,39.6,,57,59,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/22/2008,0,FEET,75.5,DEGREES F,8.88,MG/L
+07/22/2008,5,FEET,75.2,DEGREES F,8.66,MG/L
+07/22/2008,10,FEET,73.4,DEGREES F,7.37,MG/L
+08/20/2008,0,FEET,73.7,DEGREES F,11.08,MG/L
+08/20/2008,5,FEET,73.4,DEGREES F,10.57,MG/L
+08/20/2008,10,FEET,73.2,DEGREES F,10.22,MG/L
+09/09/2009,0,FEET,70.7,DEGREES F,,
+09/09/2009,5,FEET,69.4,DEGREES F,,
+06/02/2010,0,FEET,74.1,DEGREES F,,
+06/02/2010,5,FEET,74.1,DEGREES F,,
+06/02/2010,10,FEET,67.4,DEGREES F,,
+06/30/2010,0,FEET,77.7,DEGREES F,,
+06/30/2010,5,FEET,74.8,DEGREES F,,
+07/27/2010,0,FEET,78.6,DEGREES F,,
+07/27/2010,5,FEET,77,DEGREES F,,
+07/27/2010,10,FEET,71.6,DEGREES F,,
+08/20/2010,0,FEET,71.7,DEGREES F,,
+08/20/2010,5,FEET,70.8,DEGREES F,,
+08/20/2010,10,FEET,67.8,DEGREES F,,
+09/17/2010,0,FEET,62.6,DEGREES F,,
+09/17/2010,5,FEET,62.4,DEGREES F,,
+05/04/2011,0,FEET,50.3,DEGREES F,,
+05/04/2011,5,FEET,46.4,DEGREES F,,
+05/04/2011,10,FEET,46,DEGREES F,,
+05/04/2011,14,FEET,46.4,DEGREES F,,
+05/26/2011,0,FEET,59.1,DEGREES F,,
+05/26/2011,5,FEET,59,DEGREES F,,
+06/29/2011,0,FEET,71.1,DEGREES F,,
+06/29/2011,5,FEET,69.8,DEGREES F,,
+07/25/2011,0,FEET,81.6,DEGREES F,,
+07/25/2011,5,FEET,80.7,DEGREES F,,
+07/25/2011,10,FEET,79.1,DEGREES F,,
+08/24/2011,0,FEET,76.8,DEGREES F,,
+08/24/2011,5,FEET,76.2,DEGREES F,,
+09/20/2011,0,FEET,62.4,DEGREES F,,
+09/20/2011,5,FEET,62.4,DEGREES F,,
+04/03/2012,0,FEET,49.8,DEGREES F,,
+04/03/2012,5,FEET,49.8,DEGREES F,,
+06/26/2012,0,FEET,76.8,DEGREES F,,
+06/26/2012,5,FEET,75,DEGREES F,,
+06/26/2012,9,FEET,73.9,DEGREES F,,
+07/18/2012,0,FEET,80.2,DEGREES F,,
+07/18/2012,5,FEET,80.4,DEGREES F,,
+07/18/2012,9,FEET,78.6,DEGREES F,,
+08/28/2012,0,FEET,75.5,DEGREES F,,
+08/28/2012,5,FEET,73.9,DEGREES F,,
+08/28/2012,9,FEET,72.3,DEGREES F,,
+09/17/2012,0,FEET,66.9,DEGREES F,,
+09/17/2012,5,FEET,66.9,DEGREES F,,
+05/01/2013,0,FEET,59.9,DEGREES F,,
+05/01/2013,5,FEET,60,DEGREES F,,
+06/25/2013,0,FEET,74.1,DEGREES F,,
+06/25/2013,5,FEET,73.4,DEGREES F,,
+07/29/2013,0,FEET,67.4,DEGREES F,,
+07/29/2013,5,FEET,67.7,DEGREES F,,
+08/27/2013,0,FEET,81.3,DEGREES F,,
+08/27/2013,5,FEET,80,DEGREES F,,
+09/24/2013,0,FEET,62.9,DEGREES F,,
+09/24/2013,5,FEET,62.6,DEGREES F,,
+10/14/2013,0,FEET,58.6,DEGREES F,,
+10/14/2013,5,FEET,58.1,DEGREES F,,
+06/10/2014,0,FEET,70.8,DEGREES F,,
+06/10/2014,5,FEET,70.7,DEGREES F,,
+06/10/2014,10,FEET,67.2,DEGREES F,,
+07/14/2014,0,FEET,72.3,DEGREES F,,
+07/14/2014,5,FEET,71.9,DEGREES F,,
+07/14/2014,10,FEET,66.5,DEGREES F,,
+08/25/2014,0,FEET,73.2,DEGREES F,,
+08/25/2014,5,FEET,72.8,DEGREES F,,
+08/25/2014,9,FEET,71.6,DEGREES F,,
+09/22/2014,0,FEET,62.9,DEGREES F,,
+09/22/2014,5,FEET,62.6,DEGREES F,,
+09/22/2014,9,FEET,61.1,DEGREES F,,
+10/20/2014,0,FEET,52,DEGREES F,,
+10/20/2014,5,FEET,52,DEGREES F,,
+10/20/2014,9,FEET,51.9,DEGREES F,,
+04/16/2015,0,FEET,51.2,DEGREES F,,
+04/16/2015,5,FEET,50.3,DEGREES F,,
+04/16/2015,10,FEET,50.3,DEGREES F,,
+06/29/2015,0,FEET,74.1,DEGREES F,,
+06/29/2015,5,FEET,73.2,DEGREES F,,
+07/27/2015,0,FEET,78.1,DEGREES F,,
+07/27/2015,5,FEET,76.8,DEGREES F,,
+07/27/2015,10,FEET,76.2,DEGREES F,,
+08/17/2015,0,FEET,78.9,DEGREES F,,
+08/17/2015,5,FEET,78.8,DEGREES F,,
+09/15/2015,0,FEET,69.8,DEGREES F,,
+09/15/2015,5,FEET,68.3,DEGREES F,,
+10/19/2015,0,FEET,50.9,DEGREES F,,
+10/19/2015,5,FEET,50.9,DEGREES F,,
+10/19/2015,10,FEET,50.7,DEGREES F,,
+03/29/2016,0,FEET,46.2,DEGREES F,,
+03/29/2016,5,FEET,45.3,DEGREES F,,
+03/29/2016,10,FEET,43.1,DEGREES F,,
+06/20/2016,0,FEET,77.2,DEGREES F,,
+06/20/2016,5,FEET,77,DEGREES F,,
+07/25/2016,0,FEET,78.6,DEGREES F,,
+07/25/2016,5,FEET,78,DEGREES F,,
+08/15/2016,0,FEET,79.1,DEGREES F,,
+08/15/2016,5,FEET,78,DEGREES F,,
+06/29/2017,0,FEET,66.2,DEGREES F,,
+06/29/2017,5,FEET,66.2,DEGREES F,,
+06/29/2017,10,FEET,65.4,DEGREES F,,
+06/29/2017,15,FEET,60,DEGREES F,,
+06/29/2017,19,FEET,59.7,DEGREES F,,
+07/26/2017,0,FEET,77,DEGREES F,,
+07/26/2017,5,FEET,75.9,DEGREES F,,
+07/26/2017,10,FEET,75.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/20/2008,assisted by Verity Turner + Terry James
+05/28/2009,also along:  Dwight Gilbert- Jesse Weinzinger- Dreu Opperman
+
+sunny- slight wind- higher 70s
+09/09/2009,beautiful day--assisted by Dwight Goodwin
+06/02/2010,also present:  volunteers Dennis Poehler + Lucas Black--aquatic plants noted--snails present--sunny- partly overcast- slight wind
+06/30/2010,volunteers:  Dennis Poehler + Lucas Black--sunny- few clouds- slight wind--nice day on the water--aquatic plant growth clearly visible
+07/27/2010,Mostly Cloudy- 82 degrees F
+Collectors Luke Black and Dennis Poehler
+08/20/2010,Slight overcast    78 degrees F.
+09/17/2010,cloudy and cold- with air temp only 57.7 F--volunteer along:  Dwight Gilbert
+05/04/2011,Tri-Lakes employee Jon Haag along--beautiful sunny day with occasional breeze--almost no other boat traffic
+05/26/2011,Mostly Sunny- Temperature 62.0 F.
+06/29/2011,Sunny- Air Temperature 72 F.
+07/25/2011,Sunny- Air Temperature 82.5
+08/24/2011,Sunny- Air Temperature 76.2 F.
+09/20/2011,Overcast- Air Temperature 50 F.
+04/03/2012,windy- chilly- cloudy--no live plants in rake
+06/26/2012,Collectors:  D. Poehler- S. Francart- D. Gilbert
+Air Temp"  75 F.   Conditions:  Clear Collectors:  D. Poehler- S. Francart- D. Gilbert
+Air Temp 75 F.   Conditions:  Clear
+
+07/18/2012,Collectors:  D- Poehler- S. Francart- T. Skerven- D. Gilberet
+ir Temp:  72 F.   Conditions:  Overcast
+08/28/2012,Collectors:  D. Poehler- S. Francart- T. Skerven
+Air Temperature:  85 F.-   Conditions:  Mostly Sunny
+09/17/2012,Collectors:  D. Poehler- D. Gilbert
+Air Temperature:  66 F.   Conditions:  Cloudy
+05/01/2013,sunny with some wind--air temp about 62 F
+06/25/2013,Air Temperature: 75 F.- Mostly Cloudy
+D. Gilbert- D. Poehler- B. Brewer- Nick W.
+07/29/2013,Air Temperature: 64 F.- Sunny
+D. Poehler- B. Brewer- R. Evans
+08/27/2013,Air Temperature: 88 F.- Sunny- Breezy
+D. Poehler- N. Walkosz- B. Brewer
+09/24/2013,Air Temperature- 56 F.- Sunny- Slight Breeze
+D. Gilbert- D. Poehler
+10/14/2013,Air Temperature: 55 F.- Mostly Cloudy- Slight Breeze
+D. Poehler 
+06/10/2014,Collectors: D. Poehler- D. Jadeck- C. Rogers
+Air Temp: 70 F.- Mostly Sunny- Breezy
+07/14/2014,Collectors: D. Poehler- C. Rogers
+Air Temp: 73 F.- Cloudy- Slight Breeze
+08/25/2014,Collectors:  D. Poehler- D. Jadack- C. Rogers- D. Gilbert
+Air Temp:  70 F.  Mostly Cloudy- Slight Breeze
+09/22/2014,Collectors:  D. Poehler- C. Rogers
+Air Temp:  63 F.  Partly Cloudy- Slight Breeze
+10/20/2014,Collectors:  D. Poehler- C. Rogers
+Air Temp:  57 F.  Cloudy- Slight Breeze
+04/16/2015,sunny + bright--lake is quite low
+06/29/2015,Collectors: D. Gilbert- D. Poehler- K. Berge- H. Hoffman
+Air temp: 70 F.- Partly Cloudy- Calm
+07/27/2015,Collectors: D. Gilbert- D. poehler- K. Berge- A. Hoffman
+Air Temp: 80 F.- Mostly Sunny- Slight Breeze
+08/17/2015,Collectors: D. Gilbert- D. Poehler- K. Berge- A. Hoffman
+Air temp: 76 F.- Overcast- Slight Breeze
+09/15/2015,Collectors:  D. Poehler
+Air Temperature:  73 F.- Sunny- Breezy
+10/19/2015,Collectors:  D. Poehler
+Air Temperature:  63 F.- Mostly Sunny- Windy
+03/29/2016,sunny- mod windy- warming up- but supposed to snow tomorrow--assisted by Dennis Poehler
+06/20/2016,Collectors:  D. Poehler- B. Kleist- J. Mortel
+Air Temp:  80F.- Sunny- Breezy
+07/25/2016,Collectors:  D. Poehler- J. Mortel- B. Kleist
+Air temp:  80F.- Sunny Breezy
+08/15/2016,Collectors:  D. Poehler
+Air Temp:  77 F.- Mostly Sunny- Calm
+06/29/2017,a bit overcast + windy- but still a nice day
+07/26/2017,with interns Christine- Hunter + Matt--sunny with light wind
+
+
+
+
+Start Date,Group Name,Project Name
+10/29/1985,Data Collectors,
+05/08/1986,Data Collectors,
+06/13/1986,Data Collectors,
+07/11/1986,Data Collectors,
+08/12/1986,Data Collectors,
+09/10/1986,Data Collectors,
+05/28/1987,Data Collectors,
+06/30/1987,Data Collectors,
+07/28/1987,Data Collectors,
+08/24/1987,Data Collectors,
+09/22/1987,Data Collectors,
+10/27/1987,Data Collectors,
+06/07/1988,Data Collectors,
+07/05/1988,Data Collectors,
+10/04/1988,Data Collectors,
+06/27/1989,Data Collectors,
+07/31/1989,Data Collectors,
+08/28/1989,Data Collectors,
+10/10/1989,Data Collectors,
+07/10/1990,Data Collectors,
+08/06/1990,Data Collectors,
+05/21/1991,Data Collectors,
+06/25/1991,Data Collectors,
+08/19/1991,Data Collectors,
+06/22/1992,Data Collectors,
+07/27/1992,Data Collectors,
+08/31/1992,Data Collectors,
+05/25/2007,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/17/2007,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/11/2007,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+10/17/2007,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/19/2008,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/22/2008,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/20/2008,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+05/28/2009,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/01/2009,Data Collectors,
+07/27/2009,Dreu Opperman,Water Quality  - Tri-Lakes (Tri-Lakes grant)
+09/09/2009,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/09/2009,Reesa Evans,Water Quality  - Tri-Lakes (Tri-Lakes grant)
+06/02/2010,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+06/02/2010,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/30/2010,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+06/30/2010,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/27/2010,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/27/2010,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+08/20/2010,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/20/2010,Lucas Black- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+09/17/2010,Dwight Gilbert,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/17/2010,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+05/04/2011,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+05/26/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+05/26/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+06/29/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/29/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/25/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/25/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/24/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/24/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+09/20/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/20/2011,Dennis Poehler- Dwight Gilbert,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+04/03/2012,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+04/03/2012,Reesa Evans,
+06/26/2012,Barb Herreid,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/18/2012,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/18/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/28/2012,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/28/2012,Sarah Francart,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+09/17/2012,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/17/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+05/01/2013,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+05/01/2013,Reesa Evans,
+06/25/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/25/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+07/29/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/29/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+08/27/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/27/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/24/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/24/2013,Dennis Poehler,Aquatic Invasive Species (AIS) Grants
+10/14/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+10/14/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+06/10/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/10/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+07/14/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/14/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+08/25/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/25/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/22/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+09/22/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/20/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+10/20/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+04/16/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/29/2015,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/29/2015,Data Collectors,Tri-Lakes - Extra Sampling 
+07/27/2015,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/27/2015,Data Collectors,Tri-Lakes - Extra Sampling 
+08/17/2015,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/17/2015,Data Collectors,Tri-Lakes - Extra Sampling 
+09/15/2015,Barb Herreid,Tri-Lakes - Extra Sampling 
+10/19/2015,Barb Herreid,Tri-Lakes - Extra Sampling 
+10/19/2015,Data Collectors,Tri-Lakes - Extra Sampling 
+03/29/2016,Data Collectors,Bacteria + Plankton (Paid Private)
+03/29/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/20/2016,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+06/20/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+07/25/2016,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/25/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+08/15/2016,Barb Herreid,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/15/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+06/29/2017,Data Collectors,Tri-Lakes - Extra Sampling 
+06/29/2017,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+07/26/2017,Data Collectors,Water Quality  - Tri-Lakes (Tri-Lakes grant)
+07/26/2017,Reesa Evans,Citizen Lake Monitoring - Water Quality - Lower Camelot Lake #14
+08/30/2017,Data Collectors,Tri-Lakes - Extra Sampling 

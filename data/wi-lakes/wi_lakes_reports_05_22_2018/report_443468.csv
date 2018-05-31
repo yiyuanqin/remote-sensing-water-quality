@@ -1,0 +1,231 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tomahawk Lake,Oneida,1542700,NO,44,,443468,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/11/2013,,,,,,,,,,,,,
+1,06/18/2013,,,,,,,,,,,,,
+1,06/24/2013,,,,,,,,,,,,,
+1,07/02/2013,,,,,,,,,,,,,
+1,07/08/2013,,,,,,,,,,,,,
+1,07/16/2013,,,,,,,,,,,,,
+1,07/22/2013,,,,,,,,,,,,,
+1,07/29/2013,,,,,,,,,,,,,
+1,08/13/2013,,,,,,,,,,,,,
+1,08/20/2013,,,,,,,,,,,,,
+1,08/26/2013,,,,,,,,,,,,,
+1,05/27/2014,,,,,,,,,,,,,
+1,06/02/2014,,,,,,,,,,,,,
+1,06/09/2014,,,,,,,,,,,,,
+1,06/16/2014,,,,,,,,,,,,,
+1,06/23/2014,,,,,,,,,,,,,
+1,06/30/2014,,,,,,,,,,,,,
+1,07/07/2014,,,,,,,,,,,,,
+1,07/14/2014,,,,,,,,,,,,,
+1,07/21/2014,,,,,,,,,,,,,
+1,07/28/2014,,,,,,,,,,,,,
+1,08/04/2014,,,,,,,,,,,,,
+1,08/11/2014,,,,,,,,,,,,,
+1,08/18/2014,,,,,,,,,,,,,
+1,08/25/2014,,,,,,,,,,,,,
+1,05/26/2015,,,,,,,,,,,,,
+1,06/01/2015,,,,,,,,,,,,,
+1,06/08/2015,,,,,,,,,,,,,
+1,06/15/2015,,,,,,,,,,,,,
+1,06/23/2015,,,,,,,,,,,,,
+1,06/29/2015,,,,,,,,,,,,,
+1,07/06/2015,,,,,,,,,,,,,
+1,07/13/2015,,,,,,,,,,,,,
+1,07/20/2015,,,,,,,,,,,,,
+1,07/27/2015,,,,,,,,,,,,,
+1,08/03/2015,,,,,,,,,,,,,
+1,08/10/2015,,,,,,,,,,,,,
+1,08/17/2015,,,,,,,,,,,,,
+1,08/26/2015,,,,,,,,,,,,,
+1,06/23/2016,,,,,,,,,,,,,
+1,06/30/2016,,,,,,,,,,,,,
+1,07/07/2016,,,,,,,,,,,,,
+1,07/14/2016,,,,,,,,,,,,,
+1,07/21/2016,,,,,,,,,,,,,
+1,07/28/2016,,,,,,,,,,,,,
+1,08/04/2016,,,,,,,,,,,,,
+1,08/11/2016,,,,,,,,,,,,,
+1,08/18/2016,,,,,,,,,,,,,
+1,08/25/2016,,,,,,,,,,,,,
+1,08/29/2016,,,,,,,,,,,,,
+1,06/07/2017,,,,,,,,,,,,,
+1,06/14/2017,,,,,,,,,,,,,
+1,06/21/2017,,,,,,,,,,,,,
+1,06/29/2017,,,,,,,,,,,,,
+1,07/05/2017,,,,,,,,,,,,,
+1,07/11/2017,,,,,,,,,,,,,
+1,07/19/2017,,,,,,,,,,,,,
+1,07/25/2017,,,,,,,,,,,,,
+1,08/01/2017,,,,,,,,,,,,,
+1,08/08/2017,,,,,,,,,,,,,
+1,08/16/2017,,,,,,,,,,,,,
+1,08/22/2017,,,,,,,,,,,,,
+1,08/23/2017,,,,,,,,,,,,,
+1,08/27/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/11/2013,,,18.2,C,,
+06/18/2013,,,19.7,C,,
+06/24/2013,,,22.6,C,,
+07/02/2013,,,23.9,C,,
+07/08/2013,,,26.9,C,,
+07/16/2013,,,26.2,C,,
+07/22/2013,,,24.4,C,,
+07/29/2013,,,18.7,C,,
+08/13/2013,,,20.3,C,,
+08/20/2013,,,23.7,C,,
+08/26/2013,,,23.9,C,,
+05/27/2014,,,15.2,C,,
+06/02/2014,,,19.4,C,,
+06/09/2014,,,17.4,C,,
+06/16/2014,,,15.7,C,,
+06/23/2014,,,19.2,C,,
+06/30/2014,,,20.4,C,,
+07/07/2014,,,21.2,C,,
+07/14/2014,,,24.5,C,,
+07/21/2014,,,21.2,C,,
+07/28/2014,,,31.2,C,,
+08/04/2014,,,22.1,C,,
+08/11/2014,,,25.3,C,,
+08/18/2014,,,20.8,C,,
+08/25/2014,,,21.3,C,,
+05/26/2015,,,16.5,C,,
+06/01/2015,,,13.6,C,,
+06/08/2015,,,16.1,C,,
+06/15/2015,,,17.5,C,,
+06/23/2015,,,15.8,C,,
+06/29/2015,,,20.6,C,,
+07/06/2015,,,16.9,C,,
+07/13/2015,,,19.8,C,,
+07/20/2015,,,19.7,C,,
+07/27/2015,,,21.4,C,,
+08/03/2015,,,18.9,C,,
+08/10/2015,,,18.4,C,,
+08/17/2015,,,23.4,C,,
+08/26/2015,,,23.4,C,,
+06/23/2016,,,23.9,C,,
+06/30/2016,,,20.9,C,,
+07/07/2016,,,22.8,C,,
+07/14/2016,,,23.6,C,,
+07/21/2016,,,23.7,C,,
+07/28/2016,,,23.9,C,,
+08/04/2016,,,23.8,C,,
+08/11/2016,,,24,C,,
+08/18/2016,,,23.9,C,,
+08/25/2016,,,71.5,F,,
+08/29/2016,,,22.5,C,,
+06/07/2017,,,20.4,C,,
+06/14/2017,,,19.2,C,,
+06/21/2017,,,22.2,C,,
+06/29/2017,,,18,C,,
+07/05/2017,,,22.9,C,,
+07/11/2017,,,24.4,C,,
+07/19/2017,,,25.2,C,,
+07/25/2017,,,22.8,C,,
+08/01/2017,,,25.6,C,,
+08/08/2017,,,21.6,C,,
+08/16/2017,,,21.8,C,,
+08/22/2017,,,21.5,C,,
+08/23/2017,,,20.3,C,,
+08/27/2017,,,18.9,C,,
+
+
+
+Start Date,Fieldwork Comment
+06/24/2013,Cladophora along shoreline 
+05/27/2014,Sprinkling during sampling and rained night before
+06/02/2014,Raining during sampling and 24 hours before
+06/23/2014,raining during sampling
+08/04/2014,sprinkling during sampling
+08/11/2014,Raining
+08/25/2014,Rained in the last 24 hours
+07/13/2015,8 loons in water
+06/23/2016,3 bathers- 2 dogs- it had rained within the last 24 hours
+06/30/2016,0 bathers- light rain
+07/07/2016,raining heavily
+07/14/2016,SW winds- windy- 0 bathers
+07/21/2016,SW winds- .2 in of rain
+07/28/2016,.5 in of rain
+08/04/2016,very windy- 0.02 in of rain- NE winds
+08/18/2016,SE winds
+08/25/2016,3 bathers- NE winds
+
+
+
+
+Start Date,Group Name,Project Name
+06/11/2013,Data Collectors,Indian Mounds Picnic Beach
+06/18/2013,Data Collectors,Indian Mounds Picnic Beach
+06/24/2013,Data Collectors,Indian Mounds Picnic Beach
+07/02/2013,Data Collectors,Indian Mounds Picnic Beach
+07/08/2013,Data Collectors,Indian Mounds Picnic Beach
+07/16/2013,Data Collectors,Indian Mounds Picnic Beach
+07/22/2013,Data Collectors,Indian Mounds Picnic Beach
+07/29/2013,Data Collectors,Indian Mounds Picnic Beach
+08/13/2013,Data Collectors,Indian Mounds Picnic Beach
+08/20/2013,Data Collectors,Indian Mounds Picnic Beach
+08/26/2013,Data Collectors,Indian Mounds Picnic Beach
+05/27/2014,Data Collectors,Indian Mounds Picnic Beach
+06/02/2014,Data Collectors,Indian Mounds Picnic Beach
+06/09/2014,Data Collectors,Indian Mounds Picnic Beach
+06/16/2014,Data Collectors,Indian Mounds Picnic Beach
+06/23/2014,Data Collectors,Indian Mounds Picnic Beach
+06/30/2014,Data Collectors,Indian Mounds Picnic Beach
+07/07/2014,Data Collectors,Indian Mounds Picnic Beach
+07/14/2014,Data Collectors,Indian Mounds Picnic Beach
+07/21/2014,Data Collectors,Indian Mounds Picnic Beach
+07/28/2014,Data Collectors,Indian Mounds Picnic Beach
+08/04/2014,Data Collectors,Indian Mounds Picnic Beach
+08/11/2014,Data Collectors,Indian Mounds Picnic Beach
+08/18/2014,Data Collectors,Indian Mounds Picnic Beach
+08/25/2014,Data Collectors,Indian Mounds Picnic Beach
+05/26/2015,Data Collectors,Indian Mounds Picnic Beach
+06/01/2015,Data Collectors,Indian Mounds Picnic Beach
+06/08/2015,Data Collectors,Indian Mounds Picnic Beach
+06/15/2015,Data Collectors,Indian Mounds Picnic Beach
+06/23/2015,Data Collectors,Indian Mounds Picnic Beach
+06/29/2015,Data Collectors,Indian Mounds Picnic Beach
+07/06/2015,Data Collectors,Indian Mounds Picnic Beach
+07/13/2015,Data Collectors,Indian Mounds Picnic Beach
+07/20/2015,Data Collectors,Indian Mounds Picnic Beach
+07/27/2015,Data Collectors,Indian Mounds Picnic Beach
+08/03/2015,Data Collectors,Indian Mounds Picnic Beach
+08/10/2015,Data Collectors,Indian Mounds Picnic Beach
+08/17/2015,Data Collectors,Indian Mounds Picnic Beach
+08/26/2015,Data Collectors,Indian Mounds Picnic Beach
+06/23/2016,Data Collectors,Indian Mounds Picnic Beach
+06/30/2016,Data Collectors,Indian Mounds Picnic Beach
+07/07/2016,Data Collectors,Indian Mounds Picnic Beach
+07/14/2016,Data Collectors,Indian Mounds Picnic Beach
+07/21/2016,Data Collectors,Indian Mounds Picnic Beach
+07/28/2016,Data Collectors,Indian Mounds Picnic Beach
+08/04/2016,Data Collectors,Indian Mounds Picnic Beach
+08/11/2016,Data Collectors,Indian Mounds Picnic Beach
+08/18/2016,Data Collectors,Indian Mounds Picnic Beach
+08/25/2016,Data Collectors,Indian Mounds Picnic Beach
+08/29/2016,Data Collectors,Indian Mounds Picnic Beach
+06/07/2017,Data Collectors,Indian Mounds Picnic Beach
+06/14/2017,Data Collectors,Indian Mounds Picnic Beach
+06/21/2017,Data Collectors,Indian Mounds Picnic Beach
+06/29/2017,Data Collectors,Indian Mounds Picnic Beach
+07/05/2017,Data Collectors,Indian Mounds Picnic Beach
+07/11/2017,Data Collectors,Indian Mounds Picnic Beach
+07/19/2017,Data Collectors,Indian Mounds Picnic Beach
+07/25/2017,Data Collectors,Indian Mounds Picnic Beach
+08/01/2017,Data Collectors,Indian Mounds Picnic Beach
+08/08/2017,Data Collectors,Indian Mounds Picnic Beach
+08/16/2017,Data Collectors,Indian Mounds Picnic Beach
+08/22/2017,Data Collectors,Indian Mounds Picnic Beach
+08/23/2017,Data Collectors,Indian Mounds Picnic Beach
+08/27/2017,Data Collectors,Indian Mounds Picnic Beach

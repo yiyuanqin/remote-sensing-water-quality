@@ -1,0 +1,270 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spider Lake,Bayfield,2774200,NO,4,,043170,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188740,06/04/2003,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,06/15/2003,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,06/30/2003,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,07/13/2003,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,08/03/2003,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,08/23/2003,7,NO,2.1,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,10/10/2003,7.25,NO,2.2,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188740,06/06/2004,6.5,NO,2,,,50,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188740,07/04/2004,6.5,NO,2,,,50,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188740,07/18/2004,5.75,NO,1.7,,,52,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188740,08/01/2004,7,NO,2.1,,,49,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188740,09/24/2004,7.25,NO,2.2,,,49,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188740,04/14/2005,6.25,NO,1.9,,,51,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188740,05/29/2005,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188740,06/20/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188740,08/07/2005,6.5,NO,2,,,50,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+20724999,08/02/2007,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/25/2007,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724994,05/24/2008,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,06/23/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,06/30/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,07/05/2008,7.75,NO,2.4,,,48,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+20724994,08/02/2008,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,08/30/2008,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,09/24/2008,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,10/05/2008,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+20724994,10/18/2008,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724994,10/31/2008,4.75,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+20724999,05/03/2009,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,05/17/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/23/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/04/2009,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/11/2009,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/19/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,08/03/2009,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/16/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,04/09/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,05/15/2010,4.75,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+36799407,07/11/2010,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+20724999,07/30/2010,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/02/2010,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/13/2010,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,05/08/2011,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/01/2011,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/08/2011,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+20724999,07/15/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,09/06/2011,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,09/12/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/10/2011,5,,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/05/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/24/2012,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,06/29/2012,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/07/2012,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+20724999,07/19/2012,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+20724999,08/01/2012,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+20724999,08/20/2012,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/15/2012,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+20724999,05/24/2013,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/11/2013,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/18/2013,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,07/24/2013,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,08/09/2013,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+20724999,10/14/2013,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,05/23/2014,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/09/2014,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/03/2014,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/25/2014,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,08/14/2014,,NO,,,,,,,LOW,4.50,CLEAR,BROWN,
+20724999,08/30/2014,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,09/10/2014,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,09/24/2014,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,05/02/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,05/28/2015,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/06/2015,, ,,,,,,,LOW,7.0,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/08/2015,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,07/23/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,10/10/2015,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,05/30/2016,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,06/22/2016,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+20724999,06/25/2016,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/05/2016,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,07/29/2016,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,08/09/2016,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,08/24/2016,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,09/02/2016,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+20724999,10/06/2016,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+20724999,08/20/2017,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/04/2003,Winter kill this past winter. Even perch killed. (Also killed zyrago - mostly bass and sucker)    
+06/15/2003,Heard loon last night- and 5 species of frog and toad.    
+06/30/2003,Blue flag. in bloom    
+06/06/2004,lake slightly cloudy from recent rain and pollen loading.    
+04/14/2005,Ice out was 4/9.  Winterkill. 1000's of minnows- white suckers- ~150 perch.  Minnows already starting to break down.    
+05/29/2005,Best reading ever     
+08/02/2007,clear- moderate wind.  Water usual brown tinged. Extra hiliday boat traffic.
+10/25/2007,clear- no wind- no boat traffic on lake
+05/24/2008,clear-windy 
+06/23/2008,clear skies- windless
+06/30/2008,clear skies- moderate breeze
+07/05/2008,clear skies- calm
+08/02/2008,partly cloudy- light breeze
+08/30/2008,clear skies- calm
+09/24/2008,clear skies- breezy
+10/05/2008,partly cloudy-breezy
+10/18/2008,partly cloudy- light breeze
+10/31/2008,hazy skies- still
+05/03/2009,slight breeze-full sun- watertemp. = 56 degrees sunny- slight breeze- water temp.=56 degrees clear- wind gusts- choppy water  Slight breeze- full sun.  Water temp. at 3 feet 56 F.
+05/17/2009,Clear- sunny- wind gusts.  Water choppy today.
+06/23/2009,Overcast- drizzle- moderately windy
+07/04/2009,Clear- light breeze intermittent
+07/11/2009,Clear- cool- 68 F- breezy
+07/19/2009,No wind- partly cloudy
+08/03/2009,Moderate breeze- overcast
+10/16/2009,Clear- sunny- light breeze
+04/09/2010,Full sun- light breeze.
+04/09/2010,full sun- light breeze
+05/15/2010,full sun- no wind Full sun. No wind.
+07/11/2010,cloudy- windy Cloudy and windy.
+07/30/2010,Hazy- no wind.
+07/30/2010,hazy- no wind
+10/02/2010,Clear- light wind.
+10/02/2010,clear - light wind
+10/13/2010,Clear- light wind.
+10/13/2010,clear- light wind
+05/08/2011,hazy overcast- slight breeze
+07/08/2011,:arge clumps of algae rising to the surface
+07/15/2011,overcast- no wind
+09/06/2011,Sunny- light breeze
+09/12/2011,partly cloudy- no wind
+10/10/2011,sunny- light breeze
+06/05/2012,Clear and calm
+
+Water level has gradually receeded over past 10 years. As of June 2012 it was more than 4 feet below the historical high water mark- present in 2000.
+By November of this year (2012) it had receded another 1 foot.
+06/24/2012,Clear- mild breeze
+06/29/2012,Clear sky
+07/07/2012,Clear- moderate breeze
+07/19/2012,Partly cloudy- no wind
+08/01/2012,Sunny- light breeze
+08/20/2012,Sunny- light breeze
+10/15/2012,Clear- sunny- no wind
+06/11/2013,sunny- moderate breeze
+07/18/2013,sunny- gusty breeze
+07/24/2013,clrar- sunny- no wind
+08/09/2013,sunny- no wind
+10/14/2013,sunny- mild breeze
+05/23/2014,Sunny- clear- no wind- water level up another 12" since Fall 2013
+06/09/2014,Sunny- clear- no wind
+07/03/2014,Partly cloudy- mild breeze
+07/25/2014,Cloudy- breezy
+08/14/2014,Sunny- calm
+08/30/2014,Overcast- light breeze
+09/10/2014,Overcast- no wind
+09/24/2014,Partly cloudy- windy Partly cloudy- windy.  Water level is up another 12" since June 2014
+05/28/2015,Water level ("low") unchanged from late Fall 2014
+Clear weather- no breeze
+06/06/2015,Clear skies- breezy
+07/08/2015,Sunny- mild breeze
+07/23/2015,Clear skies- no breeze
+10/10/2015,Clear skies- light breeze- Air temp = 74 degrees
+05/30/2016,Apology for not submitting this report for year 2016 sooner. I only discovered my oversight when entering data for 2017- today- Nov. 29th- 2017.
+Robert Titzler- Volunteer #67653
+
+
+
+
+Start Date,Group Name,Project Name
+06/04/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/15/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/30/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/13/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/03/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/23/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/10/2003,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/06/2004,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/04/2004,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/18/2004,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/01/2004,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/24/2004,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+04/14/2005,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/29/2005,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/20/2005,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/07/2005,Peter David,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/02/2007,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/25/2007,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/24/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/23/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/30/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/05/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/02/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/30/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/24/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/05/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/18/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/31/2008,Robert Titzler- Peter David- Mark Kuester- Tom Pelzek,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/03/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/17/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/23/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/04/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/11/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/19/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/03/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/16/2009,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+04/09/2010,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/15/2010,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/11/2010,Mark Kuester,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/30/2010,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/02/2010,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/13/2010,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/08/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/01/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/08/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/15/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/06/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/12/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/10/2011,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/05/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/24/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/29/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/07/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/19/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/01/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/20/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/15/2012,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/24/2013,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/11/2013,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/18/2013,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/24/2013,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/09/2013,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/14/2013,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/23/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/09/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/03/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/25/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/14/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/30/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/10/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/24/2014,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/02/2015,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/28/2015,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/06/2015,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/08/2015,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/23/2015,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/10/2015,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+05/30/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/22/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+06/25/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/05/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+07/29/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/09/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/24/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+09/02/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+10/06/2016,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)
+08/20/2017,Robert Titzler,Citizen Lake Monitoring - Water Quality - Spider Lake; NW Basin (47-7-22)

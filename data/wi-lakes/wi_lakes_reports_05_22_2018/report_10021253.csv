@@ -1,0 +1,98 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tea Lake,Ashland,2922700,NO,2,,10021253,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+19206947,08/13/2007,14.25,NO,4.3,,,39,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19206947,06/30/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19206947,07/14/2008,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19206947,07/30/2008,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19206947,08/15/2008,13,NO,4,,,40,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19206947,07/23/2009,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19206947,08/24/2009,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19619928,10/24/2016,8.25,NO,2.5,,,47,,,,2.25,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19619928,05/03/2017,6,NO,1.8,,26.6,51,54,,,2.33,CLEAR,BROWN,1-Beautiful, could not be nicer
+19619928,06/12/2017,7,NO,2.1,10.7,,49,,53,,2.41,CLEAR,BROWN,1-Beautiful, could not be nicer
+19619928,07/10/2017,7,NO,2.1,6.65,22.1,49,52,49,HIGH,3.16,CLEAR,BROWN,1-Beautiful, could not be nicer
+19619928,09/04/2017,6.75,NO,2.1,9.96,18.8,50,51,52,HIGH,3.25,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/24/2016,5,FEET,51.6,DEGREES F,,
+10/24/2016,10,FEET,51.2,DEGREES F,,
+10/24/2016,15,FEET,51.2,DEGREES F,,
+10/24/2016,20,FEET,50.9,DEGREES F,,
+10/24/2016,25,FEET,47.4,DEGREES F,,
+10/24/2016,30,FEET,44.6,DEGREES F,,
+05/03/2017,1,FEET,45.8,DEGREES F,,
+05/03/2017,5,FEET,45.5,DEGREES F,,
+05/03/2017,10,FEET,45.3,DEGREES F,,
+05/03/2017,15,FEET,45.1,DEGREES F,,
+05/03/2017,20,FEET,43.8,DEGREES F,,
+05/03/2017,25,FEET,43.5,DEGREES F,,
+05/03/2017,30,FEET,43.5,DEGREES F,,
+05/03/2017,35,FEET,43.5,DEGREES F,,
+05/03/2017,40,FEET,43.5,DEGREES F,,
+05/03/2017,45,FEET,43.1,DEGREES F,,
+05/03/2017,50,FEET,42.9,DEGREES F,,
+06/12/2017,1,FEET,77.9,DEGREES F,,
+06/12/2017,5,FEET,70.1,DEGREES F,,
+06/12/2017,10,FEET,55.4,DEGREES F,,
+06/12/2017,15,FEET,49.6,DEGREES F,,
+06/12/2017,20,FEET,45.8,DEGREES F,,
+06/12/2017,25,FEET,43.8,DEGREES F,,
+06/12/2017,30,FEET,43.5,DEGREES F,,
+06/12/2017,35,FEET,43.5,DEGREES F,,
+06/12/2017,40,FEET,43.3,DEGREES F,,
+06/12/2017,45,FEET,43.1,DEGREES F,,
+06/12/2017,50,FEET,43.1,DEGREES F,,
+07/10/2017,1,FEET,81.3,DEGREES F,,
+07/10/2017,5,FEET,73.4,DEGREES F,,
+07/10/2017,10,FEET,61.1,DEGREES F,,
+07/10/2017,15,FEET,51.2,DEGREES F,,
+07/10/2017,20,FEET,47.1,DEGREES F,,
+07/10/2017,25,FEET,44.6,DEGREES F,,
+07/10/2017,30,FEET,43.7,DEGREES F,,
+07/10/2017,35,FEET,43.5,DEGREES F,,
+07/10/2017,40,FEET,43.3,DEGREES F,,
+07/10/2017,45,FEET,43.1,DEGREES F,,
+07/10/2017,50,FEET,43.1,DEGREES F,,
+09/04/2017,1,FEET,66.9,DEGREES F,,
+09/04/2017,5,FEET,66.9,DEGREES F,,
+09/04/2017,10,FEET,63.6,DEGREES F,,
+09/04/2017,15,FEET,52.8,DEGREES F,,
+09/04/2017,20,FEET,47.3,DEGREES F,,
+09/04/2017,25,FEET,44.6,DEGREES F,,
+09/04/2017,30,FEET,43.8,DEGREES F,,
+09/04/2017,35,FEET,43.5,DEGREES F,,
+09/04/2017,40,FEET,43.5,DEGREES F,,
+09/04/2017,45,FEET,43.5,DEGREES F,,
+09/04/2017,50,FEET,43.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2007,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+06/30/2008,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+07/14/2008,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+07/30/2008,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+08/15/2008,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+07/23/2009,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+08/24/2009,Ed Moll,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+10/24/2016,ZOE C MCMANAMA,Lakes Long Term Trend Monitoring (1986-present)
+05/03/2017,ZOE C MCMANAMA,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+05/03/2017,ZOE C MCMANAMA,Lakes Long Term Trend Monitoring (1986-present)
+06/12/2017,ZOE C MCMANAMA,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+06/12/2017,ZOE C MCMANAMA,Lakes Long Term Trend Monitoring (1986-present)
+07/10/2017,ZOE C MCMANAMA,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County
+09/04/2017,ZOE C MCMANAMA,Citizen Lake Monitoring - Water Quality - Tea Lake- Ashland County

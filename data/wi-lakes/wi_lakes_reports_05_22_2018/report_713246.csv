@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Lake Butte Des Morts,Winnebago,129800,NE,71,,713246,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/08/1992,,,,12,,,,54,,,,,
+1,08/04/1992,,,,55.7,,,,65,,,,,
+1,08/31/1992,,,,156.1,,,,73,,,,,
+1,11/17/1992,,,,52.7,,,,65,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+11/17/1992,USGS STATION NO. 04084422    
+
+
+
+
+Start Date,Group Name,Project Name
+06/08/1992,Data Collectors,GBMB - FOLLOW-UP STUDY ORG
+08/04/1992,Data Collectors,GBMB - FOLLOW-UP STUDY ORG
+08/31/1992,Data Collectors,GBMB - FOLLOW-UP STUDY ORG
+11/17/1992,Data Collectors,GBMB - FOLLOW-UP STUDY INORG

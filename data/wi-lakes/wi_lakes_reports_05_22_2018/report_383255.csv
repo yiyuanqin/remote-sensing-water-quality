@@ -1,0 +1,404 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Yankee Lake,Marinette,440100,NE,38,,383255,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190780,06/30/1989,6,NO,1.8,,,51,,,GAUGE,12,,GREEN,
+8190780,07/08/1989,6.5,NO,2,,,50,,,GAUGE,10.5,,GREEN,4-Would not swim but boating OK (algae)
+8190780,07/22/1989,5.75,NO,1.7,,,52,,,GAUGE,11,,GREEN,
+8190780,08/06/1989,5,NO,1.5,,,54,,,GAUGE,11.5,,GREEN,4-Would not swim but boating OK (algae)
+29404769,05/15/2009,7.75,NO,2.4,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/19/2009,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/27/2009,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/04/2009,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/12/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/28/2009,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/08/2009,5.25,NO,1.6,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29404769,07/14/2009,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29404769,07/20/2009,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+29404769,07/31/2009,4.25,NO,1.3,,,56,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+29404769,08/07/2009,4.25,NO,1.3,,,56,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+29404769,08/15/2009,4.25,NO,1.3,,,56,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+29404769,08/23/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+29404769,08/31/2009,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29404769,09/08/2009,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29404769,09/16/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+29404769,04/05/2010,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29404769,04/28/2010,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29404769,05/09/2010,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/07/2010,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/16/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/23/2010,7.75,NO,2.4,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/01/2010,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/09/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/17/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/25/2010,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/04/2010,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/10/2010,4,NO,1.2,,,57,,,LOW,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+29404769,08/18/2010,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/26/2010,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/06/2010,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/18/2010,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/04/2010,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/12/2010,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/22/2010,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,11/08/2010,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/03/2011,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/20/2011,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/24/2011,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/03/2011,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/12/2011,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/18/2011,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/26/2011,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/04/2011,7.75,NO,2.4,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/11/2011,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/29/2011,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/05/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+29404769,08/14/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/21/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/06/2011,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+29404769,09/15/2011,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/27/2011,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/09/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/29/2011,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,04/29/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/19/2012,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/27/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/05/2012,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/13/2012,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/21/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/07/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/19/2012,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29404769,07/24/2012,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29404769,05/31/2013,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/07/2013,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/14/2013,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/02/2013,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BROWN,
+29404769,07/05/2013,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/11/2013,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/20/2013,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/25/2013,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/08/2013,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/23/2013,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/03/2013,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/16/2013,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/27/2013,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/30/2014,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29404769,06/08/2014,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29404769,06/22/2014,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+29404769,07/04/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29404769,07/10/2014,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29404769,07/24/2014,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29404769,07/30/2014,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/05/2014,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/15/2014,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/24/2014,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/09/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/23/2014,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/11/2014,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/05/2015,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/13/2015,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/22/2015,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/01/2015,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/06/2015,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/14/2015,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/26/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/02/2015,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/08/2015,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/15/2015,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/26/2015,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/05/2015,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29404769,08/15/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/26/2015,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/10/2015,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/25/2015,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/11/2015,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/25/2015,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,11/09/2015,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,04/17/2016,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/08/2016,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/18/2016,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/08/2016,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/09/2016,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/17/2016,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,06/23/2016,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/02/2016,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/16/2016,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,07/31/2016,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,08/15/2016,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/02/2016,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,09/18/2016,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/13/2016,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/16/2016,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,10/25/2016,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+29404769,05/08/2017,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/30/1989,Sunny- weeds bad.    
+07/08/1989,Sunny- watershed weeds are problem.    
+08/06/1989,Heavy rain yesterday.    
+05/15/2009,Partly cloudy with a moderate S wind.
+05/19/2009,Partly cloudy with light S wind.
+05/27/2009,Partly cloudy- light N breeze- course sediment suspended in water- had 2.0" rainfall in the previous two days- numerous geese around shore.
+06/04/2009,clear and calm
+06/12/2009,Partly cloudy- light variable breeze Partly cloudy- Light variable breeze.
+06/28/2009,Partly cloudy- strong NW wind- trace of rain on the previous day- saw two families of ducks.
+07/08/2009,Partly cloudy- Light E wind.
+07/14/2009,Partly sunny- Very light S breeze.
+07/20/2009,Partly cloudy- moderate S wind- Noticed an absence of frogs compared to previous years.
+07/31/2009,Partly cloudy- very light N breeze- 1/4" of rain the previous day.
+08/07/2009,Overcast- light E wind- Observed one family of mallards- the five or six families of geese that have been around all summer disappeared.
+08/15/2009,Occasional clouds- light E wimd- the geese have returned.
+08/23/2009,Clear- calm- did not see any geese on lake or around shore.
+08/31/2009,Clear- calm- did not see any waterfowl or wildlife.
+09/08/2009,Clear- slight NE breeze
+09/16/2009,Partly cloudy- light variable breeze- -This is probably the last sampling for this year. We expected to sample until freeze up but it is getting increasingly difficult to get the boat away from our pier because of an extremely low water level.
+04/05/2010,Partly cloudy- moderate variable wind- Ice off was 3/23/2010
+04/28/2010,Clear- light NW breeze
+05/09/2010,Partly Cloudy- Moderate NE wind
+06/07/2010,Partly cloudy- moderate NW wind
+06/16/2010,Cloudy- light NE breeze- 1.25" rain on previous day
+06/23/2010,Partly sunny- calm- 1-1/8 inch of rain in AM.
+07/01/2010,Clear- light SW breeze.
+07/09/2010,Partly cloudy- moderate NW breeze- group of people swimming fairly close to sample site- several families of geese present.
+07/17/2010,Sunny- moderate NW wind.
+07/25/2010,Partly cloudy- calm.
+08/04/2010,Partly cloudy + hazy- light W wind- observed geese practicing flight.
+08/10/2010,Partly cloudy and very hazy- calm- eagle or osprey soaring overhead- many globs of gray-green algae floating on lake surface. 
+08/18/2010,Partly sunny- moderate NW wind- algae globs have broken up and dispersed.
+08/26/2010,Mostly sunny- light NW Breeze.
+09/06/2010,Mostly cloudy- very light S breeze- brief but hard shower earlier in AM.
+09/18/2010,Mostly sunny- Moderate N wind.
+10/04/2010,Clear- slight variable breeze.
+10/12/2010,Clear- slight W breeze- temperatures above normal for the last 1-1/2 weeks.
+10/22/2010,Clear- light S wind.
+11/08/2010,Partly cloudy- gusty SW breeze. This was the last sampling for this year- the boat was pulled from the lake.
+05/03/2011,Clear- light SW wind. Ice off was 4/16 revealing a bad fish kill of small crappies. This is attracting several eagles to the area.
+05/20/2011,Partly cloudy- Light and variable breeze- 3 pairs of geese on the water.
+05/24/2011,Partly cloudy- light east wind- Lake water level has risen several feet from last year but is still low.
+06/03/2011,Clear and hazy- moderate SW wind.
+06/12/2011,Clear- brisk NE wind.
+06/18/2011,Bright overcast- Moderate gusty variable breeze- too many geese. Bright overcast- moderate and variable gusty breeze- too many geese on lake.
+06/26/2011,Clear- light SW wind.
+07/04/2011,Partly cloudy- calm.
+07/11/2011,Sunny- light N wind.
+07/29/2011,Sunny- light NW wind- observing many frogs along shore. Sunny- light NW wind- observed many frogs along shore (more than previous years). Sunny- light NW wind- observed many frogs along shore- more frogs than previous years.
+08/05/2011,Light S breeze- filtered sunshine- observed scattered semi-floating- large globs of   (algae).
+08/14/2011,Light NE wind- sunny- less and smaller floating algae globs- geese practicing and flying well.
+08/21/2011,Strong NW wind- partly cloudy- obseving many frogs.
+09/06/2011,Calm- clear- many floating globs observed -bad appearance.
+09/15/2011,Morerate N wind- partly cloudy.
+09/27/2011,Calm- partly sunny- clouds and rain the previous week.
+10/09/2011,Light W wind- clear- previous week was very warm and sunny.
+10/29/2011,Slight N breeze- partly cloudy.
+04/29/2012,Light SW wind- filtered sunshine- observed 2 pairs of geese -one pair with young and one pair without young- observed 1 pair of Mallards- aquatic weeds are thick and starting to break the surface.
+05/19/2012,Moderate S wind- Clear
+05/27/2012,Moderate s wind-partly cloudy- observed 2 families of geese and 1 family of mallard ducks. also observed a large flock of adult geese.
+06/05/2012,moderate E wind- -partly cloudy.
+06/13/2012,Light S wind- partly cloudy- observed for invasives -found none.
+06/21/2012,Mederate NW wind- partly cloudy- observing dense watershield cover around lake perimeter.
+07/07/2012,Moderate NE breeze- partly cloudy- widely scattered globs of algae observed- 90 degree plus temperatures for the previous several days.
+07/19/2012,Gentle breeze- clear- globs of algae are now larger and more numereous than last observation. The previous several days were cloudy and/or hot and did not allow for monitoring on schedule with satellite.
+07/24/2012,Gentle NE breeze- partly cloudy- globs of algae somewhat diminished but still present. Large chunks (several feet across and thick) of bottom material (silt- weeds- roots- etc.) have floated to surface about 50-100 feet from shore around perimeter of lake. Weeds- both floating and submerged- are much more abundant than in previous years.
+05/31/2013,Moderate west wind- partly cloudy.
+07/11/2013,Moderate E Breeze- Partly Cloudy. Two very large families of geese and several families of ducks present for the summer.
+07/20/2013,Wind light and variable- Partly cloudy- Soft globs of algae (about two feet across) widely scattered around lake- Previous week was very hot (low 90's).
+07/25/2013,Moderate NW wind- Partly cloudy.
+08/08/2013,Calm- partly cloudy.
+08/23/2013,Moderate W breeze- Partly cloudy- Observed globs of algae scattered on surface.
+09/03/2013,Light N breeze- Clear- All families of geese are gone- Several families of ducks remain- Large particles of bottom material (roots and silt) floating to the surface in 2-4 feet of water in many places.
+09/16/2013,Light NE breeze- clear.
+09/27/2013,Light S wind- partly cloudy.
+05/30/2014,Light S breeze- clear sky- the water was the clearest ever recorded- did not observe any fish beds as were observed in previous years -probably froze out the last 3 winters.
+06/08/2014,Moderate NE wind- clear sky.
+06/22/2014,Calm wind- filtered sunshine.
+07/04/2014,Calm wind- partly cloudy.
+07/10/2014,Light W breeze- mostly sunny.
+07/24/2014,Light W breeze- partly cloudy.
+07/30/2014,Light NW wind- partly cloudy- observed very widely scattered globs of algae.
+08/05/2014,Light E wind- partly cloudy- globs of algae slightly more numerous and slightly larger than noted at last observation. Watershield and water lilies extend about 200 feet from shore around complete lake perimeter. Did not notice any invasives.
+08/15/2014,Calm wind- clear- slightly more algae since last sampling.
+08/24/2014,Moderate S wind- partly cloudy- less algae globs.
+09/09/2014,Very light SW breeze- mostly sunny.
+09/23/2014,Calm- clear.
+10/11/2014,Calm- Clear.
+05/05/2015,Moderate S wind- clear. Observed very few fish nests and there were no fish on them.
+05/13/2015,Light E breeze- few clouds.
+05/22/2015,Light N wind- clear.
+06/01/2015,Light and variable gusty wind- clear.
+06/06/2015,Light S wind- partly cloudy.
+06/14/2015,Filtered sunshine- calm.
+06/26/2015,Calm- partly sunny with filtered sunshine. Having trouble getting on schedule with satellite this year because of wind and clouds.
+07/02/2015,Clear- calm
+07/08/2015,Light S breeze- Filtered sunshine.
+07/15/2015,Light NE breeze- clear. Observing many submerged weeds not seen before. Suspect weeds to be Eurasian Water-Milfoil and another that is much less abundant. Will attempt better ID in the next few weeks.
+07/26/2015,Light W breeze- partly cloudy.
+08/05/2015,Calm- partly cloudy. Observing widely scattered small globs of algae. Noticed that geese are not as abundant as in past years- probably due to higher water level and more and higher shoreline weeds.
+08/15/2015,Clear- calm- hot.
+08/26/2015,Partly sunny- calm.
+09/10/2015,Partly cloudy- light N wind.
+09/25/2015,Mostly sunny- light variable wind.
+10/11/2015,Clear- light NW wind.
+10/25/2015,Sunny- few clouds- slight N breeze.
+11/09/2015,Clear- moderate SW breeze.
+04/17/2016,Light SW Breeze- Sunny with few clouds. 
+05/08/2016,Light SE Wind- Sunny with few clouds.
+05/18/2016,Variable E wind- clear.
+06/08/2016,Light NW wind- filtered sunshine.
+06/09/2016,Light S wind- clear. Verified 0608 depth (filtered sun on 0608 vs clear on 0609).
+06/17/2016,Calm- hazy sunshine (light haze).
+06/23/2016,Moderate NE breeze- partly cloudy.
+07/02/2016,Calm- partly cloudy. Observing mats of weeds on surface of water and extending from the bottom. the weeds are located in shallow to about five feet of water. Will attempt to identify.
+07/16/2016,Light SW breeze- partly cloudy.
+07/31/2016,Light variable breeze- partly cloudy.
+08/15/2016,Slight S Breeze- few clouds.
+09/02/2016,Calm- clear.
+09/18/2016,Light W wind- clear.
+10/13/2016,Moderate NW wind- partly sunny.
+10/16/2016,Calm- clear.
+10/25/2016,Calm- filtered sunshine.
+05/08/2017,Calm- slightly filtered sunshine.
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/1989,Ed Beno,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/08/1989,Ed Beno,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/22/1989,Ed Beno,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/06/1989,Ed Beno,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/15/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/19/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/27/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/04/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/12/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/28/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/08/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/14/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/20/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/31/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/07/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/15/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/23/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/31/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/08/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/16/2009,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+04/05/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+04/28/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/09/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/07/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/16/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/23/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/01/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/09/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/17/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/25/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/04/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/10/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/18/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/26/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/06/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/18/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/04/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/12/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/22/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+11/08/2010,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/03/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/20/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/24/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/03/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/12/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/18/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/26/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/04/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/11/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/29/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/05/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/14/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/21/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/06/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/15/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/27/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/09/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/29/2011,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+04/29/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/19/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/27/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/05/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/13/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/21/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/07/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/19/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/24/2012,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/31/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/07/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/14/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/02/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/05/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/11/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/20/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/25/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/08/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/23/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/03/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/16/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/27/2013,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/30/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/08/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/22/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/04/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/10/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/24/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/30/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/05/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/15/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/24/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/09/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/23/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/11/2014,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/05/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/13/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/22/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/01/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/06/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/14/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/26/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/02/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/08/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/15/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/26/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/05/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/15/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/26/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/10/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/25/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/11/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/25/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+11/09/2015,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+04/17/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/08/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/18/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/08/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/09/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/17/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+06/23/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/02/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/16/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+07/31/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+08/15/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/02/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+09/18/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/13/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/16/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+10/25/2016,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole
+05/08/2017,Jim + Anne Shavlik,Citizen Lake Monitoring - Water Quality - Yankee Lake - Deep Hole

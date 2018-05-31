@@ -1,0 +1,330 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Found Lake,Vilas,1593800,NO,64,,643065,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/23/1979,,,,,,,,,,,,,
+32271208,05/29/1990,,,,,,,,,,,,,
+32271208,05/30/1990,,,,,,,,,,,,,
+32271208,09/05/1990,,,,,,,,,,,,,
+8189791,07/03/1993,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189791,07/24/1993,8,NO,2.4,,,47,,,DOWN 3.5" FROM 7/3, NORMAL FOR SUMMER,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,08/07/1993,6,NO,1.8,,,51,,,DOWN ANOTHER 2-3",,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,08/28/1993,6.75,NO,2.1,,,50,,,DOWN 2-3",,,BROWN,2-Very minor aesthetic problems
+8189791,09/07/1993,4.75,NO,1.4,,,55,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189791,09/12/1993,4,NO,1.2,,,57,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189791,09/19/1993,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189791,09/24/1993,4,NO,1.2,,,57,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189791,05/08/1994,5.25,NO,1.6,,,53,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,05/21/1994,6,NO,1.8,,,51,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,05/30/1994,6.75,NO,2.1,,,50,,,~.5" LOWER,,,BROWN,2-Very minor aesthetic problems
+8189791,06/11/1994,10.5,NO,3.2,,,43,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8189791,06/25/1994,11.5,NO,3.5,,,42,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8189791,07/02/1994,7.5,NO,2.3,,,48,,,2.5" BELOW NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189791,07/24/1994,6.75,NO,2.1,,,50,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8189791,08/20/1994,6.5,NO,2,,,50,,,BACK DOWNBACK DOWN-NEED RAIN,,,BROWN,2-Very minor aesthetic problems
+8189791,09/11/1994,6.25,NO,1.9,,,51,,,DOWN MORE-SEND RAIN,,,BROWN,2-Very minor aesthetic problems
+8189791,09/28/1994,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8189791,10/02/1994,5.5,NO,1.7,,,53,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+32271208,05/28/1995,,,,,,,,,,,,,
+8189791,05/29/1995,6.75,NO,2.1,,,50,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+32271208,05/29/1995,,,,,,,,,,,,,
+32271208,06/03/1995,,,,,,,,,,,,,
+8189791,06/04/1995,10,NO,3,,,44,,,ABOUT CONSTANT, NORMAL SPRING LEVEL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,06/19/1995,8,NO,2.4,,,47,,,DOWN AN INCH FROM LAST READING,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,07/01/1995,7.75,NO,2.4,,,48,,,DOWN A LITTLE,,,BROWN,2-Very minor aesthetic problems
+8189791,07/24/1995,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189791,08/14/1995,6.25,NO,1.9,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189791,09/03/1995,5,NO,1.5,,,54,,,NO CHANGE, A LITTLE HIGH FOR THIS TIME OF YEAR,,,BROWN,3-Enjoyment somewhat impaired (algae)
+32271208,09/04/1995,,,,,,,,,,,,,
+32271208,09/05/1995,,,,,,,,,,,,,
+8189791,09/13/1995,5.25,NO,1.6,,,53,,,DOWN A LITTLE, ABOUT NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+32271208,09/13/1995,,,,,,,,,,,,,
+8189791,09/17/1995,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189791,09/30/1995,5,NO,1.5,,,54,,,ABOUT THE SAME ALL SEASON, HIGHER THAN NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,05/10/1996,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189791,05/19/1996,4.25,NO,1.3,,,56,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,05/24/1996,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189791,05/28/1996,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+32271208,06/02/1996,,,,,,,,,,,,,
+32271208,06/13/1996,,,,,,,,,,,,,
+32271208,07/03/1996,,,,,,,,,,,,,
+8189791,07/05/1996,8.25,NO,2.5,,,47,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+32271208,07/17/1996,,,,,,,,,,,,,
+8189791,07/21/1996,6,NO,1.8,,,51,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189791,07/27/1996,5.5,NO,1.7,,,53,,,DOWN A LITTLE,,,BROWN,3-Enjoyment somewhat impaired (algae)
+32271208,08/01/1996,,,,,,,,,,,,,
+32271208,08/21/1996,,,,,,,,,,,,,
+32271208,09/01/1996,,,,,,,,,,,,,
+8189791,09/02/1996,6,NO,1.8,,,51,,,DOWN A LITTLE-STILL HIGH FOR TIME OF YEAR,,,BROWN,2-Very minor aesthetic problems
+32271208,09/06/1996,,,,,,,,,,,,,
+32271208,09/16/1996,,,,,,,,,,,,,
+8189791,10/12/1996,6,NO,1.8,,,51,,,DOWN A LITTLE,,,BROWN,1-Beautiful, could not be nicer
+32271208,05/31/1997,,,,,,,,,,,,,
+8189791,06/08/1997,8.25,NO,2.5,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+32271208,06/08/1997,,,,,,,,,,,,,
+32271208,06/12/1997,,,,,,,,,,,,,
+8189791,06/22/1997,9,NO,2.7,,,45,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189791,07/07/1997,7.75,NO,2.4,,,48,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+32271208,08/27/1997,,,,,,,,,,,,,
+32271208,09/03/1997,,,,,,,,,,,,,
+32271208,05/26/1998,,,,,,,,,,,,,
+32271208,06/01/1998,,,,,,,,,,,,,
+32271208,06/11/1998,,,,,,,,,,,,,
+32271208,09/27/1998,,,,,,,,,,,,,
+32271208,10/03/1998,,,,,,,,,,,,,
+32271208,10/08/1998,,,,,,,,,,,,,
+32271208,05/26/1999,,,,,,,,,,,,,
+32271208,05/27/1999,,,,,,,,,,,,,
+32271208,06/03/1999,,,,,,,,,,,,,
+32271208,06/10/1999,,,,,,,,,,,,,
+32271208,08/29/1999,,,,,,,,,,,,,
+32271208,09/04/1999,,,,,,,,,,,,,
+32271208,09/09/1999,,,,,,,,,,,,,
+32271208,10/08/1999,,,,,,,,,,,,,
+32271208,05/26/2000,,,,,,,,,,,,,
+32271208,06/02/2000,,,,,,,,,,,,,
+32271208,06/08/2000,,,,,,,,,,,,,
+32271208,08/27/2000,,,,,,,,,,,,,
+32271208,09/04/2000,,,,,,,,,,,,,
+32271208,09/13/2000,,,,,,,,,,,,,
+32271208,09/14/2000,,,,,,,,,,,,,
+32271208,05/27/2001,,,,,,,,,,,,,
+32271208,05/28/2001,,,,,,,,,,,,,
+32271208,06/04/2001,,,,,,,,,,,,,
+32271208,06/06/2001,,,,,,,,,,,,,
+32271208,08/27/2001,,,,,,,,,,,,,
+32271208,09/01/2001,,,,,,,,,,,,,
+32271208,09/05/2001,,,,,,,,,,,,,
+32271208,10/08/2001,,,,,,,,,,,,,
+32271208,10/11/2001,,,,,,,,,,,,,
+32271208,05/27/2002,,,,,,,,,,,,,
+32271208,05/31/2002,,,,,,,,,,,,,
+32271208,06/06/2002,,,,,,,,,,,,,
+32271208,08/31/2002,,,,,,,,,,,,,
+32271208,09/07/2002,,,,,,,,,,,,,
+32271208,09/11/2002,,,,,,,,,,,,,
+32271208,10/07/2002,,,,,,,,,,,,,
+32271208,05/24/2003,,,,,,,,,,,,,
+32271208,05/29/2003,,,,,,,,,,,,,
+32271208,06/05/2003,,,,,,,,,,,,,
+32271208,09/10/2003,,,,,,,,,,,,,
+32271208,09/15/2003,,,,,,,,,,,,,
+32271208,09/20/2003,,,,,,,,,,,,,
+32271208,10/09/2003,,,,,,,,,,,,,
+32271208,05/29/2004,,,,,,,,,,,,,
+32271208,06/04/2004,,,,,,,,,,,,,
+32271208,06/10/2004,,,,,,,,,,,,,
+7000126,08/29/2007,,,,4.78,19,,51,47,,,,,
+7000126,08/30/2007,,,,15.4,29,,54,55,,,,,
+41886245,06/22/2010,8.5,NO,2.6,4.08,15,46,49,45,,,,,
+35019794,07/29/2010,6.2,NO,1.9,3.81,17,51,50,45,,,,,
+16073539,08/24/2010,6.1,NO,1.9,7.87,21,51,52,50,,,,,
+131416530,09/04/2016,4.75,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,09/18/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,10/02/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,10/16/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,11/05/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,05/14/2017,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,06/17/2017,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,08/01/2017,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,08/19/2017,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,09/16/2017,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+131416530,10/01/2017,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/23/1979,,,24.5,C,,
+06/22/2010,,,23.3,C,9.0,MG/L
+07/29/2010,,,25.4,C,8.1,MG/L
+08/24/2010,,,22.7,C,8.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/03/1993,Overcast- water temperature is 68 degrees- some bloom- pair of loons have two babies.    
+07/24/1993,Partly cloudy- air temperature is 72 degrees- loon chicks five weeks old- doing fine.    
+08/07/1993,Baby loons doing fine- now also diving.    
+08/28/1993,Loons are now young adults trying to learn to take off and fly.    
+09/07/1993,Loons are still here- becoming independent. Water level up 1"    
+09/12/1993,Water temperature is about 60 degrees- loons still here.    
+09/19/1993,Water temperature is 57 degrees- sunny- cool at 55 degrees- and the loons are still here.    
+09/24/1993,Water surface temperature is 55 degrees- one juvenile loon is still around with one parent.    
+05/08/1994,Junk floating in the lake.  Lake level 6-7" down from May norm.  Ice off about April 18- 1994.  Water temperature is 55 degrees.  Water level: very low.    
+05/21/1994,Because of pollen.  Lake level lower than normal July level- send rain.  Lake level: Still 6-7" low    
+05/30/1994,Lake level still well below normal- water temperature is 65 degrees.    
+06/11/1994,65 degree water temperature.  Lake level about the same since beginning of the year.    
+06/25/1994,Had 2" rain- need more.  75 degree water temperature.    
+07/24/1994,Water level: Up a little-still low    
+09/11/1994,Water temperature is 64 degrees.    
+09/28/1994,Turn over.  Water temperature is about 56 degrees.  Dropped 8 degrees from 9/25 to 9/28.  Water level: Up about 3-4"    
+10/02/1994,Water level: Up about 3-4"    
+05/29/1995,Water temp. 54 degrees @ surface.  Just had at least 1" of rain over past couple of days.    
+06/04/1995,Public perception due to pollen.  Water temp. 71 degrees.    
+06/19/1995,Pollen.  Too hot!    
+07/01/1995,Very windy    
+07/24/1995,One young loon with parents- water temp. 79 degrees.    
+08/14/1995,Bloom.  Water temp. 77 degrees- rain in 3 days.  Water level: Up 1.5" in three days    
+09/03/1995,Bloom.  Water temp (surface) 74 degrees.    
+09/13/1995,Water temp. dropping-down 8 degrees in 10 days.    
+09/17/1995,Turn over.  Water dropping 1 degrees/day.  62 degrees.  Assumed sample time was noon.    
+09/30/1995,Turn over.  Water temp. 55 degrees.    
+05/10/1996,Kids in water- still cold- 64 degrees F.    
+05/19/1996,Public perception due to water temp. ice out 5/13/96. water temp. 48 degrees F.    
+05/24/1996,Public perception due to temperature. water temp. 54 degrees.    
+05/28/1996,Public perception due to water temp.-56 degrees F. two loons on lake.    
+07/05/1996,Water temp. @ 76 degrees.    
+07/21/1996,2 loons on lake- others reported. They abandoned their nest (1 egg) . Water level: Up .5"- 2+" rain    
+07/27/1996,Water temperature is 70 degrees- 2 loons.    
+10/12/1996,49 degree water temperature- 2 loons- lots of color now.    
+06/08/1997,Some pollen.    
+06/22/1997,Water level: UP A LITTLE FROM LAST READING.    
+07/07/1997,Cold.  Water level: UP A LITTLE    
+09/04/2016,Slight wind.  No rain for a few days prior.  Slight wind.  No rain for a few days prior.  Slight wind.  No rain for a few days prior. 
+09/18/2016,Full sun- slight wind. 
+10/02/2016,Full sun- water temp dropping
+10/16/2016,Water cooling- turnover near
+11/05/2016,Calm- clear sky
+05/14/2017,clear and calm
+06/17/2017,partly cloudy
+08/01/2017,partly cloudy and breezy
+10/01/2017,turnover starting turnover starting
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+05/29/1990,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/30/1990,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/05/1990,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+07/03/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/24/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/07/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/28/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/07/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/12/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/19/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/24/1993,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/08/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/21/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/30/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+06/11/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+06/25/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/02/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/24/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/20/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/11/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/28/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+10/02/1994,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/28/1995,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/29/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/29/1995,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/03/1995,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/04/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+06/19/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/01/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/24/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/14/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/03/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/04/1995,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/05/1995,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/13/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/13/1995,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/17/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/30/1995,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/10/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/19/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/24/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/28/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+06/02/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/13/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+07/03/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+07/05/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/17/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+07/21/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/27/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/01/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+08/21/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/01/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/02/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/06/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/16/1996,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/12/1996,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/31/1997,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/08/1997,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+06/08/1997,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/12/1997,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/22/1997,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+07/07/1997,Eric And Sue Henderson,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/27/1997,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/03/1997,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/26/1998,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/01/1998,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/11/1998,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/27/1998,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/03/1998,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/08/1998,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/26/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/27/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/03/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/10/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+08/29/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/04/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/09/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/08/1999,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/26/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/02/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/08/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+08/27/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/04/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/13/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/14/2000,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/27/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/28/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/04/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/06/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+08/27/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/01/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/05/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/08/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/11/2001,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/27/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/31/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/06/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+08/31/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/07/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/11/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/07/2002,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/24/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/29/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/05/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/10/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/15/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+09/20/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+10/09/2003,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+05/29/2004,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/04/2004,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+06/10/2004,Gene Likens,Found Lake- Vilas County - Citizen Monitoring - Gene Likens
+08/29/2007,STEVEN GREB,Dissolved Organic Carbon (DOC) Assessment for Remote Sensing 2007
+08/30/2007,STEVEN GREB,Dissolved Organic Carbon (DOC) Assessment for Remote Sensing 2007
+06/22/2010,Sonya Rowe and Dan Cibulka - Onterra- LLC,TOWN OF SAINT GERMAIN: Town of Saint Germain Management Planning Project - Found Lake Phase
+07/29/2010,Todd Hanke and Sonya Rowe - Onterra- LLC,TOWN OF SAINT GERMAIN: Town of Saint Germain Management Planning Project - Found Lake Phase
+08/24/2010,Tim Hoyman - Onterra- LLC,TOWN OF SAINT GERMAIN: Town of Saint Germain Management Planning Project - Found Lake Phase
+09/04/2016,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/18/2016,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+10/02/2016,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+10/16/2016,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+11/05/2016,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+05/14/2017,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+06/17/2017,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/01/2017,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+08/19/2017,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+09/16/2017,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East
+10/01/2017,Jon Reuling,Citizen Lake Monitoring - Water Quality - Found Lake - Deep Hole-East

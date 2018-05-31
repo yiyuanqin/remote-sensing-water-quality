@@ -1,0 +1,541 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Ripley Lake,Washburn,2477300,NO,66,,663114,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190651,08/21/1995,4.5,NO,1.4,,,55,,,,,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190651,09/03/1995,4.25,NO,1.3,,,56,,,,,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190651,05/04/1996,4.5,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8190651,05/26/1996,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190651,06/29/1996,4.25,NO,1.3,,,56,,,,,,GREEN,2-Very minor aesthetic problems
+8190651,08/17/1996,5.5,NO,1.7,,,53,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190651,10/12/1996,4.5,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8190651,04/28/1997,6,NO,1.8,,,51,,,,,,BROWN,2-Very minor aesthetic problems
+8190651,05/28/2001,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19292804,07/30/2007,4.25,NO,1.3,,,56,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,08/12/2007,4.75,NO,1.4,,,55,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,09/04/2007,5.5,NO,1.7,,,53,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+19292804,09/22/2007,5.5,NO,1.7,,,53,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+19292804,05/04/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,06/01/2008,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,06/19/2008,5.25,NO,1.6,,,53,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+19292804,07/18/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,08/04/2008,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,09/16/2008,5.75,NO,1.7,,,52,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,05/11/2009,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19292804,06/11/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,07/07/2009,4.75,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,08/02/2009,2.25,NO,0.7,,,65,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+19292804,09/07/2009,3.5,NO,1.1,,,59,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,05/16/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,05/28/2010,7.25,NO,2.2,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/29/2010,6,NO,1.8,,,51,,,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,07/21/2010,2.75,NO,0.8,,,63,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,08/04/2010,1.75,NO,0.5,,,69,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+19292804,08/24/2010,1.5,NO,0.5,,,71,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+19292804,10/03/2010,2.5,NO,0.8,,,64,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,05/26/2011,4.5,NO,1.4,,,55,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,05/29/2011,,,,,,,,,,,,,
+19292804,06/19/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,07/22/2011,4.75,NO,1.4,,,55,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,08/14/2011,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,09/11/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,10/02/2011,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,10/09/2011,5.5,NO,1.7,,,53,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,05/31/2012,5.5,NO,1.7,,69,53,61,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/18/2012,,,,,,,,,,1232.90,,,
+19292804,06/24/2012,4.5,NO,1.4,,,55,,,LOW,1233.11,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,06/25/2012,,,,13.5,31,,55,54,,,,,
+19292804,07/08/2012,4,NO,1.2,,,57,,,LOW,1232.85,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,07/30/2012,3.75,NO,1.1,20.4,31,58,55,58,LOW,1232.45,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,08/20/2012,4.25,NO,1.3,,,56,,,LOW,1232.17,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,09/04/2012,4.5,NO,1.4,9.34,22,55,52,52,LOW,1231.96,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,09/25/2012,4,NO,1.2,,,57,,,LOW,1231.64,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,05/28/2013,,,,,45,,58,,,,,,
+19292804,05/29/2013,4.5,NO,1.4,,,55,,,LOW,1233.20,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/18/2013,6.75,NO,2.1,,,50,,,LOW,1233.20,MURKY,YELLOW,2-Very minor aesthetic problems
+19292804,06/29/2013,5.75,NO,1.7,,,52,,,LOW,1233.35,MURKY,YELLOW,2-Very minor aesthetic problems
+19292804,07/09/2013,,,,2.17,26.7,,54,41,,,,,
+19292804,08/11/2013,5.5,NO,1.7,,,53,,,LOW,1232.34,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,08/12/2013,,,,10.1,21.3,,52,52,,,,,
+19292804,08/28/2013,6.25,NO,1.9,,,51,,,LOW,1231.90,MURKY,YELLOW,1-Beautiful, could not be nicer
+19292804,09/03/2013,,,,10.2,28.1,,54,52,,,,,
+19292804,09/13/2013,5.5,NO,1.7,,,53,,,LOW,1231.64,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,10/10/2013,5.5,NO,1.7,,,53,,,LOW,1231.55,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,05/27/2014,,,,,39.7,,57,,,,,,
+19292804,05/28/2014,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/11/2014,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/17/2014,,,,9.74,37.4,,56,52,,,,,
+19292804,07/06/2014,4.75,NO,1.4,,,55,,,NORMAL,1234.84,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,07/21/2014,5.5,NO,1.7,11.9,24,53,53,54,NORMAL,1234.55,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,08/18/2014,5.5,NO,1.7,5.51,22.6,53,52,48,NORMAL,1234.0,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,09/17/2014,5,NO,1.5,,,54,,,NORMAL,1234.80,MURKY,YELLOW,2-Very minor aesthetic problems
+19292804,05/20/2015,5.75,NO,1.7,,38.7,52,56,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,07/07/2015,5.5,NO,1.7,10.1,32.8,53,55,52,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,08/04/2015,4.75,NO,1.4,12.6,,55,,54,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,08/31/2015,3.75,NO,1.1,19,27.5,58,54,57,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,09/27/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,05/08/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/05/2016,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,06/27/2016,,,,20.4,32.9,,55,58,,,,,
+19292804,07/22/2016,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,07/25/2016,,,,30.6,35.9,,56,61,,,,,
+19292804,08/15/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,5-Enjoyment substantially impaired (algae)
+19292804,08/22/2016,,,,24.3,23.5,,53,59,,,,,
+19292804,09/05/2016,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19292804,10/16/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19292804,05/22/2017,6.5,NO,2,,33.6,50,55,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19012516,06/20/2017,,,,15,166,,68,55,,,,,
+19292804,06/20/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,07/16/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,07/24/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+19292804,07/30/2017,,,,16.1,30.9,,55,56,,,,,
+19292804,08/29/2017,4,NO,1.2,32.8,42.5,57,57,61,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+19292804,09/21/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+19292804,10/08/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/28/2010,0,FEET,75.4,DEGREES F,,
+05/28/2010,3,FEET,75.2,DEGREES F,,
+05/28/2010,6,FEET,73.9,DEGREES F,,
+05/28/2010,9,FEET,67.4,DEGREES F,,
+05/28/2010,9.5,FEET,67.4,DEGREES F,,
+06/29/2010,0,FEET,75.5,DEGREES F,,
+06/29/2010,3,FEET,75.2,DEGREES F,,
+06/29/2010,6,FEET,74.8,DEGREES F,,
+06/29/2010,9,FEET,73.5,DEGREES F,,
+06/29/2010,9.5,FEET,72.8,DEGREES F,,
+07/21/2010,0,FEET,78.6,DEGREES F,,
+07/21/2010,3,FEET,77.7,DEGREES F,,
+07/21/2010,6,FEET,74.8,DEGREES F,,
+07/21/2010,9,FEET,74.4,DEGREES F,,
+07/21/2010,9.5,FEET,73.7,DEGREES F,,
+08/04/2010,0,FEET,81.5,DEGREES F,,
+08/04/2010,3,FEET,80.6,DEGREES F,,
+08/04/2010,6,FEET,77,DEGREES F,,
+08/04/2010,9,FEET,73.7,DEGREES F,,
+08/04/2010,9.5,FEET,72.1,DEGREES F,,
+08/24/2010,0,FEET,78,DEGREES F,,
+08/24/2010,3,FEET,77.1,DEGREES F,,
+08/24/2010,6,FEET,73.4,DEGREES F,,
+08/24/2010,9,FEET,71.4,DEGREES F,,
+10/03/2010,0,FEET,56.1,DEGREES F,,
+10/03/2010,3,FEET,55.2,DEGREES F,,
+10/03/2010,6,FEET,55,DEGREES F,,
+10/03/2010,9,FEET,55,DEGREES F,,
+10/03/2010,10,FEET,55.2,DEGREES F,,
+05/29/2011,1,FEET,66.5,DEGREES F,,
+05/29/2011,3,FEET,65.4,DEGREES F,,
+05/29/2011,6,FEET,63.6,DEGREES F,,
+05/29/2011,9,FEET,57.9,DEGREES F,,
+05/29/2011,12,FEET,55.3,DEGREES F,,
+05/29/2011,12.5,FEET,52.8,DEGREES F,,
+06/19/2011,0,FEET,72.3,DEGREES F,,
+06/19/2011,3,FEET,70.3,DEGREES F,,
+06/19/2011,6,FEET,69.3,DEGREES F,,
+06/19/2011,9,FEET,66.5,DEGREES F,,
+06/19/2011,11,FEET,63.1,DEGREES F,,
+07/22/2011,0,FEET,84.2,DEGREES F,,
+07/22/2011,3,FEET,81,DEGREES F,,
+07/22/2011,6,FEET,78.7,DEGREES F,,
+07/22/2011,9,FEET,71,DEGREES F,,
+07/22/2011,11,FEET,64.7,DEGREES F,,
+08/14/2011,0,FEET,76.8,DEGREES F,,
+08/14/2011,3,FEET,75,DEGREES F,,
+08/14/2011,6,FEET,73.7,DEGREES F,,
+08/14/2011,9,FEET,72.3,DEGREES F,,
+08/14/2011,12,FEET,67.2,DEGREES F,,
+09/11/2011,0,FEET,74.1,DEGREES F,,
+09/11/2011,3,FEET,71.9,DEGREES F,,
+09/11/2011,6,FEET,69.6,DEGREES F,,
+09/11/2011,9,FEET,68.3,DEGREES F,,
+09/11/2011,11.5,FEET,66.9,DEGREES F,,
+10/02/2011,0,FEET,58.2,DEGREES F,,
+10/02/2011,3,FEET,57.9,DEGREES F,,
+10/02/2011,6,FEET,56.3,DEGREES F,,
+10/02/2011,9,FEET,55.9,DEGREES F,,
+10/02/2011,10,FEET,56.4,DEGREES F,,
+10/09/2011,0,FEET,65.4,DEGREES F,,
+10/09/2011,3,FEET,64.4,DEGREES F,,
+10/09/2011,6,FEET,62,DEGREES F,,
+10/09/2011,9,FEET,61.1,DEGREES F,,
+10/09/2011,12,FEET,59.5,DEGREES F,,
+05/31/2012,3,FEET,65.1,DEGREES F,,
+05/31/2012,6,FEET,64.9,DEGREES F,,
+05/31/2012,9,FEET,64.2,DEGREES F,,
+05/31/2012,12,FEET,63.3,DEGREES F,,
+05/31/2012,13,FEET,63.3,DEGREES F,,
+07/08/2012,0,FEET,82.7,DEGREES F,,
+07/08/2012,3,FEET,81.1,DEGREES F,,
+07/08/2012,6,FEET,78.8,DEGREES F,,
+07/08/2012,9,FEET,68.7,DEGREES F,,
+07/08/2012,12,FEET,64.7,DEGREES F,,
+07/08/2012,12.5,FEET,64.4,DEGREES F,,
+07/30/2012,0,FEET,79.8,DEGREES F,,
+07/30/2012,3,FEET,78.9,DEGREES F,,
+07/30/2012,6,FEET,77.3,DEGREES F,,
+07/30/2012,9,FEET,71.6,DEGREES F,,
+07/30/2012,10.5,FEET,67.8,DEGREES F,,
+08/20/2012,0,FEET,70.8,DEGREES F,,
+08/20/2012,3,FEET,69.2,DEGREES F,,
+08/20/2012,6,FEET,69,DEGREES F,,
+08/20/2012,9,FEET,68.9,DEGREES F,,
+08/20/2012,10.5,FEET,68.3,DEGREES F,,
+09/04/2012,0,FEET,76.2,DEGREES F,,
+09/04/2012,3,FEET,75.7,DEGREES F,,
+09/04/2012,6,FEET,75.3,DEGREES F,,
+09/04/2012,9,FEET,71.9,DEGREES F,,
+09/04/2012,12,FEET,70.1,DEGREES F,,
+09/25/2012,0,FEET,57.7,DEGREES F,,
+09/25/2012,3,FEET,57.2,DEGREES F,,
+09/25/2012,6,FEET,56.3,DEGREES F,,
+09/25/2012,9,FEET,56.1,DEGREES F,,
+09/25/2012,11,FEET,56.6,DEGREES F,,
+05/29/2013,0,FEET,62.9,DEGREES F,,
+05/29/2013,3,FEET,60.8,DEGREES F,,
+05/29/2013,6,FEET,60.4,DEGREES F,,
+05/29/2013,9,FEET,59.1,DEGREES F,,
+05/29/2013,12.5,FEET,52.7,DEGREES F,,
+06/29/2013,0,FEET,75.3,DEGREES F,,
+06/29/2013,3,FEET,75.2,DEGREES F,,
+06/29/2013,6,FEET,73.7,DEGREES F,,
+06/29/2013,9,FEET,62.9,DEGREES F,,
+06/29/2013,12,FEET,56.6,DEGREES F,,
+06/29/2013,13.5,FEET,56.3,DEGREES F,,
+08/11/2013,0,FEET,74.6,DEGREES F,,
+08/11/2013,3,FEET,71.9,DEGREES F,,
+08/11/2013,6,FEET,71,DEGREES F,,
+08/11/2013,9,FEET,67.2,DEGREES F,,
+08/11/2013,12,FEET,63.8,DEGREES F,,
+08/11/2013,13,FEET,63.6,DEGREES F,,
+08/28/2013,0,FEET,80.7,DEGREES F,,
+08/28/2013,3,FEET,79.8,DEGREES F,,
+08/28/2013,6,FEET,75.2,DEGREES F,,
+08/28/2013,9,FEET,68.6,DEGREES F,,
+08/28/2013,10,FEET,66,DEGREES F,,
+09/13/2013,0,FEET,70.8,DEGREES F,,
+09/13/2013,3,FEET,69,DEGREES F,,
+09/13/2013,6,FEET,68.1,DEGREES F,,
+09/13/2013,9,FEET,67.8,DEGREES F,,
+09/13/2013,11,FEET,67.3,DEGREES F,,
+10/10/2013,0,FEET,59.5,DEGREES F,,
+10/10/2013,3,FEET,59.3,DEGREES F,,
+10/10/2013,6,FEET,59,DEGREES F,,
+10/10/2013,9,FEET,58.8,DEGREES F,,
+10/10/2013,10.5,FEET,58.6,DEGREES F,,
+05/28/2014,0,FEET,75.5,DEGREES F,,
+05/28/2014,3,FEET,69,DEGREES F,,
+05/28/2014,6,FEET,60,DEGREES F,,
+05/28/2014,9,FEET,55.7,DEGREES F,,
+05/28/2014,12,FEET,52.5,DEGREES F,,
+05/28/2014,14,FEET,51,DEGREES F,,
+06/11/2014,0,FEET,73.7,DEGREES F,,
+06/11/2014,3,FEET,73.4,DEGREES F,,
+06/11/2014,6,FEET,67.2,DEGREES F,,
+06/11/2014,9,FEET,58.4,DEGREES F,,
+06/11/2014,12,FEET,52.7,DEGREES F,,
+07/06/2014,0,FEET,76.4,DEGREES F,,
+07/06/2014,3,FEET,75.2,DEGREES F,,
+07/06/2014,6,FEET,73.4,DEGREES F,,
+07/06/2014,9,FEET,66.5,DEGREES F,,
+07/06/2014,12,FEET,56.1,DEGREES F,,
+07/06/2014,14,FEET,55.7,DEGREES F,,
+07/21/2014,0,FEET,79.8,DEGREES F,,
+07/21/2014,3,FEET,76.6,DEGREES F,,
+07/21/2014,6,FEET,73.2,DEGREES F,,
+07/21/2014,9,FEET,67.4,DEGREES F,,
+07/21/2014,12,FEET,57.9,DEGREES F,,
+07/21/2014,13.5,FEET,55.7,DEGREES F,,
+08/18/2014,0,FEET,72.6,DEGREES F,,
+08/18/2014,3,FEET,72.5,DEGREES F,,
+08/18/2014,6,FEET,72,DEGREES F,,
+08/18/2014,9,FEET,69.3,DEGREES F,,
+08/18/2014,12,FEET,60,DEGREES F,,
+08/18/2014,14,FEET,59,DEGREES F,,
+09/17/2014,0,FEET,61.6,DEGREES F,,
+09/17/2014,3,FEET,60.6,DEGREES F,,
+09/17/2014,6,FEET,60.1,DEGREES F,,
+09/17/2014,9,FEET,59.7,DEGREES F,,
+09/17/2014,12,FEET,59.2,DEGREES F,,
+09/17/2014,15,FEET,59.1,DEGREES F,,
+05/20/2015,0,FEET,59.5,DEGREES F,,
+05/20/2015,3,FEET,58.4,DEGREES F,,
+05/20/2015,6,FEET,58.2,DEGREES F,,
+05/20/2015,9,FEET,57.3,DEGREES F,,
+05/20/2015,12,FEET,57,DEGREES F,,
+07/07/2015,0,FEET,74.6,DEGREES F,,
+07/07/2015,3,FEET,73.7,DEGREES F,,
+07/07/2015,6,FEET,72.8,DEGREES F,,
+07/07/2015,9,FEET,69.6,DEGREES F,,
+07/07/2015,12,FEET,62.6,DEGREES F,,
+08/04/2015,0,FEET,76.2,DEGREES F,,
+08/04/2015,3,FEET,75.5,DEGREES F,,
+08/04/2015,6,FEET,74.6,DEGREES F,,
+08/04/2015,9,FEET,74.1,DEGREES F,,
+08/04/2015,12.5,FEET,57.4,DEGREES F,,
+08/31/2015,0,FEET,71.9,DEGREES F,,
+08/31/2015,3,FEET,71.6,DEGREES F,,
+08/31/2015,6,FEET,67.4,DEGREES F,,
+08/31/2015,9,FEET,64.4,DEGREES F,,
+08/31/2015,12,FEET,63.6,DEGREES F,,
+09/27/2015,0,FEET,68,DEGREES F,,
+09/27/2015,3,FEET,67.8,DEGREES F,,
+09/27/2015,6,FEET,67.6,DEGREES F,,
+09/27/2015,9,FEET,66.2,DEGREES F,,
+09/27/2015,12,FEET,65.1,DEGREES F,,
+09/27/2015,14,FEET,65.1,DEGREES F,,
+05/08/2016,0,FEET,65.6,DEGREES F,,
+05/08/2016,3,FEET,62.2,DEGREES F,,
+05/08/2016,6,FEET,58.8,DEGREES F,,
+05/08/2016,9,FEET,52.7,DEGREES F,,
+05/08/2016,12,FEET,50,DEGREES F,,
+05/08/2016,15,FEET,49.1,DEGREES F,,
+06/05/2016,0,FEET,68,DEGREES F,,
+06/05/2016,3,FEET,65.5,DEGREES F,,
+06/05/2016,6,FEET,64.9,DEGREES F,,
+06/05/2016,9,FEET,57.2,DEGREES F,,
+06/05/2016,12,FEET,52.1,DEGREES F,,
+06/05/2016,15,FEET,51.2,DEGREES F,,
+07/22/2016,0,FEET,84.2,DEGREES F,,
+07/22/2016,3,FEET,81.6,DEGREES F,,
+07/22/2016,6,FEET,77,DEGREES F,,
+07/22/2016,9,FEET,68.5,DEGREES F,,
+07/22/2016,12,FEET,59.1,DEGREES F,,
+07/22/2016,15.5,FEET,56.5,DEGREES F,,
+08/15/2016,0,FEET,79.3,DEGREES F,,
+08/15/2016,3,FEET,78.8,DEGREES F,,
+08/15/2016,6,FEET,76.4,DEGREES F,,
+08/15/2016,9,FEET,70.5,DEGREES F,,
+09/05/2016,0,FEET,72.4,DEGREES F,,
+09/05/2016,3,FEET,70.6,DEGREES F,,
+09/05/2016,6,FEET,79.2,DEGREES F,,
+09/05/2016,9,FEET,70.1,DEGREES F,,
+09/05/2016,12,FEET,63.7,DEGREES F,,
+09/05/2016,13.75,FEET,60.8,DEGREES F,,
+10/16/2016,0,FEET,55.2,DEGREES F,,
+10/16/2016,3,FEET,54.6,DEGREES F,,
+10/16/2016,6,FEET,54.3,DEGREES F,,
+10/16/2016,9,FEET,54.1,DEGREES F,,
+10/16/2016,12,FEET,53.9,DEGREES F,,
+10/16/2016,15.3,FEET,54.6,DEGREES F,,
+05/22/2017,0,FEET,56.6,DEGREES F,,
+05/22/2017,3,FEET,56.4,DEGREES F,,
+05/22/2017,6,FEET,56.1,DEGREES F,,
+05/22/2017,9,FEET,55.4,DEGREES F,,
+05/22/2017,12,FEET,53.6,DEGREES F,,
+05/22/2017,15.5,FEET,51,DEGREES F,,
+06/20/2017,0,FEET,72.1,DEGREES F,,
+06/20/2017,3,FEET,71.9,DEGREES F,,
+06/20/2017,6,FEET,70.8,DEGREES F,,
+06/20/2017,9,FEET,66,DEGREES F,,
+06/20/2017,12,FEET,57,DEGREES F,,
+06/20/2017,15.5,FEET,54.3,DEGREES F,,
+07/16/2017,0,FEET,79.2,DEGREES F,,
+07/16/2017,3,FEET,77.2,DEGREES F,,
+07/16/2017,6,FEET,73.3,DEGREES F,,
+07/16/2017,9,FEET,69.2,DEGREES F,,
+07/16/2017,12,FEET,59.7,DEGREES F,,
+07/16/2017,15,FEET,56.6,DEGREES F,,
+07/24/2017,0,FEET,78.1,DEGREES F,,
+07/24/2017,3,FEET,77.3,DEGREES F,,
+07/24/2017,6,FEET,74.8,DEGREES F,,
+07/24/2017,9,FEET,70.1,DEGREES F,,
+07/24/2017,12,FEET,60.3,DEGREES F,,
+07/24/2017,16,FEET,57.4,DEGREES F,,
+08/29/2017,0,FEET,70.1,DEGREES F,,
+08/29/2017,3,FEET,68.3,DEGREES F,,
+08/29/2017,6,FEET,66.9,DEGREES F,,
+08/29/2017,9,FEET,66.2,DEGREES F,,
+08/29/2017,12,FEET,65.4,DEGREES F,,
+08/29/2017,16,FEET,62.4,DEGREES F,,
+09/21/2017,0,FEET,66.8,DEGREES F,,
+09/21/2017,3,FEET,66.3,DEGREES F,,
+09/21/2017,6,FEET,66.2,DEGREES F,,
+09/21/2017,9,FEET,66.1,DEGREES F,,
+09/21/2017,12,FEET,65.4,DEGREES F,,
+09/21/2017,14,FEET,62.4,DEGREES F,,
+10/08/2017,0,FEET,61.5,DEGREES F,,
+10/08/2017,3,FEET,60.4,DEGREES F,,
+10/08/2017,6,FEET,59.7,DEGREES F,,
+10/08/2017,9,FEET,59.4,DEGREES F,,
+10/08/2017,12,FEET,59,DEGREES F,,
+10/08/2017,15,FEET,59.2,DEGREES F,,
+10/08/2017,16,FEET,59.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/04/1996,Ice off week ago.    
+06/29/1996,5 inches of rain three days ago.    
+08/17/1996,A lot of sheer algae.    
+07/30/2007,84 degrees- sunny- cloudless- light breeze- 2 loons on lake- no other boats on lake- purple loosestrife present in spots- no wake lake- light boat usage over weekend (28-29th). 
+08/12/2007,sunny- 1/4" rain two nights before- breezy- no boats- minimal boats over the past week- 2 loons
+09/04/2007,Sunny- 3" rain since last sampling- clear- calm- no boats- some lake use over Labor Day weekend (9/1-3/07)- 2 loons- temp over 70 degrees
+09/22/2007,Sunny- moderate wind- had 5.25" rain earlier in week (17th-19th)- 1 loon- maple leaves turning color- on other boats.
+05/04/2008,Lake extremely high level- 2-3" rain on 5/2- clear sky- slight breeze- 2 loons- wood ducks- merganzers- no other boats on lake- Brian and Laura Shover also took readings. Lake extremely high level- 2-3" rain on 5/2- clear sky- slight breeze- 2 loons- wood ducks- merganzers- no other boats on lake- Brian and Laura Shover also took readings.
+06/01/2008,'Tree" fluff in air and on lake- mostly sunny- light breeze- 2 loons (had abandoned 2 eggs on next by Lot 1 over Memorial Day weekend)- no other boats- 1 1/4" rain in guage on 5/29. 
+06/19/2008,Sunny- light breeze- 2 loons nesting on artificial platform in bay off lot 4- no other boats- no herons on the lake this spring- minimal boat traffic- 2.5 " rain since last reading- mallard and babies- fawn on shore.
+07/18/2008,Sunny- light breeze- fluffly clouds- no other boats- 2 adult/1 baby loon about two weeks old- 1"+ rain a week ago.
+08/04/2008,some sun and clouds- light breeze- 1.7" rain the day before- 1 baby loon/2 adults- no other boats. some sun and clouds- light breeze- 1.7" rain the day before- 1 baby loon/2 adults- no other boats- no algae.
+09/16/2008,Sunny- light breeze- clear sky- no boats- 1 adult and 1 baby loon- 70 degree air temperature-recent rain: .8" on 9/11 and 1.4" on 9/13.
+05/11/2009,Sunny- light breeze- few clouds- no boats- lake VERY low- male mallard- two loons
+06/11/2009,sunny- puffy clouds- 2 loons (one on nesting platform)- breezy- no boats- one owner expanding beach- 1" rain last week- extremely low water level
+07/07/2009,sunny- light clouds- no wind- calm lake- 78 degrees- 2 adult/2 baby loons- lake extremely low- no boats. sunny- light clouds- no wind- calm lake- 78 degrees- 2 adult/2 baby loons- lake extremely low- no boats- some algae masses in lake
+08/02/2009,Sunny- light clouds- 69 degrees air temp.- light breeze- lake level very low- 1" rain over past week- no loons (babies were killed)- kingfisher- no boats- one paddleboat- no algae masses- lake very brown and cloudy.
+09/07/2009,air temp. 75 degrees- sun- light breeze- 1 loon stopped by--haven't seen loons much since babies died- Labor Day- no boats- green water- no algae masses- lake continues to fall--extremely low- lowest of summer. 
+05/16/2010,73 degrees- light wind- sunny- 2 loons with 2 eggs on nest on weed bed- 2 geese with goslings-a first since we've been here (2000)- no boats- 1 1/" rain in past week plus (3" rain since snow left)
+05/28/2010,Loon on nest on exposed weed bed (due to low water)- calm. John Hering also took reading.
+06/29/2010,Moderate wind- sunny- no boats- weed bed has raised dry area due to low water- 2 loons (no babies left- 2 had hatched in June)- 68 degrees. A lot of algae masses near shores. 
+07/21/2010,Light breeze- sunny- no boats- no loons- heron- recent 3.5" rain- water from unplugged beaver dam across Frey Road flowed into lake this week- 80 degrees.
+08/04/2010,Sunny- some breeze- 82 degrees- "green" water- lake extremely low- 1" rain since last reading- no boats- no loons- one heron.
+08/24/2010,Sunny- moderate breeze- "green" water- lake extremely low but up a bit since last measurement- rain since last measurement- no boats- no loons. Ryan Lokkesmoe also collected data.
+10/03/2010,Sunny- 55 degrees- calm- water level up 9 1/2" as measured at dock from 2 3-inch rains recently- no boats- no algae- no wildlife
+05/26/2011,loon on lake- loon on nesting platform- breezy- 60 degrees- sunny- no clouds- no boats- 1 1/2"+ recent rains- big snow melt this spring- lake up about 2".
+05/29/2011,overcast- rather calm- 65 degrees.
+06/19/2011,overcast and some sun- two baby loons-first day- just born--with two adult loons- no boats- 2 1/2' rain in last several days. no wind
+07/22/2011,clouds and sun- 1 loon- light wind- hot/humid week- 1" rain earlier in week.
+08/14/2011,Duane Pauling helped collect data with Dick Shover. Sunny- clear sky- mid-70s- calm- two loons- one pontoon fishing- 5" rain about a week ago- blue/green algae blobs.
+09/11/2011,Sunny- clear sky- light breeze- no boats- no rain for a while- no loon- 1 heron
+10/02/2011,Sunny- almost calm- 1 pontoon fishing- trees starting to change- no loon- 1/2 inch rain last week- 2 eagles and lots of gulls soaring overhead- fresh cut branches at beaver lodge.
+10/09/2011,Sunny- light breeze- no boats- no rain for a long time- no loons.
+05/31/2012,Light breeze- 55 degrees- some clouds/mostly sun- 2 loons- no boats- last week had 3.6" rain- did first phosphorous test.
+06/18/2012,Dave Vold- City of Shell Lake- set us up to do lake level monitoring.
+Calm- 3 loons- clear sky
+06/24/2012,Light breeze- sun and clouds- 1 loon- green frogs- no boats- 2.2" rain in past week.
+07/08/2012,with Jim and Joann Green. moderate breeze- sun and clouds- 1/2" rain two days prior- very hot week prior- no boats- no loons. 
+07/30/2012,Moderate breeze- sun and cloiuds- 1/2" rain two days ago- no boats- no loons- last week was very hot.
+08/20/2012,Sunny- light breeze- heard loon this morning.
+09/04/2012,Sunny- light wind- no loon- .6" rain on 9/3/12- no boats- hot few days prior- first color on maples
+09/25/2012,Sunny- breezy- no boats- maples turning- no loon.
+05/29/2013,moderate breeze- sunny- temp in mid 60s- clear sky- no boats
+06/18/2013,sunny- calm- pollen on lake- filatamentous algae bloom along shore- 1 loon
+06/29/2013,Sunny and cloudy- light to moderate breeze- heron- 1 loon- green alage bloom along shore- 70 degrees+- not a perfect day for secchi reading. Sunny and cloudy- light to moderate breeze- heron- 1 loon- green algae bloom along shore- 70 degrees+- not a perfect day for secchi reading.
+08/11/2013,clouds and sun- very light breeze- no boats .9" rain 4 days ago- 70s degrees
+08/28/2013,Sunny with puffy clouds- light breeze- 79 degrees- hot temps over past week- osprey- no loons- beaver cuttings
+09/13/2013,Sunny with puffy clouds- calm- 62 degrees- no measurable rain since last reading- no loons
+05/28/2014,No wind- sunny- nesting loons- osprey- recent rain .6"' cotton from poplars on water
+06/11/2014,one pair nesting loons- sunny- slight breeze- no boats- 70 degrees- beaver cuttings (alders).
+07/06/2014,With Rachel. Sun and clouds- light breeze- 1 loon.
+07/21/2014,Sunny- moderate breeze- no recent rain- no boats- low 80 degrees- osprey- 
+08/18/2014,A bit overcast- calm- no boats- 2 loons- 1/4" rain in night
+09/17/2014,Sunny- calm- no boats- no loon- tiny particulate matter in the water- kingfisher
+05/20/2015,Moderate breeze- sun and clouds- 1 3/4" rain in last week- 2 loons- no boats- 31 degrees temp in a.m.- dog swam out to us!
+07/07/2015,2 3/4" rain the night before- sunny with few puffy clouds- light breeze- no boats- 66 degrees
+08/04/2015,breezy- sunny with puffy clouds- no loons- no boats
+08/31/2015,Not the best day for a secchi reading- but we were getting water for chemical testing. Moderate breeze- hazy clouds and bits of sun- no boats- one loon- high 70s
+09/27/2015,No loon- breezy- sunny- no boats
+05/08/2016,clear- sunny- light breeze- temps in 60s- painted turtles- osprey- 2 loons (put out loon raft and within an hour one was on the raft and another close by)- dragonflies- 2 unknown ducks- water level at normal high
+06/05/2016,Other monitors: Brian- Christine- Nicole and Brandon. Clear- very light breeze- 1 loon on lake/1 loon on nesting platform- 1 other pontoon
+07/22/2016,Sunny- clear- no breeze- hot and humid for last 3 days- 2 loons- 2 osprey on nest- no boats- 3.5" rain on July 13
+08/15/2016,Sun and clouds- calm- 1 loon- no boats- "brown/greenish" lake- lots of floating algae blobs. Battery died after measuring temp at 9'.
+09/05/2016,Brown lake- sun and clouds- no loons or osprey (saw two later in the day)- 3/4" rain last night- 70s temp- light breeze- Labor Day- no boats
+10/16/2016,Sunny- very calm- oaks in full color
+05/22/2017,cloudy but bright- light breeze- temps in the 40s- 2 loons/one on nesting platform- 1 osprey- 1 merganser- no boats. 4.25" rain in last 5 days.
+06/20/2017,Sun and clouds- moderate breeze- two adult loons and two chicks (two weeks old today)- one osprey- 67 degrees.
+07/16/2017,Sunny- moderate breeze- two loons with one chick- kingfisher- one pontoon fishing
+07/24/2017,Sunny- mostly calm- 2 loons and one chick- some blue-green algae globs- 2 eagles overhead
+08/29/2017,Sunny- clear day; no breeze- calm lake; one loon chick- adults have left
+09/21/2017,Light breeze- full sun- no loons (last sighting 9417)-  no algae
+10/08/2017,Light breeze- sunny with small patchy clouds.
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/1995,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/03/1995,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/04/1996,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/26/1996,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/29/1996,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/17/1996,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/12/1996,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+04/28/1997,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/28/2001,Robert Schaper,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/30/2007,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/12/2007,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/04/2007,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/22/2007,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/04/2008,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/01/2008,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/19/2008,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/18/2008,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/04/2008,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/16/2008,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/11/2009,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/11/2009,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/07/2009,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/02/2009,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/07/2009,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/16/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/28/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/29/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/21/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/04/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/24/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/03/2010,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/26/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/29/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/19/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/22/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/14/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/11/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/02/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/09/2011,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/31/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/18/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/24/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/25/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/08/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/30/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/20/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/04/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/25/2012,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/28/2013,Charlotte and Dick Shover,
+05/29/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/18/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/29/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/09/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/11/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/12/2013,Charlotte and Dick Shover,
+08/28/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/03/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/13/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/10/2013,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/27/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/28/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/11/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/17/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/17/2014,Charlotte and Dick Shover,Citizen Lake Monitoring Network QA/QC - 2014
+07/06/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/21/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/18/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/17/2014,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/20/2015,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/07/2015,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/04/2015,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/31/2015,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/27/2015,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/08/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/05/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/27/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/22/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/25/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/15/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/22/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/05/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/16/2016,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+05/22/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/20/2017,Charlotte Shover- Dick Shover- Dave Bloomer (WI DNR),Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+06/20/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/16/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/24/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+07/30/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+08/29/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+09/21/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole
+10/08/2017,Charlotte and Dick Shover,Citizen Lake Monitoring - Water Quality - Little Ripley Lake; Deep Hole

@@ -1,0 +1,93 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Sauk,1246800,SC,57,,10021272,NW,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000028,08/21/2008,,,,2.86,35,,56,43,,,,,
+35511521,05/19/2013,,,,,44.2,,57,,,,,,
+35511521,07/29/2013,,,,,1340,,84,,,,,,
+10588989,07/16/2014,8.2,N,2.5,55.8,70.7,47,61,65,,1.4,CLEAR,,4-Would not swim but boating OK (algae)
+35511521,08/25/2014,,,,,88.1,,63,,,,,,
+10588989,09/03/2014,5.9,N,1.8,,19.1,52,51,,NORMAL,1.8,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+10588989,09/11/2014,4.6,NO,1.4,,125,55,66,,,1.29,,,
+35511521,09/30/2014,,,,,25.5,,53,,,,,,
+1,06/09/2015,,,,,300,,72,,,,,,
+10588989,07/09/2015,8.2,Y,2.5,4.13,26.3,47,53,46,,1.39,,,
+1,07/29/2015,,,,,46.9,,58,,,,,,
+10588989,08/10/2015,3.9,N,1.2,45,1090,57,82,64,,1.07,CLEAR,,5-Enjoyment substantially impaired (algae)
+7000028,09/09/2015,4.9,NO,1.5,,101,54,64,,,1.16,,,
+10588989,09/09/2015,4.9,NO,1.5,5.35,50.3,54,58,47,,,,,
+35511521,06/29/2016,,,,,31.4,,55,,,,,,
+35511521,08/29/2016,,,,,103,,64,,,,,,
+143167470,06/06/2017,,,,,282,,72,,,,,,
+143167470,08/17/2017,,,,,114,,65,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/16/2014,0.5,METERS,15.6,DEGREES C,9.5,MG/L
+07/16/2014,1,METERS,12.5,DEGREES C,5.4,MG/L
+07/16/2014,1.5,METERS,11.3,DEGREES C,2.4,MG/L
+07/16/2014,2,METERS,11.1,DEGREES C,.4,MG/L
+07/16/2014,2.3,METERS,11,DEGREES C,.2,MG/L
+07/16/2014,,,19.4,C,13.3,MG/L
+09/03/2014,0.5,METERS,14,DEGREES C,5.5,MG/L
+09/03/2014,1,METERS,11.5,DEGREES C,.4,MG/L
+09/03/2014,1.5,METERS,11,DEGREES C,.2,MG/L
+09/03/2014,2,METERS,11.1,DEGREES C,1,MG/L
+09/03/2014,,,14,C,5.5,MG/L
+09/11/2014,0.5,FEET,14.6,DEGREES F,3.6,MG/L
+09/11/2014,1,FEET,13.4,DEGREES F,.9,MG/L
+09/11/2014,1.5,FEET,11.4,DEGREES F,.2,MG/L
+09/11/2014,2,FEET,12.3,DEGREES F,.2,MG/L
+09/11/2014,2.5,FEET,10.7,DEGREES F,.8,MG/L
+09/11/2014,,,14.6,C,3.6,MG/L
+07/09/2015,1,METERS,12.5,DEGREES C,9.6,MG/L
+07/09/2015,1.5,METERS,11.6,DEGREES C,5.9,MG/L
+07/09/2015,2,METERS,11.4,DEGREES C,4.3,MG/L
+07/09/2015,2.3,METERS,11.2,DEGREES C,3.1,MG/L
+07/09/2015,,,14.3,C,8.7,MG/L
+08/10/2015,0.5,METERS,19.7,DEGREES C,6.3,MG/L
+08/10/2015,1,METERS,14.5,DEGREES C,.4,MG/L
+08/10/2015,1.5,METERS,12.6,DEGREES C,.1,MG/L
+08/10/2015,2,METERS,11.1,DEGREES C,0,MG/L
+08/10/2015,,,19.7,C,6.3,MG/L
+09/09/2015,0.5,METERS,15.7,DEGREES C,1.8,MG/L
+09/09/2015,1,METERS,13.9,DEGREES C,.3,MG/L
+09/09/2015,1.5,METERS,13,DEGREES C,.2,MG/L
+09/09/2015,2,METERS,11.2,DEGREES C,0,MG/L
+09/09/2015,,,19.2,C,3.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/11/2014,Minor Flood Event sample
+09/09/2015,Hot- sunny- calm
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/2008,DAVID MARSHALL,SAUK COUNTY LAND CONSERVATION DEPARTMENT: Survey of Lower WI Riverway Floodplain Lakes
+05/19/2013,Dave Marshall,RIVER ALLIANCE OF WISCONSIN: Study of LWR Floodplain Lakes Sauk Co
+07/29/2013,Dave Marshall,RIVER ALLIANCE OF WISCONSIN: Study of LWR Floodplain Lakes Sauk Co
+07/16/2014,JEAN UNMUTH,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+08/25/2014,Dave Marshall,RIVER ALLIANCE OF WISCONSIN: Part 2A Diagnostic + Feasibility Study of Norton + Jones Sloughs
+09/03/2014,JEAN UNMUTH,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+09/11/2014,JEAN UNMUTH,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+09/30/2014,Dave Marshall,RIVER ALLIANCE OF WISCONSIN: Part 2A Diagnostic + Feasibility Study of Norton + Jones Sloughs
+06/09/2015,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Part 2A Diagnostic + Feasibility Study of Norton + Jones Sloughs
+07/09/2015,JEAN UNMUTH,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+07/29/2015,Data Collectors,RIVER ALLIANCE OF WISCONSIN: Part 2A Diagnostic + Feasibility Study of Norton + Jones Sloughs
+08/10/2015,JEAN UNMUTH,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+09/09/2015,DAVID MARSHALL,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+09/09/2015,DAVID MARSHALL,RIVER ALLIANCE OF WISCONSIN: Part 2A Diagnostic + Feasibility Study of Norton + Jones Sloughs
+09/09/2015,JEAN UNMUTH,LWR Floodplain Lakes 303d evaluation - SCR_11_CMP15
+06/29/2016,Dave Marshall,FRIENDS OF THE LOWER WI RIVERWAY (FLOW): Evaluation of Norton Slough Buffers
+08/29/2016,Dave Marshall,FRIENDS OF THE LOWER WI RIVERWAY (FLOW): Evaluation of Norton Slough Buffers
+06/06/2017,ZANA SIJAN,FRIENDS OF THE LOWER WI RIVERWAY (FLOW): Evaluation of Norton Slough Buffers
+08/17/2017,ZANA SIJAN,FRIENDS OF THE LOWER WI RIVERWAY (FLOW): Evaluation of Norton Slough Buffers

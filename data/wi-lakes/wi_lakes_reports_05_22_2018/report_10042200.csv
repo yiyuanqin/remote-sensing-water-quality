@@ -1,0 +1,64 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Menominee,340100,NE,40,,10042200,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+101099296,05/30/2014,8.5,,2.6,,,46,,,,,,,
+101099296,06/01/2014,7,,2.1,,,49,,,,,,,
+101099296,06/03/2014,7,,2.1,,,49,,,,,,,
+101099296,06/05/2014,7.5,,2.3,,,48,,,,,,,
+101099296,06/12/2014,6,,1.8,,,51,,,,,,,
+101099296,06/19/2014,7,,2.1,,,49,,,,,,,
+101099296,06/26/2014,7.5,,2.3,,,48,,,,,,,
+1,05/25/2017,,,,,,,,,,,,,
+1,05/27/2017,,,,,,,,,,,,,
+1,05/29/2017,,,,,,,,,,,,,
+1,05/31/2017,,,,,,,,,,,,,
+1,06/07/2017,,,,,,,,,,,,,
+1,06/14/2017,,,,,,,,,,,,,
+1,06/21/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/30/2014,,,23.5,C,,
+06/01/2014,,,23.2,C,,
+06/03/2014,,,22.9,C,,
+06/05/2014,,,22.5,C,,
+06/12/2014,,,22.2,C,,
+06/19/2014,,,22.3,C,,
+06/26/2014,,,23.6,C,,
+05/25/2017,,,15,C,,
+05/27/2017,,,17.8,C,,
+05/29/2017,,,18.3,C,,
+05/31/2017,,,18.3,C,,
+06/07/2017,,,21.7,C,,
+06/14/2017,,,23.9,C,,
+06/21/2017,,,21.7,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/30/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+06/01/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+06/03/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+06/05/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+06/12/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+06/19/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+06/26/2014,Arland Dillenburg,Herbicide Concentration Monitoring
+05/25/2017,Data Collectors,Herbicide Concentration Monitoring
+05/27/2017,Data Collectors,Herbicide Concentration Monitoring
+05/29/2017,Data Collectors,Herbicide Concentration Monitoring
+05/31/2017,Data Collectors,Herbicide Concentration Monitoring
+06/07/2017,Data Collectors,Herbicide Concentration Monitoring
+06/14/2017,Data Collectors,Herbicide Concentration Monitoring
+06/21/2017,Data Collectors,Herbicide Concentration Monitoring

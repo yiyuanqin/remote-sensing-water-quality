@@ -1,0 +1,87 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Iola Lake,Waupaca,278800,NE,69,,693107,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/17/1992,,,,1.72,8,,44,39,,,,,
+1,02/01/1993,,,,,4,,39,,,,,,
+1,08/18/1993,,,,1.56,12,,47,38,,,,,
+1,10/05/1993,,,,1.09,9,,45,35,,,,,
+1,01/27/1994,,,,,9,,45,,,,,,
+1,05/26/1994,,,,4.8,18,,51,47,,,,,
+1,09/08/1994,,,,1.69,14,,49,39,,,,,
+8188638,04/23/2003,,,,,30,,54,,,,,,
+1,07/17/2003,8,YES,2.4,2.66,19,47,51,42,,,,,
+1,08/27/2003,8.2,YES,2.5,18.6,26,47,53,57,,,,,
+16073539,02/15/2006,7.5,YES,2.3,,12,47,47,,,,,,
+16073539,04/19/2006,8,YES,2.4,4.66,22,46,52,46,,,,,
+10588956,06/04/2006,,,,3.12,34,,55,43,,,,,
+7000091,07/17/2006,,,,2.23,35,,56,41,,,,,
+10588956,08/17/2006,,,,6.21,20,,51,49,,,,,
+7000091,10/24/2006,7.8,YES,2.4,1.19,11,48,47,36,,,,,
+1,04/10/2017,6.5,Y,2,5.33,27.6,50,54,47,,,,,
+1,06/13/2017,,,,11.2,106,,64,53,,,,,
+1,07/24/2017,5.4,N,1.6,67.7,187,53,69,67,,,,,
+1,08/24/2017,7.2,N,2.2,1.9,17.2,49,50,40,,,,,
+1,10/19/2017,4.5,Y,1.4,1.59,14.6,55,49,38,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/17/1992,,,18.89,C,7.02,MG/L
+02/01/1993,,,0.68,C,7.65,MG/L
+08/18/1993,,,21.80,C,4.34,MG/L
+10/05/1993,,,9.54,C,11.3,MG/L
+01/27/1994,,,0.45,C,8.86,MG/L
+05/26/1994,,,16.42,C,9.40,MG/L
+09/08/1994,,,17.98,C,10.8,MG/L
+02/15/2006,,,0.59,C,10.3,MG/L
+04/19/2006,,,14.3,C,10.3,MG/L
+10/24/2006,,,4.9,C,11.7,MG/L
+04/10/2017,,,13.0,C,10.8,MG/L
+07/24/2017,,,24.3,C,6.1,MG/L
+08/24/2017,,,19.5,C,4.3,MG/L
+10/19/2017,,,13.1,C,,
+
+
+
+Start Date,Fieldwork Comment
+04/23/2003,DEEP HOLE - INTEGRATED SAMPLE 0-2M    
+07/17/2003,DEEP HOLE - VAN DORN    
+08/27/2003,DEEP SPOT - INTEGRATED SAMPLE 0-2M    
+02/15/2006,NEAR BOTTOM - 3 LITER VAN DORN    
+04/19/2006,NEAR SURFACE - 3 LITER VAN DORN    
+06/04/2006,3 LITER VAN DORN    
+07/17/2006,DEEP HOLE- NEAR SURFACE - 3L VAN DORN    
+08/17/2006,NEAR BOTTOM - 3 LITER VAN DORN    
+10/24/2006,NEAR SURFACE- 3L VAN DORN SAMPLE    
+
+
+
+
+Start Date,Group Name,Project Name
+09/17/1992,Data Collectors,LAKE MGT PROJECTS
+02/01/1993,Data Collectors,LAKE MGT PROJECTS
+08/18/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/05/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/27/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/26/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+09/08/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+04/23/2003,Crystal Olson,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/2003,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/2003,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/15/2006,Tim Hoyman - Onterra- LLC,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Comprehensive Lake Management Plan Phase 1
+04/19/2006,Tim Hoyman - Onterra- LLC,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Comprehensive Lake Management Plan Phase 1
+06/04/2006,CAROL HOLDEN,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Comprehensive Lake Management Plan Phase 1
+07/17/2006,Mark Sesing,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Comprehensive Lake Management Plan Phase 1
+08/17/2006,CAROL HOLDEN,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Comprehensive Lake Management Plan Phase 1
+10/24/2006,Mark Sesing,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Comprehensive Lake Management Plan Phase 1
+04/10/2017,Data Collectors,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Management Plan Update
+06/13/2017,Data Collectors,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Management Plan Update
+07/24/2017,Data Collectors,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Management Plan Update
+08/24/2017,Data Collectors,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Management Plan Update
+10/19/2017,Data Collectors,LAKE IOLA MANAGEMENT DISTRICT: Lake Iola Management Plan Update

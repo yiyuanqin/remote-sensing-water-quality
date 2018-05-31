@@ -1,0 +1,134 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Manitowoc,63700,NE,36,,363038,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/14/1996,,,,2.88,9,,45,43,,,,,
+1,05/06/1996,9.2,,2.8,8.09,20,45,51,51,,,,,
+1,06/19/1996,12,,3.6,3.37,15,41,49,44,,,,,
+1,07/11/1996,5.6,,1.7,7.15,14,52,49,50,,,,,
+1,08/26/1996,9.5,,2.9,4.29,12,45,47,46,,,,,
+8188925,05/23/2012,8.9,NO,2.7,,,46,,,NORMAL,,CLEAR,YELLOW,
+8188925,07/11/2012,19,NO,5.8,,,35,,,NORMAL,,CLEAR,YELLOW,
+1,07/22/2012,,,,2.64,16,,50,42,,,,,
+8188925,08/16/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,08/19/2012,,,,5.37,23,,52,48,,,,,
+8188925,09/12/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+1,09/15/2012,,,,2.78,34,,55,43,,,,,
+8188925,04/29/2013,,,,,20.5,,52,,,,,,
+8188925,07/19/2013,10.8,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188925,07/23/2013,,,,3.6,11.3,,47,44,,,,,
+8188925,08/19/2013,,,,1.91,13.5,,48,40,,,,,
+8188925,09/12/2013,11,NO,3.3,2.95,10.4,43,46,43,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188925,04/22/2014,,,,,16,,50,,,,,,
+8188925,08/25/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34982050,04/02/2015,13,,4,,18.5,40,51,,,,,,
+34982050,07/28/2015,,,,,14,,49,,,,,,
+34982050,07/29/2015,11,,3.3,,,43,,,,,,,
+8188925,03/20/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188925,03/28/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,04/12/2016,13,NO,4,,,40,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+101116818,04/16/2016,11.5,NO,3.5,,,42,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+101116818,05/03/2016,10,NO,3,,,44,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+101116818,05/20/2016,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,05/30/2016,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,06/04/2016,15,NO,4.6,,,38,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+101116818,06/19/2016,16,NO,4.9,,,37,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+1,06/30/2016,,,,,22,,52,,,,,,
+125862804,06/30/2016,11,NO,3.3,,,43,,,,,,,
+101116818,07/04/2016,12,NO,3.6,,,41,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+101116818,07/19/2016,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,07/27/2016,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,08/02/2016,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,08/07/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,08/09/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,09/01/2016,,,,,30.8,,55,,,,,,
+34982050,09/01/2016,11,NO,3.3,,,43,,,,,,,
+101116818,09/20/2016,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+101116818,04/12/2017,13,NO,4,,,40,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+101116818,04/24/2017,11,NO,3.3,,,43,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+101116818,06/01/2017,10.5,NO,3.2,,,43,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+101116818,09/30/2017,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/14/1996,,,2.25,C,1.97,MG/L
+05/06/1996,,,9.8,C,13.07,MG/L
+06/19/1996,,,13.0,C,11.90,MG/L
+07/11/1996,,,20.0,C,1.4,MG/L
+08/26/1996,,,13.62,C,10.28,MG/L
+04/02/2015,0,FEET,47,DEGREES F,,
+07/29/2015,2,FEET,79,DEGREES F,,
+07/29/2015,10,FEET,73,DEGREES F,,
+07/29/2015,20,FEET,50,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+03/14/1996,NPS APPRAISAL PIGEON RIVER NPS LAKES    
+05/23/2012,a little windy- but sunny
+07/11/2012,sunny- no wind
+08/16/2012,sunny-light wind- Gene Meyer with me. Took water sample.
+09/12/2012,calm day. 2 boy's fishing from dock. Afew duck's also on lake.
+07/19/2013,sunny-light wind. kid's sming from their own dock west side of lake.
+08/25/2014, Light chop on the lake. A man and his 2 kid's(boy and girl) just came off from fishing. Caught a bunch of small panfish. Not much going on at the lake. I went around the lake and only seen small panfish. Nothing feeding on the surface. Real nice day to be on the water..
+04/02/2015,Bottom Temp 43F.
+04/12/2017,Ice out on March 29
+06/01/2017,pollen on water surface. Sunny day.
+
+
+
+
+Start Date,Group Name,Project Name
+03/14/1996,Data Collectors,NONPOINT SOURCE
+05/06/1996,Data Collectors,NONPOINT SOURCE
+06/19/1996,Data Collectors,NONPOINT SOURCE
+07/11/1996,Data Collectors,NONPOINT SOURCE
+08/26/1996,Data Collectors,NONPOINT SOURCE
+05/23/2012,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+07/11/2012,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+07/22/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/16/2012,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+08/19/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/12/2012,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+09/15/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+04/29/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+07/19/2013,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+07/23/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+08/19/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+09/12/2013,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+09/12/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/22/2014,Austin Leach,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/25/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+04/02/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/28/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+07/29/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+03/20/2016,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+03/28/2016,Austin Leach,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+04/12/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+04/16/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+05/03/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+05/20/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+05/30/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+06/04/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+06/19/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+06/30/2016,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/30/2016,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/04/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+07/19/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+07/27/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+08/02/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+08/07/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+08/09/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+09/01/2016,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/01/2016,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/20/2016,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+04/12/2017,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+04/24/2017,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+06/01/2017,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot
+09/30/2017,Bill Braam,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Spot

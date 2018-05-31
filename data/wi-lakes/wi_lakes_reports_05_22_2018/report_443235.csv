@@ -1,0 +1,39 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Baker Lake,Oneida,1546000,NO,44,,443235,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1979,,,,,,,,,,,,,
+1,07/17/1985,,,,,20,,51,,,,,,
+145711549,06/21/2017,6,NO,1.8,,,51,,,,,MURKY,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/1979,,,25,C,,
+07/17/1985,,,22,C,9.8,MG/L
+06/21/2017,2,FEET,74.2,DEGREES F,8.36,MG/L
+06/21/2017,4,FEET,71.2,DEGREES F,8.21,MG/L
+06/21/2017,6,FEET,70.4,DEGREES F,7.57,MG/L
+06/21/2017,8,FEET,68.2,DEGREES F,7.65,MG/L
+06/21/2017,10,FEET,63.5,DEGREES F,8.75,MG/L
+06/21/2017,12,FEET,56.9,DEGREES F,5.28,MG/L
+06/21/2017,14,FEET,52.4,DEGREES F,.14,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/17/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1979,Data Collectors,Migrated from STORET Legacy
+07/17/1985,Data Collectors,Migrated from STORET Legacy
+06/21/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

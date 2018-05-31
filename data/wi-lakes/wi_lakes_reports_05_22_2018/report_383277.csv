@@ -1,0 +1,109 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Glen Lake,Marinette,627200,NE,38,,383277,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188783,06/22/1999,,,,,11,,47,,,,,,
+8188783,07/18/2000,10.4,,3.18,,11,43,47,,,,,,
+8188926,06/22/2003,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,08/16/2003,11.75,NO,3.6,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,07/18/2004,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188926,08/18/2004,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,06/18/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,07/08/2005,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,08/20/2005,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,08/15/2006,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,08/15/2007,11.5,NO,3.5,,,42,,,NORMAL,22,CLEAR,GREEN,2-Very minor aesthetic problems
+8188630,08/29/2007,8.5,NO,2.6,2.28,13,46,48,41,,,,,
+8188926,09/03/2007,9.5,NO,2.9,,,45,,,HIGH,20,CLEAR,BROWN,2-Very minor aesthetic problems
+8188926,06/10/2008,8.5,NO,2.6,,,46,,,HIGH,20,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188926,07/07/2008,12,NO,3.6,,,41,,,HIGH,20,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,08/12/2008,11.5,NO,3.5,,,42,,,,20,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,08/13/2008,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188926,07/30/2010,9.5,NO,2.9,,,45,,,LOW,20.0,MURKY,BROWN,2-Very minor aesthetic problems
+8188926,08/13/2010,9.5,NO,2.9,,,45,,,LOW,20.0,MURKY,BROWN,2-Very minor aesthetic problems
+8188926,05/05/2015,12,NO,3.6,,,41,,,NORMAL,22,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188783,06/16/2015,11,N,3.3,,18.9,43,51,,,,,,
+8188783,07/21/2015,12.5,N,3.8,1.59,20.6,41,52,38,,,,,
+8188783,08/31/2015,14,NO,4.3,1.6,15.5,39,49,38,,,,,
+8188783,09/23/2015,12,NO,3.6,2.79,15.9,41,50,43,,,,,
+8188783,02/23/2016,,,,,21.1,,52,,,,,,
+8188783,04/19/2016,,,,2.14,13.6,,48,41,,,,,
+8188783,06/14/2016,15,N,4.6,1.94,24.2,38,53,40,,,,,
+8188783,07/21/2016,,NO,,1.11,15.3,,49,36,,,,,
+8188783,09/19/2016,13,N,4,1.51,15.4,40,49,38,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/22/1999,,,14.82,C,5.72,MG/L
+07/18/2000,,,18.33,C,3.21,MG/L
+07/18/2004,2,FEET,70,DEGREES F,,
+08/29/2007,0.5,METERS,22.6,DEGREES C,8.8,MG/L
+08/29/2007,1,METERS,22.6,DEGREES C,8.6,MG/L
+08/29/2007,2,METERS,22.6,DEGREES C,8.7,MG/L
+08/29/2007,3,METERS,19.3,DEGREES C,8,MG/L
+08/29/2007,4,METERS,17.9,DEGREES C,1.2,MG/L
+08/29/2007,5,METERS,17,DEGREES C,0.3,MG/L
+06/16/2015,,,20.0,C,7.6,MG/L
+07/21/2015,,,24.6,C,8.1,MG/L
+08/31/2015,,,15.5,C,2.4,MG/L
+09/23/2015,,,15.8,C,2.5,MG/L
+02/23/2016,,,4.3,C,0.8,MG/L
+04/19/2016,,,13.2,C,10.7,MG/L
+06/14/2016,,,21.5,C,7.9,MG/L
+07/21/2016,,,25.7,C,8.5,MG/L
+09/19/2016,,,20.1,C,8.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/22/2003,Clear and Sunny- Mild Breeze- Riffle
+    
+08/16/2003,Clear-Sunny- Riffle and Calm    
+06/18/2005,Breezy- Small waves- Cloudy    
+07/08/2005,Calm- Sunny  and 80 degrees    
+08/20/2005,Partly Sunny- Calm and 70 degrees    
+08/15/2006,Sunny - Clear- Slight riffel- and Slight Breeze
+08/12/2008,Sunny - light breeze
+08/13/2008,Partly sunny- breezy
+07/30/2010,Partly Cloudy- Slight Riffle
+08/13/2010,Sunny and calm
+
+
+
+
+Start Date,Group Name,Project Name
+06/22/1999,Charles Druckrey,LAKE PROTECTION GRANTS
+07/18/2000,Charles Druckrey,LAKE PROTECTION GRANTS
+06/22/2003,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/16/2003,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+07/18/2004,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/18/2004,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+06/18/2005,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+07/08/2005,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/20/2005,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/15/2006,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/15/2007,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/29/2007,USGS,National Lake Survey - Index Sampling
+09/03/2007,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+06/10/2008,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+07/07/2008,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/12/2008,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/13/2008,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+07/30/2010,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+08/13/2010,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+05/05/2015,Steven Wineland,Citizen Lake Monitoring - Water Quality - Glen Lake; Deep Hole
+06/16/2015,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+07/21/2015,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+08/31/2015,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+09/23/2015,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+02/23/2016,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+04/19/2016,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+06/14/2016,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+07/21/2016,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan
+09/19/2016,Charles Druckrey,GLEN LAKE ASSOCIATION: Glen Lake Management Plan

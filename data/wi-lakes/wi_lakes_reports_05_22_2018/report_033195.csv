@@ -1,0 +1,151 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Upper Vermillion Lake,Barron,2098800,NO,3,,033195,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189502,06/13/2002,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189502,06/22/2002,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189502,06/25/2002,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189502,07/01/2002,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189189,07/07/2002,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189189,07/24/2002,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189189,07/31/2002,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189189,08/10/2002,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189189,08/19/2002,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189189,09/10/2002,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189189,09/24/2002,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189028,10/18/2002,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189028,05/03/2003,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189028,05/16/2003,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189028,05/29/2003,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189028,06/02/2003,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189028,06/17/2003,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189028,07/07/2003,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+130833362,04/17/2016,3,NO,0.9,,66.6,61,61,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+130833362,05/17/2016,3.25,NO,1,,102,60,64,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+130833362,06/21/2016,2.5,NO,0.8,40.8,123,64,65,63,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+130833362,07/24/2016,3.5,NO,1.1,43.3,115,59,65,63,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+130833362,08/16/2016,3,NO,0.9,40.1,78.7,61,62,63,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+130833362,09/19/2016,2.5,NO,0.8,37.2,80.1,64,62,62,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+130833362,10/23/2016,2.5,NO,0.8,17,89.9,64,63,56,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/01/2002,3,FEET,80,DEGREES F,8,MG/L
+07/01/2002,9,FEET,80,DEGREES F,8,MG/L
+07/31/2002,3,FEET,76,DEGREES F,13,MG/L
+07/31/2002,9,FEET,74,DEGREES F,3,MG/L
+09/24/2002,3,FEET,56,DEGREES F,11,MG/L
+10/18/2002,3,FEET,43,DEGREES F,10,MG/L
+10/18/2002,8,FEET,43,DEGREES F,10,MG/L
+07/07/2003,2,FEET,77,DEGREES F,8.5,MG/L
+07/07/2003,9,FEET,74,DEGREES F,3.1,MG/L
+05/17/2016,1,FEET,60.2,DEGREES F,,
+05/17/2016,2,FEET,60,DEGREES F,,
+05/17/2016,3,FEET,59.7,DEGREES F,,
+05/17/2016,4,FEET,59.3,DEGREES F,,
+05/17/2016,5,FEET,59,DEGREES F,,
+05/17/2016,6,FEET,58.1,DEGREES F,,
+05/17/2016,7,FEET,56.4,DEGREES F,,
+05/17/2016,8,FEET,55.2,DEGREES F,,
+07/24/2016,1,FEET,81.3,DEGREES F,,
+07/24/2016,2,FEET,81.1,DEGREES F,,
+07/24/2016,3,FEET,80.9,DEGREES F,,
+07/24/2016,4,FEET,80.9,DEGREES F,,
+07/24/2016,5,FEET,79.1,DEGREES F,,
+07/24/2016,6,FEET,77,DEGREES F,,
+07/24/2016,7,FEET,75.9,DEGREES F,,
+07/24/2016,8,FEET,73.5,DEGREES F,,
+08/16/2016,1,FEET,81.3,DEGREES F,,
+08/16/2016,2,FEET,81.1,DEGREES F,,
+08/16/2016,3,FEET,77,DEGREES F,,
+08/16/2016,4,FEET,76.2,DEGREES F,,
+08/16/2016,5,FEET,75,DEGREES F,,
+08/16/2016,6,FEET,74.1,DEGREES F,,
+08/16/2016,7,FEET,73.4,DEGREES F,,
+08/16/2016,8,FEET,72.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/13/2002,Heavy weeds for this time of year.
+
+    
+06/22/2002,Very Weedy
+
+    
+06/25/2002,Weeds worse. South End hard to navigate
+
+    
+07/01/2002,Excessive weed growth - Sunny hot weather for 3 days in the 90s    
+07/07/2002,Some of the weeds maturing- lake looks better
+
+    
+07/24/2002,South end very weedy..  There has been a beaver dam at South end of lake all summer and the water has been high as a result    
+07/31/2002,Excessive weed growth.   Alk Test at 124 ppm    
+08/10/2002,Weeds maturing.  So thick nearly stopping pontoon boat
+
+    
+08/19/2002,Weeds are a real problem at south end.
+
+    
+09/10/2002,Weeds have been worse than I can remember ever ever
+seen them....  I've been on this lake for lots of years.
+
+    
+09/24/2002,Weeds are dying and dropping down but are still so
+thick you can run a motor any where on the South end of the lake.
+
+    
+10/18/2002,Very high water due to beaver dams; almost brown color
+water-  cold- rainy and windy.    
+05/03/2003,Early start on weed problems
+    
+05/16/2003,Early start to weed problems
+    
+05/29/2003,West Shore is weed ridden... very bad
+    
+06/02/2003,Still very weedy
+    
+06/17/2003,More weed free than before.   Don't understand why the
+water clarity increased by three feet since last time....
+    
+07/07/2003,Water levels are high because of beavers daming the
+exit stream... they have built their dam another six inches higher than last year.   No apparent problems have resulted from the high water... may
+have even improved fishing.    
+
+
+
+
+Start Date,Group Name,Project Name
+06/13/2002,Don Shoemaker,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+06/22/2002,Don Shoemaker,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+06/25/2002,Don Shoemaker,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+07/01/2002,Don Shoemaker,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+07/07/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+07/24/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+07/31/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+08/10/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+08/19/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+09/10/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+09/24/2002,Don Shoemaker And Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+10/18/2002,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+05/03/2003,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+05/16/2003,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+05/29/2003,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+06/02/2003,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+06/17/2003,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+07/07/2003,Harold Blumer,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+04/17/2016,Lorne Majewski,Citizen Lake Monitoring - Water Quality - Upper Vermillion Lake - Center
+04/17/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update
+05/17/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update
+06/21/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update
+07/24/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update
+08/16/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update
+09/19/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update
+10/23/2016,Lorne Majewski,VERMILLION LAKE ASSOC: Up. Vermillion Lk Water Quality- PI Survey- + APMP Update

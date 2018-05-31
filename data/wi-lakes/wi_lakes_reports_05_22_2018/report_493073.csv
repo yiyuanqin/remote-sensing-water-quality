@@ -1,0 +1,478 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lotus Lake,Polk,2616900,NO,49,,493073,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+27118318,05/07/1996,3.75,,1.1,46.2,92,58,63,64,,,,,
+27118318,06/20/1996,2,,0.6,75.4,107,67,64,67,,,,,
+27118318,07/17/1996,2,,0.6,100,97,67,64,70,,,,,
+27118318,08/28/1996,1.75,,0.5,98.3,93,69,63,69,,,,,
+27118318,04/25/1997,5.2,,1.6,18.3,45,53,58,57,,,,,
+27118318,06/23/1997,2.9,,0.9,48.7,113,62,65,64,,,,,
+27118318,07/16/1997,2.5,,0.8,56,51,64,59,65,,,,,
+27118318,08/11/1997,1.9,,0.6,98.9,57,68,59,70,,,,,
+46329944,07/01/2011,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/14/2011,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/03/2011,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/19/2011,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,09/04/2011,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,03/24/2012,2,YES,0.6,,,67,,,LOW,10,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,03/25/2012,2,NO,0.6,,,67,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,03/28/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/01/2012,1.5,NO,0.5,,,71,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/02/2012,1.5,NO,0.5,,,71,,,LOW,10,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/03/2012,1.5,NO,0.5,,,71,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/04/2012,1.5,NO,0.5,,,71,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/05/2012,1.5,NO,0.5,,,71,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/07/2012,1.5,NO,0.5,,,71,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/08/2012,1.5,NO,0.5,,,71,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/10/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/12/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/13/2012,1.25,NO,0.4,,,74,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/15/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/18/2012,1.25,NO,0.4,,,74,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/22/2012,1.25,NO,0.4,,,74,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/24/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/26/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,04/28/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,
+46329944,04/30/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,
+46329944,05/02/2012,1,NO,0.3,,,77,,,LOW,11,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46329944,05/04/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/05/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/07/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/09/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/12/2012,1,NO,0.3,,,77,,,NORMAL,12,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/14/2012,1,NO,0.3,,,77,,,NORMAL,12,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/16/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/18/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/19/2012,1,NO,0.3,,,77,,,NORMAL,11,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/21/2012,1,NO,0.3,,,77,,,LOW,10,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/23/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/25/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/29/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/31/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/03/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/06/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/09/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/20/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/22/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/25/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/30/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/03/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/07/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/13/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/19/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/21/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/24/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/28/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/01/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/04/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/06/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/10/2012,1,NO,0.3,,,77,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,10/16/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,11/16/2012,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,05/10/2013,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46329944,05/15/2013,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46329944,06/03/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46329944,06/07/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/14/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/20/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/28/2013,1.5,NO,0.5,,,71,,,NORMAL,10,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/06/2013,2,NO,0.6,,,67,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/12/2013,2,NO,0.6,,,67,,,LOW,9,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/19/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,07/26/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/02/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/09/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/16/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,08/19/2013,1,NO,0.3,54.3,80.8,77,62,65,,,,,
+46329944,08/23/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/30/2013,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,09/06/2013,2,NO,0.6,,,67,,,LOW,8,,,4-Would not swim but boating OK (algae)
+49230085,09/10/2013,1,NO,0.3,57.6,89.9,77,63,65,,,,,
+46329944,09/13/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,09/20/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,10/04/2013,2,NO,0.6,,,67,,,LOW,8,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,10/11/2013,2,NO,0.6,,,67,,,LOW,7,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,05/12/2014,2,NO,0.6,,62.1,67,60,,,,,,
+46329944,05/16/2014,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,05/22/2014,2, ,0.6,,,67,,,,,,,
+49230085,05/29/2014,2,NO,0.6,11.1,70.3,67,61,53,,,,,
+46329944,05/31/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,06/09/2014,1.25,NO,0.4,,,74,,,,,,,
+46329944,06/20/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,06/24/2014,2,NO,0.6,30.7,55.9,67,59,61,,,,,
+49230085,07/11/2014,1,NO,0.3,,,77,,,,,,,
+46329944,07/15/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+49230085,07/21/2014,1.2,NO,0.4,33.2,90.7,74,63,61,,,,,
+46329944,07/25/2014,1.5,NO,0.5,,,71,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+49230085,08/05/2014,1,NO,0.3,,,77,,,,,,,
+46329944,08/08/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,08/18/2014,0.75,NO,0.2,82.7,118,81,65,68,,,,,
+49230085,09/04/2014,1,NO,0.3,,,77,,,,,,,
+49230085,09/15/2014,1,NO,0.3,40,95.7,77,63,63,,,,,
+46329944,10/03/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46329944,10/20/2014,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+49230085,11/03/2014,1,NO,0.3,,81.5,77,62,,,,,,
+49230085,04/14/2015,1,NO,0.3,,96,77,63,,,,,,
+49230085,05/27/2015,2,NO,0.6,71.9,171,67,68,67,,,,,
+49230085,06/09/2015,1,NO,0.3,,,77,,,,,,,
+46329944,06/15/2015,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37734328,06/23/2015,,,,72.9,158,,67,67,,,,,
+49230085,06/23/2015,2,NO,0.6,,,67,,,,,,,
+49230085,07/08/2015,0.75,,0.2,,,81,,,,,,,
+46329944,07/14/2015,1,NO,0.3,,,77,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+49230085,07/20/2015,0.75,,0.2,82.2,138,81,66,68,,,,,
+46329944,07/29/2015,1,NO,0.3,,,77,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+49230085,08/05/2015,0.75,,0.2,,,81,,,,,,,
+46329944,08/07/2015,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,08/18/2015,0.5,,0.2,82.4,152,87,67,68,,,,,
+46329944,08/30/2015,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,09/01/2015,1,,0.3,,,77,,,,,,,
+1,09/14/2015,,,,27.1,92.8,,63,60,,,,,
+49230085,09/14/2015,1,,0.3,,,77,,,,,,,
+46329944,10/07/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,11/16/2015,,,,,53.1,,59,,,,,,
+49173843,11/16/2015,3,NO,0.9,,,61,,,,,,,
+37734328,04/12/2016,,,,,64,,60,,,,,,
+49230085,04/12/2016,1.5,NO,0.5,,,71,,,,,,,
+37734328,05/24/2016,,,,6.25,82.7,,62,49,,,,,
+49230085,05/24/2016,2.5,NO,0.8,,,64,,,,,,,
+46329944,05/29/2016,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+49230085,06/09/2016,2,NO,0.6,,,67,,,,,,,
+46329944,06/21/2016,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+37734328,06/22/2016,,,,50.4,127,,66,64,,,,,
+49230085,06/22/2016,1.5,NO,0.5,,,71,,,,,,,
+49230085,07/12/2016,1.5,NO,0.5,,,71,,,,,,,
+46329944,07/17/2016,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230085,07/25/2016,1.5,NO,0.5,50.8,116,71,65,64,,,,,
+49230085,08/08/2016,1.5,NO,0.5,,,71,,,,,,,
+46329944,08/13/2016,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+135790390,08/22/2016,1.5,NO,0.5,57.5,97.9,71,64,65,,,,,
+49230085,09/16/2016,1,NO,0.3,,,77,,,,,,,
+1,09/26/2016,,,,52.5,122,,65,65,,,,,
+46329944,09/30/2016,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,11/29/2016,,,,,77.6,,62,,,,,,
+49230085,11/29/2016,3,NO,0.9,,,61,,,,,,,
+46329944,05/17/2017,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,06/20/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46329944,07/15/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,08/18/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46329944,09/21/2017,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46329944,10/14/2017,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/07/1996,,,10.5,C,11.8,MG/L
+06/20/1996,,,18.2,C,0.2,MG/L
+07/17/1996,,,22.2,C,0.2,MG/L
+08/28/1996,,,22.3,C,5.4,MG/L
+04/25/1997,,,11.8,C,12.2,MG/L
+06/23/1997,,,23.7,C,10.5,MG/L
+07/16/1997,,,26.0,C,10.2,MG/L
+08/11/1997,,,23.9,C,10.0,MG/L
+08/19/2013,0,METERS,23.66,DEGREES C,7.25,MG/L
+08/19/2013,1,METERS,23.52,DEGREES C,7.25,MG/L
+08/19/2013,2,METERS,23.1,DEGREES C,5.39,MG/L
+09/10/2013,0,METERS,23.08,DEGREES C,6.84,MG/L
+09/10/2013,1,METERS,22.97,DEGREES C,7.58,MG/L
+09/10/2013,2,METERS,22.72,DEGREES C,2.44,MG/L
+05/12/2014,0,METERS,15.75,DEGREES C,14.95,MG/L
+05/12/2014,1,METERS,15.62,DEGREES C,8.99,MG/L
+05/12/2014,2,METERS,13.47,DEGREES C,6.66,MG/L
+05/22/2014,0,METERS,15.58,DEGREES C,7.25,MG/L
+05/22/2014,1,METERS,15.09,DEGREES C,11.44,MG/L
+05/22/2014,2,METERS,14.68,DEGREES C,10.72,MG/L
+05/29/2014,0,METERS,25.58,DEGREES C,8.19,MG/L
+05/29/2014,1,METERS,22.82,DEGREES C,8.36,MG/L
+05/29/2014,2,METERS,19.8,DEGREES C,3.64,MG/L
+06/09/2014,0,METERS,21.26,DEGREES C,6.86,MG/L
+06/09/2014,1,METERS,21.13,DEGREES C,6.49,MG/L
+06/09/2014,2,METERS,19.84,DEGREES C,4.12,MG/L
+06/24/2014,0,METERS,26.01,DEGREES C,6.92,MG/L
+06/24/2014,1,METERS,24.52,DEGREES C,6.85,MG/L
+06/24/2014,2,METERS,21.29,DEGREES C,1.78,MG/L
+07/11/2014,0,METERS,24.85,DEGREES C,4.52,MG/L
+07/11/2014,1,METERS,24.79,DEGREES C,4.58,MG/L
+07/11/2014,2,METERS,24.29,DEGREES C,4.51,MG/L
+07/21/2014,0,METERS,25.52,DEGREES C,8.91,MG/L
+07/21/2014,1,METERS,24.46,DEGREES C,9.49,MG/L
+07/21/2014,2,METERS,23.43,DEGREES C,3.05,MG/L
+08/05/2014,0,METERS,25.39,DEGREES C,9.35,MG/L
+08/05/2014,1,METERS,25.24,DEGREES C,8.82,MG/L
+08/05/2014,2,METERS,24.5,DEGREES C,7.21,MG/L
+08/18/2014,0,METERS,23.73,DEGREES C,3.38,MG/L
+08/18/2014,1,METERS,23.36,DEGREES C,2.8,MG/L
+08/18/2014,2,METERS,23.04,DEGREES C,1.57,MG/L
+09/04/2014,0,METERS,21.13,DEGREES C,2.68,MG/L
+09/04/2014,1,METERS,21.11,DEGREES C,2.73,MG/L
+09/04/2014,2,METERS,21.05,DEGREES C,2.64,MG/L
+09/15/2014,0,METERS,15.41,DEGREES C,2.23,MG/L
+09/15/2014,1,METERS,15.36,DEGREES C,2.35,MG/L
+09/15/2014,2,METERS,15.17,DEGREES C,2.25,MG/L
+11/03/2014,0,METERS,5.23,DEGREES C,.16,MG/L
+11/03/2014,1,METERS,5.23,DEGREES C,.11,MG/L
+11/03/2014,2,METERS,5.16,DEGREES C,.33,MG/L
+11/03/2014,2.5,METERS,5.6,DEGREES C,.22,MG/L
+04/14/2015,0,METERS,12.66,DEGREES C,6.99,MG/L
+04/14/2015,1,METERS,12.57,DEGREES C,7.12,MG/L
+04/14/2015,2,METERS,12.48,DEGREES C,7.21,MG/L
+04/14/2015,2.5,METERS,11.06,DEGREES C,5.88,MG/L
+05/27/2015,0,METERS,18.89,DEGREES C,8.22,MG/L
+05/27/2015,1,METERS,18.72,DEGREES C,7.51,MG/L
+05/27/2015,2,METERS,18.38,DEGREES C,7.7,MG/L
+05/27/2015,2.5,METERS,17.21,DEGREES C,4.12,MG/L
+06/09/2015,0,METERS,23.63,DEGREES C,5.81,MG/L
+06/09/2015,1,METERS,22.77,DEGREES C,4.8,MG/L
+06/09/2015,2,METERS,22.11,DEGREES C,2.75,MG/L
+06/09/2015,3,METERS,19.35,DEGREES C,0,MG/L
+06/23/2015,0,METERS,24.3,DEGREES C,4.68,MG/L
+06/23/2015,1,METERS,24.14,DEGREES C,4.6,MG/L
+06/23/2015,2,METERS,23.66,DEGREES C,4.27,MG/L
+06/23/2015,2.5,METERS,21.79,DEGREES C,0,MG/L
+07/08/2015,0,METERS,23.21,DEGREES C,2.53,MG/L
+07/08/2015,1,METERS,23.14,DEGREES C,2.48,MG/L
+07/08/2015,2,METERS,23.07,DEGREES C,2.46,MG/L
+07/08/2015,2.75,METERS,21.89,DEGREES C,.02,MG/L
+07/20/2015,0,METERS,24.92,DEGREES C,5.85,MG/L
+07/20/2015,1,METERS,24.89,DEGREES C,6.31,MG/L
+07/20/2015,2,METERS,24.87,DEGREES C,7.33,MG/L
+07/20/2015,2.75,METERS,24.05,DEGREES C,0,MG/L
+08/05/2015,0,METERS,24.53,DEGREES C,5.31,MG/L
+08/05/2015,1,METERS,24.29,DEGREES C,5.12,MG/L
+08/05/2015,2,METERS,23.89,DEGREES C,4.04,MG/L
+08/05/2015,2.5,METERS,23.37,DEGREES C,.18,MG/L
+08/18/2015,0,METERS,24.36,DEGREES C,4.19,MG/L
+08/18/2015,1,METERS,24.38,DEGREES C,4.14,MG/L
+08/18/2015,2,METERS,24.38,DEGREES C,4.03,MG/L
+08/18/2015,2.75,METERS,24.36,DEGREES C,3.64,MG/L
+09/01/2015,0,METERS,23.84,DEGREES C,5.15,MG/L
+09/01/2015,1,METERS,22.7,DEGREES C,4.45,MG/L
+09/01/2015,2,METERS,20.65,DEGREES C,2.13,MG/L
+09/01/2015,2.75,METERS,19.11,DEGREES C,0,MG/L
+09/14/2015,0,METERS,20.44,DEGREES C,6.04,MG/L
+09/14/2015,1,METERS,20.3,DEGREES C,5.95,MG/L
+09/14/2015,2,METERS,20.18,DEGREES C,5.9,MG/L
+09/14/2015,2.75,METERS,19.58,DEGREES C,5.65,MG/L
+11/16/2015,0,METERS,6.48,DEGREES C,3.87,MG/L
+11/16/2015,1,METERS,6.48,DEGREES C,5.23,MG/L
+11/16/2015,2,METERS,6.48,DEGREES C,5.68,MG/L
+04/12/2016,0,METERS,5.43,DEGREES C,5.88,MG/L
+04/12/2016,1,METERS,5.38,DEGREES C,5.98,MG/L
+04/12/2016,2,METERS,5.21,DEGREES C,5.97,MG/L
+04/12/2016,3,METERS,5.39,DEGREES C,5.09,MG/L
+05/24/2016,0,METERS,20.97,DEGREES C,2.16,MG/L
+05/24/2016,1,METERS,20.81,DEGREES C,1.81,MG/L
+05/24/2016,2,METERS,20.5,DEGREES C,2.08,MG/L
+05/24/2016,2.5,METERS,20.1,DEGREES C,1.32,MG/L
+06/09/2016,0,METERS,22.21,DEGREES C,5.22,MG/L
+06/09/2016,1,METERS,22.02,DEGREES C,5.37,MG/L
+06/09/2016,2,METERS,20.61,DEGREES C,4.81,MG/L
+06/09/2016,2.5,METERS,19.98,DEGREES C,2.71,MG/L
+07/12/2016,0,METERS,25.12,DEGREES C,15.53,MG/L
+07/12/2016,1,METERS,25.1,DEGREES C,15.25,MG/L
+07/12/2016,2,METERS,25,DEGREES C,14.81,MG/L
+07/12/2016,2.5,METERS,24.17,DEGREES C,10.06,MG/L
+07/25/2016,0,METERS,27,DEGREES C,6.67,MG/L
+07/25/2016,1,METERS,26.82,DEGREES C,6.07,MG/L
+07/25/2016,2,METERS,26.29,DEGREES C,3.53,MG/L
+07/25/2016,2.5,METERS,26.15,DEGREES C,2.42,MG/L
+08/08/2016,0,METERS,25.91,DEGREES C,10.95,MG/L
+08/08/2016,1,METERS,25.85,DEGREES C,10.84,MG/L
+08/08/2016,2,METERS,25.58,DEGREES C,7.7,MG/L
+08/08/2016,2.75,METERS,24.99,DEGREES C,.04,MG/L
+08/22/2016,0,METERS,21.9,DEGREES C,11.3,MG/L
+08/22/2016,1,METERS,21.92,DEGREES C,11.03,MG/L
+08/22/2016,2,METERS,21.86,DEGREES C,10.77,MG/L
+08/22/2016,2.75,METERS,22.23,DEGREES C,0,MG/L
+09/16/2016,0,METERS,20.06,DEGREES C,11.5,MG/L
+09/16/2016,1,METERS,20.07,DEGREES C,10.71,MG/L
+09/16/2016,2,METERS,20.02,DEGREES C,10.46,MG/L
+09/16/2016,2.75,METERS,20,DEGREES C,0,MG/L
+11/29/2016,0,METERS,3.59,DEGREES C,6.8,MG/L
+11/29/2016,1,METERS,3.57,DEGREES C,8.52,MG/L
+11/29/2016,2,METERS,3.58,DEGREES C,6.66,MG/L
+11/29/2016,2.5,METERS,4.08,DEGREES C,3.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/01/2011,Weather clear- light wind- 85 degrees- 1 foot clear depth
+03/24/2012,sunny- west breeze
+03/28/2012,cool and windy
+07/21/2014,2014-07-July
+08/18/2014,2014-08-Aug 
+09/15/2014,2014-09-Sept 
+11/03/2014,2014-10-Oct
+04/14/2015,2015-04-Spring 
+
+
+
+
+Start Date,Group Name,Project Name
+05/07/1996,CAHOW- JIM,NONPOINT SOURCE
+06/20/1996,CAHOW- JIM,NONPOINT SOURCE
+07/17/1996,CAHOW- JIM,NONPOINT SOURCE
+08/28/1996,CAHOW- JIM,NONPOINT SOURCE
+04/25/1997,CAHOW- JIM,NONPOINT SOURCE
+06/23/1997,CAHOW- JIM,NONPOINT SOURCE
+07/16/1997,CAHOW- JIM,NONPOINT SOURCE
+08/11/1997,CAHOW- JIM,NONPOINT SOURCE
+07/01/2011,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/14/2011,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/03/2011,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/19/2011,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+09/04/2011,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+03/24/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+03/25/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+03/28/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/01/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/02/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/03/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/04/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/05/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/07/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/08/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/10/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/12/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/13/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/15/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/18/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/22/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/24/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/26/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/28/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+04/30/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/02/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/04/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/05/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/07/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/09/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/12/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/14/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/16/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/18/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/19/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/21/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/23/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/25/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/29/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/31/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/03/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/06/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/09/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/20/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/22/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/25/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/30/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/03/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/07/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/13/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/19/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/21/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/24/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/28/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/01/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/04/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/06/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/10/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+10/16/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+11/16/2012,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/10/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/15/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/03/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/07/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/14/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/20/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/28/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/06/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/12/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/19/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/26/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/02/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/09/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/16/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/19/2013,Katelin Anderson and Jeremy Williamson,Polk County Land and Water - Lake Water Quality Monitoring
+08/23/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/30/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+09/06/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+09/10/2013,Katelin Anderson and Jeremy Williamson,Polk County Land and Water - Lake Water Quality Monitoring
+09/13/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+09/20/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+10/04/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+10/11/2013,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/12/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/16/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+05/22/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/29/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/31/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/09/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+06/20/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/24/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/11/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/15/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/21/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/25/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/05/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+08/08/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/18/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/04/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/15/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+10/03/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+10/20/2014,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+11/03/2014,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+04/14/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+04/14/2015,Katelin Anderson and Jeremy Williamson,Polk County Land and Water - Lake Water Quality Monitoring
+05/27/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/27/2015,Katelin Anderson and Jeremy Williamson,Polk County Land and Water - Lake Water Quality Monitoring
+06/09/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+06/15/2015,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/23/2015,Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+06/23/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/08/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/14/2015,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/20/2015,Katelin Anderson and Jeremy Williamson,BUFFALO LAKE PROTECTION + REHAB DISTRICT: Buffalo Lake Mgmt Plan Update
+07/20/2015,Katelin Anderson and Jeremy Williamson,Polk County Land and Water - Lake Water Quality Monitoring
+07/29/2015,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/05/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+08/07/2015,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/18/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+08/18/2015,Katelin Anderson and Jeremy Williamson,Polk County Land and Water - Lake Water Quality Monitoring
+08/30/2015,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+09/01/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/14/2015,Data Collectors,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/14/2015,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+10/07/2015,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+11/16/2015,Data Collectors,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+11/16/2015,Katelin Anderson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+04/12/2016,Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+04/12/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/24/2016,Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/24/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/29/2016,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/09/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+06/21/2016,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/22/2016,Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+06/22/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/12/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+07/17/2016,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/25/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+08/08/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+08/13/2016,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/22/2016,Katelin Anderson and Patti Andersen,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/16/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/26/2016,Data Collectors,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+09/30/2016,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+11/29/2016,Data Collectors,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+11/29/2016,Katelin Anderson and Jeremy Williamson,POLK COUNTY LWRD: Lotus Lake Carp Removal Assessment - Phase 1
+05/17/2017,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+06/20/2017,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+07/15/2017,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+08/18/2017,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+09/21/2017,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole
+10/14/2017,Tom Schwiebert,Citizen Lake Monitoring - Water Quality - Lotus Lake- Deep Hole

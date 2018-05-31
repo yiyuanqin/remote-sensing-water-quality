@@ -1,0 +1,27 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mann Lake,Vilas,2332000,NO,64,,10047984,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+15899248,01/17/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+01/17/2017,3,FEET,,,8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+01/17/2017,Dissolved Oxygen (mg/l) (Hach meter): 3': 7.4;
+Dissolved Oxygen (% Saturation) (Hach meter): 3': 36
+
+
+
+
+Start Date,Group Name,Project Name
+01/17/2017,Richard Jenks,Mann Lake Winter Aeration Project Monitoring Data - LPT50616

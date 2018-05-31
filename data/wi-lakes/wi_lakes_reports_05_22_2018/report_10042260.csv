@@ -1,0 +1,28 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Metonga Lake,Forest,394400,NO,21,,10042260,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+89214715,06/26/2014,,,,2.45,12.3,,48,42,,,,,
+89214715,07/31/2015,,,,4.27,14,,49,46,,,,,
+89214715,06/29/2016,,,,2.76,20.8,,52,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/26/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/31/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+06/29/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

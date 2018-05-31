@@ -1,0 +1,35 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Kegonsa,Dane,802600,SC,13,,10021610,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+62595126,08/15/2012,,,,103,,,,70,,,,,
+1,06/04/2014,,,,,62.4,,60,,,,,,
+1,07/07/2014,,,,,113,,65,,,,,,
+1,08/07/2014,,,,,73.8,,61,,,,,,
+1,09/05/2014,,,,,80.6,,62,,,,,,
+146145687,06/27/2017,7,,2.1,,,49,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/27/2017,Additional collector: Andrew from Dane County. There are 3 total data sheets due to multiple boats and teams working on this lake over multiple days.
+
+
+
+
+Start Date,Group Name,Project Name
+08/15/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+06/04/2014,Data Collectors,Yahara Lakes Near Shore Phosphorus Sampling 2014
+07/07/2014,Data Collectors,Yahara Lakes Near Shore Phosphorus Sampling 2014
+08/07/2014,Data Collectors,Yahara Lakes Near Shore Phosphorus Sampling 2014
+09/05/2014,Data Collectors,Yahara Lakes Near Shore Phosphorus Sampling 2014
+06/27/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Aquatic Invasive Species Early Detection 2017

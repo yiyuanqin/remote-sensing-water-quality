@@ -1,0 +1,29 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bridge Lake,Washburn,1837200,NO,66,,10048454,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,07/11/2017,,,,40.6,110,,65,63,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/11/2017,0,METERS,22.7,DEGREES C,9,MG/L
+07/11/2017,1,METERS,23,DEGREES C,8.1,MG/L
+07/11/2017,2,METERS,20.8,DEGREES C,.8,MG/L
+07/11/2017,3,METERS,16.6,DEGREES C,.1,MG/L
+07/11/2017,4,METERS,12.6,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/11/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

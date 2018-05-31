@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sureshot Lake,Oneida,1021000,NO,44,,10044279,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+103119417,09/03/2015,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+130849533,08/11/2017,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/03/2015,1,FEET,74.8,DEGREES F,7.59,MG/L
+09/03/2015,3,FEET,73.6,DEGREES F,7.58,MG/L
+09/03/2015,5,FEET,72.8,DEGREES F,8.08,MG/L
+09/03/2015,7,FEET,72.2,DEGREES F,7.83,MG/L
+09/03/2015,9,FEET,71,DEGREES F,8.41,MG/L
+09/03/2015,11,FEET,70,DEGREES F,8.12,MG/L
+09/03/2015,13,FEET,69.5,DEGREES F,7.77,MG/L
+09/03/2015,15,FEET,68.6,DEGREES F,6.74,MG/L
+09/03/2015,17,FEET,68,DEGREES F,5.98,MG/L
+09/03/2015,19,FEET,67.2,DEGREES F,1.8,MG/L
+08/11/2017,2,FEET,72,DEGREES F,7.62,MG/L
+08/11/2017,4,FEET,71.6,DEGREES F,7.56,MG/L
+08/11/2017,6,FEET,71.3,DEGREES F,7.37,MG/L
+08/11/2017,8,FEET,71.2,DEGREES F,7.34,MG/L
+08/11/2017,10,FEET,70.5,DEGREES F,4.81,MG/L
+08/11/2017,12,FEET,70.1,DEGREES F,4,MG/L
+08/11/2017,14,FEET,67.6,DEGREES F,.27,MG/L
+08/11/2017,16,FEET,62.8,DEGREES F,.13,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/03/2015,partly sunny day.
+08/11/2017,Deep hole location can be found at Oneida County GIS. Conditions were windy- partly cloudy- and murky water.
+
+
+
+
+Start Date,Group Name,Project Name
+09/03/2015,Stephanie Boismenue and Sara Mills,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+08/11/2017,Stephanie Boismenue and Aubrey Nycz,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

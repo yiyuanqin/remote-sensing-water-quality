@@ -1,0 +1,128 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Cedar Lake,Washington,25100,SE,67,,673122,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/20/1973,,,,,100,,64,,,,,,
+1,11/20/1973,,,,,150,,67,,,,,,
+1,02/26/1974,,,,,110,,65,,,,,,
+1,04/08/1974,,,,,110,,65,,,,,,
+1,07/11/1974,,,,,100,,64,,,,,,
+1,11/18/1974,,,,,90,,63,,,,,,
+1,03/02/1975,,,,,70,,61,,,,,,
+1,06/24/1985,4.6,,1.4,6,17,55,50,48,,,,,
+1,07/16/1985,8.2,,2.5,5,10,47,46,47,,,,,
+1,08/13/1985,6.2,,1.9,5,11,51,47,47,,,,,
+1,10/30/1985,7.5,,2.3,14,30,48,54,55,,,,,
+1,02/13/1986,,,,,18,,51,,,,,,
+8190614,05/27/1991,23.5,NO,7.1,,,32,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190614,06/15/1991,16.5,NO,5,,,37,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190894,05/31/1992,21,NO,6.4,,,33,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189899,06/20/1993,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188525,08/25/1999,5.576,,1.7,10.9,14,52,49,53,,,,,
+7000045,06/14/2002,8.5,NO,2.6,16.4,,46,,56,,,,,
+7000045,04/07/2004,3.6,NO,1.1,,41,59,57,,,,,,
+7000045,08/24/2004,6.9,NO,2.1,,15,49,49,,,,,,
+128278416,05/08/2016,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+128278416,05/22/2016,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+128278416,06/05/2016,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,06/19/2016,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,07/03/2016,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,07/17/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,07/31/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+128278416,08/07/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128278416,08/21/2016,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128278416,09/04/2016,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128278416,09/18/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,10/02/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,10/16/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/20/1973,,,11.6667,C,0,MG/L
+11/20/1973,,,42,C,10.7,MG/L
+02/26/1974,,,0,C,1.3,MG/L
+04/08/1974,,,4.44444,C,10.3,MG/L
+07/11/1974,,,11.6667,C,0,MG/L
+11/18/1974,,,42.5,C,10.5,MG/L
+03/02/1975,,,.555556,C,.8,MG/L
+06/24/1985,,,16,C,.3,MG/L
+07/16/1985,,,19,C,.2,MG/L
+08/13/1985,,,22,C,.1,MG/L
+10/30/1985,,,10,C,.5,MG/L
+02/13/1986,,,1,C,.7,MG/L
+08/25/1999,3.28,FEET,,,7.9,MG/L
+08/25/1999,,,21.9,C,7.9,MG/L
+06/14/2002,,,21.0,C,,
+04/07/2004,1,FEET,,,12.7,MG/L
+04/07/2004,,,8.3,C,12.7,MG/L
+08/24/2004,,,20.3,C,8.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/20/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/20/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/11/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/18/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/02/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/24/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/16/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/13/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/30/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/13/1986,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/27/1991,Sunny    
+06/15/1991,Sunny    
+05/31/1992,Lake is in excellent condition- some weeds algae.    
+06/20/1993,Cloudy- SW winds 15-20 mph    
+06/14/2002,DEEPEST AT 50FT    
+04/07/2004,DEEP SPOT @ 45FT    
+08/24/2004,DEEP SPOT @ 54FT - INTEGRATED WATER COLUMN    
+05/08/2016,Clear- upper 60's
+Some waterfowl present.  Clear- upper 60's
+Some waterfowl present. 
+
+
+
+
+Start Date,Group Name,Project Name
+09/20/1973,Data Collectors,Migrated from STORET Legacy
+11/20/1973,Data Collectors,Migrated from STORET Legacy
+02/26/1974,Data Collectors,Migrated from STORET Legacy
+04/08/1974,Data Collectors,Migrated from STORET Legacy
+07/11/1974,Data Collectors,Migrated from STORET Legacy
+11/18/1974,Data Collectors,Migrated from STORET Legacy
+03/02/1975,Data Collectors,Migrated from STORET Legacy
+06/24/1985,Data Collectors,Migrated from STORET Legacy
+07/16/1985,Data Collectors,Migrated from STORET Legacy
+08/13/1985,Data Collectors,Migrated from STORET Legacy
+10/30/1985,Data Collectors,Migrated from STORET Legacy
+02/13/1986,Data Collectors,Migrated from STORET Legacy
+05/27/1991,Bill Spaeth,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+06/15/1991,Bill Spaeth,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+05/31/1992,Paul Klahn,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+06/20/1993,James Wolf,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+08/25/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/14/2002,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/07/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/24/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+05/08/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+05/22/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+06/05/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+06/19/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+07/03/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+07/17/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+07/31/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+08/07/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+08/21/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+09/04/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+09/18/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+10/02/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole
+10/16/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake; Deep Hole

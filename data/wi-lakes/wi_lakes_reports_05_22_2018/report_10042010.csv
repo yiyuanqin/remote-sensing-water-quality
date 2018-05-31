@@ -1,0 +1,250 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Washburn,2470000,NO,66,,10042010,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+100737503,06/16/2014,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,06/17/2014,11.5,YES,3.5,,,42,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+100737503,07/03/2014,13,YES,4,2.67,12.7,40,48,42,NORMAL,,,BLUE,2-Very minor aesthetic problems
+100737503,07/22/2014,10,NO,3,,,44,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+100737503,07/30/2014,10.5,NO,3.2,2.93,12.6,43,48,43,NORMAL,,,BLUE,2-Very minor aesthetic problems
+100737503,08/03/2014,12.5,NO,3.8,,,41,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+100737503,08/17/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,08/24/2014,10,NO,3,4.31,13.7,44,48,46,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,06/07/2015,14,NO,4.3,2.65,13.5,39,48,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,06/15/2015,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/05/2015,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/19/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/26/2015,12,NO,3.6,2.89,15.1,41,49,43,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+100737503,08/02/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,08/09/2015,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,08/30/2015,12,NO,3.6,2.35,14.6,41,49,41,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,09/06/2015,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,06/10/2016,15,YES,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,06/26/2016,11,NO,3.3,2.78,17.6,43,50,43,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/09/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/16/2016,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/31/2016,12,NO,3.6,2.07,11,41,47,40,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,08/06/2016,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,08/14/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,08/28/2016,11,NO,3.3,2.08,12.3,43,48,40,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,09/08/2016,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,09/18/2016,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+100737503,09/29/2016,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+100737503,06/02/2017,19,NO,5.8,,,35,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+100737503,06/09/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,06/17/2017,17,NO,5.2,,,36,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+100737503,06/21/2017,,,,2.01,14.1,,49,40,,,,,
+100737503,07/03/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/15/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/22/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,07/25/2017,,,,3.62,13.8,,48,45,,,,,
+100737503,07/31/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+100737503,08/07/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,08/27/2017,,,,2.36,15.5,,49,41,,,,,
+100737503,09/03/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+100737503,09/15/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/17/2014,0,FEET,77,DEGREES F,,
+06/17/2014,5,FEET,71.6,DEGREES F,,
+06/17/2014,10,FEET,69.9,DEGREES F,,
+07/03/2014,0,FEET,73.7,DEGREES F,,
+07/03/2014,5,FEET,72.8,DEGREES F,,
+07/03/2014,10,FEET,72.6,DEGREES F,,
+07/22/2014,0,FEET,78.2,DEGREES F,,
+07/22/2014,5,FEET,78,DEGREES F,,
+07/22/2014,10,FEET,77.7,DEGREES F,,
+07/30/2014,0,FEET,75.5,DEGREES F,,
+07/30/2014,5,FEET,74.4,DEGREES F,,
+07/30/2014,10,FEET,73.9,DEGREES F,,
+08/03/2014,0,FEET,79.1,DEGREES F,,
+08/03/2014,5,FEET,78,DEGREES F,,
+08/03/2014,10,FEET,77,DEGREES F,,
+08/17/2014,0,FEET,74.4,DEGREES F,,
+08/17/2014,5,FEET,74.3,DEGREES F,,
+08/17/2014,10,FEET,74.1,DEGREES F,,
+08/24/2014,0,FEET,74.1,DEGREES F,,
+08/24/2014,5,FEET,73.7,DEGREES F,,
+08/24/2014,10,FEET,73.5,DEGREES F,,
+06/07/2015,0,FEET,70.5,DEGREES F,,
+06/07/2015,5,FEET,69.8,DEGREES F,,
+06/07/2015,10,FEET,68.8,DEGREES F,,
+06/15/2015,0,FEET,74.4,DEGREES F,,
+06/15/2015,5,FEET,74.3,DEGREES F,,
+06/15/2015,10,FEET,74.3,DEGREES F,,
+06/15/2015,15,FEET,73.5,DEGREES F,,
+07/05/2015,0,FEET,78.2,DEGREES F,,
+07/05/2015,5,FEET,78,DEGREES F,,
+07/05/2015,10,FEET,78,DEGREES F,,
+07/26/2015,0,FEET,81.8,DEGREES F,,
+07/26/2015,5,FEET,81.6,DEGREES F,,
+07/26/2015,10,FEET,79.8,DEGREES F,,
+07/26/2015,15,FEET,77,DEGREES F,,
+08/02/2015,0,FEET,78.2,DEGREES F,,
+08/02/2015,5,FEET,77.3,DEGREES F,,
+08/02/2015,10,FEET,76.8,DEGREES F,,
+08/02/2015,15,FEET,76.4,DEGREES F,,
+08/09/2015,0,FEET,75.7,DEGREES F,,
+08/09/2015,5,FEET,74.6,DEGREES F,,
+08/09/2015,10,FEET,74.3,DEGREES F,,
+08/30/2015,0,FEET,71.2,DEGREES F,,
+08/30/2015,5,FEET,70.8,DEGREES F,,
+08/30/2015,10,FEET,70.1,DEGREES F,,
+08/30/2015,15,FEET,68.7,DEGREES F,,
+09/06/2015,0,FEET,77,DEGREES F,,
+09/06/2015,5,FEET,76.8,DEGREES F,,
+09/06/2015,10,FEET,76.4,DEGREES F,,
+09/06/2015,15,FEET,74.5,DEGREES F,,
+06/10/2016,0,FEET,72.8,DEGREES F,,
+06/10/2016,5,FEET,71.4,DEGREES F,,
+06/10/2016,10,FEET,70.1,DEGREES F,,
+06/10/2016,15,FEET,67.2,DEGREES F,,
+06/26/2016,0,FEET,78.6,DEGREES F,,
+06/26/2016,5,FEET,77.5,DEGREES F,,
+06/26/2016,10,FEET,77.3,DEGREES F,,
+07/09/2016,0,FEET,78.8,DEGREES F,,
+07/09/2016,5,FEET,78,DEGREES F,,
+07/09/2016,10,FEET,76.8,DEGREES F,,
+07/09/2016,15,FEET,76.2,DEGREES F,,
+07/16/2016,0,FEET,76.2,DEGREES F,,
+07/16/2016,5,FEET,75.9,DEGREES F,,
+07/16/2016,10,FEET,74.8,DEGREES F,,
+07/16/2016,15,FEET,74.4,DEGREES F,,
+07/31/2016,0,FEET,79.1,DEGREES F,,
+07/31/2016,5,FEET,78.8,DEGREES F,,
+07/31/2016,10,FEET,78.6,DEGREES F,,
+07/31/2016,15,FEET,78,DEGREES F,,
+08/06/2016,0,FEET,79.5,DEGREES F,,
+08/06/2016,5,FEET,79.1,DEGREES F,,
+08/06/2016,10,FEET,78.2,DEGREES F,,
+08/06/2016,15,FEET,78.2,DEGREES F,,
+08/06/2016,20,FEET,75.9,DEGREES F,,
+08/14/2016,0,FEET,77.3,DEGREES F,,
+08/14/2016,5,FEET,77,DEGREES F,,
+08/14/2016,10,FEET,76.1,DEGREES F,,
+08/14/2016,15,FEET,75.9,DEGREES F,,
+08/28/2016,0,FEET,74.4,DEGREES F,,
+08/28/2016,5,FEET,73.9,DEGREES F,,
+08/28/2016,10,FEET,73.2,DEGREES F,,
+08/28/2016,15,FEET,72.8,DEGREES F,,
+08/28/2016,20,FEET,72.6,DEGREES F,,
+09/08/2016,0,FEET,73.2,DEGREES F,,
+09/08/2016,5,FEET,72.6,DEGREES F,,
+09/08/2016,10,FEET,72.3,DEGREES F,,
+09/08/2016,15,FEET,72,DEGREES F,,
+09/18/2016,0,FEET,68.7,DEGREES F,,
+09/18/2016,5,FEET,68,DEGREES F,,
+09/18/2016,10,FEET,68,DEGREES F,,
+09/18/2016,15,FEET,67.8,DEGREES F,,
+09/29/2016,0,FEET,60.4,DEGREES F,,
+09/29/2016,5,FEET,60.4,DEGREES F,,
+09/29/2016,10,FEET,60.2,DEGREES F,,
+09/29/2016,15,FEET,60,DEGREES F,,
+06/02/2017,0,FEET,67.4,DEGREES F,,
+06/02/2017,5,FEET,67.2,DEGREES F,,
+06/02/2017,10,FEET,63.8,DEGREES F,,
+06/02/2017,15,FEET,62,DEGREES F,,
+06/09/2017,0,FEET,74.6,DEGREES F,,
+06/09/2017,5,FEET,74.1,DEGREES F,,
+06/09/2017,10,FEET,72.3,DEGREES F,,
+06/09/2017,15,FEET,69,DEGREES F,,
+06/17/2017,0,FEET,76.1,DEGREES F,,
+06/17/2017,5,FEET,75.9,DEGREES F,,
+06/17/2017,10,FEET,74.6,DEGREES F,,
+06/17/2017,15,FEET,72.1,DEGREES F,,
+07/03/2017,0,FEET,74.4,DEGREES F,,
+07/03/2017,5,FEET,72.5,DEGREES F,,
+07/03/2017,10,FEET,71.6,DEGREES F,,
+07/03/2017,15,FEET,70.8,DEGREES F,,
+07/15/2017,0,FEET,76.2,DEGREES F,,
+07/15/2017,5,FEET,74.4,DEGREES F,,
+07/15/2017,10,FEET,73.7,DEGREES F,,
+07/15/2017,15,FEET,73.2,DEGREES F,,
+07/22/2017,0,FEET,79.5,DEGREES F,,
+07/22/2017,5,FEET,77.5,DEGREES F,,
+07/22/2017,10,FEET,77,DEGREES F,,
+07/22/2017,15,FEET,76.1,DEGREES F,,
+07/31/2017,0,FEET,84.4,DEGREES F,,
+07/31/2017,5,FEET,79.5,DEGREES F,,
+07/31/2017,10,FEET,78.9,DEGREES F,,
+07/31/2017,15,FEET,77.3,DEGREES F,,
+08/07/2017,0,FEET,75.5,DEGREES F,,
+08/07/2017,5,FEET,74.5,DEGREES F,,
+08/07/2017,10,FEET,73.3,DEGREES F,,
+08/07/2017,15,FEET,72.8,DEGREES F,,
+09/03/2017,0,FEET,69.6,DEGREES F,,
+09/03/2017,5,FEET,68.3,DEGREES F,,
+09/03/2017,10,FEET,67.8,DEGREES F,,
+09/15/2017,0,FEET,71.9,DEGREES F,,
+09/15/2017,5,FEET,71.4,DEGREES F,,
+09/15/2017,10,FEET,68.3,DEGREES F,,
+09/15/2017,15,FEET,67.1,DEGREES F,,
+09/15/2017,20,FEET,66.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/10/2016,Calm and muggy; 75 degrees.
+06/26/2016,Windy and cloudy; 80 degrees.
+07/09/2016,Sunny + calm; high 70s.
+07/16/2016,10" Rain storm on 7/11; gusty + 74 degrees. 
+07/31/2016,Heavy rain 7/27; cloudy with light breezy; 80 degrees.
+08/06/2016,Sunny with light breezy; 80 degrees.
+08/14/2016,Partly cloudy; light breezy; 75 degrees.
+08/28/2016,Air temp 75; nights ~52 degrees.
+09/08/2016,5" of rain this week. 
+09/18/2016,More rain this week; very high water level; 74 + breezy; 40 degrees at night.
+09/29/2016,58 degrees with slight breeze.
+
+
+
+
+Start Date,Group Name,Project Name
+06/16/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/17/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/03/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/22/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/30/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/03/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/17/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/24/2014,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/07/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/15/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/05/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/19/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/26/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/02/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/09/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/30/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+09/06/2015,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/10/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/26/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/09/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/16/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/31/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/06/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/14/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/28/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+09/08/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+09/18/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+09/29/2016,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/02/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/09/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/17/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+06/21/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/03/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/15/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/22/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/25/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+07/31/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/07/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+08/27/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+09/03/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin
+09/15/2017,Kris Carlton,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - West Basin

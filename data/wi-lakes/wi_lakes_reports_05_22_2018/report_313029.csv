@@ -1,0 +1,80 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Shea Lake,Kewaunee,85400,NE,31,,313029,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/13/1976,4.9,,1.5,,,54,,,,,,,
+1,07/07/1976,6.6,,2,,,50,,,,,,,
+1,10/25/1976,4.1,,1.25,,,57,,,,,,,
+1,03/09/1994,,,,,76,,62,,,,,,
+1,06/27/1994,,,,7.56,25,,53,50,,,,,
+1,07/18/1994,6,,1.83,8.96,35,51,56,51,,,,,
+1,08/15/1994,5,,1.52,17.1,33,54,55,56,,,,,
+1,08/16/1994,,,,,,,,,,,,,
+135619862,06/27/2017,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+7000093,07/19/2017,,,,24.5,52.9,,59,59,,,,,
+144883596,07/19/2017,,,,,,,,,,,CLEAR,BROWN,
+147430520,08/22/2017,5.5,,1.7,10.1,30.4,53,55,52,,,CLEAR,BROWN,
+144883596,09/11/2017,4.5,NO,1.4,18.2,45.5,55,58,57,,,CLEAR,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/13/1976,,,5.9,C,9.4,MG/L
+07/07/1976,,,20.8,C,9.6,MG/L
+10/25/1976,,,7.9,C,9.9,MG/L
+03/09/1994,,,2.7,C,0.4,MG/L
+06/27/1994,,,10.5,C,0.47,MG/L
+07/18/1994,,,11.9,C,1.48,MG/L
+08/15/1994,,,23.2,C,8.7,MG/L
+08/16/1994,,,13.2,C,0.3,MG/L
+07/19/2017,1,METERS,26.41,DEGREES C,8.9,MG/L
+07/19/2017,2,METERS,23.26,DEGREES C,2.7,MG/L
+07/19/2017,3,METERS,16.3,DEGREES C,.3,MG/L
+07/19/2017,4,METERS,12.49,DEGREES C,.21,MG/L
+07/19/2017,5,METERS,10.32,DEGREES C,.19,MG/L
+07/19/2017,6,METERS,9.72,DEGREES C,.17,MG/L
+08/22/2017,1,METERS,24.17,DEGREES C,6.46,MG/L
+08/22/2017,2,METERS,23.95,DEGREES C,6.29,MG/L
+08/22/2017,3,METERS,17.94,DEGREES C,.53,MG/L
+08/22/2017,4,METERS,14.41,DEGREES C,.29,MG/L
+08/22/2017,5,METERS,11.22,DEGREES C,.21,MG/L
+08/22/2017,6,METERS,10.06,DEGREES C,.21,MG/L
+08/22/2017,,,24.2,C,6.4,MG/L
+09/11/2017,1,METERS,18.23,DEGREES C,6.38,MG/L
+09/11/2017,2,METERS,18.05,DEGREES C,4.24,MG/L
+09/11/2017,3,METERS,17.82,DEGREES C,3.01,MG/L
+09/11/2017,4,METERS,14.82,DEGREES C,.38,MG/L
+09/11/2017,5,METERS,11.89,DEGREES C,.27,MG/L
+09/11/2017,6,METERS,10.4,DEGREES C,.24,MG/L
+09/11/2017,7,METERS,10.08,DEGREES C,.24,MG/L
+09/11/2017,,,18.2,C,6.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+04/13/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/07/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/25/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+04/13/1976,Data Collectors,Migrated from STORET Legacy
+07/07/1976,Data Collectors,Migrated from STORET Legacy
+10/25/1976,Data Collectors,Migrated from STORET Legacy
+03/09/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/27/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/18/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/15/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/16/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/27/2017,Brandon Lensmire,Citizen Lake Monitoring - Water Quality - Sheas Lake - Deepest Area
+07/19/2017,HOLLY STEGEMANN,Directed Lakes 2017 Gansberg
+07/19/2017,Mary Gansberg,Directed Lakes 2017 Gansberg
+08/22/2017,REBBECA A KLEMME- HOLLY A STEGEMANN,Directed Lakes 2017 Gansberg
+09/11/2017,HOLLY STEGEMANN,Directed Lakes 2017 Gansberg

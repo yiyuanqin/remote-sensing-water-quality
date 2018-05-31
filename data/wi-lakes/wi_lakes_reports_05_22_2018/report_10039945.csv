@@ -1,0 +1,512 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wissota,Chippewa,2152800,WC,9,,10039945,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+65260221,05/19/2013,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+65260221,06/18/2013,3,NO,0.9,6.89,86.3,61,63,49,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+65260221,06/30/2013,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+65260221,07/20/2013,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/22/2013,,,,20.8,65.3,,61,58,,,,,
+65260221,08/11/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+65260221,08/25/2013,4.5,NO,1.4,9.33,39.9,55,57,52,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+65260221,09/08/2013,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+83881235,09/22/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,10/04/2013,,,,19,82.6,,62,57,,,,,
+1,05/05/2014,,,,,154,,67,,,,,,
+99379756,05/05/2014,5,NO,1.5,,,54,,,LOW,7.5   deep  ,CLEAR,YELLOW,2-Very minor aesthetic problems
+99379756,05/18/2014,3.5,NO,1.1,,,59,,,LOW,0ne foot low of normal,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99379756,06/01/2014,4.5,NO,1.4,,,55,,,LOW,low,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/16/2014,,,,11.1,,,,53,,,,,
+99379756,06/16/2014,4.75,NO,1.4,,,55,,,NORMAL,normal,CLEAR,,2-Very minor aesthetic problems
+99379756,06/27/2014,3.75,NO,1.1,,,58,,,NORMAL,normal,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/12/2014,,,,28.4,98.5,,64,60,,,,,
+99379756,07/12/2014,2.5,NO,0.8,,,64,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+99379756,07/26/2014,, ,,,,,,,HIGH,N/A,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/10/2014,,,,43,80.9,,62,63,,,,,
+99379756,08/10/2014,3.5, ,1.1,,,59,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+99379756,08/26/2014,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+99379756,09/13/2014,2.5, ,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+116451585,04/26/2015,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+116451585,05/09/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+116451585,05/22/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+116451585,06/06/2015,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+116451585,06/22/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+126365112,06/22/2015,,,,9.42,101,,64,52,,,,,
+116451585,07/03/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+116451585,08/01/2015,3.25,NO,1,,,60,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+116451585,08/15/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+116451585,08/30/2015,5.5,YES,1.7,12.3,90,53,63,54,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+131282921,04/04/2016,3.5,NO,1.1,,141,59,66,,,,MURKY,BROWN,
+131282921,04/22/2016,6,NO,1.8,,,51,,,,,MURKY,BROWN,
+131282921,05/12/2016,4.5,NO,1.4,,,55,,,,,MURKY,BROWN,
+131282921,05/24/2016,5.5,NO,1.7,,,53,,,,,MURKY,BROWN,1-Beautiful, could not be nicer
+131282921,06/09/2016,5,NO,1.5,,,54,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+131282921,06/22/2016,3.5,NO,1.1,,,59,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+126365112,07/04/2016,3.5,NO,1.1,27.4,73.1,59,61,60,,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+126365112,07/19/2016,5,NO,1.5,19.2,73.4,54,61,57,,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+137688032,08/16/2016,,,,47,96.9,,64,64,,,,,
+144291343,04/29/2017,3,NO,0.9,,129,61,66,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+144291343,05/11/2017,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+144291343,05/25/2017,,,,,186,,69,,,,,,
+144291343,05/28/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+144291343,07/12/2017,1,NO,0.3,3.94,353,77,74,45,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+144291343,07/27/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+144291343,08/10/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+144291343,08/24/2017,6,NO,1.8,11,117,51,65,53,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+144291343,09/07/2017,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+144291343,09/24/2017,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+144291343,10/15/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/19/2013,1,FEET,63.8,DEGREES F,,
+05/19/2013,2,FEET,63.3,DEGREES F,,
+05/19/2013,3,FEET,62.4,DEGREES F,,
+05/19/2013,4,FEET,60.6,DEGREES F,,
+05/19/2013,5,FEET,60,DEGREES F,,
+05/19/2013,6,FEET,57.9,DEGREES F,,
+05/19/2013,7,FEET,56.3,DEGREES F,,
+05/19/2013,8,FEET,56.4,DEGREES F,,
+06/18/2013,1,FEET,75.9,DEGREES F,,
+06/18/2013,2,FEET,74.8,DEGREES F,,
+06/18/2013,3,FEET,73.4,DEGREES F,,
+06/18/2013,4,FEET,72.6,DEGREES F,,
+06/18/2013,5,FEET,70.7,DEGREES F,,
+06/18/2013,6,FEET,69.6,DEGREES F,,
+06/18/2013,7,FEET,65.1,DEGREES F,,
+06/18/2013,8,FEET,64.2,DEGREES F,,
+06/30/2013,1,FEET,72.6,DEGREES F,,
+06/30/2013,2,FEET,71.9,DEGREES F,,
+06/30/2013,3,FEET,71.6,DEGREES F,,
+06/30/2013,4,FEET,71.2,DEGREES F,,
+06/30/2013,5,FEET,70.8,DEGREES F,,
+06/30/2013,6,FEET,70.5,DEGREES F,,
+06/30/2013,7,FEET,62,DEGREES F,,
+06/30/2013,8,FEET,62,DEGREES F,,
+07/20/2013,1,FEET,81.6,DEGREES F,,
+07/20/2013,2,FEET,81,DEGREES F,,
+07/20/2013,3,FEET,80.6,DEGREES F,,
+07/20/2013,4,FEET,80.4,DEGREES F,,
+07/20/2013,5,FEET,80.4,DEGREES F,,
+07/20/2013,6,FEET,79.1,DEGREES F,,
+07/20/2013,7,FEET,72.6,DEGREES F,,
+08/11/2013,1,FEET,72.8,DEGREES F,,
+08/11/2013,2,FEET,72.6,DEGREES F,,
+08/11/2013,3,FEET,72.3,DEGREES F,,
+08/11/2013,4,FEET,72.3,DEGREES F,,
+08/11/2013,5,FEET,72.3,DEGREES F,,
+08/11/2013,6,FEET,72.3,DEGREES F,,
+08/11/2013,7,FEET,66.5,DEGREES F,,
+08/11/2013,8,FEET,66.2,DEGREES F,,
+08/25/2013,1,FEET,76.8,DEGREES F,,
+08/25/2013,2,FEET,75.5,DEGREES F,,
+08/25/2013,3,FEET,75.2,DEGREES F,,
+08/25/2013,4,FEET,75.2,DEGREES F,,
+08/25/2013,5,FEET,74.4,DEGREES F,,
+08/25/2013,6,FEET,69.6,DEGREES F,,
+08/25/2013,7,FEET,67.8,DEGREES F,,
+08/25/2013,8,FEET,67.4,DEGREES F,,
+09/08/2013,1,FEET,75.3,DEGREES F,,
+09/08/2013,2,FEET,75.3,DEGREES F,,
+09/08/2013,3,FEET,75.2,DEGREES F,,
+09/08/2013,4,FEET,75,DEGREES F,,
+09/08/2013,5,FEET,74.6,DEGREES F,,
+09/08/2013,6,FEET,74.1,DEGREES F,,
+09/08/2013,7,FEET,70.5,DEGREES F,,
+09/08/2013,8,FEET,69.6,DEGREES F,,
+09/22/2013,1,FEET,64.7,DEGREES F,,
+09/22/2013,2,FEET,64.4,DEGREES F,,
+09/22/2013,3,FEET,64.2,DEGREES F,,
+09/22/2013,4,FEET,64.2,DEGREES F,,
+09/22/2013,5,FEET,64.2,DEGREES F,,
+09/22/2013,6,FEET,64.2,DEGREES F,,
+09/22/2013,7,FEET,63.8,DEGREES F,,
+09/22/2013,8,FEET,63.2,DEGREES F,,
+05/05/2014,1,FEET,51.2,DEGREES F,,
+05/05/2014,2,FEET,51.2,DEGREES F,,
+05/05/2014,3,FEET,50.9,DEGREES F,,
+05/05/2014,4,FEET,50.3,DEGREES F,,
+05/05/2014,5,FEET,48.5,DEGREES F,,
+05/05/2014,6,FEET,47.1,DEGREES F,,
+05/05/2014,7,FEET,46.2,DEGREES F,,
+05/05/2014,7.5,FEET,46.2,DEGREES F,,
+05/18/2014,1,FEET,60,DEGREES F,,
+05/18/2014,2,FEET,59.1,DEGREES F,,
+05/18/2014,3,FEET,59,DEGREES F,,
+05/18/2014,4,FEET,58.8,DEGREES F,,
+05/18/2014,5,FEET,57.2,DEGREES F,,
+05/18/2014,6,FEET,55.7,DEGREES F,,
+05/18/2014,7,FEET,52.5,DEGREES F,,
+05/18/2014,7.5,FEET,52.4,DEGREES F,,
+06/01/2014,1,FEET,73.2,DEGREES F,,
+06/01/2014,2,FEET,73.2,DEGREES F,,
+06/01/2014,3,FEET,71.6,DEGREES F,,
+06/01/2014,4,FEET,70.7,DEGREES F,,
+06/01/2014,5,FEET,66,DEGREES F,,
+06/01/2014,6,FEET,65.5,DEGREES F,,
+06/01/2014,7,FEET,64.4,DEGREES F,,
+06/01/2014,7.5,FEET,64.4,DEGREES F,,
+06/16/2014,1,FEET,70.5,DEGREES F,,
+06/16/2014,2,FEET,70.8,DEGREES F,,
+06/16/2014,3,FEET,70.7,DEGREES F,,
+06/16/2014,4,FEET,70.5,DEGREES F,,
+06/16/2014,5,FEET,69.6,DEGREES F,,
+06/16/2014,6,FEET,68.9,DEGREES F,,
+06/16/2014,7,FEET,62.4,DEGREES F,,
+06/16/2014,8,FEET,62.1,DEGREES F,,
+06/16/2014,8.5,FEET,62,DEGREES F,,
+06/27/2014,1,FEET,74.4,DEGREES F,,
+06/27/2014,2,FEET,74.4,DEGREES F,,
+06/27/2014,3,FEET,74.6,DEGREES F,,
+06/27/2014,4,FEET,74.6,DEGREES F,,
+06/27/2014,5,FEET,74.6,DEGREES F,,
+06/27/2014,6,FEET,74.1,DEGREES F,,
+06/27/2014,7,FEET,64.2,DEGREES F,,
+06/27/2014,8,FEET,64,DEGREES F,,
+06/27/2014,8.5,FEET,63.9,DEGREES F,,
+07/12/2014,1,FEET,75,DEGREES F,,
+07/12/2014,2,FEET,74.6,DEGREES F,,
+07/12/2014,3,FEET,74.6,DEGREES F,,
+07/12/2014,4,FEET,74.1,DEGREES F,,
+07/12/2014,5,FEET,73.5,DEGREES F,,
+07/12/2014,6,FEET,72.5,DEGREES F,,
+07/12/2014,7,FEET,65.3,DEGREES F,,
+07/12/2014,8,FEET,64.5,DEGREES F,,
+07/12/2014,8.5,FEET,64.5,DEGREES F,,
+07/26/2014,1,FEET,79.5,DEGREES F,,
+07/26/2014,2,FEET,78,DEGREES F,,
+07/26/2014,3,FEET,77.7,DEGREES F,,
+07/26/2014,4,FEET,75.5,DEGREES F,,
+07/26/2014,5,FEET,774.6,DEGREES F,,
+07/26/2014,6,FEET,74.4,DEGREES F,,
+07/26/2014,7,FEET,66.7,DEGREES F,,
+07/26/2014,8,FEET,65.4,DEGREES F,,
+07/26/2014,9,FEET,65,DEGREES F,,
+07/26/2014,9.5,FEET,65.1,DEGREES F,,
+08/10/2014,1,FEET,77.3,DEGREES F,,
+08/10/2014,2,FEET,77,DEGREES F,,
+08/10/2014,3,FEET,76.8,DEGREES F,,
+08/10/2014,4,FEET,76.6,DEGREES F,,
+08/10/2014,5,FEET,76.5,DEGREES F,,
+08/10/2014,6,FEET,76.2,DEGREES F,,
+08/10/2014,7,FEET,69.8,DEGREES F,,
+08/10/2014,8,FEET,69.4,DEGREES F,,
+08/26/2014,1,FEET,74.2,DEGREES F,,
+08/26/2014,2,FEET,74,DEGREES F,,
+08/26/2014,3,FEET,74,DEGREES F,,
+08/26/2014,4,FEET,73.5,DEGREES F,,
+08/26/2014,5,FEET,72.8,DEGREES F,,
+08/26/2014,6,FEET,69,DEGREES F,,
+08/26/2014,7,FEET,64.2,DEGREES F,,
+08/26/2014,8,FEET,64.2,DEGREES F,,
+08/26/2014,9,FEET,64.2,DEGREES F,,
+09/13/2014,1,FEET,62.9,DEGREES F,,
+09/13/2014,2,FEET,60.8,DEGREES F,,
+09/13/2014,3,FEET,59.9,DEGREES F,,
+09/13/2014,4,FEET,59,DEGREES F,,
+09/13/2014,5,FEET,58.4,DEGREES F,,
+09/13/2014,6,FEET,53.6,DEGREES F,,
+09/13/2014,7,FEET,51.6,DEGREES F,,
+09/13/2014,8,FEET,51.6,DEGREES F,,
+09/13/2014,8.5,FEET,51.6,DEGREES F,,
+04/26/2015,1,FEET,50.3,DEGREES F,,
+04/26/2015,2,FEET,49.4,DEGREES F,,
+04/26/2015,3,FEET,48.9,DEGREES F,,
+04/26/2015,4,FEET,48.5,DEGREES F,,
+04/26/2015,5,FEET,48.5,DEGREES F,,
+04/26/2015,6,FEET,48.5,DEGREES F,,
+04/26/2015,7,FEET,47.6,DEGREES F,,
+05/09/2015,1,FEET,62.5,DEGREES F,,
+05/09/2015,2,FEET,61.8,DEGREES F,,
+05/09/2015,3,FEET,61.5,DEGREES F,,
+05/09/2015,4,FEET,61.1,DEGREES F,,
+05/09/2015,5,FEET,61,DEGREES F,,
+05/09/2015,6,FEET,60.2,DEGREES F,,
+05/09/2015,7,FEET,58.4,DEGREES F,,
+05/09/2015,8,FEET,57.9,DEGREES F,,
+05/22/2015,1,FEET,68.9,DEGREES F,,
+05/22/2015,2,FEET,66.7,DEGREES F,,
+05/22/2015,3,FEET,64.4,DEGREES F,,
+05/22/2015,4,FEET,64,DEGREES F,,
+05/22/2015,5,FEET,61.1,DEGREES F,,
+05/22/2015,6,FEET,59.3,DEGREES F,,
+06/06/2015,1,FEET,69,DEGREES F,,
+06/06/2015,2,FEET,68.9,DEGREES F,,
+06/06/2015,3,FEET,68.7,DEGREES F,,
+06/06/2015,4,FEET,68.7,DEGREES F,,
+06/06/2015,5,FEET,68.3,DEGREES F,,
+06/06/2015,6,FEET,68,DEGREES F,,
+06/06/2015,7,FEET,66,DEGREES F,,
+06/06/2015,8,FEET,64.5,DEGREES F,,
+06/06/2015,9,FEET,62.4,DEGREES F,,
+06/22/2015,1,FEET,78.6,DEGREES F,,
+06/22/2015,2,FEET,78.4,DEGREES F,,
+06/22/2015,3,FEET,78,DEGREES F,,
+06/22/2015,4,FEET,75,DEGREES F,,
+06/22/2015,5,FEET,72.1,DEGREES F,,
+06/22/2015,6,FEET,70.8,DEGREES F,,
+06/22/2015,7,FEET,69.6,DEGREES F,,
+07/03/2015,1,FEET,75.2,DEGREES F,,
+07/03/2015,2,FEET,75,DEGREES F,,
+07/03/2015,3,FEET,74.1,DEGREES F,,
+07/03/2015,4,FEET,73.4,DEGREES F,,
+07/03/2015,5,FEET,73.2,DEGREES F,,
+07/03/2015,6,FEET,72.5,DEGREES F,,
+07/03/2015,7,FEET,64.5,DEGREES F,,
+07/03/2015,8,FEET,64.4,DEGREES F,,
+08/01/2015,1,FEET,77.8,DEGREES F,,
+08/01/2015,2,FEET,77,DEGREES F,,
+08/01/2015,3,FEET,76.2,DEGREES F,,
+08/01/2015,4,FEET,76.1,DEGREES F,,
+08/01/2015,5,FEET,75.9,DEGREES F,,
+08/01/2015,6,FEET,75.5,DEGREES F,,
+08/01/2015,7,FEET,69.6,DEGREES F,,
+08/15/2015,1,FEET,80.2,DEGREES F,,
+08/15/2015,2,FEET,79.1,DEGREES F,,
+08/15/2015,3,FEET,78.8,DEGREES F,,
+08/15/2015,4,FEET,78.2,DEGREES F,,
+08/15/2015,5,FEET,77.5,DEGREES F,,
+08/15/2015,6,FEET,75.9,DEGREES F,,
+08/15/2015,7,FEET,71.4,DEGREES F,,
+08/30/2015,1,FEET,68.9,DEGREES F,,
+08/30/2015,2,FEET,68.7,DEGREES F,,
+08/30/2015,3,FEET,68.5,DEGREES F,,
+08/30/2015,4,FEET,68,DEGREES F,,
+08/30/2015,5,FEET,68,DEGREES F,,
+08/30/2015,6,FEET,67.2,DEGREES F,,
+08/30/2015,7,FEET,62.9,DEGREES F,,
+08/30/2015,8,FEET,62.9,DEGREES F,,
+04/04/2016,1,FEET,41,DEGREES F,,
+04/04/2016,2,FEET,40.8,DEGREES F,,
+04/04/2016,3,FEET,41,DEGREES F,,
+04/04/2016,4,FEET,41,DEGREES F,,
+04/04/2016,5,FEET,41,DEGREES F,,
+04/04/2016,6,FEET,41,DEGREES F,,
+04/04/2016,7,FEET,41,DEGREES F,,
+04/04/2016,8,FEET,41,DEGREES F,,
+04/04/2016,9,FEET,41,DEGREES F,,
+04/22/2016,1,FEET,55.7,DEGREES F,,
+04/22/2016,2,FEET,56.6,DEGREES F,,
+04/22/2016,3,FEET,57,DEGREES F,,
+04/22/2016,4,FEET,56.8,DEGREES F,,
+04/22/2016,5,FEET,56.4,DEGREES F,,
+04/22/2016,6,FEET,55.2,DEGREES F,,
+04/22/2016,7,FEET,55.7,DEGREES F,,
+04/22/2016,8,FEET,55.4,DEGREES F,,
+05/12/2016,1,FEET,60.2,DEGREES F,,
+05/12/2016,2,FEET,59.9,DEGREES F,,
+05/12/2016,3,FEET,59.7,DEGREES F,,
+05/12/2016,4,FEET,59.3,DEGREES F,,
+05/12/2016,5,FEET,58.8,DEGREES F,,
+05/12/2016,6,FEET,58.4,DEGREES F,,
+05/12/2016,7,FEET,54.8,DEGREES F,,
+05/12/2016,8,FEET,54.6,DEGREES F,,
+05/12/2016,9,FEET,54.5,DEGREES F,,
+05/24/2016,1,FEET,70.1,DEGREES F,,
+05/24/2016,2,FEET,70.5,DEGREES F,,
+05/24/2016,3,FEET,70.8,DEGREES F,,
+05/24/2016,4,FEET,69.2,DEGREES F,,
+05/24/2016,5,FEET,67.4,DEGREES F,,
+05/24/2016,6,FEET,62.6,DEGREES F,,
+05/24/2016,7,FEET,60.6,DEGREES F,,
+05/24/2016,8,FEET,61.1,DEGREES F,,
+06/09/2016,1,FEET,72.1,DEGREES F,,
+06/09/2016,2,FEET,70.1,DEGREES F,,
+06/09/2016,3,FEET,70.3,DEGREES F,,
+06/09/2016,4,FEET,69.6,DEGREES F,,
+06/09/2016,5,FEET,68.9,DEGREES F,,
+06/09/2016,6,FEET,68.3,DEGREES F,,
+06/09/2016,7,FEET,60.6,DEGREES F,,
+06/09/2016,8,FEET,60.6,DEGREES F,,
+06/09/2016,9,FEET,60.6,DEGREES F,,
+06/22/2016,1,FEET,74.4,DEGREES F,,
+06/22/2016,2,FEET,75,DEGREES F,,
+06/22/2016,3,FEET,75,DEGREES F,,
+06/22/2016,4,FEET,74.6,DEGREES F,,
+06/22/2016,5,FEET,74.1,DEGREES F,,
+06/22/2016,6,FEET,72.8,DEGREES F,,
+06/22/2016,7,FEET,67.2,DEGREES F,,
+06/22/2016,8,FEET,66.5,DEGREES F,,
+06/22/2016,9,FEET,66.5,DEGREES F,,
+06/22/2016,10,FEET,66.3,DEGREES F,,
+07/04/2016,1,FEET,78.8,DEGREES F,,
+07/04/2016,2,FEET,77.7,DEGREES F,,
+07/04/2016,3,FEET,75.9,DEGREES F,,
+07/04/2016,4,FEET,75.2,DEGREES F,,
+07/04/2016,5,FEET,74.6,DEGREES F,,
+07/04/2016,6,FEET,74.4,DEGREES F,,
+07/04/2016,7,FEET,65.1,DEGREES F,,
+07/19/2016,1,FEET,78.2,DEGREES F,,
+07/19/2016,2,FEET,78.2,DEGREES F,,
+07/19/2016,3,FEET,78,DEGREES F,,
+07/19/2016,4,FEET,77.3,DEGREES F,,
+07/19/2016,5,FEET,76.2,DEGREES F,,
+07/19/2016,6,FEET,75.5,DEGREES F,,
+07/19/2016,7,FEET,73.2,DEGREES F,,
+04/29/2017,1,FEET,50.1,DEGREES F,,
+04/29/2017,2,FEET,50,DEGREES F,,
+04/29/2017,3,FEET,49.2,DEGREES F,,
+04/29/2017,4,FEET,48.5,DEGREES F,,
+04/29/2017,5,FEET,48.2,DEGREES F,,
+04/29/2017,6,FEET,48,DEGREES F,,
+04/29/2017,7,FEET,47.4,DEGREES F,,
+04/29/2017,8,FEET,46.7,DEGREES F,,
+05/11/2017,1,FEET,58,DEGREES F,,
+05/11/2017,2,FEET,58,DEGREES F,,
+05/11/2017,3,FEET,57.9,DEGREES F,,
+05/11/2017,4,FEET,56.9,DEGREES F,,
+05/11/2017,5,FEET,56.8,DEGREES F,,
+05/11/2017,6,FEET,56,DEGREES F,,
+05/11/2017,7,FEET,55.7,DEGREES F,,
+05/11/2017,8,FEET,55.6,DEGREES F,,
+05/28/2017,1,FEET,70,DEGREES F,,
+05/28/2017,2,FEET,70,DEGREES F,,
+05/28/2017,3,FEET,69.8,DEGREES F,,
+05/28/2017,4,FEET,69.3,DEGREES F,,
+05/28/2017,5,FEET,66.8,DEGREES F,,
+05/28/2017,6,FEET,64.6,DEGREES F,,
+05/28/2017,7,FEET,63.1,DEGREES F,,
+05/28/2017,8,FEET,62.5,DEGREES F,,
+07/12/2017,1,FEET,76.8,DEGREES F,,
+07/12/2017,2,FEET,76.8,DEGREES F,,
+07/12/2017,3,FEET,75.2,DEGREES F,,
+07/12/2017,4,FEET,71.5,DEGREES F,,
+07/12/2017,5,FEET,70.5,DEGREES F,,
+07/12/2017,6,FEET,69,DEGREES F,,
+07/12/2017,7,FEET,68.5,DEGREES F,,
+07/12/2017,8,FEET,68.1,DEGREES F,,
+07/27/2017,1,FEET,78.2,DEGREES F,,
+07/27/2017,2,FEET,78.1,DEGREES F,,
+07/27/2017,3,FEET,78,DEGREES F,,
+07/27/2017,4,FEET,77.4,DEGREES F,,
+07/27/2017,5,FEET,76.9,DEGREES F,,
+07/27/2017,6,FEET,76.1,DEGREES F,,
+07/27/2017,7,FEET,74,DEGREES F,,
+07/27/2017,8,FEET,73.1,DEGREES F,,
+08/10/2017,1,FEET,78.4,DEGREES F,,
+08/24/2017,1,FEET,79.6,DEGREES F,,
+08/24/2017,2,FEET,79.6,DEGREES F,,
+08/24/2017,3,FEET,79.4,DEGREES F,,
+08/24/2017,4,FEET,79,DEGREES F,,
+08/24/2017,5,FEET,78.8,DEGREES F,,
+08/24/2017,6,FEET,77.3,DEGREES F,,
+08/24/2017,7,FEET,75.2,DEGREES F,,
+08/24/2017,8,FEET,73,DEGREES F,,
+09/07/2017,1,FEET,74.1,DEGREES F,,
+09/07/2017,2,FEET,74.1,DEGREES F,,
+09/07/2017,3,FEET,73.3,DEGREES F,,
+09/07/2017,4,FEET,73.2,DEGREES F,,
+09/07/2017,5,FEET,73.1,DEGREES F,,
+09/07/2017,6,FEET,73.1,DEGREES F,,
+09/07/2017,7,FEET,73,DEGREES F,,
+09/07/2017,8,FEET,70.6,DEGREES F,,
+09/24/2017,1,FEET,74.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/19/2013,Data collection by Luke + Alex Pederson and Rob and Marshall Burgess
+06/18/2013,Data Collection by Luke + Alex Pederson and Steven Jake
+06/30/2013,Data collection by Luke + Alex Pederson and Rob + Marshall Burgess
+05/05/2014,Scattered to clear skies- sunny- beautiful- light SE winds- air temp = 52 degrees F- birds singing: Sparrows- Robins- one Blue Jay. Streamside shows stream level about 10" to a foot low.  Water looking the clearest (by far)- of the three sites.  Sample bottles and secchi disk confirm clarity observation.  Water in sample bottle is only a slight yellow- near clear- compared to the other two sites.  Again ... Spencer Kromrie- Gerry Moore- Matt Kromrie- Reiley Hofschulte and Derik Kidd helped with the project.
+Note: Even though our perception is a 2 ... for Little Lake Wissota ... it's likely a 1.       
+05/18/2014,Dramatically different in just two weeks ... sediments galore.  Brown water vs very nice clear water ... just a bit yellow on May 5th- 2014.  Air Temp on May 18th @ noon = 63.3 F.
+06/01/2014,Stillson Creek is looking (relatively)- very clear- again.  Same helpers as Paint Creek on this day.
+06/16/2014,First time- this year- to see small green particles in water.  Water is still light brown/dark yellow and not green- yet.  Air temp mid-70s.   
+06/27/2014,Until now- Stillson Creek has always been the best looking water- with the deepest secchi disk readings/best visibility of the three sites we're monitoring on Little Lake Wissota.  Now the east side of creek- in the area of monitoring- has scattered- 1.5 foot in diameter- surface patches of algea blooms (first of season) and a noticible increase of the neutrally buoyant green sprigs floating from surface to depth of visibilty.
+There's also the first lily pads (this season)- along both shores of the creek in a fairly signifigant amount- with beautiful blooming white flowers.  
+07/12/2014,Von- Ryan- Logan- Robbie and Dave met at the Westside Lafayette Boat Landing @ 9:50 AM to meet Nick and then do our with forcasted water monitoring-  Air tejmperature 74 degrees and humid.  Light overcast.  Very light breeze.
+10:10 AM spoke with Nick and left the dock for Stillson Creek.  Spotted one Red Fox- little bunny and various tweety birds.  Day Lillys blooming.  
+
+Green sprigs in water about double from 2 weeks ago.  Algal Blloms more prevelant.  Stratus layer of gren slime appearing on surface.  Worse in areas of stagnat water.  Still swimable in the channel of Little Lake Wisstoa. 
+07/26/2014,Alae sprigs multiplying in all visible levels.  See Wissota Bay report for additional comments for today's (7-26-14)- three monitorings on Little Lake Wissota.
+08/10/2014,Stillson Creek is (visually)- the worst looking of the season.  Algae sprigs abound at all visible levels of the water- floating blooms have multipled- too. Visually- Wissota Bay has half (of less)- as manny algae springs.  Relativily speaking- the Paint Creek site is still looking pretty good ... as good or better than two weeks ago.  Doe and her two fawns seen along northshore near Paint Creek.  Turtles abound on the logs and there's a sea gull on each "No Wake Buoy."  Sturgeon still jumping-too.
+  
+08/26/2014,  Volunteers: Dave- Pat- Reiley- Hunter and Robbie.  Light breeze- scattered clouds- air temp. low 70s. Sea Gulls and turtles on stumps- sturgeon still jumping.  Stillson Creek continues to suffer the most from algae.  The sprigs and mushy globs are increasing.  That said- most noticeable is the surface of Stillson Creek.  It is now about 45% covered by the "algae blooms." 
+09/13/2014,The two families of Canadian Geese were out and about.  It's now difficult to tell the parents from this year's brood.  Mallards and sea gulls enjoying the water. One silver + gray hawk sped 15' above water- along the creek's shoreline.  Five deer (two doe and three fawns)- spotted along northshore of Little Lake Wissota. Received one report of a Black Bear in the area- too.  However- we did not see it.  
+Air temperature- low 50s- slight breeze- scattered clouds: Beautiful day!  We've had 10+ inches of rain in the past two weeks.  Many docks have been slightly underwater but not today.   Water level is back to normal.
+Volunteers include Pat- Robert- Lachlan- Reiley- Dave and Eric.  
+04/04/2016,With Erik Huebler and Monte Brown
+04/22/2016,With Erik Huebler and Monte Brown
+05/12/2016,With Gene Linstedt and Monte Brown
+05/24/2016,With Erik Huebler and Monte Brown
+06/09/2016,With Erik Huebler and Monte Brown
+06/22/2016,With Gene Linstedt- Monte Brown II- and Monte Brown III
+04/29/2017,Mike- Kevin- and Chad were in the boat.     
+05/11/2017,Mike- Kevin- and Chad were in the boat. 
+05/28/2017,Mike- Kevin- and Robert were in the boat.
+07/12/2017,Rained 3 inches the night before so the water was very brown where the creek came in to the Little Lake Wissota.
+Mike- Kevin- and Robert were in the boat.
+07/27/2017,Mike- Kevin- and Robert went out.
+08/10/2017,Mike- Chad- and Kevin went out and temp would not work and didn't have extra battery on hand. used locator for surface temp.
+08/24/2017,Mike and Chad went out.
+09/07/2017,Mike and Kevin went out.
+09/24/2017,Mike- Chad- Andrew- Robert went out and the temp would not work.  Used surface temp from locator for only temp reading.
+10/15/2017,Mike and  Chad took the secchi disk readings- the thermometer is still not working so AJ said to just do secchi readings.
+10/15/2017,Mike and Chad took secchi samples only.  Temperature unit not working still- AJ said to do without temp.
+
+
+
+
+Start Date,Group Name,Project Name
+05/19/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+06/18/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+06/30/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+07/20/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+07/22/2013,Data Collectors,Lake Wissota - Extra Sampling
+08/11/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+08/25/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+09/08/2013,Nick Stadnyk,Lake Wissota - Extra Sampling
+09/22/2013,Luke and Alex Pederson,Lake Wissota - Extra Sampling
+10/04/2013,Data Collectors,
+05/05/2014,Data Collectors,
+05/05/2014,David Linse,Lake Wissota - Extra Sampling
+05/18/2014,David Linse,Lake Wissota - Extra Sampling
+06/01/2014,David Linse,Lake Wissota - Extra Sampling
+06/16/2014,Data Collectors,
+06/16/2014,David Linse,Lake Wissota - Extra Sampling
+06/27/2014,David Linse,Lake Wissota - Extra Sampling
+07/12/2014,Data Collectors,
+07/12/2014,David Linse,Lake Wissota - Extra Sampling
+07/26/2014,David Linse,Lake Wissota - Extra Sampling
+08/10/2014,Data Collectors,
+08/10/2014,David Linse,Lake Wissota - Extra Sampling
+08/26/2014,David Linse,Lake Wissota - Extra Sampling
+09/13/2014,David Linse,Lake Wissota - Extra Sampling
+04/26/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/09/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/22/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+06/06/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+06/22/2015,Boy Scout Troop 15,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+06/22/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+07/03/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+08/01/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+08/15/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+08/30/2015,Jeff Porzondek,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+04/04/2016,Chad Yeager,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+04/22/2016,Chad Yeager,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/12/2016,Chad Yeager,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/24/2016,Chad Yeager,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+06/09/2016,Chad Yeager,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+06/22/2016,Chad Yeager,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+07/04/2016,Boy Scout Troop 15,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+07/19/2016,Boy Scout Troop 15,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+08/16/2016,Monte Brown,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+04/29/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/11/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/25/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+05/28/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+07/12/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+07/27/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+08/10/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+08/24/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+09/07/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+09/24/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+10/15/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota - Little Lake Stillson Creek  
+10/15/2017,Mike Schwetz,Citizen Lake Monitoring - Water Quality - Lake Wissota; Little Lake Wissota Bay

@@ -1,0 +1,273 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sapokesick Lake,Menominee,340900,NE,40,,403114,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189494,05/29/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,RED,2-Very minor aesthetic problems
+8189494,06/06/2002,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,06/12/2002,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,07/08/2002,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,07/18/2002,8.25,YES,2.5,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,08/07/2002,8,YES,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,08/29/2002,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,06/13/2003,9.75,YES,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,07/09/2003,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,07/21/2003,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,08/08/2003,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,08/14/2003,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,08/29/2003,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,09/03/2003,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,06/03/2004,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,06/16/2004,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,07/12/2004,9.25,YES,2.8,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,08/19/2004,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,09/04/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,10/06/2004,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,10/11/2004,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,10/31/2004,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188978,05/25/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,05/31/2005,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,06/01/2005,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,06/17/2005,7.5,YES,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,07/15/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,07/29/2005,9.25,YES,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,08/11/2005,9.75,YES,3,,,44,,,LOW,1681.22,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,08/31/2005,10,YES,3,,,44,,,LOW,1681.22,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,10/28/2005,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,06/26/2006,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,07/13/2006,8,YES,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,07/27/2006,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,08/11/2006,8,YES,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,09/01/2006,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189494,09/15/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189494,10/18/2006,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,05/31/2007,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,06/13/2007,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,07/25/2007,8.75,YES,2.7,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189198,09/09/2007,9.25,YES,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,09/26/2007,9.25,YES,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189198,10/21/2007,9.5,YES,2.9,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189198,07/07/2008,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25489441,08/15/2008,9.5,YES,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+25489441,10/20/2008,9.5,YES,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+25489441,08/03/2009,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25489441,05/17/2010,11.2,YES,3.4,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,08/23/2010,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,07/10/2011,8.25,YES,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+27106588,07/15/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+27106588,08/08/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+27106588,08/22/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,09/16/2011,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+27106588,09/19/2011,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799977,10/04/2011,10.5,,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,10/18/2011,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,05/15/2012,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36799977,06/05/2012,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,07/06/2012,8,YES,2.4,,,47,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799977,08/15/2012,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+27106588,08/21/2012,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+36799977,08/29/2012,9,YES,2.7,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36799977,09/18/2012,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36799977,07/04/2013,9,YES,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,08/21/2013,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799977,07/04/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+25489441,09/03/2015,9.75,YES,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+25489441,10/01/2015,9.75,YES,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+101099296,05/30/2016,9.5,NO,2.9,,,45,,,,,,BLUE,1-Beautiful, could not be nicer
+101099296,05/16/2017,10,,3,,,44,,,,,,,
+101099296,06/27/2017,8,,2.4,,,47,,,,,,,
+101099296,07/18/2017,10,,3,,,44,,,,,,,
+101099296,08/08/2017,10,,3,,,44,,,,,,,
+101099296,09/08/2017,10,,3,,,44,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/19/2011,0,FEET,17.6,DEGREES C,8.35,MG/L
+09/19/2011,2,FEET,17.4,DEGREES C,8.03,MG/L
+09/19/2011,4,FEET,16.9,DEGREES C,7.91,MG/L
+09/19/2011,6,FEET,16.7,DEGREES C,8.68,MG/L
+09/19/2011,8,FEET,16.6,DEGREES C,7.91,MG/L
+08/21/2012,0,FEET,23.6,DEGREES C,5.4,MG/L
+08/21/2012,2,FEET,21,DEGREES C,.59,MG/L
+08/21/2012,4,FEET,23.4,DEGREES C,6.49,MG/L
+08/21/2012,6,FEET,23.3,DEGREES C,6.62,MG/L
+08/21/2012,8,FEET,23.2,DEGREES C,6.67,MG/L
+08/21/2012,10,FEET,23.1,DEGREES C,6.51,MG/L
+08/21/2012,12,FEET,23,DEGREES C,6.68,MG/L
+08/21/2012,14,FEET,22.9,DEGREES C,7.09,MG/L
+08/21/2012,16,FEET,22.9,DEGREES C,6.64,MG/L
+08/21/2012,18,FEET,22.7,DEGREES C,6.87,MG/L
+08/21/2012,20,FEET,22.5,DEGREES C,6.98,MG/L
+08/21/2012,24,FEET,17.7,DEGREES C,.18,MG/L
+08/21/2012,26,FEET,15.2,DEGREES C,15.2,MG/L
+05/30/2016,0,FEET,70,DEGREES F,7.1,MG/L
+05/30/2016,1,FEET,70.2,DEGREES F,7.09,MG/L
+05/30/2016,2,FEET,70.4,DEGREES F,7.03,MG/L
+05/30/2016,3,FEET,70.4,DEGREES F,7.03,MG/L
+05/30/2016,4,FEET,70.5,DEGREES F,7,MG/L
+05/30/2016,5,FEET,70.5,DEGREES F,7.01,MG/L
+05/30/2016,6,FEET,69.4,DEGREES F,6.5,MG/L
+05/30/2016,7,FEET,65.8,DEGREES F,6.55,MG/L
+05/30/2016,8,FEET,60.4,DEGREES F,6.43,MG/L
+05/30/2016,9,FEET,56.6,DEGREES F,4.9,MG/L
+05/16/2017,0,FEET,70,DEGREES F,8.2,MG/L
+05/16/2017,1,FEET,70,DEGREES F,8.21,MG/L
+05/16/2017,2,FEET,68.5,DEGREES F,8.3,MG/L
+05/16/2017,3,FEET,65.8,DEGREES F,8.18,MG/L
+05/16/2017,4,FEET,64.3,DEGREES F,7.74,MG/L
+05/16/2017,5,FEET,63.4,DEGREES F,7.74,MG/L
+05/16/2017,6,FEET,61.5,DEGREES F,5.59,MG/L
+05/16/2017,7,FEET,57,DEGREES F,5.56,MG/L
+05/16/2017,8,FEET,54.4,DEGREES F,3.98,MG/L
+05/16/2017,9,FEET,51.6,DEGREES F,3.32,MG/L
+06/27/2017,0,FEET,67.2,DEGREES F,6.73,MG/L
+06/27/2017,1,FEET,68,DEGREES F,6.65,MG/L
+06/27/2017,2,FEET,68,DEGREES F,6.68,MG/L
+06/27/2017,3,FEET,67.9,DEGREES F,6.33,MG/L
+06/27/2017,4,FEET,67.7,DEGREES F,6.14,MG/L
+06/27/2017,5,FEET,55.6,DEGREES F,4.57,MG/L
+06/27/2017,6,FEET,64.8,DEGREES F,4.23,MG/L
+06/27/2017,7,FEET,63.4,DEGREES F,1.57,MG/L
+06/27/2017,8,FEET,59.5,DEGREES F,.4,MG/L
+06/27/2017,9,FEET,57.4,DEGREES F,.24,MG/L
+07/18/2017,0,FEET,78.8,DEGREES F,7.25,MG/L
+07/18/2017,1,FEET,79.3,DEGREES F,7.26,MG/L
+07/18/2017,2,FEET,79,DEGREES F,7.23,MG/L
+07/18/2017,3,FEET,78.5,DEGREES F,7.07,MG/L
+07/18/2017,4,FEET,78.2,DEGREES F,6.91,MG/L
+07/18/2017,5,FEET,76.4,DEGREES F,5.98,MG/L
+07/18/2017,6,FEET,74.9,DEGREES F,5,MG/L
+07/18/2017,7,FEET,71,DEGREES F,1.63,MG/L
+07/18/2017,8,FEET,67.7,DEGREES F,.87,MG/L
+07/18/2017,9,FEET,62.3,DEGREES F,2.48,MG/L
+08/08/2017,0,FEET,74.2,DEGREES F,7.44,MG/L
+08/08/2017,1,FEET,74.7,DEGREES F,7.39,MG/L
+08/08/2017,2,FEET,74.1,DEGREES F,7.36,MG/L
+08/08/2017,3,FEET,73.1,DEGREES F,7.24,MG/L
+08/08/2017,4,FEET,72.2,DEGREES F,7.15,MG/L
+08/08/2017,5,FEET,71.8,DEGREES F,6.5,MG/L
+08/08/2017,6,FEET,71.3,DEGREES F,6.49,MG/L
+08/08/2017,7,FEET,71.2,DEGREES F,6.21,MG/L
+08/08/2017,8,FEET,71,DEGREES F,6.12,MG/L
+08/08/2017,9,FEET,69.6,DEGREES F,3.4,MG/L
+08/08/2017,10,FEET,68.1,DEGREES F,3.51,MG/L
+09/08/2017,0,FEET,63.2,DEGREES F,7.12,MG/L
+09/08/2017,1,FEET,63.5,DEGREES F,6.76,MG/L
+09/08/2017,2,FEET,63.6,DEGREES F,6.75,MG/L
+09/08/2017,3,FEET,63.6,DEGREES F,6.75,MG/L
+09/08/2017,4,FEET,63.6,DEGREES F,6.74,MG/L
+09/08/2017,5,FEET,63.5,DEGREES F,6.71,MG/L
+09/08/2017,6,FEET,63.3,DEGREES F,6.52,MG/L
+09/08/2017,7,FEET,63.1,DEGREES F,6.48,MG/L
+09/08/2017,8,FEET,63,DEGREES F,6.36,MG/L
+09/08/2017,9,FEET,62,DEGREES F,5.66,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/15/2008,ok
+08/08/2011,Overcast- 75 degrees
+09/19/2011,Sunny- Light Wind. 
+Observed Fresh Water Jelly Fish.   
+10/18/2011,Clearest I've seen in 30 years!  Could be the Zebras!!
+08/21/2012,Partly cloudy- beautiful day- cool breeze from west.  3 boaters and 1 pulling a skier.  Water color greenish water clarity murky- water levels normal.
+08/29/2012,Sunny- slight breeze from southeast.  Freshwater jellyfish visible in channel.  The leaves are starting to change color.  The water color is greenish- the water levels are 1in. below normal- and the water clarity is clear.
+07/04/2013,Warm + Sunny
+09/03/2015,I only do Secchi!
+
+Tom Moutvic
+10/01/2015,I only do Secchi.
+
+Arlan does the rest!
+05/30/2016,Calm morning- sunny- and no clouds
+05/16/2017,secchi hit bottom
+06/27/2017,windy.rainy-cloudy
+07/18/2017,stormy -saw a muskrat
+08/08/2017,sunny -secchi hit bottom- saw jelly fish!
+09/08/2017,secchi hit bottom
+
+
+
+
+Start Date,Group Name,Project Name
+05/29/2002,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/06/2002,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/12/2002,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/08/2002,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/18/2002,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/07/2002,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/29/2002,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/13/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/09/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/21/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/08/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/14/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/29/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/03/2003,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/03/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/16/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/12/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/19/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/04/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/06/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/11/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/31/2004,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/25/2005,Pete Guzzetta,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/31/2005,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/01/2005,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/17/2005,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/15/2005,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/29/2005,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/11/2005,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/31/2005,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/28/2005,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/26/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/13/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/27/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/11/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/01/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/15/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/18/2006,Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/31/2007,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/13/2007,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/25/2007,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/09/2007,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/26/2007,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/21/2007,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/07/2008,Tom And Tom Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/15/2008,Tom and Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/20/2008,Tom and Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/03/2009,Tom and Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/17/2010,Tom and Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/23/2010,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/10/2011,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/15/2011,Tom Ittner,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/08/2011,Tom Ittner,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/22/2011,Tom Ittner,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/16/2011,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/19/2011,Tom Ittner,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/04/2011,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/18/2011,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/15/2012,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/05/2012,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/06/2012,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/15/2012,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/21/2012,Tom Ittner,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/29/2012,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/18/2012,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/04/2013,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/21/2013,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/04/2014,Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/03/2015,Tom and Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+10/01/2015,Tom and Marilyn Moutvic,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/30/2016,Arland Dillenburg,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+05/16/2017,Arland Dillenburg,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+06/27/2017,Arland Dillenburg,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+07/18/2017,Arland Dillenburg,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+08/08/2017,Arland Dillenburg,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole
+09/08/2017,Arland Dillenburg,Citizen Lake Monitoring - Water Quality - Legend Lake; Rainbow Channel- Deep Hole

@@ -1,0 +1,665 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mamie Lake,Vilas,2964100,NO,64,,643247,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/23/1984,3,,0.9,49,,62,,64,,,,,
+1,10/09/1985,6.9,,2.1,,35,49,56,,,,,,
+8189784,05/20/1996,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189784,06/05/1996,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,06/20/1996,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189784,07/03/1996,7.25,NO,2.2,,,49,,,NORMAL 1683.5',,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,07/16/1996,5.5,NO,1.7,,,53,,,1683.5',1683.5,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,08/01/1996,7.75,NO,2.4,,,48,,,1685' UP 2",,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189784,08/17/1996,4.5,NO,1.4,,,55,,,1683.5',1683.5,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190150,08/26/1996,6.75,NO,2.1,,,50,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8189784,08/29/1996,4.75,NO,1.4,,,55,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189784,09/13/1996,4,NO,1.2,,,57,,,NORMAL 1682.5,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,09/30/1996,6.5,NO,2,,,50,,,1683.5 NORMAL,1683.5,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,10/12/1996,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,10/25/1996,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,05/04/1997,4,NO,1.2,,,57,,,1683.5 FASL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189784,05/30/1997,10.5,NO,3.2,,,43,,,1683.5 FASL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,06/10/1997,9.5,NO,2.9,,,45,,,1683.5 FASL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,06/21/1997,10,NO,3,,,44,,,1683.5 FASL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,07/07/1997,6,NO,1.8,,,51,,,1683.5 FASL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,07/22/1997,6,NO,1.8,,,51,,,1683.5 FASL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189784,08/07/1997,3.5,NO,1.1,,,59,,,1683.5 FASL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190127,08/18/1997,4.6,NO,1.4,,,55,,,NO CHANGE,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190127,09/19/1997,6.6,NO,2,,,50,,,NO CHANGE,,MURKY,BLUE,2-Very minor aesthetic problems
+8190127,10/01/1997,7.5,NO,2.3,,,48,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,10/23/1997,10,NO,3,,,44,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,11/07/1997,10.5,NO,3.2,,,43,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,04/22/1998,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189784,05/06/1998,12.5,NO,3.8,,,41,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,05/17/1998,10,NO,3,,,44,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,06/08/1998,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,06/22/1998,7.5,NO,2.3,,,48,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,07/08/1998,5,NO,1.5,,,54,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,07/31/1998,4.75,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190127,08/13/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190127,08/26/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190127,09/09/1998,3.25,NO,1,,,60,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190127,09/28/1998,5.5,NO,1.7,,,53,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190127,10/14/1998,6.5,NO,2,,,50,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,10/25/1998,8,NO,2.4,,,47,,,GAUGE,1683.5,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189784,04/24/1999,7,NO,2.1,,,49,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189784,05/14/1999,11.5,NO,3.5,,,42,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189784,05/27/1999,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189784,06/17/1999,5.5,NO,1.7,,,53,,,NO CHANGE,,MURKY,BLUE,2-Very minor aesthetic problems
+8189784,07/01/1999,5.25,NO,1.6,,,53,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,07/18/1999,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,08/02/1999,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,08/21/1999,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,09/11/1999,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,09/27/1999,5.6,NO,1.7,,,52,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,10/09/1999,12,NO,3.6,,,41,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,10/20/1999,14.5,NO,4.4,,,39,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190127,04/22/2000,7.5,NO,2.3,,,48,,,NORMAL,1683.5,CLEAR,GREEN,2-Very minor aesthetic problems
+8190127,05/05/2000,14,NO,4.3,,,39,,,NORMAL,1683.5,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190127,05/28/2000,10.5,NO,3.2,,,43,,,NORMAL,1683.5,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190127,06/18/2000,7.5,NO,2.3,,,48,,,NORMAL,1683.5,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190127,07/13/2000,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190127,07/20/2000,4.5,NO,1.4,,,55,,,NORMAL,1683.5,MURKY,GREEN,2-Very minor aesthetic problems
+8190127,07/30/2000,4.5,NO,1.4,,,55,,,NORMAL,1683.5,MURKY,GREEN,2-Very minor aesthetic problems
+8190127,08/23/2000,3,NO,0.9,,,61,,,NORMAL,1683.5,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190127,09/14/2000,5,NO,1.5,,,54,,,NORMAL,1683.5,MURKY,GREEN,2-Very minor aesthetic problems
+8190127,10/10/2000,6,NO,1.8,,,51,,,NORMAL,1683.5,MURKY,GREEN,2-Very minor aesthetic problems
+8190127,10/19/2000,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190127,10/31/2000,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/12/2001,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/29/2001,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/17/2001,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,07/08/2001,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,07/22/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/13/2001,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/24/2001,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/20/2001,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/30/2001,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,10/14/2001,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,11/03/2001,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/01/2002,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/21/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/20/2002,6.5,NO,2,,,50,,,HIGH,-2,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,07/09/2002,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,08/07/2002,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/20/2002,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/04/2002,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/27/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,05/03/2003,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189784,05/17/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/20/2003,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,07/13/2003,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/09/2003,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/22/2003,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/08/2003,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,10/16/2003,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/28/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/15/2004,9.6,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,07/03/2004,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/01/2004,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,09/02/2004,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,09/26/2004,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189784,10/20/2004,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/20/2005,14,NO,4.3,,,39,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8189784,07/08/2005,6.5,NO,2,,,50,,,NORMAL,,MURKY,,1-Beautiful, could not be nicer
+8190127,08/07/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190127,08/27/2005,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190127,09/26/2005,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190127,10/11/2005,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189784,05/25/2006,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/24/2006,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,07/11/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,07/28/2006,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189784,08/18/2006,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/15/2006,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189784,10/14/2006,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18879340,05/11/2007,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18879340,06/11/2007,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18879340,06/29/2007,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18879340,07/25/2007,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,08/22/2007,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,09/28/2007,9.3,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/27/2009,7,NO,2.1,,,49,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189784,06/05/2009,11,NO,3.3,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/16/2009,6.5,NO,2,,,50,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189784,06/25/2009,10,NO,3,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,07/08/2009,9,NO,2.7,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,07/29/2009,6,NO,1.8,,,51,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189784,07/30/2009,10.3,NO,3.1,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,08/15/2009,6,NO,1.8,,,51,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189784,08/17/2009,9,NO,2.7,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,09/09/2009,5.75,NO,1.7,,,52,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189784,09/10/2009,3.5,NO,1.1,,,55,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,10/15/2009,6.5,NO,2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189784,06/03/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/21/2010,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,07/16/2010,4.3,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18879340,09/01/2010,4.3,NO,1.3,,,56,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18879340,10/08/2010,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189784,06/13/2011,5.7,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18879340,07/02/2011,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,08/18/2011,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+18879340,09/11/2011,5.3,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,10/01/2011,11.2,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,10/21/2011,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,05/13/2012,12.7,NO,3.9,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/06/2012,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/25/2012,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,07/22/2012,5,,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,08/12/2012,3.7,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,08/20/2012,3.7,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,09/03/2012,3.7,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,10/03/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,10/15/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,10/29/2012,11.3,NO,3.4,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189784,06/04/2013,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,06/24/2013,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189784,07/08/2013,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189784,07/20/2013,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189784,08/16/2013,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,05/22/2014,,,,,31,,55,,,,,,
+37730813,05/22/2014,3.4,NO,1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/04/2014,,,,1.4,23,,52,37,,,,,
+87833380,06/04/2014,7.1,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/18/2014,,,,3.3,,,,44,,,,,
+87833380,06/18/2014,7.4,NO,2.2,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+99666256,06/18/2014,,,,,24,,53,,,,,,
+8189784,06/26/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,07/08/2014,,,,2.9,28,,54,43,,,,,
+99666250,07/08/2014,6.6, ,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99666250,07/29/2014,6.1,NO,1.9,2.6,,51,,42,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99666256,07/29/2014,,,,,28,,54,,,,,,
+1,08/06/2014,,,,3,28,,54,43,,,,,
+81527017,08/06/2014,6.4,NO,1.9,,,50,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/20/2014,,,,,23,,52,,,,,,
+99666256,08/20/2014,6.2,NO,1.9,1.8,,51,,39,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189784,09/28/2014,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/04/2014,,,,,21,,52,,,,,,
+81527021,10/04/2014,,,,1.6,,,,38,,,,,
+99666250,10/04/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189784,10/16/2014,5.6,NO,1.7,,,52,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+99666256,05/13/2015,15.1,YES,4.6,,,38,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+145282006,07/19/2017,5.75,NO,1.7,16.4,45,51,58,56,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,08/21/2017,3,NO,0.9,45.1,54.3,61,59,64,,,,,
+145282006,08/21/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/13/2017,3.75,,1.1,,,58,,,,,,,
+116338688,09/13/2017,3.75,NO,1.1,29.1,45.9,58,58,60,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/09/1985,,,8,C,10.4,MG/L
+05/25/2006,6,FEET,65,DEGREES F,,
+06/24/2006,6,FEET,72,DEGREES F,,
+07/11/2006,6,FEET,77,DEGREES F,,
+05/22/2014,0,METERS,12.7,DEGREES C,8.57,MG/L
+05/22/2014,1,METERS,12.6,DEGREES C,8.77,MG/L
+05/22/2014,2,METERS,12.5,DEGREES C,8.84,MG/L
+05/22/2014,3,METERS,12.2,DEGREES C,8.51,MG/L
+05/22/2014,4,METERS,12,DEGREES C,8.01,MG/L
+05/22/2014,4.5,METERS,11.9,DEGREES C,7.95,MG/L
+06/04/2014,0,METERS,21.4,DEGREES C,7.68,MG/L
+06/04/2014,1,METERS,18.8,DEGREES C,7.66,MG/L
+06/04/2014,2,METERS,18.4,DEGREES C,7.21,MG/L
+06/04/2014,3,METERS,18.2,DEGREES C,6.79,MG/L
+06/04/2014,4,METERS,15.3,DEGREES C,2.17,MG/L
+06/04/2014,4.5,METERS,12.4,DEGREES C,1.11,MG/L
+06/18/2014,0,METERS,20.5,DEGREES C,7.76,MG/L
+06/18/2014,1,METERS,20.4,DEGREES C,7.55,MG/L
+06/18/2014,2,METERS,20.1,DEGREES C,7.73,MG/L
+06/18/2014,3,METERS,19.2,DEGREES C,6.49,MG/L
+06/18/2014,4,METERS,17.9,DEGREES C,4.61,MG/L
+06/18/2014,4.5,METERS,17.4,DEGREES C,3.63,MG/L
+07/08/2014,0,METERS,21.4,DEGREES C,6.91,MG/L
+07/08/2014,1,METERS,21.5,DEGREES C,6.56,MG/L
+07/08/2014,2,METERS,21.5,DEGREES C,6.52,MG/L
+07/08/2014,3,METERS,21.5,DEGREES C,6.76,MG/L
+07/08/2014,4,METERS,21.5,DEGREES C,6.72,MG/L
+07/08/2014,5,METERS,21.4,DEGREES C,.64,MG/L
+07/29/2014,0,METERS,21.4,DEGREES C,6.9,MG/L
+07/29/2014,1,METERS,21.3,DEGREES C,6.71,MG/L
+07/29/2014,2,METERS,21.1,DEGREES C,6.66,MG/L
+07/29/2014,3,METERS,21,DEGREES C,6.64,MG/L
+07/29/2014,4,METERS,20.9,DEGREES C,5.18,MG/L
+07/29/2014,4.5,METERS,20.9,DEGREES C,.65,MG/L
+08/06/2014,0,METERS,24.4,DEGREES C,8.5,MG/L
+08/06/2014,1,METERS,24,DEGREES C,8.35,MG/L
+08/06/2014,2,METERS,22.8,DEGREES C,8.33,MG/L
+08/06/2014,3,METERS,22.4,DEGREES C,7.93,MG/L
+08/06/2014,4,METERS,21.2,DEGREES C,2.4,MG/L
+08/20/2014,0,METERS,20.6,DEGREES C,6.43,MG/L
+08/20/2014,1,METERS,20.4,DEGREES C,6.4,MG/L
+08/20/2014,2,METERS,20.4,DEGREES C,6.69,MG/L
+08/20/2014,3,METERS,20.3,DEGREES C,6.11,MG/L
+08/20/2014,4,METERS,20.1,DEGREES C,5.71,MG/L
+08/20/2014,4.5,METERS,20.1,DEGREES C,5.76,MG/L
+10/04/2014,0,METERS,12.6,DEGREES C,8.74,MG/L
+10/04/2014,1,METERS,12.7,DEGREES C,8.47,MG/L
+10/04/2014,2,METERS,12.7,DEGREES C,8.43,MG/L
+10/04/2014,3,METERS,12.7,DEGREES C,8.44,MG/L
+10/04/2014,4,METERS,12.7,DEGREES C,6.46,MG/L
+10/04/2014,4.5,METERS,12.7,DEGREES C,2.87,MG/L
+05/13/2015,0,METERS,14,DEGREES C,8.82,MG/L
+05/13/2015,1,METERS,13.7,DEGREES C,8.97,MG/L
+05/13/2015,2,METERS,13.4,DEGREES C,8.84,MG/L
+05/13/2015,3,METERS,13.3,DEGREES C,8.41,MG/L
+05/13/2015,4,METERS,13.3,DEGREES C,8.28,MG/L
+05/13/2015,4.5,METERS,12.6,DEGREES C,7.28,MG/L
+07/19/2017,0,FEET,79.3,DEGREES F,9.58,MG/L
+07/19/2017,3,FEET,76.5,DEGREES F,10.19,MG/L
+07/19/2017,6,FEET,74.4,DEGREES F,9.82,MG/L
+07/19/2017,9,FEET,72.9,DEGREES F,8.94,MG/L
+07/19/2017,12,FEET,71.7,DEGREES F,6.35,MG/L
+07/19/2017,15,FEET,69.1,DEGREES F,.7,MG/L
+08/21/2017,0,FEET,73.3,DEGREES F,12.04,MG/L
+08/21/2017,3,FEET,72.3,DEGREES F,11.88,MG/L
+08/21/2017,6,FEET,70.9,DEGREES F,9.75,MG/L
+08/21/2017,9,FEET,70.4,DEGREES F,8.99,MG/L
+08/21/2017,12,FEET,69.2,DEGREES F,5.85,MG/L
+08/21/2017,15,FEET,68.3,DEGREES F,3.06,MG/L
+09/13/2017,0,FEET,68.7,DEGREES F,11.57,MG/L
+09/13/2017,3,FEET,67.1,DEGREES F,12.15,MG/L
+09/13/2017,6,FEET,64.2,DEGREES F,10.8,MG/L
+09/13/2017,9,FEET,62.7,DEGREES F,9.22,MG/L
+09/13/2017,12,FEET,62.2,DEGREES F,7.1,MG/L
+09/13/2017,15,FEET,61.2,DEGREES F,2.54,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/23/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/09/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/20/1996,Ice off 5-15-96- wind is W @ 5-7 mph.  Lake is very dirty-turnover.    
+06/05/1996,Sky 5/10-wind SE 8-10 mph.    
+06/20/1996,Sky is clear- wind N @ 7-9 mph- waves 3-6"- cut grass algae.    
+07/03/1996,Sky 1/10 clear- algae bloom- cut grass- wind NNW 5-7 mph- waves 1-3"- water temp is 68 degrees- loon with 1 week old.    
+07/16/1996,Moderate cut grass + green paint algae bloom.  W wind @  8 mph- waves 3-6"- sky 0/10- water temp is 64 degrees.    
+08/01/1996,Moderate cutgrass algae bloom.  N wind @ 8 mph- waves 3-6"- sky 0/10- water temp is 64.5.    
+08/17/1996,Algae- cut grass and suspended unicell algae- wind 6-8 mph- waves 4-6" waves- water temp is 74 degrees.  Lots of boat traffic.    
+08/29/1996,Cut grass algae- gone- unicell- good bloom- wind N 4-8 mph- waves 1-2"- water temp is 71.    
+09/13/1996,Some algae left- waves 4-6"- sky is overcast- wind NNW @ 10-14 mph- water temp is 63 degrees- air temp is 47 degrees.    
+09/30/1996,Some colonial algae- turnover done- waves 1-3"- sky is clear- wind SE @ 4-6 mph- air temp is 46 degrees- water temp is 54 degrees.    
+10/12/1996,No algae- turnover complete- wind is SW @ 6-8 mph- waves are 4-6"- water is 48 degrees.    
+10/25/1996,Wind 8-12 mph from SE- waves 4-6"- water temp is 46 degrees- air temp is 50 degrees- no algae.    
+05/04/1997,Wind SW 12 mph. Sky 10/10- waves 4-6"- water 46 degrees F.  Lake in turnover.    
+05/30/1997,Wind north-northeast 7- sky 9/10- waves 1-2"- water 56 degrees F. Nice.    
+06/10/1997,Wind NW 2- sky 9/10- waves 1"- water 71 degrees. air 78 degrees beautiful- lots of boat traffic.    
+06/21/1997,Wind NW 6-8 mph- sky 5/10 waves 3-4" water 68 degrees F.    
+07/07/1997,Waves 2-3"- sky 5/10- wind W 6-8 mph. Water 68 degrees F. Air temp. 66 degrees F. Algae starting.    
+07/22/1997,Wind east-southeast light- sky 1/10 overcast- waves 2-3"- water 74 degrees F- very dirty.    
+08/07/1997,Wind SW 7-9 mph. sky 5/10- waves 2-4" water 74 degrees.  Air 79 degrees.  Water very dirty.    
+08/18/1997,Wind southeast 5-6 mph- sky 4/10 covered- waves 2 inches- water temp 68- air temp not taken- some algae present    
+10/01/1997,Waves 2-4 inches- wind  from southeast 5-7 mph- water temp 56 @ 10 ft down- 80% clouds- air 55    
+10/23/1997,Winds were calm east-southeast- sky 6/10 overcast- waves ripples- water temp @ 8 ft 44 degrees- air temp 36 degrees    
+11/07/1997,Winds southwest 10 mph- sky 6/10 overcast- waves   4-6 inches- water temp 39 degrees- air temp 41 degrees    
+04/22/1998,Wind 0-2 mph. Waves 0-1 inches. No clouds. Water temp is 53 degrees F.  Beautiful.    
+05/06/1998,W wind 1-3 mph waves are 0-1 inches. No clouds and 62 degrees F. Pollen on water.    
+05/17/1998,Southwest wind at 6-8 mph. 2-4 inch waves. 40% cloud cover. Water temperature is 63 degrees F. "Infinity" rotifer thick.    
+06/08/1998,North-northeast wind 0-3 mph 0-2 inch waves. 90% cloud cover and 62 degree F water temperature.  Rotifers almost gone.    
+06/22/1998,Southwest wind 2-5 mph.  Waves 2-4 inches.  30% cloud cover.  72 degree F water temp.    
+07/08/1998,N wind 2-3 mph.  Waves 2-4 inches. 50% cloud cover. 74 degrees F water temperature.    
+07/31/1998,Southwest wind 6 mph. Waves 1-2 inches. 90 % cloud cover. Water temperature is 75 degrees F.  Algae is getting bad.    
+08/13/1998,NW wind 0-2 mph.  No waves and 65 % cloud cover.  Water temperature is 76 degrees F and the algae is still bad.  Green paint algae (aphanizomenon) and cut grass along with unicellular species.    
+08/26/1998,SW wind 6-8 mph.  Waves are 2-4 inches. 50 cloud cover and the water temperature is 76 degrees F.  Algae is still bad with green pain cut grass and unicellular species.    
+09/09/1998,WSW wind 4-6 mph waves are 2-4 inches. 10% cloud cover with water temperature at 68 degrees F.  Algae bloom is clearing.    
+09/28/1998,SW wind 5-8 mph.  Waves 3-6".30% cloud cover.  Water temperature is 62 degrees F.  Algae is clearing unicellulars remain.    
+10/14/1998,N wind 6-8 mph. 2-4" waves. 50 % cloud cover. Water temperature is 52 degree F.  Regular algae clearing unicellular algae is worsening.    
+10/25/1998,S wind 2-4 mph. Waves 1-2 ". 15% cloud cover. Water temperature is 50 degrees. Algae is clearing unicellulars remain and are worse.  Fall turnover of water column.    
+04/24/1999,Wind SE calm.  Water flat.  Sky 100% clear.  Water temp 46 F.    
+05/14/1999,Winds NE 6-8 mph.  Water 2-4". Sky 80% clear. Water temp 57 F.    
+05/27/1999,Wind SSE 8-10 mph.  Water 2-4".  Sky 35% clear.  Air 72 F.  Water temp 60 F.    
+06/17/1999,Wind NNE 4-6 mph.  Water 1-3".  Sky 98% clear.  Water temp 66 F.    
+07/01/1999,Wind NNW 0-3 mph.  Water ripple.  Sky 40% clear.  Water temp 70 F.    
+07/18/1999,Wind NW 0-2 mph.  Water at ripple.  Sky 35% clear.  Water temp 77 F.    
+08/02/1999,Wind NW 7-9 mph.  Water 4-6".  Sky 55% clear. Water temp 74 F.    
+08/21/1999,Wind S 2-4 mph. Water 1-3".  Sky 50% clear. PNC.'s all over the place.  R.B. gulls in. water temp 74 F.    
+09/11/1999,Wind SSW 2-5 mph.  Water 1-2".  Sky 80% clear.  Water temp 66 F.    
+09/27/1999,Wind WSW 7-9 mph.  Water 2-4". Sky 5% clear. Water temp 58 F.    
+10/09/1999,Wind SW 10-14 mph.  Water 9-12".  Sky 5% clear.  Water temp 58 F.    
+10/20/1999,Wind W 6-8 mph. water 4-6". sky 60% clear. water temp 46 F.    
+04/22/2000,Wind NW 6-8- waves 1/2-1" ripples- water 46 deg. F- clouds moving in fast.    
+05/05/2000,Wind SW 8-10- waves 4-6"- sky 60% clear- water temp. 61 deg. F- air temp.65 deg. F- 2 loons by nest sight- rapid water temp. rise in last 2 weeks.    
+05/28/2000,Wind NE 3-6- 1" ripples- 60% clear sky- water temp-63 deg. F- air temp- 65 deg. F- lots of boats- 1 loon.    
+06/18/2000,Wind SW 8-10- 4-6" waves- 40% clear sky- water temp- 64 deg. F- air temp-70 deg. F    
+07/13/2000,Wind NW 4-6- 3-4" waves- 30% clear sky- water temp-72 deg. F- air temp-80 deg. F.    
+07/20/2000,Wind NW 6-8- 4-6" waves- 30% clear sky- water temp-69- air temp- 68 deg. F.    
+07/30/2000,Wind NE 5-8- 1-3" waves- 50% clear sky- water temp-71 deg. F- air temp-78 deg. F- bad unicellular algae bloom.    
+08/23/2000,Wind NW 3-5- waves 1-3"- 65% clear sky- water temp-72 deg. F- air temp-78 deg. F- algae bad    
+09/14/2000,Wind WSW 4-6- 30% clear sky- water temp-64 deg. F- air temp-59 deg. F- heavy unicellular algae- spotted heavy spirogyra bloom and elodea mats.    
+10/10/2000,Wind WSW 4-6- waves 2-4"- sky 80% clear- water temp-46 deg. F- air temp- 53 deg. F- unicellular decreasing.    
+10/19/2000,Wind SSW 8-10- waves 3-5"- 95% clear sky- water temp- 51 deg. F- air temp- 58 deg. F    
+10/31/2000,Wind SSE 5-7- 30% clear sky- water temp-50 deg. F- air temp-60- new eagle nest found- still some algae- 2 loons seen.    
+05/12/2001,West-northwest wind at 2-4 mph- waves are ripples- sky is 90% blue- air temperature is 58 degrees- water temperature is 58 degrees- lots of small floaters in the water- and great blue heron eating bulk bullhead.    
+05/29/2001,North-northwest wind at 8-10 mph- waves 2-3"- sky is 95% blue- water is 61 degrees- and air is 69 degrees.    
+06/17/2001,West-southwest wind at 6-8 mph- waves 1-2"- sky is 40% blue- water temperature is 70 degrees- air temperature is 72 degrees- sailboat and pontoon plane on lake- and no loon nest found.    
+07/08/2001,West wind at 8-10 mph- waves 2-3"- sky is 85% blue- air temperature is 76 degrees- and water temperature is 72 degrees.    
+07/22/2001,West-southwest wind is 0 mph- no waves- sky is 35% blue- air temperature is 80 degrees- water temperature is 82 degrees- and warmest water in five years.    
+08/13/2001,North-northwest wind at 5-7 mph- waves 3-4"- sky is 45% blue- air temperature is 60 degrees- water temperature is 72 degrees- big temperature drop- water cloudy- and lots of boat traffic.    
+08/24/2001,Southeast wind at 2-4 mph- waves 2-4"- sky is 96% blue- air temperature is 76 degrees- water temperature is 72 degrees- and algae common in all the lakes.    
+09/20/2001,North-northwest wind at 8-12 mph- waves 4-6"- sky is 60% blue- air temperature is 61 degrees- and water temperature is 63 degrees.    
+09/30/2001,Southwest wind at 4-7 mph- waves 2-4"- sky is 50% blue- air temperature is 65 degrees- water temperature is 58 degrees- and three loons- one adult and two young.    
+10/14/2001,West-southwest wind at 7-9 mph- waves 3-5"- sky is 40% blue- air temperature is 50 degrees- and water temperature is 52 degrees.    
+11/03/2001,Southwest wind at 3-6 mph- waves 2-4"- sky is 95% blue- air temperature is 53 degrees- water temperature is 44 degrees- two loons- and disk just short of bottom.    
+05/01/2002,Wind S2-3 mph- waves ripples- sky 90% clear- water 44 degrees F- air 52 degrees F- 2 young Eagles in Nest- Lake seems to be turning over.    
+05/21/2002,Wind NNW 2-4 mph; wave ripples; sky 95% blue; air 53 F; water 54 F--- cocopods by the 1000's.    
+06/20/2002,Wind W 6-8 mph; wave 2-4"; sky 70% blue; air 78 F;
+water 67 F- cocopods.    
+07/09/2002,Wind NE 6-9- Waves 1-3"- Sky 60% blue- Air 78 degrees F- Water 80 degrees F- warm.    
+08/07/2002,Wind SW calm- Waves calm- Sky 50% blue- Air 68 degrees F- Water 74 degrees F.  Algae bloom starting unicellular.    
+08/20/2002,Wind SW 7-9 mph- Waves 3-5"- Sky 90% blue- Air76degrees F- Water 68 degrees F- Algae abundant.    
+09/04/2002,Wind N 4-6 mph- Waves 1-2"- Sky 100% blue- Air 61 degrees F- Water 70 degrees F- Algae still bad.    
+09/27/2002,Wind NNW 5-7 mph- Waves 1-2"- Sky 100% Blue- Air 54 degrees F- Water 58 degrees F- Algae clearing Boat traffic declining.    
+05/03/2003,Wind SE 5-7- WAves1-2"- Sky 100% Blue- air 64oF- Water
+54oF
+
+    
+05/17/2003,Wind 10 mph- waves 0 calm- sky 55% blue- water 63 F- air 72 F.    
+06/20/2003,Wind SW 4- Waves 1-2"- Sky 95% Blue- Air 64oF- Water
+70oF
+
+    
+07/13/2003,Wi W 5-8- Wa 2-3"- Sky 60% B- Air75- Wat 74oF
+Water dirty lots of sediment in suspension    
+08/09/2003,Wi NNE 3-5- Wa 1-2"- sky 60%B- air75- wat 77oF Lots of
+Boat traffic and sediment    
+08/22/2003,Wind NNW 6-8- Waves 4-6"- Sky 90% Blue -Air 80oF-
+water 73oF
+    
+09/08/2003,Winds SE 4-6 mph. Waves 2-4"- sky 95% blue.  Water 73 F. Air 80 F- heavy algae bloom- strong odor (algae)    
+10/16/2003,Winds NW 6-8 mph- waves 3-5". Sky 98% blue- water 49 F.    
+05/28/2004,The wind was West by NW at 7-9 mph with waves of 1-3 inches. While the sky was 65% blue- the water temp was 59F.    
+06/15/2004,The wind was coming from the NW at 0-1mph and the waves were actually pretty calm. The sky was 65% blue. Air temp 64F. Water temp 69F.    
+07/03/2004,wind ssw 3-5 - wave2-3"- sky 55%blue- air 70oF- water71oF-lots of traffic 8-10 pwcs    
+08/01/2004,wi ssw 1-3 mph- wa 1-3"- sky 70%blue- water75oF lots of traffic    
+09/02/2004,wi 6-10 mph- wa 3-5"- sky 80% blue air 83oF- water 67oF moderate traffic    
+09/26/2004,Wi SWS 9-11.  Waves 4-6".  Sky 100% blue.  Air 70 F.  Water 64 F.  Few people out.    
+10/20/2004,Wi S 2-3.  Waves ripples.  Sky 90% blue.  Water 48 F.    
+05/20/2005,Winds SSE 5-6 mph- Wa 2-4".  Sky 95% blue.  Water 55 F.  Zebra mussel trap in.  Pair of loons seen.     
+07/08/2005,Winds SSW 7-9 mph- Wa 2-4 ". Sky 70% blue.  Water 72 F.  Dip in reading.  No zebra mussels.    
+08/07/2005,Wind SW 2-4 mph.  Wa 1-2".  Sky 80% blue.  Water 68 F.  No zebra mussels.    
+08/27/2005,Wind WSW 4-6 mph.  Wa 2-4".  Sky 80% blue.  Water 68 F.  No zebra mussels.    
+09/26/2005,Wind NW 5-7 mph.  Wa 2-4".  Sky 95% blue.  Water 64 F.  No zebra mussels.    
+10/11/2005,Wind ESE 4-6 mph.  Wa 1-3".  Sky 100% blue.  Water temp. 56 F.  Zebra mussel traps pulled.    
+05/25/2006,Winds N 8-10 mph.  Waves 2-5".  Sky 50% blue.  Water temp 65 F.  Zebra mussels traps out.
+06/24/2006,Winds WSW 8-10 mph.  Waves 2-4".  Sky 65% blue.  Water temp 72 F.  Loon with young.  No zebra mussels.
+07/11/2006,Winds ESE 4 mph.  Waves: ripples.  Sky 55% blue.  Water temp 77 F.  No zebra mussels.
+07/28/2006,Winds WSW 4-6 mph.  Waves 3-5".  Sky 65% blue.  Water temp 79 F.  Water ~ 2" low.  No zebra mussels
+08/18/2006,Winds N 4-6 mph.  Waves 1-2".   Sky 20% blue.  Water temp 75 F.  Young of year loon.  No zebra mussels found.
+09/15/2006,Winds SW 7-9 mph.  Waves 4-6".  Sky 90% blue.  Water 64 F.
+10/14/2006,Winds WSW 6-8 mph. Waves 3-5".  Sky 90% blue.  Water temp 43 F.  Clearest in a long time.  Traps pulled.  No zebra mussels.
+05/11/2007,Winds NNE 1-3 mph.  Waves: ripples.  Sky 100% blue.  Water temp 61 F.  Clearest I have seen on Mamie.
+06/11/2007,Winds SSW 7-9 mph.  Waves 5-7".  Sky 95% blue.  Water temp 68 F.  Still very clear.
+06/29/2007,Winds NNW 6-8 mph.  Waves 2-3".  Sky 98% blue.  Water temp 75 F.
+07/25/2007,Winds NW 3-5 mph.  Waves 0-1".  Sky 75% blue.  Water temp 78 F.
+08/22/2007,Winds E 0-2 mph.  Water flat.  Sky 80% blue.  68 F.  
+09/28/2007,Winds N 3-4 mph.  Waves 1".  Sky 95% blue.  Water temp 62 F.  Zebra trap pulled.
+07/29/2009,dip in date
+07/30/2009,dip in date.
+09/10/2009,Bad algal bloom.
+09/10/2009,algal bloom.
+10/15/2009,No aebra mussels found on substrate samplers.
+10/15/2009,much less boat traffic. No zebra mussels found on substrate samplers. Chinese mystery snails seen all summer.
+10/15/2009,no zebra mussels foundd. Much less boat traffic this summer. Cool summer.
+06/03/2010,Wi NNW2- Wa Rip- Sky 50% B- Wt 73F Wi NNW2- Wa Rip- Sky 50% B- Wt 73F This is the deepest clarity I have recorded in Mamie
+06/21/2010,Wi NNW 6-7 mph- Wa 4-6 inches- Sky 50% B- Wt 71F
+07/16/2010,wind NW 7-10 mph- waves 3-5 inches- sky 90% blue- Water temp 74 F
+09/01/2010,Wi NNW 8-10 mph- Wa 4-6 inches- Sky95% blue- Water Temp 71oF
+10/08/2010,Wi calm- wa 0- sky 100% blue- Water Temp 57oF
+06/13/2011,W So 6-8- Wa 2-4". sky 100%B
+
+
+07/02/2011,WiWNW  8-10- Wa3-5"- Sky 50%B 
+08/18/2011,Wi W 6-8- Wa3-6"- Sky 55%B
+09/11/2011,Wi 0- Wa 0- Sky 100%B WT 70oF
+10/01/2011,Wi NNE 1-3mph- Wa calm- Sky 95%B- Wat temp 57oF
+10/21/2011,Wi NNW 5-7mph- Wa2-4"- Sky 85%B Wat Temp 52oF
+05/13/2012,wind w 7-9 mph
+waves 3-5"
+sky 30% blue
+water temp 62oF
+06/06/2012,wind sw 2-3 mph
+waves1-2"
+sky 50% blue
+06/25/2012,wind ne 1-3 mph
+waves 1-2"
+sky 99% blue
+water temp 72oF
+07/22/2012,wind sw 3-4 mph
+waves 1-2 "
+sky 70% blue
+water temp 81oF
++
+08/12/2012,wind nnw 5-7 mph
+waves 4-6"
+sky 40% blue water temp 77oF
+
+08/20/2012,Wi WNW 7-9
+Wa 4-6"
+Sky 45% B 
+Wt 69F
+
+09/03/2012,Wi SW 2-4
+Wa Rip
+Sky 75% B
+
+10/03/2012,Wi SSE 6-8
+WA 2-4"
+Sky 100% B
+Wt 58 F
+10/15/2012,Wi NW 2-4
+Wa 1-3"
+Sky90 B
+Wt 45F
+10/29/2012,Wi SE 4-6
+Wa 1-2"
+Sky 100B Wt 43F
+05/22/2014,Arrived at landing at 1200. Departed landing at 1630.
+06/04/2014,Arrived at landing at 1150.  Sky had scattered clouds but sunny.  No wind (0).  Departed landing at 1450. No rainfall or wind in the past 48 hours and lake is forested/residential.
+06/18/2014,Rain. Shoreline/Land use is residential/wooded.
+06/26/2014,WI SE 5-7- WA 3-5" SKY 10%B TEMP 73oF  WI SE 3-5 WA1-2" SKY 40%B WATER TEMP 73oF WI SSE 5-7- WA 3-4" SKY 60%B water temp 76oF WI SE 5-7 WA 3-5 " SKY 80%B  WI WNW 3-5- WA 2-4" SKY 70% B
+07/08/2014,Land use- forested- with some development
+Past weather (48 hours) - moderate rainfall
+Currently sprinkling
+07/29/2014,Current weather: broken clouds- some wind (flag extended)
+Land use: residential/forested
+08/06/2014,Past 48 hours of weather: rain and wind
+Current weather: partly cloudy- wind on face
+Land use: wooded and residential
+08/20/2014,Rain and wind. Saw an eagle and an osprey.
+09/28/2014,Wi 3-5-Wa 1-3 -SKy 10% B
+10/04/2014,Light rain. Saw a loon.
+10/16/2014,WiSE 3-5- Wa 1-3" Sky 10%B
+
+
+
+
+Start Date,Group Name,Project Name
+08/23/1984,Data Collectors,Migrated from STORET Legacy
+10/09/1985,Data Collectors,Migrated from STORET Legacy
+05/20/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/05/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/20/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/03/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/16/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/01/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/17/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/26/1996,Thad Everson,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/29/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/13/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/30/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/12/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/25/1996,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/04/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/30/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/10/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/21/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/07/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/22/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/07/1997,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/18/1997,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/19/1997,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/01/1997,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/23/1997,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+11/07/1997,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+04/22/1998,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/06/1998,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/17/1998,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/08/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/22/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/08/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/31/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/13/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/26/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/09/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/28/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/14/1998,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/25/1998,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+04/24/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/14/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/27/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/17/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/01/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/18/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/02/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/21/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/11/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/27/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/09/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/20/1999,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+04/22/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/05/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/28/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/18/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/13/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/20/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/30/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/23/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/14/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/10/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/19/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/31/2000,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/12/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/29/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/17/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/08/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/22/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/13/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/24/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/20/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/30/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/14/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+11/03/2001,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/01/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/21/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/20/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/09/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/07/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/20/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/04/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/27/2002,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/03/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/17/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/20/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/13/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/09/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/22/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/08/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/16/2003,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/28/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/15/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/03/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/01/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/02/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/26/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/20/2004,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/20/2005,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/08/2005,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/07/2005,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/27/2005,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/26/2005,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/11/2005,Peter Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/25/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/24/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/11/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/28/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/18/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/15/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/14/2006,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/11/2007,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/11/2007,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/29/2007,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/25/2007,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/22/2007,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/28/2007,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/27/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/05/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/16/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/25/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/08/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/29/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/30/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/15/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/17/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/09/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/10/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/15/2009,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/03/2010,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/21/2010,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/16/2010,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/01/2010,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/08/2010,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/13/2011,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/02/2011,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/18/2011,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/11/2011,Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/01/2011,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/21/2011,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/13/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/06/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/25/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/22/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/12/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/20/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+09/03/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/03/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/15/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/29/2012,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/04/2013,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+06/24/2013,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/08/2013,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/20/2013,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+08/16/2013,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/22/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+05/22/2014,Mary Jo Gingras,Water Quality Monitoring - Northland College
+06/04/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+06/04/2014,Parker Matzinger- Mary Jo Gingras,Water Quality Monitoring - Northland College
+06/18/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+06/18/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+06/18/2014,Parker Matzinger- Mary Jo Gingras,Water Quality Monitoring - Northland College
+06/26/2014,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+07/08/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+07/08/2014,Devon Brock-Montgomery,Water Quality Monitoring - Northland College
+07/29/2014,Devon Brock-Montgomery,NC Chequamegon Bay Water Quality Monitoring
+07/29/2014,Devon Brock-Montgomery,Water Quality Monitoring - Northland College
+07/29/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+08/06/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+08/06/2014,Parker Matzinger,Water Quality Monitoring - Northland College
+08/20/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+08/20/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+08/20/2014,Jordan Welnetz,Water Quality Monitoring - Northland College
+09/28/2014,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+10/04/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+10/04/2014,Devon Brock-Montgomery,Water Quality Monitoring - Northland College
+10/04/2014,Kim Oldenborg,NC Chequamegon Bay Water Quality Monitoring
+10/16/2014,Peter And Carolyn Dring,Citizen Lake Monitoring - Water Quality - Mamie Lake; Deep Hole
+05/13/2015,Jordan Welnetz,Water Quality Monitoring - Northland College
+07/19/2017,Mitchell Buhler,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+08/21/2017,Data Collectors,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+08/21/2017,Mitchell Buhler,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+09/13/2017,Catherine Higley,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+09/13/2017,Data Collectors,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program

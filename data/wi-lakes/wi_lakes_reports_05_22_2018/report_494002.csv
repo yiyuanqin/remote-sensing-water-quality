@@ -1,0 +1,63 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Polk,2450800,NO,49,,494002,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/08/1979,,,,12.84,9,,45,54,,,,,
+19207139,07/26/2016,12,NO,3.6,,,41,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+49230085,07/20/2017,,,,2.77,23.1,,52,43,,,,,
+145711494,07/20/2017,10.5,NO,3.2,,,43,,,,,,,
+145711494,08/14/2017,,,,5.32,16,,50,47,,,,,
+146987459,08/14/2017,10,NO,3,,,44,,,,,,,
+49230085,09/12/2017,,,,4.27,15.4,,49,46,,,,,
+120155598,09/12/2017,9,NO,2.7,,,45,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/08/1979,,,,,7.5,MG/L
+07/20/2017,0,METERS,24.67,DEGREES C,7.75,MG/L
+07/20/2017,1,METERS,24.59,DEGREES C,6.93,MG/L
+07/20/2017,2,METERS,24.36,DEGREES C,7.35,MG/L
+07/20/2017,3,METERS,22.54,DEGREES C,0,MG/L
+07/20/2017,4,METERS,18.98,DEGREES C,0,MG/L
+07/20/2017,5,METERS,15.16,DEGREES C,0,MG/L
+08/14/2017,0,METERS,21.83,DEGREES C,7.05,MG/L
+08/14/2017,1,METERS,21.84,DEGREES C,6.62,MG/L
+08/14/2017,2,METERS,21.83,DEGREES C,6.38,MG/L
+08/14/2017,3,METERS,20.64,DEGREES C,0,MG/L
+08/14/2017,4,METERS,17.37,DEGREES C,1.12,MG/L
+08/14/2017,5,METERS,14.92,DEGREES C,0,MG/L
+09/12/2017,0,METERS,19.11,DEGREES C,9.26,MG/L
+09/12/2017,1,METERS,18.97,DEGREES C,8.45,MG/L
+09/12/2017,2,METERS,18.53,DEGREES C,8.6,MG/L
+09/12/2017,3,METERS,17.78,DEGREES C,5.79,MG/L
+09/12/2017,4,METERS,17.33,DEGREES C,3.14,MG/L
+09/12/2017,5,METERS,16.97,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/08/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/20/2017,July 20th 2017-60% cloud cover- light breeze-77oF- KA/JW/CS time 10:20 am- 45.56694 -92.278336- depth 5.5m
+08/14/2017,8/14/17- 10:34 am- 100% cloud cover- CS-KA depth 5.5-=m- filtered 200ml- chem 10:48 to 10:51am- duplicate 10:52 to 10:56
+
+09/12/2017,9/12/17- 11:08am- cloud cover 0%- breezy- sunny- 69?F- 5.3m- filtered 200 ml- chem 11:32 - 11:37am
+
+
+
+
+
+Start Date,Group Name,Project Name
+08/08/1979,Data Collectors,Migrated from STORET Legacy
+07/26/2016,ALEX SMITH,Extra Sampling - Northern Region - Spooner 
+07/20/2017,Katelin Anderson and Jeremy Williamson,Directed Lakes 2017 Smith
+07/20/2017,Katelin Anderson- Jeremy Williamson- Colton Sorensen,Directed Lakes 2017 Smith
+08/14/2017,Katelin Anderson- Colton Sorensen,Directed Lakes 2017 Smith
+08/14/2017,Katelin Anderson- Jeremy Williamson- Colton Sorensen,Directed Lakes 2017 Smith
+09/12/2017,Katelin Anderson and Dane Christenson,Directed Lakes 2017 Smith
+09/12/2017,Katelin Anderson and Jeremy Williamson,Directed Lakes 2017 Smith

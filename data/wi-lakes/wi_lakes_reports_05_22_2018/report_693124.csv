@@ -1,0 +1,363 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rainbow Lake ,Waupaca,265300,NE,69,,693124,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,11/03/1980,,,,6,,,,48,,,,,
+1,02/26/1981,,,,,20,,51,,,,,,
+1,04/15/1981,,,,,20,,51,,,,,,
+1,10/27/1981,,,,,20,,51,,,,,,
+1,02/22/1982,,,,,20,,51,,,,,,
+1,05/10/1982,,,,,20,,51,,,,,,
+1,05/31/1991,,,,4,8,,44,45,,,,,
+1,08/08/1991,,,,4,8,,44,45,,,,,
+1,09/06/1991,,,,4,6,,42,45,,,,,
+1,05/06/1992,,,,9,11,,47,51,,,,,
+1,07/15/1992,,,,,,,,,,,,,
+1,09/23/1992,27.6,,8.4,4.47,5,29,41,46,,,,,
+1,02/02/1993,,,,,8,,44,,,,,,
+1,05/20/1993,25.9,,7.9,4.76,20,30,51,47,,,,,
+1,08/17/1993,,,,4.71,9,,45,47,,,,,
+1,10/06/1993,,,,6.89,8,,44,49,,,,,
+1,01/24/1994,,,,,19,,51,,,,,,
+1,05/03/1994,,,,6.31,11,,47,49,,,,,
+8190880,05/03/1994,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/26/1994,,,,,9,,45,,,,,,
+1,05/30/1994,,,,,7,,43,,,,,,
+1,08/03/1994,26.2,,8,4.35,7,30,43,46,,,,,
+8190880,08/03/1994,8,NO,2.4,,,47,,,,,,,1-Beautiful, could not be nicer
+1,09/22/1994,,,,2.89,34,,55,43,,,,,
+8190880,09/22/1994,7,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000093,08/01/2000,5.9,,1.8,3,11,52,47,43,,,,,
+8188630,07/18/2007,5.6,NO,1.7,7.94,13,52,48,50,,,,,
+29412424,06/01/2009,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29412424,06/04/2009,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,07/13/2013,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/01/2013,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/09/2013,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/16/2013,8.75,NO,2.7,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/31/2013,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,06/25/2014,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/01/2014,9.75,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/08/2014,10.75,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,06/19/2015,17,NO,5.2,4.32,14.1,36,49,46,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,07/19/2015,20.75,NO,6.3,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/11/2015,17,NO,5.2,3.62,6.08,36,42,45,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/30/2015,9.5,NO,2.9,3.08,10.3,45,46,43,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,04/20/2016,12.5,N,3.8,2.58,10.6,41,46,42,,,,,
+1,06/29/2016,10.5,N,3.2,,13,43,48,,,,,,
+81855176,07/12/2016,11,NO,3.3,1.96,8.89,43,45,40,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/26/2016,7.3,N,2.2,3.32,15.3,48,49,44,,,,,
+81855176,08/08/2016,8.5,NO,2.6,3.06,9.88,46,46,43,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,08/30/2016,6.4,N,1.9,2.67,9.83,50,46,42,,,,,
+81855176,08/31/2016,6.5,NO,2,,,50,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,10/17/2016,10.2,N,3.1,2.02,10.2,44,46,40,,,,,
+1,02/16/2017,14.8,N,4.5,,16,38,50,,,,,,
+125961548,04/29/2017,,,,,,,,,,,,,
+125961548,05/01/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+125961548,06/01/2017,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+143167470,06/27/2017,,,,1.7,14.2,,49,39,,,,,
+125961548,07/24/2017,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/13/2017,,,,3.37,9.81,,46,44,,,,,
+125961548,08/28/2017,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+81855176,09/10/2017,,,,3.32,12.1,,47,44,,,,,
+125961548,09/30/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/03/1980,,,8.2,C,8.9,MG/L
+02/26/1981,,,4.1,C,5.1,MG/L
+04/15/1981,,,5.8,C,10.9,MG/L
+10/27/1981,,,7.9,C,5.2,MG/L
+02/22/1982,,,2.1,C,7.9,MG/L
+05/10/1982,,,13.8,C,1.6,MG/L
+07/15/1992,,,4.63,C,0.11,MG/L
+09/23/1992,,,17.05,C,0.48,MG/L
+02/02/1993,,,2.42,C,1.33,MG/L
+05/20/1993,,,14.94,C,0.22,MG/L
+08/17/1993,,,24.51,C,0.15,MG/L
+10/06/1993,,,12.48,C,0.67,MG/L
+01/24/1994,,,2.03,C,11.1,MG/L
+05/03/1994,,,5.14,C,12.2,MG/L
+08/03/1994,,,23.83,C,0.45,MG/L
+09/22/1994,,,21.51,C,0.43,MG/L
+08/01/2000,,,24.5,C,9.2,MG/L
+07/18/2007,0.5,METERS,25.8,DEGREES C,10,MG/L
+07/18/2007,1,METERS,25.8,DEGREES C,10,MG/L
+07/18/2007,2,METERS,25.7,DEGREES C,10.1,MG/L
+07/18/2007,3,METERS,24.8,DEGREES C,10.1,MG/L
+07/18/2007,4,METERS,23.8,DEGREES C,9.8,MG/L
+07/18/2007,5,METERS,22.9,DEGREES C,9.4,MG/L
+07/18/2007,6,METERS,16.9,DEGREES C,14.2,MG/L
+07/18/2007,7,METERS,11.8,DEGREES C,12.8,MG/L
+07/18/2007,8,METERS,9.4,DEGREES C,10.4,MG/L
+07/18/2007,9,METERS,6.9,DEGREES C,7.8,MG/L
+07/18/2007,10,METERS,6.4,DEGREES C,5.8,MG/L
+07/18/2007,11,METERS,6.1,DEGREES C,5.5,MG/L
+07/18/2007,12,METERS,5.6,DEGREES C,4.6,MG/L
+07/18/2007,13,METERS,5.4,DEGREES C,3.8,MG/L
+07/18/2007,14,METERS,5.3,DEGREES C,2.9,MG/L
+07/18/2007,15,METERS,5.1,DEGREES C,2.3,MG/L
+07/18/2007,16,METERS,5.1,DEGREES C,1.7,MG/L
+07/18/2007,17,METERS,5,DEGREES C,1.1,MG/L
+07/18/2007,18,METERS,4.9,DEGREES C,0.4,MG/L
+07/18/2007,19,METERS,4.9,DEGREES C,0.3,MG/L
+07/18/2007,20,METERS,4.8,DEGREES C,0.3,MG/L
+07/18/2007,22,METERS,4.7,DEGREES C,0.3,MG/L
+07/18/2007,24,METERS,4.7,DEGREES C,0.2,MG/L
+07/18/2007,24.5,METERS,4.7,DEGREES C,0.2,MG/L
+06/19/2015,0,FEET,72.8,DEGREES F,,
+06/19/2015,8,FEET,72.3,DEGREES F,,
+06/19/2015,16,FEET,69.6,DEGREES F,,
+06/19/2015,24,FEET,59.7,DEGREES F,,
+06/19/2015,32,FEET,50.5,DEGREES F,,
+06/19/2015,40,FEET,47.6,DEGREES F,,
+08/11/2015,0,FEET,76.8,DEGREES F,,
+08/11/2015,4,FEET,76.8,DEGREES F,,
+08/11/2015,8,FEET,76.8,DEGREES F,,
+08/11/2015,12,FEET,76.8,DEGREES F,,
+08/11/2015,16,FEET,75,DEGREES F,,
+08/11/2015,20,FEET,74.4,DEGREES F,,
+08/11/2015,24,FEET,65.4,DEGREES F,,
+08/11/2015,28,FEET,57.2,DEGREES F,,
+08/11/2015,32,FEET,52.5,DEGREES F,,
+08/11/2015,36,FEET,47.4,DEGREES F,,
+08/11/2015,40,FEET,46.5,DEGREES F,,
+09/30/2015,0,FEET,68,DEGREES F,,
+09/30/2015,4,FEET,68,DEGREES F,,
+09/30/2015,8,FEET,68,DEGREES F,,
+09/30/2015,12,FEET,68.1,DEGREES F,,
+09/30/2015,16,FEET,68,DEGREES F,,
+09/30/2015,20,FEET,68,DEGREES F,,
+09/30/2015,24,FEET,67.6,DEGREES F,,
+09/30/2015,28,FEET,62,DEGREES F,,
+09/30/2015,32,FEET,54.3,DEGREES F,,
+09/30/2015,36,FEET,50.9,DEGREES F,,
+09/30/2015,40,FEET,48.9,DEGREES F,,
+04/20/2016,,,11.5,C,11.2,MG/L
+06/29/2016,,,25.5,C,0.6,MG/L
+07/12/2016,0,FEET,78.6,DEGREES F,,
+07/12/2016,4,FEET,78.4,DEGREES F,,
+07/12/2016,8,FEET,78.2,DEGREES F,,
+07/12/2016,12,FEET,78,DEGREES F,,
+07/12/2016,16,FEET,75.7,DEGREES F,,
+07/12/2016,20,FEET,64.4,DEGREES F,,
+07/12/2016,24,FEET,55.1,DEGREES F,,
+07/12/2016,28,FEET,51.2,DEGREES F,,
+07/12/2016,32,FEET,47.1,DEGREES F,,
+07/12/2016,36,FEET,45.3,DEGREES F,,
+07/12/2016,40,FEET,44,DEGREES F,,
+07/26/2016,,,27.2,C,0.1,MG/L
+08/08/2016,0,FEET,79.3,DEGREES F,,
+08/08/2016,4,FEET,79.3,DEGREES F,,
+08/08/2016,8,FEET,79.1,DEGREES F,,
+08/08/2016,12,FEET,78.6,DEGREES F,,
+08/08/2016,16,FEET,76.8,DEGREES F,,
+08/08/2016,20,FEET,67.8,DEGREES F,,
+08/08/2016,24,FEET,58.4,DEGREES F,,
+08/08/2016,28,FEET,51.6,DEGREES F,,
+08/08/2016,32,FEET,48.5,DEGREES F,,
+08/08/2016,36,FEET,46.2,DEGREES F,,
+08/08/2016,40,FEET,44.4,DEGREES F,,
+08/30/2016,,,25.4,C,0.1,MG/L
+10/17/2016,,,16.6,C,0.1,MG/L
+02/16/2017,,,2.8,C,0.4,MG/L
+04/29/2017,0,FEET,52.8,DEGREES F,,
+04/29/2017,1,FEET,53,DEGREES F,,
+04/29/2017,2,FEET,53,DEGREES F,,
+04/29/2017,3,FEET,53,DEGREES F,,
+04/29/2017,4,FEET,53,DEGREES F,,
+04/29/2017,5,FEET,53,DEGREES F,,
+04/29/2017,6,FEET,53,DEGREES F,,
+04/29/2017,7,FEET,53,DEGREES F,,
+04/29/2017,8,FEET,53,DEGREES F,,
+04/29/2017,9,FEET,53,DEGREES F,,
+04/29/2017,10,FEET,53,DEGREES F,,
+04/29/2017,11,FEET,53,DEGREES F,,
+04/29/2017,12,FEET,53,DEGREES F,,
+04/29/2017,13,FEET,52.9,DEGREES F,,
+04/29/2017,14,FEET,52.9,DEGREES F,,
+04/29/2017,15,FEET,52.9,DEGREES F,,
+04/29/2017,16,FEET,52.9,DEGREES F,,
+04/29/2017,17,FEET,52.9,DEGREES F,,
+04/29/2017,18,FEET,52.9,DEGREES F,,
+04/29/2017,19,FEET,53,DEGREES F,,
+04/29/2017,20,FEET,52.4,DEGREES F,,
+04/29/2017,21,FEET,51.3,DEGREES F,,
+04/29/2017,22,FEET,50.7,DEGREES F,,
+04/29/2017,23,FEET,49.6,DEGREES F,,
+04/29/2017,24,FEET,48.9,DEGREES F,,
+04/29/2017,25,FEET,47.1,DEGREES F,,
+04/29/2017,26,FEET,45.8,DEGREES F,,
+04/29/2017,27,FEET,44.4,DEGREES F,,
+04/29/2017,28,FEET,44.1,DEGREES F,,
+04/29/2017,29,FEET,43.8,DEGREES F,,
+04/29/2017,30,FEET,43.6,DEGREES F,,
+04/29/2017,31,FEET,43.5,DEGREES F,,
+04/29/2017,32,FEET,43.3,DEGREES F,,
+04/29/2017,33,FEET,43,DEGREES F,,
+04/29/2017,34,FEET,42.8,DEGREES F,,
+04/29/2017,35,FEET,42.5,DEGREES F,,
+04/29/2017,36,FEET,42.3,DEGREES F,,
+04/29/2017,37,FEET,42.2,DEGREES F,,
+04/29/2017,38,FEET,42.2,DEGREES F,,
+04/29/2017,39,FEET,42.2,DEGREES F,,
+04/29/2017,40,FEET,42,DEGREES F,,
+06/01/2017,0,FEET,67.6,DEGREES F,,
+06/01/2017,1,FEET,67.6,DEGREES F,,
+06/01/2017,2,FEET,67.4,DEGREES F,,
+06/01/2017,3,FEET,67.2,DEGREES F,,
+06/01/2017,4,FEET,67.2,DEGREES F,,
+06/01/2017,5,FEET,67.2,DEGREES F,,
+06/01/2017,6,FEET,66.5,DEGREES F,,
+06/01/2017,7,FEET,66,DEGREES F,,
+06/01/2017,8,FEET,65.9,DEGREES F,,
+06/01/2017,9,FEET,65.1,DEGREES F,,
+06/01/2017,10,FEET,64.4,DEGREES F,,
+06/01/2017,11,FEET,63.8,DEGREES F,,
+06/01/2017,12,FEET,63.2,DEGREES F,,
+06/01/2017,13,FEET,62.4,DEGREES F,,
+06/01/2017,14,FEET,62.5,DEGREES F,,
+06/01/2017,15,FEET,62.7,DEGREES F,,
+06/01/2017,16,FEET,62.5,DEGREES F,,
+06/01/2017,17,FEET,62.4,DEGREES F,,
+06/01/2017,18,FEET,61.9,DEGREES F,,
+06/01/2017,19,FEET,61.5,DEGREES F,,
+06/01/2017,20,FEET,60.7,DEGREES F,,
+06/01/2017,21,FEET,60,DEGREES F,,
+06/01/2017,22,FEET,58.2,DEGREES F,,
+06/01/2017,23,FEET,57.5,DEGREES F,,
+06/01/2017,24,FEET,55.9,DEGREES F,,
+06/01/2017,25,FEET,54.3,DEGREES F,,
+06/01/2017,26,FEET,51.4,DEGREES F,,
+06/01/2017,27,FEET,50,DEGREES F,,
+06/01/2017,28,FEET,49.3,DEGREES F,,
+06/01/2017,29,FEET,48.5,DEGREES F,,
+06/01/2017,30,FEET,47.9,DEGREES F,,
+06/01/2017,31,FEET,47.4,DEGREES F,,
+06/01/2017,32,FEET,47,DEGREES F,,
+06/01/2017,33,FEET,44,DEGREES F,,
+06/01/2017,34,FEET,45.6,DEGREES F,,
+06/01/2017,35,FEET,45.3,DEGREES F,,
+06/01/2017,36,FEET,44.7,DEGREES F,,
+06/01/2017,37,FEET,44.2,DEGREES F,,
+06/01/2017,38,FEET,44.2,DEGREES F,,
+06/01/2017,39,FEET,44.2,DEGREES F,,
+06/01/2017,40,FEET,43.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+11/03/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/15/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/22/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/10/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/01/2000,INTEGRATED SAMPLER    
+06/01/2009,Sunny- 68 Degrees 
+06/04/2009,Sunny- 72 Degrees
+07/13/2013,Boaters were still out even after waterskiing ended at 2:30. Mostly Sunny.
+08/01/2013,Winds W at 16 mph. Partly Cloudy. Windy. Waves. Boaters were out. 
+08/09/2013,Mostly Sunny. Windy. Winds NW at 9 mph. Boaters are out.
+08/16/2013,Mostly Cloudy. Boaters are out. Mostly Cloudy. Boaters are out.
+08/31/2013,Sunny. Increased boat traffic due to Labor Day weekend.
+06/25/2014,Five fast boats on water-
+08/01/2014,3 boaters
+08/08/2014,5 boaters
+06/19/2015,2 fast boats
+07/19/2015,8 fast boats
+08/11/2015,five fast boaters
+09/30/2015,0 fast boats- surface water temp 68.1 F
+07/12/2016,5 fast boats
+08/08/2016,8 fast boats
+08/31/2016,1 fast boat
+06/01/2017,Clear blue skies- temps in the upper 70's- moderate winds- loons- herons- cranes- a lot of wildlife on and around the lake.  Tests taken by myself and my husband- Bob Wells.
+08/28/2017,Rainbow Lake was as bad as Taylor Lake- the succhi Disk read only 10 ft.- the water color
+was a noticeable darker green.   The abuse by boats to big to be here- and the quantity of boats- and the number of rental pontoon boats with no place for all these people to use a bathroom is killing a natural treasure.  It breaks my heart that the DNR and the lakes Association are doing nothing to stop this.  When I moved here is 1963 these lakes were something so very special- no longer- humans are ruining them. Please do something to help keep our lakes alive.  Helps us Lake Association.  Help us DNR'  Rental pontoon boats are allowing in excess of 600 passengers to relieve themselves in our lake- several times a day.  Please stop this horrible pollution.
+09/30/2017,The following readings and temperatures are for Sunset Lake- Waupaca Chain O' Lakes
+09/30/2017,These temperatures and the succhi reading are from Rainbow Lake- Waupaca Chain o Lakes- format does not want to accept correct location.
+
+
+
+
+Start Date,Group Name,Project Name
+11/03/1980,Data Collectors,Migrated from STORET Legacy
+02/26/1981,Data Collectors,Migrated from STORET Legacy
+04/15/1981,Data Collectors,Migrated from STORET Legacy
+10/27/1981,Data Collectors,Migrated from STORET Legacy
+02/22/1982,Data Collectors,Migrated from STORET Legacy
+05/10/1982,Data Collectors,Migrated from STORET Legacy
+05/31/1991,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/31/1991,Data Collectors,LAKE MGT PROJECTS
+08/08/1991,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/08/1991,Data Collectors,LAKE MGT PROJECTS
+09/06/1991,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/06/1991,Data Collectors,LAKE MGT PROJECTS
+05/06/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/06/1992,Data Collectors,LAKE MGT PROJECTS
+07/15/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+07/15/1992,Data Collectors,LAKE MGT PROJECTS
+09/23/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/23/1992,Data Collectors,LAKE MGT PROJECTS
+02/02/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+02/02/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/17/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/17/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/06/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+10/06/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/24/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+01/24/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+05/26/1994,Data Collectors,Motorboat Lake Sediment Study 1993-1994
+05/30/1994,Data Collectors,Motorboat Lake Sediment Study 1993-1994
+08/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+08/03/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+09/22/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Upper Waupaca Chain O'Lakes Management Planning
+09/22/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/22/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/01/2000,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+07/18/2007,USGS,National Lake Survey - Index Sampling
+06/01/2009,Richard Hammen,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+06/04/2009,Richard Hammen,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+07/13/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/01/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/09/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/16/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/31/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+06/25/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/01/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/08/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+06/19/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+07/19/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/11/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+09/30/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+04/20/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+06/29/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+07/12/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/08/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/30/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/31/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+10/17/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+02/16/2017,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+04/29/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+05/01/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+06/01/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+06/27/2017,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+07/24/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/13/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+08/28/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+09/10/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+09/30/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Rainbow Lake - Deep Hole
+09/30/2017,Mary Ann Wells,Citizen Lake Monitoring - Water Quality - Sunset Lake - Deep Hole

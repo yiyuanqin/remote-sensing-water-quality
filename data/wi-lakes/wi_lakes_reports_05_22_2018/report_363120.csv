@@ -1,0 +1,351 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Cedar Lake,Manitowoc,45100,NE,36,,363120,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1973,,,,,70,,61,,,,,,
+1,11/29/1973,,,,,30,,54,,,,,,
+1,04/25/1974,16.1,,4.9,,10,37,46,,,,,,
+1,08/29/1974,,,,,40,,57,,,,,,
+1,10/30/1974,,,,,60,,60,,,,,,
+1,03/17/1975,,,,,20,,51,,,,,,
+1,07/21/1988,12.1,,3.7,5,9,41,45,47,,,,,
+1,08/30/1988,9.2,,2.8,7,12,45,47,50,,,,,
+1,06/12/1997,,,,1.5,8,,44,38,,,,,
+1,07/15/1997,,,,2.26,8,,44,41,,,,,
+1,08/13/1997,,,,4.85,0,,,47,,,,,
+1,02/10/1998,,,,,,,,,,,,,
+1,04/14/1998,,,,4.99,8,,44,47,,,,,
+8189421,06/26/1999,14.75,NO,4.5,,,38,,,,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8189421,07/17/1999,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,08/07/1999,10,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,08/15/1999,10,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,08/29/1999,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,10/10/1999,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,07/23/2000,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,07/28/2001,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,09/01/2001,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,07/13/2002,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,08/03/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,07/26/2003,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189421,09/01/2003,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189421,06/26/2004,23,NO,7,,,32,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189421,07/18/2004,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,10/10/2005,14.6,NO,4.4,,,39,,,,,,,
+10418673,10/13/2005,20.3,NO,6.2,,,34,,,,,,,
+10418673,10/20/2005,17.2,NO,5.2,,,36,,,,,,,
+10418673,10/27/2005,19.3,,5.9,,,34,,,,,,,
+10418673,05/30/2006,,,,,4,,39,,,,,,
+10418673,06/14/2006,21.1,,6.4,0.99,11,33,47,35,,,,,
+10418673,07/11/2006,15.5,,4.7,3.11,20,38,51,43,,,,,
+10418673,07/15/2006,15.5,,4.7,,,38,,,,,,,
+10418673,07/23/2006,14.6,,4.4,,,39,,,,,,,
+10418673,08/20/2006,10.5,,3.2,3.63,15,43,49,45,,,,,
+10418673,05/23/2007,,,,,16,,50,,,,,,
+10418673,06/11/2007,,,,1.39,22,,52,37,,,,,
+10418673,07/21/2007,15.1,NO,4.6,,,38,,,,,,,
+10418673,07/25/2007,14.9,NO,4.5,2.19,14,38,49,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,08/14/2007,14.3,NO,4.3,,,39,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+10418673,08/29/2007,13.6,NO,4.1,4.11,12,40,47,45,,,,,
+10418673,10/07/2007,16.8,NO,5.1,,,36,,,,,,,
+10418673,11/03/2007,25.1,NO,7.6,,,31,,,,,,,
+10418673,05/29/2008,,,,,14,,49,,,,,,
+10418673,06/26/2008,,,,1.78,15,,49,39,,,,,
+10418673,07/14/2008,16.9,NO,5.1,1.2,12,36,47,36,,,,,
+10418673,08/01/2008,13.1,NO,4,,,40,,,,,,,
+10418673,09/09/2008,,,,3.74,16,,50,45,,,,,
+10418673,09/28/2008,13.1,NO,4,,,40,,,,,,,
+10418673,10/05/2008,16.6,NO,5,,,37,,,,,,,
+10418673,10/22/2008,18.3,NO,5.6,,,35,,,,,,,
+10418673,05/04/2009,16.5,,5,,,37,,,,,,,
+10418673,05/20/2009,15.75,,4.8,,14,37,49,,,,,,
+10418673,06/17/2009,18.1,,5.5,5.98,20,35,51,48,,,,,
+10418673,07/23/2009,9.3,,2.8,4.3,16,45,50,46,,,,,
+10418673,08/19/2009,12.4,,3.8,3.69,19,41,51,45,,,,,
+10418673,10/27/2009,21.3,,6.5,,,33,,,,,,,
+35787605,04/27/2010,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+10418673,05/16/2010,18.1,,5.5,,14,35,49,,,,,,
+10418673,06/09/2010,9.2,,2.8,5.39,15,45,49,48,,,,,
+10418673,06/30/2010,9.2,,2.8,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+10418673,07/06/2010,9.1,,2.8,4.67,14,45,49,46,,,,,
+10418673,08/12/2010,10.1,,3.1,2.65,15,44,49,42,,,,GREEN,2-Very minor aesthetic problems
+35787605,10/16/2010,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10418673,11/09/2010,25.1,,7.6,,,31,,,,,,,1-Beautiful, could not be nicer
+10418673,05/26/2011,15.3,NO,4.7,,17,38,50,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,06/18/2011,14,NO,4.3,3.77,15,39,49,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,07/24/2011,10.2,NO,3.1,2.78,19,44,51,43,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,08/31/2011,9.5,NO,2.9,3.06,18,45,51,43,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,10/27/2011,21.3,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,05/29/2012,16.1,,4.9,,16,37,50,,,,,,
+10418673,06/21/2012,11.5,,3.5,3.42,16,42,50,44,NORMAL,,,GREEN,2-Very minor aesthetic problems
+10418673,07/19/2012,8.5,,2.6,3.31,11,46,47,44,NORMAL,,,GREEN,2-Very minor aesthetic problems
+10418673,08/27/2012,13,,4,2.72,10,40,46,42,NORMAL,,,GREEN,2-Very minor aesthetic problems
+10418673,09/09/2012,12.6,,3.8,,,41,,,,,,,
+10418673,10/05/2012,12.1,,3.7,,,41,,,,,,,
+10418673,04/28/2013,10.1,NO,3.1,,19.7,44,51,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10418673,05/19/2013,,NO,,,,,,,NORMAL,10.3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+10418673,05/29/2013,12.5,NO,3.8,,20.7,41,52,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+10418673,06/11/2013,11.1,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,07/11/2013,12.1,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,07/16/2013,,,,2.45,9.36,,45,42,,,,,
+10418673,10/07/2013,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,04/15/2014,,,,,13.4,,48,,,,,,
+10418673,05/08/2014,, ,,,,,,,NORMAL,890.8,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,05/17/2014,17.2,NO,5.2,,,36,,,NORMAL,891.03,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,06/16/2014,14.1,NO,4.3,4.77,22,39,52,47,,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,07/09/2014,11.8,NO,3.6,3.62,19.6,42,51,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,08/19/2014,10.1,NO,3.1,4.3,16.1,44,50,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,09/26/2014,13.2,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,10/10/2014,21.1,NO,6.4,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,04/02/2015,,,,,20.7,,52,,,,,,
+10418673,04/14/2015,24.8,NO,7.5,,,31,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+10418673,04/30/2015,20.9,NO,6.4,,,33,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+10418673,06/10/2015,17.1,NO,5.2,,,36,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+10418673,06/17/2015,14.8, ,4.5,2.84,20.5,38,52,43,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+10418673,07/22/2015,11.8,NO,3.6,2.07,15,42,49,40,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,08/07/2015,12.8,NO,3.9,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,08/28/2015,11.6,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,09/21/2015,12.4,NO,3.8,3.14,12.6,41,48,43,NORMAL,12.4,CLEAR,,2-Very minor aesthetic problems
+10418673,10/18/2015,19.8,NO,6,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,04/18/2016,,,,,12.7,,48,,,,,,
+10418673,05/22/2016,18.4,,5.6,,,35,,,,891.1,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,06/15/2016,17.8,,5.4,5.51,19.2,36,51,48,NORMAL,891.1,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,06/25/2016,12.5,NO,3.8,,,41,,,HIGH,891.4,CLEAR,GREEN,1-Beautiful, could not be nicer
+10418673,06/29/2016,11.4,NO,3.5,,,42,,,HIGH,891.3,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,07/17/2016,,,,4.31,12.1,,47,46,,,,,
+10418673,07/25/2016,9.4,NO,2.9,,,45,,,HIGH,891.2,CLEAR,GREEN,2-Very minor aesthetic problems
+10418673,08/09/2016,,,,2.86,17.3,,50,43,,,,,
+10418673,08/30/2016,9.9,NO,3,,,44,,,NORMAL,891.1,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10418673,04/04/2017,,,,,26.8,,54,,,,,,
+10418673,06/07/2017,12.2,,3.7,,,41,,,,,,,
+10418673,06/14/2017,,,,4.71,21.6,,52,47,,,,,
+10418673,07/09/2017,12.2,NO,3.7,,,41,,,,,,,2-Very minor aesthetic problems
+10418673,07/11/2017,14.4,NO,4.4,2.57,18.1,39,51,42,,,CLEAR,,2-Very minor aesthetic problems
+10418673,07/20/2017,12.9,NO,3.9,,,40,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+10418673,07/23/2017,12.9,NO,3.9,,,40,,,NORMAL,,CLEAR,,
+10418673,08/08/2017,11.9,NO,3.6,3.49,15.6,41,49,44,NORMAL,,CLEAR,,
+10418673,08/22/2017,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/1973,,,18.3333,C,3.5,MG/L
+11/29/1973,,,.555556,C,12.1,MG/L
+04/25/1974,,,10.8333,C,11,MG/L
+08/29/1974,,,19.7222,C,2.4,MG/L
+10/30/1974,,,11.6667,C,10,MG/L
+03/17/1975,,,0,C,5.1,MG/L
+07/21/1988,,,24.7,C,2.5,MG/L
+08/30/1988,,,21.0,C,8.4,MG/L
+10/10/2005,0,FEET,63.4,DEGREES F,8.8,MG/L
+10/10/2005,3,FEET,63.9,DEGREES F,8.61,MG/L
+10/10/2005,6,FEET,64.3,DEGREES F,8.4,MG/L
+10/10/2005,9,FEET,64.5,DEGREES F,8.35,MG/L
+10/10/2005,12,FEET,64.6,DEGREES F,8.27,MG/L
+10/10/2005,15,FEET,64.6,DEGREES F,8.22,MG/L
+10/10/2005,18,FEET,64.6,DEGREES F,8.3,MG/L
+10/10/2005,21,FEET,64.6,DEGREES F,8.35,MG/L
+10/10/2005,24,FEET,64.2,DEGREES F,5.6,MG/L
+10/10/2005,27,FEET,64.1,DEGREES F,.39,MG/L
+10/13/2005,0,FEET,59.7,DEGREES F,7.89,MG/L
+10/13/2005,3,FEET,59.5,DEGREES F,8.51,MG/L
+10/13/2005,6,FEET,59.4,DEGREES F,8.48,MG/L
+10/13/2005,9,FEET,59.4,DEGREES F,8.71,MG/L
+10/13/2005,12,FEET,59.4,DEGREES F,8.66,MG/L
+10/13/2005,15,FEET,59.4,DEGREES F,8.65,MG/L
+10/13/2005,18,FEET,59.4,DEGREES F,8.66,MG/L
+10/13/2005,21,FEET,59.3,DEGREES F,8.59,MG/L
+10/13/2005,24,FEET,59.4,DEGREES F,3.18,MG/L
+10/13/2005,27,FEET,59.5,DEGREES F,.8,MG/L
+10/20/2005,0,FEET,58.4,DEGREES F,8.64,MG/L
+10/20/2005,3,FEET,57.7,DEGREES F,9.1,MG/L
+10/20/2005,6,FEET,57.5,DEGREES F,9.21,MG/L
+10/20/2005,9,FEET,57.2,DEGREES F,9.28,MG/L
+10/20/2005,12,FEET,57.1,DEGREES F,9.25,MG/L
+10/20/2005,15,FEET,57.1,DEGREES F,9.4,MG/L
+10/20/2005,18,FEET,57.1,DEGREES F,9.44,MG/L
+10/20/2005,21,FEET,57,DEGREES F,9.41,MG/L
+10/20/2005,24,FEET,56.9,DEGREES F,9.45,MG/L
+10/20/2005,27,FEET,57,DEGREES F,2.95,MG/L
+10/27/2005,0,FEET,52.5,DEGREES F,9.75,MG/L
+10/27/2005,3,FEET,52.6,DEGREES F,9.75,MG/L
+10/27/2005,6,FEET,52.6,DEGREES F,9.76,MG/L
+10/27/2005,9,FEET,52.6,DEGREES F,9.73,MG/L
+10/27/2005,12,FEET,52.6,DEGREES F,9.78,MG/L
+10/27/2005,15,FEET,52.5,DEGREES F,9.77,MG/L
+10/27/2005,18,FEET,52.5,DEGREES F,9.73,MG/L
+10/27/2005,21,FEET,52.5,DEGREES F,9.79,MG/L
+10/27/2005,24,FEET,53,DEGREES F,.44,MG/L
+05/26/2011,0,FEET,60,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/26/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/29/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/25/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/30/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/17/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/26/1999,Sunny with a few cumulus clouds- 80 F with 20 mph wind- water clearer than we thought it would be- a lot of sediment all over anchor when drawn up- not much boat traffic at this time.    
+07/17/1999,15 mph wind- 80 F- 1-2" of rain fell last night + this morning- a lot of water skiing- jet skiing- + tubing occurring today- sunny with a few cumulus clouds.    
+08/07/1999,70 F- 15 mph wind- partly sunny with cumulus clouds- not very much boat activity at all today.    
+08/15/1999,Sunny skies- few clouds- windy -20 mph- quite a bit of boat activity. anchor was full of muck + weeds when we pulled it up. foam on shore.    
+08/29/1999,A few boats skiing/tubing- not a lot of traffic- cumulus clouds- sunny- 20 mph winds- 70 F.    
+07/28/2001,Some water skiing activity and there is a gentle breeze.    
+09/01/2001,Very little boat activity today- there is a brisk east wind- and it is sunny with a few cumulus clouds.    
+07/13/2002,Of all the years taking measurements- this has been the lowest clarity reading for July that I have taken. Also found Zebra Mussels @ the small island. Partly cloudy/sunny with 5 mph breeze. Moderate boat traffic.    
+08/03/2002,Quite a bit of jet ski and boating activity today. Sky was sunny and hazy. Breeze at 10 mph. Lake cleared up a lot since 7-13 reading. Found zebra mussels everywhere- attached to cattail roots- and snails. Cannot walk barefoot in lake anymore due to zebra mussels on shore. Increase in amount of snails on shore. More weed growth in lake. Was really pleased to see that there was hardly any algae on lake at this time.    
+07/26/2003,Sunny- few clouds. Moderate boat activity during the day. Did not find as many zebra mussels.    
+09/01/2003,Sunny- 10 mph breeze. Lots of boat activity. Low zebra mussel and snail population.    
+06/26/2004,Wind around 20mph. Sunny with scattered clouds. No wake rule being enforced. Exceptional clarity- never before had a reading this deep. No sediment churned up in water at all. Some foam on water surface.    
+07/18/2004,Wind around 10-15mph. 68 degree air temp. No wake rule still in effect. More foam on top of the water- some algae appearing- very minimal.    
+10/10/2005,Partly cloudy- winds N 4 mph.  Air temp. 60.1 F
+10/13/2005,Partly cloudy- heavy algae.  Air temp. 66.7.  Wind 0.  
+10/20/2005,Partly cloudy- air temp 64 F.  1/2 of algae reported last time.  Wind 0.  
+10/27/2005,Wind 2 mph North.  Overcast.  Air temp. 49.6 F.  Very little algae.  
+05/30/2006,Phosphorus sample taken.  Algae bloom earlier in May.  Appearance murky and green.  Water 70 F- air 72 F.
+06/14/2006,Phosphorus and chlorophyll samples taken
+07/11/2006,Phosphorus and chlorophyll samples taken
+08/20/2006,Phosphorus and chlorophyll samples taken.  Note: fall water appearance was green to light green.  Algae lasting into December.  Usually clear by November.
+05/20/2009,15 mph SW wind- sunny- 70 F air temperature- 62 F surface water temperature.  Secchi disc 15.75 ft.
+04/27/2010,Clear sunny day- 13 turtles and floating grass on lake
+10/16/2010,Partly cloudy- 62 degrees- variable breezes- one otter and one ring billed seagull on lake- oak trees in full colco- water level appears up by at least 10 inches
+05/26/2011,partyly cloudy 25mph light pea green algae
+06/18/2011,calm- light pea green algae
+07/24/2011,calm- pea green algae
+08/31/2011,calm- pea green algae
+10/27/2011,calm
+05/08/2014,light tea green water
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1973,Data Collectors,Migrated from STORET Legacy
+11/29/1973,Data Collectors,Migrated from STORET Legacy
+04/25/1974,Data Collectors,Migrated from STORET Legacy
+08/29/1974,Data Collectors,Migrated from STORET Legacy
+10/30/1974,Data Collectors,Migrated from STORET Legacy
+03/17/1975,Data Collectors,Migrated from STORET Legacy
+07/21/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/30/1988,Data Collectors,NONPOINT SOURCE
+06/12/1997,Data Collectors,LAKE EVALUATION
+07/15/1997,Data Collectors,LAKE EVALUATION
+08/13/1997,Data Collectors,
+02/10/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/14/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/26/1999,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/17/1999,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/07/1999,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/15/1999,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/29/1999,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/10/1999,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/23/2000,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/28/2001,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/01/2001,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/13/2002,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/03/2002,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/26/2003,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/01/2003,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/26/2004,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/18/2004,Becky Wagner,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/10/2005,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/13/2005,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/20/2005,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/27/2005,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/30/2006,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/14/2006,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/11/2006,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/15/2006,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/23/2006,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/20/2006,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/23/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/11/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/21/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/25/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/14/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/29/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/07/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+11/03/2007,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/29/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/26/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/14/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/01/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/09/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/28/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/05/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/22/2008,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/04/2009,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/20/2009,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/17/2009,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/23/2009,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/19/2009,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/27/2009,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/27/2010,JaNelle Merry,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/16/2010,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/09/2010,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/30/2010,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/06/2010,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/12/2010,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/16/2010,JaNelle Merry,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+11/09/2010,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/26/2011,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/18/2011,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/24/2011,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/31/2011,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/27/2011,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/29/2012,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/21/2012,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/19/2012,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/27/2012,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/09/2012,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/05/2012,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/28/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/19/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/29/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/11/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/11/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/16/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/07/2013,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/15/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/08/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/17/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/16/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/09/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/19/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/26/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+10/10/2014,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/02/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/14/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/30/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/10/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/17/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/22/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/07/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/28/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/21/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+09/21/2015,Scott Otterson,Citizen Lake Monitoring Network QA/QC - 2015
+10/18/2015,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/18/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+05/22/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/15/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/25/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/29/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/17/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/25/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/09/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/30/2016,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+04/04/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/07/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+06/14/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/09/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/11/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/20/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+07/23/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/08/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole
+08/22/2017,Scott Otterson,Citizen Lake Monitoring - Water Quality - Cedar Lake (45100)- Deep Hole

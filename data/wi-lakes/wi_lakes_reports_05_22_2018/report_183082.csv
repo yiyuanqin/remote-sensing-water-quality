@@ -1,0 +1,103 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Altoona Lake,Eau Claire,2128100,WC,18,,183082,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188470,05/15/2001,,,,,79,,62,,,,,,
+8188631,07/31/2001,3.6,NO,1.1,80,75,59,62,68,,,,,
+49230439,05/12/2011,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+49230439,08/08/2011,,,,39.8,142,,67,63,,,,,
+49230439,08/29/2011,3.5,NO,1.1,24.1,72,59,61,59,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49230439,09/15/2011,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+83263526,05/24/2013,,,,,127,,66,,,,,,
+83263526,07/06/2013,,,,28.5,138,,66,60,,,,,
+83263526,07/29/2013,,,,27.2,80.3,,62,60,,,,,
+83263526,08/24/2013,,,,88.5,92.7,,63,69,,,,,
+83263526,05/10/2014,,,,,71.7,,61,,,,,,
+83263526,06/27/2014,,,,14.8,123,,65,55,,,,,
+83263526,07/26/2014,,,,52.2,80.2,,62,65,,,,,
+83263526,08/30/2014,,,,60.2,94.6,,63,66,,,,,
+83263526,04/18/2015,,,,,67.4,,61,,,,,,
+83263526,06/27/2015,,,,9.45,85.9,,63,52,,,,,
+83263526,07/24/2015,,,,50,95.5,,63,64,,,,,
+83263526,08/29/2015,,,,37.3,87.9,,63,62,,,,,
+83263526,05/09/2016,,,,,64.1,,60,,,,,,
+83263526,06/25/2016,,,,3.67,129,,66,45,,,,,
+83263526,07/23/2016,,,,33.1,52.2,,59,61,,,,,
+83263526,09/06/2016,,,,1.85,160,,67,39,,,,,
+83263526,06/26/2017,,,,7.74,142,,67,50,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/31/2001,0,FEET,,,12.6,MG/L
+07/31/2001,,,27.3,C,12.6,MG/L
+05/12/2011,0,FEET,64.5,DEGREES F,,
+05/12/2011,3,FEET,60.8,DEGREES F,,
+05/12/2011,6,FEET,59,DEGREES F,,
+05/12/2011,9,FEET,58.6,DEGREES F,,
+05/12/2011,12,FEET,58.2,DEGREES F,,
+05/12/2011,15,FEET,57,DEGREES F,,
+05/12/2011,18,FEET,54.3,DEGREES F,,
+08/08/2011,0,FEET,79.5,DEGREES F,,
+08/08/2011,3,FEET,78.6,DEGREES F,,
+08/08/2011,6,FEET,78,DEGREES F,,
+08/08/2011,9,FEET,77.5,DEGREES F,,
+08/08/2011,12,FEET,76.6,DEGREES F,,
+08/08/2011,15,FEET,76.2,DEGREES F,,
+08/08/2011,18,FEET,75.3,DEGREES F,,
+08/29/2011,0,FEET,76.2,DEGREES F,,
+08/29/2011,3,FEET,75.9,DEGREES F,,
+08/29/2011,6,FEET,75,DEGREES F,,
+08/29/2011,9,FEET,74.4,DEGREES F,,
+08/29/2011,12,FEET,72.8,DEGREES F,,
+08/29/2011,15,FEET,72.3,DEGREES F,,
+08/29/2011,18,FEET,71.4,DEGREES F,,
+09/15/2011,0,FEET,69,DEGREES F,,
+09/15/2011,3,FEET,68.1,DEGREES F,,
+09/15/2011,6,FEET,67.1,DEGREES F,,
+09/15/2011,9,FEET,66.7,DEGREES F,,
+09/15/2011,12,FEET,66.2,DEGREES F,,
+09/15/2011,15,FEET,65.8,DEGREES F,,
+09/15/2011,18,FEET,63.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/15/2001,CENTER OF LAKE    
+07/31/2001,CENTER OF LAKE- 0-2METERS    
+05/12/2011,My wife Shirley helped.Weather was cloudy wtih rain coming soon.
+08/08/2011,Assisted by my wife Shirley.
+08/29/2011,Shirley assisted.
+
+
+
+
+Start Date,Group Name,Project Name
+05/15/2001,_ Lamm,Lake Baseline Monitoring- DNR (1970s-2006)
+07/31/2001,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+05/12/2011,Traynor,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+08/08/2011,Traynor,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+08/29/2011,Traynor,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+09/15/2011,Traynor,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+05/24/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+07/06/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+07/29/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+08/24/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+05/10/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+06/27/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+07/26/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+08/30/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+04/18/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+06/27/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+07/24/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+08/29/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+05/09/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+06/25/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+07/23/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+09/06/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake
+06/26/2017,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Center of Lake

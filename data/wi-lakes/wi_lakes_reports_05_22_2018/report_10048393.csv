@@ -1,0 +1,49 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Buskey Bay,Bayfield,2903800,NO,4,,10048393,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/11/2007,,,,,,,,,,,,,
+1,06/07/2017,,,,,,,,,,,,,
+1,06/09/2017,,,,,,,,,,,,,
+1,06/11/2017,,,,,,,,,,,,,
+1,06/13/2017,,,,,,,,,,,,,
+1,06/20/2017,,,,,,,,,,,,,
+1,06/27/2017,,,,,,,,,,,,,
+1,07/05/2017,,,,,,,,,,,,,
+1,07/11/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/11/2007,,,9.2,C,,
+06/07/2017,,,20.4,C,,
+06/09/2017,,,10.0,C,,
+06/11/2017,,,21.8,C,,
+06/13/2017,,,22.1,C,,
+06/20/2017,,,22.2,C,,
+06/27/2017,,,20.4,C,,
+07/05/2017,,,10.3,C,,
+07/11/2017,,,10.0,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/11/2007,Data Collectors,Herbicide Concentration Monitoring
+06/07/2017,Data Collectors,Herbicide Concentration Monitoring
+06/09/2017,Data Collectors,Herbicide Concentration Monitoring
+06/11/2017,Data Collectors,Herbicide Concentration Monitoring
+06/13/2017,Data Collectors,Herbicide Concentration Monitoring
+06/20/2017,Data Collectors,Herbicide Concentration Monitoring
+06/27/2017,Data Collectors,Herbicide Concentration Monitoring
+07/05/2017,Data Collectors,Herbicide Concentration Monitoring
+07/11/2017,Data Collectors,Herbicide Concentration Monitoring

@@ -1,0 +1,37 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Dead Lake,Pepin,2054200,WC,47,,473024,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000001,08/03/2004,1.3,,0.4,55.3,249,73,71,65,,,,,
+10589084,07/20/2016,2.6,N,0.8,55.2,121,63,65,65,,,,,
+10589084,08/23/2016,,,,18.9,128,,66,57,,,,,
+10589084,09/19/2016,1.5,NO,0.5,56.9,187,71,69,65,,,MURKY,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/03/2004,0,FEET,,,9.1,MG/L
+08/03/2004,,,25.0,C,9.1,MG/L
+09/19/2016,0,METERS,20.3,DEGREES C,9.66,MG/L
+09/19/2016,1,METERS,20.15,DEGREES C,8.84,MG/L
+09/19/2016,2,FEET,19.74,DEGREES F,7.35,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/03/2004,SUMMER SAMPLE - SURFACE 0M    
+09/19/2016,Spiny waterflea sample was collected with Ekman dredge method - 5 aliquots were examined.
+
+
+
+
+Start Date,Group Name,Project Name
+08/03/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+07/20/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+08/23/2016,Jodi Lepsch,Directed Lakes 2016 Sorge
+09/19/2016,Jodi Lepsch,Directed Lakes 2016 Sorge

@@ -1,0 +1,123 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Peppermill Lake,Adams,178700,WC,1,,10030218,CE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+32140753,07/25/2009,,,,5.01,41,,57,47,,,,,
+1,08/28/2009,,,,43.9,,,,63,,,,,
+1,09/26/2009,,,,7.44,45,,58,50,,,,,
+32140753,06/06/2010,7.8,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,06/12/2010,,,,5.29,22,,52,47,,,,,
+1,07/17/2010,,,,3.21,,,,44,,,,,
+1,08/21/2010,,,,5.27,,,,47,,,,,
+1,09/25/2010,,,,5.82,26,,53,48,,,,,
+25374942,06/18/2011,7,NO,2.1,10.7,32,49,55,53,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/16/2011,8,NO,2.4,25,34,47,55,59,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+25374942,08/12/2011,9,NO,2.7,2.74,20,45,51,42,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,04/21/2012,,,,,24,,53,,,,,,
+37177109,04/21/2012,10,YES,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/02/2012,,,,7.07,29,,54,50,,,,,
+25374942,06/05/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/14/2012,,,,13.5,37,,56,54,,,,,
+32140753,07/14/2012,8,NO,2.4,,,47,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+1,08/11/2012,,,,14,23,,52,55,,,,,
+25374942,08/11/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,06/07/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,06/08/2013,7.5,YES,2.3,19.6,33.7,48,55,57,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/06/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,07/20/2013,,,,42.4,22.8,,52,63,,,,,
+25374942,08/17/2013,8,NO,2.4,10.9,25.5,47,53,53,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+32140753,08/17/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,06/22/2014,,,,4.02,86,,63,45,,,,,
+32140753,06/28/2014,9, ,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,07/19/2014,,,,3.25,28.9,,54,44,,,,,
+25374942,07/26/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,08/23/2014,7.5,NO,2.3,16.3,48,48,58,56,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,06/20/2015,7.5,NO,2.3,8.29,59.9,48,60,51,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/18/2015,7.7,NO,2.3,,33.3,48,55,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,08/15/2015,8,NO,2.4,6.5,52,47,59,49,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137361,05/11/2016,8,YES,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137361,05/12/2016,,,,,36.7,,56,,,,,,
+25374942,06/18/2016,8.7,NO,2.6,11.3,37.6,46,56,53,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/16/2016,8.1,NO,2.5,20.8,41.3,47,57,58,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,08/18/2016,7.7,YES,2.3,12.8,36.5,48,56,54,NORMAL,,,BLUE,2-Very minor aesthetic problems
+25374942,06/15/2017,8.4,NO,2.6,4.7,41.5,46,57,46,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/14/2017,,,,3.45,29.9,,54,44,,,,,
+25374942,07/15/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,08/21/2017,7.8,NO,2.4,6.82,32.2,48,55,49,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/06/2010,0,FEET,77.3,DEGREES F,,
+06/06/2010,2,FEET,75.9,DEGREES F,,
+06/06/2010,5,FEET,76.2,DEGREES F,,
+04/21/2012,0,FEET,54.7,DEGREES F,,
+04/21/2012,5,FEET,53.7,DEGREES F,,
+08/15/2015,1.5,FEET,81,DEGREES F,,
+05/11/2016,0,FEET,60.9,DEGREES F,,
+05/11/2016,5,FEET,60.8,DEGREES F,,
+05/11/2016,7,FEET,60.6,DEGREES F,,
+06/15/2017,2,FEET,79,DEGREES F,,
+07/15/2017,2,FEET,77,DEGREES F,,
+08/21/2017,2,FEET,72,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/06/2010,also present:  Reesa Evans and Bob Cropp and some new trainees--sunny- slight wind- starting to get overcast--air temp 79 F
+08/12/2011,sunny--some wind
+04/21/2012,Reesa Evans also present--sunny + callm
+06/20/2015,air temp 76 F
+05/11/2016,cold + drizzly- overcast
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/2009,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/28/2009,Data Collectors,
+09/26/2009,Data Collectors,
+06/06/2010,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/12/2010,Data Collectors,Peppermill Lake Monitoring
+07/17/2010,Data Collectors,Peppermill Lake Monitoring
+08/21/2010,Data Collectors,Peppermill Lake Monitoring
+09/25/2010,Data Collectors,Peppermill Lake Monitoring
+06/18/2011,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/16/2011,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/12/2011,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+04/21/2012,Data Collectors,
+04/21/2012,Robert Cropp- Sandy and Dan Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/02/2012,Data Collectors,
+06/05/2012,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/14/2012,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/14/2012,Data Collectors,
+08/11/2012,Data Collectors,
+08/11/2012,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/07/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/08/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/06/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/20/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/17/2013,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/17/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/22/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/28/2014,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/19/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/26/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/23/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/20/2015,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/18/2015,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/15/2015,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+05/11/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+05/12/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/18/2016,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/16/2016,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/18/2016,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+06/15/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/14/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+07/15/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake
+08/21/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake - East End of Lake

@@ -1,0 +1,279 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mercer Lake,Iron,2313600,NO,26,,263177,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191212,09/10/2004,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,10/05/2004,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,05/24/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,06/30/2005,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,07/14/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,08/14/2005,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,08/31/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,09/27/2005,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191212,05/29/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,06/06/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,06/22/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191212,06/30/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/08/2007,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/16/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/02/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/09/2007,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/25/2007,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191212,09/19/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191212,09/26/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,06/09/2008,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,06/24/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,07/03/2008,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,07/11/2008,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,07/18/2008,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,07/26/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,08/03/2008,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,08/11/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,08/27/2008,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,09/05/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,09/12/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,09/21/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191424,09/28/2008,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,06/03/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/05/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/13/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/22/2009,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/29/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/06/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/22/2009,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/30/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,09/07/2009,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,09/15/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,06/08/2011,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191212,07/02/2011,8,YES,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191212,07/10/2011,9,YES,2.7,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191212,07/19/2011,12,YES,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,07/26/2011,12,YES,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/03/2011,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/18/2011,12,YES,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,08/27/2011,12,YES,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,09/12/2011,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191212,09/19/2011,8,YES,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191212,09/28/2011,9,YES,2.7,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,05/26/2012,13,YES,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,06/02/2012,11,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,06/11/2012,13,YES,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,06/27/2012,12,YES,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,07/12/2012,12.5,YES,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,07/20/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36798177,07/27/2012,12,YES,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36798177,08/06/2012,9,YES,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36798177,08/21/2012,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36798177,08/29/2012,11,YES,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36798177,09/22/2012,11,YES,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36798177,06/08/2014,8.5,YES,2.6,,,46,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36798177,06/17/2014,8.5,YES,2.6,,,46,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36798177,06/26/2014,7.5,YES,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,07/02/2014,7.5,YES,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,07/10/2014,8.5,YES,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,08/10/2014,9.5,YES,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,08/17/2014,9.5,YES,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,09/03/2014,8.5,YES,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,09/28/2014,8,YES,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798177,06/19/2015,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,06/26/2015,8.5,YES,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,07/05/2015,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,07/14/2015,10,YES,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,07/22/2015,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,07/31/2015,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,08/08/2015,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,08/15/2015,12,YES,3.6,,,41,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,08/29/2015,9.5,YES,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,09/01/2015,9.5,YES,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,09/07/2015,9.5,YES,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,09/15/2015,9.5,YES,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798177,07/05/2016,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,07/22/2016,11,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,08/09/2016,11,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,08/17/2016,11,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798177,08/26/2016,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+09/10/2004,Sunny- wind 10-15 mph.  4" chop.  No boat traffic.  1 loon in cove.    
+10/05/2004,Sunny- wind 10-15 mph. 3" chop.  No boat traffic.    
+05/24/2005,sunny- light wind- had 13 days prior with some rain    
+06/30/2005,sunny- light wind- had two hot weeks- over four inches of rain in week    
+07/14/2005,sunny and hot- slight wind    
+08/14/2005,sunny and hot- slight wind    
+08/31/2005,sunny- light wind- had 1.5 inches of rain two days ago    
+05/29/2007,Slight chop
+06/06/2007,Slight chop.  Can see some algae forming.
+06/22/2007,Algae in water.
+06/30/2007,Water appears clearer this week.
+07/08/2007,Pair of loons with 2 young watching us.
+07/16/2007,Light chop
+08/02/2007,Light wind.  8/1 very windy.
+08/25/2007,4" chop- bloom on the lake.
+09/19/2007,4" chop.  1.6 inches rain 9/18.
+09/26/2007,Slight chop
+06/09/2008,3" chop.
+06/24/2008,Light wind- partly cloudy. Loons with a pair of young. 
+07/11/2008,7/10/2008 was cloudy. 
+07/18/2008,3" chop. 
+07/26/2008,3" chop- 0.8" of rain yesterday. 
+08/03/2008,Light wind. 
+09/12/2008,Lake does not appear to have turned over yet. 
+09/28/2008,Light wind. Young loons on their own now. 
+06/03/2009,variable breeze.
+07/05/2009,4 inch chop
+07/13/2009,4 inch chop. Lake getting lower - no rain.
+07/22/2009,light wind.
+07/29/2009,Partly cloudy. 4 inch chop.
+08/06/2009,Partly cloudy. Good chop. Still no rain.
+08/22/2009,Clear. Slight chop. Had 1.5 inches of rain yesterday.
+08/30/2009,Partly cloudy- light wind. 1.6 inches of rain yesterday.
+09/07/2009,Sunny and calm.
+09/15/2009,Sunny- light wind.
+06/08/2011,can't see any new weed growth
+07/02/2011,still not much weed growth- lake down about 5 inches
+07/10/2011,no measurable rain since mid june
+07/19/2011,lake weeds are growing
+07/26/2011,may get 1" of rain tomorrow
+08/03/2011,had 2" rain yesterday
+08/18/2011,had thunder show at noon today
+08/27/2011,getting fall feeling- need rain
+09/12/2011,it's hot again
+09/19/2011,lake appears to have turned
+09/28/2011,Hoyt Ritter has returned - he's 91 this year
+05/26/2012,partly cloudy- calm- rain this pm
+06/02/2012,partly cloudy- good 4" chop
+06/11/2012,partly cloudy- light wind
+06/27/2012,clear- 3" chop
+07/12/2012,clear- light chop
+07/20/2012,clear- light wind
+07/27/2012,partly cloudy- light chop
+08/06/2012,clear- light chop- last 3 days very windy
+08/21/2012,clear- light chop
+08/29/2012,clear- light wind
+09/22/2012,partly cloudy- 3" chop. Due to having to take boat out of water after this reading- I was unable to collect any lake turn-over readings.
+06/26/2014,Partly cloudy- had rain every day this week
+07/02/2014,Clear; had some rain every day this week
+07/10/2014,Partly cloudy; rain throughout week
+08/10/2014,partly cloudy
+08/17/2014,partly cloudy skies
+09/03/2014,partly cloudy sky; had 2+ inches of rain over weekend
+09/28/2014,Partly cloudy sky; lake ready to for annual fall turnover
+06/19/2015,Light wind- partly cloudy
+06/26/2015,Partly cloudy- 2" chop
+07/22/2015,Perfect Up North Summer Day
+07/31/2015,8" chop- third day of high wind
+08/08/2015,Partly cloudy- light wind
+08/15/2015,Sunny- hot and humid- wind calm
+08/29/2015,Sunny- light wind
+09/15/2015,Last reading--have to take boat out
+07/05/2016,partly cloudy and humid- good chop
+07/22/2016,Sunny had storm very hot
+08/09/2016,Partly cloudy
+08/17/2016,Sunny
+08/26/2016,Partly cloudy- good chop- had 3" rain in week
+
+
+
+
+Start Date,Group Name,Project Name
+09/10/2004,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+10/05/2004,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+05/24/2005,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/30/2005,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/14/2005,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/14/2005,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/31/2005,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/27/2005,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+05/29/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/06/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/22/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/30/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/08/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/16/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/02/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/09/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/25/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/19/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/26/2007,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/09/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/24/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/03/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/11/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/18/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/26/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/03/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/11/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/27/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/05/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/12/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/21/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/28/2008,Hoyt Ritter,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/03/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/05/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/13/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/22/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/29/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/06/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/22/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/30/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/07/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/15/2009,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/08/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/02/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/10/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/19/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/26/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/03/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/18/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/27/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/12/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/19/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/28/2011,Hoyt Ritter and Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+05/26/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/02/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/11/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/27/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/12/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/20/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/27/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/06/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/21/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/29/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/22/2012,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/08/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/17/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/26/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/02/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/10/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/10/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/17/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/03/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/28/2014,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/19/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+06/26/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/05/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/14/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/22/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/31/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/08/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/15/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/29/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/01/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/07/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+09/15/2015,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/05/2016,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+07/22/2016,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/09/2016,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/17/2016,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base
+08/26/2016,Jerome Schaefer,Citizen Lake Monitoring - Water Quality - Mercer Lake; Home Base

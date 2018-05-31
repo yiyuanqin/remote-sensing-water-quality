@@ -1,0 +1,122 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pelican Lake,Oneida,1579900,NO,44,,443488,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191209,05/18/2004,19.75,NO,6,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191209,07/05/2004,10,NO,3,7.02,20,44,51,50,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191210,07/29/2004,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191209,08/04/2004,6.5,NO,2,12.5,21,50,52,54,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191209,08/31/2004,5,NO,1.5,13.1,27,54,54,54,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191210,09/27/2004,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191209,10/12/2004,13.25,NO,4,7.11,24,40,53,50,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+65256837,06/26/2015,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+65256837,07/25/2015,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+65256837,08/31/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+65256837,08/31/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/18/2004,3,FEET,56.6,DEGREES F,11,MG/L
+05/18/2004,6,FEET,55.5,DEGREES F,10,MG/L
+05/18/2004,9,FEET,55.4,DEGREES F,11,MG/L
+05/18/2004,12,FEET,55.2,DEGREES F,8,MG/L
+05/18/2004,15,FEET,55.2,DEGREES F,8,MG/L
+05/18/2004,20,FEET,55,DEGREES F,8,MG/L
+05/18/2004,30,FEET,54.8,DEGREES F,7,MG/L
+07/05/2004,3,FEET,66.5,DEGREES F,8,MG/L
+07/05/2004,6,FEET,66.7,DEGREES F,6,MG/L
+07/05/2004,9,FEET,66.5,DEGREES F,6,MG/L
+07/05/2004,12,FEET,66.5,DEGREES F,6,MG/L
+07/05/2004,15,FEET,66.3,DEGREES F,5,MG/L
+07/05/2004,20,FEET,66.2,DEGREES F,5,MG/L
+07/05/2004,30,FEET,64.5,DEGREES F,4,MG/L
+08/04/2004,3,FEET,71.4,DEGREES F,7,MG/L
+08/04/2004,6,FEET,71.6,DEGREES F,7,MG/L
+08/04/2004,9,FEET,71.6,DEGREES F,7,MG/L
+08/04/2004,12,FEET,71.4,DEGREES F,6,MG/L
+08/04/2004,15,FEET,71.3,DEGREES F,6,MG/L
+08/04/2004,20,FEET,71,DEGREES F,5,MG/L
+08/04/2004,30,FEET,67.8,DEGREES F,2,MG/L
+08/31/2004,3,FEET,65.8,DEGREES F,7,MG/L
+08/31/2004,6,FEET,64.9,DEGREES F,9,MG/L
+08/31/2004,9,FEET,64.5,DEGREES F,8,MG/L
+08/31/2004,12,FEET,64.5,DEGREES F,8,MG/L
+08/31/2004,15,FEET,64.4,DEGREES F,8,MG/L
+08/31/2004,20,FEET,64.4,DEGREES F,6,MG/L
+08/31/2004,30,FEET,64.2,DEGREES F,6,MG/L
+10/12/2004,3,FEET,55.4,DEGREES F,9,MG/L
+10/12/2004,6,FEET,54.3,DEGREES F,7,MG/L
+10/12/2004,9,FEET,53.7,DEGREES F,6,MG/L
+10/12/2004,12,FEET,53.6,DEGREES F,7,MG/L
+10/12/2004,15,FEET,53.4,DEGREES F,9,MG/L
+10/12/2004,20,FEET,53.4,DEGREES F,6,MG/L
+10/12/2004,30,FEET,53.4,DEGREES F,7,MG/L
+06/26/2015,3,FEET,71.6,DEGREES F,8.1,MG/L
+06/26/2015,6,FEET,71,DEGREES F,8.1,MG/L
+06/26/2015,9,FEET,70.3,DEGREES F,8.2,MG/L
+06/26/2015,12,FEET,70.1,DEGREES F,8.2,MG/L
+06/26/2015,15,FEET,69.8,DEGREES F,8.2,MG/L
+06/26/2015,20,FEET,68.3,DEGREES F,8.2,MG/L
+06/26/2015,30,FEET,67.8,DEGREES F,8.4,MG/L
+06/26/2015,38,FEET,64.7,DEGREES F,7.7,MG/L
+07/25/2015,3,FEET,73.7,DEGREES F,8.1,MG/L
+07/25/2015,6,FEET,74.1,DEGREES F,8.1,MG/L
+07/25/2015,9,FEET,74.1,DEGREES F,8.1,MG/L
+07/25/2015,12,FEET,74.1,DEGREES F,8.1,MG/L
+07/25/2015,15,FEET,73.7,DEGREES F,8.1,MG/L
+07/25/2015,20,FEET,72.8,DEGREES F,8.2,MG/L
+07/25/2015,30,FEET,71.6,DEGREES F,7.9,MG/L
+07/25/2015,37,FEET,70.8,DEGREES F,7.5,MG/L
+08/31/2015,3,FEET,67.4,DEGREES F,8.8,MG/L
+08/31/2015,6,FEET,67.5,DEGREES F,8.8,MG/L
+08/31/2015,9,FEET,67.2,DEGREES F,8.8,MG/L
+08/31/2015,12,FEET,66.9,DEGREES F,8.8,MG/L
+08/31/2015,15,FEET,65.4,DEGREES F,9,MG/L
+08/31/2015,20,FEET,64.5,DEGREES F,9,MG/L
+08/31/2015,30,FEET,64.2,DEGREES F,8.8,MG/L
+08/31/2015,37,FEET,64.2,DEGREES F,8.1,MG/L
+08/31/2017,3,FEET,67.2,DEGREES F,,
+08/31/2017,6,FEET,67.2,DEGREES F,,
+08/31/2017,9,FEET,67.4,DEGREES F,,
+08/31/2017,12,FEET,67.4,DEGREES F,,
+08/31/2017,15,FEET,67.4,DEGREES F,,
+08/31/2017,18,FEET,67.2,DEGREES F,,
+08/31/2017,21,FEET,67.2,DEGREES F,,
+08/31/2017,24,FEET,67.2,DEGREES F,,
+08/31/2017,27,FEET,66.9,DEGREES F,,
+08/31/2017,30,FEET,66.7,DEGREES F,,
+08/31/2017,33,FEET,66.2,DEGREES F,,
+08/31/2017,35,FEET,66,DEGREES F,,
+08/31/2017,39,FEET,65.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/18/2004,Sunny- calm.  Bottom temp. 53.9 F- bottom D.O. 8 mg/l.    
+07/05/2004,Partly cloudy- light chop on water.  Bottom temp. 63.6 F- bottom D.O. 4 mg/l.    
+08/04/2004,Sunny- light chop.  Bottom temp. 65.6 F- bottom D.O. 2 mg/l.    
+08/31/2004,Partly cloudy- calm.  Bottom temp. 64.2 F.  Bottom D.O. 6 mg/l.    
+10/12/2004,Sunny- calm.  Bottom temp. 53.4 F- bottom D.O. 6 mg/l.    
+08/31/2015,oxygen in ppm
+
+
+
+
+Start Date,Group Name,Project Name
+05/18/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+07/05/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+07/29/2004,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+08/04/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+08/31/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+09/27/2004,Bob Mott,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+10/12/2004,Kirby Ament,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+06/26/2015,Dave Hardt_0,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+07/25/2015,Dave Hardt_0,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+08/31/2015,Dave Hardt_0,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)
+08/31/2017,Dave Hardt_0,Citizen Lake Monitoring - Water Quality - Pelican Lake; North Of Island (S Of Deep Hole)

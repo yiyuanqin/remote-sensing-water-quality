@@ -1,0 +1,444 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Clear Lake,Burnett,2457600,NO,7,,073051,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190471,07/09/1993,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,07/21/1993,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,08/04/1993,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,08/24/1993,6.25,NO,1.9,,,51,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190471,09/17/1993,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,09/25/1993,10.75,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,06/12/1994,14.75,NO,4.5,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,06/25/1994,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/10/1994,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,07/27/1994,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,08/13/1994,8.75,NO,2.7,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,08/25/1994,7.5,NO,2.3,,,48,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190471,09/10/1994,6.25,NO,1.9,,,51,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190471,09/26/1994,5.25,NO,1.6,,,53,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190471,06/09/1995,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190471,06/23/1995,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/10/1995,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/26/1995,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,08/10/1995,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,08/28/1995,5.25,NO,1.6,,,53,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190471,09/12/1995,5.5,NO,1.7,,,53,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190471,09/26/1995,8.75,NO,2.7,,,46,,,,,,GREEN,2-Very minor aesthetic problems
+8190471,06/08/1996,13.5,NO,4.1,,,40,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190471,06/22/1996,14.25,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/04/1996,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,
+8190471,07/16/1996,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/26/1996,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,08/09/1996,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,08/26/1996,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,09/11/1996,9.75,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,09/24/1996,10.25,NO,3.1,,,44,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190471,06/10/1997,15.75,NO,4.8,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,06/25/1997,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/11/1997,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,07/31/1997,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190471,08/13/1997,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/31/1997,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,09/13/1997,9.25,YES,2.8,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,06/06/1998,13.5,NO,4.1,,,40,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/05/1998,14.15,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/26/1998,16,NO,4.9,,,37,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/15/1998,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,09/06/1998,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,09/25/1998,13.5,NO,4.1,,,40,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/12/1999,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/29/1999,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/12/1999,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/04/1999,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/28/1999,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,09/11/1999,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/10/2000,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/25/2000,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/09/2000,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/23/2000,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/13/2000,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/27/2000,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,09/12/2000,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/09/2001,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189713,06/24/2001,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/07/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/14/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/28/2001,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/15/2001,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/17/2001,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/31/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,09/15/2001,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/02/2002,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/16/2002,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/05/2002,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/13/2002,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/27/2002,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/11/2002,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/25/2002,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/15/2003,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/05/2003,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/27/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/02/2003,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/17/2003,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/30/2003,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/04/2004,26,NO,7.9,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/18/2004,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/03/2004,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/17/2004,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/31/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/11/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/30/2004,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/02/2005,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/16/2005,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/05/2005,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/22/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/05/2005,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/30/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189713,06/11/2006,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/29/2006,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/12/2006,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/01/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/14/2006,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/30/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/05/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/21/2007,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/09/2007,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/23/2007,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/08/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189713,08/24/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189713,06/15/2008,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/23/2008,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/09/2008,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/26/2008,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/10/2008,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/27/2008,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/10/2009,28,NO,8.5,,,29,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/26/2009,26,NO,7.9,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/12/2009,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/28/2009,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/13/2009,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/29/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/13/2010,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,06/29/2010,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,07/15/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,07/31/2010,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,08/16/2010,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,09/09/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,06/08/2011,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,06/24/2011,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,07/10/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,07/26/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,08/11/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,08/27/2011,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,06/02/2012,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,06/18/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/21/2012,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/24/2012,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/07/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/23/2013,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/15/2013,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,08/25/2013,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189713,07/10/2014,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,07/26/2014,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,08/19/2014,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,08/27/2014,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,07/13/2015,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,07/31/2015,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,08/14/2015,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,08/30/2015,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189713,07/15/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189713,07/23/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189713,07/31/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189713,08/16/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+147295876,07/16/2017,11.5,NO,3.5,,,42,,,HIGH,0,CLEAR,BLUE,1-Beautiful, could not be nicer
+147295876,07/20/2017,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+147295876,07/30/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+147295876,08/04/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+147295876,08/12/2017,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/09/1993,Partly cloudy- .3" rain yesterday    
+07/21/1993,Sunny + calm- no rain for 3 days    
+08/04/1993,Partly cloudy and calm    
+08/24/1993,Partly cloudy- air temp 84- algae bloom in last two weeks    
+09/17/1993,Partly cloudy- and calm.    
+09/25/1993,Partly cloudy and calm.  The last report for this year.    
+06/12/1994,Partly cloudy- .5" of rain last night.    
+06/25/1994,Clear + calm.  Our loon population has grown from 2 to 5 loons.    
+07/10/1994,Partly cloudy.  Lots of boat activity.    
+07/27/1994,Partly cloudy + calm.    
+08/13/1994,Partly cloudy- windy- rain this a.m.    
+08/25/1994,Overcast and calm.    
+09/10/1994,Sky is clear- windy- and very dry.    
+09/26/1994,Cloudy- windy and cold- last report for the year.    
+06/09/1995,Partly cloudy and calm.    
+06/23/1995,Clear + calm.  No rain for at least 10 days.    
+07/10/1995,Clear + calm.  One inch of rain this a.m.    
+07/26/1995,Not a cloud in the sky and calm.    
+08/10/1995,Partly cloudy + calm- 3.5" of rain 3 days ago.    
+08/28/1995,Partly cloudy and calm.  Lots of rain the past month.    
+09/12/1995,Clear + windy.    
+09/26/1995,Clear and calm-froze last week.  Last report for 1995.    
+06/08/1996,Clear and sunny- calm- no rain for five days.    
+07/04/1996,Clear and calm- lots of rain this past week.    
+07/16/1996,Clear and calm- with a temperature of 86 degrees.    
+07/26/1996,Clear and calm.    
+08/09/1996,Partly cloudy and calm.    
+08/26/1996,Cloudy and calm with very little rain in the past week.    
+09/11/1996,Partly cloudy and calm.  Very little water is flowing into the lake.    
+09/24/1996,Clear- windy and cold.  Very dry.    
+06/10/1997,Clear and calm- very dry.    
+06/25/1997,1.5" of rain- yesterday with wind.    
+07/11/1997,Cloudy- windy.    
+07/31/1997,Partly cloudy- windy.    
+08/13/1997,Clear and calm.    
+06/12/1999,Calm. sunny. we've had lots of rain.    
+06/29/1999,Somewhat calm. partly cloudy. rain day before reading.    
+07/12/1999,Calm. sunny.    
+08/04/1999,Kind of windy. Partly cloudy.    
+08/28/1999,Calm. partly cloudy.    
+09/11/1999,Partly cloudy.    
+06/10/2000,Somewhat calm.    
+06/09/2001,Somewhat calm and weeks of rain.    
+06/24/2001,Windy.    
+07/07/2001,Calm.    
+07/14/2001,Somewhat calm.    
+07/28/2001,Cloudy or calm.    
+08/17/2001,Somewhat calm.    
+08/31/2001,Calm.    
+06/02/2002,Cloudy and somewhat calm.    
+07/05/2002,Somewhat calm.    
+07/13/2002,Calm and sunny.    
+07/27/2002,Little windy.    
+08/11/2002,Little windy.    
+08/25/2002,Calm.    
+06/15/2003,sunny and very calm    
+07/05/2003,sunny and very calm    
+07/27/2003,calm    
+08/02/2003,calm    
+08/17/2003,Somewhat calm    
+08/30/2003,Somewhat calm    
+06/04/2004,Somewhat calm    
+06/18/2004,Water was rough    
+07/03/2004,Water was calm    
+07/17/2004,Very calm    
+07/31/2004,Somewhat calm    
+08/30/2004,Somewhat calm    
+06/02/2005,somewhat calm    
+06/16/2005,some what calm    
+07/05/2005,very calm    
+07/22/2005,calm    
+08/05/2005,calm    
+08/30/2005,calm    
+06/11/2006,little windy
+06/29/2006,little windy
+07/12/2006,very calm
+08/01/2006,calm- but received 1.7 inches rain at night
+08/14/2006,little windy
+08/30/2006,calm
+06/05/2007,Cloudy
+06/21/2007,Calm
+07/09/2007,Little windy
+07/23/2007,Very calm
+08/08/2007,Little windy
+08/24/2007,Very calm
+06/10/2009,Very dry
+06/26/2009,Very dry
+07/12/2009,Very dry.  Received less than 2" from April- May- June.  Calm and sunny.
+07/28/2009,Received 2.3 inches rain from July 20-25.  Date of reading cloudy.  Little wind.
+08/29/2009,Cloudy and little windy.
+06/13/2010,Cloudy. Had 2 inches of rain day before reading.
+06/29/2010,Sunny. Had 3 inches of rain in two weeks.
+07/31/2010,Little cloudy. 3 inches of rain from July 15.
+08/16/2010,Windy.
+09/09/2010,Little windy.
+06/08/2011,windy
+07/10/2011,very calm- sunny
+07/26/2011,calm and sunny
+07/07/2013,Little Windy
+07/23/2013,little Windy
+08/15/2013,Very nice- calm- sunny
+08/25/2013,Sunny and windy
+07/10/2014,light wind
+07/26/2014,Light wind
+08/19/2014,Partly cloudy
+08/27/2014,Calm and sunny
+07/13/2015,rained the night before
+07/31/2015,a little windy
+08/14/2015,calm
+08/30/2015,a little windy
+07/15/2016,Partly cloudy - little wind. 5 inches of rain 3 days before reading.
+07/16/2017,sunny; few clouds; 3-5mph winds- one loon spotted- two bald eagles
+07/20/2017,Sunny; few clouds; ~ 5 mph wind; flock of ducklings with mother spotted
+07/30/2017,Sunny; ~ 5mph wind
+08/04/2017,sunny with several high clouds; rained the day before on 0803; ~ 2 mph wind 
+08/12/2017,Sunny with few clouds; 5mph wind; turtle spotted; one loon
+
+
+
+
+Start Date,Group Name,Project Name
+07/09/1993,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/21/1993,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/04/1993,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/24/1993,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/17/1993,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/25/1993,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/12/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/25/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/10/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/27/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/13/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/25/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/10/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/26/1994,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/09/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/23/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/10/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/26/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/10/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/28/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/12/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/26/1995,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/08/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/22/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/04/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/16/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/26/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/09/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/26/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/11/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/24/1996,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/10/1997,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/25/1997,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/11/1997,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/31/1997,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/13/1997,Eugene Olson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/31/1997,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/13/1997,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/06/1998,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/05/1998,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/26/1998,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/15/1998,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/06/1998,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/25/1998,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/12/1999,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/29/1999,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/12/1999,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/04/1999,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/28/1999,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/11/1999,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/10/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/25/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/09/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/23/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/13/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/27/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/12/2000,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/09/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/24/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/07/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/14/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/28/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/15/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/17/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/31/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/15/2001,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/02/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/16/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/05/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/13/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/27/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/11/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/25/2002,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/15/2003,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/05/2003,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/27/2003,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/02/2003,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/17/2003,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/30/2003,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/04/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/18/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/03/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/17/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/31/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/11/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/30/2004,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/02/2005,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/16/2005,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/05/2005,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/22/2005,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/05/2005,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/30/2005,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/11/2006,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/29/2006,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/12/2006,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/01/2006,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/14/2006,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/30/2006,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/05/2007,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/21/2007,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/09/2007,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/23/2007,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/08/2007,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/24/2007,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/15/2008,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/23/2008,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/09/2008,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/26/2008,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/10/2008,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/27/2008,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/10/2009,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/26/2009,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/12/2009,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/28/2009,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/13/2009,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/29/2009,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/13/2010,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/29/2010,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/15/2010,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/31/2010,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/16/2010,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+09/09/2010,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/08/2011,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/24/2011,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/10/2011,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/26/2011,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/11/2011,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/27/2011,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/02/2012,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+06/18/2012,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/21/2012,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/24/2012,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/07/2013,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/23/2013,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/15/2013,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/25/2013,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/10/2014,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/26/2014,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/19/2014,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/27/2014,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/13/2015,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/31/2015,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/14/2015,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/30/2015,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/15/2016,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/23/2016,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/31/2016,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/16/2016,Ralph Severson,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/16/2017,Dayna Rethlake,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/20/2017,Dayna Rethlake,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+07/30/2017,Dayna Rethlake,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/04/2017,Dayna Rethlake,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central
+08/12/2017,Dayna Rethlake,Citizen Lake Monitoring - Water Quality - Clear Lake; North Central

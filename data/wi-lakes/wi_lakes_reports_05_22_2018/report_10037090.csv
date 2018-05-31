@@ -1,0 +1,86 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Jordan Pond,Portage,1403600,WC,50,,10037090,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+57993271,05/27/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+57993271,07/07/2012,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+57993271,06/13/2013,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+57993271,08/23/2013,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+57993271,06/24/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+57993271,08/20/2014,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+121396183,05/14/2015,3.5,YES,1.1,,26,59,53,,,4.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+121396185,06/24/2015,3.5,YES,1.1,5.71,41.6,59,57,48,,4.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29707281,07/21/2015,3.5,YES,1.1,9.79,57.6,59,60,52,,4.6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29707281,08/24/2015,2.5,NO,0.8,,,64,,,,4.6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+121396185,08/24/2015,,,,7.29,55.8,,59,50,,,,,
+121396185,05/19/2016,,,,,32.8,,55,,,,,,
+57993271,05/27/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+121396185,06/22/2016,,,,7.35,48.4,,58,50,,,,,
+57993271,07/08/2016,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+121396185,07/27/2016,,,,5.65,46.3,,58,48,,,,,
+121396185,08/18/2016,,,,11,31.7,,55,53,,,,,
+121396183,07/13/2017,,,,4.59,60.9,,60,46,,,,,
+121396185,07/13/2017,4,NO,1.2,,,57,,,NORMAL,4.8,MURKY,YELLOW,2-Very minor aesthetic problems
+121396185,08/23/2017,3,NO,0.9,1.98,34.8,61,56,40,NORMAL,4.5,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/14/2015,1,FEET,56,DEGREES F,,
+05/14/2015,2,FEET,53,DEGREES F,,
+06/24/2015,1,FEET,70.5,DEGREES F,,
+06/24/2015,2,FEET,70.1,DEGREES F,,
+06/24/2015,3,FEET,66.9,DEGREES F,,
+07/21/2015,1,FEET,69.8,DEGREES F,,
+07/21/2015,2,FEET,69.6,DEGREES F,,
+07/21/2015,3,FEET,69.2,DEGREES F,,
+08/24/2015,1,FEET,61.5,DEGREES F,,
+08/24/2015,2,FEET,61.5,DEGREES F,,
+08/24/2015,3,FEET,61.5,DEGREES F,,
+07/13/2017,0,FEET,72.6,DEGREES F,,
+07/13/2017,1,FEET,72.6,DEGREES F,,
+07/13/2017,2,FEET,72.6,DEGREES F,,
+07/13/2017,3,FEET,72.5,DEGREES F,,
+07/13/2017,4,FEET,71.9,DEGREES F,,
+08/23/2017,0,FEET,70.3,DEGREES F,,
+08/23/2017,1,FEET,70.1,DEGREES F,,
+08/23/2017,2,FEET,70.1,DEGREES F,,
+08/23/2017,3,FEET,70.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/27/2012,Mostly sunny- mid-80's- light breeze. One loon- 1 kingbird- 2 cedar waxwings- several tree swallows- dragonflies- damselflies- 3 carp. 
+07/07/2012,Clear- light breeze. One osprey- one mature bald eagle
+06/13/2013,Zero turtles seen - very unusual as it was sunny and there are plenty of logs for sunning.
+08/20/2014,mostly clear- very light breeze- 75 degrees. Considerable filamentous algae visible in sheltered bays. Saw one bald eagle- one painted turtle- several carp bubble trails.
+
+
+
+
+Start Date,Group Name,Project Name
+05/27/2012,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+07/07/2012,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+06/13/2013,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+08/23/2013,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+06/24/2014,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+08/20/2014,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+05/14/2015,Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+06/24/2015,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+07/21/2015,Josh Nemec,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+08/24/2015,Josh Nemec,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+08/24/2015,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+05/19/2016,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+05/27/2016,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+06/22/2016,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+07/08/2016,Dan Sivek,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+07/27/2016,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+08/18/2016,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+07/13/2017,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+07/13/2017,Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center
+08/23/2017,Josh Nemec + Justin Vogel,Citizen Lake Monitoring - Water Quality - Jordan Pond - Center

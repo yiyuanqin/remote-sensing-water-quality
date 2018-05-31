@@ -1,0 +1,75 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Amherst Millpond,Portage,268200,WC,50,,10040059,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+102377222,07/02/2014,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+102377222,07/16/2014,4,YES,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+102377222,07/30/2014,3.5,YES,1.1,,,59,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+102377222,08/13/2014,3.75,YES,1.1,,,58,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+79323097,05/28/2015,, ,,2.31,25.7,,53,41,NORMAL,,CLEAR,BROWN,
+79323097,06/29/2015,, ,,1.21,25,,53,36,NORMAL,,CLEAR,BROWN,
+79323097,07/27/2015,, ,,2.32,23.1,,52,41,LOW,,CLEAR,BROWN,
+1,08/25/2015,,,,1.79,34.2,,56,39,,,,,
+79323097,08/25/2015,, ,,,,,,,NORMAL,,CLEAR,BROWN,
+141888949,07/24/2017,5.5,YES,1.7,10.2,152,53,67,52,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+141888949,08/29/2017,5,YES,1.5,3.64,33,54,55,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/28/2015,1,FEET,62,DEGREES F,,
+05/28/2015,2,FEET,60,DEGREES F,,
+05/28/2015,3,FEET,58.4,DEGREES F,,
+05/28/2015,4,FEET,57.9,DEGREES F,,
+05/28/2015,5,FEET,57.5,DEGREES F,,
+06/29/2015,1,FEET,68.7,DEGREES F,,
+06/29/2015,2,FEET,65.1,DEGREES F,,
+06/29/2015,3,FEET,63.8,DEGREES F,,
+06/29/2015,4,FEET,62.6,DEGREES F,,
+06/29/2015,5,FEET,62.6,DEGREES F,,
+07/27/2015,1,FEET,74.4,DEGREES F,,
+07/27/2015,2,FEET,71.4,DEGREES F,,
+07/27/2015,3,FEET,67.4,DEGREES F,,
+07/27/2015,4,FEET,66.2,DEGREES F,,
+07/27/2015,5,FEET,65.4,DEGREES F,,
+08/25/2015,1,FEET,55.7,DEGREES F,,
+08/25/2015,2,FEET,54.6,DEGREES F,,
+08/25/2015,3,FEET,54.1,DEGREES F,,
+08/25/2015,4,FEET,53.9,DEGREES F,,
+08/25/2015,5,FEET,53.2,DEGREES F,,
+07/24/2017,1,FEET,64.9,DEGREES F,,
+07/24/2017,2,FEET,63.6,DEGREES F,,
+07/24/2017,3,FEET,63.5,DEGREES F,,
+07/24/2017,4,FEET,63.5,DEGREES F,,
+07/24/2017,5,FEET,63.3,DEGREES F,,
+08/29/2017,1,FEET,62.4,DEGREES F,,
+08/29/2017,2,FEET,59.3,DEGREES F,,
+08/29/2017,3,FEET,58.6,DEGREES F,,
+08/29/2017,4,FEET,58.1,DEGREES F,,
+08/29/2017,5,FEET,58,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/02/2014,Overcast skies- lots of algae.
+
+
+
+
+Start Date,Group Name,Project Name
+07/02/2014,Sonya Christensen,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+07/16/2014,Sonya Christensen,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+07/30/2014,Sonya Christensen,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+08/13/2014,Sonya Christensen,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+05/28/2015,Ryan Haney,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+06/29/2015,Ryan Haney,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+07/27/2015,Ryan Haney,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+08/25/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+08/25/2015,Ryan Haney,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+07/24/2017,Marcy Peterson,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center
+08/29/2017,Marcy Peterson,Citizen Lake Monitoring - Water Quality - Amherst Millpond - Center

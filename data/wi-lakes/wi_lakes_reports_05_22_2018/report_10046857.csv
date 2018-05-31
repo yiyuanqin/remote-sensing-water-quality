@@ -1,0 +1,33 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wausau,Marathon,1437500,WC,37,,10046857,NE,DRAINAGE
+Wisconsin River,Marathon,1179900,WC,37,,10046857,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+99679036,07/25/2016,,,,16.8,73.4,,61,56,,,,,
+1,09/14/2016,,,,3.42,73.2,,61,44,,,,,
+99679036,07/25/2016,,,,16.8,73.4,,61,56,,,,,
+1,09/14/2016,,,,3.42,73.2,,61,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/2016,,,25.7,C,6.73,MG/L
+07/25/2016,,,25.7,C,6.73,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/2016,JACOB ZIMMERMAN,Wisconsin River BOD TMDL Pilot -CO_1_CMP16
+09/14/2016,Data Collectors,Wisconsin River BOD TMDL Pilot -CO_1_CMP16
+07/25/2016,JACOB ZIMMERMAN,Wisconsin River BOD TMDL Pilot -CO_1_CMP16
+09/14/2016,Data Collectors,Wisconsin River BOD TMDL Pilot -CO_1_CMP16

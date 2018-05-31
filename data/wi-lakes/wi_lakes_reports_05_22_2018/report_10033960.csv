@@ -1,0 +1,119 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Barron,2630100,NO,3,,10033960,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+84656778,07/05/2013,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+102413951,06/23/2014,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+102414016,07/29/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+102413179,08/30/2014,,NO,,,,,,,,,,,
+17815278,06/28/2015,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17815278,07/31/2015,6,YES,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815278,08/31/2015,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+17815278,09/30/2015,7,YES,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+17815278,04/23/2016,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+17815278,05/18/2016,8,YES,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+17815278,06/14/2016,8,YES,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+17815278,07/14/2016,8,YES,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+17815278,08/25/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+17815278,05/07/2017,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+17815278,06/30/2017,7,YES,2.1,,,49,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815278,07/31/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+17815278,08/15/2017,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/05/2013,0,FEET,79.8,DEGREES F,6.45,MG/L
+07/05/2013,3,FEET,78.9,DEGREES F,6.45,MG/L
+07/05/2013,6,FEET,75,DEGREES F,1.19,MG/L
+06/23/2014,0,FEET,83.6,DEGREES F,8.03,MG/L
+06/23/2014,3,FEET,77.2,DEGREES F,6.88,MG/L
+06/23/2014,6,FEET,71,DEGREES F,6.07,MG/L
+07/29/2014,0,FEET,76,DEGREES F,,
+07/29/2014,3,FEET,72.8,DEGREES F,4.17,MG/L
+07/29/2014,6,FEET,70.9,DEGREES F,.28,MG/L
+08/30/2014,0,FEET,67.5,DEGREES F,8.69,MG/L
+08/30/2014,3,FEET,69.6,DEGREES F,2.14,MG/L
+08/30/2014,6,FEET,69.7,DEGREES F,1.48,MG/L
+06/28/2015,0,FEET,71.4,DEGREES F,7.81,MG/L
+06/28/2015,3,FEET,74.6,DEGREES F,3.85,MG/L
+06/28/2015,6,FEET,72.9,DEGREES F,2.03,MG/L
+07/31/2015,0,FEET,72.3,DEGREES F,8.33,MG/L
+07/31/2015,3,FEET,73,DEGREES F,3.39,MG/L
+07/31/2015,6,FEET,72.3,DEGREES F,.25,MG/L
+08/31/2015,0,FEET,76.2,DEGREES F,8.29,MG/L
+08/31/2015,3,FEET,70.2,DEGREES F,.73,MG/L
+08/31/2015,6,FEET,67.1,DEGREES F,.22,MG/L
+09/30/2015,0,FEET,55.7,DEGREES F,8.3,MG/L
+09/30/2015,3,FEET,57.3,DEGREES F,4.53,MG/L
+09/30/2015,6,FEET,56.8,DEGREES F,2.98,MG/L
+04/23/2016,0,FEET,12.3,DEGREES C,9.83,MG/L
+04/23/2016,3,FEET,11.9,DEGREES C,9.96,MG/L
+04/23/2016,6,FEET,10.4,DEGREES C,9.9,MG/L
+04/23/2016,9,FEET,9.7,DEGREES C,9.36,MG/L
+05/18/2016,0,METERS,20.8,DEGREES C,7.81,MG/L
+05/18/2016,1,METERS,20.5,DEGREES C,7.77,MG/L
+05/18/2016,2,METERS,18.9,DEGREES C,7.93,MG/L
+05/18/2016,2.5,METERS,16.4,DEGREES C,7.13,MG/L
+06/14/2016,0,METERS,22.2,DEGREES C,6.75,MG/L
+06/14/2016,1,METERS,22.3,DEGREES C,7.7,MG/L
+06/14/2016,2,METERS,21.5,DEGREES C,5.61,MG/L
+06/14/2016,3,METERS,19.1,DEGREES C,3.42,MG/L
+07/14/2016,0,FEET,72.8,DEGREES F,5.48,MG/L
+07/14/2016,3,FEET,73.2,DEGREES F,5.39,MG/L
+07/14/2016,6,FEET,72.5,DEGREES F,.75,MG/L
+07/14/2016,9,FEET,72,DEGREES F,.15,MG/L
+08/25/2016,0,FEET,68.2,DEGREES F,9.54,MG/L
+08/25/2016,3,FEET,71.8,DEGREES F,4.01,MG/L
+08/25/2016,6,FEET,70.5,DEGREES F,.21,MG/L
+08/25/2016,9,FEET,70.1,DEGREES F,.16,MG/L
+05/07/2017,0,FEET,53.8,DEGREES F,11.07,MG/L
+05/07/2017,3,FEET,59.7,DEGREES F,10.97,MG/L
+05/07/2017,6,FEET,54.08,DEGREES F,11.08,MG/L
+05/07/2017,9,FEET,53.04,DEGREES F,11,MG/L
+06/30/2017,0,FEET,69.1,DEGREES F,10.1,MG/L
+06/30/2017,3,FEET,72.3,DEGREES F,7.82,MG/L
+06/30/2017,6,FEET,71.2,DEGREES F,3.43,MG/L
+06/30/2017,9,FEET,69.8,DEGREES F,2.69,MG/L
+07/31/2017,0,FEET,68.5,DEGREES F,9.84,MG/L
+07/31/2017,3,FEET,69.8,DEGREES F,4.73,MG/L
+07/31/2017,6,FEET,69.1,DEGREES F,.51,MG/L
+07/31/2017,9,FEET,68.5,DEGREES F,.15,MG/L
+08/15/2017,0,FEET,74,DEGREES F,9.52,MG/L
+08/15/2017,3,FEET,72,DEGREES F,3.91,MG/L
+08/15/2017,6,FEET,70,DEGREES F,.2,MG/L
+08/15/2017,9,FEET,69,DEGREES F,.14,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/18/2016,Joe Waldo data collection
+06/14/2016,Joe Waldo data collection
+07/14/2016,Joe Waldo data collection
+
+
+
+
+Start Date,Group Name,Project Name
+07/05/2013,Steve Eichman- Sage Eichman- Craig Nackerude,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+06/23/2014,Larry Hart and Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+07/29/2014,Debra Eichman and Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+08/30/2014,Steve Eichman and Paula McDaniels,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+06/28/2015,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+07/31/2015,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+08/31/2015,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+09/30/2015,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+04/23/2016,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+05/18/2016,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+06/14/2016,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+07/14/2016,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+08/25/2016,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Buckwald Bay
+05/07/2017,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Mid Lake
+06/30/2017,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Mid Lake
+07/31/2017,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Mid Lake
+08/15/2017,Steve Eichman,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Mid Lake

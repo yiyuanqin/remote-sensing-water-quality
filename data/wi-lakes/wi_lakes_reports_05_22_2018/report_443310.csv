@@ -1,0 +1,113 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Echo Lake,Oneida,1597800,NO,44,,443310,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/20/1984,,,,18,,,,57,,,,,
+18137337,05/29/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137337,06/21/2007,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137337,07/06/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137337,07/17/2007,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137337,08/07/2007,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137337,08/14/2007,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137337,08/31/2007,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137337,09/15/2007,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+22984909,05/28/2008,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,06/01/2008,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,06/14/2008,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,06/25/2008,4.5,NO,1.4,,,55,,,HIGH,,,,1-Beautiful, could not be nicer
+22984909,07/14/2008,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,07/27/2008,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+22984909,08/21/2008,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+22984909,08/26/2008,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+22984909,09/09/2008,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+22984909,05/17/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,05/22/2009,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,05/29/2009,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,06/14/2009,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+22984909,06/19/2009,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,06/25/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22984909,06/30/2009,5.5,,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+22984909,07/07/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,
+22984909,08/13/2009,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130849514,08/18/2016,3,NO,0.9,,,61,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/18/2016,2,FEET,80.1,DEGREES F,8.08,MG/L
+08/18/2016,4,FEET,75.9,DEGREES F,5.99,MG/L
+08/18/2016,6,FEET,73.6,DEGREES F,3.22,MG/L
+08/18/2016,8,FEET,71.5,DEGREES F,.25,MG/L
+08/18/2016,10,FEET,67.2,DEGREES F,.08,MG/L
+08/18/2016,12,FEET,64.1,DEGREES F,.04,MG/L
+08/18/2016,14,FEET,58.9,DEGREES F,.02,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/20/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/29/2007,SE wind 10-20 MPH. Water lilies starting. Pollen visible.
+06/21/2007,NE wind 5-10 MPH. Sunny- 75 degrees. 
+07/06/2007,NW wind 5-10 MPH. Sunny- 80 degrees.
+07/17/2007,Wind light and variable. 75 degrees. Algae
+08/07/2007,NW wind 5-10 MPH. 75 degrees- algae present.
+08/14/2007,Light SE wind. 80 degrees. 
+08/31/2007,SW wind 5-8 MPH. 65 degrees.
+09/15/2007,SW wind 10 MPH. Cloudy- 50 degrees. Water temperature 59 degrees.
+05/28/2008,Clear sky- slight breeze- 63 deg F- minimum boat traffic. Single Loon fishing. Assisted by wife- Cooksey. 
+06/01/2008,Clear and mostly sunny- 70F. Water level high. 2 Loons on Lake. No boat traffic. Assisted by wife Cooksey.
+06/14/2008,Windy- partly cloudy- 72F- 2 compatible but unested Loons- assisted by spouse Cooksey.
+06/25/2008,Mostly sunny- 82F- assisted by wife Cooksey and grandson Zachary. Two compatible Loons nearby. They spend the day swimming and fishing since abandoning a nest with two eggs.  
+07/14/2008,Sunny and clear- 75F- 2 Loons on Lake- Lily Pads prominant along the shoreline- but lake is generally clear. Assisted by wife Cooksey. 
+07/27/2008,79F and calm- still water surface very few boats. No Loons on Lake. Lily pads are becoming more prevalent and grass + weed-growth is narrowing the channel substantially.
+08/21/2008,Cloudy with some sun/windy/72 degrees F. Two Loons present. Assisted by wife- Cooksey.
+08/26/2008,Sunny and 73 degrees F. Water calm with no boat traffic. Although the water is rusty- it's still quite clear. Algae growth is much more apparent and later in the sunmmer than usual. Water level is decreasing fairly rapidly. Two Loons on the lake. Assisted by my spouse- Cooksey. 
+09/09/2008,Partly sunny- calm- 63F- no boat traffic. Curly Leaf Pondweed found at NE shore- at approach from South to bridge under Hwy D- and 30 feet in front of my pier. I pulled samples to process and submit- but left town shortly thereafter and failed to complete the processing. Will try for more samples. Two Loons on Lake. 
+05/17/2009,Sunny and light breeze with a few clouds. A compatible pair of loons on the lake.
+05/22/2009,Sunny and 68F
+05/29/2009,70F with slight breeze- mostly sunny. 2 Loons on lake.
+06/14/2009,Mid 70s- partly cloudy- light breeze. Nesting Loon on eastern shore. One boat on water with tubers behind. Took 2 readings: one with full sunshine- and one with sun totally behind clouds. Just a beautiful day.
+06/19/2009,Cloudy and overcast- calm wind and smooth water- 70F- Nesting Loon with mate swimming nearby.
+06/25/2009,Overcast with partial sun- 70F- calm wind. Nesting loon.  Overcast with partial sun- 70F- calm wind. Nesting loon. Unusual depth of clarity- but I measured 3X to confirm. 
+06/30/2009,Cloudy and overtcast- no sun- 52F and light wind. @ loons on water- but nest has been abandoned and eggs shattered and scattered. Water is clear- but weeds are becoming more apparent close to shore. Lots of pollen floating. Water level is slightly higher than normal.
+07/07/2009,Sunny. No Loons. Good visbility of Secci disc when submerged: Must be the angle of view with respect to the sun's angle. 
+08/13/2009,Bright Sun and warm- light breeze. Two loons on lake- no boat traffic.
+08/18/2016,Assisted by Echo Lake volunteers- Kathy and Tom Mackin.
+
+
+
+
+Start Date,Group Name,Project Name
+08/20/1984,Data Collectors,Migrated from STORET Legacy
+05/29/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/21/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+07/06/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+07/17/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/07/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/14/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/31/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+09/15/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+05/28/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/01/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/14/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/25/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+07/14/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+07/27/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/21/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/26/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+09/09/2008,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+05/17/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+05/22/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+05/29/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/14/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/19/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/25/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+06/30/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+07/07/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/13/2009,Jeff Smith,Citizen Lake Monitoring - Water Quality - Echo Lake (1597800)- Deep Hole
+08/18/2016,Stephanie Boismenue and Abbi Bowman,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

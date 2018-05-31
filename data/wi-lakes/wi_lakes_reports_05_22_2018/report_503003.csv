@@ -1,0 +1,754 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Du Bay,Portage,1412200,WC,50,,503003,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/09/1975,,,,,,,,,,,,,
+1,12/01/1975,,,,,,,,,,,,,
+1,08/17/1976,,,,8,,,,51,,,,,
+1,10/12/1976,,,,,,,,,,,,,
+1,01/27/1977,,,,,100,,64,,,,,,
+1,02/14/1977,,,,,,,,,,,,,
+1,03/07/1977,,,,,,,,,,,,,
+1,04/06/1977,,,,,,,,,,,,,
+1,05/09/1977,,,,,,,,,,,,,
+1,06/09/1977,,,,,,,,,,,,,
+1,06/24/1977,,,,,,,,,,,,,
+1,07/06/1977,,,,,,,,,,,,,
+1,07/20/1977,,,,57,,,,65,,,,,
+1,07/29/1977,,,,,,,,,,,,,
+1,08/10/1977,,,,,,,,,,,,,
+1,09/14/1977,,,,26,,,,59,,,,,
+1,09/19/1977,,,,,,,,,,,,,
+1,10/13/1977,,,,,,,,,,,,,
+1,11/21/1977,,,,,,,,,,,,,
+1,12/22/1977,,,,,,,,,,,,,
+1,01/23/1978,,,,,,,,,,,,,
+1,02/14/1978,,,,,,,,,,,,,
+1,03/15/1978,,,,,,,,,,,,,
+1,04/17/1978,,,,,,,,,,,,,
+1,05/22/1978,,,,,,,,,,,,,
+1,06/26/1978,,,,,,,,,,,,,
+1,06/28/1978,,,,20,90,,63,57,,,,,
+1,07/13/1978,,,,,,,,,,,,,
+1,08/23/1978,,,,,,,,,,,,,
+1,09/26/1978,,,,,,,,,,,,,
+1,10/26/1978,,,,,,,,,,,,,
+1,11/28/1978,,,,,,,,,,,,,
+1,12/18/1978,,,,,,,,,,,,,
+1,01/25/1979,,,,,,,,,,,,,
+1,02/20/1979,,,,,,,,,,,,,
+1,03/21/1979,,,,,,,,,,,,,
+1,04/16/1979,,,,,,,,,,,,,
+1,06/26/1979,,,,18,80,,62,57,,,,,
+1,07/24/1979,,,,61,80,,62,66,,,,,
+1,09/25/1979,,,,,120,,65,,,,,,
+1,10/17/1979,,,,,80,,62,,,,,,
+1,11/27/1979,,,,,120,,65,,,,,,
+1,12/20/1979,,,,,60,,60,,,,,,
+1,01/28/1980,,,,,120,,65,,,,,,
+1,02/21/1980,,,,,70,,61,,,,,,
+1,03/20/1980,,,,,90,,63,,,,,,
+1,03/28/1980,,,,,,,,,,,,,
+1,04/24/1980,,,,,100,,64,,,,,,
+1,05/12/1980,,,,51,110,,65,65,,,,,
+1,06/05/1980,,,,10,,,,52,,,,,
+1,07/24/1980,,,,74,120,,65,67,,,,,
+1,09/17/1980,,,,14,,,,55,,,,,
+1,10/09/1980,,,,21,,,,58,,,,,
+1,11/13/1980,,,,,,,,,,,,,
+1,12/15/1980,,,,,,,,,,,,,
+1,01/19/1981,,,,,,,,,,,,,
+1,02/25/1981,,,,,220,,70,,,,,,
+1,03/25/1981,,,,,70,,61,,,,,,
+1,04/15/1981,,,,,90,,63,,,,,,
+1,05/21/1981,,,,40,60,,60,63,,,,,
+1,06/24/1981,,,,16,80,,62,56,,,,,
+1,07/22/1981,,,,44,60,,60,63,,,,,
+1,08/13/1981,,,,63,80,,62,66,,,,,
+1,09/15/1981,,,,57,80,,62,65,,,,,
+1,10/21/1981,,,,16,80,,62,56,,,,,
+1,11/17/1981,,,,,60,,60,,,,,,
+1,12/16/1981,,,,,60,,60,,,,,,
+1,01/21/1982,,,,,60,,60,,,,,,
+1,02/16/1982,,,,,80,,62,,,,,,
+1,03/17/1982,,,,,80,,62,,,,,,
+1,04/28/1982,,,,,80,,62,,,,,,
+1,05/17/1982,,,,,70,,61,,,,,,
+1,06/22/1982,,,,47,80,,62,64,,,,,
+1,07/19/1982,,,,47,80,,62,64,,,,,
+1,08/25/1982,,,,53,120,,65,65,,,,,
+1,09/29/1982,,,,29,100,,64,60,,,,,
+1,10/27/1982,,,,14,120,,65,55,,,,,
+1,11/16/1982,,,,,80,,62,,,,,,
+1,12/16/1982,,,,,50,,58,,,,,,
+1,01/18/1983,,,,,60,,60,,,,,,
+1,02/23/1983,,,,,80,,62,,,,,,
+1,03/30/1983,,,,,60,,60,,,,,,
+1,04/19/1983,,,,,60,,60,,,,,,
+1,05/23/1983,,,,26,60,,60,59,,,,,
+1,06/27/1983,,,,18,60,,60,57,,,,,
+1,07/21/1983,,,,34,60,,60,61,,,,,
+1,08/23/1983,,,,81,130,,66,68,,,,,
+1,09/22/1983,,,,,120,,65,,,,,,
+1,10/26/1983,,,,,80,,62,,,,,,
+1,11/30/1983,,,,,80,,62,,,,,,
+1,12/19/1983,,,,,40,,57,,,,,,
+1,01/30/1984,,,,,70,,61,,,,,,
+1,02/22/1984,,,,,180,,68,,,,,,
+1,03/21/1984,,,,,80,,62,,,,,,
+1,04/25/1984,,,,,80,,62,,,,,,
+1,05/22/1984,,,,39,60,,60,62,,,,,
+1,06/19/1984,,,,41,100,,64,63,,,,,
+1,07/17/1984,,,,66,140,,66,66,,,,,
+1,08/28/1984,,,,58,100,,64,65,,,,,
+1,09/19/1984,,,,78,90,,63,68,,,,,
+1,09/25/1984,,,,,,,,,,,,,
+1,11/13/1984,,,,,70,,61,,,,,,
+1,12/12/1984,,,,,60,,60,,,,,,
+1,01/28/1985,,,,,60,,60,,,,,,
+1,02/27/1985,,,,,90,,63,,,,,,
+1,03/20/1985,,,,,140,,66,,,,,,
+1,04/11/1985,,,,,80,,62,,,,,,
+1,05/16/1985,,,,32,100,,64,61,,,,,
+1,06/19/1985,,,,62,80,,62,66,,,,,
+1,07/30/1985,,,,110,110,,65,70,,,,,
+1,08/29/1985,,,,65,80,,62,66,,,,,
+1,09/30/1985,,,,22,100,,64,58,,,,,
+1,10/21/1985,,,,,80,,62,,,,,,
+1,11/18/1985,,,,,50,,58,,,,,,
+1,12/16/1985,,,,,40,,57,,,,,,
+1,01/22/1986,,,,,60,,60,,,,,,
+1,02/26/1986,,,,,70,,61,,,,,,
+1,03/26/1986,,,,,100,,64,,,,,,
+1,07/27/1988,,,,140,150,,67,72,,,,,
+1,08/16/1988,,,,99,150,,67,70,,,,,
+1,09/21/1988,,,,,120,,65,,,,,,
+1,10/19/1988,,,,,90,,63,,,,,,
+1,11/17/1988,,,,,60,,60,,,,,,
+1,12/13/1988,,,,,70,,61,,,,,,
+1,01/24/1989,,,,,70,,61,,,,,,
+1,02/21/1989,,,,,70,,61,,,,,,
+1,03/29/1989,,,,,360,,74,,,,,,
+1,04/25/1989,,,,,120,,65,,,,,,
+1,05/24/1989,,,,,80,,62,,,,,,
+1,06/14/1989,,,,,120,,65,,,,,,
+1,07/26/1989,,,,62,90,,63,66,,,,,
+1,08/23/1989,,,,85,120,,65,68,,,,,
+1,09/12/1989,,,,,,,,,,,,,
+1,10/10/1989,,,,25,100,,64,59,,,,,
+1,11/07/1989,,,,,80,,62,,,,,,
+1,12/12/1989,,,,,70,,61,,,,,,
+1,01/23/1990,,,,,100,,64,,,,,,
+1,04/11/1990,,,,,,,,,,,,,
+1,02/05/1991,,,,,90,,63,,,,,,
+1,10/15/1991,,,,,90,,63,,,,,,
+1,01/14/1992,,,,,60,,60,,,,,,
+1,10/20/1992,,,,,,,,,,,,,
+8190686,08/07/1993,2.25,NO,0.7,,,65,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190686,08/21/1993,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190686,09/04/1993,2,NO,0.6,,,67,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190686,10/03/1993,1.75,NO,0.5,,,69,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190686,10/10/1993,1.5,NO,0.5,,,71,,,LOW,,,BROWN,5-Enjoyment substantially impaired (algae)
+1,10/12/1993,,,,,,,,,,,,,
+8190686,10/24/1993,1.75,NO,0.5,,,69,,,HIGH,,,BROWN,5-Enjoyment substantially impaired (algae)
+1,02/15/1994,,,,,76,,62,,,,,,
+8190686,04/24/1994,2.5,NO,0.8,,,64,,,HIGH,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190686,06/04/1994,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+1,07/19/1994,,,,,,,,,,,,,
+8190686,10/03/1994,1.25,NO,0.4,,,74,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+1,10/26/1994,,,,,94,,63,,,,,,
+8190686,11/05/1994,2.25,NO,0.7,,,65,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+1,01/24/1995,,,,,70,,61,,,,,,
+1,04/19/1995,,,,,64,,60,,,,,,
+8190686,07/04/1995,2,NO,0.6,,,67,,,LOW,,,BROWN,5-Enjoyment substantially impaired (algae)
+1,07/19/1995,,,,,98,,64,,,,,,
+1,10/16/1995,,,,,98,,64,,,,,,
+1,01/16/1996,,,,,73,,61,,,,,,
+1,04/15/1996,,,,,94,,63,,,,,,
+8190686,07/05/1996,2,NO,0.6,,,67,,,NORMAL,,,BROWN,5-Enjoyment substantially impaired (algae)
+1,07/15/1996,,,,,80,,62,,,,,,
+1,10/14/1996,,,,,60,,60,,,,,,
+1,01/15/1997,,,,,101,,64,,,,,,
+1,04/23/1997,,,,,76,,62,,,,,,
+1,07/16/1997,,,,,92,,63,,,,,,
+1,10/13/1997,,,,,97,,64,,,,,,
+1,01/21/1998,,,,,78,,62,,,,,,
+1,04/13/1998,,,,,98,,64,,,,,,
+1,07/21/1998,,,,,95,,63,,,,,,
+1,10/27/1998,,,,,64,,60,,,,,,
+1,01/19/1999,,,,,75,,62,,,,,,
+1,04/26/1999,,,,,79,,62,,,,,,
+8189426,05/09/1999,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189426,06/01/1999,3.25,NO,1,,,60,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189426,06/13/1999,2.25,NO,0.7,,,65,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189426,06/26/1999,2.25,NO,0.7,,,65,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189426,07/10/1999,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189426,07/24/1999,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189426,08/02/1999,1.25,NO,0.4,,,74,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189426,08/16/1999,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189426,08/23/1999,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/30/1999,,,,,66,,61,,,,,,
+8189426,09/01/1999,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000090,10/14/1999,,,,,,,,,,,,,
+7000090,01/20/2000,,,,,66,,61,,,,,,
+7000090,04/11/2000,,,,,,,,,,,,,
+7000090,07/18/2000,,,,,,,,,,,,,
+8189426,07/18/2000,,,,,95,,63,,,,,,
+7000090,10/24/2000,,,,,65,,60,,,,,,
+99679036,07/25/2016,,,,51.8,70.6,,61,65,,,,,
+1,09/14/2016,,,,17.1,81.7,,62,56,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/09/1975,,,18,C,5.1,MG/L
+12/01/1975,,,0,C,10.4,MG/L
+08/17/1976,,,22.5,C,,
+10/12/1976,,,10,C,3.7,MG/L
+01/27/1977,,,2,C,1.3,MG/L
+02/14/1977,,,.5,C,.6,MG/L
+03/07/1977,,,.5,C,1.4,MG/L
+04/06/1977,,,3,C,9.6,MG/L
+05/09/1977,,,18,C,9.3,MG/L
+06/09/1977,,,22.5,C,8.7,MG/L
+06/24/1977,,,21.5,C,7,MG/L
+07/06/1977,,,26,C,8.4,MG/L
+07/20/1977,,,27,C,6.9,MG/L
+07/29/1977,,,25,C,7.2,MG/L
+08/10/1977,,,24,C,7.3,MG/L
+09/14/1977,,,19.5,C,9,MG/L
+09/19/1977,,,17.5,C,6.3,MG/L
+10/13/1977,,,8,C,9.4,MG/L
+11/21/1977,,,2,C,10.8,MG/L
+12/22/1977,,,1,C,9.8,MG/L
+01/23/1978,,,1,C,11.2,MG/L
+02/14/1978,,,1,C,9,MG/L
+03/15/1978,,,1,C,7.7,MG/L
+04/17/1978,,,8,C,10.8,MG/L
+05/22/1978,,,16,C,7.1,MG/L
+06/26/1978,,,25,C,6.9,MG/L
+06/28/1978,,,24,C,6.6,MG/L
+07/13/1978,,,22,C,7.2,MG/L
+08/23/1978,,,23,C,6.7,MG/L
+09/26/1978,,,16,C,8.6,MG/L
+10/26/1978,,,8,C,10.1,MG/L
+11/28/1978,,,1,C,10.5,MG/L
+12/18/1978,,,1,C,9.2,MG/L
+01/25/1979,,,1,C,9,MG/L
+02/20/1979,,,1,C,9,MG/L
+03/21/1979,,,1,C,8.8,MG/L
+04/16/1979,,,3,C,10.2,MG/L
+06/26/1979,,,30,C,7.2,MG/L
+07/24/1979,,,26,C,8.7,MG/L
+09/25/1979,,,16.5,C,9.5,MG/L
+10/17/1979,,,9,C,12,MG/L
+11/27/1979,,,2,C,13.6,MG/L
+12/20/1979,,,1,C,11.6,MG/L
+01/28/1980,,,.5,C,11.6,MG/L
+02/21/1980,,,.5,C,11,MG/L
+03/20/1980,,,2,C,10.4,MG/L
+03/28/1980,,,1,C,1.7,MG/L
+04/24/1980,,,11,C,9.5,MG/L
+05/12/1980,,,13,C,11,MG/L
+06/05/1980,,,20,C,5.3,MG/L
+07/24/1980,,,25,C,8.4,MG/L
+09/17/1980,,,16,C,8.1,MG/L
+10/09/1980,,,13,C,9.3,MG/L
+11/13/1980,,,3.5,C,11.2,MG/L
+12/15/1980,,,1,C,13.6,MG/L
+01/19/1981,,,.5,C,10.6,MG/L
+02/25/1981,,,0,C,9.6,MG/L
+03/25/1981,,,3,C,12,MG/L
+04/15/1981,,,9.5,C,10.2,MG/L
+05/21/1981,,,16,C,10.7,MG/L
+06/24/1981,,,18,C,8,MG/L
+07/22/1981,,,22,C,8.1,MG/L
+08/13/1981,,,23.5,C,8.8,MG/L
+09/15/1981,,,20,C,8.8,MG/L
+10/21/1981,,,8,C,9.3,MG/L
+11/17/1981,,,6,C,11.7,MG/L
+12/16/1981,,,2,C,10.1,MG/L
+01/21/1982,,,2,C,8.5,MG/L
+02/16/1982,,,3,C,7.6,MG/L
+03/17/1982,,,0,C,9.6,MG/L
+04/28/1982,,,10,C,10,MG/L
+05/17/1982,,,18,C,8.2,MG/L
+06/22/1982,,,20,C,10,MG/L
+07/19/1982,,,25,C,7.6,MG/L
+08/25/1982,,,22,C,6,MG/L
+09/29/1982,,,13,C,8.6,MG/L
+10/27/1982,,,7,C,10.8,MG/L
+11/16/1982,,,2,C,11.8,MG/L
+12/16/1982,,,0,C,13,MG/L
+01/18/1983,,,0,C,11.7,MG/L
+02/23/1983,,,3,C,10.8,MG/L
+03/30/1983,,,4,C,11.5,MG/L
+04/19/1983,,,6,C,12.2,MG/L
+05/23/1983,,,16,C,8.8,MG/L
+07/21/1983,,,21.5,C,8.5,MG/L
+08/23/1983,,,20,C,7.2,MG/L
+09/22/1983,,,9,C,11,MG/L
+10/26/1983,,,10,C,10.2,MG/L
+11/30/1983,,,3,C,13.4,MG/L
+12/19/1983,,,3,C,12.6,MG/L
+01/30/1984,,,3,C,11.1,MG/L
+02/22/1984,,,0,C,9.9,MG/L
+03/21/1984,,,0,C,12.2,MG/L
+04/25/1984,,,11,C,13.2,MG/L
+05/22/1984,,,18,C,9.8,MG/L
+06/19/1984,,,26,C,9.5,MG/L
+07/17/1984,,,23,C,7.3,MG/L
+08/28/1984,,,23,C,9.2,MG/L
+09/19/1984,,,17,C,10.1,MG/L
+09/25/1984,,,18.5,C,,
+11/13/1984,,,3,C,11.6,MG/L
+12/12/1984,,,0,C,10.7,MG/L
+01/28/1985,,,0,C,10.5,MG/L
+02/27/1985,,,0,C,8.7,MG/L
+03/20/1985,,,1,C,9.9,MG/L
+04/11/1985,,,4,C,12.5,MG/L
+05/16/1985,,,17.5,C,8,MG/L
+06/19/1985,,,18,C,9.8,MG/L
+07/30/1985,,,23,C,9,MG/L
+08/29/1985,,,19,C,9.2,MG/L
+09/30/1985,,,11,C,9.4,MG/L
+10/21/1985,,,11,C,9.7,MG/L
+11/18/1985,,,1,C,12.4,MG/L
+12/16/1985,,,0,C,12,MG/L
+01/22/1986,,,0,C,11.4,MG/L
+02/26/1986,,,0,C,11,MG/L
+03/26/1986,,,0,C,11,MG/L
+07/27/1988,,,24,C,7.0,MG/L
+08/16/1988,,,29.0,C,11.8,MG/L
+09/21/1988,,,18,C,7.4,MG/L
+10/19/1988,,,9,C,9.6,MG/L
+11/17/1988,,,3,C,11.8,MG/L
+12/13/1988,,,0,C,11.1,MG/L
+01/24/1989,,,0,C,9.0,MG/L
+02/21/1989,,,0,C,8.7,MG/L
+03/29/1989,,,0,C,10.3,MG/L
+04/25/1989,,,12,C,10.1,MG/L
+05/24/1989,,,18.5,C,8.9,MG/L
+06/14/1989,,,17.5,C,6.6,MG/L
+07/26/1989,,,27.5,C,13.0,MG/L
+08/23/1989,,,21.0,C,7.7,MG/L
+09/12/1989,,,19.0,DEGREES C,6.3,MG/L
+10/10/1989,,,10.5,C,8.3,MG/L
+11/07/1989,,,6.0,C,9.3,MG/L
+12/12/1989,,,2,C,9.9,MG/L
+01/23/1990,,,1,C,7.4,MG/L
+04/11/1990,,,6,C,10.9,MG/L
+10/20/1992,,,5.5,DEGREES C,9.5,MG/L
+10/12/1993,,,10.2,DEGREES C,10.0,MG/L
+02/15/1994,,,0,C,9.05,MG/L
+07/19/1994,,,22.9,DEGREES C,7.15,MG/L
+10/26/1994,,,8.9,C,11.4,MG/L
+01/24/1995,,,0.3,C,10.8,MG/L
+04/19/1995,,,6.5,C,10.2,MG/L
+07/19/1995,,,24.5,C,6.6,MG/L
+10/16/1995,,,10.2,C,9.8,MG/L
+01/16/1996,,,0.2,C,11.65,MG/L
+04/15/1996,,,1.6,C,13.5,MG/L
+07/15/1996,,,22.1,C,9.00,MG/L
+10/14/1996,,,11.6,C,10.3,MG/L
+04/23/1997,,,8.8,C,9.70,MG/L
+07/16/1997,,,25.2,C,8.3,MG/L
+04/13/1998,,,9.0,C,9.2,MG/L
+07/21/1998,,,26.6,C,8.2,MG/L
+10/27/1998,,,11.0,C,10.2,MG/L
+01/19/1999,,,0.0,C,10.2,MG/L
+04/26/1999,,,14.0,C,13.0,MG/L
+08/30/1999,,,23.0,C,7.5,MG/L
+10/14/1999,,,11.8,C,9.2,MG/L
+01/20/2000,,,0.0,C,10.6,MG/L
+04/11/2000,,,6.9,C,11.8,MG/L
+07/18/2000,,,24.1,C,6.4,MG/L
+10/24/2000,,,13.1,C,9.40,MG/L
+07/25/2016,,,26.0,C,8.36,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/09/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/01/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/17/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/12/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/27/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/14/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/07/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/06/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/09/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/09/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/24/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/06/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/20/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/29/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/10/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/14/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/19/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/13/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/21/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/22/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/23/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/14/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/15/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/17/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/22/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/26/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/28/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/13/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/23/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/26/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/26/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/28/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/18/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/25/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/20/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/21/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/16/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/24/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/25/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/17/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/27/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/20/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/28/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/21/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/20/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/28/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/24/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/12/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/05/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/24/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/17/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/09/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/13/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/15/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/19/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/25/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/25/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/15/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/21/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/24/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/22/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/13/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/15/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/21/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/17/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/16/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/21/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/16/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/17/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/28/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/17/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/22/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/19/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/25/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/29/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/16/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/16/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/18/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/23/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/30/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/19/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/23/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/27/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/21/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/23/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/22/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/26/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/30/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/19/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/30/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/22/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/21/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/25/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/22/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/19/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/17/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/28/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/19/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/25/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/13/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/12/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/28/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/27/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/20/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/11/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/16/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/19/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/30/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/30/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/21/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/18/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/16/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/22/1986,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1986,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/26/1986,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/24/1989,Ambient monitoring State    
+06/14/1989,Ambient monitoring State    
+07/26/1989,Ambient monitoring state    
+08/23/1989,Ambient monitoring State    
+09/12/1989,Ambient monitoring State    
+11/07/1989,Ambient monitoring State    
+02/05/1991,Ambient monitoring    
+10/15/1991,ambient monitoring    
+01/14/1992,ambient monitoring    
+10/20/1992,ambient monitoring    
+08/07/1993,Visible strands of green algae- calm conditions- riprap at old highway 51 landing detracts from aesthetic enjoyment.    
+08/21/1993,Algae seems worse- calm + sunny conditions    
+09/04/1993,Windy and clear- heavy boat traffic- labor day weekend.    
+10/03/1993,Sunny- windy- visible strands of green algae- unseasonably warm    
+10/10/1993,Sunny- fairly windy- green algae strands.  Suspended particulate matter- very poor visual water quality.    
+10/12/1993,ambient monitoring    
+10/24/1993,Sunny- calm- unusually warm- visible strands of globs of green algae- very poor water quality.    
+02/15/1994,du bay dam ambient monitoring    
+04/24/1994,Very warm- recent ice-out.    
+06/04/1994,Warm- sunny- calm    
+07/19/1994,dubay dam  ambient monitoring    
+10/03/1994,Very dark brown water- color + clarity extremely poor.  Smell of paper mill effluent.  Fishable + swimable     
+10/26/1994,du bay dam  above    
+11/05/1994,No visible algae - for the first time.  Overcast- dark brown water color.    
+01/24/1995,du bay dam    
+04/19/1995,du bay dam  above     ambient monitoring    
+07/04/1995,Usual extremely poor water clarity- visible strands of green algae.    
+07/19/1995,du bay dam above         ambient monitoring    
+10/16/1995,du bay dam   above       ambient monitoring    
+01/16/1996,dubay dam above    
+04/15/1996,du bay dam above    
+07/05/1996,Strands of green algae-heavy-poor water quality.    
+07/15/1996,du bay dam  ambient monitoring    
+10/14/1996,du bay dam  above   ambient monitoring    
+01/15/1997,du bay dam    
+04/23/1997,du bay dam (above)    
+07/16/1997,du bay dam (above) ambient monitoring    
+10/13/1997,du bay dam (above)  ambient monitoring    
+01/21/1998,du bay dam (above)       ambient monitoring    
+04/13/1998,du bay dam (above)  ambient monitoring    
+07/21/1998,AMBIENT MONITORING    
+01/19/1999,du bay dam    
+04/26/1999,du bay dam    #1179900    
+05/09/1999,2+ inch of rain week.  Very calm + sunny.  Lots of ducks + craines.  Boat traffic and jet ski usage low.  Surface water temp 57 degrees F.    
+06/01/1999,Water temp 66 degrees F.  Very calm + sunny.  Boat usage high.    
+06/13/1999,Water temp 75 degrees F.  Very calm.  Lots of fishing boats.    
+06/26/1999,Water 78 degrees F.  Lots of boats.    
+07/10/1999,Water temperature 80 degrees F.  Lots of boats.    
+07/24/1999,86 degree water temp.  More boats.    
+08/02/1999,78 degree F water temp.    
+08/16/1999,Water 77 degrees F.    
+08/23/1999,Water temp 74 degrees F.    
+08/30/1999,du bay dam     ambient monitoring    
+09/01/1999,72 degree F water temp.    
+10/14/1999,dam (above) ambient monitoring    
+01/20/2000,AMBIENT MONITORING    
+04/11/2000,AMBIENT MONITORING    
+07/18/2000,AMBIENT MONITORING    
+10/24/2000,AMBIENT MONITORING    
+
+
+
+
+Start Date,Group Name,Project Name
+09/09/1975,Data Collectors,Migrated from STORET Legacy
+12/01/1975,Data Collectors,Migrated from STORET Legacy
+08/17/1976,Data Collectors,Migrated from STORET Legacy
+10/12/1976,Data Collectors,Migrated from STORET Legacy
+01/27/1977,Data Collectors,Migrated from STORET Legacy
+02/14/1977,Data Collectors,Migrated from STORET Legacy
+03/07/1977,Data Collectors,Migrated from STORET Legacy
+04/06/1977,Data Collectors,Migrated from STORET Legacy
+05/09/1977,Data Collectors,Migrated from STORET Legacy
+06/09/1977,Data Collectors,Migrated from STORET Legacy
+06/24/1977,Data Collectors,Migrated from STORET Legacy
+07/06/1977,Data Collectors,Migrated from STORET Legacy
+07/20/1977,Data Collectors,Migrated from STORET Legacy
+07/29/1977,Data Collectors,Migrated from STORET Legacy
+08/10/1977,Data Collectors,Migrated from STORET Legacy
+09/14/1977,Data Collectors,Migrated from STORET Legacy
+09/19/1977,Data Collectors,Migrated from STORET Legacy
+10/13/1977,Data Collectors,Migrated from STORET Legacy
+11/21/1977,Data Collectors,Migrated from STORET Legacy
+12/22/1977,Data Collectors,Migrated from STORET Legacy
+01/23/1978,Data Collectors,Migrated from STORET Legacy
+02/14/1978,Data Collectors,Migrated from STORET Legacy
+03/15/1978,Data Collectors,Migrated from STORET Legacy
+04/17/1978,Data Collectors,Migrated from STORET Legacy
+05/22/1978,Data Collectors,Migrated from STORET Legacy
+06/26/1978,Data Collectors,Migrated from STORET Legacy
+06/28/1978,Data Collectors,Migrated from STORET Legacy
+07/13/1978,Data Collectors,Migrated from STORET Legacy
+08/23/1978,Data Collectors,Migrated from STORET Legacy
+09/26/1978,Data Collectors,Migrated from STORET Legacy
+10/26/1978,Data Collectors,Migrated from STORET Legacy
+11/28/1978,Data Collectors,Migrated from STORET Legacy
+12/18/1978,Data Collectors,Migrated from STORET Legacy
+01/25/1979,Data Collectors,Migrated from STORET Legacy
+02/20/1979,Data Collectors,Migrated from STORET Legacy
+03/21/1979,Data Collectors,Migrated from STORET Legacy
+04/16/1979,Data Collectors,Migrated from STORET Legacy
+06/26/1979,Data Collectors,Migrated from STORET Legacy
+07/24/1979,Data Collectors,Migrated from STORET Legacy
+09/25/1979,Data Collectors,Migrated from STORET Legacy
+10/17/1979,Data Collectors,Migrated from STORET Legacy
+11/27/1979,Data Collectors,Migrated from STORET Legacy
+12/20/1979,Data Collectors,Migrated from STORET Legacy
+01/28/1980,Data Collectors,Migrated from STORET Legacy
+02/21/1980,Data Collectors,Migrated from STORET Legacy
+03/20/1980,Data Collectors,Migrated from STORET Legacy
+03/28/1980,Data Collectors,Migrated from STORET Legacy
+04/24/1980,Data Collectors,Migrated from STORET Legacy
+05/12/1980,Data Collectors,Migrated from STORET Legacy
+06/05/1980,Data Collectors,Migrated from STORET Legacy
+07/24/1980,Data Collectors,Migrated from STORET Legacy
+09/17/1980,Data Collectors,Migrated from STORET Legacy
+10/09/1980,Data Collectors,Migrated from STORET Legacy
+11/13/1980,Data Collectors,Migrated from STORET Legacy
+12/15/1980,Data Collectors,Migrated from STORET Legacy
+01/19/1981,Data Collectors,Migrated from STORET Legacy
+02/25/1981,Data Collectors,Migrated from STORET Legacy
+03/25/1981,Data Collectors,Migrated from STORET Legacy
+04/15/1981,Data Collectors,Migrated from STORET Legacy
+05/21/1981,Data Collectors,Migrated from STORET Legacy
+06/24/1981,Data Collectors,Migrated from STORET Legacy
+07/22/1981,Data Collectors,Migrated from STORET Legacy
+08/13/1981,Data Collectors,Migrated from STORET Legacy
+09/15/1981,Data Collectors,Migrated from STORET Legacy
+10/21/1981,Data Collectors,Migrated from STORET Legacy
+11/17/1981,Data Collectors,Migrated from STORET Legacy
+12/16/1981,Data Collectors,Migrated from STORET Legacy
+01/21/1982,Data Collectors,Migrated from STORET Legacy
+02/16/1982,Data Collectors,Migrated from STORET Legacy
+03/17/1982,Data Collectors,Migrated from STORET Legacy
+04/28/1982,Data Collectors,Migrated from STORET Legacy
+05/17/1982,Data Collectors,Migrated from STORET Legacy
+06/22/1982,Data Collectors,Migrated from STORET Legacy
+07/19/1982,Data Collectors,Migrated from STORET Legacy
+08/25/1982,Data Collectors,Migrated from STORET Legacy
+09/29/1982,Data Collectors,Migrated from STORET Legacy
+10/27/1982,Data Collectors,Migrated from STORET Legacy
+11/16/1982,Data Collectors,Migrated from STORET Legacy
+12/16/1982,Data Collectors,Migrated from STORET Legacy
+01/18/1983,Data Collectors,Migrated from STORET Legacy
+02/23/1983,Data Collectors,Migrated from STORET Legacy
+03/30/1983,Data Collectors,Migrated from STORET Legacy
+04/19/1983,Data Collectors,Migrated from STORET Legacy
+05/23/1983,Data Collectors,Migrated from STORET Legacy
+06/27/1983,Data Collectors,Migrated from STORET Legacy
+07/21/1983,Data Collectors,Migrated from STORET Legacy
+08/23/1983,Data Collectors,Migrated from STORET Legacy
+09/22/1983,Data Collectors,Migrated from STORET Legacy
+10/26/1983,Data Collectors,Migrated from STORET Legacy
+11/30/1983,Data Collectors,Migrated from STORET Legacy
+12/19/1983,Data Collectors,Migrated from STORET Legacy
+01/30/1984,Data Collectors,Migrated from STORET Legacy
+02/22/1984,Data Collectors,Migrated from STORET Legacy
+03/21/1984,Data Collectors,Migrated from STORET Legacy
+04/25/1984,Data Collectors,Migrated from STORET Legacy
+05/22/1984,Data Collectors,Migrated from STORET Legacy
+06/19/1984,Data Collectors,Migrated from STORET Legacy
+07/17/1984,Data Collectors,Migrated from STORET Legacy
+08/28/1984,Data Collectors,Migrated from STORET Legacy
+09/19/1984,Data Collectors,Migrated from STORET Legacy
+09/25/1984,Data Collectors,Migrated from STORET Legacy
+11/13/1984,Data Collectors,Migrated from STORET Legacy
+12/12/1984,Data Collectors,Migrated from STORET Legacy
+01/28/1985,Data Collectors,Migrated from STORET Legacy
+02/27/1985,Data Collectors,Migrated from STORET Legacy
+03/20/1985,Data Collectors,Migrated from STORET Legacy
+04/11/1985,Data Collectors,Migrated from STORET Legacy
+05/16/1985,Data Collectors,Migrated from STORET Legacy
+06/19/1985,Data Collectors,Migrated from STORET Legacy
+07/30/1985,Data Collectors,Migrated from STORET Legacy
+08/29/1985,Data Collectors,Migrated from STORET Legacy
+09/30/1985,Data Collectors,Migrated from STORET Legacy
+10/21/1985,Data Collectors,Migrated from STORET Legacy
+11/18/1985,Data Collectors,Migrated from STORET Legacy
+12/16/1985,Data Collectors,Migrated from STORET Legacy
+01/22/1986,Data Collectors,Migrated from STORET Legacy
+02/26/1986,Data Collectors,Migrated from STORET Legacy
+03/26/1986,Data Collectors,Migrated from STORET Legacy
+07/27/1988,Data Collectors,WASTELOAD ALLOCATION/MODELLING
+08/16/1988,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+09/21/1988,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/19/1988,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+11/17/1988,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+12/13/1988,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+01/24/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+02/21/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+03/29/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/25/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+05/24/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+06/14/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+06/14/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+07/26/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+08/23/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+09/12/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/10/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+11/07/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+12/12/1989,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+01/23/1990,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/11/1990,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+02/05/1991,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/15/1991,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+01/14/1992,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/20/1992,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+08/07/1993,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+08/21/1993,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+09/04/1993,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+10/03/1993,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+10/10/1993,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+10/12/1993,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/24/1993,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+02/15/1994,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/24/1994,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+06/04/1994,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+07/19/1994,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/03/1994,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+10/26/1994,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+11/05/1994,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+01/24/1995,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/19/1995,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+07/04/1995,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+07/19/1995,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/16/1995,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+01/16/1996,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/15/1996,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+07/05/1996,Joe Tylka,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+07/15/1996,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/14/1996,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+01/15/1997,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/23/1997,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+07/16/1997,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+10/13/1997,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+01/21/1998,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/13/1998,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+07/21/1998,Data Collectors,AMBIENT MONITORING STREAMS
+10/27/1998,Data Collectors,AMBIENT MONITORING STREAMS
+01/19/1999,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+04/26/1999,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+05/09/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+06/01/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+06/13/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+06/26/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+07/10/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+07/24/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+08/02/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+08/16/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+08/23/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+08/30/1999,Data Collectors,AMBIENT MONITORING STREAMS
+09/01/1999,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+10/14/1999,Mark Hazuga,AMBIENT MONITORING STREAMS
+01/20/2000,Mark Hazuga,AMBIENT MONITORING STREAMS
+04/11/2000,Mark Hazuga,AMBIENT MONITORING STREAMS
+07/18/2000,Linda Collett,Citizen Lake Monitoring - Water Quality - Wisconsin Riv - Abv Dubay Dam - Deep Hole
+07/18/2000,Mark Hazuga,AMBIENT MONITORING STREAMS
+10/24/2000,Mark Hazuga,AMBIENT MONITORING STREAMS
+07/25/2016,JACOB ZIMMERMAN,Wisconsin River BOD TMDL Pilot -CO_1_CMP16
+09/14/2016,Data Collectors,Wisconsin River BOD TMDL Pilot -CO_1_CMP16

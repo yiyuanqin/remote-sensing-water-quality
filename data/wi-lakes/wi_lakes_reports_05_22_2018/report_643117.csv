@@ -1,0 +1,71 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Watersmeet Lake,Vilas,1599400,NO,64,,643117,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/02/1979,,,,,,,,,,,,,
+1,10/01/1985,,,,,30,,54,,,,,,
+1,10/29/1985,,,,,20,,51,,,,,,
+8189986,06/11/1993,4,NO,1.2,,,57,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8189986,07/09/1993,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,
+8189986,05/27/1996,5.5,NO,1.7,,,53,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8189986,10/01/1997,3,NO,0.9,,,61,,,NORMAL,,,GREEN,
+8189163,09/23/2002,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189163,09/27/2002,6.25,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189163,10/09/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189163,10/16/2002,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189163,10/29/2002,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,04/24/2017,3.9,N,1.2,,26.4,58,54,,,,,,
+1,06/28/2017,3.5,N,1.1,11.7,41.9,59,57,53,,,,,
+1,07/19/2017,3.1,NO,0.9,5.05,50.4,61,59,47,,,,,
+1,08/22/2017,3.1,N,0.9,6.35,49.2,61,58,49,,,,,
+1,10/17/2017,3,NO,0.9,16.1,47.7,61,58,56,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/1979,,,22,C,,
+04/24/2017,,,10.7,C,8.1,MG/L
+06/28/2017,,,18.3,C,6.5,MG/L
+07/19/2017,,,22.6,C,3.9,MG/L
+08/22/2017,,,21.1,C,6.3,MG/L
+10/17/2017,,,10.3,C,7.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/02/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/01/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/29/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/01/1997,Glad to be back.    
+09/23/2002,Partly cloudy- light rain past 3 days- the north end of watersmeet between WI river into watersmeet is covered with EWM.    
+09/27/2002,Clear- above normal rainfall lately.    
+10/09/2002,partly cloudy- snow fall was about 6-8" last week    
+10/16/2002,clear and cold.    
+10/29/2002,Partly cloudy- last test for 2002.    
+
+
+
+
+Start Date,Group Name,Project Name
+08/02/1979,Data Collectors,Migrated from STORET Legacy
+10/01/1985,Data Collectors,Migrated from STORET Legacy
+10/29/1985,Data Collectors,Migrated from STORET Legacy
+06/11/1993,Art Anderson,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+07/09/1993,Art Anderson,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+05/27/1996,Art Anderson,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+10/01/1997,Art Anderson,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+09/23/2002,David Seyfert,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+09/27/2002,David Seyfert,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+10/09/2002,David Seyfert,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+10/16/2002,David Seyfert,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+10/29/2002,David Seyfert,Citizen Lake Monitoring - Water Quality - Watersmeet Lake; Deep Hole
+04/24/2017,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Plan- Phase IV
+06/28/2017,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Plan- Phase IV
+07/19/2017,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Plan- Phase IV
+08/22/2017,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Plan- Phase IV
+10/17/2017,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Plan- Phase IV

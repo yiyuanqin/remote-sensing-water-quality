@@ -1,0 +1,156 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pewaukee Lake,Waukesha,772000,SE,68,,10033632,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/29/2011,,,,,18,,51,,,,,,
+1,07/19/2011,3,NO,0.9,8.56,31,62,55,51,,,,,
+7000045,08/11/2011,2.3,NO,0.7,20,38,65,56,57,,,,,
+7000045,08/30/2011,0,NO,0,10.4,32,,55,53,,,,,
+7000045,04/24/2012,4.6,NO,1.4,,21,55,52,,,,,,
+7000045,07/31/2012,4.9,NO,1.5,4.11,31,53,55,45,,,,,
+7000045,08/22/2012,9.8,NO,3,3.33,17,44,50,44,,,,,
+7000045,09/14/2012,7.9,YES,2.4,3.5,22,47,52,44,,,,,
+7000045,04/24/2013,6.08,NO,1.8,,,51,,,,,,,
+20752318,04/24/2013,6.9,NO,2.1,,17.7,49,50,,,,,,
+7000045,08/08/2013,7.9,N,2.4,2.8,14.3,47,49,43,,,,,
+33543112,08/08/2013,7.9,NO,2.4,,,47,,,,,,,
+33543112,07/17/2014,4.6,N,1.4,3.03,24.2,55,53,43,,,,,
+81537482,07/17/2014,4.6,NO,1.4,,,55,,,,,,,
+7000045,08/07/2014,3.6,NO,1.1,11.2,23.3,59,53,53,,,,,
+7000045,08/27/2014,4.1,N,1.25,9.28,20.9,57,52,52,,,,,
+81537482,08/27/2014,4.4,NO,1.3,,,56,,,,,,,
+7000045,04/17/2015,7.5,N,2.3,,25,48,53,,,,,,
+81537482,04/17/2015,7.5,NO,2.3,,,48,,,,,,,
+7000045,07/22/2015,5.5,NO,1.7,,,53,,,,,,,
+33543112,07/22/2015,5.9,N,1.8,4.68,27.6,52,54,46,,,,,
+7000045,08/27/2015,5.1,NO,1.6,3.95,21.8,53,52,45,,,,,
+81537482,04/15/2016,7.87,YES,2.4,,,47,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,07/19/2016,6.6,N,2,4.4,20.7,50,52,46,,,,,
+81537482,07/19/2016,6.56,NO,2,,,50,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,08/10/2016,5.2,N,1.6,6.44,31.1,53,55,49,,,,,
+33543112,08/10/2016,5.25,NO,1.6,,,53,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000045,08/31/2016,,,,7.6,27.7,,54,50,,,,,
+81537482,08/31/2016,4.59,NO,1.4,,,55,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,05/08/2017,4.6,N,1.4,,21.4,55,52,,,,,,
+7000045,07/18/2017,7.87,N,2.4,5.67,22.3,47,52,48,HIGH,,,,
+7000045,08/14/2017,8.2,N,2.5,1.75,19.5,47,51,39,,,,,
+7000045,09/14/2017,8.37,Y,2.5,2.73,15.8,46,50,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/29/2011,,,10.1,C,,
+07/19/2011,,,28.2,C,9.3,MG/L
+08/11/2011,,,24.3,C,8.9,MG/L
+08/30/2011,,,24.0,C,8.9,MG/L
+04/24/2012,,,11.7,C,10.1,MG/L
+07/31/2012,,,27.9,C,,
+08/22/2012,,,22.3,C,,
+09/14/2012,,,19.1,C,11.5,MG/L
+04/24/2013,3,FEET,7.36,DEGREES C,,
+04/24/2013,6,FEET,7.3,DEGREES C,,
+04/24/2013,,,7.4,C,,
+08/08/2013,3,FEET,24.47,DEGREES C,8.93,MG/L
+08/08/2013,6,FEET,23.24,DEGREES C,8.46,MG/L
+08/08/2013,,,24.5,C,8.9,MG/L
+07/17/2014,3,FEET,22.95,DEGREES C,8.73,MG/L
+07/17/2014,6,FEET,22.35,DEGREES C,8.4,MG/L
+07/17/2014,,,22.95,C,8.73,MG/L
+08/07/2014,3,FEET,24.51,DEGREES C,7.8,MG/L
+08/07/2014,6,FEET,24.12,DEGREES C,7.49,MG/L
+08/07/2014,,,24.5,C,7.8,MG/L
+08/27/2014,3,FEET,24.21,DEGREES C,7.95,MG/L
+08/27/2014,6,FEET,24.02,DEGREES C,7.91,MG/L
+08/27/2014,,,24.21,C,7.95,MG/L
+04/17/2015,3,FEET,13.68,DEGREES C,10.88,MG/L
+04/17/2015,6,FEET,11.74,DEGREES C,11.56,MG/L
+04/17/2015,,,13.7,C,10.9,MG/L
+07/22/2015,3,FEET,25.1,DEGREES C,7.93,MG/L
+07/22/2015,6,FEET,24.76,DEGREES C,7.71,MG/L
+07/22/2015,,,25.1,C,7.4,MG/L
+08/27/2015,3,FEET,19.4,DEGREES C,9.97,MG/L
+08/27/2015,6,FEET,18.8,DEGREES C,8.08,MG/L
+08/27/2015,,,19.4,C,10.0,MG/L
+04/15/2016,3,FEET,9.18,DEGREES C,11.99,MG/L
+04/15/2016,6,FEET,8.95,DEGREES C,12.23,MG/L
+07/19/2016,3,FEET,26.05,DEGREES C,9.51,MG/L
+07/19/2016,6,FEET,25.71,DEGREES C,10.77,MG/L
+07/19/2016,,,26.1,C,9.5,MG/L
+08/10/2016,3,FEET,27.33,DEGREES C,9.52,MG/L
+08/10/2016,6,FEET,26.57,DEGREES C,9.5,MG/L
+08/10/2016,,,27.3,C,9.5,MG/L
+08/31/2016,3,FEET,24.45,DEGREES C,7.81,MG/L
+08/31/2016,6,FEET,25.26,DEGREES C,9.79,MG/L
+05/08/2017,3,FEET,14.7,DEGREES C,9.07,MG/L
+05/08/2017,6,FEET,12.6,DEGREES C,8.92,MG/L
+05/08/2017,,,14.7,C,9.1,MG/L
+07/18/2017,3,FEET,25.18,DEGREES C,8.89,MG/L
+07/18/2017,6,FEET,24.65,DEGREES C,8.91,MG/L
+07/18/2017,9,FEET,24.54,DEGREES C,8.17,MG/L
+07/18/2017,,,25.2,C,8.9,MG/L
+08/14/2017,3,FEET,23.89,DEGREES C,9.35,MG/L
+08/14/2017,6,FEET,9.61,DEGREES C,9.61,MG/L
+08/14/2017,,,23.9,C,9.4,MG/L
+09/14/2017,3,FEET,20.34,DEGREES C,10.79,MG/L
+09/14/2017,6,FEET,20.15,DEGREES C,12.67,MG/L
+09/14/2017,,,20.3,C,10.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/27/2014,Very few aquatic macrophytes at sample location
+Hydrolab hit bottom at 8 ft
+07/22/2015,Kestrel hand meter - 76 F
+Site depth - 8 ft
+08/27/2015,Site Depth - 2.5 m
+Observed with Kevin Olson
+04/15/2016,TP Grab Sample at 1ft of depth
+
+Observed with H. Bunk
+07/18/2017,Data collected by Samm Posnanski and Heidi Bunk. Water level was high. 0% Cloud cover- wind coming in from the west.
+09/14/2017,Wind was 2-3 mph from the SE direction. 50% cloud cover (partly sunny). 
+
+Data taken by Heidi Bunk and Erin Cox. Secchi note: Cox did not hit bottom with the secchi disk- but Bunk did. 
+
+
+
+
+Start Date,Group Name,Project Name
+04/29/2011,Data Collectors,
+07/19/2011,Data Collectors,
+08/11/2011,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/30/2011,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+04/24/2012,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+07/31/2012,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/22/2012,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+09/14/2012,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+04/24/2013,BRYAN D HARTSOOK- HEIDI J BUNK,Pewaukee Lake Monitoring 2011-present
+04/24/2013,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/08/2013,ANDREW NOTBOHM,Pewaukee Lake Monitoring 2011-present
+08/08/2013,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+07/17/2014,ANDREW NOTBOHM,Pewaukee Lake Monitoring 2011-present
+07/17/2014,SAMUEL POSNANSKI,Pewaukee Lake Monitoring 2011-present
+08/07/2014,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/27/2014,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/27/2014,SAMUEL POSNANSKI,Pewaukee Lake Monitoring 2011-present
+04/17/2015,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+04/17/2015,SAMUEL POSNANSKI,Pewaukee Lake Monitoring 2011-present
+07/22/2015,ANDREW NOTBOHM,Pewaukee Lake Monitoring 2011-present
+07/22/2015,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/27/2015,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+04/15/2016,SAMUEL POSNANSKI,Pewaukee Lake Monitoring 2011-present
+07/19/2016,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+07/19/2016,SAMUEL POSNANSKI,Pewaukee Lake Monitoring 2011-present
+08/10/2016,ANDREW NOTBOHM,Pewaukee Lake Monitoring 2011-present
+08/10/2016,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/31/2016,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/31/2016,SAMUEL POSNANSKI,Pewaukee Lake Monitoring 2011-present
+05/08/2017,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+07/18/2017,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+08/14/2017,Heidi Bunk,Pewaukee Lake Monitoring 2011-present
+09/14/2017,Heidi Bunk,Pewaukee Lake Monitoring 2011-present

@@ -1,0 +1,157 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Vilas,1172200,NO,64,,10020860,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+24281830,06/16/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/02/2007,12.5,YES,3.8,,,41,,,LOW,17,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/03/2008,10,YES,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+24281830,08/06/2008,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,09/20/2008,11.5,YES,3.5,,,42,,,NORMAL,17,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,05/24/2009,13.5,YES,4.1,,,40,,,HIGH,12.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,06/25/2009,13,YES,4,,,40,,,NORMAL,11.5,CLEAR,BROWN,2-Very minor aesthetic problems
+24281830,07/03/2009,12,NO,3.6,,,41,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/23/2009,11.5,NO,3.5,,,42,,,LOW,12.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/02/2009,13,YES,4,,,40,,,HIGH,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,06/03/2010,12,NO,3.6,,,41,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,06/28/2010,12,NO,3.6,,,41,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/07/2010,12,NO,3.6,,,41,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/23/2010,12.5,,3.8,,,41,,,HIGH,13.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/06/2010,13,NO,4,,,40,,,HIGH,14.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/20/2010,13,NO,4,,,40,,,HIGH,14.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,05/11/2011,8,YES,2.4,,,47,,,HIGH,14,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+24281830,05/29/2011,9,YES,2.7,,,45,,,HIGH,14,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+24281830,07/31/2011,9.5,YES,2.9,,,45,,,NORMAL,13.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+24281830,08/07/2011,8,YES,2.4,,,47,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,09/04/2011,9.5,YES,2.9,,,45,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,09/25/2011,10,YES,3,,,44,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/31/2012,8,NO,2.4,,,47,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/11/2012,11,NO,3.3,,,43,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,09/25/2012,11,NO,3.3,,,43,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,06/24/2013,7,NO,2.1,,,49,,,HIGH,15,CLEAR,BROWN,2-Very minor aesthetic problems
+24281830,07/15/2013,8,NO,2.4,,,47,,,HIGH,15,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/25/2013,8,NO,2.4,,,47,,,HIGH,15,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/06/2013,, ,,,,,,,,,,,
+24281830,08/09/2013,9,NO,2.7,,,45,,,HIGH,15,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,06/22/2014,10,NO,3,,,44,,,NORMAL,14,CLEAR,BROWN,2-Very minor aesthetic problems
+24281830,07/28/2014,9,NO,2.7,,,45,,,NORMAL,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/02/2014,11,NO,3.3,,,43,,,NORMAL,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/17/2015,9,NO,2.7,,,45,,,HIGH,15,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/05/2015,9,NO,2.7,,,45,,,HIGH,15,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/25/2015,11,NO,3.3,,,43,,,NORMAL,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,09/19/2015,10,NO,3,,,44,,,NORMAL,13,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,06/22/2016,9.5,NO,2.9,,,45,,,NORMAL,14,CLEAR,BROWN,2-Very minor aesthetic problems
+24281830,07/22/2016,9,NO,2.7,,,45,,,NORMAL,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/01/2016,10,NO,3,,,44,,,NORMAL,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,07/19/2017,10,NO,3,,,44,,,HIGH,14.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/02/2017,9.5,NO,2.9,,,45,,,NORMAL,14,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,08/06/2017,9,NO,2.7,,,45,,,HIGH,14.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+24281830,09/25/2017,9,NO,2.7,,,45,,,HIGH,14.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/2013,3,FEET,72.5,DEGREES F,6.91,MG/L
+07/25/2013,6,FEET,71.3,DEGREES F,6.71,MG/L
+07/25/2013,9,FEET,64.7,DEGREES F,8.15,MG/L
+07/25/2013,12,FEET,53.5,DEGREES F,.18,MG/L
+08/06/2013,3,FEET,70,DEGREES F,7.05,MG/L
+08/06/2013,6,FEET,68,DEGREES F,6.79,MG/L
+08/06/2013,9,FEET,64,DEGREES F,6.47,MG/L
+08/06/2013,12,FEET,55,DEGREES F,.19,MG/L
+08/01/2016,3,FEET,76.95,DEGREES F,6.45,MG/L
+08/01/2016,6,FEET,75.5,DEGREES F,6.34,MG/L
+08/01/2016,9,FEET,69.3,DEGREES F,2,MG/L
+08/01/2016,12,FEET,60.6,DEGREES F,.161,MG/L
+08/02/2017,3,FEET,74.6,DEGREES F,6.91,MG/L
+08/02/2017,6,FEET,72.5,DEGREES F,3.55,MG/L
+08/02/2017,9,FEET,64.8,DEGREES F,1.22,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/03/2008,Partly sunny- no breeze- a bit of an algae bloom
+05/24/2009,Clear water- sunny day- 66 degrees
+06/25/2009,mostly sunny- some clouds- windy
+07/03/2009,breezy- mostly sunny day 75 degrees
+07/23/2009,Sunny- a little breeze- 72 degrees
+08/02/2009,Beautiful day- sunny- 77 degrees- calm winds- painted turtle and great blue heron on lake today!
+06/03/2010,Beautiful day- 
+06/28/2010,clouds on and off all day clouds on and off all day- some wind- in the 60's
+07/07/2010,Clear sunny- 80 degrees
+07/23/2010,Beautiful day- 75 degrees- some wind
+08/06/2010,Scattered clouds- 70 degrees
+08/20/2010,Clear- scattered clouds- 72 degrees
+05/11/2011,Cloudy- breezy- lots of rain lately- water very brown and dense looking
+05/29/2011,Cloudy- no breeze- quiet- more rain lately- water filled with algae- lots of particles
+07/31/2011,Sunny- breezy- 80 + degrees out- algae in water
+08/07/2011,Sunny in the 80's-  breezy.  No algae finally!
+09/04/2011,Sunny and calm-  70 degrees out
+09/25/2011,Cloudy- light breeze- 60 degrees out-  water very dark but clear
+06/22/2014,Sunny- light breeze 
+07/28/2014,Sunny- breezy- no algae- rained recently
+08/02/2014,Sunny- no pollen- algae- or rain in awhile
+07/17/2015,sunny- light breeze- no pollen/algae or rain lately
+08/05/2015,Sunny- no rain in the last few weeks.
+08/25/2015,sunny- breezy- clear brown water- some rain lately
+09/19/2015,rained a day ago- no cranberries evident this year   
+06/22/2016,a bit breezy- clear sunny mid 70's
+07/22/2016,sunny- 80's- no algae clear
+08/01/2016,Beautiful day- some clouds- 80's- blue sky- wind- boat moved some.  Water very clear.  Heard 2 sandhills very near- did not see them.
+07/19/2017,Sunny- 80 degrees- breezy- dark brown- some pollen or algae on top of the water.  Beautiful day!
+08/02/2017,Cloudy breeze in waves.  It just rained yesterday 2 " brown but clear on the surface of water  75 degrees.  
+08/06/2017,Sunny- some breeze- 64 degrees out.  Beautiful day!  Lots of dragonflies- the turquoise ones are mating.  Cranberries coming out- white so far.  Water is dark brown- rained again 2 days ago.  
+09/25/2017,Sunny- 80 ?- tiny breeze- super quiet out!  
+
+
+
+
+Start Date,Group Name,Project Name
+06/16/2007,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/02/2007,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/03/2008,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/06/2008,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+09/20/2008,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+05/24/2009,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+06/25/2009,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/03/2009,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/23/2009,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/02/2009,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+06/03/2010,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+06/28/2010,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/07/2010,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/23/2010,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/06/2010,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/20/2010,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+05/11/2011,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+05/29/2011,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/31/2011,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/07/2011,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+09/04/2011,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+09/25/2011,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/31/2012,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/11/2012,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+09/25/2012,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+06/24/2013,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/15/2013,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/25/2013,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/06/2013,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/09/2013,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+06/22/2014,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/28/2014,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/02/2014,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/17/2015,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/05/2015,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/25/2015,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+09/19/2015,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+06/22/2016,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/22/2016,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/01/2016,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+07/19/2017,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/02/2017,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+08/06/2017,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County
+09/25/2017,Jeri Shaw,Citizen Lake Monitoring - Water Quality - Unnamed Bog - Deep Hole- Vilas County

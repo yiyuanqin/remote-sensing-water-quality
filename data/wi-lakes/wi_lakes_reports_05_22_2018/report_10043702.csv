@@ -1,0 +1,79 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Twin Lakes- East,Ashland,2935800,NO,2,,10043702,NW,SEEPAGE
+East Twin Lake,Ashland,2429000,NO,2,,10043702,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/18/2016,,,,,24.8,,53,,,,,,
+14842749,05/03/2016,,,,,21.2,,52,,,,,,
+81527021,05/17/2016,,,,,21.5,,52,,,,,,
+1,06/07/2016,,,,,27.1,,54,,,,,,
+118560725,06/20/2016,,,,,32.8,,55,,,,,,
+1,07/04/2016,,,,,30,,54,,,,,,
+1,07/25/2016,,,,,30,,54,,,,,,
+118560725,08/01/2016,,,,,27,,54,,,,,,
+81527021,08/17/2016,,,,,13.9,,49,,,,,,
+1,08/30/2016,,,,,25,,53,,,,,,
+14842749,09/13/2016,,,,,18.2,,51,,,,,,
+100060085,09/28/2016,,,,,20.2,,51,,,,,,
+14842749,10/18/2016,,,,,24,,53,,,,,,
+118560725,04/11/2017,,,,,34.1,,55,,,,,,
+1,04/18/2016,,,,,24.8,,53,,,,,,
+14842749,05/03/2016,,,,,21.2,,52,,,,,,
+81527021,05/17/2016,,,,,21.5,,52,,,,,,
+1,06/07/2016,,,,,27.1,,54,,,,,,
+118560725,06/20/2016,,,,,32.8,,55,,,,,,
+1,07/04/2016,,,,,30,,54,,,,,,
+1,07/25/2016,,,,,30,,54,,,,,,
+118560725,08/01/2016,,,,,27,,54,,,,,,
+81527021,08/17/2016,,,,,13.9,,49,,,,,,
+1,08/30/2016,,,,,25,,53,,,,,,
+14842749,09/13/2016,,,,,18.2,,51,,,,,,
+100060085,09/28/2016,,,,,20.2,,51,,,,,,
+14842749,10/18/2016,,,,,24,,53,,,,,,
+118560725,04/11/2017,,,,,34.1,,55,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/18/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+05/03/2016,Matt Hudson,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+05/17/2016,Kim Oldenborg,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+06/07/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+06/20/2016,Marisa Ulman,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+07/04/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+07/25/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+08/01/2016,Marisa Ulman,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+08/17/2016,Kim Oldenborg,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+08/30/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+09/13/2016,Matt Hudson,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+09/28/2016,Joe Fitzgerald,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+10/18/2016,Matt Hudson,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+04/11/2017,Marisa Ulman,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+04/18/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+05/03/2016,Matt Hudson,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+05/17/2016,Kim Oldenborg,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+06/07/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+06/20/2016,Marisa Ulman,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+07/04/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+07/25/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+08/01/2016,Marisa Ulman,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+08/17/2016,Kim Oldenborg,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+08/30/2016,Data Collectors,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+09/13/2016,Matt Hudson,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+09/28/2016,Joe Fitzgerald,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+10/18/2016,Matt Hudson,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake
+04/11/2017,Marisa Ulman,SIGURD OLSON ENVIRONMENTAL INSTITUTE: Comprehensive Management Planning Project for Eureka Lake

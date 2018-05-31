@@ -1,0 +1,418 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Loon Lake,Ashland,2767300,NO,2,,023060,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188914,06/12/2003,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,06/15/2003,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/19/2003,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/26/2003,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/30/2003,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/20/2003,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,08/22/2003,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,08/25/2003,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,09/07/2003,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,05/24/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,05/29/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/02/2004,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/06/2004,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/12/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/30/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/17/2004,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,07/25/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,08/03/2004,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BROWN,
+8188914,08/14/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,
+8188914,08/31/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,06/02/2005,8.6,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/09/2005,9.75,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/17/2005,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/19/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,07/21/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,08/06/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/17/2005,9.75,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/31/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/07/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/09/2006,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/20/2006,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188914,06/27/2006,9.75,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/05/2006,8.75,NO,2.7,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/01/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+8188914,08/06/2006,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/08/2006,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/02/2006,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/16/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188914,06/18/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188914,06/22/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/30/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/15/2007,8.5,NO,2.6,,,46,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/17/2007,8.5,NO,2.6,,,46,,,,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,08/02/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/14/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/27/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/02/2007,8,NO,2.4,,,47,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,09/05/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,05/28/2008,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/06/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/17/2008,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188914,07/08/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/21/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/25/2008,8.75,NO,2.7,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/30/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/01/2008,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/13/2008,9.25,NO,2.8,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/20/2008,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/08/2008,9.5,NO,2.9,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/10/2009,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188914,06/19/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,07/03/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/09/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/15/2009,7.75,NO,2.4,,,48,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,07/19/2009,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/25/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/30/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/06/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,08/10/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,08/19/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,08/27/2009,8.75,NO,2.7,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/05/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/09/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/10/2009,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,05/26/2010,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/04/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,
+8188914,06/07/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/13/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/23/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/29/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/11/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/17/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/26/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/07/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,08/09/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/14/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/22/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/01/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/05/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,09/10/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/15/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8188914,06/24/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/01/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/08/2011,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,07/13/2011,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/22/2011,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/26/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/28/2011,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,08/05/2011,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,08/11/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/17/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/26/2011,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,09/07/2011,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/02/2012,5,NO,1.5,,,54,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/15/2012,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/17/2012,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/21/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/24/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/05/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/15/2012,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/18/2012,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/30/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/05/2012,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/12/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/19/2012,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/20/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/27/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,08/30/2012,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/03/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/12/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/22/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/03/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,07/08/2013,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,07/14/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/20/2013,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,07/22/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,07/24/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/01/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/06/2013,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/18/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,09/09/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188914,05/22/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,05/27/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,05/30/2014,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/08/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/17/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,06/22/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/01/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/02/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/13/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/21/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/28/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/31/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,08/13/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,08/24/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,08/31/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,09/06/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,05/28/2015,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/07/2015,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/08/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/21/2015,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/28/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/30/2015,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/02/2015,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/08/2015,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,07/09/2015,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188914,07/19/2015,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,07/29/2015,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/04/2015,7, ,2.1,,,49,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/10/2015,8,NO,2.4,,,47,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/15/2015,8,NO,2.4,,,47,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/24/2015,8.5,NO,2.6,,,46,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/27/2015,8,NO,2.4,,,47,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/29/2015,8,NO,2.4,,,47,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,09/03/2015,8,NO,2.4,,,47,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,09/07/2015,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,09/13/2015,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,05/20/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,05/26/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,05/30/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188914,06/11/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/16/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/22/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/24/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,06/29/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188914,07/06/2016,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,07/22/2016,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/15/2016,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,08/24/2016,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,09/05/2016,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188914,09/08/2016,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/12/2003,Training sample session. Windy from the south.  Loon
+pair off the nest - egg apparently taken by predators.
+    
+06/15/2003,Slight NE wind.  Noticed algae growth on the stems of
+aquatic plants in shallow water.
+    
+07/19/2003,Bright sun; winds light and variable
+    
+07/26/2003,Bright sun; winds light and variable.  Loon pair
+hatched 1 chick on 7/23.
+    
+07/30/2003,Bright sun; windy from west.  Thunderstorm and rain
+last night.
+    
+08/22/2003,Steady north wind- overcast.    
+08/25/2003,Thunder storm and rain last night.  No wind today.
+    
+09/07/2003,Thin overcast and light wind. My last observation for this summer- back 5/15/04.    
+05/24/2004,Sunny day with high- thin clouds;  moderate NE wind.    
+06/02/2004,Lots of pollen on surface and in water.    
+06/12/2004,Bright sun- West wind    
+08/03/2004,DNR Panfish Project survey underway    
+08/14/2004,Calm- clear skies.    
+08/31/2004,Last observation for the summer.    
+06/09/2005,Pollen in water    
+06/17/2005,Clear sky- bright sun    
+09/07/2005,Last observation for year - back in May.    
+08/01/2006,last day of heat wave
+06/16/2007,Laje us about 2 1/2 feet low.
+09/02/2007,This will be my last observation report for the summer - back at it in late May 2008.
+09/10/2010,After 3+ years of drought an extremely low lake levels- the lake during 2010 was at high normal all summer.  Secchi readings were remarkably consistent and the lowest in years.  
+06/02/2012,Heavy rain
+06/02/2012,rained
+05/22/2014,-     -  - -      -- --         
+
+
+
+
+Start Date,Group Name,Project Name
+06/12/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/15/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/19/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/26/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/30/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/20/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/22/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/25/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/07/2003,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/24/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/29/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/02/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/06/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/12/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/30/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/17/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/25/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/03/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/14/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/31/2004,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/02/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/09/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/17/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/19/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/21/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/06/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/17/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/31/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/07/2005,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/09/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/20/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/27/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/05/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/01/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/06/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/08/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/02/2006,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/16/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/18/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/22/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/30/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/15/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/17/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/02/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/14/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/27/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/02/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/05/2007,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/28/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/06/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/17/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/08/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/21/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/25/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/30/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/01/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/13/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/20/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/08/2008,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/10/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/19/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/03/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/09/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/15/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/19/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/25/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/30/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/06/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/10/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/19/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/27/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/05/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/09/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/10/2009,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/26/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/04/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/07/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/13/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/23/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/29/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/11/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/17/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/26/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/07/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/09/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/14/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/22/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/01/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/05/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/10/2010,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/15/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/24/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/01/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/08/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/13/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/22/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/26/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/28/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/05/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/11/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/17/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/26/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/07/2011,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/02/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/15/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/17/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/21/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/24/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/05/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/15/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/18/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/30/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/05/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/12/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/19/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/20/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/27/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/30/2012,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/03/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/12/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/22/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/03/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/08/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/14/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/20/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/22/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/24/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/01/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/06/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/18/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/09/2013,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/22/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/27/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/30/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/08/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/17/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/22/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/01/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/02/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/13/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/21/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/28/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/31/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/13/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/24/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/31/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/06/2014,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/28/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/07/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/08/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/21/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/28/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/30/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/02/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/08/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/09/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/19/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/29/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/04/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/10/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/15/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/24/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/27/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/29/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/03/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/07/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/13/2015,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/20/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/26/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+05/30/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/11/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/16/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/22/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/24/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+06/29/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/06/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+07/22/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/15/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+08/24/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/05/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole
+09/08/2016,Jerold Bauch,Citizen Lake Monitoring - Water Quality - Loon Lake (T45R02Ws29); Deep Hole

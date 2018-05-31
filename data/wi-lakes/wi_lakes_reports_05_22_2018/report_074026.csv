@@ -1,0 +1,68 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Point Lake,Burnett,2490900,NO,7,,074026,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/14/1979,,,,9.94,27,,54,52,,,,,
+18137491,08/12/2012,6.5,YES,2,,,50,,,LOW,8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137491,09/02/2012,6.5,YES,2,,,50,,,LOW,7.0,CLEAR,BLUE,2-Very minor aesthetic problems
+18137491,09/09/2012,7,YES,2.1,,,49,,,LOW,7.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137491,07/25/2013,6.5,YES,2,,,50,,,LOW,7.0,MURKY,BLUE,2-Very minor aesthetic problems
+18137491,08/24/2013,6,YES,1.8,,,51,,,LOW,6.75,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137491,09/08/2013,6.5,YES,2,,,50,,,LOW,7.0,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+18137491,09/02/2014,9,YES,2.7,,,45,,,HIGH,9.0,CLEAR,GREEN,2-Very minor aesthetic problems
+18137491,10/08/2014,9,YES,2.7,,,45,,,HIGH,9.0,CLEAR,GREEN,2-Very minor aesthetic problems
+18137491,09/02/2015,8,YES,2.4,,,47,,,HIGH,9.0,CLEAR,GREEN,2-Very minor aesthetic problems
+18137491,09/23/2015,8,YES,2.4,,,47,,,HIGH,9.0,CLEAR,GREEN,2-Very minor aesthetic problems
+18137491,10/04/2015,9,YES,2.7,,,45,,,HIGH,9.0,CLEAR,GREEN,2-Very minor aesthetic problems
+18137491,07/02/2016,8.5,YES,2.6,,,46,,,HIGH,10.0,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137491,09/06/2016,8,YES,2.4,,,47,,,HIGH,10.0,CLEAR,BROWN,2-Very minor aesthetic problems
+18137491,09/24/2016,6,YES,1.8,,,51,,,HIGH,10,MURKY,BROWN,2-Very minor aesthetic problems
+18137491,07/06/2017,7,YES,2.1,,,49,,,HIGH,10,MURKY,BLUE,2-Very minor aesthetic problems
+18137491,09/06/2017,9,YES,2.7,,,45,,,HIGH,10,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/14/1979,,,,,9.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/14/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/12/2012,Weather was overcast. Sun was dull but could see it. Wind was calm. Temperature in the 80's. Loon seen swimming. 
+09/02/2012,Weather was clear. Temperature in the 80's. Wind was breezy. 
+09/09/2012,Weather was bright clear day. Sunny. Wind was breezy from NW. Cool day temperature in high 60's. Saw a number of sunfish swimming on the way out. Heard geese in the distance but did not see.
+07/25/2013,Weather overcast. off and on rain.Temperature in 70's. Pair of loons on lake.
+08/24/2013,Sunny and windy. Wind from the South. Temperature in 80's. Spotted many sunfish near shore on way in.
+09/08/2013,Overcast and cool temperature. 
+10/08/2014,Breezy- about 50 F.
+07/02/2016,Sunny and breezy. Temp. around 80. Loons on the lake. Sun fish near shore. Grandkids were along to help.
+07/06/2017,Busy boating day on the lake. Clear skies. Great boating recreation day in a vacation week.
+09/06/2017,Calm day. Little boating observed. Pair of loons on lake. Partly cloudy.
+
+
+
+
+Start Date,Group Name,Project Name
+08/14/1979,Data Collectors,Migrated from STORET Legacy
+08/12/2012,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/02/2012,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/09/2012,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+07/25/2013,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+08/24/2013,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/08/2013,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/02/2014,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+10/08/2014,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/02/2015,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/23/2015,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+10/04/2015,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+07/02/2016,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/06/2016,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/24/2016,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+07/06/2017,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center
+09/06/2017,Spencer Smith,Citizen Lake Monitoring - Water Quality - Point Lake - Center

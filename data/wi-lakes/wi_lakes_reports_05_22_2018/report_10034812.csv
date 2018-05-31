@@ -1,0 +1,48 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Moon Lake,Barron,1867600,NO,3,,10034812,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+24559399,05/19/2013,,,,,36.6,,56,,,,,,
+24559399,06/18/2013,,,,3.51,24.8,,53,44,,,,,
+24559399,09/01/2013,,,,21.7,49.6,,58,58,,,,,
+1,09/17/2013,,,,,,,,,,,,,
+24559399,06/30/2014,,,,4.31,35.1,,56,46,,,,,
+24559399,06/15/2015,,,,30.6,38,,56,61,,,,,
+24559399,07/29/2015,,,,382,203,,69,80,,,,,
+24559399,09/07/2015,,,,8.82,46.1,,58,51,,,,,
+130962322,05/08/2016,,,,,31.4,,55,,,,,,
+24559399,06/27/2016,,,,18.9,45.8,,58,57,,,,,
+130962322,08/24/2016,,,,12.1,49.3,,58,54,,,,,
+130962322,07/05/2017,,,,63.6,95.8,,63,66,,,,,
+130962322,08/02/2017,,,,70.6,104,,64,67,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/19/2013,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+06/18/2013,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+09/01/2013,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+09/17/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+06/30/2014,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+06/15/2015,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+07/29/2015,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+09/07/2015,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+05/08/2016,Dan and Lindsey Graff,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+06/27/2016,Dan Graff ,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+08/24/2016,Dan and Lindsey Graff,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+07/05/2017,Dan and Lindsey Graff,Citizen Lake Monitoring - Water Quality - Moon Lake - Center
+08/02/2017,Dan and Lindsey Graff,Citizen Lake Monitoring - Water Quality - Moon Lake - Center

@@ -1,0 +1,259 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Winnebago,Winnebago,131100,NE,71,,713328,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+21951905,06/17/2007,8,NO,2.4,,,47,,,NORMAL,2.93,CLEAR,GREEN,2-Very minor aesthetic problems
+21951905,06/24/2007,9,NO,2.7,,,45,,,NORMAL,2.97,CLEAR,BROWN,2-Very minor aesthetic problems
+21951905,07/03/2007,5.5,NO,1.7,,,53,,,NORMAL,2.70,CLEAR,GREEN,2-Very minor aesthetic problems
+21951905,07/15/2007,2.5,NO,0.8,,,64,,,NORMAL,2.70,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,08/10/2007,2,NO,0.6,,,67,,,NORMAL,2.48,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,08/26/2007,3,NO,0.9,,,61,,,LOW,2.79,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,09/01/2007,4,NO,1.2,,,57,,,LOW,2.85,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,09/02/2007,4,NO,1.2,,,57,,,LOW,2.84,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,09/08/2007,3.5,NO,1.1,,,59,,,LOW,2.90,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,09/15/2007,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,10/12/2007,4.5,NO,1.4,,,55,,,NORMAL,2.82,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,06/16/2008,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21951905,07/20/2008,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,07/26/2008,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,07/27/2008,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,08/05/2008,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21951905,08/09/2008,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21951905,08/27/2008,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,09/01/2008,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,09/06/2008,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,09/07/2008,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,09/20/2008,1,NO,0.3,,,77,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,09/27/2008,1,NO,0.3,,,77,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,07/04/2009,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21951905,07/11/2009,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21951905,07/29/2009,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21951905,08/02/2009,4,NO,1.2,,,57,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21951905,08/09/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21951905,08/15/2009,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21951905,08/31/2009,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,09/04/2009,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+21951905,09/13/2009,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21951905,09/19/2009,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21951905,09/30/2009,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,06/06/2010,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36799672,06/18/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36799672,06/20/2010,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799672,07/03/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,07/07/2010,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,07/10/2010,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,07/18/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,08/04/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,09/05/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21951905,09/20/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21951905,09/27/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+21951905,10/03/2010,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+36799672,10/11/2010,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+21951905,05/30/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+21951905,06/16/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+21951905,06/20/2011,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+21951905,06/25/2011,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21951905,07/03/2011,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21951905,08/29/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,09/05/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,09/12/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,09/22/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,10/10/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,05/19/2012,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799672,05/24/2012,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21951905,06/04/2012,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,06/30/2012,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,07/03/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,07/08/2012,0,NO,0,,,,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,08/11/2012,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,08/25/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,09/03/2012,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,09/08/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21951905,05/06/2013,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799672,05/20/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799672,07/04/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799672,07/29/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799672,08/03/2013,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799672,08/08/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,08/27/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,09/03/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,09/15/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,09/26/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,10/02/2013,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,10/10/2013,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,05/13/2014,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799672,05/17/2014,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+36799672,06/10/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799672,06/16/2014,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,06/23/2014,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,07/06/2014,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,07/24/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+36799672,08/05/2014,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+36799672,08/11/2014,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+36799216,08/12/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799216,09/02/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799216,09/05/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799216,09/13/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799216,09/16/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,06/09/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799672,06/13/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+36799672,06/29/2015,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+36799672,07/27/2015,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799672,07/29/2015,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799672,08/03/2015,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799216,08/09/2015,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+36799672,08/11/2015,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,08/31/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,09/05/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799672,09/22/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,09/24/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,06/02/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21951905,06/16/2016,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+21951905,06/21/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+21951905,07/06/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21951905,07/25/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+21951905,08/02/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+21951905,08/04/2016,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+36799672,05/27/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799672,06/24/2017,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+10/12/2007,Water level taken at Oshkosh Datum Army Corp of Engineers
+10/03/2010,Very windy for days.
+05/19/2012,This was a terrible season. Green and later Blue-Green Algae ran rampant. July and August were unusable- except for fishing.
+06/30/2012,Time listed in 21:00. - is that true 
+Algae bloom on lake
+07/03/2012,Algae mixed
+07/08/2012,all algae
+10/10/2013,Very large algae bloom
+06/23/2014,early algal bloom?
+
+
+
+
+Start Date,Group Name,Project Name
+06/17/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/24/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/03/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/15/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/10/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/26/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/01/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/02/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/08/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/15/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+10/12/2007,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/16/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/20/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/26/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/27/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/05/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/09/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/27/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/01/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/06/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/07/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/20/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/27/2008,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/04/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/11/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/29/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/02/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/09/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/15/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/31/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/04/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/13/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/19/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/30/2009,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/06/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/18/2010,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/20/2010,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/03/2010,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/07/2010,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/10/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/18/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/04/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/05/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/20/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/27/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+10/03/2010,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+10/11/2010,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/30/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/16/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/20/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/25/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/03/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/29/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/05/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/12/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/22/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+10/10/2011,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/19/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/24/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/04/2012,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/30/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/03/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/08/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/11/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/25/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/03/2012,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/08/2012,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/06/2013,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/20/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/04/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/29/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/03/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/08/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/27/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/03/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/15/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/26/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+10/02/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+10/10/2013,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/13/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/17/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/10/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/16/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/23/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/06/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/24/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/05/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/11/2014,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/12/2014,Judith Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/02/2014,Judith Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/05/2014,Judith Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/13/2014,Judith Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/16/2014,Judith Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/09/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/13/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/29/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/27/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/29/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/03/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/09/2015,Judith Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/11/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/31/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/05/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/22/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+09/24/2015,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/02/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/16/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/21/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/06/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+07/25/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/02/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+08/04/2016,Daniel and Judith Lucas ,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+05/27/2017,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20
+06/24/2017,Daniel Lucas,Citizen Lake Monitoring - Water Quality - Lake Winnebago; G20

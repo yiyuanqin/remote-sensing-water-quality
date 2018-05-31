@@ -1,0 +1,261 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Portage,267200,WC,50,,503141,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/07/1994,6.6,,2,20,20,50,51,57,,,,,
+1,05/24/1994,7.9,,2.4,3.33,20,47,51,44,,,,,
+1,06/20/1994,7.5,,2.3,1.53,30,48,54,38,,,,,
+1,07/18/1994,12.5,,3.8,1.23,20,41,51,36,,,,,
+1,09/01/1994,17.1,,5.2,2.12,27,36,54,40,,,,,
+1,09/27/1994,12.5,,3.8,11.8,53,41,59,53,,,,,
+1,11/02/1994,17.1,,5.2,1.32,36,36,56,37,,,,,
+46335680,07/12/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,07/18/2011,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,07/29/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+46335680,08/09/2011,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,08/15/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,08/26/2011,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,09/02/2011,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,09/09/2011,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,09/19/2011,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,09/25/2011,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,10/07/2011,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,10/16/2011,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46335680,10/23/2011,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,11/13/2011,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,11/20/2011,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46335680,06/07/2012,,,,,23,,52,,,,,,
+1,06/28/2012,,,,1.6,18,,51,38,,,,,
+46335680,07/27/2012,,,,3.08,20,,51,43,,,,,
+46335680,08/14/2012,,,,10.5,22,,52,53,,,,,
+46335680,08/26/2012,,,,33,37,,56,61,,,,,
+46335680,06/17/2013,7,NO,2.1,5.85,38.3,49,56,48,NORMAL,,,,
+46335680,07/13/2013,9.5,NO,2.9,20,26.9,45,54,57,NORMAL,,CLEAR,,
+46335680,08/18/2013,9,NO,2.7,13.3,42.6,45,57,54,NORMAL,,CLEAR,,
+46335680,09/22/2013,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+46335680,10/19/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,,
+46335680,05/11/2014,,,,,12.9,,48,,,,,,
+46335680,05/13/2014,5,NO,1.5,,,54,,,,,,,
+1,06/23/2014,,,,0.559,27,,54,30,,,,,
+46335680,06/23/2014,9,NO,2.7,,,45,,,NORMAL,,,,
+46335680,07/21/2014,6.5,NO,2,2.23,16,50,50,41,,,,,
+46335680,08/24/2014,6,NO,1.8,3.81,23.6,51,53,45,,,,,
+46335680,09/27/2014,10,NO,3,,,44,,,,,,,
+46335680,05/28/2015,5.5,NO,1.7,,34,53,55,,,,,,
+46335680,06/23/2015,9,NO,2.7,9.25,22.7,45,52,52,,,,,
+46335680,07/27/2015,7,NO,2.1,,26.9,49,54,,,,,,
+46335680,08/30/2015,5.5,NO,1.7,1.35,25.8,53,53,37,,,,,
+46335680,09/23/2015,9,NO,2.7,,,45,,,,,,,
+46335680,06/07/2016,12,NO,3.6,,,41,,,,,,,
+46335680,07/13/2016,6,NO,1.8,,,51,,,,,,,
+46335680,08/17/2016,7,NO,2.1,,,49,,,,,,,
+46335680,09/14/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/07/1994,,,5.8,C,12.2,MG/L
+05/24/1994,,,13.8,C,1.4,MG/L
+06/20/1994,,,21.5,C,1.1,MG/L
+07/18/1994,,,17.9,C,1.5,MG/L
+09/01/1994,,,15.3,C,0.7,MG/L
+09/27/1994,,,13.0,C,8.9,MG/L
+11/02/1994,,,8.2,C,10.2,MG/L
+06/17/2013,2,FEET,67,DEGREES F,,
+06/17/2013,4,FEET,63,DEGREES F,,
+06/17/2013,9,FEET,55,DEGREES F,,
+06/17/2013,12,FEET,51,DEGREES F,,
+06/17/2013,15,FEET,49,DEGREES F,,
+07/13/2013,1,FEET,71.6,DEGREES F,,
+07/13/2013,2,FEET,71.4,DEGREES F,,
+07/13/2013,4,FEET,66,DEGREES F,,
+07/13/2013,6,FEET,62.2,DEGREES F,,
+07/13/2013,8,FEET,59.1,DEGREES F,,
+07/13/2013,10,FEET,56.1,DEGREES F,,
+07/13/2013,12,FEET,53.7,DEGREES F,,
+08/18/2013,1,FEET,70.8,DEGREES F,,
+08/18/2013,2,FEET,70.3,DEGREES F,,
+08/18/2013,4,FEET,65.8,DEGREES F,,
+08/18/2013,6,FEET,62.4,DEGREES F,,
+08/18/2013,8,FEET,60,DEGREES F,,
+08/18/2013,10,FEET,57.9,DEGREES F,,
+08/18/2013,12,FEET,56.1,DEGREES F,,
+09/22/2013,1,FEET,59,DEGREES F,,
+09/22/2013,2,FEET,58.8,DEGREES F,,
+09/22/2013,4,FEET,58.4,DEGREES F,,
+09/22/2013,6,FEET,58.4,DEGREES F,,
+09/22/2013,8,FEET,56.4,DEGREES F,,
+09/22/2013,10,FEET,55.2,DEGREES F,,
+09/22/2013,12,FEET,53.7,DEGREES F,,
+10/19/2013,1,FEET,51.8,DEGREES F,,
+10/19/2013,2,FEET,51.2,DEGREES F,,
+10/19/2013,4,FEET,51,DEGREES F,,
+10/19/2013,6,FEET,50.9,DEGREES F,,
+10/19/2013,8,FEET,50.7,DEGREES F,,
+10/19/2013,10,FEET,50.7,DEGREES F,,
+10/19/2013,12,FEET,50.7,DEGREES F,,
+10/19/2013,14,FEET,50.7,DEGREES F,,
+05/13/2014,1,FEET,59.3,DEGREES F,,
+05/13/2014,2,FEET,59.5,DEGREES F,,
+05/13/2014,4,FEET,59.7,DEGREES F,,
+05/13/2014,6,FEET,59.7,DEGREES F,,
+05/13/2014,8,FEET,59.5,DEGREES F,,
+05/13/2014,10,FEET,54.6,DEGREES F,,
+06/23/2014,1,FEET,74.1,DEGREES F,,
+06/23/2014,2,FEET,67.2,DEGREES F,,
+06/23/2014,4,FEET,63.6,DEGREES F,,
+06/23/2014,6,FEET,60.8,DEGREES F,,
+06/23/2014,8,FEET,58.8,DEGREES F,,
+06/23/2014,10,FEET,57,DEGREES F,,
+06/23/2014,12,FEET,54.3,DEGREES F,,
+07/21/2014,1,FEET,72.6,DEGREES F,,
+07/21/2014,2,FEET,72.3,DEGREES F,,
+07/21/2014,4,FEET,69.6,DEGREES F,,
+07/21/2014,6,FEET,62.4,DEGREES F,,
+07/21/2014,8,FEET,59,DEGREES F,,
+07/21/2014,10,FEET,57.5,DEGREES F,,
+08/24/2014,1,FEET,71,DEGREES F,,
+08/24/2014,2,FEET,70.3,DEGREES F,,
+08/24/2014,4,FEET,62,DEGREES F,,
+08/24/2014,6,FEET,58.4,DEGREES F,,
+08/24/2014,8,FEET,56.4,DEGREES F,,
+08/24/2014,10,FEET,55.2,DEGREES F,,
+08/24/2014,12,FEET,53.4,DEGREES F,,
+09/27/2014,1,FEET,62.4,DEGREES F,,
+09/27/2014,2,FEET,61.8,DEGREES F,,
+09/27/2014,4,FEET,58.8,DEGREES F,,
+09/27/2014,6,FEET,56.3,DEGREES F,,
+09/27/2014,8,FEET,54.3,DEGREES F,,
+09/27/2014,10,FEET,53,DEGREES F,,
+09/27/2014,12,FEET,51.6,DEGREES F,,
+05/28/2015,1,FEET,66,DEGREES F,,
+05/28/2015,2,FEET,65.3,DEGREES F,,
+05/28/2015,4,FEET,63.6,DEGREES F,,
+05/28/2015,6,FEET,60,DEGREES F,,
+05/28/2015,8,FEET,56.6,DEGREES F,,
+05/28/2015,10,FEET,54.6,DEGREES F,,
+05/28/2015,12,FEET,53,DEGREES F,,
+06/23/2015,1,FEET,71,DEGREES F,,
+06/23/2015,2,FEET,70.5,DEGREES F,,
+06/23/2015,4,FEET,66.2,DEGREES F,,
+06/23/2015,6,FEET,60.4,DEGREES F,,
+06/23/2015,8,FEET,57.5,DEGREES F,,
+06/23/2015,10,FEET,54.8,DEGREES F,,
+06/23/2015,12,FEET,52.8,DEGREES F,,
+07/27/2015,1,FEET,74.4,DEGREES F,,
+07/27/2015,2,FEET,73.9,DEGREES F,,
+07/27/2015,4,FEET,66.5,DEGREES F,,
+07/27/2015,6,FEET,63.3,DEGREES F,,
+07/27/2015,8,FEET,59.7,DEGREES F,,
+07/27/2015,10,FEET,56.4,DEGREES F,,
+07/27/2015,12,FEET,54.1,DEGREES F,,
+08/30/2015,1,FEET,64.2,DEGREES F,,
+08/30/2015,2,FEET,63.8,DEGREES F,,
+08/30/2015,4,FEET,61.1,DEGREES F,,
+08/30/2015,6,FEET,58.2,DEGREES F,,
+08/30/2015,8,FEET,56.1,DEGREES F,,
+08/30/2015,10,FEET,54.5,DEGREES F,,
+08/30/2015,12,FEET,52.7,DEGREES F,,
+09/23/2015,1,FEET,64,DEGREES F,,
+09/23/2015,2,FEET,63.6,DEGREES F,,
+09/23/2015,4,FEET,61.1,DEGREES F,,
+09/23/2015,6,FEET,58.1,DEGREES F,,
+09/23/2015,8,FEET,55,DEGREES F,,
+09/23/2015,10,FEET,53.4,DEGREES F,,
+09/23/2015,12,FEET,51.8,DEGREES F,,
+06/07/2016,1,FEET,65.6,DEGREES F,,
+06/07/2016,2,FEET,65.4,DEGREES F,,
+06/07/2016,4,FEET,64.5,DEGREES F,,
+06/07/2016,6,FEET,62.6,DEGREES F,,
+06/07/2016,8,FEET,60.2,DEGREES F,,
+06/07/2016,10,FEET,57.5,DEGREES F,,
+06/07/2016,12,FEET,55.4,DEGREES F,,
+06/07/2016,14,FEET,53.6,DEGREES F,,
+07/13/2016,1,FEET,76,DEGREES F,,
+07/13/2016,2,FEET,75.5,DEGREES F,,
+07/13/2016,4,FEET,75.2,DEGREES F,,
+07/13/2016,6,FEET,66.2,DEGREES F,,
+07/13/2016,8,FEET,62,DEGREES F,,
+07/13/2016,10,FEET,57.9,DEGREES F,,
+07/13/2016,12,FEET,57.5,DEGREES F,,
+08/17/2016,1,FEET,73.2,DEGREES F,,
+08/17/2016,2,FEET,71.9,DEGREES F,,
+08/17/2016,4,FEET,66.5,DEGREES F,,
+08/17/2016,6,FEET,64,DEGREES F,,
+08/17/2016,8,FEET,60.8,DEGREES F,,
+08/17/2016,10,FEET,55,DEGREES F,,
+08/17/2016,12,FEET,52.5,DEGREES F,,
+09/14/2016,1,FEET,64,DEGREES F,,
+09/14/2016,2,FEET,62.9,DEGREES F,,
+09/14/2016,4,FEET,60.6,DEGREES F,,
+09/14/2016,6,FEET,57,DEGREES F,,
+09/14/2016,8,FEET,53,DEGREES F,,
+09/14/2016,10,FEET,51.2,DEGREES F,,
+09/14/2016,12,FEET,50.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+04/07/1994,1 meter below surface    
+11/02/1994,TURNOVER SAMPLE    
+07/29/2011,Water more cloudy that normal- maybe from the rain.
+11/20/2011,No ice formation on Spring yet.
+
+
+
+
+Start Date,Group Name,Project Name
+04/07/1994,Data Collectors,NONPOINT SOURCE
+05/24/1994,Data Collectors,NONPOINT SOURCE
+06/20/1994,Data Collectors,NONPOINT SOURCE
+07/18/1994,Data Collectors,NONPOINT SOURCE
+09/01/1994,Data Collectors,NONPOINT SOURCE
+09/27/1994,Data Collectors,NONPOINT SOURCE
+11/02/1994,Data Collectors,NONPOINT SOURCE
+07/12/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/18/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/29/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/09/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/15/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/26/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/02/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/09/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/19/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/25/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+10/07/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+10/16/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+10/23/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+11/13/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+11/20/2011,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/07/2012,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/28/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/27/2012,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/14/2012,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/26/2012,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/17/2013,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/13/2013,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/13/2013,Louise Pease,Citizen Lake Monitoring Network QA/QC - 2013
+08/18/2013,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/22/2013,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+10/19/2013,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+05/11/2014,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+05/13/2014,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/23/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/23/2014,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/21/2014,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/24/2014,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/27/2014,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+05/28/2015,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/23/2015,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/27/2015,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/30/2015,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/23/2015,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+06/07/2016,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+07/13/2016,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+08/17/2016,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot
+09/14/2016,Louise Pease,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Spot

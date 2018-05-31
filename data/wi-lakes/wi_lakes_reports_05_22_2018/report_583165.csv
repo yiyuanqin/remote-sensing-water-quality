@@ -1,0 +1,201 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Winter Lake (Price Flowage),Sawyer,2381100,NO,58,,583165,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189869,06/17/2001,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,06/26/2001,3.25,NO,1,,,60,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+7000017,08/28/2001,11.5,NO,3.5,25,52,42,59,59,,,,,
+8189920,08/28/2001,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,09/07/2001,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,09/15/2001,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,09/27/2001,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,10/18/2001,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,06/05/2002,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,06/12/2002,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,06/20/2002,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,07/05/2002,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,07/11/2002,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,08/02/2002,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,08/08/2002,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189920,09/04/2002,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,06/11/2003,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188918,06/18/2003,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,07/02/2003,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,07/17/2003,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,07/24/2003,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,08/05/2003,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188918,09/01/2003,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188918,09/03/2003,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189920,06/27/2004,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,07/12/2004,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189920,08/06/2004,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,06/11/2006,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188918,06/22/2006,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,06/29/2006,4,NO,1.2,,,57,,,LOW,,CLEAR,,
+8188918,07/09/2006,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,07/20/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,08/11/2006,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,10/01/2006,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,10/10/2006,2.33,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,05/27/2007,5.33,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,06/07/2007,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,07/11/2007,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,08/04/2007,4.5,,1.4,,,55,,,,,,,
+8188918,05/20/2008,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,05/29/2008,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,06/11/2008,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,06/25/2008,3.66,NO,1.1,,,58,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,07/09/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,07/23/2008,3.33,NO,1,,,60,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188918,08/05/2008,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188918,08/27/2008,2.66,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188918,09/10/2008,2,NO,0.6,,,67,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188918,09/23/2008,1.75,NO,0.5,,,69,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188918,05/19/2009,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188918,05/28/2009,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188918,06/12/2009,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,,
+8188918,07/07/2009,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188918,07/23/2009,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,08/11/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188918,08/27/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,09/23/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,06/10/2010,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,06/20/2010,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188918,07/20/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19207139,07/07/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/17/2001,Rained for five days straight.  High winds and bloom started on north and east.    
+06/26/2001,Very windy at 15-20 mph and bright sun.    
+08/28/2001,DEEPEST SPOT- 0-2M INTEGRATED    
+08/28/2001,Sunny- very calm- no boats- and saw one loon.    
+09/07/2001,Cloudy- sun- windy at 5-10 mph- not many weeds- and saw an eagle.    
+09/15/2001,Sunny- cool- nice day.  Eight boats on the lake (tournament).    
+06/05/2002,Finally sunny- calm- saw 2 ducks- and 1 loon.    
+06/12/2002,Sunny- 1 loon- 1 muskrat- and 1 eagle.    
+06/20/2002,Partly sunny- 1 duck- 1 loon- few lily pads- and weeds starting.    
+07/05/2002,Hot weather- weed growing good- slight chop- sunny- and 1 loon.    
+07/11/2002,Sunny- 80 degrees- and quiet.    
+08/02/2002,Weeds rotting- 1 blue heron- and choppy.    
+08/08/2002,Sunny- light south wind- saw 2 loons- 3 ducks- and 1 eagle.    
+09/04/2002,Sunny- calm bays- light green scum- 7 boats- and geese.    
+06/11/2003,Cloudy and sunny.  5 boats out.  East wind 5-10 mph.  Saw 2 eagles.    
+06/18/2003,Sunny- lite NW wind.  2 boats out.  Saw 2 loons Tues. They lower lake 9"    
+07/02/2003,3 boats out.  Lake water normal.  Lot of bass being caught.    
+07/17/2003,Cloudy- NW wind.  Lake very green-brown (too early).  Lots of bass being caught 9-11.5".    
+07/24/2003,Cloudy- east wind.  Lake turning over.  Saw 6 half grown ducks.  1 eagle.    
+08/05/2003,S wind. Yellow green by shore.  No boats.  Fish jumping for bugs  along shore.    
+09/01/2003,Light clouds.  Calm water.  Saw Ma loon and med chick. Bay is full of yellow-green smelly slime.    
+06/27/2004,Had rained- now sunny.  2 boats out.  South wind.    
+07/12/2004,Sunny- calm.  1 boat.  Saw 1 loon.    
+08/06/2004,Real sunny.  2 boats out.  1 blue heron.    
+06/11/2006,5 boats- 3 blue heron- 1 eagle.
+06/22/2006,Sunny- 4 boats.  2 loons.
+06/29/2006,Sunny- 5 boats- 2 blue herons- 2 loons and 2 loon chicks.
+07/09/2006,Sunny- 3 boats- 5 young wood duck- 4 mallards.
+07/20/2006,Sunny- 1 boat- 1 loon- 1 eagle.
+08/11/2006,Sunny- cloudy.  1 boat- 1 loon.
+10/01/2006,Sunny- 2 boats- 2 loons- 4 ducks.
+10/10/2006,Sunny- 3 boats.  12 sea gulls- 2 blue herons.
+05/27/2007,Sunny- small waves.  2 boats- 1 loon.
+06/07/2007,Sunny- 4 boats- 3 loons.  1 eagle.
+07/11/2007,Sunny- waves.  6 boats.  3 loons.  1 duck and 7 babies.  1 beaver.
+08/04/2007,Sunny- wavy.  No boats- no birds.
+05/20/2008,Sunny- 3 boats. 
+05/29/2008,Sunny- calm. 1 boat and 1 eagle. 
+06/11/2008,3 ducks. 
+06/25/2008,Sunny- waves. 4 boats. 
+07/09/2008,Sunny- windy. 2 loons and 4 boats. 
+07/23/2008,Sunny- calm. 5 boats. 
+08/05/2008,2 loons- 1 eagle and a few ducks. 
+08/27/2008,Cloudy. 4 ducks- 1 loon. 
+09/10/2008,Very windy and cloudy. 
+09/23/2008,Windy and cloudy. 
+05/19/2009,2 boats- 1 loon and 2 geese with 9 goslings. Sunny with a north wind.
+05/28/2009,Sunny with a light wind from the south. 3 boats- 2 loons. 1 goose with 5 goslings.
+06/12/2009,Some clouds. 5 boats. 4 dead crappies by shore.
+07/07/2009,1 boat- 1 loon and some gulls. 1 boat- 1 loon and some gulls. Partly sunny.
+07/23/2009,Partly sunny. 3 boats and 2 pontoons. 1 loon.
+08/11/2009,sunny- 79 degrees. 2 gulls- 3 boats- a canoe- and 2 paddle boats.
+08/27/2009,sunny- 77 degrees. 1 loon- no boats. Light wind.
+09/23/2009,sunny- light wind. No boats. 1 loon and 1 gull.
+06/10/2010,Huge amount of aquatic plants.
+06/20/2010,2 boats. 1 goose with 4 chicks. 2 loons- 3 blue herons.
+07/20/2010,2 boats. 27 geese. Most aquatic plants I have ever seen since I moved here in 1997.
+
+
+
+
+Start Date,Group Name,Project Name
+06/17/2001,Roger Schmidt,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/26/2001,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/28/2001,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+08/28/2001,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/07/2001,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/15/2001,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/27/2001,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+10/18/2001,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/05/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/12/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/20/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/05/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/11/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/02/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/08/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/04/2002,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/11/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/18/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/02/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/17/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/24/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/05/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/01/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/03/2003,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/27/2004,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/12/2004,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/06/2004,Joe Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/11/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/22/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/29/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/09/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/20/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/11/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+10/01/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+10/10/2006,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+05/27/2007,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/07/2007,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/11/2007,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/04/2007,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+05/20/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+05/29/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/11/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/25/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/09/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/23/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/05/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/27/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/10/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/23/2008,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+05/19/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+05/28/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/12/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/07/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/23/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/11/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+08/27/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+09/23/2009,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/10/2010,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+06/20/2010,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/20/2010,Joe + JoAnn Blanda,Citizen Lake Monitoring - Water Quality - Lake Winter; Center
+07/07/2017,ALEX SMITH,Extra Sampling - Northern Region - Spooner 

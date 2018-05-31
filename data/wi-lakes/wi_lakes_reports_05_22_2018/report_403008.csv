@@ -1,0 +1,108 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+La Motte Lake,Menominee,339600,NE,40,,403008,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/01/1979,,,,5.98,8,,44,48,,,,,
+8190822,02/02/1991,31,NO,9.4,,,28,,,GAUGE,1.3,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,04/18/1991,8.25,NO,2.5,,,47,,,GAUGE,.96,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,05/23/1991,12.25,NO,3.7,,,41,,,GAUGE,2.06,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,06/03/1991,9.75,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,06/11/1991,10.5,NO,3.2,,,43,,,GAUGE,1.7,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190822,06/26/1991,9.25,NO,2.8,,,45,,,GAUGE,1.64,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,07/10/1991,13.25,NO,4,,,40,,,GAUGE,1.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,07/16/1991,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190822,07/17/1991,10.5,NO,3.2,,,43,,,GAUGE,1.66,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,07/26/1991,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,08/14/1991,13.5,NO,4.1,,,40,,,GAUGE,1.69,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,08/27/1991,11.6,NO,3.5,,,42,,,GAUGE,1.65,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190822,08/29/1991,12.25,NO,3.7,,,41,,,GAUGE,1.65,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,09/27/1991,12.25,NO,3.7,,,41,,,GAUGE,1.69,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190271,10/17/1991,11.5,NO,3.5,,,42,,,GAUGE,1.71,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190919,05/26/1993,25.5,NO,7.8,,,30,,,GAUGE,4.2,,,
+8190919,06/03/1993,21.67,NO,6.6,,,33,,,GAUGE,5.33,,,
+8190919,06/11/1993,11.6,NO,3.5,,,42,,,GAUGE,1.4,,,
+8190919,06/21/1993,9.5,NO,2.9,,,45,,,GAUGE,1.8,,,
+8190919,07/05/1993,9.75,NO,3,,,44,,,GAUGE,1.39,,,
+8190919,07/10/1993,11.25,NO,3.4,,,42,,,GAUGE,1.4,,,
+8190919,08/02/1993,9.45,NO,2.9,,,45,,,GAUGE,1.28,,,
+8190968,08/07/1993,10.8,NO,3.3,,,43,,,GAUGE,1.22,,,
+8190919,08/22/1993,10.67,NO,3.2,,,43,,,GAUGE,1.6,,,
+8190968,08/29/1993,11.3,NO,3.4,,,42,,,GAUGE,1.64,,,
+146979040,07/27/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+146979040,08/24/2017,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+146979040,09/12/2017,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/01/1979,,,,,0,MG/L
+07/27/2017,3,FEET,75.3,DEGREES F,,
+07/27/2017,7,FEET,74.4,DEGREES F,,
+07/27/2017,13,FEET,71,DEGREES F,,
+08/24/2017,5,FEET,71.4,DEGREES F,,
+08/24/2017,10,FEET,70.8,DEGREES F,,
+08/24/2017,15,FEET,68,DEGREES F,,
+09/12/2017,5,FEET,65.8,DEGREES F,,
+09/12/2017,10,FEET,64.7,DEGREES F,,
+09/12/2017,15,FEET,63.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/01/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/18/1991,PH: 8.1- Dissolved Oxygen. changes at 42-45 feet    
+05/23/1991,Cloudy- wind SW at 8-12 mph- 26c- Dissolved Oxygen.: 0 below 14 meters    
+06/03/1991,East-northeast wind at 10-12 mph- partly cloudy- pH: 8.6- Thermocline at 3-4 meters    
+06/11/1991,Clear- 24c- w wind at 6-8 mph- Dissolved Oxygen. 0 below 14 meters    
+07/10/1991,Cloudy- 22c- wind 2-5 mph    
+07/16/1991,Windy    
+08/14/1991,Groundwater maromictic- Thermocline at 4-5 m    
+08/27/1991,Hot- Thermocline at 5 m- do at 7 m: .07ppm-6 m: .5ppm- purple sulfur bacteria at 7.8 m by o2 spike: .7ppm.    
+09/27/1991,Partly sunny- do at 9 m: 0.00    
+10/17/1991,Sunny- Thermocline at 11 m- 17 species of algae identified- fall bloom- do out at 12-13 m    
+07/10/1993,Sunny    
+08/02/1993,Sunny    
+08/07/1993,Sunny    
+08/22/1993,Partly cloudy    
+08/29/1993,Partly sunny    
+08/24/2017,Ambient air temperature 59degF.
+09/12/2017,Perfectly clear blue sky. Ambient air temperature 70degF.
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/1979,Data Collectors,Migrated from STORET Legacy
+02/02/1991,John De Wild,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+04/18/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+05/23/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+06/03/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+06/11/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+06/26/1991,John De Wild,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/10/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/16/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/17/1991,John De Wild,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/26/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/14/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/27/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/29/1991,John De Wild,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+09/27/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+10/17/1991,George Howlett- Jr.,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+05/26/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+06/03/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+06/11/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+06/21/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/05/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/10/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/02/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/07/1993,Joan Raney,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/22/1993,Teri Lester,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/29/1993,Joan Raney,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+07/27/2017,Joanne Fischer,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+08/24/2017,Joanne Fischer,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot
+09/12/2017,Joanne Fischer,Citizen Lake Monitoring - Water Quality - La Motte Lake - Deep Spot

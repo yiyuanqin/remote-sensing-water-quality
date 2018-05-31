@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Redstone,Sauk,1280400,SC,57,,10044855,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/29/2016,,,,,,,,,,,,,
+1,04/30/2016,,,,,,,,,,,,,
+1,05/01/2016,,,,,,,,,,,,,
+1,05/02/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/29/2016,,,11.7,C,,
+04/30/2016,,,11.1,C,,
+05/01/2016,,,10.6,C,,
+05/02/2016,,,12.2,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+04/29/2016,Data Collectors,Herbicide Concentration Monitoring
+04/30/2016,Data Collectors,Herbicide Concentration Monitoring
+05/01/2016,Data Collectors,Herbicide Concentration Monitoring
+05/02/2016,Data Collectors,Herbicide Concentration Monitoring

@@ -1,0 +1,32 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Luna Lake,Forest,1606700,NO,21,,213162,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,10/20/1999,,,,,6,,42,,,,,,
+7000017,05/09/2001,,,,,9,,45,,,,,,
+7000017,08/23/2001,20.3,NO,6.2,1.4,10,34,46,37,,,,,
+19205950,10/04/2016,,,,,11.5,,47,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/09/2001,DEEPEST SPOT    
+08/23/2001,DEEPEST SPOT- 0-2M INTEGRATED    
+
+
+
+
+Start Date,Group Name,Project Name
+10/20/1999,Data Collectors,LAKE CLASSIFICATION FISHERIES
+05/09/2001,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+08/23/2001,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+10/04/2016,Lake Remote Sensing Pilot,Long-term lake chemistry changes to acid deposition; revisiting Wisconsin Early Response Lakes 

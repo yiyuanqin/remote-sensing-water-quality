@@ -1,0 +1,81 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Greater Bass Lake,Langlade,1445500,NO,34,,343123,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/20/1973,,,,,40,,57,,,,,,
+1,10/19/1973,,,,,30,,54,,,,,,
+1,03/06/1974,,,,,30,,54,,,,,,
+1,05/02/1974,,,,,40,,57,,,,,,
+1,08/22/1974,,,,,20,,51,,,,,,
+1,11/07/1974,,,,,50,,58,,,,,,
+1,01/23/1975,,,,,10,,46,,,,,,
+1,01/30/1975,,,,,,,,,,,,,
+1,05/24/1983,5.9,,1.8,,,52,,,,,,,
+1,10/18/1999,,,,,13,,48,,,,,,
+1,10/09/2000,,,,6.7,17,,50,49,,,,,
+1,05/20/2013,,,,,21,,52,,,,,,
+1,05/11/2014,,,,,28,,54,,,,,,
+1,11/02/2014,,,,,18,,51,,,,,,
+1,11/29/2015,,,,,12,,47,,,,,,
+1,04/18/2016,,,,,37,,56,,,,,,
+19205950,10/03/2016,,,,,22.8,,52,,,,,,
+1,05/07/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/20/1973,,,10.5556,C,1,MG/L
+10/19/1973,,,11.1111,C,9.5,MG/L
+03/06/1974,,,.833333,C,12.6,MG/L
+05/02/1974,,,12.7778,C,10,MG/L
+08/22/1974,,,13.0556,C,0,MG/L
+11/07/1974,,,42.5,C,10.2,MG/L
+01/23/1975,,,0,C,18.6,MG/L
+01/30/1975,,,3.61111,C,12.5,MG/L
+05/24/1983,,,14,C,9.4,MG/L
+05/20/2013,,,52,F,,
+05/11/2014,,,50,F,,
+11/02/2014,,,42,F,,
+04/18/2016,,,45,F,,
+05/07/2017,,,51,F,,
+
+
+
+Start Date,Fieldwork Comment
+06/20/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/19/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/06/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/02/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/22/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/23/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/30/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/24/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+06/20/1973,Data Collectors,Migrated from STORET Legacy
+10/19/1973,Data Collectors,Migrated from STORET Legacy
+03/06/1974,Data Collectors,Migrated from STORET Legacy
+05/02/1974,Data Collectors,Migrated from STORET Legacy
+08/22/1974,Data Collectors,Migrated from STORET Legacy
+11/07/1974,Data Collectors,Migrated from STORET Legacy
+01/23/1975,Data Collectors,Migrated from STORET Legacy
+01/30/1975,Data Collectors,Migrated from STORET Legacy
+05/24/1983,Data Collectors,Migrated from STORET Legacy
+10/18/1999,Data Collectors,LAKE CLASSIFICATION FISHERIES
+10/09/2000,Data Collectors,LAKE CLASSIFICATION - FISHERIE
+05/20/2013,Data Collectors,
+05/11/2014,Data Collectors,
+11/02/2014,Data Collectors,
+11/29/2015,Data Collectors,
+04/18/2016,Data Collectors,
+10/03/2016,Lake Remote Sensing Pilot,Long-term lake chemistry changes to acid deposition; revisiting Wisconsin Early Response Lakes 
+05/07/2017,Data Collectors,

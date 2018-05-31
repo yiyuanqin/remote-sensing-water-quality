@@ -1,0 +1,563 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Jackson Lake,Bayfield,2734200,NO,4,,043111,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/05/1998,,,,,46,,58,,,,,,
+1,04/22/1998,,,,9.19,31,,55,52,,,,,
+1,06/09/1998,,,,6.32,30,,54,49,,,,,
+1,07/08/1998,,,,17.8,46,,58,57,,,,,
+8189353,08/08/1998,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/11/1998,,,,81.1,49,,58,68,,,,,
+8189353,08/14/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189353,08/21/1998,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189353,08/31/1998,2.25,NO,0.7,,,65,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/09/1998,2.75,NO,0.8,,,63,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189353,09/16/1998,2.75,NO,0.8,,,63,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/28/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,10/10/1998,3.5,NO,1.1,,,59,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,03/03/1999,,,,,,,,,,,,,
+18137486,03/03/1999,, ,,,,,,,,,,,
+1,04/20/1999,,,,9.97,41,,57,52,,,,,
+8189353,05/28/1999,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/02/1999,,,,5.62,44,,57,48,,,,,
+8189353,06/20/1999,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,07/07/1999,,,,15.9,34,,55,56,,,,,
+8189353,07/11/1999,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,07/25/1999,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,08/10/1999,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/17/1999,,,,18,62,,60,57,,,,,
+8189353,08/29/1999,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/23/1999,2.75,NO,0.8,,,63,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,05/29/2000,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,06/08/2000,3,NO,0.9,,,61,,,GAUGE,4.3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,06/17/2000,4.5,NO,1.4,,,55,,,GAUGE,5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,07/03/2000,4,NO,1.2,,,57,,,GAUGE,5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,07/11/2000,4.25,NO,1.3,,,56,,,GAUGE,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,07/19/2000,4.75,NO,1.4,,,55,,,GAUGE,4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,07/30/2000,3.75,NO,1.1,,,58,,,GAUGE,5.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,08/13/2000,3.5,NO,1.1,,,59,,,GAUGE,4.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,08/27/2000,3.75,NO,1.1,,,58,,,GAUGE,4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/08/2000,4,NO,1.2,,,57,,,GAUGE,3.8,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/18/2000,4.25,NO,1.3,,,56,,,GAUGE,1,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/30/2000,4.5,NO,1.4,,,55,,,GAUGE,.125,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,05/29/2001,4,NO,1.2,,,57,,,GAUGE,6.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,06/20/2001,3.5,NO,1.1,,,59,,,GAUGE,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,07/12/2001,4,NO,1.2,,,57,,,GAUGE,3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,08/02/2001,3.75,NO,1.1,,,58,,,GAUGE,9,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/03/2001,3.5,NO,1.1,,,59,,,GAUGE,3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189353,09/15/2001,4,NO,1.2,,,57,,,GAUGE,3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188700,06/15/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/09/2003,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/19/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,08/07/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,09/01/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188700,05/03/2004,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,06/21/2004,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/02/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/20/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,08/04/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,09/18/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,10/06/2004,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,05/21/2005,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,05/30/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,06/11/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/12/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,08/16/2005,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,09/05/2005,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188700,05/23/2006,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,06/22/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/07/2006,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/29/2006,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,08/15/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188700,09/04/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,05/17/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,06/14/2007,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/16/2007,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,08/01/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,08/26/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188700,05/21/2008,4.6,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,06/18/2008,4.6,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/03/2008,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,07/18/2008,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,08/30/2008,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,09/05/2008,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188700,09/17/2008,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,05/01/2009,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137486,05/28/2009,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137486,06/11/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137486,07/05/2009,7,NO,2.1,,,49,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+18137486,07/23/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137486,08/13/2009,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,09/02/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,09/07/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,09/24/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,05/16/2010,4,NO,1.2,,,57,,,LOW,2,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,06/28/2010,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,07/13/2010,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,07/19/2010,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,08/21/2010,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,05/27/2011,3,NO,0.9,,,61,,,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+18137486,06/18/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,RED,1-Beautiful, could not be nicer
+18137486,06/24/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,RED,1-Beautiful, could not be nicer
+18137486,07/28/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,08/20/2011,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,RED,1-Beautiful, could not be nicer
+18137486,09/10/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,05/10/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,06/15/2012,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,07/27/2012,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137486,08/19/2012,2.5,NO,0.8,,,64,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37730813,05/24/2013,,,,7.08,34.7,,56,50,,,,,
+81527017,05/24/2013,2.6,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+37730813,06/06/2013,,,,7.12,40.9,,57,50,,,,,
+81527017,06/06/2013,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+81527040,06/18/2013,2.13,NO,0.6,,,66,,,NORMAL,,CLEAR,BROWN,
+18137486,06/25/2013,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+81527017,07/02/2013,2.1,NO,0.6,,,66,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+109276800,07/02/2013,,,,16.8,42.7,,57,56,,,,,
+18137486,07/14/2013,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+81534080,07/26/2013,2.3,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+81534080,08/07/2013,1.6,NO,0.5,37.5,64.1,70,60,62,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+81534080,08/19/2013,2,YES,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+37730813,09/12/2013,2.95,NO,0.9,23.9,65.6,62,61,59,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+37730813,09/23/2013,2.46,NO,0.7,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+37730813,10/01/2013,2.95,NO,0.9,,,62,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+109377717,10/01/2013,,,,24.8,69.3,,61,59,,,,,
+99666256,05/30/2014,3.94,NO,1.2,,33,57,55,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/09/2014,,,,,35,,56,,,,,,
+99666256,06/09/2014,3.9,NO,1.2,,,58,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+81527017,06/19/2014,3.28,NO,1,,,60,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+99666256,06/19/2014,,,,,39,,57,,,,,,
+18137486,06/21/2014,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99666250,07/09/2014,2.13,NO,0.6,,51,66,59,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137486,07/26/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,07/28/2014,,,,,60,,60,,,,,,
+99666250,07/28/2014,2.29,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/07/2014,,,,,61,,60,,,,,,
+81527017,08/07/2014,2.6,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+81527017,08/18/2014,2.46,NO,0.7,,,64,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+99666256,08/18/2014,,,,,66,,61,,,,,,
+18137486,08/23/2014,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82607229,07/20/2017,3.25,NO,1,11.5,47,60,58,53,,,MURKY,BROWN,
+10585221,08/15/2017,4,NO,1.2,13.1,38.8,57,56,54,,,MURKY,BROWN,
+10585221,09/12/2017,4.5,NO,1.4,11.5,38.7,55,56,53,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/24/2013,0,METERS,12.2,DEGREES C,8.67,MG/L
+05/24/2013,1,METERS,11.8,DEGREES C,8.4,MG/L
+05/24/2013,2,METERS,11.7,DEGREES C,8.5,MG/L
+05/24/2013,3,METERS,11.6,DEGREES C,8.44,MG/L
+05/24/2013,3.5,METERS,11.4,DEGREES C,7.79,MG/L
+06/06/2013,0,METERS,15.8,DEGREES C,7.22,MG/L
+06/06/2013,1,METERS,15.9,DEGREES C,7.07,MG/L
+06/06/2013,2,METERS,15.9,DEGREES C,7.04,MG/L
+06/06/2013,3,METERS,15.9,DEGREES C,7.01,MG/L
+06/06/2013,4,METERS,15.7,DEGREES C,6.88,MG/L
+06/18/2013,0,METERS,20.8,DEGREES C,6,MG/L
+06/18/2013,1,METERS,20.5,DEGREES F,6.4,MG/L
+06/18/2013,2,METERS,19.3,DEGREES F,5.9,MG/L
+06/18/2013,3,METERS,17.9,DEGREES F,2.32,MG/L
+07/02/2013,0,METERS,23.1,DEGREES C,6.6,MG/L
+07/02/2013,1,METERS,21.8,DEGREES C,5.68,MG/L
+07/02/2013,2,METERS,21.5,DEGREES C,5.03,MG/L
+07/26/2013,0,METERS,22.7,DEGREES C,6.59,MG/L
+07/26/2013,1,METERS,22.3,DEGREES C,5.94,MG/L
+07/26/2013,2,METERS,21.9,DEGREES C,5.66,MG/L
+07/26/2013,3,METERS,21.7,DEGREES C,2.97,MG/L
+07/26/2013,4,METERS,21.7,DEGREES C,2.33,MG/L
+08/07/2013,0,METERS,21.6,DEGREES C,8.35,MG/L
+08/07/2013,1,METERS,21.2,DEGREES C,7.73,MG/L
+08/07/2013,2,METERS,21.1,DEGREES C,7.36,MG/L
+08/07/2013,3,METERS,20.8,DEGREES C,6.78,MG/L
+08/07/2013,4,METERS,20.5,DEGREES C,3.91,MG/L
+08/07/2013,5,METERS,19.8,DEGREES C,.25,MG/L
+08/19/2013,0,METERS,22.2,DEGREES C,7.06,MG/L
+08/19/2013,1,METERS,21.8,DEGREES C,6.71,MG/L
+08/19/2013,2,METERS,21.5,DEGREES C,6.57,MG/L
+08/19/2013,3,METERS,21.2,DEGREES C,5.22,MG/L
+09/12/2013,0,METERS,21,DEGREES C,6.64,MG/L
+09/12/2013,1,METERS,20.9,DEGREES C,6.71,MG/L
+09/12/2013,2,METERS,20.8,DEGREES C,6.82,MG/L
+09/12/2013,3,METERS,20.8,DEGREES C,6.63,MG/L
+09/12/2013,4,METERS,20.7,DEGREES C,5.23,MG/L
+09/23/2013,0,METERS,15.9,DEGREES C,8.12,MG/L
+09/23/2013,1,METERS,15.8,DEGREES C,7.68,MG/L
+09/23/2013,2,METERS,15.6,DEGREES C,7.47,MG/L
+09/23/2013,3,METERS,15.6,DEGREES C,7.56,MG/L
+09/23/2013,4,METERS,15.6,DEGREES C,6.44,MG/L
+10/01/2013,0,METERS,15.8,DEGREES C,8.2,MG/L
+10/01/2013,1,METERS,15.7,DEGREES C,8.14,MG/L
+10/01/2013,2,METERS,15.7,DEGREES C,7.9,MG/L
+10/01/2013,3,METERS,15.7,DEGREES C,8.24,MG/L
+10/01/2013,4,METERS,15.7,DEGREES C,7.52,MG/L
+05/30/2014,0,METERS,22.9,DEGREES C,8.77,MG/L
+05/30/2014,1,METERS,20.9,DEGREES C,9.05,MG/L
+05/30/2014,2,METERS,17.6,DEGREES C,7.28,MG/L
+05/30/2014,3,METERS,14.4,DEGREES C,5.15,MG/L
+05/30/2014,3.5,METERS,13.1,DEGREES C,3.55,MG/L
+06/09/2014,0,METERS,20.2,DEGREES C,6.95,MG/L
+06/09/2014,1,METERS,20,DEGREES C,6.88,MG/L
+06/09/2014,2,METERS,18.6,DEGREES C,4.51,MG/L
+06/09/2014,3,METERS,16.7,DEGREES C,2.62,MG/L
+06/09/2014,3.5,METERS,15.8,DEGREES C,1.38,MG/L
+06/19/2014,0,METERS,19.9,DEGREES C,7.44,MG/L
+06/19/2014,1,METERS,19.9,DEGREES C,7.31,MG/L
+06/19/2014,2,METERS,19.8,DEGREES C,7.07,MG/L
+06/19/2014,3,METERS,19.4,DEGREES C,6.69,MG/L
+06/19/2014,3.5,METERS,19.7,DEGREES C,5.56,MG/L
+07/09/2014,0,METERS,22.4,DEGREES C,7.24,MG/L
+07/09/2014,1,METERS,22.4,DEGREES C,7.23,MG/L
+07/09/2014,2,METERS,22.1,DEGREES C,6.73,MG/L
+07/09/2014,3,METERS,21.5,DEGREES C,6.11,MG/L
+07/09/2014,4,METERS,21.4,DEGREES C,.42,MG/L
+07/28/2014,0,METERS,22,DEGREES C,7.81,MG/L
+07/28/2014,1,METERS,22,DEGREES C,6.71,MG/L
+07/28/2014,2,METERS,21.1,DEGREES C,5.99,MG/L
+07/28/2014,3,METERS,21,DEGREES C,5.55,MG/L
+07/28/2014,3.5,METERS,21,DEGREES C,4.31,MG/L
+08/07/2014,0,METERS,24.8,DEGREES C,8.68,MG/L
+08/07/2014,1,METERS,23.1,DEGREES C,8.21,MG/L
+08/07/2014,2,METERS,22.8,DEGREES C,7.44,MG/L
+08/07/2014,3,METERS,20.9,DEGREES C,.43,MG/L
+08/18/2014,0,METERS,20.8,DEGREES C,7.28,MG/L
+08/18/2014,1,METERS,20.7,DEGREES C,6.5,MG/L
+08/18/2014,2,METERS,20.7,DEGREES C,6,MG/L
+08/18/2014,3,METERS,20.6,DEGREES C,5.52,MG/L
+08/18/2014,3.5,METERS,20.6,DEGREES C,5.51,MG/L
+07/20/2017,0,FEET,74.6,DEGREES F,7.59,MG/L
+07/20/2017,1,FEET,74.5,DEGREES F,7.61,MG/L
+07/20/2017,2,FEET,74.1,DEGREES F,7.52,MG/L
+07/20/2017,3,FEET,73.9,DEGREES F,7.44,MG/L
+07/20/2017,4,FEET,73.4,DEGREES F,7.2,MG/L
+07/20/2017,5,FEET,73,DEGREES F,6.83,MG/L
+07/20/2017,6,FEET,72.6,DEGREES F,6.42,MG/L
+07/20/2017,7,FEET,72.3,DEGREES F,6.36,MG/L
+07/20/2017,8,FEET,72.1,DEGREES F,5.97,MG/L
+07/20/2017,9,FEET,71.8,DEGREES F,5.4,MG/L
+07/20/2017,10,FEET,71.3,DEGREES F,4.22,MG/L
+08/15/2017,0,FEET,71.4,DEGREES F,7.8,MG/L
+08/15/2017,1,FEET,70.5,DEGREES F,7.63,MG/L
+08/15/2017,2,FEET,69.2,DEGREES F,7.41,MG/L
+08/15/2017,3,FEET,69.1,DEGREES F,7.21,MG/L
+08/15/2017,4,FEET,69.1,DEGREES F,7.21,MG/L
+08/15/2017,5,FEET,69.1,DEGREES F,7.17,MG/L
+08/15/2017,6,FEET,69.1,DEGREES F,7.05,MG/L
+08/15/2017,7,FEET,69.1,DEGREES F,7.41,MG/L
+08/15/2017,8,FEET,69.2,DEGREES F,7.35,MG/L
+08/15/2017,9,FEET,69.1,DEGREES F,4.52,MG/L
+08/15/2017,10,FEET,69.1,DEGREES F,3.03,MG/L
+09/12/2017,0,FEET,64.6,DEGREES F,8.76,MG/L
+09/12/2017,1,FEET,64.2,DEGREES F,8.73,MG/L
+09/12/2017,2,FEET,64,DEGREES F,8.67,MG/L
+09/12/2017,3,FEET,63.8,DEGREES F,8.58,MG/L
+09/12/2017,4,FEET,63.6,DEGREES F,8.55,MG/L
+09/12/2017,5,FEET,63.6,DEGREES F,8.5,MG/L
+09/12/2017,6,FEET,63.6,DEGREES F,8.5,MG/L
+09/12/2017,7,FEET,63.6,DEGREES F,8.48,MG/L
+09/12/2017,8,FEET,63.5,DEGREES F,8.44,MG/L
+09/12/2017,9,FEET,63.5,DEGREES F,8.08,MG/L
+09/12/2017,10,FEET,63.6,DEGREES F,8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/08/1998,W wind- 8 mph.  75 F in shade.    
+08/14/1998,Nw wind- 10 mph- 80 F in shade.    
+08/21/1998,Ne wind- 10 mph- 75 F in shade.    
+08/31/1998,Nw wind- 5 mph. 74 degrees in shade. black "stuff" in water.    
+09/09/1998,Sw wind- at 5 mph. 70 degrees in shade. 100+ dead fish (warden was called and it was reported).    
+09/16/1998,Sw wind- 6 mph. 76 degrees F in shade.    
+09/28/1998,Sw wind at 6 mph. 72 degrees F in shade.    
+10/10/1998,Sw wind at 5 mph. 66 degrees F in shade.    
+05/28/1999,Sw wind 8 mph.  Sunny 80 F in shade.  3 fishing boats. 2 mallards    
+06/20/1999,S wind 5 mph.  Partly sunny.  73 F in shade.  2 boats. 1 turtle. 2 immature bald eagles    
+07/11/1999,Sw wind 5 mph.  72 F in shade.  3 pontoons- 1 water skier- 1 pwc- 1 wood duck.  4.2" rain on 07/07    
+07/25/1999,S wind variable.  86 F in shade.  1 boat- 1 tubing- 1 duck- 1 turtle    
+08/10/1999,Sw wind variable.  73 F in shade. 2 pontoons- 1 stern drive went through channel fast!    
+08/29/1999,S wind 8 mph.  65 F in shade.  1 runabout. 2 fishing boats- 1 game warden    
+09/23/1999,N wind 6 mph- 61 F in shade- 3 fishing boats- 2 runabouts- 1 duck    
+05/29/2000,Two mallards- seven fishing boats- one paddle boat- one kayak- and two jet skis.    
+06/08/2000,85 degrees in shade- southwest wind at 5 mph- two fishing boats- and  "slow no wake" bouys in outlet channel. : )    
+06/17/2000,One blue heron- two loons and two babies- four fishing boats- 57 degrees in the shade- and mostly sunny.    
+07/03/2000,One blue heron- one fisherman- four pontoons- one jet ski- one water skier- one canoe- two loons- and two babies.    
+07/11/2000,East southeast wind at 5 mph- 73 degrees in the shade- three fishing boats- two mallards- one loon and two grey babies- and 2.1" of rain recently.    
+07/19/2000,Southwest wind at 4 mph- 70 degrees in the shade- one water skier- three fishing boats- and one loon and two babies.    
+07/30/2000,Calm- 78 degrees F in shade- two water skiers- two fishing boats- no loons- one jet ski- twelve mallards- 2.7" of rain- and one pontoon boat.    
+08/13/2000,Northeast wind at 7 mph- sun 72 degrees in shade- two fishermen- one water skier- one runabout- and one pontoon.    
+08/27/2000,South wind at 5 mph- mostly sunny- 75 degrees in shade- two pontoons- and one fisherman.    
+09/08/2000,Southwest wind at 4 mph- almost clear- 63 degrees in the shade- one fisherman- two loons- and two runabouts.    
+09/18/2000,Southwest wind at 8 mph- clear- 77 degrees in the shade- two fishermen- and one blue heron.  New dam in place!    
+09/30/2000,Southwest wind at 8 mph- partly cloudy- 72 degrees in the shade- and three fishermen.  End of season.    
+05/29/2001,Clear- 12 mph- 66 F shade.  1 blue heron- 1 floating loon nest.    
+06/20/2001,Partly cloudy.  5 mph.  70 F shade.  3 loons- 2 boats.    
+07/12/2001,Clear- NNE 5 mph.  75 F shade.  4 fishing boats- 1 blue heron and 2 flocks of mallards with babies.    
+08/02/2001,Clear- N 5 mph.  77 F shade.  1 loon- 1 blue heron- mallard with 4 babies.    
+09/03/2001,Clear- NW 6 mph- 2 fishing boats- 2 motor boats- 1 pontoon.  6 mallards.    
+09/15/2001,Partly cloudy- W 3 mph- 61 F shade- 2 boats- 1 mallard.    
+06/15/2003,Slight N wind- clear- sunny. 78 F. 3 boats.    
+07/09/2003,Light NW wind- bright sunshine- 75 F. 1 loon- 2 boats.    
+07/19/2003,Slight SW wind- sunny- 78 F. White and yellow lilies- 2 turtles- 6 ducks- 1 deer- and 1 runabout boat.    
+08/07/2003,Moderate NW wind. 72 F. Sunny- 2 loons- 1 pontoon- 1 run about boat- 1 fishing boat.    
+09/01/2003,Bright sun- 80 F. 9 ducks- 1 loon- 1 pontoon- 1 canoe- lake plants/cattails dying.    
+05/03/2004,NW 15 mph- clear.  Few clouds.  Bright sun.  Trees starting to bud.    
+06/21/2004,W 10 mph- clear- white clouds with grey lower areas.  68 F.    
+07/02/2004,Slight wind- sunny w/ few clouds.  2 boats- 2 pontoons- wild irises and lilies in bloom.  Frogs croaking- 2 blue herons- 2 loons and 1 nesting.    
+07/20/2004,85 F- bright sun.  Slight NE wind.  Hazy clouds.  1 duck- 1 loon.  2 pontoons- 1 boat- lots of water lilies.    
+08/04/2004,70 F- NW wind 12 mph.  Billowey white clouds.  Sunny.  1 loon w/ 2 chicks.  1 fishing boat.  White lilies and cattails.    
+09/18/2004,65 F.  Sky light blue- clear and sunny.  SW 5 mph wind.  2 chicks- 4 fishing boats- trees starting to color.    
+10/06/2004,65 F- SW 10 mph wind.  Bright sun.  No clouds.  Trees 25% colored.  1 fishing boat- 1 pontoon- 1 duck.    
+05/21/2005,Wind SW 7 mph.  60 F.  Sunny.  Trees 1/2 leaf.  8 fishing boats- 1 pontoon. Docks being put in.    
+05/30/2005,Wind slight NW.  65 F.  Bright sun with white clouds.  11 fishing oats- 1 pontoon- loon sitting on bog nest.    
+06/11/2005,Wind slight SW.  Sunny- some clouds.  3 boats.  Yellow water lilies.  Loon on nest.  Turtles.    
+07/12/2005,Bright sun- breeze.  White lilies full bloom.  Cattails forming.  1 deer- 2 boats.  Loon yodeling- 2 sighted.    
+08/16/2005,Slight NW wind- 75 F.  Bright sun.  1 boat- mallard with chick.  White lilies and cattails.  Slow wake bouy missing.    
+09/05/2005,Wind SW 15 mph.  82 F- bright sun- 3 boats- 1 pontoon- 4 mallards- 1 loon- 1 deer- turtles.    
+05/23/2006,Wind south- 10mph- 70F sunny- 3/4 foliage- one boat- one canoe- one kayak- 3 woodducks- one hen mallard- loon nesting + 1
+06/22/2006,WInd NW 10 mph- 70F sunny with clouds- white and yellow lillies in bloom- turtles
+07/07/2006,wind SW 20 mph- 80F sunny- 2 fishing boats- 2 loons- 2 ducks- cattails forming
+
+07/29/2006,wind SW 5 mph- 82F sunny- 13 ducks- 1 heron- 2 loons with baby- one boat- 2 jetskis- weeds growing
+08/15/2006,Wind SW 5 mph- 78F one duck- one fishing boat- DNR fish traps in lake
+
+09/04/2006,Wind NW 5 mph- 76F 3 boats- one pontoon- one heron- one duck- 2 loons- fish traps gone
+05/17/2007,Wind SW 5 mph.  63 F.  Sunny.  3 fishing boats- 1 muskrat- turtles.  Almost full foliage.
+06/14/2007,Wind SW 6 mph.  87 F.  Partially cloudy.  1 loon.  Lilies starting to bloom.
+07/16/2007,Wind SW 4 mph.  75 F.
+08/01/2007,Wind SW 5 mph.  85 F.  3 loons- blue heron.  Lilies full bloom.
+08/26/2007,Slight wind- 74 F.  2 adult loons- 1 young loon.  1 boat- 1 pontoon.
+05/21/2008,67F Sunny and clear- loon nesting- 2 boats
+06/18/2008,80F sunny and clear- calm- some yellow lilies- turtles
+07/03/2008,78F sunny with few clouds- 2 loons with chick- yellow and white lilies- new beaver house in progress
+07/18/2008,80 SW5- sunny with clouds- loon- fishing boats
+08/30/2008,80F sunny- water temp 70F- turtles- ducks- beaver trails to new house
+09/05/2008,70F SSE breeze- sunny with white clouds- water temp 69.2. Heron- ducks- loon- turtle
+09/17/2008,Sunny and clear- water temp 64F- water plants dying end of season
+05/01/2009,Beautiful suuny afternoon with no boat traffic
+05/28/2009,Sunny and still 59 deg.  Grouse and chicks and loon observed. 
+06/11/2009,Bill + Janet Porter    Cloudy  Breeze NW   61 deg
+07/05/2009,sunny; light breeze north; 72 deg f
+07/23/2009,A very still afternoon.  Temp 68 deg
+08/13/2009,wind south 8 mph;  sunny 80 deg
+
+Janet assisted
+09/02/2009,Bill + Janet
+sunny
+s. 7 mph
+69 deg
+09/07/2009,Bill + Janet
+sunny
+73 deg
+se @ 4 mph
+09/24/2009,Bill + Janet observed
+72 deg  sunny  wind s @ 5mph
+05/16/2010,sunny + calm
+Wife- Janet helped again
+06/28/2010,partly cloudy; after many days of rain. Water temp 74 deg
+Janet helped monitor
+07/13/2010,ripply water; sunny' water temp 78 deg
+07/19/2010,partly sunny- calm- hot.
+Janet helped with monitoring
+08/21/2010,sunny- calm- 68 deg
+Janet helped monitor
+05/27/2011,slight breez; sunny; memorial day; Janet helped
+06/18/2011,cloudy + calm
+06/24/2011,Sunny + a little breezy
+07/28/2011,Hazy- warm- no wind
+08/20/2011,Sunny + Breeqy
+09/10/2011,Sunny + still
+05/10/2012,sunny breezy
+06/15/2012,Partial sun    no wind
+07/27/2012,sunny + breezy
+08/19/2012,sunny
+05/24/2013,Weather: Sunny- Breezy
+Shore/Land Use: Forested/ Private Ownership
+Past 48 hour rain: Recent substantial rain
+Wildlife: Loons (nesting)- osprey- kingfisher
+Additional helpers: Maryjo Gingras- Randy Lehr
+06/06/2013,Weather: Cloudy and windy
+Past 48 rainfall: Light Rain
+Shore/Land Use: Wooded Residential
+Wildlife: loons on nest
+Additional Helpers: MaryJo Gingras- Allissa Stutte- and Emily Moravec
+06/18/2013,Clear skies- wind felt on face- loon nesting- chainsaw on shore- light rainfall past 48 hours- residential shoreline development.
+07/02/2013,Weather: Clear skies with very subtle breeze
+Rainfall in Past 48 Hours: No
+Shore/Land Use: Wooded Resdiential
+Wildlife: Great Blue heron but no usual nesting loon
+Adiitional Helpers: Emily Moravec and Aly Lee
+08/07/2013,Clear skies- windy- loons and no boat traffic. 
+08/19/2013,Clear skies and windy. 
+09/12/2013,Broken cloudy skies (51%-90%).  Moderate wind (Flag extended- leaves move).  Light rain and moderate wind in past 24 hours.  Matt Hudson assisted field collection.  Launched from County "D" landing @ 10:00 am.  Departed landing @ 13:15 pm.
+09/23/2013,Few scattered clouds (10%).  Strong- strong winds from the south (Small trees swaying and large waves on lake).  It was difficult to launch the boat.  Launched from Funny Bay Landing @ 11:30 am- departure @ 14:25 pm.  
+10/01/2013,Clear skies.  Moderate wind (Flag extended- leaves move).  Assisted by Jordan Welnetz.  Left Jackson Lake site at 10:45 am.   Launched from Funny Bay Landing @ 10:00 am and departed at 13:45 pm.
+05/30/2014,Arrived at landing at 1130.  Sky was clear and sunny.  Slight wind (1).  Departed landing at 1315.  Noticed a pair of nesting of loons.   
+06/09/2014,Landing arrival 1:25- site arrival 12:45- site departure 13:15- landing departure 15:30. Scattered clouds- no wind.Pair of loons observed. 
+06/19/2014,Weather- overcast- with strong wind
+07/09/2014,Past 48 hour weather- rainfall last night
+Land use- forested/residential
+Current weather- partly clouds with moderate wind
+07/28/2014,Past 48 hour's weather: unknown
+Current weather: broken clouds- some wind (flag extended-2)
+08/07/2014,Past 48 hour's weather: light rain
+Current weather: partly cloudy- light winds
+Land use: wooded/residential
+Wildlife: beaver
+Note- %DO had fluxes in readings and 100.5 was an average though their readings were closer to 113.3
+08/18/2014,Past 48 hour's weather: rain and wind
+Current weather: overcast with mist and fog- wind on face
+Land use: forest/residential/bog
+Wildlife: loon- ducks- great blue heron
+
+
+
+
+Start Date,Group Name,Project Name
+03/05/1998,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+04/22/1998,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+06/09/1998,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+07/08/1998,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+08/08/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/11/1998,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+08/14/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/21/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/31/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/09/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/16/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/28/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+10/10/1998,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+03/03/1999,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+03/03/1999,Bill Porter,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+03/03/1999,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+04/20/1999,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+05/28/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/02/1999,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+06/20/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/07/1999,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+07/11/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/25/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/10/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/17/1999,Data Collectors,NAMAKAGON LAKE ASSOCIATION- INC.: Lake Namakagon User Survey - Information + Education
+08/29/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/23/1999,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/29/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/08/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/17/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/03/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/11/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/19/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/30/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/13/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/27/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/08/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/18/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/30/2000,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/29/2001,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/20/2001,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/12/2001,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/02/2001,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/03/2001,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/15/2001,James Vetter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/15/2003,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/09/2003,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/19/2003,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/07/2003,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/01/2003,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/03/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/21/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/02/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/20/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/04/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/18/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+10/06/2004,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/21/2005,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/30/2005,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/11/2005,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/12/2005,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/16/2005,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/05/2005,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/23/2006,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/22/2006,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/07/2006,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/29/2006,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/15/2006,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/04/2006,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/17/2007,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/14/2007,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/16/2007,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/01/2007,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/26/2007,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/21/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/18/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/03/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/18/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/30/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/05/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/17/2008,Ralph Nystrom,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/01/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/28/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/11/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/05/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/23/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/13/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/02/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/07/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/24/2009,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/16/2010,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/28/2010,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/13/2010,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/19/2010,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/21/2010,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/27/2011,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/18/2011,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/24/2011,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/28/2011,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/20/2011,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+09/10/2011,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/10/2012,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+06/15/2012,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/27/2012,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+08/19/2012,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+05/24/2013,Mary Jo Gingras,NAMAKAGON LAKE ASSOCIATION- INC.: Namakagon Chain of Lakes Management Planning Project
+05/24/2013,Parker Matzinger,Water Quality Monitoring - Northland College
+06/06/2013,Mary Jo Gingras,NAMAKAGON LAKE ASSOCIATION- INC.: Namakagon Chain of Lakes Management Planning Project
+06/06/2013,Parker Matzinger,Water Quality Monitoring - Northland College
+06/18/2013,Allissa Stutte,Water Quality Monitoring - Northland College
+06/25/2013,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/02/2013,Ally Lee,NAMAKAGON LAKE ASSOCIATION- INC.: Namakagon Chain of Lakes Management Planning Project
+07/02/2013,Parker Matzinger,Water Quality Monitoring - Northland College
+07/14/2013,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/26/2013,Emily Moravec,Water Quality Monitoring - Northland College
+08/07/2013,Emily Moravec,NAMAKAGON LAKE ASSOCIATION- INC.: Namakagon Chain of Lakes Management Planning Project
+08/07/2013,Emily Moravec,Water Quality Monitoring - Northland College
+08/19/2013,Emily Moravec,Water Quality Monitoring - Northland College
+09/12/2013,Mary Jo Gingras,NAMAKAGON LAKE ASSOCIATION- INC.: Namakagon Chain of Lakes Management Planning Project
+09/12/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+09/23/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+10/01/2013,Jordan Welnetz- Mary Jo Gingras,NAMAKAGON LAKE ASSOCIATION- INC.: Namakagon Chain of Lakes Management Planning Project
+10/01/2013,Mary Jo Gingras,Water Quality Monitoring - Northland College
+05/30/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+05/30/2014,Jordan Welnetz,Water Quality Monitoring - Northland College
+06/09/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+06/09/2014,Jordan Welnetz,Water Quality Monitoring - Northland College
+06/19/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+06/19/2014,Parker Matzinger,Water Quality Monitoring - Northland College
+06/21/2014,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/09/2014,Devon Brock-Montgomery,NC Chequamegon Bay Water Quality Monitoring
+07/09/2014,Devon Brock-Montgomery,Water Quality Monitoring - Northland College
+07/26/2014,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/28/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+07/28/2014,Devon Brock-Montgomery,Water Quality Monitoring - Northland College
+08/07/2014,Data Collectors,NC Chequamegon Bay Water Quality Monitoring
+08/07/2014,Parker Matzinger,Water Quality Monitoring - Northland College
+08/18/2014,Jordan Welnetz,NC Chequamegon Bay Water Quality Monitoring
+08/18/2014,Parker Matzinger,Water Quality Monitoring - Northland College
+08/23/2014,Bill Porter,Citizen Lake Monitoring - Water Quality - Jackson Lake; Namekagon Lake (Jackson)
+07/20/2017,Mark Sundeen and Alex Smith,West District Follow Up Monitoring for Impairment Decisions 2017 
+08/15/2017,MARK SUNDEEN,West District Follow Up Monitoring for Impairment Decisions 2017 
+09/12/2017,MARK SUNDEEN,West District Follow Up Monitoring for Impairment Decisions 2017 

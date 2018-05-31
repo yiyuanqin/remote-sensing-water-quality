@@ -1,0 +1,83 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Coffee Lake,Douglas,2758800,NO,16,,10021091,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18912387,07/07/2007,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18912387,07/15/2007,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,07/21/2007,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18912387,07/28/2007,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,08/03/2007,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,08/10/2007,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,08/25/2007,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,09/01/2007,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,05/24/2008,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,06/14/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,06/28/2008,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,07/05/2008,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,07/18/2008,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,07/26/2008,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18912387,06/05/2010,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18912387,07/03/2010,2.25,NO,0.7,,,65,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145584054,09/06/2017,,,,18.9,58.5,,60,57,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/06/2017,0,METERS,16.6,DEGREES C,5.4,MG/L
+09/06/2017,1,METERS,16.8,DEGREES C,5.4,MG/L
+09/06/2017,2,METERS,16.6,DEGREES C,3,MG/L
+09/06/2017,3,METERS,12.5,DEGREES C,.1,MG/L
+09/06/2017,4,METERS,10.1,DEGREES C,.1,MG/L
+09/06/2017,5,METERS,7.1,DEGREES C,.1,MG/L
+09/06/2017,6,METERS,6.6,DEGREES C,.1,MG/L
+09/06/2017,7,METERS,6.2,DEGREES C,.1,MG/L
+09/06/2017,8,METERS,5.8,DEGREES C,.1,MG/L
+09/06/2017,9,METERS,5.7,DEGREES C,.1,MG/L
+09/06/2017,9.6,METERS,5.7,DEGREES C,.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/07/2007,Clear sky- moderate breeze- one loon.  Air temp ~80F.
+07/15/2007,Clear sky with few clouds- windy- air temp 70-75.
+07/21/2007,Clear sky- very light breeze- air temp 82F.  Also checked depth in deep hole with secchi disc- was 30 feet.  Normal is 29 feet.
+07/28/2007,No breeze- very few clouds- air temp 80F.  There is some algae present in portions of the lake- not many... it is a very minor amount.  Storm on thursday- but local rainfall was not more than an inch.
+08/03/2007,Breezy- no clouds- air temp 81F.  4 birds catching bugs on top of lake surface.
+08/10/2007,Sunny- very humid- no breeze- some clouds.  Air temp 89F.  Water surface is very warm and calm.  Water level has gone from high to normal due to the lack of precipitation in the area - ongoing drought - usually it remains high during all years.
+08/25/2007,Mostly clear- light breeze- water level receded quickly since the last time it was checked.  Air temp 75F.
+09/01/2007,Clear sky- light breeze- one inch of rain on Sunday through Monday.  Air temp 80F.  Yes- the secchi went from 3.25 to 6 feet in one week... I had to test several times to make sure my eyes weren't deceiving me!
+05/24/2008,One loon and beaver swimming on the lake- extremely windy.  Air temp 65.
+06/14/2008,Breezy- party cloudy- air temp 65.
+06/28/2008,Partly cloudy- air temp 68F- very windy/chops on water.
+07/05/2008,Clear sky- slightly breezy- many fish jumping out of water to catch insects.
+07/18/2008,(Old data - forgot to enter) Clear sky- slight breeze.  Nice day out!
+07/26/2008,(Old data - forgot to enter) Clear sky- slight breeze- very humid.
+06/05/2010,Nice day- blue skies and slight breeze.  Temp around 70 degrees.  Growth of vegetation (primarily lily pads) seems to have exploded  compared to last year.  The intermittent stream from Coffee Lake to Gander Lake has a dam created by a beaver that is creating extremely high water levels.
+07/03/2010,Windy- chops on water- loon on lake.  Water level extremely high.
+
+
+
+
+Start Date,Group Name,Project Name
+07/07/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/15/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/21/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/28/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+08/03/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+08/10/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+08/25/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+09/01/2007,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+05/24/2008,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+06/14/2008,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+06/28/2008,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/05/2008,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/18/2008,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/26/2008,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+06/05/2010,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+07/03/2010,Brady Savoy,Citizen Lake Monitoring - Water Quality - Coffee Lake; Deep Hole
+09/06/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

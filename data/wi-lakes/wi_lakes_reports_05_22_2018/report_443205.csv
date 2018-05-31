@@ -1,0 +1,109 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Fork Lake,Oneida,1610600,NO,44,,443205,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/09/1979,,,,10.09,,,,52,,,,,
+8190496,07/24/1993,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190496,08/07/1993,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190496,08/18/1993,6,NO,1.8,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190496,09/01/1993,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+41886196,05/28/2014,2.4,N,0.7,11.3,27.6,65,54,53,,,,,
+16073539,06/24/2014,3.6,N,1.1,4.28,16.6,59,50,46,,,,,
+83097241,07/20/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34972236,07/22/2014,4.5,N,1.4,8.71,36.2,55,56,51,,,,,
+83097241,07/28/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83097241,08/20/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+16073539,08/27/2014,4.7,N,1.4,9.61,22.4,55,52,52,,,,,
+34972236,10/29/2014,4.2,N,1.3,5.5,35.6,56,56,48,,,,,
+34972236,02/19/2015,3.2,NO,1,,25.1,60,53,,,,,,
+83097241,07/10/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83097241,07/30/2015,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83097241,06/19/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83097241,07/18/2016,5.5,NO,1.7,,,53,,,NORMAL,,,YELLOW,1-Beautiful, could not be nicer
+83097241,07/26/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83097241,07/20/2017,4.5,NO,1.4,,,55,,,NORMAL,,,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/09/1979,,,23,C,,
+05/28/2014,,,20.1,C,4.7,MG/L
+06/24/2014,,,23.4,C,0.0,MG/L
+07/22/2014,,,22.3,C,0.0,MG/L
+08/27/2014,,,10.0,C,0,MG/L
+10/29/2014,,,8.7,C,9.2,MG/L
+02/19/2015,,,0.8,C,0.3,MG/L
+06/19/2016,3,FEET,74.1,DEGREES F,,
+06/19/2016,6,FEET,74,DEGREES F,,
+06/19/2016,9,FEET,74,DEGREES F,,
+06/19/2016,12,FEET,66.6,DEGREES F,,
+06/19/2016,15,FEET,62.8,DEGREES F,,
+06/19/2016,18,FEET,56,DEGREES F,,
+06/19/2016,21,FEET,52.5,DEGREES F,,
+06/19/2016,24,FEET,50.7,DEGREES F,,
+06/19/2016,27,FEET,50,DEGREES F,,
+06/19/2016,30,FEET,50,DEGREES F,,
+07/18/2016,3,FEET,72.6,DEGREES F,8.45,MG/L
+07/18/2016,6,FEET,72.4,DEGREES F,8.47,MG/L
+07/18/2016,9,FEET,72.3,DEGREES F,8.46,MG/L
+07/18/2016,12,FEET,72.2,DEGREES F,8.47,MG/L
+07/18/2016,15,FEET,71.4,DEGREES F,8.23,MG/L
+07/18/2016,18,FEET,66.4,DEGREES F,3.24,MG/L
+07/18/2016,21,FEET,55.5,DEGREES F,.32,MG/L
+07/18/2016,24,FEET,53.1,DEGREES F,.24,MG/L
+07/18/2016,27,FEET,51.7,DEGREES F,.07,MG/L
+07/26/2016,3,FEET,79,DEGREES F,8.33,MG/L
+07/26/2016,6,FEET,78.9,DEGREES F,8.34,MG/L
+07/26/2016,9,FEET,78.7,DEGREES F,8.32,MG/L
+07/26/2016,12,FEET,75.8,DEGREES F,6.87,MG/L
+07/26/2016,15,FEET,70.4,DEGREES F,5.64,MG/L
+07/26/2016,18,FEET,65.4,DEGREES F,1.76,MG/L
+07/26/2016,21,FEET,57.9,DEGREES F,.35,MG/L
+07/26/2016,24,FEET,53.7,DEGREES F,.13,MG/L
+07/26/2016,27,FEET,52,DEGREES F,.09,MG/L
+07/26/2016,30,FEET,51,DEGREES F,.05,MG/L
+07/20/2017,3,FEET,76.4,DEGREES F,101.5,MG/L
+07/20/2017,6,FEET,76.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/20/2014,Wavy-mostly sunny- nice day. wavy- mostly sunny wavy- mostly sunny
+07/28/2014,mostly sunny-slight wind
+08/20/2014,Siblings August and Andrew assisting ( They were a Big help ). Partly cloudy day with wind 5-10 mph- lake somewhat wavy. Anchor drifted- needs chain. Will have it for next time.
+06/19/2016,High overcast- wind west north west at five mph. High ripple on water.
+07/18/2016,Clear sky- wind 5 mph from west. 
+07/26/2016,Sunny- warm- low 80s. Whispy cumulus clouds. Winds five to ten mph south- south west. Slight ripples on lake.
+07/20/2017,partly cloudy- sunny- 5 mph wind from northwest. partly cloudy- sunny- 5mph wind from the northwest.
+
+
+
+
+Start Date,Group Name,Project Name
+07/09/1979,Data Collectors,Migrated from STORET Legacy
+07/24/1993,Bob Peterman,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+08/07/1993,Bob Peterman,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+08/18/1993,Bob Peterman,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+09/01/1993,Bob Peterman,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+05/28/2014,Todd Hanke and Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+06/24/2014,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+07/20/2014,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Big Fork Lake - Deep Hole
+07/20/2014,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+07/22/2014,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+07/28/2014,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+08/20/2014,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+08/27/2014,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+10/29/2014,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+02/19/2015,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+07/10/2015,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+07/30/2015,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+06/19/2016,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+07/18/2016,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+07/26/2016,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole
+07/20/2017,Henry Schwiesow,Citizen Lake Monitoring - Water Quality - Little Fork Lake - Deep Hole

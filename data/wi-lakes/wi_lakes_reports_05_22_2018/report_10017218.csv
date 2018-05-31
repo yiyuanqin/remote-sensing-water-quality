@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Plum Creek,Dodge,868400,SC,14,,10017218,SE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+146144678,07/30/2017,,,,,,,,,,,,,
+146144678,08/13/2017,,,,,,,,,,,,,
+146144678,09/30/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/30/2017,,,,,5,MG/L
+08/13/2017,,,,,6,MG/L
+09/30/2017,,,,,10,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/30/2017,Bob Zabkowocz,Plum Creek -Hwy I
+08/13/2017,Bob Zabkowocz,Plum Creek -Hwy I
+09/30/2017,Bob Zabkowocz,Plum Creek -Hwy I

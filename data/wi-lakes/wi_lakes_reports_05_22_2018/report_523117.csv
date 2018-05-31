@@ -1,0 +1,782 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Waubeesee Lake,Racine,760900,SE,52,,523117,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190363,07/12/1989,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,07/22/1989,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,08/05/1989,9.5,NO,2.9,,,45,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,08/16/1989,9,NO,2.7,,,45,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,08/19/1989,10.75,NO,3.3,,,43,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,08/30/1989,13.5,NO,4.1,,,40,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,09/15/1989,11.5,NO,3.5,,,42,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,09/24/1989,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,04/21/1990,17.5,NO,5.3,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,05/06/1990,22,NO,6.7,,,33,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,05/31/1990,16,NO,4.9,,,37,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,06/11/1990,15,NO,4.6,,,38,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,06/24/1990,12.5,NO,3.8,,,41,,,,,,SLIGHT BROWN,3-Enjoyment somewhat impaired (algae)
+8190363,07/07/1990,10.5,NO,3.2,,,43,,,,,,SLIGHT GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,07/18/1990,8.5,NO,2.6,,,46,,,,,,SLIGHT GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,08/08/1990,9.5,NO,2.9,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190363,08/25/1990,10,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190363,09/12/1990,10,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190363,09/20/1990,9,NO,2.7,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190363,10/15/1990,15.25,NO,4.6,,,38,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,05/09/1991,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,05/22/1991,19,NO,5.8,,,35,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,05/28/1991,19,NO,5.8,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,06/07/1991,17.75,NO,5.4,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,06/17/1991,17.75,NO,5.4,,,36,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,06/28/1991,15.5,NO,4.7,,,38,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,07/13/1991,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,07/28/1991,13.25,NO,4,,,40,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,08/10/1991,12,NO,3.6,,,41,,,1' LOW,,,,3-Enjoyment somewhat impaired (algae)
+8190363,08/28/1991,10.25,NO,3.1,,,44,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,09/04/1991,11.25,NO,3.4,,,42,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,09/19/1991,10.25,NO,3.1,,,44,,,,,,,
+8190363,09/28/1991,10.25,NO,3.1,,,44,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190363,10/04/1991,13.5,NO,4.1,,,40,,,,,,,
+8190363,10/10/1991,19,NO,5.8,,,35,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,05/17/1992,16.25,NO,4.9,,,37,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,06/01/1992,14.5,NO,4.4,,,39,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,06/12/1992,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,06/25/1992,15.25,NO,4.6,,,38,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,07/11/1992,15.25,NO,4.6,,,38,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,07/25/1992,14.5,NO,4.4,,,39,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,08/03/1992,13.25,NO,4,,,40,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190363,08/16/1992,16,NO,4.9,,,37,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190363,08/31/1992,12.25,NO,3.7,,,41,,,,,CLEAR,GREEN,
+8190363,09/12/1992,13,NO,4,,,40,,,,,CLEAR,,2-Very minor aesthetic problems
+8190363,09/30/1992,16,NO,4.9,,,37,,,,,CLEAR,,2-Very minor aesthetic problems
+8190230,07/10/1994,8.5,NO,2.6,,,46,,,1" BELOW TOP OF DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,07/24/1994,8.25,NO,2.5,,,47,,,4" BELOW DAM,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190230,08/16/1994,10.25,NO,3.1,,,44,,,3" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,08/28/1994,10,NO,3,,,44,,,6" BELOW DAM,,,,2-Very minor aesthetic problems
+8190230,09/11/1994,9.25,NO,2.8,,,45,,,8" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,05/27/1995,15,NO,4.6,,,38,,,HIGH 2" ABOVE DAM,,,BROWN,1-Beautiful, could not be nicer
+8190230,06/14/1995,16,NO,4.9,,,37,,,1" ABOVE DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,07/03/1995,13.25,NO,4,,,40,,,1" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,07/28/1995,12.5,NO,3.8,,,41,,,3" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,08/18/1995,11.5,NO,3.5,,,42,,,HIGH 3" ABOVE DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,08/25/1995,9.5,NO,2.9,,,45,,,HIGH 4"ABOVE DAM,,,BROWN,
+8190230,09/27/1995,10.25,NO,3.1,,,44,,,LEVEL WITH TOP OF DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,06/13/1996,13.5,NO,4.1,,,40,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190230,06/25/1996,11.5,NO,3.5,,,42,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190230,07/06/1996,10.25,NO,3.1,,,44,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190230,08/26/1996,9.5,NO,2.9,,,45,,,3" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,09/05/1996,10.25,NO,3.1,,,44,,,3" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,09/13/1996,10.08,NO,3.1,,,44,,,5" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,09/30/1996,9.75,NO,3,,,44,,,2" BELOW DAM,,,BROWN,2-Very minor aesthetic problems
+8190230,06/04/1997,17,NO,5.2,,,36,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,06/24/1997,18,NO,5.5,,,35,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/06/1997,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/15/1997,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/07/1997,15,NO,4.6,,,38,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/27/1997,13.5,NO,4.1,,,40,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,09/02/1997,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,10/02/1997,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,05/04/1998,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,05/22/1998,18,NO,5.5,,,35,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,06/10/1998,15,NO,4.6,,,38,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/23/1998,15.1,,4.6,2.12,13,38,48,40,,,,,
+8190230,06/28/1998,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/12/1998,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/27/1998,14.8,,4.5,1.98,12,38,47,40,,,,,
+8190230,08/09/1998,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,09/01/1998,7.9,,2.4,11.1,24,47,53,53,,,,,
+8190230,09/15/1998,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,09/23/1998,8.5,,2.6,4.26,13,46,48,46,,,,,
+1,10/19/1998,10.2,,3.1,1.6,12,44,47,38,,,,,
+8190230,10/21/1998,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,05/28/1999,15,NO,4.6,,,38,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,06/24/1999,8.25,NO,2.5,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190230,06/27/1999,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190230,07/07/1999,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190230,09/15/1999,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190230,10/18/1999,14,NO,4.3,,,39,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190230,07/04/2000,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/08/2000,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/09/2000,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/24/2000,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/31/2000,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190230,10/10/2000,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,05/10/2001,15,NO,4.6,,,38,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,06/17/2001,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,06/23/2001,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/19/2001,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000045,08/09/2001,8.2,NO,2.5,3,12,47,47,43,,,,,
+8190230,09/24/2001,11.6,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,10/19/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,06/15/2002,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,06/30/2002,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/03/2002,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/07/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/09/2002,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/31/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190230,07/05/2003,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/19/2003,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/30/2003,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/17/2003,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/30/2003,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,09/07/2003,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,09/15/2003,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,05/28/2004,13,NO,4,,,40,,,HIGH,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/03/2004,8,NO,2.4,,,47,,,HIGH,3,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/05/2004,7.5,NO,2.3,,,48,,,HIGH,2,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/17/2004,8,NO,2.4,,,47,,,HIGH,1,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,07/31/2004,8,NO,2.4,,,47,,,NORMAL,-2,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/08/2004,7.5,NO,2.3,,,48,,,NORMAL,-3,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/13/2004,8.5,NO,2.6,,,46,,,NORMAL,-3,CLEAR,BROWN,2-Very minor aesthetic problems
+8189041,05/02/2005,,,,,11,,47,,,,,,
+8190230,05/02/2005,16,NO,4.9,,,37,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189041,06/20/2005,,,,0.97,12,,47,35,,,,,
+8190230,06/22/2005,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/03/2005,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/06/2005,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189041,07/21/2005,,,,2.36,17,,50,41,,,,,
+8190230,07/21/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,08/09/2005,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189041,08/18/2005,,,,3.2,12,,47,44,,,,,
+8190230,08/18/2005,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190230,04/27/2006,16,NO,4.9,,,37,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,06/29/2006,8.25,NO,2.5,7.24,25,47,53,50,HIGH,2,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190230,07/21/2006,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190230,07/27/2006,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190230,07/31/2006,6.75,NO,2.1,3.96,19,50,51,45,LOW,2,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190230,08/23/2006,7,NO,2.1,3.39,15,49,49,44,LOW,6,MURKY,,2-Very minor aesthetic problems
+18137464,05/07/2007,19,NO,5.8,,11,35,47,,HIGH,19,CLEAR,BROWN,2-Very minor aesthetic problems
+18137464,06/21/2007,14,NO,4.3,3.48,,39,,44,NORMAL,6,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,07/30/2007,10,NO,3,5.53,16,44,50,48,NORMAL,6,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18137464,08/21/2007,12,NO,3.6,4.35,13,41,48,46,NORMAL,6,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+18137464,05/28/2008,,,,,29,,54,,,,,,
+18137464,06/30/2008,11,NO,3.3,4.88,23,43,52,47,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,07/29/2008,12,NO,3.6,2.84,20,41,51,43,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137464,08/27/2008,12,NO,3.6,2.83,19,41,51,43,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,10/01/2008,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,05/12/2009,12,NO,3.6,,24,41,53,,,6,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,06/16/2009,10,NO,3,1.52,18,44,51,38,,6,CLEAR,BROWN,2-Very minor aesthetic problems
+18137464,07/29/2009,12,NO,3.6,3.44,19,41,51,44,NORMAL,6,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,08/27/2009,14,NO,4.3,8.22,14,39,49,51,HIGH,6,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,05/19/2010,17,NO,5.2,,16,36,50,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,06/16/2010,12,NO,3.6,1.61,15,41,49,38,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137464,07/27/2010,12,NO,3.6,7.02,21,41,52,50,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18137464,08/30/2010,10,NO,3,6.42,22,44,52,49,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+18137464,06/27/2011,15,NO,4.6,1.42,26,38,53,37,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,07/21/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18137464,07/25/2011,,,,3.76,18,,51,45,,,,,
+18137464,08/30/2011,9,NO,2.7,4.98,19,45,51,47,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+18137464,03/25/2012,15,NO,4.6,,18,38,51,,HIGH,6,CLEAR,GREEN,2-Very minor aesthetic problems
+18137464,06/12/2012,12,NO,3.6,1.69,19,41,51,39,NORMAL,6,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18137464,07/05/2012,8,NO,2.4,,,47,,,NORMAL,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137464,07/22/2012,,,,3.3,16,,50,44,,,,,
+18137464,07/23/2012,8,NO,2.4,,,47,,,NORMAL,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137464,08/19/2012,,,,3.13,17,,50,43,,,,,
+18137464,08/20/2012,10,NO,3,,,44,,,LOW,6,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18137464,05/05/2013,,,,,32,,55,,,,,,
+18137464,06/23/2013,,,,5.14,16.5,,50,47,,,,,
+18137464,07/22/2013,,,,5.37,15.6,,49,48,,,,,
+18137464,08/25/2013,,,,5.04,14.5,,49,47,,,,,
+18137464,05/18/2014,,,,,14.6,,49,,,,,,
+18137464,06/22/2014,,,,2.93,12.7,,48,43,,,,,
+18137464,07/23/2014,,,,3.26,18.1,,51,44,,,,,
+18137464,08/27/2014,,,,6.81,17.9,,50,49,,,,,
+18137464,05/25/2015,,,,,20.8,,52,,,,,,
+18137464,06/27/2015,,,,4.41,25.3,,53,46,,,,,
+18137464,07/28/2015,,,,5.05,23,,52,47,,,,,
+18137464,08/30/2015,,,,5.9,27.2,,54,48,,,,,
+18137464,05/22/2016,,,,,15.1,,49,,,,,,
+18137464,06/26/2016,,,,0.983,20.9,,52,35,,,,,
+18137464,07/26/2016,,,,2.3,16.4,,50,41,,,,,
+18137464,08/28/2016,,,,3.06,20.5,,52,43,,,,,
+18137464,05/24/2017,,,,,23.7,,53,,,,,,
+18137464,06/25/2017,,,,8.3,17.6,,50,51,,,,,
+18137464,07/23/2017,,,,4.97,27.3,,54,47,,,,,
+18137464,08/20/2017,,,,4.49,17.9,,50,46,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/1998,,,19.6,C,0.1,MG/L
+07/27/1998,,,13.2,C,0.1,MG/L
+09/01/1998,,,19.56,C,0.1,MG/L
+09/23/1998,,,20.1,C,0.1,MG/L
+10/19/1998,,,14.7,C,0.1,MG/L
+08/09/2001,1,FEET,30.35,DEGREES C,8.12,MG/L
+08/09/2001,3,FEET,30.34,DEGREES C,8.07,MG/L
+08/09/2001,6,FEET,30.35,DEGREES C,8.07,MG/L
+08/09/2001,9,FEET,30.31,DEGREES C,8.03,MG/L
+08/09/2001,12,FEET,26.08,DEGREES C,7.54,MG/L
+08/09/2001,15,FEET,20.48,DEGREES C,6.17,MG/L
+08/09/2001,18,FEET,17.62,DEGREES C,3.72,MG/L
+08/09/2001,21,FEET,15.17,DEGREES C,.56,MG/L
+08/09/2001,,,30.4,C,8.1,MG/L
+07/21/2005,20,FEET,64,DEGREES F,5,MG/L
+07/21/2005,25,FEET,54,DEGREES F,5,MG/L
+07/21/2005,30,FEET,49,DEGREES F,5,MG/L
+07/21/2005,35,FEET,46,DEGREES F,4,MG/L
+08/18/2005,20,FEET,63.3,DEGREES F,2.5,MG/L
+08/18/2005,25,FEET,54.6,DEGREES F,3,MG/L
+08/18/2005,30,FEET,48.5,DEGREES F,3,MG/L
+08/18/2005,35,FEET,44.6,DEGREES F,3,MG/L
+06/29/2006,8.25,FEET,72,DEGREES F,,
+06/29/2006,20,FEET,59,DEGREES F,,
+06/29/2006,25,FEET,55,DEGREES F,,
+06/29/2006,30,FEET,50,DEGREES F,,
+06/29/2006,35,FEET,47,DEGREES F,,
+07/21/2006,4,FEET,79,DEGREES F,,
+07/21/2006,20,FEET,62,DEGREES F,5,MG/L
+07/21/2006,25,FEET,57,DEGREES F,5,MG/L
+07/21/2006,30,FEET,52.5,DEGREES F,4,MG/L
+07/21/2006,35,FEET,47.6,DEGREES F,5,MG/L
+08/23/2006,6,FEET,77,DEGREES F,9.5,MG/L
+08/23/2006,20,FEET,65,DEGREES F,1.9,MG/L
+08/23/2006,25,FEET,56,DEGREES F,.5,MG/L
+08/23/2006,30,FEET,52,DEGREES F,1.7,MG/L
+08/23/2006,35,FEET,48,DEGREES F,4.2,MG/L
+05/07/2007,3,FEET,57,DEGREES F,,
+05/07/2007,6,FEET,57,DEGREES F,,
+05/07/2007,9,FEET,57,DEGREES F,,
+05/07/2007,12,FEET,57,DEGREES F,,
+05/07/2007,15,FEET,56.6,DEGREES F,,
+05/07/2007,18,FEET,53.2,DEGREES F,,
+05/07/2007,21,FEET,52.5,DEGREES F,,
+05/07/2007,24,FEET,51.6,DEGREES F,,
+05/07/2007,27,FEET,48.2,DEGREES F,,
+05/07/2007,30,FEET,49.4,DEGREES F,,
+06/21/2007,3,FEET,78.6,DEGREES F,,
+06/21/2007,6,FEET,78.4,DEGREES F,,
+06/21/2007,9,FEET,78.4,DEGREES F,,
+06/21/2007,12,FEET,77,DEGREES F,,
+06/21/2007,15,FEET,71,DEGREES F,,
+06/21/2007,18,FEET,65.6,DEGREES F,,
+06/21/2007,21,FEET,54.2,DEGREES F,,
+06/21/2007,24,FEET,50.7,DEGREES F,,
+06/21/2007,27,FEET,47.1,DEGREES F,,
+06/21/2007,30,FEET,44.9,DEGREES F,,
+07/30/2007,3,FEET,81.6,DEGREES F,,
+07/30/2007,6,FEET,79.8,DEGREES F,,
+07/30/2007,9,FEET,76.4,DEGREES F,,
+07/30/2007,12,FEET,71.6,DEGREES F,,
+07/30/2007,15,FEET,68.8,DEGREES F,,
+07/30/2007,18,FEET,64.2,DEGREES F,,
+07/30/2007,21,FEET,58.6,DEGREES F,,
+07/30/2007,24,FEET,54.2,DEGREES F,,
+07/30/2007,27,FEET,50.4,DEGREES F,,
+07/30/2007,30,FEET,46.4,DEGREES F,,
+08/21/2007,3,FEET,71.4,DEGREES F,,
+08/21/2007,6,FEET,71,DEGREES F,,
+08/21/2007,9,FEET,70.8,DEGREES F,,
+08/21/2007,12,FEET,70.5,DEGREES F,,
+08/21/2007,15,FEET,70.1,DEGREES F,,
+08/21/2007,18,FEET,68.7,DEGREES F,,
+08/21/2007,21,FEET,60.4,DEGREES F,,
+08/21/2007,24,FEET,53.4,DEGREES F,,
+08/21/2007,27,FEET,48.7,DEGREES F,,
+08/21/2007,30,FEET,46.4,DEGREES F,,
+06/30/2008,3,FEET,78.4,DEGREES F,,
+06/30/2008,6,FEET,77.4,DEGREES F,,
+06/30/2008,9,FEET,75.9,DEGREES F,,
+06/30/2008,12,FEET,74.4,DEGREES F,,
+06/30/2008,15,FEET,67.8,DEGREES F,,
+06/30/2008,18,FEET,61.1,DEGREES F,,
+06/30/2008,21,FEET,60,DEGREES F,,
+06/30/2008,24,FEET,54.5,DEGREES F,,
+06/30/2008,27,FEET,49.2,DEGREES F,,
+06/30/2008,30,FEET,45.8,DEGREES F,,
+07/29/2008,3,FEET,81.4,DEGREES F,,
+07/29/2008,6,FEET,79.1,DEGREES F,,
+07/29/2008,9,FEET,78.6,DEGREES F,,
+07/29/2008,12,FEET,77,DEGREES F,,
+07/29/2008,15,FEET,71,DEGREES F,,
+07/29/2008,18,FEET,62,DEGREES F,,
+07/29/2008,21,FEET,56.6,DEGREES F,,
+07/29/2008,24,FEET,52.5,DEGREES F,,
+07/29/2008,27,FEET,51.2,DEGREES F,,
+07/29/2008,30,FEET,49.8,DEGREES F,,
+08/27/2008,3,FEET,80.6,DEGREES F,.42,MG/L
+08/27/2008,6,FEET,78.7,DEGREES F,.44,MG/L
+08/27/2008,9,FEET,76.5,DEGREES F,.45,MG/L
+08/27/2008,12,FEET,75.9,DEGREES F,.43,MG/L
+08/27/2008,15,FEET,74.4,DEGREES F,.34,MG/L
+08/27/2008,18,FEET,67,DEGREES F,.11,MG/L
+08/27/2008,21,FEET,60.2,DEGREES F,.03,MG/L
+08/27/2008,24,FEET,56.2,DEGREES F,.03,MG/L
+08/27/2008,27,FEET,54.2,DEGREES F,.02,MG/L
+08/27/2008,30,FEET,53,DEGREES F,.04,MG/L
+10/01/2008,3,FEET,65,DEGREES F,.49,MG/L
+10/01/2008,6,FEET,65.4,DEGREES F,.47,MG/L
+10/01/2008,9,FEET,65.5,DEGREES F,.47,MG/L
+10/01/2008,12,FEET,65.6,DEGREES F,.47,MG/L
+10/01/2008,15,FEET,65.6,DEGREES F,.47,MG/L
+10/01/2008,18,FEET,64.3,DEGREES F,.41,MG/L
+10/01/2008,21,FEET,63.5,DEGREES F,.36,MG/L
+10/01/2008,24,FEET,58.7,DEGREES F,.03,MG/L
+10/01/2008,27,FEET,60.8,DEGREES F,.07,MG/L
+10/01/2008,30,FEET,57.8,DEGREES F,.02,MG/L
+05/12/2009,3,FEET,63.2,DEGREES F,.55,MG/L
+05/12/2009,6,FEET,62,DEGREES F,.57,MG/L
+05/12/2009,9,FEET,61.5,DEGREES F,.58,MG/L
+05/12/2009,12,FEET,60.4,DEGREES F,.58,MG/L
+05/12/2009,15,FEET,59,DEGREES F,.57,MG/L
+05/12/2009,18,FEET,56.2,DEGREES F,.58,MG/L
+05/12/2009,21,FEET,55.3,DEGREES F,.57,MG/L
+05/12/2009,24,FEET,54.4,DEGREES F,.58,MG/L
+05/12/2009,27,FEET,53.1,DEGREES F,.59,MG/L
+05/12/2009,30,FEET,48.3,DEGREES F,.66,MG/L
+06/16/2009,3,FEET,72.2,DEGREES F,.54,MG/L
+06/16/2009,6,FEET,72.2,DEGREES F,.55,MG/L
+06/16/2009,9,FEET,69.7,DEGREES F,.52,MG/L
+06/16/2009,12,FEET,68.3,DEGREES F,.49,MG/L
+06/16/2009,15,FEET,66.3,DEGREES F,.43,MG/L
+06/16/2009,18,FEET,64.3,DEGREES F,.39,MG/L
+06/16/2009,21,FEET,61.9,DEGREES F,.34,MG/L
+06/16/2009,24,FEET,57.6,DEGREES F,.35,MG/L
+06/16/2009,27,FEET,53.9,DEGREES F,.41,MG/L
+06/16/2009,30,FEET,50.5,DEGREES F,.47,MG/L
+07/29/2009,3,FEET,78.8,DEGREES F,.45,MG/L
+07/29/2009,6,FEET,78.2,DEGREES F,.45,MG/L
+07/29/2009,9,FEET,75.9,DEGREES F,.44,MG/L
+07/29/2009,12,FEET,74.1,DEGREES F,.36,MG/L
+07/29/2009,15,FEET,71.9,DEGREES F,.21,MG/L
+07/29/2009,18,FEET,67,DEGREES F,.03,MG/L
+07/29/2009,21,FEET,62.8,DEGREES F,.02,MG/L
+07/29/2009,24,FEET,56.8,DEGREES F,.07,MG/L
+07/29/2009,27,FEET,55.6,DEGREES F,.13,MG/L
+07/29/2009,30,FEET,52.8,DEGREES F,.2,MG/L
+08/27/2009,3,FEET,71.5,DEGREES F,.47,MG/L
+08/27/2009,6,FEET,71.9,DEGREES F,.46,MG/L
+08/27/2009,9,FEET,72,DEGREES F,.46,MG/L
+08/27/2009,12,FEET,72.2,DEGREES F,.46,MG/L
+08/27/2009,15,FEET,71.2,DEGREES F,.32,MG/L
+08/27/2009,18,FEET,68.7,DEGREES F,.07,MG/L
+08/27/2009,21,FEET,64.8,DEGREES F,.03,MG/L
+08/27/2009,24,FEET,60.6,DEGREES F,.02,MG/L
+08/27/2009,27,FEET,54.8,DEGREES F,.07,MG/L
+08/27/2009,30,FEET,51.9,DEGREES F,.15,MG/L
+05/19/2010,3,FEET,65.8,DEGREES F,.59,MG/L
+05/19/2010,6,FEET,64.9,DEGREES F,.6,MG/L
+05/19/2010,9,FEET,62.3,DEGREES F,.61,MG/L
+05/19/2010,12,FEET,61.3,DEGREES F,.62,MG/L
+05/19/2010,15,FEET,60,DEGREES F,.59,MG/L
+05/19/2010,18,FEET,58.2,DEGREES F,.56,MG/L
+05/19/2010,21,FEET,57.4,DEGREES F,.55,MG/L
+05/19/2010,24,FEET,56.6,DEGREES F,.55,MG/L
+05/19/2010,27,FEET,55.7,DEGREES F,.54,MG/L
+05/19/2010,30,FEET,55,DEGREES F,.53,MG/L
+06/16/2010,3,FEET,76,DEGREES F,.45,MG/L
+06/16/2010,6,FEET,75.3,DEGREES F,.46,MG/L
+06/16/2010,9,FEET,74.6,DEGREES F,.48,MG/L
+06/16/2010,12,FEET,73.3,DEGREES F,.47,MG/L
+06/16/2010,15,FEET,71.4,DEGREES F,.42,MG/L
+06/16/2010,18,FEET,65.7,DEGREES F,.41,MG/L
+06/16/2010,21,FEET,62.1,DEGREES F,.4,MG/L
+06/16/2010,24,FEET,59.4,DEGREES F,.39,MG/L
+06/16/2010,27,FEET,57.7,DEGREES F,.38,MG/L
+06/16/2010,30,FEET,56.1,DEGREES F,.38,MG/L
+07/27/2010,3,FEET,86.4,DEGREES F,.43,MG/L
+07/27/2010,6,FEET,85.3,DEGREES F,.43,MG/L
+07/27/2010,9,FEET,83.4,DEGREES F,.41,MG/L
+07/27/2010,12,FEET,82.8,DEGREES F,.39,MG/L
+07/27/2010,15,FEET,82,DEGREES F,.32,MG/L
+07/27/2010,18,FEET,77.7,DEGREES F,.08,MG/L
+07/27/2010,21,FEET,67.6,DEGREES F,.02,MG/L
+07/27/2010,24,FEET,63.5,DEGREES F,.01,MG/L
+07/27/2010,27,FEET,60.1,DEGREES F,.02,MG/L
+07/27/2010,30,FEET,57.7,DEGREES F,.04,MG/L
+08/30/2010,3,FEET,81.4,DEGREES F,.41,MG/L
+08/30/2010,6,FEET,81.2,DEGREES F,.41,MG/L
+08/30/2010,9,FEET,80.9,DEGREES F,.4,MG/L
+08/30/2010,12,FEET,78.5,DEGREES F,.28,MG/L
+08/30/2010,15,FEET,73.3,DEGREES F,.02,MG/L
+08/30/2010,18,FEET,69.8,DEGREES F,.01,MG/L
+08/30/2010,21,FEET,64.9,DEGREES F,.01,MG/L
+08/30/2010,24,FEET,59.9,DEGREES F,.01,MG/L
+08/30/2010,27,FEET,56.1,DEGREES F,.01,MG/L
+08/30/2010,30,FEET,53.5,DEGREES F,.01,MG/L
+06/27/2011,3,FEET,75.4,DEGREES F,.51,MG/L
+06/27/2011,6,FEET,75,DEGREES F,.51,MG/L
+06/27/2011,9,FEET,73.4,DEGREES F,.48,MG/L
+06/27/2011,12,FEET,71.2,DEGREES F,.42,MG/L
+06/27/2011,15,FEET,67.4,DEGREES F,.35,MG/L
+06/27/2011,18,FEET,63.9,DEGREES F,.34,MG/L
+06/27/2011,21,FEET,60.4,DEGREES F,.34,MG/L
+06/27/2011,24,FEET,57.1,DEGREES F,.36,MG/L
+06/27/2011,27,FEET,53,DEGREES F,.38,MG/L
+06/27/2011,30,FEET,51.1,DEGREES F,.38,MG/L
+07/21/2011,3,FEET,89.1,DEGREES F,.58,MG/L
+07/21/2011,6,FEET,84.8,DEGREES F,.42,MG/L
+07/21/2011,9,FEET,84.7,DEGREES F,.42,MG/L
+07/21/2011,12,FEET,83.6,DEGREES F,.42,MG/L
+07/21/2011,15,FEET,80.2,DEGREES F,.4,MG/L
+07/21/2011,18,FEET,72.6,DEGREES F,.29,MG/L
+07/21/2011,21,FEET,67,DEGREES F,.14,MG/L
+07/21/2011,24,FEET,64.8,DEGREES F,.13,MG/L
+07/21/2011,27,FEET,60,DEGREES F,.16,MG/L
+07/21/2011,30,FEET,57.9,DEGREES F,.19,MG/L
+08/30/2011,3,FEET,76.9,DEGREES F,.46,MG/L
+08/30/2011,6,FEET,76.7,DEGREES F,.47,MG/L
+08/30/2011,9,FEET,76.7,DEGREES F,.47,MG/L
+08/30/2011,12,FEET,76,DEGREES F,.41,MG/L
+08/30/2011,15,FEET,74.9,DEGREES F,.32,MG/L
+08/30/2011,18,FEET,69.7,DEGREES F,.07,MG/L
+08/30/2011,21,FEET,64.2,DEGREES F,.03,MG/L
+08/30/2011,24,FEET,60.3,DEGREES F,.02,MG/L
+08/30/2011,27,FEET,56.5,DEGREES F,.04,MG/L
+08/30/2011,30,FEET,53.1,DEGREES F,.09,MG/L
+03/25/2012,3,FEET,64.2,DEGREES F,.53,MG/L
+03/25/2012,6,FEET,64,DEGREES F,.52,MG/L
+03/25/2012,9,FEET,63.8,DEGREES F,.52,MG/L
+03/25/2012,12,FEET,52.9,DEGREES F,.7,MG/L
+03/25/2012,15,FEET,48.1,DEGREES F,.79,MG/L
+03/25/2012,18,FEET,46.9,DEGREES F,.81,MG/L
+03/25/2012,21,FEET,45.9,DEGREES F,.82,MG/L
+03/25/2012,24,FEET,45.2,DEGREES F,.83,MG/L
+03/25/2012,27,FEET,44.6,DEGREES F,.83,MG/L
+03/25/2012,30,FEET,44.1,DEGREES F,.84,MG/L
+06/12/2012,3,FEET,76.6,DEGREES F,.46,MG/L
+06/12/2012,6,FEET,76.7,DEGREES F,.46,MG/L
+06/12/2012,9,FEET,76.8,DEGREES F,.46,MG/L
+06/12/2012,12,FEET,76.7,DEGREES F,.47,MG/L
+06/12/2012,15,FEET,73.5,DEGREES F,.44,MG/L
+06/12/2012,18,FEET,67.9,DEGREES F,.41,MG/L
+06/12/2012,21,FEET,63.8,DEGREES F,.43,MG/L
+06/12/2012,24,FEET,59.4,DEGREES F,.46,MG/L
+06/12/2012,27,FEET,57.7,DEGREES F,.46,MG/L
+06/12/2012,30,FEET,55.2,DEGREES F,.46,MG/L
+07/23/2012,3,FEET,83.2,DEGREES F,.45,MG/L
+07/23/2012,6,FEET,82.9,DEGREES F,.46,MG/L
+07/23/2012,9,FEET,82.5,DEGREES F,.46,MG/L
+07/23/2012,12,FEET,82.1,DEGREES F,.45,MG/L
+07/23/2012,15,FEET,81.3,DEGREES F,.42,MG/L
+07/23/2012,18,FEET,79.6,DEGREES F,.33,MG/L
+07/23/2012,21,FEET,70,DEGREES F,.28,MG/L
+07/23/2012,24,FEET,66.1,DEGREES F,.29,MG/L
+07/23/2012,27,FEET,61.5,DEGREES F,.3,MG/L
+07/23/2012,30,FEET,57.6,DEGREES F,.29,MG/L
+08/20/2012,3,FEET,74.7,DEGREES F,.5,MG/L
+08/20/2012,6,FEET,74.7,DEGREES F,.5,MG/L
+08/20/2012,9,FEET,74.2,DEGREES F,.5,MG/L
+08/20/2012,12,FEET,73.9,DEGREES F,.5,MG/L
+08/20/2012,15,FEET,73.6,DEGREES F,.46,MG/L
+08/20/2012,18,FEET,73,DEGREES F,.42,MG/L
+08/20/2012,21,FEET,68.1,DEGREES F,.15,MG/L
+08/20/2012,24,FEET,63.3,DEGREES F,.14,MG/L
+08/20/2012,27,FEET,59.7,DEGREES F,.08,MG/L
+08/20/2012,30,FEET,55.9,DEGREES F,.07,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/12/1989,Cloudy- the temperature is 70 degrees- 48 hours after 1.5" of rain.    
+07/22/1989,Rained the last four or five days- hazy day- the temperature is 72 degrees- and the water is fairly calm.    
+08/05/1989,Again had storms several days prior to reading- water fairly calm- and slightly overcast.    
+08/16/1989,Overcast.    
+08/19/1989,Bright- sunny- clear morning- just a slight ripple on the water.    
+08/30/1989,Bright- sunny- clear morning.  Slight ripple on the lake.    
+09/15/1989,Bright- sunny- clear morning. lake is very calm.  Some light green seed-like particles floating on the lake.  We've had lots of rain lately.  Had a 4.5" rain about a week or so ago.    
+09/24/1989,Bright- sunny- cold morning.  Slight wind and slightly wavy.    
+04/21/1990,Bright- sunny day- calm water.    
+05/06/1990,Clear- bright- sunny day.  The water is calm.    
+05/31/1990,Clear- sunny day.  The water is calm.  Lots of rain on and off this month.  Quite a bit of green particles seen suspended in the water.  Near shore scum like patches- scum appears to be attached to weeds below.    
+06/11/1990,Overcast day.  Slight waves- warm and sticky.  Just taken on a Monday- many boats racing around over weekend.  Green particles still suspended on water. some green clumps floating.    
+06/24/1990,Clear day- slight waves- lots of rain past couple of weeks- still small particles suspended in water.    
+07/07/1990,Overcast morning- moderate waves- lots of boating activity since the 4th- very hot days over the 4th- now cooler with high humidity.    
+07/18/1990,Cool- partly cloudy- moderate waves- lots of particles floating in water- also a very slight layer of particles on top of the water.    
+08/08/1990,Warm- sunny morning.  Slight waves- has been cold the last two days- with some showers- nothing floating on top of water but small particles still floating in the water.    
+08/25/1990,Lots of rain recently (3" one day- 2" another- and several days of 1") - little sunshine so day was slightly sunny- moderate waves- new culvert put in the channel (about one block from sample point) - lots of soil entered channel and lake is very high.    
+09/12/1990,Hot- hazy- humid day (typical of recent weather) .  Moderate waves on the water and sunny.    
+09/20/1990,Clear- sunny day- slight waves- have had lots of rain and humidity past weeks.    
+10/15/1990,Sunny day- moderate waves- no boat traffic for past few weeks.    
+05/09/1991,Sunny day- lake calm- had lots of rain recently- and boating is very light.    
+05/22/1991,Calm water- overcast day- hot and muggy- lots of small particles floating in water- has been a rainy spring- and boats starting to churn up some of the moss-like substance clinging to the weeds.    
+05/28/1991,Semi sunny day- lots of rain lately- and very few boats on the lake as of yet.    
+06/07/1991,Partly cloudy- slight waves- and had about a week of hot- humid weather.    
+06/17/1991,Calm- sunny- day.  Many small particles suspended in water- lots of activity in the channel (at the opposite end of the lake where there is lots of algae and scum) .  This is churned up and sent into the lake proper.    
+06/28/1991,Today is hot and windy- water is choppy- difficult to hold boat in 45' of water- past three or four days have been hot and humid with temperatures of 90-95 degrees.    
+07/13/1991,Overcast- slight waves- hot and humid- no rain to speak of for a couple of months- lake level getting low- lots of particles suspended in the water- boat traffic much more active.    
+07/28/1991,Overcast day- water calm- lake level very low- we have only had one rainfall in past several months.    
+08/10/1991,Today is clear and sunny- water calm- had a heavy rain two days ago (2.25") .  Prior to this it had been extremely dry.    
+08/28/1991,Hot- hazy day- water fairly calm- some small particles floating on water surface- no rain since early August- and lake is low.    
+09/04/1991,Cool day- yesterday had a little better than 0.5" rain (need lots more) - lake is calm and low- and little lake activity this past week.    
+09/19/1991,Lake quite wavy- very cool day- partly sunny- had lots of rain the past week and 3" one day- 3/4" one day- and 1/2" another day- plus some light rain.    
+09/28/1991,The day is cool and clear- slightly windy- lots of geese around (pulling out weeds along shoreline) - and little boating activity.    
+10/04/1991,Cool- overcast day- water very calm- little lake activity past few weeks (no speed boating at all) .    
+10/10/1991,Beautiful fall day- water calm- very little boat traffic- partly cloudy- probably will be last card - bringing the boat in.    
+05/17/1992,First reading this year.  Moderate wind- no recent rain- some building going on at some areas on shoreline- and it is a sunny day.    
+06/01/1992,Cool- clear day- slight wave action- water appears cloudy- however- this is Monday and their was a fair amount of boating activity over the weekend- no rain for at least 30 or more days.    
+06/12/1992,Hot- sunny day.  Slight waves- has been a dry May and June.  Water has lots of small particles in it- lake level is low.    
+06/25/1992,Semi sunny day- slight waves- have had no rain for several weeks- very cold and windy for this time of year- little boating or lake activity of any kind for past couple weeks due to weather.    
+07/11/1992,Overcast day- has 1.5" of rain last week.  Lake is still low by about a foot and one half.    
+07/25/1992,Overcast day- had rain lately about 5"- total weather has been very cool.    
+08/03/1992,Warm- humid- dry- partly cloudy- and slight waves.  Past week we have had intermittent showers.    
+08/16/1992,Clear- calm day- little or no wind- quite a few small particles suspended in water- has been very cool to cold (temperature of air) and little water activity.    
+08/31/1992,Had a heavy wind yesterday- white caps on the lake- overall summer has been very cool. today is partly sunny- mild wind- and the temperature was 90 degrees.    
+09/12/1992,Partly sunny- cool- fall morning.  Wave action is slight- not much boating activity- has been a cool summer overall- lake is very low.    
+09/30/1992,Beautiful fall day- bright sun- little or no wave action- little or no boating activity.    
+07/10/1994,Motor boat usage had stirred up some silt- disk showed slightly brown.    
+08/16/1994,Taken on a week day- less boat traffic and less turbid water.    
+08/28/1994,Partly cloudy and not too many boats on lake- water was clearer.    
+05/27/1995,No motor traffic.    
+06/14/1995,Calm water- full sun- and very little boat traffic.    
+08/18/1995,4" of rain three days from reading.    
+08/25/1995,6" of rain seven days ago- runoff in clouding water.    
+09/27/1995,Dredging of the inlet channel was started two weeks ago but water quality has not been affected.    
+07/06/1996,A lot of boat traffic over July 4. lake doesn't seem as clear this year-more algae.    
+09/13/1996,Dredging taking place on west end.    
+09/30/1996,Dredging taking place.    
+06/04/1997,Lake seems clearer than last year.    
+06/24/1997,Public boat ramp opened    
+07/06/1997,Channel dredging last year seems to have cleared up the lake    
+08/07/1997,There seems to be more weed growth than usual    
+08/27/1997,Lake is neither high or low but "normal" though it appears to be dropping.    
+09/02/1997,Lake level dropping- it is 3 inches below the dam.    
+10/02/1997,Less boat traffic- lake level is 8 inches below the dam- and there are still weeds over the lake.    
+05/10/2001,6" above dam.    
+06/17/2001,2" above dam.    
+06/23/2001,Very little boat traffic and water at top of the dam.    
+07/19/2001,2" below dam.    
+08/09/2001,DEEP SPOT @ 70FT MINUS DRIFT      
+09/24/2001,3.5" rain this week.    
+10/19/2001,4" below dam and no boat traffic.    
+06/15/2002,Cloudy    
+06/30/2002,Calm water    
+07/03/2002,Cloudy- heavy boat traffic.    
+07/07/2002,Plenty of zebra mussels in lake on stones.    
+07/05/2003,6" below dam
+    
+07/19/2003,4" below dam
+    
+07/30/2003,7" below dam
+very little milfoil after treatment this year
+    
+08/17/2003,10" below dam -no boat traffic
+    
+08/30/2003,13" below dam
+    
+09/07/2003,16" below dam
+    
+09/15/2003,18" below dam- no boat traffic; Very few zebra mussels on pier and boats when taken out of water.    
+07/17/2004,1" over dam    
+07/31/2004,2" below top of dam    
+08/08/2004,3"below top of dam    
+05/02/2005,DEEP HOLE    
+05/02/2005,one inch above dam    
+06/20/2005,DEEP HOLE    
+06/22/2005,2 inches below dam- very little boat traffic this month    
+07/03/2005,4 inches below dam- heavy boat traffic    
+07/06/2005,4 inches below dam    
+07/21/2005,6 inches below dam    
+07/21/2005,DEEP HOLE    
+08/09/2005,11 inches below dam    
+08/18/2005,12 inches below dam    
+08/18/2005,DEEP HOLE    
+07/21/2006,lake very turbid
+07/27/2006,turbid
+07/31/2006,turbid
+05/07/2007,Observations were under the conditions of mostly sunny skies- 70 degrees f air temp- south wind at 15+ mph.
+People assisting myself were- Heidi Bunk DNR agent- also Christine who accompanied Heidi.
+
+06/21/2007,On the date these observations were taken- air temperature was 80.4' f ; East wind 10-15 m.p.h. - 30% cloud cover- readings were in 73 ft  of water.
+07/30/2007,Very warm- south winds. 15+ m.p.h.
+08/27/2008,I have now learned the necessary methods for operating the dissolved oxygen meter- from this point all data will also include D.O. readings. Thank you- Mike
+
+
+
+
+Start Date,Group Name,Project Name
+07/12/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/22/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/05/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/16/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/19/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/30/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/15/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/24/1989,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+04/21/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/06/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/31/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/11/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/24/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/07/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/18/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/08/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/25/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/12/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/20/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/15/1990,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/09/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/22/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/28/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/07/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/17/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/28/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/13/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/28/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/10/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/28/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/04/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/19/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/28/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/04/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/10/1991,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/17/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/01/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/12/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/25/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/11/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/25/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/03/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/16/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/31/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/12/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/30/1992,Elaine Lafond,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/10/1994,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/24/1994,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/16/1994,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/28/1994,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/11/1994,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/27/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/14/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/03/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/28/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/18/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/25/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/27/1995,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/13/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/25/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/06/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/26/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/05/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/13/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/30/1996,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/04/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/24/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/06/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/15/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/07/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/27/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/02/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/02/1997,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/04/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/22/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/10/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/23/1998,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/28/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/12/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/27/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/09/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/01/1998,Data Collectors,BASIN ASSESSMENT BASIC 1998
+09/15/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/23/1998,Data Collectors,BASIN ASSESSMENT BASIC 1998
+10/19/1998,Data Collectors,BASIN ASSESSMENT BASIC 1998
+10/21/1998,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/28/1999,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/24/1999,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/27/1999,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/07/1999,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/15/1999,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/18/1999,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/04/2000,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/08/2000,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/09/2000,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/24/2000,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/31/2000,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/10/2000,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/10/2001,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/17/2001,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/23/2001,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/19/2001,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/09/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/09/2001,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+09/24/2001,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/19/2001,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/15/2002,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/30/2002,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/03/2002,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/07/2002,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/09/2002,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/31/2002,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/05/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/19/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/30/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/17/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/30/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/07/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+09/15/2003,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/28/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/03/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/05/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/17/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/31/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/08/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/13/2004,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/02/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/02/2005,Wendy Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/20/2005,Wendy Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/22/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/03/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/06/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/21/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/21/2005,Wendy Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/09/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/18/2005,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/18/2005,Wendy Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+04/27/2006,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/29/2006,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/21/2006,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/27/2006,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/31/2006,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/23/2006,Robert Hanneman,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/07/2007,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/21/2007,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/30/2007,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/21/2007,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/28/2008,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/30/2008,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/29/2008,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/27/2008,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+10/01/2008,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/12/2009,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/16/2009,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/29/2009,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/27/2009,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/19/2010,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/16/2010,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/27/2010,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/30/2010,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/27/2011,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/21/2011,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/25/2011,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/30/2011,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+03/25/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/12/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/05/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/22/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/23/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/19/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/20/2012,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/05/2013,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/23/2013,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/22/2013,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/25/2013,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/18/2014,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/22/2014,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/23/2014,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/27/2014,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/25/2015,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/27/2015,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/28/2015,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/30/2015,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/22/2016,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/26/2016,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/26/2016,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/28/2016,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+05/24/2017,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+06/25/2017,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+07/23/2017,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)
+08/20/2017,Mike Caveney,Citizen Lake Monitoring - Water Quality - Waubeesee Lake; Deep Hole At Sth 20 2M (Bi)

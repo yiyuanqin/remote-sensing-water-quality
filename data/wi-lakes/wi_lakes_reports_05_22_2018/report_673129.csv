@@ -1,0 +1,107 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Cedar Lake,Washington,25100,SE,67,,673129,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190614,05/27/1991,21,NO,6.4,,,33,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190614,06/15/1991,11.75,NO,3.6,,,42,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190894,06/06/1992,17,NO,5.2,,,36,,,,,,,
+8190894,06/20/1992,21,NO,6.4,,,33,,,,,,BLUE,2-Very minor aesthetic problems
+8190475,08/16/1992,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190894,07/24/1993,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190894,08/01/1993,21,NO,6.4,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190894,08/28/1993,18,NO,5.5,,,35,,,,,,BLUE,1-Beautiful, could not be nicer
+1,05/01/1997,,,,4.98,17,,50,47,,,,,
+1,06/11/1997,,,,1.44,6,,42,38,,,,,
+1,07/22/1997,,,,8.09,18.8,,51,51,,,,,
+1,08/26/1997,,,,9.7,37,,56,52,,,,,
+1,04/21/1998,,,,34.1,26,,53,61,,,,,
+1,06/23/1998,,,,1.89,12,,47,40,,,,,
+1,07/24/1998,,,,13.9,27,,54,55,,,,,
+1,08/20/1998,,,,11.8,27,,54,53,,,,,
+1,02/10/1999,,,,,11,,47,,,,,,
+8188630,04/29/1999,,,,7.71,24,,53,50,,,,,
+8188630,06/17/1999,,,,1.49,14,,49,38,,,,,
+1,07/22/1999,,,,3.87,16,,50,45,,,,,
+8188630,08/18/1999,,,,43,40,,57,63,,,,,
+1,02/21/2003,,,,,13,,48,,,,,,
+8188630,08/24/2010,,,,11.3,31,,55,53,,,,,
+128278416,05/08/2016,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+128278416,05/22/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+128278416,06/05/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+128278416,06/19/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+128278416,07/03/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,07/17/2016,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+128278416,07/31/2016,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+128278416,08/07/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+128278416,08/21/2016,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+128278416,09/04/2016,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128278416,09/18/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128278416,10/02/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+128278416,10/16/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/27/1991,Sunny    
+06/15/1991,Sunny    
+06/06/1992,Cloudy.  Partly sunny conditions- later in the day 70 degrees. (no card found)    
+06/20/1992,Some weeds and algae needs to be removed.    
+08/16/1992,Algae bloom on north basin- weeds are becoming a problem in shallow areas.    
+07/24/1993,Very cloudy- slightly rainy- lake was clear of most algae    
+08/01/1993,Air temp 80- clear sky- lake is very clear    
+08/26/1997,432255088134700
+06/17/1999,TOP    
+07/22/1999,TOP TP    
+08/18/1999,TOP    
+02/21/2003,LITTLE CEDAR LAKE- NORTH SITE    
+05/08/2016,Some waterfowl present.
+
+
+
+
+Start Date,Group Name,Project Name
+05/27/1991,Bill Spaeth,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+06/15/1991,Bill Spaeth,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+06/06/1992,Paul Klahn,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+06/20/1992,Paul Klahn,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+08/16/1992,Louis Ottmer- Jr.,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+07/24/1993,Paul Klahn,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+08/01/1993,Paul Klahn,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+08/28/1993,Paul Klahn,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+05/01/1997,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+06/11/1997,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+07/22/1997,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+08/26/1997,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+04/21/1998,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+06/23/1998,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+07/24/1998,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+08/20/1998,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+02/10/1999,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+04/29/1999,USGS,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+06/17/1999,USGS,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+07/22/1999,Data Collectors,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+08/18/1999,USGS,LITTLE CEDAR LAKE P + R DISTRICT: Little Cedar Lake USGS Water Quality Monitoring
+02/21/2003,Data Collectors,USGS Total Phosphorus in Lakes Statewide 2002-2003
+08/24/2010,USGS,USGS LAKE SAMPLES
+05/08/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+05/22/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+06/05/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+06/19/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+07/03/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+07/17/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+07/31/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+08/07/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+08/21/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+09/04/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+09/18/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+10/02/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site
+10/16/2016,Sean Zander,Citizen Lake Monitoring - Water Quality - Little Cedar Lake - North Site

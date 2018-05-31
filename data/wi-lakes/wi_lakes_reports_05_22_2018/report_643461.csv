@@ -1,0 +1,176 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little John Lake,Vilas,2332300,NO,64,,643461,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190666,08/29/1995,3,NO,0.9,,,61,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190666,09/04/1995,3,NO,0.9,,,61,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190666,09/12/1995,3.75,NO,1.1,,,58,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190666,09/23/1995,3.5,NO,1.1,,,59,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190666,10/19/1995,9.5,NO,2.9,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190666,11/05/1995,13,NO,4,,,40,,,,,,GREEN,2-Very minor aesthetic problems
+8190666,05/20/1996,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190666,06/01/1996,10.5,NO,3.2,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8190666,06/09/1996,11,NO,3.3,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8190666,06/24/1996,8.25,NO,2.5,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,07/04/1996,9.25,NO,2.8,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190666,07/16/1996,9.25,NO,2.8,,,45,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,07/23/1996,9.5,NO,2.9,,,45,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,08/03/1996,6.5,NO,2,,,50,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190666,08/11/1996,8,NO,2.4,,,47,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,08/20/1996,7.5,NO,2.3,,,48,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,08/30/1996,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,09/09/1996,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,09/19/1996,6.5,NO,2,,,50,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,10/01/1996,6.25,NO,1.9,,,51,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,10/11/1996,6.5,NO,2,,,50,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,10/20/1996,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190666,05/17/1997,6,NO,1.8,,,51,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190666,06/08/1997,10,NO,3,,,44,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190666,07/07/1997,8,NO,2.4,,,47,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,08/02/1997,8.75,NO,2.7,,,46,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,09/11/1997,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190666,09/24/1997,5.25,NO,1.6,,,53,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190666,11/08/1997,17.5,NO,5.3,,,36,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190666,04/29/1998,6.5,NO,2,,,50,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,06/16/1998,9.75,NO,3,,,44,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190666,07/24/1998,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190666,08/26/1998,3.5,NO,1.1,,,59,,,NO CHANGE,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8190666,10/02/1998,2.25,NO,0.7,,,65,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8190666,11/02/1998,10,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/31/2000,,,,,52,,59,,,,,,
+1,04/25/2001,5,NO,1.5,11,,54,,53,,,,,
+8188730,05/05/2004,9,NO,2.7,,30,45,54,,,,CLEAR,BLUE,
+8188730,08/10/2004,5,NO,1.5,12.9,68,54,61,54,,,,,
+145282006,07/19/2017,9,NO,2.7,6.63,,45,,49,,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+1,07/20/2017,,,,,26.2,,53,,,,,,
+1,08/21/2017,3.5,NO,1.1,55.2,62.8,59,60,65,,,,,
+145282006,08/21/2017,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+116338688,09/13/2017,5.75,NO,1.7,15.9,43.5,52,57,56,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/25/2001,,,8.1,C,7.2,MG/L
+05/05/2004,0,FEET,10.6,DEGREES F,9.8,MG/L
+05/05/2004,3,FEET,10.5,DEGREES F,9.8,MG/L
+05/05/2004,6,FEET,10.5,DEGREES F,9.8,MG/L
+05/05/2004,9,FEET,10.3,DEGREES F,9.8,MG/L
+05/05/2004,12,FEET,10.2,DEGREES F,9.8,MG/L
+05/05/2004,15,FEET,10.2,DEGREES F,9.8,MG/L
+08/10/2004,0,FEET,21.7,DEGREES C,7.2,MG/L
+08/10/2004,3,FEET,21.8,DEGREES C,7.1,MG/L
+08/10/2004,6,FEET,21.8,DEGREES C,7.1,MG/L
+08/10/2004,9,FEET,21.8,DEGREES C,7.1,MG/L
+08/10/2004,12,FEET,21.8,DEGREES C,7,MG/L
+08/10/2004,15,FEET,21.8,DEGREES C,7.1,MG/L
+07/19/2017,0,FEET,77.5,DEGREES F,9.72,MG/L
+07/19/2017,3,FEET,75.6,DEGREES F,9.92,MG/L
+07/19/2017,6,FEET,75.1,DEGREES F,9.85,MG/L
+07/19/2017,9,FEET,74.6,DEGREES F,9.82,MG/L
+07/19/2017,12,FEET,72.5,DEGREES F,7.95,MG/L
+07/19/2017,15,FEET,70.6,DEGREES F,2.71,MG/L
+08/21/2017,0,FEET,73.9,DEGREES F,11.28,MG/L
+08/21/2017,3,FEET,72.8,DEGREES F,11.9,MG/L
+08/21/2017,6,FEET,71.7,DEGREES F,10.79,MG/L
+08/21/2017,9,FEET,70.8,DEGREES F,7.77,MG/L
+08/21/2017,12,FEET,69.7,DEGREES F,5.44,MG/L
+08/21/2017,,,23.3,C,11.3,MG/L
+09/13/2017,0,FEET,67.8,DEGREES F,10.6,MG/L
+09/13/2017,3,FEET,67.2,DEGREES F,10.74,MG/L
+09/13/2017,6,FEET,66.3,DEGREES F,10.89,MG/L
+09/13/2017,9,FEET,65.9,DEGREES F,10.84,MG/L
+09/13/2017,12,FEET,64.4,DEGREES F,9.07,MG/L
+09/13/2017,15,FEET,63.1,DEGREES F,4.18,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/29/1995,Observed mature and immature bald eagles- seagulls- and ducks.  Lots of algae in the water.  Sunny and calm.    
+09/04/1995,The weather is sunny and calm.  Saw an eagle and a seagull.    
+09/12/1995,Windy but no white caps.  Observed seagulls.    
+09/23/1995,Sunny- mild wind- the weather has been too windy or cloudy to take a reading.    
+10/19/1995,Mostly cloudy- northeast wind at 5 mph.  Saw one immature loon.    
+11/05/1995,Mostly cloudy.  Ice chips at boat landing.  Saw two mature bald eagles.  This will be the last reading for the year.    
+05/20/1996,Saw one loon.  Wind 5 mph.    
+06/01/1996,Partly sunny.    
+06/09/1996,Sunshine. no wind.    
+06/24/1996,Cloudy.    
+07/04/1996,Sunny.    
+07/16/1996,Sunny. watched a peregrine falcon fly around the lake and then leave.    
+07/23/1996,Wind 5 mph. Saw an immature bald eagle.    
+08/03/1996,Mostly sunny. wind 10 mph.    
+08/11/1996,Sunny. wind 5 mph. saw one immature eagle.    
+08/20/1996,No wind.    
+08/30/1996,No wind.    
+09/09/1996,Slight wind.    
+09/19/1996,Wind 5 mph.    
+10/01/1996,Wind 10 mph. Mostly sunny.    
+10/11/1996,Sunny. wind 15 mph.    
+10/20/1996,Mostly cloudy. wind 5 mph.    
+05/17/1997,No wind- sunny.    
+06/08/1997,Calm winds- sunny.    
+07/07/1997,Sunny- wind 5 mph.    
+08/02/1997,Sunny- wind 2 mph.    
+04/29/1998,Sunny no wind.    
+06/16/1998,Sunny wind at 10 mph.    
+07/24/1998,Sunny.    
+08/26/1998,Sunny no wind.    
+10/02/1998,Sunny wind at 10 mph.    
+11/02/1998,Sunny wind at 10 mph.    
+04/25/2001,@ MAX DEPTH    
+05/05/2004,DEEP HOLE - GRAB SAMPLE    
+08/10/2004,DEEP HOLE - INTEGRATED SAMPLE    
+
+
+
+
+Start Date,Group Name,Project Name
+08/29/1995,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/04/1995,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/12/1995,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/23/1995,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+10/19/1995,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+11/05/1995,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+05/20/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+06/01/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+06/09/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+06/24/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+07/04/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+07/16/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+07/23/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/03/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/11/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/20/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/30/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/09/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/19/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+10/01/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+10/11/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+10/20/1996,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+05/17/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+06/08/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+07/07/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/02/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/11/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+09/24/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+11/08/1997,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+04/29/1998,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+06/16/1998,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+07/24/1998,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/26/1998,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+10/02/1998,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+11/02/1998,Dale Taylor,Citizen Lake Monitoring - Water Quality - Little John Lake - Deep Hole
+08/31/2000,Data Collectors,General Surface Water Monitoring 1999-2001
+04/25/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+05/05/2004,Nate Guldan,Lake Baseline Monitoring- DNR (1970s-2006)
+08/10/2004,Nate Guldan,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/2017,Mitchell Buhler,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+07/20/2017,Data Collectors,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+08/21/2017,Data Collectors,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+08/21/2017,Mitchell Buhler,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+09/13/2017,Catherine Higley,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program

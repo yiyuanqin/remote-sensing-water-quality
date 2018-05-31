@@ -1,0 +1,613 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Planting Ground Lake,Oneida,1609100,NO,44,,443406,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190752,07/23/1993,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/30/1993,6.25,NO,1.9,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/07/1993,6,NO,1.8,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,08/13/1993,6,NO,1.8,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,08/19/1993,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,08/26/1993,6.5,NO,2,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/03/1993,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/10/1993,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/17/1993,5,NO,1.5,,,54,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,09/24/1993,6,NO,1.8,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,05/06/1994,5,NO,1.5,,,54,,,8" LOW,,,BROWN,2-Very minor aesthetic problems
+8190752,05/13/1994,6.5,NO,2,,,50,,,6" LOW,,,BROWN,2-Very minor aesthetic problems
+8190752,05/19/1994,8,NO,2.4,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,05/27/1994,8.5,NO,2.6,,,46,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/02/1994,10,NO,3,,,44,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/09/1994,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,06/16/1994,7,NO,2.1,,,49,,,6" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,06/24/1994,6.5,NO,2,,,50,,,4" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/07/1994,7,NO,2.1,,,49,,,2" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/13/1994,6.5,NO,2,,,50,,,2" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/21/1994,6,NO,1.8,,,51,,,4" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/27/1994,5.5,NO,1.7,,,53,,,4" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/05/1994,6.5,NO,2,,,50,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/12/1994,6,NO,1.8,,,51,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/17/1994,7,NO,2.1,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/19/1994,5,NO,1.5,,,54,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/25/1994,6,NO,1.8,,,51,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,09/09/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190389,09/16/1994,5,NO,1.5,,,54,,,8" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,09/24/1994,5.5,NO,1.7,,,53,,,8" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,10/07/1994,4.5,NO,1.4,,,55,,,6" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,05/12/1995,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,05/19/1995,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,05/25/1995,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/01/1995,8.25,NO,2.5,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/09/1995,9,NO,2.7,,,45,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/14/1995,8.5,NO,2.6,,,46,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/21/1995,9.5,NO,2.9,,,45,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,07/03/1995,6.75,NO,2.1,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,07/13/1995,6.5,NO,2,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,07/19/1995,5.75,NO,1.7,,,52,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,07/26/1995,6.25,NO,1.9,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,08/03/1995,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,08/09/1995,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,08/16/1995,5,NO,1.5,,,54,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/22/1995,6.5,NO,2,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/02/1995,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/08/1995,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/18/1995,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,09/27/1995,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,10/04/1995,4.25,NO,1.3,,,56,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,05/25/1996,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/13/1996,8,NO,2.4,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,06/27/1996,6,NO,1.8,,,51,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/02/1996,8,NO,2.4,,,47,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/10/1996,6,NO,1.8,,,51,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/18/1996,4.5,NO,1.4,,,55,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/16/1996,5.5,NO,1.7,,,53,,,3' HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/30/1996,5.5,NO,1.7,,,53,,,2" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,09/19/1996,5,NO,1.5,,,54,,,2" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,10/01/1996,4.25,NO,1.3,,,56,,,2" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,10/12/1996,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190752,05/22/1997,5.5,NO,1.7,,,53,,,3 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,06/06/1997,7,NO,2.1,,,49,,,2 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,06/23/1997,6.5,NO,2,,,50,,,3 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/02/1997,4.75,NO,1.4,,,55,,,2 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/10/1997,6.75,NO,2.1,,,50,,,2 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,07/29/1997,7,NO,2.1,,,49,,,2 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/19/1997,5.5,NO,1.7,,,53,,,2 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,08/29/1997,5.25,NO,1.6,,,53,,,2 INCHES HIGH,,,BROWN,2-Very minor aesthetic problems
+8190752,09/27/1997,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189347,08/15/1998,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,08/31/1998,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,09/09/1998,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,10/01/1998,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/06/1999,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,06/17/1999,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,06/21/1999,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,06/28/1999,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/10/1999,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,07/21/1999,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/30/1999,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,08/05/1999,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,08/14/1999,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,08/25/1999,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,09/03/1999,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,09/15/1999,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/27/2000,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,07/06/2000,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,07/13/2000,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,07/19/2000,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/05/2000,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,08/14/2000,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,08/23/2000,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/29/2000,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,09/08/2000,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,09/13/2000,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/19/2001,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,06/26/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/05/2001,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/12/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/19/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/26/2001,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,08/01/2001,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,08/08/2001,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,08/29/2001,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,09/11/2001,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189347,07/02/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189347,07/16/2002,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,07/23/2002,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,07/30/2002,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/06/2002,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/13/2002,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,08/28/2002,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,09/16/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,09/30/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,05/26/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/02/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/09/2003,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/20/2003,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/30/2003,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,07/12/2003,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,07/24/2003,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/09/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/19/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/27/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,06/17/2004,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189347,06/23/2004,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,07/15/2004,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,07/24/2004,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,07/30/2004,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/06/2004,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,08/13/2004,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,09/02/2004,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,09/09/2004,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189347,09/22/2004,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189347,06/18/2005,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25441554,06/04/2008,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/16/2008,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/03/2008,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/10/2008,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/18/2008,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/27/2008,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,RED,
+25441554,08/03/2008,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/12/2008,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/30/2008,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,09/05/2008,6.25,NO,1.9,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/20/2009,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/27/2009,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/05/2009,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/18/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/28/2009,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/31/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/08/2009,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/23/2009,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/30/2009,4.75,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,09/05/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,09/08/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,09/16/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,05/29/2010,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/05/2010,8.25,NO,2.5,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/15/2010,7.75,NO,2.4,,,48,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/03/2010,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/15/2010,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,07/25/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/10/2010,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/17/2010,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/26/2010,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,09/09/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,07/04/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,07/11/2011,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,07/28/2011,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/05/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/14/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,09/06/2011,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,09/16/2011,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,05/13/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,05/22/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,05/28/2012,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/05/2012,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/12/2012,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/19/2012,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/28/2012,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/10/2012,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/18/2012,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/31/2012,6.5,NO,2,,,50,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/21/2012,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,05/29/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/17/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/24/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/02/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/07/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/13/2013,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/24/2013,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/06/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/17/2013,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/04/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/28/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/05/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/10/2014,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/15/2014,8,NO,2.4,,,47,,,NORMAL,,,YELLOW,1-Beautiful, could not be nicer
+83679933,09/20/2014,5, ,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/04/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/09/2015,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83644421,09/20/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+21928796,05/04/2016,5.2,N,1.6,10.7,28.7,53,54,53,,,,,
+83679933,06/02/2016,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,06/21/2016,4.1,N,1.2,2.97,25.5,57,53,43,,,,,
+1,07/21/2016,5.2,N,1.6,2.76,30,53,54,42,,,,,
+83679933,07/21/2016,5,NO,1.5,,,54,,,,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/30/2016,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/14/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,08/24/2016,5.5,N,1.7,2.02,24.4,53,53,40,,,,,
+83679933,09/18/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,11/02/2016,5.3,NO,1.6,6.59,33.9,53,55,49,,,,,
+83644421,08/05/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83644421,09/08/2017,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/04/2016,,,8.1,C,10.3,MG/L
+06/21/2016,,,11.3,C,1.7,MG/L
+07/21/2016,,,12.5,C,0.1,MG/L
+08/24/2016,,,13.2,C,0.1,MG/L
+11/02/2016,,,10.1,C,10.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1993,Weather is cloudy- lake is choppy.    
+07/30/1993,Bright sunshine- lake is rippled.    
+08/13/1993,Weather is cloudy- almost no perch minnows this year.    
+08/19/1993,Bright sunshine- calm- crayfish and clams no longer present- why     
+08/26/1993,Calm- cloudy.    
+09/03/1993,Bright sun- choppy.    
+05/06/1994,Ice off on 4-17.  Loons are back.    
+09/16/1994,Lake level highest I've seen.    
+10/07/1994,Last one.    
+10/04/1995,Last reading.    
+06/06/1999,Heavy wind and rain last night.  Now cloudy and calm.    
+06/17/1999,Rainy week- now cloudy and calm.    
+06/21/1999,Clear and calm.    
+06/28/1999,Cloudy and calm- rain yesterday.    
+07/10/1999,Lots of boat activity over July 4 holiday.    
+07/21/1999,Coudy + calm.  Rain last night momentarily.  Sun druing sampling.    
+07/30/1999,Clear and calm.    
+08/05/1999,Clear and choppy- cool.    
+08/14/1999,Cloudy- cool- calm.    
+08/25/1999,Clear- mild and calm.    
+09/03/1999,Broken- calm- warm.    
+09/15/1999,Cold- choppy- sunny.    
+06/27/2000,Sunny- partly cloudy- 65 degrees- and choppy.    
+07/06/2000,Cloudy- 62 degrees- and mild chop.    
+07/13/2000,Partly cloudy and windy.    
+07/19/2000,Clear- sunny- and calm.    
+08/05/2000,Cloudy and slight chop.    
+08/14/2000,Warm- partly cloudy- and calm.    
+08/23/2000,Mild- slight chop- and cloudy.    
+08/29/2000,Partly cloudy- 70 degrees- and breezy.    
+09/08/2000,Partly cloudy- calm- and 75 degrees.    
+09/13/2000,Partly cloudy- calm- and 70 degrees.    
+06/26/2001,Hot- calm and clear    
+08/01/2001,Hot and cloudy. Choppy    
+08/29/2001,Mild. Cloudy. Slight chop    
+09/11/2001,Mild. Breezy. Calm    
+07/02/2002,Slight Chop- Partly Cloudy
+
+    
+07/16/2002,calm and clear
+
+    
+07/23/2002,calm- partly cloudy
+
+    
+07/30/2002,calm- partly cloudy
+
+    
+08/06/2002,calm- clear
+
+    
+08/13/2002,choppy- clear
+
+    
+08/28/2002,calm- clear
+
+    
+09/16/2002,choppy- clear
+
+    
+09/30/2002,calm- cloudy
+
+    
+05/26/2003,sunny- slight chop    
+06/02/2003,sunny- calm    
+06/09/2003,partly cloudy- calm    
+06/20/2003,sunny- calm    
+06/30/2003,partly cloudy- choppy    
+07/12/2003,sunny- calm    
+07/24/2003,sunny- calm    
+08/09/2003,sunny- calm    
+08/19/2003,Partly cloudy- calm    
+08/27/2003,Cool- cloudy- slight chop    
+06/04/2008,Light breeze- relatively calm- minimal boat traffic- overcast. Light breeze- relatively calm- minimal boat traffic- overcast.
+06/16/2008,Strong breeze- overcast skies.
+07/03/2008,Sunny- calm water.
+07/10/2008,Overcast- light breeze- no boat traffic.
+07/18/2008,75 % cloudy- light breeze- calm water- moderate boat traffic.
+07/27/2008,Clear blue skies- moderate breeze- minimal boat travel.
+08/03/2008,Clear blue skies- moderate breeze- light boat traffic.
+08/12/2008,75 % overcast- sun peeking out- moderate boat activities- few waves- calm.
+08/30/2008,Bright sun- blue skies- moderate boat traffic.
+09/05/2008,Lake levels down- partly suuny- light breeze
+06/20/2009,Sunny blue skies- light breeze.  Lloyd Rossa assisted.
+06/27/2009,Totally overcast- moderate breeze- little boat activity. Lloyd Rossa assisted.
+07/05/2009,Sunny- 25% clouds- choppy and strong breeze.
+07/18/2009,100% overcast- light breeze- calm- light boat traffic..  Lloyd Rossa assisted.
+07/28/2009,60% overcast- heavy breeze- choppy- 20 jet skis on lake.  Lloyd Rossa assisted.
+07/31/2009,60% overcast- light breeze- light boat traffic.  Saw Three Lakes Water Patrol.  Lloyd Rossa assisted.
+08/08/2009,100% overcast- calm- light breeze- moderate boat traffic.  Lloyd Rossa assisted.
+08/23/2009,Sunny- no clouds- calm- light boat traffic.  Lloyd Rossa assisted.
+08/30/2009,50% sunny- choppy- moderate breeze- fishing boats on lake.  Lloyd Rossa assisted.
+09/05/2009,60% sunny- very calm water- heavy boat traffic.
+09/08/2009,90% sunny- light breeze- lake is calm- minimal boat traffic.  Assisted by Lloyd Rossa.
+09/16/2009,90% sunny- blue skies- light breeze.
+05/29/2010,Sunny- no clouds- calm- minimal traffic for hoilday weekend
+06/05/2010,Sunny- with about 40 % cloud cover. Clouds appear to be cirrus. Wind is at least 10mph- water  is choppy.
+06/15/2010,Totally overcast-8-10 mph wind- choppy- few fishing boats on lake.
+07/03/2010,Sunny- 10-15 mph wind- choppy- lots of boat traffic
+07/15/2010,Real breezy + choppy- stormed all day on 7-14- minimal boat traffic
+07/25/2010,Sunny- 20 % cloudy. light breeze- fairly calm- moderate boat traffic
+08/10/2010,Cloudy- light breeze- calm- no boat traffic
+08/17/2010,Sunny- 5 % cloud cover- few boats out - yesterday 30 mph  winds                                                                                                                                                             
+08/26/2010,Blue skies. light breeze- 5 % cloud cover- couple of boats.
+09/09/2010,Blue skies. 50 % cloud cover- light breeze
+07/04/2011,Sunny- blue skies-20% cloud cover-lot of boat traffic.
+07/28/2011,Sunny- high clouds- 75% cloud cover- light wind and light boat traffic.
+08/05/2011,Sunny- blue skies- no clouds- minimal boat traffic- light wind.
+08/14/2011,Sunny blue skies- 40% cloud cover- minimal boat traffic.
+09/06/2011,Sunny blue skies- 10% cloud cover.minimal boat traffic- 0-3 mph breeze.
+09/16/2011,Sunny blue skies- 10% cloud cover.
+05/13/2012,Light wind- ble skies- high cirrus clouds- no boat traffic
+05/22/2012,
+Light breeze 10-12 mph- 80 % blue skies- choppy
+05/28/2012,Wind 12-15 mph- choppy- 10% cloud cover- lot of boat traffic and tubing today and over the weekend
+06/05/2012,Light breeze- 75% cloud cover- very little boat traffic
+06/12/2012,90 % sunny- very choppy- couple of boats on the lake- winds 15mph or over
+06/19/2012,Choppy- 15-20mph winds- 25% sunny- few fishing boats- just had about 3 inches of rain in last few days
+06/28/2012,Clear- bright sunny day- no clouds- light breeze- minimal boat traffic
+07/10/2012,Clear sunny day- 35% cloud cover- little boat traffic
+07/18/2012,Partly sunny- moderate breeze- just stopped raining
+07/31/2012,5-10 % cloud cover- sunny- light breeze- a few boats were on lake
+08/21/2012,Sunny- 25% cloud cover- light breeze- minimal boat traffic
+05/29/2013,Sunny- blue sky- no clouds- light breeze- light boat traffic. While Noreen + Lloyd do this together- Noreen always does the readings to maintain consistency.
+06/17/2013,90% cloud cover- fluffy cumulousclouds- sun peeking out- no boat traffic- 0 -5 mph wind.
+06/24/2013,90 % cloud cover- cumulous + cirrus clouds- few boats out.
+07/02/2013,Less than 5 % cloud cover- heavy boat traffic.
+07/07/2013,Overcast- some direct sunlight- calm- some boat traffic.
+07/13/2013,90% blue sky- sunny- high haze- light wind- light boat traffic.
+07/24/2013,90% overcast with fluffy clouds- light breeze- no boat traffic.
+08/06/2013,Overcast.
+08/17/2013,No clouds- lots of boat traffic- water skiers- no visible algae.
+09/04/2013,50% sunny- 8-12 mph breeze- little boat traffic.
+06/28/2014,70 % cloud cover- stiff breeze(15 mph)- light boat traffic- hooded merganzer hen with chicks were paddling by
+07/05/2014,95% sunny- blue skies- heavy boat traffic- strong winds 20mph- 
+08/10/2014,Sunny- no clouds- 1 or 2 boats on lake Sunny- no clouds- 1 or 2 boats.
+08/15/2014,Sunny- no clouds- 1 or 2 boats on lake
+09/20/2014,25% sunny- a few fishing boats.
+08/04/2015,Moderate breeze- choppy- minimal boat traffic- blue sky- 40% cloud cover.
+09/09/2015,Moderate breeze- choppy- several fishing boats out- 85% cloud cover.
+
+09/20/2015,Minimal cluds and boat traffic.
+05/04/2016,Per Brenton Butterfield- this sample (Sample ID 252461002) should be Planting Gorund West Lobe- not East.
+05/04/2016,Per Brenton Butterfield- this sample (Sample ID 252461005) should be Planting Ground - West Lobe- not East.
+06/02/2016,20% cloud cover- 3-4 boats on lake.
+07/21/2016,Clear sky- 3-4 boats out.
+07/30/2016,80% clear skies- 4-5 jet skis out and 2-3 pontoons.
+08/14/2016,60% clear- little boat traffic
+09/18/2016,100 clear blue sky.
+
+08/05/2017,40% cloud cover- 5-10 mph wind- 3-4 boats and several jet skis out
+09/08/2017,10 % cloud cover- 8-12 mph wind- 1 fishing boat out on lake
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/30/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/07/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/13/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/19/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/26/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/03/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/10/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/17/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/24/1993,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/06/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/13/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/19/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/27/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/02/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/09/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/16/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/24/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/07/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/13/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/21/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/27/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/05/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/12/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/17/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/19/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/25/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/09/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/16/1994,Marv Lutz,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/24/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+10/07/1994,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/12/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/19/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/25/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/01/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/09/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/14/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/21/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/03/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/13/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/19/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/26/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/03/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/09/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/16/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/22/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/02/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/08/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/18/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/27/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+10/04/1995,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/25/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/13/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/27/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/02/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/10/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/18/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/16/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/30/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/19/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+10/01/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+10/12/1996,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/22/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/06/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/23/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/02/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/10/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/29/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/19/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/29/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/27/1997,Warren Yahr,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/15/1998,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/31/1998,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/09/1998,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+10/01/1998,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/06/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/17/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/21/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/28/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/10/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/21/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/30/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/05/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/14/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/25/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/03/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/15/1999,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/27/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/06/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/13/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/19/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/05/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/14/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/23/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/29/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/08/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/13/2000,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/19/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/26/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/05/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/12/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/19/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/26/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/01/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/08/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/29/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/11/2001,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/02/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/16/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/23/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/30/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/06/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/13/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/28/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/16/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/30/2002,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/26/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/02/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/09/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/20/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/30/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/12/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/24/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/09/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/19/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/27/2003,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/17/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/23/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/15/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/24/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/30/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/06/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/13/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/02/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/09/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/22/2004,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/18/2005,Wally Mercer,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/04/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/16/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/03/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/10/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/18/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/27/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/03/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/12/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/30/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/05/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/20/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/27/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/05/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/18/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/28/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/31/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/08/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/23/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/30/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/05/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/08/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/16/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/29/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/05/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/15/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/03/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/15/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/25/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/10/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/17/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/26/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/09/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/04/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/11/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/28/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/05/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/14/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/06/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/16/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/13/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/22/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/28/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/05/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/12/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/19/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/28/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/10/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/18/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/31/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/21/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/29/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/17/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/24/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/02/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/07/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/13/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/24/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/06/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/17/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/04/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/28/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/05/2014,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/10/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/15/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/20/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/04/2015,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/09/2015,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/20/2015,Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/04/2016,Brenton Butterfield - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Chain Management Planning Project Phase 7
+06/02/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/21/2016,Data Collectors,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Chain Management Planning Project Phase 7
+07/21/2016,Data Collectors,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Chain Management Planning Project Phase 7
+07/21/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+07/30/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/14/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+08/24/2016,Data Collectors,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Chain Management Planning Project Phase 7
+09/18/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+11/02/2016,Data Collectors,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Chain Management Planning Project Phase 7
+08/05/2017,Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+09/08/2017,Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe

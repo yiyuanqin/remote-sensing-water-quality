@@ -1,0 +1,1053 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Chetac,Sawyer,2113300,NO,58,,583109,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190081,07/14/1996,4,NO,1.2,,,57,,,GAUGE,25,CLEAR,BLUE,2-Very minor aesthetic problems
+8190081,08/06/1996,3,NO,0.9,,,61,,,15',15,,GREEN,4-Would not swim but boating OK (algae)
+8189473,05/23/1998,12,NO,3.6,,,41,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189473,06/07/1998,9.5,NO,2.9,,,45,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189473,06/22/1998,8,NO,2.4,,,47,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189473,07/09/1998,6.75,NO,2.1,,,50,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189473,07/24/1998,3.25,NO,1,,,60,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189473,08/11/1998,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189473,08/29/1998,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189473,09/16/1998,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189473,05/24/1999,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189473,06/20/1999,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189473,07/21/1999,3.25,NO,1,,,60,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189473,08/24/1999,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189473,09/29/1999,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000017,04/25/2000,8.8,,2.7,,18,46,51,,,,,,
+8189473,06/26/2000,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000017,06/27/2000,5.2,,1.6,14,45,53,58,55,,,,,
+8189473,07/10/2000,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+7000017,07/18/2000,3,,0.9,56,85,61,63,65,,,,,
+7000017,08/11/2000,1.7,,0.5,183,155,69,67,74,,,,,
+8189473,08/12/2000,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189473,08/28/2000,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189473,09/13/2000,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189473,06/29/2001,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189473,07/14/2001,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189473,08/16/2001,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189278,05/16/2002,5.5,NO,1.7,,,53,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8189473,05/27/2002,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189278,06/22/2002,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189278,07/22/2002,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189278,08/25/2002,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189278,10/27/2002,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+41888267,05/17/2003,,,,,23,,52,,,,,,
+8189473,06/04/2003,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189278,06/25/2003,,,,6.91,45,,58,49,,,,,
+1,07/31/2003,,,,52.3,51,,59,65,,,,,
+1,08/24/2003,,,,113,131,,66,71,,,,,
+8189278,06/20/2004,,,,12,33,,55,54,,,,,
+8189278,07/08/2004,,,,18.5,49,,58,57,,,,,
+16097346,07/20/2006,,,,67,88,,63,67,,,,,
+16097346,08/20/2006,,,,117,169,,68,71,,,,,
+16097346,10/03/2006,,,,51.8,140,,66,65,,,,,
+16097346,04/18/2007,5.25,NO,1.6,,51,53,59,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+16097346,05/13/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+16097346,05/31/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+16097346,06/15/2007,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,06/15/2007,,,,34.7,33,,55,62,,,,,
+16097346,07/04/2007,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+16097346,07/25/2007,2.75,NO,0.8,49.3,112,63,65,64,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/22/2007,1.5,NO,0.5,81.7,175,71,68,68,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16097346,05/05/2008,5.5,NO,1.7,,41,53,57,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+17894913,05/14/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17894913,05/21/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17894913,06/02/2008,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16097346,06/18/2008,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097346,06/19/2008,,,,9.49,30,,54,52,,,,,
+17894913,07/03/2008,5.5,,1.7,,,53,,,,,,,
+17894913,07/15/2008,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/23/2008,3.5,NO,1.1,36.7,50,59,58,62,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/31/2008,4,,1.2,,,57,,,,,,,
+17894913,08/13/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16097346,08/26/2008,3,NO,0.9,62,94,61,63,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+17894913,09/08/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,09/17/2008,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,10/05/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,05/03/2009,,,,,25,,53,,,,,,
+18897859,05/03/2009,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18897859,05/08/2009,15.33,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17894913,06/03/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097346,06/24/2009,,,,2.23,21,,52,41,,,,,
+18897859,06/24/2009,14.2,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+17894913,07/01/2009,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+17894913,07/07/2009,8.1,NO,2.5,,,47,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+17894913,07/23/2009,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/30/2009,,,,27.1,49,,58,60,,,,,
+18897859,08/12/2009,5.4,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,08/24/2009,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,09/02/2009,,,,84.6,98,,64,68,,,,,
+17894913,09/02/2009,2.2,NO,0.7,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+17894913,09/14/2009,1.9,NO,0.6,,,68,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18897859,09/30/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+17894913,10/13/2009,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,04/14/2010,,,,,43,,57,,,,,,
+18897859,04/14/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18897859,05/05/2010,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18897859,05/19/2010,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18897859,05/29/2010,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18897859,06/07/2010,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16097346,06/17/2010,,,,11.9,30,,54,54,,,,,
+18897859,06/17/2010,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18897859,06/22/2010,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799198,07/08/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/19/2010,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/28/2010,,,,54.5,84,,62,65,,,,,
+16097346,08/08/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/09/2010,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/22/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,09/05/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,09/13/2010,3.25,NO,1,41.3,85,60,63,63,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,05/09/2011,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+16097346,05/10/2011,,,,,36,,56,,,,,,
+36799197,05/17/2011,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16097346,06/05/2011,12.33,NO,3.7,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097346,06/13/2011,10.33,NO,3.1,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097346,06/28/2011,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18897859,06/28/2011,,,,4.62,35,,56,46,,,,,
+16097346,07/03/2011,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+17894913,07/11/2011,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+17894913,07/25/2011,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,07/25/2011,,,,53.6,57,,59,65,,,,,
+36799197,08/03/2011,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,08/11/2011,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799197,08/18/2011,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,08/26/2011,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18897859,09/05/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18897859,09/07/2011,,,,86.7,136,,66,69,,,,,
+18897859,09/12/2011,2,YES,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,09/21/2011,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,10/04/2011,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,10/12/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,04/03/2012,4.5,NO,1.4,,50,55,58,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16097346,05/02/2012,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,05/14/2012,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+36799197,05/22/2012,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,06/01/2012,4.75,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+36799197,06/10/2012,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16097346,06/25/2012,2.85,NO,0.9,62.5,69,62,61,66,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/04/2012,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/12/2012,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/20/2012,2.33,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/23/2012,,,,91.6,102,,64,69,,,,,
+16097346,07/28/2012,2.33,NO,0.7,,,65,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,08/05/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,08/13/2012,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,08/21/2012,1.7,NO,0.5,,,69,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,08/29/2012,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,09/06/2012,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,09/10/2012,,,,111,184,,69,70,,,,,
+36799197,09/14/2012,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799197,09/22/2012,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,09/30/2012,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,05/19/2013,5,NO,1.5,,51.7,54,59,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799197,05/29/2013,4.33,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+36799198,06/05/2013,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36799198,06/13/2013,4.9,NO,1.5,,,54,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+16097346,06/26/2013,,,,29.1,45.1,,58,60,,,,,
+36799197,06/26/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/04/2013,2.9,NO,0.9,,,62,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/08/2013,2.4,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/15/2013,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/23/2013,1.8,NO,0.5,117,136,69,66,71,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/31/2013,1.7,NO,0.5,,,69,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/08/2013,1.7,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799198,08/16/2013,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799198,08/24/2013,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16097346,08/29/2013,,,,108,155,,67,70,,,,,
+36799197,09/25/2013,1.5,NO,0.5,,,71,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,10/03/2013,1.7,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36799198,05/15/2014,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16097346,05/21/2014,,NO,,,44.2,,57,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,05/23/2014,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799198,05/31/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,06/08/2014,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+16097346,06/16/2014,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,06/24/2014,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16097346,06/26/2014,,,,20.7,32.4,,55,58,,,,,
+36799197,07/02/2014,3.25,NO,1,,,60,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000126,07/09/2014,,,,46.6,65.2,,60,64,,,,,
+16097346,07/10/2014,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/10/2014,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/02/2014,2.1,NO,0.6,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/04/2014,,,,134,77.3,,62,72,,,,,
+36799197,08/10/2014,2.1,NO,0.6,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,08/18/2014,2.1,NO,0.6,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/26/2014,2.2,NO,0.7,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,08/27/2014,,,,94.7,130,,66,69,,,,,
+36799197,09/03/2014,2.3,NO,0.7,,,65,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,04/15/2015,4.7,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,04/23/2015,6.2, ,1.9,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16097346,04/27/2015,,,,,46.2,,58,,,,,,
+36799197,05/02/2015,8.16,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36799197,05/20/2015,7.3,NO,2.2,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36799197,05/31/2015,6.8,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16097346,06/10/2015,7.3,NO,2.2,,,48,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097346,06/18/2015,5.8,NO,1.8,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16097346,06/24/2015,4,NO,1.2,17.7,40.7,57,57,57,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+36799197,06/27/2015,3.8,NO,1.2,,,58,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/05/2015,3.75,NO,1.1,,,58,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/13/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/21/2015,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,07/29/2015,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/30/2015,,,,76.2,117,,65,68,,,,,
+36799197,08/12/2015,1.8,NO,0.5,,,69,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,08/26/2015,1.9,NO,0.6,,,68,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,09/01/2015,,,,49.6,81.5,,62,64,,,,,
+36799197,09/01/2015,2.2,NO,0.7,,,66,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,09/10/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799197,09/22/2015,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,04/17/2016,6.5,NO,2,,28.2,50,54,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+36799197,05/19/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36799197,06/08/2016,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36799197,06/23/2016,4.8,NO,1.5,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16097346,06/28/2016,4.25,NO,1.3,29.3,55.3,56,59,60,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+16097346,07/08/2016,3.8,NO,1.2,,,58,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097346,07/16/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+130968898,08/01/2016,2.3,NO,0.7,59.1,63.2,65,60,66,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+130968898,08/29/2016,2.4,NO,0.7,73.8,88.5,65,63,67,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+130968898,05/09/2017,14.5,NO,4.4,,25,39,53,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+36799198,06/27/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+130968898,06/27/2017,,,,24.9,44.2,,57,59,,,,,
+130968898,07/25/2017,2.5,NO,0.8,58.7,51.9,64,59,66,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+130968898,08/28/2017,2.75,NO,0.8,64.8,81.9,63,62,66,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/25/2000,,,11.9,C,12.0,MG/L
+06/27/2000,,,18.6,C,0.7,MG/L
+07/18/2000,,,20.7,C,0.0,MG/L
+08/11/2000,,,22.4,C,0.0,MG/L
+05/16/2002,0,FEET,50,DEGREES F,,
+05/16/2002,3,FEET,50,DEGREES F,9,MG/L
+05/16/2002,6,FEET,50,DEGREES F,9,MG/L
+05/16/2002,9,FEET,50,DEGREES F,9,MG/L
+05/16/2002,12,FEET,50,DEGREES F,9,MG/L
+05/16/2002,15,FEET,49,DEGREES F,8,MG/L
+05/16/2002,18,FEET,49,DEGREES F,8,MG/L
+06/22/2002,0,FEET,71,DEGREES F,9,MG/L
+06/22/2002,3,FEET,71,DEGREES F,9,MG/L
+06/22/2002,6,FEET,71,DEGREES F,9,MG/L
+06/22/2002,9,FEET,71,DEGREES F,9,MG/L
+06/22/2002,12,FEET,71,DEGREES F,7,MG/L
+06/22/2002,15,FEET,71,DEGREES F,7,MG/L
+06/22/2002,18,FEET,68,DEGREES F,6,MG/L
+07/22/2002,0,FEET,77,DEGREES F,6,MG/L
+07/22/2002,3,FEET,77,DEGREES F,7,MG/L
+07/22/2002,6,FEET,77,DEGREES F,7,MG/L
+07/22/2002,9,FEET,77,DEGREES F,5,MG/L
+07/22/2002,12,FEET,77,DEGREES F,5,MG/L
+07/22/2002,15,FEET,76,DEGREES F,3,MG/L
+07/22/2002,18,FEET,72,DEGREES F,3,MG/L
+08/25/2002,0,FEET,78,DEGREES F,7,MG/L
+08/25/2002,3,FEET,78,DEGREES F,8,MG/L
+08/25/2002,6,FEET,78,DEGREES F,8,MG/L
+08/25/2002,9,FEET,78,DEGREES F,5,MG/L
+08/25/2002,12,FEET,78,DEGREES F,3,MG/L
+08/25/2002,15,FEET,77,DEGREES F,2,MG/L
+08/25/2002,18,FEET,72,DEGREES F,1,MG/L
+10/27/2002,0,FEET,42,DEGREES F,5,MG/L
+10/27/2002,3,FEET,42,DEGREES F,5,MG/L
+10/27/2002,6,FEET,42,DEGREES F,5,MG/L
+10/27/2002,9,FEET,42,DEGREES F,5,MG/L
+10/27/2002,12,FEET,42,DEGREES F,5,MG/L
+10/27/2002,15,FEET,41,DEGREES F,5,MG/L
+10/27/2002,18,FEET,41,DEGREES F,5,MG/L
+04/18/2007,0,FEET,46.2,DEGREES F,,
+04/18/2007,3,FEET,45.8,DEGREES F,6,MG/L
+04/18/2007,6,FEET,45.8,DEGREES F,,
+04/18/2007,9,FEET,45.6,DEGREES F,7,MG/L
+04/18/2007,12,FEET,45.6,DEGREES F,,
+04/18/2007,15,FEET,45.6,DEGREES F,10,MG/L
+04/18/2007,18,FEET,45.6,DEGREES F,,
+05/13/2007,0,FEET,63.3,DEGREES F,,
+05/13/2007,3,FEET,62.5,DEGREES F,4,MG/L
+05/13/2007,6,FEET,60.8,DEGREES F,,
+05/13/2007,9,FEET,60.2,DEGREES F,6,MG/L
+05/13/2007,12,FEET,60,DEGREES F,,
+05/13/2007,15,FEET,60,DEGREES F,,
+06/15/2007,0,FEET,77.3,DEGREES F,,
+06/15/2007,3,FEET,77.1,DEGREES F,8,MG/L
+06/15/2007,6,FEET,75.5,DEGREES F,,
+06/15/2007,9,FEET,70.5,DEGREES F,5,MG/L
+06/15/2007,12,FEET,67.2,DEGREES F,,
+06/15/2007,15,FEET,66.2,DEGREES F,3,MG/L
+07/25/2007,0,FEET,80.9,DEGREES F,,
+07/25/2007,3,FEET,79.8,DEGREES F,9,MG/L
+07/25/2007,6,FEET,74.4,DEGREES F,,
+07/25/2007,9,FEET,73.5,DEGREES F,6,MG/L
+07/25/2007,12,FEET,73.2,DEGREES F,,
+07/25/2007,15,FEET,72.8,DEGREES F,4,MG/L
+08/22/2007,0,FEET,71.8,DEGREES F,,
+08/22/2007,3,FEET,69.2,DEGREES F,8,MG/L
+08/22/2007,6,FEET,68.9,DEGREES F,,
+08/22/2007,9,FEET,68.7,DEGREES F,7,MG/L
+08/22/2007,12,FEET,68.7,DEGREES F,,
+08/22/2007,15,FEET,68.5,DEGREES F,5,MG/L
+05/05/2008,0,FEET,48.6,DEGREES F,,
+05/05/2008,3,FEET,48.5,DEGREES F,4,MG/L
+05/05/2008,6,FEET,46.9,DEGREES F,,
+05/05/2008,9,FEET,46.4,DEGREES F,3,MG/L
+05/05/2008,12,FEET,46.2,DEGREES F,,
+05/05/2008,15,FEET,46.2,DEGREES F,3,MG/L
+06/18/2008,0,FEET,65.8,DEGREES F,5,MG/L
+06/18/2008,3,FEET,65.6,DEGREES F,,
+06/18/2008,6,FEET,65.6,DEGREES F,,
+06/18/2008,9,FEET,65.4,DEGREES F,6,MG/L
+06/18/2008,12,FEET,65.1,DEGREES F,,
+06/18/2008,15,FEET,65,DEGREES F,6,MG/L
+07/23/2008,0,FEET,78.4,DEGREES F,,
+07/23/2008,3,FEET,77.6,DEGREES F,6,MG/L
+07/23/2008,6,FEET,75.9,DEGREES F,,
+07/23/2008,9,FEET,75,DEGREES F,5,MG/L
+07/23/2008,12,FEET,74.3,DEGREES F,,
+07/23/2008,15,FEET,73.2,DEGREES F,5,MG/L
+08/26/2008,0,FEET,73.2,DEGREES F,,
+08/26/2008,3,FEET,72.5,DEGREES F,4,MG/L
+08/26/2008,6,FEET,71.7,DEGREES F,,
+08/26/2008,9,FEET,71.2,DEGREES F,3,MG/L
+08/26/2008,12,FEET,71.4,DEGREES F,,
+08/26/2008,15,FEET,71.2,DEGREES F,3,MG/L
+10/05/2008,0,FEET,54,DEGREES F,,
+10/05/2008,3,FEET,54.6,DEGREES F,8,MG/L
+10/05/2008,6,FEET,54.1,DEGREES F,,
+10/05/2008,9,FEET,53.9,DEGREES F,7,MG/L
+10/05/2008,12,FEET,53.9,DEGREES F,,
+10/05/2008,15,FEET,53.9,DEGREES F,8,MG/L
+05/03/2009,0,FEET,53.7,DEGREES F,,
+05/03/2009,3,FEET,52.8,DEGREES F,,
+05/03/2009,6,FEET,52.8,DEGREES F,,
+05/03/2009,9,FEET,52.7,DEGREES F,,
+05/03/2009,12,FEET,52.7,DEGREES F,,
+05/03/2009,15,FEET,52.7,DEGREES F,,
+06/24/2009,0,FEET,77.9,DEGREES F,,
+06/24/2009,3,FEET,77.5,DEGREES F,,
+06/24/2009,6,FEET,76.8,DEGREES F,,
+06/24/2009,9,FEET,73.7,DEGREES F,,
+06/24/2009,12,FEET,71.4,DEGREES F,,
+06/24/2009,15,FEET,65.4,DEGREES F,,
+07/07/2009,0,FEET,74.4,DEGREES F,,
+07/07/2009,3,FEET,73.4,DEGREES F,,
+07/07/2009,6,FEET,72.3,DEGREES F,,
+07/07/2009,9,FEET,71.7,DEGREES F,,
+07/07/2009,12,FEET,68.3,DEGREES F,,
+07/07/2009,15,FEET,66.9,DEGREES F,,
+07/07/2009,18,FEET,65.6,DEGREES F,,
+07/23/2009,0,FEET,73.7,DEGREES F,,
+07/23/2009,3,FEET,70.8,DEGREES F,,
+07/23/2009,6,FEET,70,DEGREES F,,
+07/23/2009,9,FEET,68.7,DEGREES F,,
+07/23/2009,12,FEET,68.5,DEGREES F,,
+07/23/2009,15,FEET,67.8,DEGREES F,,
+09/02/2009,0,FEET,69.5,DEGREES F,,
+09/02/2009,3,FEET,67.4,DEGREES F,,
+09/02/2009,6,FEET,67.1,DEGREES F,,
+09/02/2009,9,FEET,66.9,DEGREES F,,
+09/02/2009,12,FEET,66.7,DEGREES F,,
+09/02/2009,15,FEET,66.7,DEGREES F,,
+09/02/2009,18,FEET,66.2,DEGREES F,,
+04/14/2010,0,FEET,50.7,DEGREES F,,
+04/14/2010,3,FEET,50.3,DEGREES F,,
+04/14/2010,6,FEET,50,DEGREES F,,
+04/14/2010,9,FEET,50,DEGREES F,,
+04/14/2010,12,FEET,50,DEGREES F,,
+04/14/2010,15,FEET,49.4,DEGREES F,,
+05/19/2010,0,FEET,66,DEGREES F,,
+05/19/2010,3,FEET,64,DEGREES F,,
+05/19/2010,6,FEET,60.5,DEGREES F,,
+05/19/2010,9,FEET,55.6,DEGREES F,,
+05/19/2010,12,FEET,54.4,DEGREES F,,
+05/19/2010,15,FEET,53.9,DEGREES F,,
+05/29/2010,0,FEET,73.7,DEGREES F,,
+05/29/2010,3,FEET,73.4,DEGREES F,,
+05/29/2010,6,FEET,70.1,DEGREES F,,
+05/29/2010,9,FEET,68.3,DEGREES F,,
+05/29/2010,12,FEET,64.4,DEGREES F,,
+05/29/2010,15,FEET,60.6,DEGREES F,,
+06/17/2010,0,FEET,68,DEGREES F,,
+06/17/2010,3,FEET,67.8,DEGREES F,,
+06/17/2010,6,FEET,67.6,DEGREES F,,
+06/17/2010,9,FEET,66.9,DEGREES F,,
+06/17/2010,12,FEET,66.2,DEGREES F,,
+06/17/2010,15,FEET,64.2,DEGREES F,,
+07/08/2010,0,FEET,80.4,DEGREES F,,
+07/08/2010,3,FEET,80.4,DEGREES F,,
+07/08/2010,6,FEET,79.8,DEGREES F,,
+07/08/2010,9,FEET,75,DEGREES F,,
+07/08/2010,12,FEET,74.6,DEGREES F,,
+07/08/2010,15,FEET,73.4,DEGREES F,,
+07/08/2010,18,FEET,70.3,DEGREES F,,
+09/13/2010,0,FEET,65.3,DEGREES F,,
+09/13/2010,3,FEET,65.3,DEGREES F,,
+09/13/2010,6,FEET,65.3,DEGREES F,,
+09/13/2010,9,FEET,65.1,DEGREES F,,
+09/13/2010,12,FEET,64.9,DEGREES F,,
+09/13/2010,15,FEET,64.7,DEGREES F,,
+09/13/2010,18,FEET,64.5,DEGREES F,,
+05/09/2011,0,FEET,51,DEGREES F,,
+05/09/2011,3,FEET,51,DEGREES F,,
+05/09/2011,6,FEET,51,DEGREES F,,
+05/09/2011,9,FEET,50.7,DEGREES F,,
+05/09/2011,12,FEET,50.5,DEGREES F,,
+05/09/2011,15,FEET,50,DEGREES F,,
+05/17/2011,0,FEET,55.4,DEGREES F,,
+05/17/2011,3,FEET,54.8,DEGREES F,,
+05/17/2011,6,FEET,54.3,DEGREES F,,
+05/17/2011,9,FEET,53.9,DEGREES F,,
+05/17/2011,12,FEET,53.7,DEGREES F,,
+05/17/2011,15,FEET,53,DEGREES F,,
+06/28/2011,0,FEET,70.5,DEGREES F,,
+06/28/2011,3,FEET,70.1,DEGREES F,,
+06/28/2011,6,FEET,69.9,DEGREES F,,
+06/28/2011,9,FEET,69.6,DEGREES F,,
+06/28/2011,12,FEET,68.9,DEGREES F,,
+06/28/2011,15,FEET,68.3,DEGREES F,,
+06/28/2011,18,FEET,66.3,DEGREES F,,
+07/11/2011,0,FEET,80.2,DEGREES F,,
+07/11/2011,3,FEET,80,DEGREES F,,
+07/11/2011,6,FEET,80,DEGREES F,,
+07/11/2011,9,FEET,79.8,DEGREES F,,
+07/11/2011,12,FEET,78.8,DEGREES F,,
+07/11/2011,15,FEET,74.6,DEGREES F,,
+07/11/2011,18,FEET,70.5,DEGREES F,,
+07/25/2011,0,FEET,78.4,DEGREES F,,
+07/25/2011,3,FEET,78.2,DEGREES F,,
+07/25/2011,6,FEET,78,DEGREES F,,
+07/25/2011,9,FEET,78,DEGREES F,,
+07/25/2011,12,FEET,77.7,DEGREES F,,
+07/25/2011,15,FEET,77,DEGREES F,,
+07/25/2011,18,FEET,76.4,DEGREES F,,
+08/11/2011,0,FEET,76.4,DEGREES F,,
+08/11/2011,3,FEET,76.2,DEGREES F,,
+08/11/2011,6,FEET,75.9,DEGREES F,,
+08/11/2011,9,FEET,75.3,DEGREES F,,
+08/11/2011,12,FEET,74.6,DEGREES F,,
+08/11/2011,15,FEET,74.1,DEGREES F,,
+08/11/2011,19,FEET,70.8,DEGREES F,,
+04/03/2012,0,FEET,47.6,DEGREES F,,
+04/03/2012,3,FEET,47.6,DEGREES F,,
+04/03/2012,6,FEET,47.6,DEGREES F,,
+04/03/2012,9,FEET,47.4,DEGREES F,,
+04/03/2012,12,FEET,47.3,DEGREES F,,
+04/03/2012,15,FEET,47.3,DEGREES F,,
+05/02/2012,0,FEET,57.5,DEGREES F,,
+05/14/2012,0,FEET,61.5,DEGREES F,,
+05/22/2012,0,FEET,64.7,DEGREES F,,
+05/22/2012,3,FEET,64.4,DEGREES F,,
+05/22/2012,6,FEET,64.4,DEGREES F,,
+05/22/2012,9,FEET,64.4,DEGREES F,,
+05/22/2012,12,FEET,64.2,DEGREES F,,
+05/22/2012,15,FEET,64.2,DEGREES F,,
+05/22/2012,18,FEET,63.3,DEGREES F,,
+06/25/2012,0,FEET,77.7,DEGREES F,,
+06/25/2012,3,FEET,73.4,DEGREES F,,
+06/25/2012,6,FEET,71.7,DEGREES F,,
+06/25/2012,9,FEET,71.6,DEGREES F,,
+06/25/2012,12,FEET,71.4,DEGREES F,,
+06/25/2012,15,FEET,68.7,DEGREES F,,
+06/25/2012,20,FEET,66.2,DEGREES F,,
+07/20/2012,0,FEET,78,DEGREES F,,
+07/20/2012,3,FEET,77.9,DEGREES F,,
+07/20/2012,6,FEET,77.5,DEGREES F,,
+07/20/2012,9,FEET,77.3,DEGREES F,,
+07/20/2012,12,FEET,77.3,DEGREES F,,
+07/20/2012,15,FEET,75.9,DEGREES F,,
+07/20/2012,19,FEET,71.4,DEGREES F,,
+08/29/2012,0,FEET,68.7,DEGREES F,,
+08/29/2012,3,FEET,68.7,DEGREES F,,
+08/29/2012,6,FEET,68.7,DEGREES F,,
+08/29/2012,9,FEET,68.7,DEGREES F,,
+08/29/2012,12,FEET,68.7,DEGREES F,,
+08/29/2012,15,FEET,68.5,DEGREES F,,
+08/29/2012,19,FEET,68.3,DEGREES F,,
+09/06/2012,0,FEET,68.7,DEGREES F,,
+09/06/2012,3,FEET,68.7,DEGREES F,,
+09/06/2012,6,FEET,68.7,DEGREES F,,
+09/06/2012,9,FEET,68.7,DEGREES F,,
+09/06/2012,12,FEET,68.7,DEGREES F,,
+09/06/2012,15,FEET,68.5,DEGREES F,,
+09/06/2012,19,FEET,68.3,DEGREES F,,
+05/19/2013,0,FEET,56.4,DEGREES F,,
+05/19/2013,3,FEET,56.1,DEGREES F,,
+05/19/2013,6,FEET,55.7,DEGREES F,,
+05/19/2013,9,FEET,54.8,DEGREES F,,
+05/19/2013,12,FEET,51.7,DEGREES F,,
+05/19/2013,15,FEET,50,DEGREES F,,
+05/19/2013,20,FEET,49.2,DEGREES F,,
+06/26/2013,0,FEET,76.4,DEGREES F,,
+06/26/2013,3,FEET,75.5,DEGREES F,,
+06/26/2013,6,FEET,72.3,DEGREES F,,
+06/26/2013,9,FEET,70.8,DEGREES F,,
+06/26/2013,12,FEET,69.6,DEGREES F,,
+06/26/2013,15,FEET,67.4,DEGREES F,,
+06/26/2013,19,FEET,62.4,DEGREES F,,
+07/04/2013,0,FEET,79.5,DEGREES F,,
+07/23/2013,0,FEET,75.5,DEGREES F,,
+07/23/2013,3,FEET,75.5,DEGREES F,,
+07/23/2013,6,FEET,75.2,DEGREES F,,
+07/23/2013,9,FEET,74.6,DEGREES F,,
+07/23/2013,12,FEET,74.4,DEGREES F,,
+07/23/2013,15,FEET,74.1,DEGREES F,,
+07/31/2013,0,FEET,73.5,DEGREES F,,
+07/31/2013,3,FEET,71.6,DEGREES F,,
+07/31/2013,6,FEET,70.5,DEGREES F,,
+07/31/2013,9,FEET,70.1,DEGREES F,,
+07/31/2013,12,FEET,69.8,DEGREES F,,
+07/31/2013,15,FEET,69.2,DEGREES F,,
+07/31/2013,18,FEET,68,DEGREES F,,
+08/24/2013,0,FEET,78.6,DEGREES F,,
+08/24/2013,3,FEET,78.6,DEGREES F,,
+08/24/2013,6,FEET,77.1,DEGREES F,,
+08/24/2013,9,FEET,76.2,DEGREES F,,
+08/24/2013,12,FEET,75.2,DEGREES F,,
+08/24/2013,15,FEET,74.4,DEGREES F,,
+08/24/2013,18,FEET,73.7,DEGREES F,,
+09/25/2013,0,FEET,64.2,DEGREES F,,
+09/25/2013,3,FEET,63.6,DEGREES F,,
+09/25/2013,6,FEET,63.6,DEGREES F,,
+09/25/2013,9,FEET,63.6,DEGREES F,,
+09/25/2013,12,FEET,63.6,DEGREES F,,
+09/25/2013,15,FEET,63.6,DEGREES F,,
+09/25/2013,18,FEET,63.3,DEGREES F,,
+05/23/2014,0,FEET,55.5,DEGREES F,,
+05/23/2014,3,FEET,55.2,DEGREES F,,
+05/23/2014,6,FEET,55.2,DEGREES F,,
+05/23/2014,9,FEET,55.2,DEGREES F,,
+05/23/2014,12,FEET,55.2,DEGREES F,,
+05/23/2014,15,FEET,54.3,DEGREES F,,
+05/23/2014,17,FEET,52.1,DEGREES F,,
+05/23/2014,18,FEET,51.8,DEGREES F,,
+06/08/2014,0,FEET,71,DEGREES F,,
+06/08/2014,3,FEET,70.5,DEGREES F,,
+06/08/2014,6,FEET,68,DEGREES F,,
+06/08/2014,9,FEET,67.8,DEGREES F,,
+06/08/2014,12,FEET,67.4,DEGREES F,,
+06/08/2014,15,FEET,64.2,DEGREES F,,
+06/08/2014,18,FEET,55.2,DEGREES F,,
+06/24/2014,0,FEET,74.1,DEGREES F,,
+06/24/2014,3,FEET,72.8,DEGREES F,,
+06/24/2014,6,FEET,71.6,DEGREES F,,
+06/24/2014,9,FEET,68.9,DEGREES F,,
+06/24/2014,12,FEET,68.3,DEGREES F,,
+06/24/2014,15,FEET,67.2,DEGREES F,,
+06/24/2014,18,FEET,63.3,DEGREES F,,
+07/10/2014,0,FEET,74.4,DEGREES F,,
+07/10/2014,3,FEET,74.1,DEGREES F,,
+07/10/2014,6,FEET,73.2,DEGREES F,,
+07/10/2014,9,FEET,71.6,DEGREES F,,
+07/10/2014,12,FEET,71.2,DEGREES F,,
+07/10/2014,15,FEET,71,DEGREES F,,
+07/10/2014,18,FEET,70.1,DEGREES F,,
+07/10/2014,21,FEET,69.4,DEGREES F,,
+07/10/2014,24,FEET,62.6,DEGREES F,,
+08/02/2014,0,FEET,78.2,DEGREES F,,
+08/02/2014,3,FEET,77.7,DEGREES F,,
+08/02/2014,6,FEET,75.2,DEGREES F,,
+08/02/2014,9,FEET,74.8,DEGREES F,,
+08/02/2014,12,FEET,74.3,DEGREES F,,
+08/02/2014,15,FEET,71,DEGREES F,,
+08/02/2014,18,FEET,69.4,DEGREES F,,
+08/26/2014,0,FEET,75.2,DEGREES F,,
+08/26/2014,3,FEET,74.4,DEGREES F,,
+08/26/2014,6,FEET,73.4,DEGREES F,,
+08/26/2014,9,FEET,72.8,DEGREES F,,
+08/26/2014,12,FEET,72.6,DEGREES F,,
+08/26/2014,15,FEET,72.5,DEGREES F,,
+08/26/2014,18,FEET,71.7,DEGREES F,,
+04/15/2015,0,FEET,48.9,DEGREES F,,
+04/15/2015,3,FEET,48.5,DEGREES F,,
+04/15/2015,6,FEET,48.5,DEGREES F,,
+04/15/2015,9,FEET,48.5,DEGREES F,,
+04/15/2015,12,FEET,48.3,DEGREES F,,
+04/15/2015,15,FEET,48.2,DEGREES F,,
+04/15/2015,19,FEET,46.7,DEGREES F,,
+05/02/2015,0,FEET,56.3,DEGREES F,,
+05/02/2015,6,FEET,55.7,DEGREES F,,
+05/02/2015,12,FEET,55.4,DEGREES F,,
+05/02/2015,18,FEET,52.7,DEGREES F,,
+06/24/2015,0,FEET,72.3,DEGREES F,,
+06/24/2015,3,FEET,72.3,DEGREES F,,
+06/24/2015,6,FEET,71.2,DEGREES F,,
+06/24/2015,9,FEET,70.1,DEGREES F,,
+06/24/2015,12,FEET,69.4,DEGREES F,,
+06/24/2015,15,FEET,68.3,DEGREES F,,
+06/24/2015,19,FEET,66.5,DEGREES F,,
+07/29/2015,0,FEET,76.2,DEGREES F,,
+07/29/2015,3,FEET,75.9,DEGREES F,,
+07/29/2015,6,FEET,75.3,DEGREES F,,
+07/29/2015,9,FEET,75.2,DEGREES F,,
+07/29/2015,12,FEET,75,DEGREES F,,
+07/29/2015,15,FEET,75,DEGREES F,,
+07/29/2015,18,FEET,74.1,DEGREES F,,
+09/01/2015,0,FEET,69.8,DEGREES F,,
+09/01/2015,3,FEET,69.6,DEGREES F,,
+09/01/2015,6,FEET,69,DEGREES F,,
+09/01/2015,9,FEET,68.5,DEGREES F,,
+09/01/2015,12,FEET,68.3,DEGREES F,,
+09/01/2015,15,FEET,67.8,DEGREES F,,
+09/01/2015,19,FEET,66.5,DEGREES F,,
+09/22/2015,0,FEET,67.6,DEGREES F,,
+09/22/2015,3,FEET,67.2,DEGREES F,,
+09/22/2015,6,FEET,66,DEGREES F,,
+09/22/2015,9,FEET,65.6,DEGREES F,,
+09/22/2015,12,FEET,65.6,DEGREES F,,
+09/22/2015,15,FEET,65.6,DEGREES F,,
+09/22/2015,18,FEET,65.6,DEGREES F,,
+04/17/2016,0,FEET,47.3,DEGREES F,,
+04/17/2016,3,FEET,47.1,DEGREES F,,
+04/17/2016,6,FEET,45.8,DEGREES F,,
+04/17/2016,9,FEET,45.6,DEGREES F,,
+04/17/2016,12,FEET,45.5,DEGREES F,,
+04/17/2016,15,FEET,45.3,DEGREES F,,
+04/17/2016,18,FEET,44.4,DEGREES F,,
+05/19/2016,0,FEET,59.3,DEGREES F,,
+06/28/2016,0,FEET,78.1,DEGREES F,,
+06/28/2016,3,FEET,73.2,DEGREES F,,
+06/28/2016,6,FEET,72.5,DEGREES F,,
+06/28/2016,9,FEET,72.3,DEGREES F,,
+06/28/2016,12,FEET,71.9,DEGREES F,,
+06/28/2016,15,FEET,71.7,DEGREES F,,
+06/28/2016,18,FEET,70.1,DEGREES F,,
+08/01/2016,0,FEET,76.8,DEGREES F,,
+08/01/2016,3,FEET,76.6,DEGREES F,,
+08/01/2016,6,FEET,76.2,DEGREES F,,
+08/01/2016,9,FEET,74.6,DEGREES F,,
+08/01/2016,12,FEET,74.6,DEGREES F,,
+08/01/2016,15,FEET,74.1,DEGREES F,,
+08/01/2016,18,FEET,70.8,DEGREES F,,
+08/29/2016,0.5,FEET,72.6,DEGREES F,,
+08/29/2016,3,FEET,72.6,DEGREES F,,
+08/29/2016,6,FEET,71.4,DEGREES F,,
+08/29/2016,9,FEET,71.4,DEGREES F,,
+08/29/2016,12,FEET,71,DEGREES F,,
+08/29/2016,15,FEET,70.8,DEGREES F,,
+08/29/2016,18,FEET,69.3,DEGREES F,,
+05/09/2017,3,FEET,54.5,DEGREES F,,
+05/09/2017,6,FEET,54.3,DEGREES F,,
+05/09/2017,9,FEET,54.1,DEGREES F,,
+05/09/2017,12,FEET,53.7,DEGREES F,,
+05/09/2017,15,FEET,53,DEGREES F,,
+05/09/2017,18,FEET,52.8,DEGREES F,,
+05/09/2017,21,FEET,52.3,DEGREES F,,
+06/27/2017,3,FEET,68.3,DEGREES F,,
+06/27/2017,6,FEET,67.8,DEGREES F,,
+06/27/2017,9,FEET,67.4,DEGREES F,,
+06/27/2017,12,FEET,67.4,DEGREES F,,
+06/27/2017,15,FEET,67.2,DEGREES F,,
+06/27/2017,18,FEET,65.6,DEGREES F,,
+06/27/2017,21,FEET,64.7,DEGREES F,,
+07/25/2017,3,FEET,74.1,DEGREES F,,
+07/25/2017,6,FEET,74.1,DEGREES F,,
+07/25/2017,9,FEET,73.9,DEGREES F,,
+07/25/2017,12,FEET,73.7,DEGREES F,,
+07/25/2017,15,FEET,71.7,DEGREES F,,
+07/25/2017,18,FEET,69.8,DEGREES F,,
+07/25/2017,21,FEET,68.5,DEGREES F,,
+08/28/2017,3,FEET,66.9,DEGREES F,,
+08/28/2017,6,FEET,66.9,DEGREES F,,
+08/28/2017,9,FEET,66.9,DEGREES F,,
+08/28/2017,12,FEET,66.9,DEGREES F,,
+08/28/2017,15,FEET,66.9,DEGREES F,,
+08/28/2017,18,FEET,64,DEGREES F,,
+08/28/2017,21,FEET,62.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/27/2002,ref storet 583095
+
+    
+10/27/2002,Overcast day.  Temperature is in the mid-40s.    
+05/17/2003,TOP    
+06/04/2003,Sunny- wind light + variable
+
+    
+06/25/2003,BOTTOM    
+07/31/2003,CENTRAL BASIN - TOP    
+08/24/2003,CENTRAL BASIN - BOTTOM    
+06/20/2004,BOTTOM    
+07/08/2004,CENTRAL BASIN - BOTTOM    
+07/20/2006,Scattered clouds
+04/18/2007,Toni Kruse
+Sunny and windy- water fairly clear
+05/13/2007,Clear and sunny.  Breezy
+w/ Toni Kruse
+05/31/2007,Clear sky- light breeze
+06/15/2007,with Jim Ehle
+
+High scattered clouds.  Lake greening up and very weedy.
+07/04/2007,Mostly sunny.  Greened up terribly in last week due to HOT temps-more coming
+07/25/2007,Hot- humid- sunny  Not quite as green as last week
+08/22/2007,Short window of blue sky.  Low wind has green scum on surface over entire area.
+05/05/2008,With Toni Kruse
+Mostly sunny with 10mph NW wind
+05/21/2008,
+Water has cleared up yet again.  Very Nice to see bottom at 8-10'
+06/02/2008,Weed growth has nearly reached the surface.  Water clarity still very good.
+06/18/2008,
+First flakes of algae appeared 6/18.  By 6/20 had greened up considerably.  Curly leaf pond weed and native "grass" weeds extensive to 12' most areas.
+
+with Toni Kruse
+08/26/2008,CLear day.  Lake greened up but not as bad as last year.  Midge hatch 2 weeks later than usual--as everything seems to be this year--after 2 week later ice-out.  
+05/03/2009,with Toni Kruse
+Ice out April 13- But 80% out on April 11
+Loons returned April 11
+05/08/2009,Clear sky- calm wind.
+Deepest secchi reading ever!
+06/03/2009,CLear sky cool temps
+07/23/2009,Starting to green up but nothing floating on top yet.
+Haven't had hot weather so growth is slow.
+08/24/2009,Midge hatch just starting.  2 weeks later than usual as is everything else this year.
+Algae bloom started in earnest August 10.  Drastic drop in water clarity. 
+09/02/2009,Algae getting worse but is not laying on top of water as in past.
+04/14/2010,Ice out 4/1/2010
+First loon heard 4/6/2010
+05/19/2010,Curly leaf nearing surface out to 11' depth.
+05/29/2010,Curly Leaf at surface in several bays
+06/07/2010,Too cloudy on sunday for sat pass
+06/17/2010,Storms early in the week.  Heavy clouds for SAT pass monday.
+06/22/2010,First SAT day all month with clear sky.
+Saw loon with 2 chicks
+05/09/2011,
+Cloudy after days of rain and wind had riled up the water.
+Orioles back 5/6- hummingbirds back 5/7- grosbeaks 5/9
+05/17/2011,Several days of clear- sunny skies cleared the water up greatly.
+06/13/2011,
+Observed loon pair with 2 chicks
+06/28/2011,
+Adult loon with 2 large chicks between the islands
+07/25/2011,Greening up with hot temps.
+
+One of 2 loon chicks previously observed was taken by an eagle. (reported by Thomas Resort owner)
+08/03/2011,Sunny
+Getting real green
+08/11/2011,Mayfly hatch started.  Late due to cool weather earlier with lack of green-until now.
+
+Saw young loon 1/2 grown diving w/parent.
+08/18/2011,High winds may have dispersed the algae as reading was much better than expected.  Fridays sat pass had heavy clouds.
+
+2 Young of the year loons seen fending for themselves.  Adults may be gone.
+09/05/2011,Substantial blue-green algae bloom on west shore surface in the last mile of south end of lake.  Extremely bad smell.  Lack of wind for last week seems to have allowed it to surface.  Had been observed on east side of lake previously.
+04/03/2012,Ice out 3/20/2012
+First loon heard 3/26- but we were gone previous week
+Low secchi reading perhaps due to prolonged high winds
+05/14/2012,Hummigbirds and orioles back 5/4
+Grosbeaks back 5/5
+Geese have goslings swimming already
+06/01/2012,Satellite day--mostly clear skies
+7.2" rain in May w/4.5" last weekend.  High water.
+Starting to green up.
+06/10/2012,Clear sky for satellite day
+06/25/2012,Day before Satellite-clear skies.  6/26 sat day overcast after 1pm
+7.5" rain 6/14 thru 6/20.  Lake very high.
+Saw first loon chick with parents by island.  
+07/04/2012,clear sky-pass day
+07/12/2012,Slight high overcast-pass day
+07/20/2012,Clear 'til noon- t-storms noon to 3p- mostly clear after 3p
+07/28/2012,Clear sky
+08/05/2012,Clear sky all day
+08/13/2012,Heavy overcast all day
+08/21/2012,Clear sky
+08/29/2012,Clear to partly cloudy
+No loons heard for 2 weeks
+09/06/2012,Clear until 1600- then heavy clouds
+09/22/2012,Partly to mostly cloudy
+No loons heard or seen.  Chicks are usually here until ice-in.  Perhaps none survived this year.  Only saw one chick w/parents all summer.
+Hummingbirds gone  the 25.
+09/30/2012,Clear sky all day
+May be the last reading of the yr if next weekend is as predicted
+05/19/2013,Ice out 5/8
+Loons back 4/26--not happy!  Saw 6 loons 5/19 various places
+Grossbeaks back 5/4
+Orioles back 5/13; hummingbirds 5/15
+05/29/2013,Murkyness is disappointing.  Usually 7-8' this early.
+Have found one loon nest so far.  Many loons on lake.
+06/05/2013,Sat day- overcast
+Loon still on nest
+06/13/2013,Clear sky
+Loon off nest
+06/26/2013,Lake greening up quickly in last 4-5 days
+07/04/2013,Saw 2 loons--no chicks
+07/08/2013,7/7 satellite day mainly overcast
+07/15/2013,Sat. day-mostly sunny w/scattered cumulus
+North basin exact same reading
+07/23/2013,Satellite day: Mostly clear sky- passing cumulus clouds
+Secchi 1' 10" centrl and north basin
+Have not seen a loon chick all summer.  One observed nesting.
+07/31/2013,Satellite day-mostly cloudy/rain until 2p- some broken overcast/clouds later.
+Reading was 1' 8"
+
+08/08/2013,Surface temp 74.8
+08/16/2013,Sun in am/partly cloudy afternoon
+North Basin 1' 9"
+08/24/2013,Cloudy am/partly cloudy pm
+North basin 1' 8"
+09/25/2013,Sat. day--Clear sky all day.
+North Basin 1' 8" secchi reading
+10/03/2013,Sat day-mostly overcast
+05/15/2014,Satellite day--heavy overcast
+Ice out May 5
+Loon back April 23
+Orioles may 9- humming birds May 10- Groosbeak may 10
+05/23/2014,Satellite day-clear sky all day
+05/31/2014,Satellit day overcaste
+06/08/2014,Satellite day clear sky with some clouds late
+WOW- clarity has improved greatly!!
+06/16/2014,Clear sky until 1430- then increasing heavy overcast
+06/24/2014,Mainly clear morning with afternoon increasing cumulus clouds.
+Algae starting to show.
+3 loons but no chicks seen
+07/02/2014,Clear day.  Greening up
+07/10/2014,Clear sky
+08/02/2014,Partly cloudy
+08/26/2014,Clear sky
+09/03/2014,Overcast most of the day
+04/15/2015,Ice out April 3.
+Loons heard April 5.  Seen several times including one today.
+05/02/2015,Satellite day--clear sky
+05/20/2015,5/18 sat'lite day heavy overcast
+Found one loon nest Thomas bay
+06/10/2015,Satellite day thurs 6/11/2015 overcast
+06/18/2015,Satellite day fri 6/19/2015 clear with clouds late afternoon
+06/27/2015,Satellite day 6/27--clear sky
+07/05/2015,Satellite day 7/5  High Altitude Haze
+07/21/2015,Mostly clear
+07/29/2015,Mostly clear
+08/12/2015,8-14 satellite day clear
+08/26/2015,9/22/2015 satellite day clear
+09/01/2015,8/30/2015 satellite day cloudy to 11am then mostly clear/hazy
+09/10/2015,9/7 satellite day partly cloudy
+05/19/2016,Partly cloudy
+06/08/2016,Mostly sunny.
+Several dozen fish- mostly crappies- floating dead.  Maybe didn't survive release 
+06/23/2016,Partly cloudy
+06/28/2016,Mostly sunny
+08/29/2016,cloudy- light winds
+
+
+
+
+Start Date,Group Name,Project Name
+07/14/1996,Debbie Cody,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/06/1996,Debbie Cody,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/23/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/07/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/22/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/09/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/24/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/11/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/29/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/16/1998,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/24/1999,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/20/1999,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/21/1999,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/24/1999,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/29/1999,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/25/2000,Craig Roesler,Appraisal Monitoring 2000
+06/26/2000,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/27/2000,Craig Roesler,Appraisal Monitoring 2000
+07/10/2000,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/18/2000,Craig Roesler,Appraisal Monitoring 2000
+08/11/2000,Craig Roesler,Appraisal Monitoring 2000
+08/12/2000,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/28/2000,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/13/2000,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/29/2001,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/14/2001,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/16/2001,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/16/2002,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/27/2002,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/22/2002,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/22/2002,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/25/2002,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/27/2002,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/17/2003,Charles Dykstra- Joe Kehoe,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/04/2003,George Rohde,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/25/2003,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/31/2003,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/24/2003,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/20/2004,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/08/2004,Charles Dykstra,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/20/2006,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/20/2006,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/03/2006,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/18/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/13/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/31/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/15/2007,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/15/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/04/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/25/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/22/2007,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/05/2008,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/14/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/21/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/02/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/18/2008,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/19/2008,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/03/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/15/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/23/2008,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/31/2008,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/13/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/26/2008,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/08/2008,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/17/2008,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/05/2008,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/03/2009,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/03/2009,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/08/2009,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/03/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/24/2009,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/24/2009,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/01/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/07/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/23/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/30/2009,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/12/2009,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/24/2009,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/02/2009,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/02/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/14/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/30/2009,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/13/2009,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/14/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/14/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/05/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/19/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/29/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/07/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/17/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/17/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/22/2010,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/08/2010,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/19/2010,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/28/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/08/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/09/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/22/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/05/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/13/2010,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/09/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/10/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/17/2011,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/05/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/13/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/28/2011,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/28/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/03/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/11/2011,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/25/2011,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/25/2011,Toni Kruse- Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/03/2011,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/11/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/18/2011,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/26/2011,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/05/2011,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/07/2011,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/12/2011,Jim Ehle- Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/21/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/04/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/12/2011,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/03/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/02/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/14/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/22/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/01/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/10/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/25/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/04/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/12/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/20/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/23/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/28/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/05/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/13/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/21/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/29/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/06/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/10/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/14/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/22/2012,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/30/2012,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/19/2013,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/29/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/05/2013,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/13/2013,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/26/2013,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/26/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/04/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/08/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/15/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/23/2013,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/31/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/08/2013,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/16/2013,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/24/2013,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/29/2013,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/25/2013,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+10/03/2013,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/15/2014,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/21/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/23/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/31/2014,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/08/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/16/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/24/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/26/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/02/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/09/2014,STEVEN GREB,Optical  Properties of WI Lakes 2011 - 
+07/10/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/10/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/02/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/04/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/10/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/18/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/26/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/27/2014,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/03/2014,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/15/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/23/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/27/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/02/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/20/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/31/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/10/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/18/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/24/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/27/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/05/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/13/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/21/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/29/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/30/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/12/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/26/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/01/2015,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/01/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/10/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+09/22/2015,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+04/17/2016,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/19/2016,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/08/2016,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/23/2016,Toni Kruse,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/28/2016,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/08/2016,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/16/2016,Mike Klink,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/01/2016,Pete Bratsos,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/29/2016,Pete Bratsos,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+05/09/2017,Pete Bratsos,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/27/2017,Jim Ehle,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+06/27/2017,Pete Bratsos,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+07/25/2017,Pete Bratsos,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin
+08/28/2017,Pete Bratsos,Citizen Lake Monitoring - Water Quality - Lake Chetac; Site C - Central Basin

@@ -1,0 +1,53 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Green Lake,148100,NE,24,,243019,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188851,06/23/1987,15.25,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8188851,07/27/1987,15.25,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,
+8188851,05/19/1988,10.25,NO,3.1,,,44,,,ABOUT 2' LOW,,,GREEN,2-Very minor aesthetic problems
+1,05/19/2016,,,,4.99,22.1,,52,47,,,,,
+130579061,05/23/2016,,,,2.17,13,,48,41,,,,,
+1,06/22/2016,,,,1.11,22.3,,52,36,,,,,
+1,07/18/2016,,,,7.04,18.4,,51,50,,,,,
+28613168,07/21/2016,,,,2.38,14.4,,49,41,,,,,
+1,08/02/2016,,,,5.25,17,,50,47,,,,,
+1,08/09/2016,,,,3.48,17.5,,50,44,,,,,
+1,08/25/2016,,,,3.18,17.6,,50,44,,,,,
+1,09/13/2016,,,,5.22,17,,50,47,,,,,
+28613168,09/19/2016,,,,1.17,19.3,,51,36,,,,,
+28613168,10/25/2016,,,,0.525,17.6,,50,30,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/23/1987,Sunny and clumps of algae on the surface.    
+07/27/1987,Partly cloudy.    
+05/19/1988,Partly cloudy- very calm.    
+
+
+
+
+Start Date,Group Name,Project Name
+06/23/1987,Randy Jensen,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Part-Ep
+07/27/1987,Randy Jensen,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Part-Ep
+05/19/1988,Randy Jensen,Citizen Lake Monitoring - Water Quality - Spring Lake - Deepest Part-Ep
+05/19/2016,Data Collectors,
+05/23/2016,Brad Roost and Derek Kavanaugh,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+06/22/2016,Data Collectors,
+07/18/2016,Data Collectors,
+07/21/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+08/02/2016,Data Collectors,
+08/09/2016,Data Collectors,
+08/25/2016,Data Collectors,
+09/13/2016,Data Collectors,
+09/19/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP
+10/25/2016,Brad Roost,GREEN LAKE COUNTY: Spring-Big + Little Twin Lakes Comprehensive LMP

@@ -1,0 +1,532 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Star Lake,Vilas,2334300,NO,64,,643078,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/21/1979,,,,,,,,,,,,,
+8189612,07/18/1994,17.75,NO,5.4,,,36,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8189612,08/07/1994,15,NO,4.6,,,38,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189612,09/03/1994,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189612,06/04/1995,18,NO,5.5,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,06/16/1995,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191120,08/27/1995,18,NO,5.5,,,35,,,ON THE HIGH SIDE FOR THIS TIME OF YEAR,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191120,09/03/1995,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191120,09/04/1995,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191120,09/18/1995,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191120,09/30/1995,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191120,10/01/1995,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191120,10/08/1995,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,05/19/1996,11,NO,3.3,,,43,,,DAM OPEN AND STILL FILLING,,,,2-Very minor aesthetic problems
+8189642,05/26/1996,11,NO,3.3,,,43,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189612,06/09/1996,20,NO,6.1,,,34,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189611,06/29/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,06/29/1996,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,07/04/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,07/14/1996,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,07/19/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,07/21/1996,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191032,08/04/1996,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,08/06/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,08/20/1996,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,08/23/1996,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,08/26/1996,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,09/01/1996,22.5,NO,6.8,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,09/03/1996,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,09/15/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,10/05/1996,15,NO,4.6,,,38,,,GOING DOWN,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189612,10/20/1996,12.5,NO,3.8,,,41,,,2 FEET LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,05/24/1997,13,NO,4,,,40,,,COMING UP,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189612,06/08/1997,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,06/21/1997,24,NO,7.3,1.51,40,31,57,38,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,06/28/1997,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,08/05/1997,19,NO,5.8,0.95,,35,,34,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+8190642,08/31/1997,21.5,NO,6.5,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,09/14/1997,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190642,09/21/1997,20,NO,6.1,,,34,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,10/11/1997,15,NO,4.6,3.14,,38,,43,LOWERING FAST DUE TO DAM CONTROL.,,MURKY,BLUE,2-Very minor aesthetic problems
+8189642,05/17/1998,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,07/03/1998,17,NO,5.2,1.35,,36,,37,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,08/24/1998,15,NO,4.6,1.55,8,38,44,38,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,09/21/1998,16,NO,4.9,1.53,,37,,38,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190642,06/01/1999,22,NO,6.7,0.64,,33,,31,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,07/11/1999,18,NO,5.5,1.43,,35,,38,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189612,07/22/1999,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,08/23/1999,18,NO,5.5,1.72,,35,,39,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,06/08/2000,20,NO,6.1,1,7,34,43,35,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,07/04/2000,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,08/21/2000,17,NO,5.2,1.7,,36,,39,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,10/28/2000,16.5,NO,5,2,10,37,46,40,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189642,05/12/2001,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190642,06/25/2001,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190642,07/27/2001,23,NO,7,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190642,08/08/2001,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,09/02/2001,22,NO,6.7,1.1,,33,,36,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189642,10/19/2001,13.5,NO,4.1,4,11,40,47,45,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189642,05/27/2002,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189642,05/28/2002,,,,,10,,46,,,,,,
+8189642,08/25/2002,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189612,09/17/2002,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188597,07/02/2003,21,NO,6.4,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191032,07/12/2003,,,,1.28,9,,45,37,,,,,
+8189642,05/31/2004,,,,,9,,45,,,,,,
+11696573,07/29/2006,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,08/17/2006,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,08/29/2006,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815557,09/06/2006,,,,0.97,,,,35,,,,,
+11696573,06/30/2008,18,NO,5.5,0.96,9,35,45,34,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,07/14/2008,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,
+11696573,07/18/2008,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,
+11696573,07/30/2008,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,07/31/2008,,,,1.3,,,,37,,,,,
+11696573,08/08/2008,18,NO,5.5,,,35,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+11696573,08/15/2008,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,09/02/2008,20,NO,6.1,1.13,9,34,45,36,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,07/07/2009,21,,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,07/22/2009,17,NO,5.2,1.9,12,36,47,40,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,07/31/2009,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+11696573,08/06/2009,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,08/10/2009,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+11696573,08/23/2009,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+11696573,08/31/2009,18,NO,5.5,1.23,9,35,45,36,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/10/2016,9.1,100,2.8,3.23,16.8,45,50,44,,,,,
+1,06/22/2016,17.7,N,5.4,,11.2,36,47,,,,,,
+1,07/27/2016,15.2,N,4.6,0.701,10.8,38,47,32,,,,,
+1,08/18/2016,17.6,N,5.4,0.592,11.3,36,47,31,,,,,
+1,10/24/2016,10.3,10,3.1,2.49,15,44,49,42,,,,,
+1,02/21/2017,17.5,NO,5.3,,12.2,36,48,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/21/1979,,,23,C,,
+06/21/1997,3,FEET,68,DEGREES F,,
+06/21/1997,6,FEET,68,DEGREES F,,
+06/21/1997,9,FEET,68,DEGREES F,,
+06/21/1997,15,FEET,57,DEGREES F,,
+06/21/1997,20,FEET,55,DEGREES F,,
+06/21/1997,25,FEET,50,DEGREES F,,
+06/21/1997,35,FEET,46,DEGREES F,,
+08/05/1997,3,FEET,74,DEGREES F,,
+08/05/1997,6,FEET,74,DEGREES F,,
+08/05/1997,9,FEET,73,DEGREES F,,
+08/05/1997,15,FEET,73,DEGREES F,,
+08/05/1997,20,FEET,68,DEGREES F,,
+08/05/1997,25,FEET,55,DEGREES F,,
+08/05/1997,35,FEET,52,DEGREES F,,
+10/11/1997,3,FEET,58,DEGREES F,,
+10/11/1997,6,FEET,56,DEGREES F,,
+07/03/1998,3,FEET,76,DEGREES F,,
+07/03/1998,6,FEET,74,DEGREES F,,
+07/03/1998,9,FEET,74,DEGREES F,,
+07/03/1998,15,FEET,72,DEGREES F,,
+07/03/1998,20,FEET,64,DEGREES F,,
+07/03/1998,25,FEET,60,DEGREES F,,
+07/03/1998,35,FEET,50,DEGREES F,,
+08/24/1998,3,FEET,74,DEGREES F,,
+08/24/1998,6,FEET,73,DEGREES F,,
+08/24/1998,9,FEET,73,DEGREES F,,
+08/24/1998,15,FEET,72,DEGREES F,,
+08/24/1998,20,FEET,73,DEGREES F,,
+08/24/1998,25,FEET,71,DEGREES F,,
+08/24/1998,35,FEET,61,DEGREES F,,
+08/24/1998,45,FEET,50,DEGREES F,,
+08/24/1998,55,FEET,45,DEGREES F,,
+09/21/1998,3,FEET,67,DEGREES F,,
+09/21/1998,6,FEET,67,DEGREES F,,
+09/21/1998,9,FEET,67,DEGREES F,,
+09/21/1998,15,FEET,67,DEGREES F,,
+09/21/1998,20,FEET,67,DEGREES F,,
+09/21/1998,25,FEET,67,DEGREES F,,
+09/21/1998,35,FEET,55,DEGREES F,,
+09/21/1998,45,FEET,50,DEGREES F,,
+06/01/1999,3,FEET,61,DEGREES F,,
+06/01/1999,6,FEET,61,DEGREES F,,
+06/01/1999,9,FEET,61,DEGREES F,,
+06/01/1999,15,FEET,60,DEGREES F,,
+06/01/1999,20,FEET,59,DEGREES F,,
+06/01/1999,25,FEET,56,DEGREES F,,
+06/01/1999,35,FEET,47,DEGREES F,,
+06/01/1999,45,FEET,44,DEGREES F,,
+06/01/1999,55,FEET,42,DEGREES F,,
+07/11/1999,3,FEET,61,DEGREES F,,
+07/11/1999,6,FEET,61,DEGREES F,,
+07/11/1999,9,FEET,61,DEGREES F,,
+07/11/1999,15,FEET,60,DEGREES F,,
+07/11/1999,20,FEET,59,DEGREES F,,
+07/11/1999,25,FEET,56,DEGREES F,,
+07/11/1999,35,FEET,47,DEGREES F,,
+07/11/1999,45,FEET,44,DEGREES F,,
+07/11/1999,55,FEET,42,DEGREES F,,
+08/23/1999,3,FEET,68,DEGREES F,,
+08/23/1999,6,FEET,68,DEGREES F,,
+08/23/1999,9,FEET,68,DEGREES F,,
+08/23/1999,15,FEET,68,DEGREES F,,
+08/23/1999,20,FEET,67,DEGREES F,,
+08/23/1999,25,FEET,67,DEGREES F,,
+08/23/1999,35,FEET,63,DEGREES F,,
+08/23/1999,45,FEET,49,DEGREES F,,
+08/23/1999,55,FEET,45,DEGREES F,,
+06/08/2000,3,FEET,65,DEGREES F,,
+06/08/2000,6,FEET,63,DEGREES F,,
+06/08/2000,9,FEET,62,DEGREES F,,
+06/08/2000,15,FEET,61,DEGREES F,,
+06/08/2000,20,FEET,60,DEGREES F,,
+06/08/2000,25,FEET,54,DEGREES F,,
+06/08/2000,35,FEET,47,DEGREES F,,
+06/08/2000,45,FEET,43,DEGREES F,,
+06/08/2000,55,FEET,41,DEGREES F,,
+08/21/2000,3,FEET,70,DEGREES F,,
+10/28/2000,3,FEET,51,DEGREES F,,
+10/28/2000,6,FEET,51,DEGREES F,,
+05/12/2001,3,FEET,54,DEGREES F,,
+05/12/2001,6,FEET,54,DEGREES F,,
+05/12/2001,9,FEET,53,DEGREES F,,
+05/12/2001,15,FEET,52,DEGREES F,,
+05/12/2001,20,FEET,52,DEGREES F,,
+05/12/2001,25,FEET,50,DEGREES F,,
+05/12/2001,35,FEET,44,DEGREES F,,
+05/12/2001,45,FEET,42,DEGREES F,,
+05/12/2001,55,FEET,41,DEGREES F,,
+09/02/2001,3,FEET,69,DEGREES F,,
+09/02/2001,6,FEET,69,DEGREES F,,
+09/02/2001,15,FEET,69,DEGREES F,,
+09/02/2001,20,FEET,68,DEGREES F,,
+09/02/2001,25,FEET,68,DEGREES F,,
+09/02/2001,35,FEET,55,DEGREES F,,
+09/02/2001,45,FEET,51,DEGREES F,,
+09/02/2001,55,FEET,46,DEGREES F,,
+10/19/2001,3,FEET,50,DEGREES F,,
+10/19/2001,6,FEET,50,DEGREES F,,
+10/19/2001,9,FEET,50,DEGREES F,,
+10/19/2001,15,FEET,50,DEGREES F,,
+10/19/2001,20,FEET,50,DEGREES F,,
+10/19/2001,25,FEET,50,DEGREES F,,
+10/19/2001,35,FEET,50,DEGREES F,,
+10/19/2001,45,FEET,50,DEGREES F,,
+10/19/2001,55,FEET,47,DEGREES F,,
+05/27/2002,3,FEET,55,DEGREES F,,
+05/27/2002,6,FEET,55,DEGREES F,,
+05/27/2002,9,FEET,55,DEGREES F,,
+05/27/2002,15,FEET,52,DEGREES F,,
+05/27/2002,20,FEET,51,DEGREES F,,
+05/27/2002,25,FEET,50,DEGREES F,,
+05/27/2002,35,FEET,47,DEGREES F,,
+05/27/2002,45,FEET,45,DEGREES F,,
+05/27/2002,55,FEET,44,DEGREES F,,
+08/29/2006,3,FEET,70.5,DEGREES F,10,MG/L
+08/29/2006,6,FEET,69.8,DEGREES F,10,MG/L
+08/29/2006,9,FEET,69.6,DEGREES F,9,MG/L
+08/29/2006,12,FEET,69.6,DEGREES F,9,MG/L
+08/29/2006,15,FEET,69.6,DEGREES F,8,MG/L
+08/29/2006,20,FEET,69.2,DEGREES F,8,MG/L
+08/29/2006,30,FEET,60,DEGREES F,5,MG/L
+08/29/2006,40,FEET,49,DEGREES F,3,MG/L
+08/29/2006,50,FEET,49,DEGREES F,3,MG/L
+06/30/2008,3,FEET,71.2,DEGREES F,8,MG/L
+06/30/2008,6,FEET,70.5,DEGREES F,8,MG/L
+06/30/2008,9,FEET,70.5,DEGREES F,8.5,MG/L
+06/30/2008,12,FEET,70.2,DEGREES F,8.5,MG/L
+06/30/2008,15,FEET,70.3,DEGREES F,9,MG/L
+06/30/2008,20,FEET,70.3,DEGREES F,9,MG/L
+06/30/2008,30,FEET,62,DEGREES F,10,MG/L
+06/30/2008,40,FEET,62.2,DEGREES F,10,MG/L
+06/30/2008,50,FEET,46.4,DEGREES F,10,MG/L
+06/30/2008,60,FEET,44.4,DEGREES F,6,MG/L
+07/14/2008,3,FEET,68.7,DEGREES F,,
+07/14/2008,6,FEET,68.7,DEGREES F,,
+07/14/2008,9,FEET,68.5,DEGREES F,,
+07/14/2008,12,FEET,68.3,DEGREES F,,
+07/14/2008,15,FEET,68.3,DEGREES F,,
+07/14/2008,20,FEET,68.2,DEGREES F,,
+07/14/2008,30,FEET,57,DEGREES F,,
+07/14/2008,40,FEET,47.9,DEGREES F,,
+07/14/2008,50,FEET,46.4,DEGREES F,,
+07/14/2008,60,FEET,43.3,DEGREES F,,
+07/18/2008,3,FEET,76.3,DEGREES F,,
+07/18/2008,6,FEET,72.8,DEGREES F,,
+07/18/2008,9,FEET,72.3,DEGREES F,,
+07/18/2008,12,FEET,72.3,DEGREES F,,
+07/18/2008,15,FEET,71.7,DEGREES F,,
+07/18/2008,20,FEET,69.9,DEGREES F,,
+07/18/2008,30,FEET,57.9,DEGREES F,,
+07/18/2008,40,FEET,46.5,DEGREES F,,
+07/18/2008,50,FEET,46.4,DEGREES F,,
+07/18/2008,60,FEET,43,DEGREES F,,
+07/30/2008,3,FEET,73.7,DEGREES F,7,MG/L
+07/30/2008,6,FEET,73.4,DEGREES F,7,MG/L
+07/30/2008,9,FEET,73.2,DEGREES F,7,MG/L
+07/30/2008,12,FEET,73,DEGREES F,6.5,MG/L
+07/30/2008,15,FEET,73,DEGREES F,6.5,MG/L
+07/30/2008,20,FEET,71,DEGREES F,7,MG/L
+07/30/2008,30,FEET,61.5,DEGREES F,7,MG/L
+07/30/2008,40,FEET,52.5,DEGREES F,7,MG/L
+07/30/2008,50,FEET,48.3,DEGREES F,5.5,MG/L
+07/30/2008,60,FEET,46.8,DEGREES F,4,MG/L
+08/08/2008,3,FEET,75,DEGREES F,,
+08/08/2008,6,FEET,73.7,DEGREES F,,
+08/08/2008,9,FEET,73.4,DEGREES F,,
+08/08/2008,12,FEET,73.2,DEGREES F,,
+08/08/2008,15,FEET,73.2,DEGREES F,,
+08/08/2008,20,FEET,72.8,DEGREES F,,
+08/08/2008,30,FEET,54.6,DEGREES F,,
+08/08/2008,40,FEET,46.4,DEGREES F,,
+08/08/2008,50,FEET,44,DEGREES F,,
+08/08/2008,60,FEET,42.9,DEGREES F,,
+08/15/2008,3,FEET,72.8,DEGREES F,,
+08/15/2008,6,FEET,71.9,DEGREES F,,
+08/15/2008,9,FEET,71.9,DEGREES F,,
+08/15/2008,12,FEET,71.6,DEGREES F,,
+08/15/2008,15,FEET,71.6,DEGREES F,,
+08/15/2008,20,FEET,71.6,DEGREES F,,
+08/15/2008,30,FEET,54.6,DEGREES F,,
+08/15/2008,40,FEET,46.7,DEGREES F,,
+08/15/2008,50,FEET,43.8,DEGREES F,,
+08/15/2008,60,FEET,42.6,DEGREES F,,
+09/02/2008,3,FEET,72.3,DEGREES F,8,MG/L
+09/02/2008,6,FEET,71.7,DEGREES F,7,MG/L
+09/02/2008,9,FEET,71.6,DEGREES F,7,MG/L
+09/02/2008,12,FEET,71.9,DEGREES F,6,MG/L
+09/02/2008,15,FEET,71.6,DEGREES F,6,MG/L
+09/02/2008,20,FEET,70.8,DEGREES F,6,MG/L
+09/02/2008,30,FEET,62.3,DEGREES F,6,MG/L
+09/02/2008,40,FEET,53.4,DEGREES F,7,MG/L
+09/02/2008,50,FEET,48.2,DEGREES F,5,MG/L
+09/02/2008,60,FEET,44.6,DEGREES F,3,MG/L
+07/07/2009,3,FEET,69,DEGREES F,,
+07/07/2009,6,FEET,67.4,DEGREES F,,
+07/07/2009,9,FEET,67.2,DEGREES F,,
+07/07/2009,12,FEET,66.9,DEGREES F,,
+07/07/2009,15,FEET,66.5,DEGREES F,,
+07/07/2009,20,FEET,66.2,DEGREES F,,
+07/07/2009,30,FEET,55.2,DEGREES F,,
+07/07/2009,40,FEET,48.5,DEGREES F,,
+07/07/2009,50,FEET,45.3,DEGREES F,,
+07/07/2009,60,FEET,44.4,DEGREES F,,
+07/22/2009,3,FEET,67.2,DEGREES F,6,MG/L
+07/22/2009,6,FEET,67.1,DEGREES F,6,MG/L
+07/22/2009,9,FEET,67.1,DEGREES F,6,MG/L
+07/22/2009,12,FEET,66.9,DEGREES F,6,MG/L
+07/22/2009,15,FEET,66,DEGREES F,6,MG/L
+07/22/2009,20,FEET,64.4,DEGREES F,6,MG/L
+07/22/2009,30,FEET,55.4,DEGREES F,5,MG/L
+07/22/2009,40,FEET,47.3,DEGREES F,4,MG/L
+07/22/2009,50,FEET,44.6,DEGREES F,4,MG/L
+07/22/2009,60,FEET,44,DEGREES F,3,MG/L
+07/31/2009,3,FEET,68.1,DEGREES F,,
+07/31/2009,6,FEET,68.1,DEGREES F,,
+07/31/2009,9,FEET,67.8,DEGREES F,,
+07/31/2009,12,FEET,67.8,DEGREES F,,
+07/31/2009,15,FEET,67.8,DEGREES F,,
+07/31/2009,20,FEET,67.6,DEGREES F,,
+07/31/2009,30,FEET,55.7,DEGREES F,,
+07/31/2009,40,FEET,54.8,DEGREES F,,
+07/31/2009,50,FEET,49.8,DEGREES F,,
+07/31/2009,60,FEET,45.7,DEGREES F,,
+08/06/2009,3,FEET,68.7,DEGREES F,,
+08/06/2009,6,FEET,68,DEGREES F,,
+08/06/2009,9,FEET,67.8,DEGREES F,,
+08/06/2009,12,FEET,67.8,DEGREES F,,
+08/06/2009,15,FEET,67.6,DEGREES F,,
+08/06/2009,20,FEET,67.6,DEGREES F,,
+08/06/2009,30,FEET,66.5,DEGREES F,,
+08/06/2009,40,FEET,54.8,DEGREES F,,
+08/06/2009,50,FEET,49.4,DEGREES F,,
+08/06/2009,60,FEET,41.4,DEGREES F,,
+08/10/2009,3,FEET,70.8,DEGREES F,,
+08/10/2009,6,FEET,70.1,DEGREES F,,
+08/10/2009,9,FEET,69.9,DEGREES F,,
+08/10/2009,12,FEET,69.8,DEGREES F,,
+08/10/2009,15,FEET,69.6,DEGREES F,,
+08/10/2009,20,FEET,69.6,DEGREES F,,
+08/10/2009,30,FEET,0,DEGREES C,,
+08/10/2009,40,FEET,0,DEGREES C,,
+08/10/2009,50,FEET,0,DEGREES C,,
+08/10/2009,60,FEET,0,DEGREES C,,
+08/23/2009,3,FEET,68.3,DEGREES F,,
+08/23/2009,6,FEET,67.8,DEGREES F,,
+08/23/2009,9,FEET,67.6,DEGREES F,,
+08/23/2009,12,FEET,67.4,DEGREES F,,
+08/23/2009,15,FEET,67.4,DEGREES F,,
+08/23/2009,20,FEET,67.2,DEGREES F,,
+08/23/2009,30,FEET,59,DEGREES F,,
+08/23/2009,40,FEET,49.4,DEGREES F,,
+08/23/2009,50,FEET,45.6,DEGREES F,,
+08/23/2009,60,FEET,44.2,DEGREES F,,
+08/31/2009,3,FEET,67.4,DEGREES F,6,MG/L
+08/31/2009,6,FEET,66.5,DEGREES F,6,MG/L
+08/31/2009,9,FEET,66.3,DEGREES F,6,MG/L
+08/31/2009,12,FEET,66.2,DEGREES F,6,MG/L
+08/31/2009,15,FEET,65.8,DEGREES F,6,MG/L
+08/31/2009,20,FEET,65.6,DEGREES F,6,MG/L
+08/31/2009,30,FEET,59.3,DEGREES F,6,MG/L
+08/31/2009,40,FEET,49.4,DEGREES F,5,MG/L
+08/31/2009,50,FEET,45.8,DEGREES F,3,MG/L
+08/31/2009,60,FEET,44.4,DEGREES F,3,MG/L
+05/10/2016,,,12.0,C,10.6,MG/L
+06/22/2016,,,22.7,C,3.5,MG/L
+07/27/2016,,,25.3,C,0.2,MG/L
+08/18/2016,,,25.1,C,0.1,MG/L
+10/24/2016,,,11.3,C,0.2,MG/L
+02/21/2017,,,2.4,C,1.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/21/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/18/1994,Small waves- mostly cloudy.    
+08/07/1994,Little windy- partly cloudy.    
+08/27/1995,Weather-cloudy.    
+09/03/1995,Very calm- sunny- mature ducks flying.    
+09/04/1995,80 degree weather- sunny- rather humid.    
+09/18/1995,Sunny- calm.    
+09/30/1995,Cloudy weather.    
+10/01/1995,Water slightly wavy.  Storm + rain last night 1-7 a.m.  Overcast + misting.    
+10/08/1995,Bright + sunny at time of testing.  2+" rain 4 days ago + drizzle since (following Florida hurricane).    
+05/19/1996,Water was dark black. Overcast sky-slight breeze. Water very dark and stirred up. Numerous thunderstorms previous 12 hours. Dam still open + lake filling.    
+06/29/1996,Very hot + muggy + slightly windy.    
+07/04/1996,Bright sun. Moderate wave activity. Boat depth finder: 67'.    
+07/14/1996,Very dark overcast. Very calm.    
+07/19/1996,Cloudless sky. Water seems a little more brown this year.    
+07/21/1996,Bright sun.    
+08/04/1996,Overcast/sunny. Windy.    
+08/06/1996,Bright sun- slightly wavy.    
+08/20/1996,Bright sun- slightly wavy.    
+08/26/1996,Bright sun. Slightly wavy.    
+09/01/1996,This is the best test I've done yet! Sunny + calm.    
+09/15/1996,Overcast- calm- no direct sun.    
+10/05/1996,Sunny- some wind.    
+05/24/1997,Overcast- calm- dam is open and lake is rising.    
+06/08/1997,Sunny day.    
+06/21/1997,Thin haze over sun.  Calm water.  This is one of the deepest readings I have been able to get.    
+06/28/1997,6" lower than last week.    
+08/05/1997,"Best" reading was earlier this summer!    
+09/14/1997,Sunny and calm.    
+10/11/1997,Very windy and wavy- causing rough water.  Limited depths for water sampling- a parent and one adult loon feeding on lake.    
+07/03/1998,LAKE SAMPLE    
+08/24/1998,Rained hard on night previous to collection.  Breezy and wavy.  Hazy.    
+09/21/1998,Cloudy windy wavy air temp 48 deg.    
+06/01/1999,LAKE SAMPLE    
+07/11/1999,Wavy- sunny    
+08/23/1999,Very overcast- drizzling- calm water.    
+06/08/2000,A gorgeous day!  Haven't seen any loons feeding in the evening@! ) :    
+08/21/2000,Sunny with haze.  Very windy.  We couldn't get weight on water sampler to release the collection balls. Drifting   No water temperature below 3'    
+10/28/2000,Windy- sunny and wavy. Worst secchi disk clarity reading of this year.    
+05/12/2001,Perfectly calm and clear.  Can hear loons and can see mergansers fishing.    
+09/02/2001,Bright sun- clear sky- windy- waves with white caps- and eagle soaring.    
+10/19/2001,Windy- occasionally "white caps" on waves.  Baby loon still here.  Appears to be alone.  Adult migrate    Bright sun.    
+05/27/2002,Single loon calling.  Bright sun.  Moderate waves and wind.    
+05/28/2002,DEEP HOLE - MESSANGER- RELEASE SAMPLER    
+08/25/2002,Avg. dog days.    
+07/02/2003,A beautiful day!  A pair of loons with two (2) chicks!  :)    
+07/12/2003,DEEP HOLE - WATER COLLECTION DEVICE    
+05/31/2004,DEEP HOLE - 3FT VAN DORN SAMPLE    
+08/08/2008,Clear and 75 degrees.   Two adult loons and 2 babies.
+07/07/2009,Sunny/ two Loons were seen Sunny with a light wind  
+07/22/2009,WEATHER WAS PARTLY CLOUDY AND 68 DEGREES.  SAW TW0 LOONS ON LITTLE STAR.  TWO BABY LOONS AND A MOTHER ON MANITOWISH LAKE ALONG WITH AN EAGLE. 
+07/31/2009,Partly cloudy
+08/06/2009,Mostly sunny wuth light winds
+08/10/2009,Windy today- difficullty in getting lower water temps.
+08/23/2009,Bright sunny day!
+08/31/2009,Clear day with perfect conditions.
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/1979,Data Collectors,Migrated from STORET Legacy
+07/18/1994,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/07/1994,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/03/1994,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/04/1995,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/16/1995,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/27/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/03/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/04/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/18/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/30/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/01/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/08/1995,Maynard Silver And Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/19/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/26/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/09/1996,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/29/1996,Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/29/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/04/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/14/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/19/1996,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/21/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/04/1996,Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/06/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/20/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/23/1996,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/26/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/01/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/03/1996,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/15/1996,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/05/1996,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/20/1996,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/24/1997,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/08/1997,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/21/1997,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/28/1997,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/05/1997,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/31/1997,Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/14/1997,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/21/1997,Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/11/1997,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/17/1998,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/03/1998,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/24/1998,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/21/1998,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/01/1999,Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/11/1999,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/22/1999,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/23/1999,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/08/2000,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/04/2000,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/21/2000,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/28/2000,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/12/2001,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/25/2001,Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/27/2001,Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/08/2001,Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/02/2001,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+10/19/2001,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/27/2002,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/28/2002,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/25/2002,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/17/2002,Steve And Mona Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/02/2003,Mona Wiechmann and Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/12/2003,Steve Wiechmann,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/31/2004,Richard And Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/29/2006,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/17/2006,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/29/2006,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/06/2006,Dewitt Everix- Gayle Strand,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+06/30/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/14/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/18/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/30/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/31/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/08/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/15/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+09/02/2008,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/07/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/07/2009,Dewitt Everix,LoonWatch on Little Star Lake
+07/22/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+07/22/2009,Dewitt Everix,LoonWatch on Little Star Lake
+07/31/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/06/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/10/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/23/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+08/31/2009,Dewitt Everix,Citizen Lake Monitoring - Water Quality - Little Star Lake; Deep Hole
+05/10/2016,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Waters Chain Management Planning Project Phase 4
+06/22/2016,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Waters Chain Management Planning Project Phase 4
+07/27/2016,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Waters Chain Management Planning Project Phase 4
+08/18/2016,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Waters Chain Management Planning Project Phase 4
+10/24/2016,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Waters Chain Management Planning Project Phase 4
+02/21/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Waters Chain Management Planning Project Phase 4

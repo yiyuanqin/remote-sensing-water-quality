@@ -1,0 +1,42 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Star Lake,Vilas,1593200,NO,64,,644062,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/21/1979,,,,5.41,13,,48,48,,,,,
+1,08/15/2007,1.3,NO,0.4,27.8,84,73,62,60,,,,,
+1,06/27/2017,3.1,N,0.9,25.9,56.9,61,59,59,,,,,
+147984276,07/26/2017,2.3,N,0.7,24.5,44.3,65,58,59,,,,,
+1,08/28/2017,1.6,N,0.5,45.8,60.1,70,60,64,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/21/1979,,,,,2.7,MG/L
+08/15/2007,0.5,METERS,23.5,DEGREES C,0.5,MG/L
+08/15/2007,1,METERS,22.7,DEGREES C,1,MG/L
+08/15/2007,1.5,METERS,22.6,DEGREES C,1.5,MG/L
+08/15/2007,2,METERS,22.5,DEGREES C,2,MG/L
+08/15/2007,2.5,METERS,22.5,DEGREES C,2.5,MG/L
+06/27/2017,,,21.3,C,10.0,MG/L
+07/26/2017,,,23.2,C,7.4,MG/L
+08/28/2017,,,19.1,C,7.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/21/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/1979,Data Collectors,Migrated from STORET Legacy
+08/15/2007,Data Collectors,National Lake Survey - Index Sampling
+06/27/2017,Data Collectors,TOWN OF PLUM LAKE: Town of Plum Lake Plan - Ph 1 Star + Lt Star Lakes
+07/26/2017,Jo Barlament,TOWN OF PLUM LAKE: Town of Plum Lake Plan - Ph 1 Star + Lt Star Lakes
+08/28/2017,Data Collectors,TOWN OF PLUM LAKE: Town of Plum Lake Plan - Ph 1 Star + Lt Star Lakes

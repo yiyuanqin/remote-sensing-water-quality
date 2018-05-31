@@ -1,0 +1,199 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lily Lake,Marinette,619800,NE,38,,10021425,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+25475481,09/07/2007,16,YES,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25475481,10/20/2007,12.5,NO,3.8,,,41,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+25475481,06/23/2008,20,YES,6.1,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25475481,07/25/2008,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+80958194,05/27/2013,19,NO,5.8,,,35,,,LOW,21,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,06/03/2013,19,NO,5.8,,,35,,,LOW,19 Clear,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,06/10/2013,18,NO,5.5,,,35,,,LOW,19.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,06/18/2013,17,NO,5.2,,,36,,,LOW,7,CLEAR,GREEN,2-Very minor aesthetic problems
+80958194,06/24/2013,16.5,NO,5,,,37,,,LOW,17,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,07/02/2013,19,NO,5.8,,,35,,,LOW,19.5,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,07/08/2013,14,NO,4.3,,,39,,,LOW,14,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+80958194,07/29/2013,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,
+80958194,08/20/2013,17,NO,5.2,,,36,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+80958194,08/26/2013,13,NO,4,,,40,,,LOW,NA,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+80958194,09/03/2013,14,NO,4.3,,,39,,,LOW,NA,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,09/23/2013,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,05/28/2014,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,06/05/2014,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,06/09/2014,16,NO,4.9,0.739,10.4,37,46,33,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,06/19/2014,16,NO,4.9,,,37,,,LOW,N/A,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,06/26/2014,17,NO,5.2,,,36,,,LOW,NA,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,07/04/2014,17,NO,5.2,,,36,,,LOW,N/A,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,07/10/2014,17,NO,5.2,,,36,,,LOW,N/A,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,07/18/2014,12.5,NO,3.8,,,41,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+80958194,07/30/2014,15,NO,4.6,2.84,15.5,38,49,43,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,08/07/2014,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,09/05/2014,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,09/09/2014,17,NO,5.2,1.36,12.1,36,47,37,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,05/28/2015,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,06/18/2015,17.5,NO,5.3,1.36,10.1,36,46,37,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,07/16/2015,15.5,NO,4.7,2.44,12.7,38,48,42,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,08/27/2015,14,NO,4.3,3.95,12.5,39,48,45,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,05/12/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,05/31/2016,,,,,11.1,,47,,,,,,
+80958194,06/21/2016,12.5,NO,3.8,3.31,11.5,41,47,44,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,07/20/2016,,,,2.27,13.2,,48,41,,,,,
+80958194,07/30/2016,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,08/29/2016,,,,3.26,15.1,,49,44,,,,,
+80958194,08/31/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+80958194,05/30/2017,11,YES,3.3,,16.5,43,50,,HIGH,23.5,MURKY,BLUE,2-Very minor aesthetic problems
+80958194,06/21/2017,12,YES,3.6,1.87,17.9,41,50,40,HIGH,24.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,07/25/2017,13.5,YES,4.1,3.37,15.5,40,49,44,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+80958194,08/28/2017,17.5,YES,5.3,3.02,15.9,36,50,43,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/04/2014,5,FEET,73.5,DEGREES F,,
+07/04/2014,10,FEET,72.6,DEGREES F,,
+07/04/2014,21,FEET,66.9,DEGREES F,,
+07/10/2014,5,FEET,72.1,DEGREES F,,
+07/10/2014,12,FEET,71,DEGREES F,,
+07/10/2014,18.5,FEET,67.8,DEGREES F,,
+07/30/2014,5,FEET,71.9,DEGREES F,,
+07/30/2014,9,FEET,71.7,DEGREES F,,
+07/30/2014,18,FEET,69.2,DEGREES F,,
+08/07/2014,5,FEET,71.6,DEGREES F,,
+08/07/2014,9,FEET,71,DEGREES F,,
+08/07/2014,19,FEET,69.1,DEGREES F,,
+09/05/2014,5,FEET,69.8,DEGREES F,,
+09/05/2014,10,FEET,69.6,DEGREES F,,
+09/05/2014,20,FEET,68.3,DEGREES F,,
+09/09/2014,5,FEET,69.2,DEGREES F,,
+09/09/2014,10,FEET,69,DEGREES F,,
+09/09/2014,20,FEET,68.7,DEGREES F,,
+05/28/2015,10,FEET,65,DEGREES F,,
+05/28/2015,20,FEET,59,DEGREES F,,
+06/18/2015,10,FEET,70,DEGREES F,,
+06/18/2015,20,FEET,66,DEGREES F,,
+07/16/2015,10,FEET,73.7,DEGREES F,,
+07/16/2015,23,FEET,67.2,DEGREES F,,
+05/12/2016,24,FEET,51.2,DEGREES F,,
+06/21/2016,5,FEET,74.4,DEGREES F,,
+06/21/2016,15,FEET,69.2,DEGREES F,,
+06/21/2016,25.5,FEET,62.8,DEGREES F,,
+07/30/2016,5,FEET,77.3,DEGREES F,,
+07/30/2016,15,FEET,74.7,DEGREES F,,
+07/30/2016,24,FEET,72.6,DEGREES F,,
+08/31/2016,24,FEET,69.9,DEGREES F,,
+05/30/2017,23.5,FEET,51,DEGREES F,,
+06/21/2017,10,FEET,70.5,DEGREES F,,
+06/21/2017,18,FEET,61.5,DEGREES F,,
+06/21/2017,21,FEET,58.2,DEGREES F,,
+07/25/2017,10,FEET,75.7,DEGREES F,,
+07/25/2017,15,FEET,69.8,DEGREES F,,
+08/28/2017,5,FEET,68.7,DEGREES F,,
+08/28/2017,10,FEET,68,DEGREES F,,
+08/28/2017,18,FEET,68,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/07/2007,Slight clouds- light breeze- slight chop. Surface water temperature 80 degrees F- air temperature 68 degrees F. 
+10/20/2007,calm- clear- recent rain of 4 inches- 3 days ago. Air temperature 65 degrees F. Lots of minnows. 
+06/23/2008,calm- under clouds at the time of test- occasional light breeze. Surface water temperature around 80 degrees F- air temperature 78 degrees F. 
+07/25/2008,high winds- slightly overcast- a little wavy- surface water temperature 88 degrees F- air temperature 80 degrees F. 
+05/27/2013,Sun about 68 and windy. I saw one Loon- around 8 turtles on a single log- from a fallen tree.We have lots on L/M Bass and Bass beds.  Sun about 68 and windy. I saw one Loon- around 8 turtles on a single log- from a fallen tree.We have lots on L/M Bass and Bass beds.  Sun about 68 and windy. I saw one Loon- around 8 turtles on a single log- from a fallen tree.We have lots on L/M Bass and Bass beds. We have a great deal of Algae on the bottom of the lake that will rise up- float to the top and then float to the shore. What is this and what can be done to get rid of it.  This happens more when its hot- but this year it has started already.Could it be because its been a cool spring and the lake is just starting to change  I am not sure what Water Level Staff Gague means 
+06/03/2013,Sun- cool- 66- lots of fish LM Bass some (6/7) turtles The water was clear and clean with a very cool windy day. We had received some rain last week- heavy at times but very short periods of time. Sun- cool- 66- lots of fish LM Bass some (6/7) turtles The water was clear and clean with a very cool windy day. We had received some rain last week- heavy at times but very short periods of time.
+06/10/2013,Temp 70 F- blue sky.warm- little wind. Turtles. L/M Bass the water color was blue/green. (1) Loon- some type of algae comes from the lake bottom and floats to the top. I would like to know what this is 
+06/18/2013,68/70 sun. little wind. The water color was dark green- very clear with small chunks of algae. I saw one lonely Loon- L/M bass- pan fish.- lots of water bugs. 2 heron and some gobs of jelly/ with eggs of some sort. Fish nest are all over the lake and lots and lots of Dragonflies Same conditions but I took readings at several locations on the lake which I will enter.  Same conditions but I took readings at several locations on the lake which I will enter. (2) 7. ft- 6 Ft clear- (3) 7.5 feet 7Ft Clear- (3) 16Ft- 15.5Ft Clear-(4) 16Ft- 15 Ft Clear-(5) 19Ft- 17Ft clear-(6) 7 Ft- 6.5Ft clear. The lower depths were about 30 to 50 yards from shore- the others are around 120 to 150 yards from shore. The much on the bottom seems to be about 6" deep.
+06/24/2013,Air Temp around 75/80 F- clouds and sun- light wind from the South. Again- we have Eagles -2 today and Sunday the 23rd. We have Eagles every week. Our Loon is still enjoying the lake and the day. We have floating algae small clumps- lots and lots of pollen- fly's and lake bugs. Turtle's and both L/M Bass and sun fish. I checked 8 places on the lake today- all about 40/ 50 yards from shore.The readings were close to the same.about 5 Ft deep and 4.5 clear.I did find a spot that was 15Ft. deep-14Ft clear-18Ft. deep 16.5 clear and 20 Ft. deep with 16.5 clear. the last three readings were about the middle of the Lake. Air Temp around 75/80 F- clouds and sun- light wind from the South. Again- we have Eagles -2 today and Sunday the 23rd. We have Eagles every week. Our Loon is still enjoying the lake and the day. We have floating algae small clumps- lots and lots of pollen- fly's and lake bugs. Turtle's and both L/M Bass and sun fish. I checked 8 places on the lake today- all about 40/ 50 yards from shore.The readings were close to the same.about 5 Ft deep and 4.5 clear.I did find a spot that was 15Ft. deep-14Ft clear-18Ft. deep 16.5 clear and 20 Ft. deep with 16.5 clear. the last three readings were about the middle of the Lake. I mark that Lake as low- because for the last 7 years we have had a drought. From the area where we put our pier in the water; in 2003 the water was about 2.5 to 3Ft. higher then it is today. 
+07/02/2013,Great Day- about 75/80 Bright sun- blue sky. We have a pair of (2) Loons today- lots of turtles- L/M Bass- Blue Gill's- minnows Red-winged Black Birds- Morning Doves-water bugs- gnats-and no Eagles to report today. I checked several of the same spots. 1) 30/40 Yards- 7.9 Ft. D 7Ft Clear- (2) 7.9Ft. D- 7- Ft Clear-(3) 75/80 yds- 6.5Ft Deep- 6 Ft. Clear-(4) 200 Yds-17Ft. Deep- 15.6 Clear-(5)120/30 yards- 17Ft Deep- 16 Ft. Clear- (6) about the Middle of the Lake 21Ft. Deep- 19FtFt Clear. Water is Blue/ Green/ very clear and clean- with the exception of some floating clumps of Algae. Great Day- about 75/80 Bright sun- blue sky. We have a pair of (2) Loons today- lots of turtles- L/M Bass- Blue Gill's- minnows Red-winged Black Birds- Morning Doves-water bugs- gnats-and no Eagles to report today. I checked several of the same spots. 1) 30/40 Yards- 7.9 Ft. D 7Ft Clear- (2) 7.9Ft. D- 7- Ft Clear-(3) 75/80 yds- 6.5Ft Deep- 6 Ft. Clear-(4) 200 Yds-17Ft. Deep- 15.6 Clear-(5)120/30 yards- 17Ft Deep- 16 Ft. Clear- (6) about the Middle of the Lake 21Ft. Deep- 19FtFt Clear. Water is Blue/ Green/ very clear and clean- with the exception of some floating clumps of Algae. We received about 3" of Rain on 6/27/13. The lake is at the best its been in 7 years but still about 2 to 3 feet low ; so I will remain to state low until the lake level comes back to its 2005 level. 2005 is the year our home was completed.
+07/08/2013,Another Beautiful Day- we received about 3" of rain last night and the temp is hot and humid 85 +. With the heat the lake has more floating algae. I checked about the same spots with similar results as my last check. (1) 7'D- 6.5'Clear- (2) 7.5'D- 6.5'Clear (3) 9'D- 8'Clear- (4) 10'D- 8'Clear (5)13'D- 9'Clear. I found from 17'D to my new record of 22'D 14'Clear.Again lots of Birds- Red-winged Black Birds-Morning doves- turtles- L/M Bass- Blue Gills- and two (2) Loons. The Loons have been around starting July 4th. until the 4th we had only one(1) loon. We had Eagles on July 5th. Very little wind.
+07/29/2013,It was a beautiful day about 75 F with little wind. We have had lots of rain about 3.5 inches over the last several days. The Loons were not around today but lots of fish- both L/M Bass and B. Gills- turtles- dragon fly's. I checked 6 places today and found the following:(1) 8' D 7' Clear-(2) 14' Deep- 11' Clear. (3) 10' D- 9' C(4) 20' D 13' Clear- (5) 21' Deep- 13 ' Clear (6) 20' Deep- 13' Clear. I think because of all the rain the distance between the Deeps and Clear was greater.
+
+I did receive the Map of Lily Lake- Thanks. If we could put it on this chart we could pin point just where I measure- I think 
+that it would be a great help to you. There was very little algae with the resent cool weather.
+08/20/2013,I had been out of pocket for a few weeks so could not gather information. Today was beautiful 80+ wit a cool wind. We still have lots of fish L/M Bass and B-Gill.The loon is still around- but his/her partner is not. Hawks- turtles all the regulars are still enjoying summer. I must note that on Aug.13- we had a massive algae bloom that covered a large section of the lake. This happens in Aug. but never like this. We also have a great deal of sea weed that is floating in the lake- stuck with algae- I am sure that the fish like it but its a mess. Again we have never had this before in the 7 years that we have been hear. We took pictures of the sea weed and Algae bloom and will send then to you. The Algae bloom is common in hot weather- but we have not had the high temperatures this year as we have in the past. Will you please send me an explanation of the Algae Bloom and what this sea weed is when we send the pictures. Thanks !!
+08/26/2013,Its HOT TODAY !! about 93+ on the Lake with no wind. We got about 1" of rain last night after 1:00 AM. There was almost no wild life today. Our loon was gone and I only spotted about 4/5 L/Mouth Bass- and no Blue Gill. I did see our Big Snapping Turtle today- I would guess a shall about 3.5' long- several painted Turtles but in the Cattails getting sun on rocks. We still have a great deal of SEA WEED and Algae I did take some pictures of both and sent them to Brenda Nordin DNR for ID and what we can do about this issue. I took 7 readings today and here are the results. 1) 6' D- 5' Clear- 2) 12' D- 10' C- 3) 13.5" D- 11' C- 4) 15' D- 13' C- 5) 16' D 12' C-6) 20' D- 12' C- 7) 21.5' D 13' C. My guess is that with the rain the clarity is not as great. If you would like at the end of the year I could send you the Information that I have assembled and send it to you. It would be each day of information - but located on a map.
+   
+09/03/2013,It is a beautiful day today- about 75F- wind around 10 mph- and lots of SUN. We did get a great deal of rain from Thursday to Monday- around 3/5" or more. No Loon today- and very little wild life. Several L/M Bass- no B.Gill but lots of painted turtles getting their sun. We have Flat stem pond weed and its under water today with some algae floating to the surface. It has cooled down-so think that is the reason for the small amount of algae. I did test in 6 locations today. (1) about 35/40 yards from shore 7' Deep 6' Clear- (2) 125 Y 13'D- 8' Clear- (3) 275 Y 18' D- 14' Clear- (4) about 200/225 Y from the west shore almost the middle 21' D 14' C (5) 20' D 13' C- and (6) 17' D 11' C. The last 3 locations were all about the same 200/225 from shore moving North.
+09/23/2013,It is a little cold on the Lake today. The temp is 61 but with the wind- cool. This could be that last time that I test for this season because of the weather- the next warm day I hope to get the boat out of the water. The Lake was very blue and clear. All the Flat-steam pond weed is at the bottom of the lake- my guess its dormant with all the cool weather we have had in the last few weeks. As for our Algae- its the same- nothing floating. For wild life I did see one goose- one Blue Heron- one turtle and just two L/M Bass. All the wild life was located on the East side of the lake where the wind was not strong and the sun was warm. I took 6 readings today 1) 30/40 yards from shore 7'D- 6.8 C( 2) 125/130 Yards 15' D- 11'Clear- (3) 200/225 yards- 16.5 D and 11' Clear (4) 200 yards from the West shore 20'D 10' Clear (5) 21.5' Deep and 10' Clear and (6) 20' D and 10' Clear. I have not seen the Loon for about 2 weeks. My guess is the the Loon took off for the Winter and the fish are deep in the Lake. I plan on sending you my work sheets that I use each week- which is a map of the Lake. I will send it off in a few weeks when I complete the testing season.
+06/05/2014,The Lake is up from last year but is still not to the level of 2004 when we purchased the land. Lots of fish- L/Mouth Bass- pan fish- Turtles and an Eagle catching a fish today. Fantastic. The lake still has a great deal of green algae that floats to the top of the lake. Nasty looking and I will send some for your review next week when I take water samples. The check point today was 19' down and I could see the disc at 16' down. Also the ICE went out this year on MAY 2nd.2014- this is the longest period of Ice dating back to 2004 when we purchased the land.
+06/09/2014,the weather was around 65 and overcast. We had 35/40 Canadian Geese on the lake for a day- maybe just passing through. Again lots of fish with and our algae still floating on the top of the lake- it seems to rise from the bottom. I sent my first water test back to you on Monday as well. Also I still have not received my Temperature Gage. I went 19' down and read 16' clear on my readings with the SECCHI.
+06/19/2014,Today was beautiful about 68/70 with lots of sun. We had our Loon come back and we had another Eagle today. Also lots of fish and Turtles. I went 19.5 ' down and saw the disc at 16'
+06/26/2014,The weather started off great sun and blue sky- but clouds have moved in. The temp was about 70 and just a beautiful day. The lake had a usual friends Bass- Pan Fish- Turtles- but no loon or Eagle. We had around 35/40 Geese yesterday. The water is up from 2013 nut still not to the level that it was when we purchased the property. The weather started off great sun and blue sky- but clouds have moved in. The temp was about 70 and just a beautiful day. The lake had a usual friends Bass- Pan Fish- Turtles- but no loon or Eagle. We had around 35/40 Geese yesterday. The water is up from 2013 but still not to the level that it was when we purchased the property. That is why I state Low water level. The disc hit 20' with 17' clear.
+
+I still have not received my temp gauge to record the Lake Temp. Also- do you know if my water samples reached Madison for testing. I have not received any word with regard to this issue. The weather started off great sun and blue sky- but clouds have moved in. The temp was about 70 and just a beautiful day. The lake had a usual friends Bass- Pan Fish- Turtles- but no loon or Eagle. We had around 35/40 Geese yesterday. The water is up from 2013 but still not to the level that it was when we purchased the property. That is why I state Low water level.
+
+I still have not received my temp gauge to record the Lake Temp. Also- do you know if my water samples reached Madison for testing. I have not received any word with regard to this issue.
+07/04/2014,It is a beautiful day- Mother Nature is at her best. Our Eagle is back and having a wonderful day of fishing- our loon is back as well. Maybe its the 4th and they just ant to enjoy the Lake as we do. I took the Temp. of the Lake for the first time. I went down 21' and recorded 66.9- at 10" it was 72.6 and at 5' it was 73.5. I hit 21.5' deep and recorded 17' clear. Lots of wild life and turtles- one very large snapper- his or her shell must be almost 2'.
+07/10/2014,Another fantastic day- 70 with some clouds and a light wind. The Eagle is back but no loon today. Our normal friends are out L/M Bass- pan fish and lots of turtles and dragon flys. I sent in my first water sample buts I have not had any responce as if you received the water test. The lake was tester today at 20.5' and 17' clear. Another fantastic day- 70 with some clouds and a light wind. The Eagle is back but no loon today. Our normal friends are out L/M Bass- pan fish and lots of turtles and dragon flys. I sent in my first water sample buts I have not had any responce as if you received the water test. The lake was tester today at 20.5' and 17' clear.
+07/18/2014,It's a nice day but overcast and around 77 F. No Turtles but a good deal of fish- L/Mouth and Pan Fish. No loon today and our Eagle must be on vacation as well. I went down 18.5 ' and had only 12.5' clear.
+The month is almost over and I have nor received back any results from my water test in June and do not have any ice chest to take a sample or return it. It's a nice day but overcast and around 77 F. No Turtles but a good deal of fish- L/Mouth and Pan Fish. No loon today and our Eagle must be on vacation as well. I went down 18.5 ' and had only 12.5' clear.
+The month is almost over and I have nor received back any results from my water test in June and do not have any ice chest to take a sample or return it. We are also getting some long stem lake grass.
+07/30/2014,Beautiful day about 67 sun and blue sky. Fish- turtles- our Eagle is back and the loon was on the lake yesterday. We also have a Blue Haren that hangs at the lake almost everyday. Lots for little baby frogs- about a eighth on an inch- long. they are in the gardens- drive way and lake side. I hit a hole 20' down and clear at 15'down. We did have some rain last night but not much. We need rain !! The lake is going down.
+08/07/2014,Great day- 80- sunny- frogs- turtles- loon. and lots of fish. I went down 20' and it was clear at 16'.
+09/05/2014,Cool today and overcast around 70- with wind. I saw a few fish- tertales- but no Loon or Eagles- although the loon and the Eagles have been around- just not today. I will take the last reading of the year next week and send it to Madison. We have received lots of rain- and the Lake is up- but still below 2005 readings by a few feet.I went  to 21.5 f down and had a clear reading at 16'F.
+09/09/2014,Fantastic day- light wind- 77 F- we have our turtles- and fish- both L/Mouth Bass and pan fish with lots of minnows around the shore. No Eagle or loon today- I have not seem then for several days.I took the last reading of the lake for the year- and have sent the information off to Madison for testing. I will still take the clarity and depth of the lake for a few more weeks depending on the weather.I was at the deep part of the Lake at 21.5 with a clear reading of 17'. 
+05/28/2015,The weather was fantastic. Lots of fish- Blue gill- L/ Mouth bass- frogs- Eagle- and our loon has returned as well. We have a good deal of snow- and rain this year and the Lake is almost to the level it was when we purchased the property. One last thing- the temp gauge may need a new battery. It gave me a reading- but not like last year. I plugged in the gauge- and got a reading of 101- then- 95-I put the gauge in the water and it read 59 at 20 Ft. and 65 at 10Ft. but when I took the gauge out it reverted back to some letters and a number? If I need a new Temp. Gauge please send me one and I will return the old one to you. Thanks- Mike
+06/18/2015,This was a beautiful day about 67/69F with a slight breeze. Lots of Fish- Bass- B/Gill and tones of turtles taking a sun bath. Our one and only Loon is back as well. He/She is not around every day but several times in a week. We also have our Eagles fishing and doing well at it. I hit 23.5 F and the water was clear at 17.5 F. I think that I need a NEW Temperature Gauge to take the water Temp. I am not sure mine is working right. Also the Lake is back to Normal for water depth as when we purchased the property back in 2003. So moving forward I will  say the water level is NORMAL.I feel that the Bottom of the lake has changed. the deep part has moved. Is there information on how the Lake Bottom shift after a long winter with deep ice on the lake. If so send it off- I would like to read it. Thanks.
+07/16/2015,Another great day- its about 72F blue sky very little wind. We have more turtles- lots of fish/Mouth and Pan Fish. About a eek ago we had (2) loons on the lake. I also found a dead Large Snapping turtle. The water on the lake is back to the Normal level of when we purchased the property back in 2003. This is my gauge for the water level. I hit 23.5' today and the clear mark was at 15.5'; we did receive rain on Monday. The temp. f the water is around normal at 73.7 at 10' down and 67.2 at 23'5' down. I am not sure that the thermometer is reading accurate- so you may want to send me another one. I think that the lake should be higher with all the rain and snow- but also I think that the bottom on the lake has shifted during the winter. Does the lake shift in winter with lots of ice and snow?
+I sent in my water samples for July today- you should have them on Friday.
+08/27/2015,I am not sure that the comments were attached. It was a beautiful day- temp around 70- sun and very calm. We have our loon- Haran- turtle's- L/M Bass- pan fish- its a party on Lily Lake. The deepest part of the Lake this year was 23.5ft. We had great snow- and Normal summer temps- so not much evaporation. I also took the BLANK Samples today and will ship everything today.
+05/12/2016,It was a nice day- Outside temp around 65- partly sunny with a good lake breeze. This is my first Data for 016. We had lots of turtles- L/mouth Bass- minnows- frogs- some Wood ducks- and a loan Muskrat. The Lake is very high- that best we have had since 2005. There is NO Beach- with the water level almost to the top or our dock and some docks are under water. The lake is very clear and clean. Lots of the cattails are under water. I found one area where the water was 24F deep with clear secchi disk at 12 feet. It was hard to get a good reading because I was in a canoe.
+06/21/2016,It is a beautiful day on Lily Lake. The outside temp is around 78 and partly sunny- with winds of 10/15 mph. Our Loons are back but not today- the Eagles are fishing- we have loads of fish- and the Turtles are sunning on the logs. I did spot 6 Wood ducks along with an Otter. The water is as high as it has ever been and clear. It seems that the ice this year has changed the bottom and has moved the sand around. We have lots of flowers and the Cattails are is decline. I think they have drowned themselves. I found a spot where the water is 25.5' and 12.5' Clear on the S/ Disc.
+07/30/2016,Its a great day on Lily Lake- the temp is around 78f- blue sky with light clouds and sunny. We have a light breeze with lots of wildlife- ducks- turtles- birds- and lots of fish- both L/Mouth and pan fish. We have had good rain over the summer so the lake remains high. I went down 25.5 feet deep and had clear readings at 17'. The water is warm- at 24' down it was 72.6F at 15' the water was 74.7 and at 5' the water temp is 77.3.
+08/31/2016,Another great day- partly sunny about 75F with little wind. Lots of fish- Turtles- and some ducks. We have not seen our Loons this month and only one Eagle fishing. We also have more lake grass- and our muskrat is very busy. The lake is still hair for this time of the year but we did loose some water. 
+05/30/2017,It is cold 50- and overcast with a strong wind. We still have lots of fish L/mouth bass- pan fish- birds- turtles. We have had a great deal of rain and the lake is up- which is all good. We also have some muskrats which are keeping the cattails at bay. I found a spot that was 23.5 feet deep- but was to cold to stay out on the lake with the wind.
+06/21/2017,Great day about 72 some clouds. The lake was full of fish- turtles- ducks- and our loon. The lake is very high with all the rain that we have received- with more on the way. I found a hole at 24.5 feet and the secchi was at 12 clear. The water temp was 58.2 at 21feet- 61.5 at 18 feet and 70.5 at 10 feet.
+07/25/2017,Very nice day- a little overcast- but sun !! The lake was clear- blue with lots of fish- pan + L/mouth bass- turtles- birds- Eagle and the sound of Loons- but I cant see them. Our muskrat is very busy taken care of unwanted cattails. The lake is still high- I found the same spot at 25 5feet deep. The out side temp is around 78F with a breeze.
+
+
+
+
+Start Date,Group Name,Project Name
+09/07/2007,Karen LuMaye,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+10/20/2007,Karen LuMaye,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/23/2008,Karen LuMaye,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/25/2008,Karen LuMaye,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+05/27/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/03/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/10/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/18/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/24/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/02/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/08/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/29/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/20/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/26/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+09/03/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+09/23/2013,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+05/28/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/05/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/09/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/19/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/26/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/04/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/10/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/18/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/30/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/07/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+09/05/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+09/09/2014,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+05/28/2015,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/18/2015,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/16/2015,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/27/2015,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/27/2015,Mike Madigan,Citizen Lake Monitoring Network QA/QC - 2015
+05/12/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+05/31/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/21/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/20/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/30/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/29/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/31/2016,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+05/30/2017,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+06/21/2017,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+07/25/2017,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center
+08/28/2017,Mike Madigan,Citizen Lake Monitoring - Water Quality - Lily Lake - Center

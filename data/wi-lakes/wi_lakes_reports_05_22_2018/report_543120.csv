@@ -1,0 +1,45 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spauldings Pond,Rock,780000,SC,54,,543120,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/15/1974,,,,,40,,57,,,,,,
+1,11/12/1974,,,,,150,,67,,,,,,
+62595126,09/17/2012,1,NO,0.3,89.7,217,77,70,69,,,,,
+145583699,07/05/2017,,,,44.3,127,,66,63,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/15/1974,,,43,C,11.5,MG/L
+11/12/1974,,,45.5,C,9.9,MG/L
+09/17/2012,0,METERS,19.4,DEGREES C,11.6,MG/L
+09/17/2012,0.5,METERS,19.3,DEGREES C,11.5,MG/L
+09/17/2012,1,METERS,19.1,DEGREES C,11.3,MG/L
+09/17/2012,1.5,METERS,19.1,DEGREES C,11.3,MG/L
+09/17/2012,2,METERS,19,DEGREES C,11.4,MG/L
+09/17/2012,2.3,METERS,19,DEGREES C,11.4,MG/L
+07/05/2017,0,METERS,25.9,DEGREES C,13.95,MG/L
+07/05/2017,1,METERS,25.2,DEGREES C,12.4,MG/L
+07/05/2017,2,METERS,22.6,DEGREES C,2.1,MG/L
+07/05/2017,3,METERS,21.7,DEGREES C,.3,MG/L
+07/05/2017,3.3,METERS,21.2,DEGREES C,.03,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/15/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/12/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+02/15/1974,Data Collectors,Migrated from STORET Legacy
+11/12/1974,Data Collectors,Migrated from STORET Legacy
+09/17/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+07/05/2017,CATHERINE L HEIN- SHELBY T KAIL,EPA National Lakes Assessment 2017

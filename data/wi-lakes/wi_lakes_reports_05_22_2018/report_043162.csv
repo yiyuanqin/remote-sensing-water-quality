@@ -1,0 +1,332 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Shunenberg Lake,Bayfield,2743600,NO,4,,043162,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189916,09/06/2001,12,YES,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189916,10/18/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189935,05/24/2004,8.25,NO,2.5,,14,47,49,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,06/07/2004,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,06/28/2004,,,,0.78,,,,33,,,,,
+8189935,06/28/2004,12,YES,3.6,,14,41,49,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,08/10/2004,12,YES,3.6,1.4,15,41,49,37,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,09/13/2004,,,,1.64,14,,49,39,,,,,
+8189935,10/04/2004,10,NO,3,,16,44,50,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,05/31/2005,12,YES,3.6,,18,41,51,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,06/21/2005,10,NO,3,1.58,16,44,50,38,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,07/11/2005,12,NO,3.6,1.22,19,41,51,36,NORMAL,1.6,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,08/22/2005,12,NO,3.6,1.64,18,41,51,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,09/26/2005,12.5,NO,3.8,,38,41,56,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,05/16/2006,9,NO,2.7,,21,45,52,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,06/12/2006,9,NO,2.7,1.63,19,45,51,38,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,07/10/2006,13.5,NO,4.1,0.27,20,40,51,25,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,08/14/2006,11,NO,3.3,0.7,25,43,53,32,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,09/11/2006,12,NO,3.6,1.77,28,41,54,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189935,05/21/2007,11,NO,3.3,,19,43,51,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189935,06/04/2007,10,NO,3,0.74,17,44,50,33,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189935,07/17/2007,11,NO,3.3,0.77,31,43,55,33,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189935,09/03/2007,12,NO,3.6,1.46,29,41,54,38,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189935,05/20/2008,12.5,NO,3.8,,15,41,49,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189935,06/23/2008,10.5,NO,3.2,1.17,19,43,51,36,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189935,07/28/2008,12.25,NO,3.7,0.77,19,41,51,33,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189935,09/08/2008,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189935,09/09/2008,,,,1.16,21,,52,36,,,,,
+1,05/27/2009,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/29/2009,,,,1.41,19,,51,37,,,,,
+27091770,06/29/2009,12.6,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+27091770,07/28/2009,,,,1.37,20,,51,37,,,,,
+27091770,09/02/2009,12,NO,3.6,2,21,41,52,40,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+27091770,06/22/2010,14,YES,4.3,,,39,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/24/2010,,,,0.87,17,,50,34,,,,,
+27091770,07/30/2010,14,YES,4.3,,,39,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+27091770,08/03/2010,,,,0.89,16,,50,34,,,,,
+27091770,08/24/2010,13,YES,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+27091770,08/26/2010,,,,1.26,18,,51,37,,,,,
+27091770,06/29/2011,15,YES,4.6,1.5,16,38,50,38,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+27091770,07/27/2011,15,YES,4.6,,,38,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+27091770,07/29/2011,,,,0.55,19,,51,30,,,,,
+27091770,08/26/2011,15,YES,4.6,,,38,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+27091770,07/21/2014,13.5,YES,4.1,,18.8,40,51,,,15.66,CLEAR,GREEN,1-Beautiful, could not be nicer
+27091770,05/26/2015,14.75,YES,4.5,,16.8,38,50,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,07/15/2015,,,,0.285,15.2,,49,25,,,,,
+27091770,07/15/2015,13.5,YES,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+27091770,08/26/2015,14,YES,4.3,,,39,,,HIGH,15.33,CLEAR,GREEN,1-Beautiful, could not be nicer
+27091770,09/15/2015,14.5,YES,4.4,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+27091770,08/09/2016,,,,1.01,25.4,,53,35,,,,,
+27091770,06/27/2017,,,,0.261,,,,25,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/24/2004,1,FEET,46.7,DEGREES F,10,MG/L
+05/24/2004,3,FEET,46.5,DEGREES F,10,MG/L
+05/24/2004,6,FEET,46.5,DEGREES F,9,MG/L
+05/24/2004,9,FEET,45.6,DEGREES F,8,MG/L
+05/24/2004,12,FEET,45.6,DEGREES F,8,MG/L
+06/28/2004,1,FEET,57.5,DEGREES F,7,MG/L
+06/28/2004,3,FEET,56.4,DEGREES F,12,MG/L
+06/28/2004,6,FEET,49.8,DEGREES F,12,MG/L
+06/28/2004,9,FEET,47.4,DEGREES F,9,MG/L
+06/28/2004,12,FEET,45.5,DEGREES F,9,MG/L
+08/10/2004,1,FEET,60.8,DEGREES F,9,MG/L
+08/10/2004,3,FEET,51.9,DEGREES F,11,MG/L
+08/10/2004,6,FEET,48.5,DEGREES F,12,MG/L
+08/10/2004,9,FEET,46.5,DEGREES F,9,MG/L
+08/10/2004,12,FEET,46.2,DEGREES F,9,MG/L
+10/04/2004,1,FEET,48,DEGREES F,9,MG/L
+10/04/2004,3,FEET,48,DEGREES F,9,MG/L
+10/04/2004,6,FEET,47.4,DEGREES F,9,MG/L
+10/04/2004,9,FEET,46.7,DEGREES F,6,MG/L
+10/04/2004,10,FEET,44.7,DEGREES F,5,MG/L
+05/31/2005,1,FEET,55.2,DEGREES F,12,MG/L
+05/31/2005,3,FEET,55,DEGREES F,11,MG/L
+05/31/2005,6,FEET,51,DEGREES F,9,MG/L
+05/31/2005,9,FEET,48.2,DEGREES F,8,MG/L
+05/31/2005,12,FEET,46.2,DEGREES F,9,MG/L
+05/31/2005,15,FEET,44.9,DEGREES F,8,MG/L
+06/21/2005,1,FEET,55.2,DEGREES F,4,MG/L
+06/21/2005,3,FEET,58.6,DEGREES F,7,MG/L
+06/21/2005,6,FEET,51,DEGREES F,7,MG/L
+06/21/2005,9,FEET,47.6,DEGREES F,9,MG/L
+06/21/2005,12,FEET,46.4,DEGREES F,5,MG/L
+06/21/2005,15,FEET,46.4,DEGREES F,5,MG/L
+07/11/2005,1,FEET,66,DEGREES F,6,MG/L
+07/11/2005,3,FEET,59.7,DEGREES F,7,MG/L
+07/11/2005,6,FEET,51.6,DEGREES F,11,MG/L
+07/11/2005,9,FEET,48.9,DEGREES F,11,MG/L
+07/11/2005,12,FEET,47.3,DEGREES F,7,MG/L
+07/11/2005,14,FEET,46.7,DEGREES F,6,MG/L
+08/22/2005,1,FEET,58.6,DEGREES F,11,MG/L
+08/22/2005,3,FEET,55.4,DEGREES F,12,MG/L
+08/22/2005,6,FEET,49.6,DEGREES F,12,MG/L
+08/22/2005,9,FEET,47.6,DEGREES F,10,MG/L
+08/22/2005,12,FEET,46.9,DEGREES F,9,MG/L
+09/26/2005,1,FEET,53.2,DEGREES F,7,MG/L
+09/26/2005,3,FEET,52.5,DEGREES F,7,MG/L
+09/26/2005,6,FEET,48,DEGREES F,7,MG/L
+09/26/2005,9,FEET,45.8,DEGREES F,3,MG/L
+09/26/2005,12,FEET,45.3,DEGREES F,3,MG/L
+09/26/2005,15,FEET,44.7,DEGREES F,1,MG/L
+05/16/2006,1,FEET,51,DEGREES F,11,MG/L
+05/16/2006,3,FEET,50,DEGREES F,9,MG/L
+05/16/2006,6,FEET,48,DEGREES F,5,MG/L
+05/16/2006,9,FEET,46.5,DEGREES F,5,MG/L
+05/16/2006,12,FEET,45.6,DEGREES F,,
+05/16/2006,15,FEET,44.9,DEGREES F,,
+06/12/2006,1,FEET,57.2,DEGREES F,9,MG/L
+06/12/2006,3,FEET,56.4,DEGREES F,9,MG/L
+06/12/2006,6,FEET,51.2,DEGREES F,9,MG/L
+06/12/2006,9,FEET,48.9,DEGREES F,6,MG/L
+06/12/2006,12,FEET,45.8,DEGREES F,9,MG/L
+07/10/2006,1,FEET,64,DEGREES F,5,MG/L
+07/10/2006,3,FEET,60,DEGREES F,7,MG/L
+07/10/2006,6,FEET,51,DEGREES F,11,MG/L
+07/10/2006,9,FEET,48,DEGREES F,9,MG/L
+07/10/2006,12,FEET,46,DEGREES F,9,MG/L
+07/10/2006,15,FEET,45,DEGREES F,4,MG/L
+08/14/2006,1,FEET,64.2,DEGREES F,5,MG/L
+08/14/2006,3,FEET,60.2,DEGREES F,6,MG/L
+08/14/2006,6,FEET,49.8,DEGREES F,5,MG/L
+08/14/2006,9,FEET,47.1,DEGREES F,2,MG/L
+08/14/2006,12,FEET,45.6,DEGREES F,3,MG/L
+08/14/2006,15,FEET,44.9,DEGREES F,1.5,MG/L
+09/11/2006,1,FEET,51,DEGREES F,7,MG/L
+09/11/2006,3,FEET,53,DEGREES F,5,MG/L
+09/11/2006,6,FEET,49.4,DEGREES F,5,MG/L
+09/11/2006,9,FEET,47.4,DEGREES F,5,MG/L
+09/11/2006,12,FEET,45.6,DEGREES F,5,MG/L
+05/21/2007,1,FEET,52.1,DEGREES F,,
+05/21/2007,3,FEET,52.1,DEGREES F,,
+05/21/2007,6,FEET,50.5,DEGREES F,,
+05/21/2007,9,FEET,50.0,DEGREES F,,
+05/21/2007,12,FEET,46.2,DEGREES F,,
+05/21/2007,15,FEET,44.9,DEGREES F,,
+06/04/2007,1,FEET,62.6,DEGREES F,,
+06/04/2007,3,FEET,55.4,DEGREES F,,
+06/04/2007,6,FEET,49.8,DEGREES F,,
+06/04/2007,9,FEET,47.1,DEGREES F,,
+06/04/2007,12,FEET,46.2,DEGREES F,,
+07/17/2007,1,FEET,62.6,DEGREES F,,
+07/17/2007,3,FEET,58.4,DEGREES F,,
+07/17/2007,6,FEET,51.2,DEGREES F,,
+07/17/2007,9,FEET,49.2,DEGREES F,,
+07/17/2007,12,FEET,46.2,DEGREES F,,
+07/17/2007,15,FEET,45.8,DEGREES F,,
+09/03/2007,1,FEET,63.3,DEGREES F,,
+09/03/2007,3,FEET,59.3,DEGREES F,,
+09/03/2007,6,FEET,49.8,DEGREES F,,
+09/03/2007,9,FEET,47.3,DEGREES F,,
+09/03/2007,12,FEET,45.8,DEGREES F,,
+09/03/2007,15,FEET,44.9,DEGREES F,,
+05/20/2008,1,FEET,51.6,DEGREES F,,
+05/20/2008,3,FEET,51.4,DEGREES F,,
+05/20/2008,6,FEET,50.5,DEGREES F,,
+05/20/2008,9,FEET,47.6,DEGREES F,,
+05/20/2008,12,FEET,46,DEGREES F,,
+05/20/2008,15,FEET,45.3,DEGREES F,,
+06/23/2008,1,FEET,60.6,DEGREES F,,
+06/23/2008,3,FEET,58.2,DEGREES F,,
+06/23/2008,6,FEET,51.2,DEGREES F,,
+06/23/2008,9,FEET,48.2,DEGREES F,,
+06/23/2008,12,FEET,45.6,DEGREES F,,
+06/23/2008,15,FEET,45.1,DEGREES F,,
+07/28/2008,1,FEET,63.8,DEGREES F,,
+07/28/2008,3,FEET,59,DEGREES F,,
+07/28/2008,6,FEET,51.2,DEGREES F,,
+07/28/2008,9,FEET,48.5,DEGREES F,,
+07/28/2008,12,FEET,46.7,DEGREES F,,
+07/28/2008,15,FEET,45.3,DEGREES F,,
+09/08/2008,1,FEET,52.8,DEGREES F,,
+09/08/2008,3,FEET,52.3,DEGREES F,,
+09/08/2008,6,FEET,48.9,DEGREES F,,
+09/08/2008,9,FEET,46.4,DEGREES F,,
+09/08/2008,12,FEET,46.4,DEGREES F,,
+09/08/2008,15,FEET,46.2,DEGREES F,,
+05/27/2009,3,FEET,56.6,DEGREES F,,
+05/27/2009,6,FEET,51.8,DEGREES F,,
+05/27/2009,9,FEET,48,DEGREES F,,
+05/27/2009,12,FEET,45.6,DEGREES F,,
+05/27/2009,15,FEET,44.9,DEGREES F,,
+06/29/2009,3,FEET,60.1,DEGREES F,,
+06/29/2009,6,FEET,51.6,DEGREES F,,
+06/29/2009,9,FEET,48,DEGREES F,,
+06/29/2009,12,FEET,46.2,DEGREES F,,
+06/29/2009,15,FEET,45.5,DEGREES F,,
+09/02/2009,3,FEET,60.8,DEGREES F,,
+09/02/2009,6,FEET,51.8,DEGREES F,,
+09/02/2009,9,FEET,49.6,DEGREES F,,
+09/02/2009,12,FEET,47.6,DEGREES F,,
+09/02/2009,13,FEET,46,DEGREES F,,
+06/22/2010,3,FEET,59.3,DEGREES F,,
+06/22/2010,6,FEET,50,DEGREES F,,
+06/22/2010,9,FEET,49.4,DEGREES F,,
+06/22/2010,11,FEET,48,DEGREES F,,
+06/22/2010,14,FEET,45.5,DEGREES F,,
+07/30/2010,3,FEET,62,DEGREES F,,
+07/30/2010,6,FEET,57,DEGREES F,,
+07/30/2010,9,FEET,54,DEGREES F,,
+07/30/2010,12,FEET,48,DEGREES F,,
+07/30/2010,14,FEET,46,DEGREES F,,
+08/24/2010,0.5,FEET,70,DEGREES F,,
+08/24/2010,3,FEET,63,DEGREES F,,
+08/24/2010,6,FEET,57,DEGREES F,,
+08/24/2010,9,FEET,54,DEGREES F,,
+08/24/2010,12,FEET,46,DEGREES F,,
+08/24/2010,14,FEET,45,DEGREES F,,
+06/29/2011,0,FEET,60,DEGREES F,,
+06/29/2011,3,FEET,54,DEGREES F,,
+06/29/2011,6,FEET,49,DEGREES F,,
+06/29/2011,9,FEET,47,DEGREES F,,
+06/29/2011,12,FEET,46,DEGREES F,,
+06/29/2011,15,FEET,45,DEGREES F,,
+07/27/2011,0,FEET,65,DEGREES F,,
+07/27/2011,3,FEET,59,DEGREES F,,
+07/27/2011,6,FEET,51,DEGREES F,,
+07/27/2011,9,FEET,48.5,DEGREES F,,
+07/27/2011,12,FEET,46.7,DEGREES F,,
+07/27/2011,15,FEET,45,DEGREES F,,
+08/26/2011,0,FEET,63,DEGREES F,,
+08/26/2011,3,FEET,58,DEGREES F,,
+08/26/2011,6,FEET,52,DEGREES F,,
+08/26/2011,9,FEET,48,DEGREES F,,
+08/26/2011,12,FEET,45,DEGREES F,,
+08/26/2011,15,FEET,45,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/06/2001,Clear sunny day- very little wind- other conditions normal.    
+10/18/2001,Overcast and sighted many ducks and one 19" bass.  Water pale green.    
+05/24/2004,Cold and windy.  No rain but overcast.    
+06/07/2004,Sunny- windy- beautiful day.  Loon flying over calling out with song!  Ten frogs on a log.    
+06/28/2004,CENTER - 6FT INTEGRATED SAMPLE    
+06/28/2004,Sunny day- slight breeze.  Many birds.    
+08/10/2004,Cold- overcast.  Slight breeze.    
+09/13/2004,CENTER - BOTTOM    
+10/04/2004,Cold- clear- sunny weather.  No wind.  Wood ducks present.    
+05/31/2005,beautiful sunny day- observed marsh merrygolds- ducks- turtles on log and many swooping birds    
+06/21/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/11/2005,beautiful sunny day- observed many birds- kingfisher among them- loons overhead    
+08/22/2005,beautiful- partly cloudy- sunny day- slight breeze    
+09/26/2005,beautiful crisp sunny day- slight breeze- much bird activity along shoreline- counted eight ducks    
+05/16/2006,windy overcast day- noticed many nesting birds- call of the loon was forceful
+06/12/2006,Slight breeze- beautiful sunny day- Mother duck with seven ducklings- noticed seven turtles on a log
+07/10/2006,Breezy north wind- cold clear day- Mother duck still with seven ducklings
+08/14/2006,Breezy clear day- south wind- some ducks and one eagle
+09/11/2006,Breezy north wind- sighted geese- various ducks and terns
+05/21/2007,Cold- cloudy day
+06/04/2007,Cold- cloudy day
+07/17/2007,Warm sunny day- no breeze
+09/03/2007,Warm sunny day- no breeze
+05/20/2008,Cold- clear windy morning. Many birds on shoreline. 
+06/23/2008,cold- clear calm morning. Many birds on the shoreline. 
+07/28/2008,Cold clear calm sunny morning. 
+09/08/2008,very cold- 40 degrees. sunny- calm morning. Heard wild turkeys in woods. 
+09/02/2009,Clear sky- no wind- northern pike and yellow perch sighted as went to testing location. bottom is silt abou7t 6 to 8 inches deep. There are only 2 or 3 areas of shunenberg lake that have enouth depth to use secci dish and both of these seem to be near natural spring activity. The general depth is less than 6 feet on the average and the wateer is clear down to he silt level at the bottom.  There is a large amount of floating algae apparent. My wife- Bobbie Pearson- swims in the lake almost every day the waqter temp ios above 60 and is complaining that the vegetation is making the water more cloudy this year than in the past. Ron Pearson- assistant; 5685 Snowshoe road Barnes 54873 715-795-2081 for further infl. 
+06/22/2010,loon nest active- fisherman no luck- eagle- 
+07/30/2010,partly cloudy/sunny 72 degrees wind none
+08/24/2010,water level is high; we have had 11 inches of rain in last two weeks and lake is up about 10 inches. temp outside is 77 and clear. much of cloudiness of water has moved downstream since Shunenberg is a flowage/seerpage lake. Eagle overhead fishing.  Several 12 t0 14 inch bass sighted at about 8 feet near weed line.
+07/27/2011,cloudy- fish on depth finder- 
+08/26/2011,coots- sunny- partly cloudy-rined earlier and thunderstorm
+07/21/2014,Reading called in by Grace Wisdom.  Water level was 15 feet 8 inches.
+
+
+
+
+Start Date,Group Name,Project Name
+09/06/2001,Ronald Pearson,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+10/18/2001,Ronald Pearson,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+05/24/2004,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/07/2004,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/28/2004,Data Collectors,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/28/2004,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/10/2004,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/13/2004,Data Collectors,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+10/04/2004,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+05/31/2005,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/21/2005,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/11/2005,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/22/2005,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/26/2005,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+05/16/2006,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/12/2006,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/10/2006,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/14/2006,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/11/2006,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+05/21/2007,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/04/2007,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/17/2007,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/03/2007,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+05/20/2008,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/23/2008,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/28/2008,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/08/2008,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/09/2008,George Wisdom,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/09/2008,George Wisdom,Citizen Lake Monitoring Network QA/QC - 2008
+05/27/2009,Data Collectors,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/29/2009,Data Collectors,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/29/2009,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/28/2009,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/02/2009,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/22/2010,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/24/2010,Data Collectors,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/30/2010,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/03/2010,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/24/2010,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/26/2010,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/29/2011,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/27/2011,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/29/2011,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/26/2011,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/21/2014,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+05/26/2015,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/15/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+07/15/2015,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/26/2015,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+09/15/2015,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+08/09/2016,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center
+06/27/2017,William Hoyer,Citizen Lake Monitoring - Water Quality - Shunenberg Lake; At Center

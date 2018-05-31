@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lynx Lake,Vilas,2954500,NO,64,,10047200,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+122938209,05/14/2017,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,06/01/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,06/27/2017,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/08/2017,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/14/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - North Hole
+06/01/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - North Hole
+06/27/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - North Hole
+08/08/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - North Hole

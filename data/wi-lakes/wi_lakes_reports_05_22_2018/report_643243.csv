@@ -1,0 +1,177 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Middle Sugarbush Lake,Vilas,2317700,NO,64,,643243,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/13/1984,12.1,,3.7,5,,41,,47,,,,,
+1,07/18/1984,12.5,,3.8,5,,41,,47,,,,,
+128982168,06/18/2016,,,,,,,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+128982168,07/01/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,07/03/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+129626225,07/08/2016,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,07/09/2016,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,07/29/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+129626225,07/30/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+128982168,08/07/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+1,08/28/2016,,,,1.56,14.9,,49,38,,,,,
+129626225,09/05/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,09/30/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,06/17/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+1,06/25/2017,,,,6.3,17.1,,50,49,,,,,
+128982168,06/25/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+129626225,07/03/2017,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+128982168,07/08/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,07/08/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,07/22/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,07/23/2017,,,,3.21,11.7,,47,44,,,,,
+128982168,08/13/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,08/20/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+129626225,08/21/2017,14,NO,4.3,,,39,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+128982168,09/04/2017,12.5,NO,3.8,4,8.62,41,45,45,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129626225,10/08/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/18/2016,2,FEET,75,DEGREES F,,
+06/18/2016,4,FEET,74,DEGREES F,,
+06/18/2016,6,FEET,72,DEGREES F,,
+06/18/2016,8,FEET,71,DEGREES F,,
+06/18/2016,10,FEET,70,DEGREES F,,
+06/18/2016,12,FEET,67,DEGREES F,,
+06/18/2016,14,FEET,62,DEGREES F,,
+06/18/2016,16,FEET,58,DEGREES F,,
+06/18/2016,18,FEET,52.5,DEGREES F,,
+06/18/2016,20,FEET,51,DEGREES F,,
+06/18/2016,22,FEET,49,DEGREES F,,
+06/18/2016,24,FEET,46.8,DEGREES F,,
+06/18/2016,26,FEET,45,DEGREES F,,
+06/18/2016,28,FEET,43.5,DEGREES F,,
+06/18/2016,30,FEET,43,DEGREES F,,
+06/18/2016,32,FEET,43,DEGREES F,,
+07/03/2016,2,FEET,72.5,DEGREES F,,
+07/03/2016,4,FEET,72.4,DEGREES F,,
+07/03/2016,6,FEET,72.3,DEGREES F,,
+07/03/2016,8,FEET,72,DEGREES F,,
+07/03/2016,10,FEET,71.4,DEGREES F,,
+07/03/2016,12,FEET,70.6,DEGREES F,,
+07/03/2016,14,FEET,68.8,DEGREES F,,
+07/03/2016,16,FEET,64.6,DEGREES F,,
+07/03/2016,18,FEET,57.4,DEGREES F,,
+07/03/2016,20,FEET,52,DEGREES F,,
+07/03/2016,22,FEET,49.6,DEGREES F,,
+07/03/2016,24,FEET,46.8,DEGREES F,,
+07/03/2016,26,FEET,44.9,DEGREES F,,
+07/03/2016,28,FEET,44.8,DEGREES F,,
+07/03/2016,30,FEET,44.2,DEGREES F,,
+07/03/2016,32,FEET,43.8,DEGREES F,,
+08/07/2016,1,FEET,77,DEGREES F,8.4,MG/L
+08/07/2016,2,FEET,77,DEGREES F,8.3,MG/L
+08/07/2016,3,FEET,77,DEGREES F,8.3,MG/L
+08/07/2016,4,FEET,76,DEGREES F,8.3,MG/L
+08/07/2016,5,FEET,76,DEGREES F,8.3,MG/L
+08/07/2016,6,FEET,76,DEGREES F,8.2,MG/L
+08/07/2016,7,FEET,76,DEGREES F,8.2,MG/L
+08/07/2016,8,FEET,76,DEGREES F,8.1,MG/L
+08/07/2016,9,FEET,75,DEGREES F,8,MG/L
+08/07/2016,10,FEET,75,DEGREES F,7.8,MG/L
+08/07/2016,11,FEET,75,DEGREES F,7.7,MG/L
+08/07/2016,12,FEET,75,DEGREES F,7.6,MG/L
+08/07/2016,13,FEET,74,DEGREES F,7,MG/L
+08/07/2016,14,FEET,72,DEGREES F,5.5,MG/L
+08/07/2016,15,FEET,68,DEGREES F,3.6,MG/L
+08/07/2016,16,FEET,63,DEGREES F,2.9,MG/L
+08/07/2016,17,FEET,60,DEGREES F,2.5,MG/L
+08/07/2016,18,FEET,58,DEGREES F,2.2,MG/L
+08/07/2016,19,FEET,55,DEGREES F,1.8,MG/L
+08/07/2016,20,FEET,51,DEGREES F,.7,MG/L
+08/07/2016,21,FEET,49,DEGREES F,.2,MG/L
+08/07/2016,22,FEET,47,DEGREES F,.1,MG/L
+08/07/2016,23,FEET,47,DEGREES F,.1,MG/L
+08/07/2016,24,FEET,46,DEGREES F,.07,MG/L
+08/07/2016,25,FEET,45,DEGREES F,.06,MG/L
+08/07/2016,26,FEET,45,DEGREES F,.06,MG/L
+08/07/2016,27,FEET,45,DEGREES F,.05,MG/L
+08/07/2016,28,FEET,45,DEGREES F,.05,MG/L
+08/07/2016,29,FEET,44,DEGREES F,.05,MG/L
+08/07/2016,30,FEET,44,DEGREES F,.05,MG/L
+08/07/2016,31,FEET,44,DEGREES F,.05,MG/L
+08/07/2016,32,FEET,44,DEGREES F,.04,MG/L
+08/07/2016,33,FEET,44,DEGREES F,.04,MG/L
+08/07/2016,34,FEET,44,DEGREES F,.04,MG/L
+08/07/2016,35,FEET,44,DEGREES F,.04,MG/L
+06/25/2017,3,FEET,66,DEGREES F,,
+06/25/2017,6,FEET,66,DEGREES F,,
+06/25/2017,9,FEET,66,DEGREES F,,
+06/25/2017,12,FEET,66,DEGREES F,,
+06/25/2017,15,FEET,60,DEGREES F,,
+06/25/2017,18,FEET,54.5,DEGREES F,,
+06/25/2017,21,FEET,50,DEGREES F,,
+06/25/2017,24,FEET,48,DEGREES F,,
+09/04/2017,0,FEET,66.5,DEGREES F,,
+09/04/2017,3,FEET,66,DEGREES F,,
+09/04/2017,6,FEET,65.5,DEGREES F,,
+09/04/2017,9,FEET,65.3,DEGREES F,,
+09/04/2017,12,FEET,64.7,DEGREES F,,
+09/04/2017,15,FEET,64.4,DEGREES F,,
+09/04/2017,18,FEET,62.7,DEGREES F,,
+09/04/2017,21,FEET,57,DEGREES F,,
+09/04/2017,24,FEET,53,DEGREES F,,
+09/04/2017,27,FEET,48.5,DEGREES F,,
+09/04/2017,30,FEET,47,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/13/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/18/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/09/2016,We monitored the same spot yesterday when it was very cloudy and rainy- today was bright and sunny and I was surprised to get the exact reading of 8.5'. 
+We saw loons and eagles and our international guests came along today and found the Secchi Disk project really interesting! 
+07/30/2016,30 percent cloud cover- sunny- calm.
+Testing a little later in the day with shade on the side of the boat makes a difference. 
+Loons are near by!
+09/05/2016,70 percent cloud cover- windy.
+09/30/2016,sunny- calm- shade side of boat
+06/17/2017,Partly cloudy- light breeze. Previous days have been very stormy. Disk on shade side of boat.
+07/03/2017,Sunny- light breeze. Previous days very windy. Lots of boat activity. Shade side of boat.
+07/08/2017,Sunny- light breeze. Lots of boat activity. Shade side of boat.
+07/22/2017,Mostly sunny- light breeze. Weather has been calm. Very little boat activity.
+08/20/2017,Sunny- windy- shade side of boat.
+08/21/2017,Sunny- hazy- calm- during eclipse
+10/08/2017,Sunny and clear- windy- sunny side of boat due to wind.
+
+
+
+
+Start Date,Group Name,Project Name
+07/13/1984,Data Collectors,Migrated from STORET Legacy
+07/18/1984,Data Collectors,Migrated from STORET Legacy
+06/18/2016,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/01/2016,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/03/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/08/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/09/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/29/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/30/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+08/07/2016,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+08/28/2016,Data Collectors,Sugarbush Chain - Extra Water Quality Monitoring
+09/05/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+09/30/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+06/17/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+06/25/2017,Data Collectors,Sugarbush Chain - Extra Water Quality Monitoring
+06/25/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/03/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/08/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/08/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/22/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+07/23/2017,Data Collectors,Sugarbush Chain - Extra Water Quality Monitoring
+08/13/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+08/20/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+08/21/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+09/04/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole
+09/04/2017,Ted Amman,Sugarbush Chain - Extra Water Quality Monitoring
+10/08/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake (2317700)- Deep Hole

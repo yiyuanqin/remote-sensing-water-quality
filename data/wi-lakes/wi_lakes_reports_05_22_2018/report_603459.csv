@@ -1,0 +1,172 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Random Lake,Sheboygan,30300,SE,60,,603459,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190965,06/13/1987,3,NO,0.9,,,61,,,,,,GREEN,
+8190965,06/27/1987,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190965,07/10/1987,2.25,NO,0.7,,,65,,,,,,GREEN,
+8190965,07/26/1987,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190965,08/23/1987,2.25,NO,0.7,,,65,,,,,,GREEN,
+8190965,08/08/2001,3,YES,0.9,,,61,,,NORMAL,,MURKY,GREEN,
+8189317,05/31/2002,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189317,08/05/2002,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189317,06/25/2003,4.75,NO,1.4,,,55,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189317,07/30/2003,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189317,08/16/2003,3.75,NO,1.1,,,58,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189317,09/01/2003,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189317,07/09/2004,5,NO,1.5,,,54,,,HIGH,4.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118673513,07/10/2015,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,07/15/2015,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,07/30/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,08/11/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,08/27/2015,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,09/01/2015,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,09/11/2015,, ,,,,,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,09/19/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,10/12/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118673513,07/25/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/08/2001,0,FEET,87,DEGREES F,10,MG/L
+08/08/2001,2,FEET,87,DEGREES F,11,MG/L
+08/08/2001,4,FEET,87,DEGREES F,11,MG/L
+08/08/2001,6,FEET,86,DEGREES F,12,MG/L
+08/08/2001,8,FEET,80,DEGREES F,9,MG/L
+08/08/2001,10,FEET,76,DEGREES F,3,MG/L
+08/08/2001,12,FEET,73,DEGREES F,2,MG/L
+05/31/2002,0,FEET,70,DEGREES F,9,MG/L
+05/31/2002,2,FEET,69,DEGREES F,10,MG/L
+05/31/2002,4,FEET,68,DEGREES F,10,MG/L
+05/31/2002,6,FEET,62,DEGREES F,11,MG/L
+05/31/2002,8,FEET,58,DEGREES F,11,MG/L
+05/31/2002,10,FEET,56,DEGREES F,10,MG/L
+05/31/2002,12,FEET,55,DEGREES F,9,MG/L
+05/31/2002,13,FEET,55,DEGREES F,3,MG/L
+08/05/2002,0,FEET,79,DEGREES F,9,MG/L
+08/05/2002,2,FEET,79,DEGREES F,9,MG/L
+08/05/2002,4,FEET,79,DEGREES F,9,MG/L
+08/05/2002,6,FEET,79,DEGREES F,9,MG/L
+08/05/2002,8,FEET,78,DEGREES F,9,MG/L
+08/05/2002,10,FEET,78,DEGREES F,6,MG/L
+08/05/2002,12,FEET,75,DEGREES F,1,MG/L
+08/05/2002,13,FEET,74,DEGREES F,1,MG/L
+06/25/2003,0,FEET,81.8,DEGREES F,7.2,MG/L
+06/25/2003,2,FEET,80.4,DEGREES F,7.3,MG/L
+06/25/2003,4,FEET,79.3,DEGREES F,7.54,MG/L
+06/25/2003,6,FEET,76.8,DEGREES F,7.41,MG/L
+06/25/2003,8,FEET,74.1,DEGREES F,8.03,MG/L
+06/25/2003,10,FEET,71.4,DEGREES F,8.1,MG/L
+06/25/2003,12,FEET,68.5,DEGREES F,7.32,MG/L
+06/25/2003,12.5,FEET,67.1,DEGREES F,1.49,MG/L
+07/30/2003,0,FEET,76.8,DEGREES F,7.49,MG/L
+07/30/2003,2,FEET,76.7,DEGREES F,7.46,MG/L
+07/30/2003,4,FEET,76.7,DEGREES F,7.49,MG/L
+07/30/2003,6,FEET,75.9,DEGREES F,7.41,MG/L
+07/30/2003,8,FEET,75.6,DEGREES F,7.03,MG/L
+07/30/2003,10,FEET,75.2,DEGREES F,5.69,MG/L
+07/30/2003,12,FEET,74.3,DEGREES F,1.93,MG/L
+07/30/2003,13,FEET,73,DEGREES F,.42,MG/L
+08/16/2003,0,FEET,82.6,DEGREES F,7.3,MG/L
+08/16/2003,2,FEET,82,DEGREES F,7.53,MG/L
+08/16/2003,4,FEET,81.3,DEGREES F,7.62,MG/L
+08/16/2003,6,FEET,80.2,DEGREES F,7.56,MG/L
+08/16/2003,8,FEET,76.6,DEGREES F,7.12,MG/L
+08/16/2003,10,FEET,74.7,DEGREES F,5.55,MG/L
+08/16/2003,12,FEET,73.6,DEGREES F,2.51,MG/L
+08/16/2003,12.5,FEET,73,DEGREES F,1.64,MG/L
+09/01/2003,0,FEET,74.3,DEGREES F,7.27,MG/L
+09/01/2003,2,FEET,73.9,DEGREES F,7.35,MG/L
+09/01/2003,4,FEET,73.6,DEGREES F,7.41,MG/L
+09/01/2003,6,FEET,73.4,DEGREES F,7.44,MG/L
+09/01/2003,8,FEET,72.5,DEGREES F,6.99,MG/L
+09/01/2003,10,FEET,72.3,DEGREES F,6.99,MG/L
+09/01/2003,12,FEET,72.1,DEGREES F,6.25,MG/L
+09/01/2003,12.6,FEET,72.1,DEGREES F,1.77,MG/L
+07/09/2004,0,FEET,69.6,DEGREES F,7.11,MG/L
+07/09/2004,2,FEET,69.6,DEGREES F,7.09,MG/L
+07/09/2004,4,FEET,69.3,DEGREES F,7.09,MG/L
+07/09/2004,6,FEET,68.5,DEGREES F,6.56,MG/L
+07/09/2004,8,FEET,68.2,DEGREES F,6.62,MG/L
+07/09/2004,10,FEET,67.8,DEGREES F,5.57,MG/L
+07/09/2004,12,FEET,67.5,DEGREES F,4.9,MG/L
+07/10/2015,0,FEET,23.8,DEGREES C,9.5,MG/L
+07/10/2015,2,FEET,23.1,DEGREES C,10,MG/L
+07/10/2015,4,FEET,22.9,DEGREES C,10,MG/L
+07/10/2015,6,FEET,22.8,DEGREES C,9.5,MG/L
+07/10/2015,8,FEET,22.7,DEGREES C,9.5,MG/L
+07/10/2015,10,FEET,22.3,DEGREES C,.4,MG/L
+07/15/2015,0,FEET,24.2,DEGREES C,7.4,MG/L
+07/15/2015,2,FEET,24.2,DEGREES C,7.3,MG/L
+07/15/2015,4,FEET,23.8,DEGREES C,7.1,MG/L
+07/15/2015,6,FEET,23.3,DEGREES C,6.8,MG/L
+07/15/2015,8,FEET,23.2,DEGREES C,7,MG/L
+07/15/2015,10,FEET,23.2,DEGREES C,.2,MG/L
+08/11/2015,0,FEET,24.4,DEGREES C,7.9,MG/L
+08/11/2015,2,FEET,24.4,DEGREES C,8,MG/L
+08/11/2015,4,FEET,24.4,DEGREES C,7.9,MG/L
+08/11/2015,6,FEET,24.3,DEGREES C,7.7,MG/L
+08/11/2015,8,FEET,23.6,DEGREES C,6.7,MG/L
+08/11/2015,10,FEET,23.3,DEGREES C,5.7,MG/L
+09/11/2015,0,FEET,22.1,DEGREES C,7,MG/L
+09/11/2015,2,FEET,22.2,DEGREES C,7,MG/L
+09/11/2015,4,FEET,22.1,DEGREES C,6.9,MG/L
+09/11/2015,6,FEET,21.9,DEGREES C,6.9,MG/L
+09/11/2015,8,FEET,21.8,DEGREES C,6.7,MG/L
+09/11/2015,10,FEET,21.3,DEGREES C,2.6,MG/L
+10/12/2015,0,FEET,14.4,DEGREES C,9.6,MG/L
+10/12/2015,2,FEET,14.4,DEGREES C,9.6,MG/L
+10/12/2015,4,FEET,14.3,DEGREES C,9.7,MG/L
+10/12/2015,6,FEET,14.3,DEGREES C,9.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/13/1987,Sunny- windy- and lots of boats and skiers.    
+06/27/1987,Sunny- windy- and there are no boats on the water.    
+07/10/1987,Sunny and windy.  There are boats and skiers.    
+07/26/1987,Windy- slight overcast- and the lake was rough.    
+08/23/1987,Partly cloudy- sunny- windy- lake rough- no boats.    
+08/08/2001,There are fish between 5ft and 12ft- some Eurasian water Milfoil fragments floating at surface- the pH at surface is 6.4- and it is hot and humid.  This shallower end of the lake was 2 degrees F warmer than the "deep hole." Ice on mid Jan. 2002    
+05/31/2002,No traffic- surrounded by heavy growth of eurasian water milfoil- but none in sampling site.    
+08/05/2002,Rexent light rain- little traffic (one fisherman). Weeds were cut last month. Fish between 5-8 feet. Some plant fragments    
+06/25/2003,No visible milfoil or debris; cottonwood fuzzies on surface; fish between 5'-10'; no traffic pH 6.9.    
+07/30/2003,Fish between 5' and 11'. Some plant fragments. Began raining heavily on "up" run; pH 6.9    
+08/16/2003,Fish between 5' and 10' (mostly 6-9'). Plant fragments with some fresh sprigs of milfoil. pH 6.9    
+09/01/2003,Satellite (landsat); fish between 6' and 10'. Some water ski activity. pH 6.5    
+07/09/2004,Fish @ 6'-9'.  Evidently the spraying (9 days earlier) did not affect the North Basin - yet - (the Deep Hole had no D.O. the bottom 8'.).  Bottom temp. 67.3 F- bottom D.O. 0.25 mg/l.  Water level +4.5".    
+08/11/2015,sunny calm
+
+
+
+
+Start Date,Group Name,Project Name
+06/13/1987,Fred Pflughoeft,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+06/27/1987,Fred Pflughoeft,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/10/1987,Fred Pflughoeft,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/26/1987,Fred Pflughoeft,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+08/23/1987,Fred Pflughoeft,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+08/08/2001,Fred Pflughoeft,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+05/31/2002,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+08/05/2002,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+06/25/2003,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/30/2003,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+08/16/2003,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+09/01/2003,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/09/2004,Wayne Stroessner,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/10/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/15/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/30/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+08/11/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+08/27/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+09/01/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+09/11/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+09/19/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+10/12/2015,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin
+07/25/2016,Sydney Rader,Citizen Lake Monitoring - Water Quality - Random Lake; North Basin

@@ -1,0 +1,365 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Burnett,2451200,NO,7,,073122,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189120,08/01/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189120,08/07/2000,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189120,08/14/2000,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189120,08/19/2000,4.25,NO,1.3,,,56,,,NORMAL,86.75,MURKY,GREEN,1-Beautiful, could not be nicer
+8189120,09/04/2000,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189120,05/29/2001,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/03/2001,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/10/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/22/2001,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,07/01/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,07/22/2001,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,07/30/2001,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,08/13/2001,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,08/27/2001,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,09/03/2001,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/07/2002,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BROWN,
+8189120,06/07/2002,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,
+8188829,06/17/2002,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,
+8189120,06/17/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,
+8188829,06/24/2002,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BROWN,
+8189120,06/24/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,
+8188829,06/29/2002,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,
+8189120,06/29/2002,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,
+8188829,07/13/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8189120,07/13/2002,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,
+8188829,07/22/2002,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,
+8189120,07/22/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8188829,07/30/2002,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,
+8189120,07/30/2002,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,
+8188829,08/12/2002,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,
+8189120,08/12/2002,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,
+8188829,08/18/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8189120,08/18/2002,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,
+8188829,08/25/2002,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,
+8189120,08/25/2002,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,
+8188829,05/27/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,05/27/2003,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/01/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/01/2003,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/16/2003,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/16/2003,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/22/2003,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/22/2003,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/28/2003,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/28/2003,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,07/14/2003,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,07/14/2003,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,07/23/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,07/23/2003,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,08/04/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,08/04/2003,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,08/20/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,08/20/2003,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,09/01/2003,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,09/01/2003,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,07/12/2004,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,07/12/2004,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,07/26/2004,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,07/26/2004,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,08/30/2004,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,08/30/2004,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,09/13/2004,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,09/13/2004,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,05/31/2005,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,05/31/2005,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,06/27/2005,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,06/27/2005,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,07/28/2005,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,07/28/2005,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,06/04/2006,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/04/2006,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/17/2006,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/17/2006,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,07/07/2006,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,07/07/2006,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,08/19/2006,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,08/19/2006,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,09/03/2006,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,
+8189120,09/03/2006,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,
+21958195,05/17/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/10/2007,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189120,06/10/2007,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,06/24/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/24/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,08/02/2007,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,08/02/2007,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188829,09/03/2007,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,
+8189120,09/03/2007,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,
+8188829,06/07/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/07/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188829,06/23/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189120,06/23/2008,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25475320,07/23/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,
+8188829,08/11/2008,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,
+8189120,08/11/2008,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,
+8188829,10/03/2008,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,
+8189120,10/03/2008,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,
+21958195,05/26/2009,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+21958195,06/22/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+21958195,08/10/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+21958195,09/08/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188829,06/27/2010,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BROWN,
+8189120,06/27/2010,13,NO,4,,,40,,,LOW,,CLEAR,BROWN,
+8188829,08/22/2010,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,
+8189120,08/22/2010,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,
+8188829,06/05/2011,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,
+8189120,06/05/2011,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,
+8188829,07/25/2011,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,
+8189120,07/25/2011,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,
+8188829,09/12/2011,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,
+8189120,09/12/2011,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,
+88458277,06/16/2012,9,NO,2.7,,,45,,,NORMAL,,,BROWN,
+88458279,06/16/2012,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,
+88458277,08/27/2012,7,NO,2.1,,,49,,,NORMAL,,MURKY,,
+88458279,08/27/2012,9,NO,2.7,,,45,,,NORMAL,,,BROWN,
+88458277,06/16/2013,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,06/16/2013,15,NO,4.6,,,38,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,07/17/2013,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,07/17/2013,14,NO,4.3,,,39,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,08/18/2013,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,08/18/2013,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,05/25/2014,11,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,05/25/2014,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,06/22/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,06/22/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,07/26/2014,,NO,,,,,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,07/26/2014,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,09/07/2014,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,09/07/2014,7, ,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,06/14/2015,,NO,,,,,,,HIGH,10,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,06/14/2015,,NO,,,,,,,HIGH,10,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,07/11/2015,,NO,,,,,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458279,07/11/2015,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+88458277,07/27/2015,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,07/27/2015,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,06/18/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,06/18/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,08/01/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,08/28/2016,7.5,,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,08/28/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,09/17/2016,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,09/17/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,06/11/2017,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,06/11/2017,8,NO,2.4,,,47,,,HIGH,8,CLEAR,BROWN,2-Very minor aesthetic problems
+88458277,07/03/2017,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+88458279,07/03/2017,8,YES,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/01/2000,Aquatic plants less present as two weeks earlier.    
+08/07/2000,Clear day- light breeze.    
+08/14/2000,Small white caps- cloudy with sun.    
+08/19/2000,Breeze- 4.5 in rain earlier.    
+09/04/2000,Cool- sunny breeze.    
+05/29/2001,Light breeze- sunny.    
+06/03/2001,Breeze- sunny.    
+06/10/2001,No wind- cloudy- sparse rain drops.    
+06/22/2001,Very light breeze- sunny.    
+07/01/2001,Light breeze- sunny.    
+07/22/2001,Light breeze- sunny.    
+07/30/2001,Light wind- cloudy.    
+08/13/2001,Light breeze- sunny.    
+08/27/2001,Light wind- sunny    
+09/03/2001,Breeze- sunny.    
+06/24/2002,Hazy and breezy.    
+06/29/2002,Light wind and sun.    
+07/13/2002,Light breeze and sun.    
+07/22/2002,Cloudy and windy.    
+07/30/2002,Sunny and calm    
+08/12/2002,Cloudy and windy.    
+08/18/2002,Partly cloudy and breezy.    
+08/25/2002,Sunny and light breeze.  Lake turns a bit harder to see into after it has rained.  All the readings were taken at about 20' of depth- close to the same location on the lake.  Lake activity with the exception of two weekends is quite minimal.  We are fortunate! / Sunny and light breeze.    
+05/27/2003,Sunny    
+06/01/2003,Sunny    
+06/16/2003,Sunny    
+06/22/2003,Cloudy    
+06/28/2003,Sunny - Calm    
+07/14/2003,Calm - Sprinkles - Fairly clear sky    
+07/14/2003,Sprinkles - no wind - fairly clear sky.    
+07/23/2003,Calm - Sunny    
+08/20/2003,Windy    
+09/01/2003,Very slight breeze. Clear sky    
+07/12/2004,Sunny- light breeze    
+07/12/2004,Sunny- light breeze.    
+08/30/2004,Light wind    
+09/13/2004,Sunny- windy    
+05/31/2005,clear calm    
+05/31/2005,clear- calm    
+06/27/2005,cloudy- breeze    
+07/28/2005,sunny- calm    
+07/28/2005,suny- calm    
+06/04/2006,Clear - breeze
+06/04/2006,Clear- sun- breeze
+06/17/2006,Partly cloudy- breeze
+07/07/2006,Sunny- breeze.
+08/19/2006,Sunny- breezy
+05/26/2009,Robert Hill 10'- Bev Hill 13.5'.  11.75' entered as average.
+06/22/2009,Rob 8'- Bev 13'.  10.5' average entered.
+08/10/2009,Rob 4.75'- Bev 6'.  5.5' entered as average.
+09/08/2009,Rob 5'- Bev 6' entered average of 5.5'.
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/2000,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/07/2000,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/14/2000,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/19/2000,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/04/2000,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/29/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/03/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/10/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/22/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/01/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/22/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/30/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/13/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/27/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/03/2001,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/07/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/07/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/17/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/17/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/24/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/24/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/29/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/29/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/13/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/13/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/22/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/22/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/30/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/30/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/12/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/12/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/18/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/18/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/25/2002,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/25/2002,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/27/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/27/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/01/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/01/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/16/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/16/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/22/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/22/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/28/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/28/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/14/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/14/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/23/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/23/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/04/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/04/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/20/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/20/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/01/2003,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/01/2003,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/12/2004,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/12/2004,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/26/2004,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/26/2004,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/30/2004,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/30/2004,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/13/2004,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/13/2004,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/31/2005,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/31/2005,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/27/2005,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/27/2005,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/28/2005,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/28/2005,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/04/2006,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/04/2006,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/17/2006,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/17/2006,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/07/2006,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/07/2006,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/19/2006,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/19/2006,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/03/2006,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/03/2006,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/17/2007,Bob and Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/10/2007,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/10/2007,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/24/2007,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/24/2007,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/02/2007,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/02/2007,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/03/2007,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/03/2007,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/07/2008,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/07/2008,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/23/2008,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/23/2008,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/23/2008,Marcia Hetletvedt,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/11/2008,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/11/2008,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+10/03/2008,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+10/03/2008,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/26/2009,Bob and Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/22/2009,Bob and Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/10/2009,Bob and Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/08/2009,Bob and Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/27/2010,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/27/2010,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/22/2010,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/22/2010,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/05/2011,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/05/2011,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/25/2011,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/25/2011,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/12/2011,Beverly Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/12/2011,Robert Hill,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/16/2012,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/16/2012,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/27/2012,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/27/2012,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/16/2013,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/16/2013,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/17/2013,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/17/2013,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/18/2013,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/18/2013,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/25/2014,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+05/25/2014,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/22/2014,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/22/2014,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/26/2014,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/26/2014,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/07/2014,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/07/2014,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/14/2015,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/14/2015,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/11/2015,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/11/2015,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/27/2015,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/27/2015,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/18/2016,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/18/2016,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/01/2016,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/28/2016,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+08/28/2016,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/17/2016,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+09/17/2016,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/11/2017,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+06/11/2017,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/03/2017,Joy McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole
+07/03/2017,Mike McGowan,Citizen Lake Monitoring - Water Quality - Bass Lake (T39N R16W S23) ; Deep Hole

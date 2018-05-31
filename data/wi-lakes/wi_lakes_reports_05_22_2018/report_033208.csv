@@ -1,0 +1,110 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Duck Lake,Barron,2100300,NO,3,,033208,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/09/1990,5.9,,1.8,15,20,52,51,55,,,,,
+8188560,08/10/2004,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188560,08/18/2004,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,08/31/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188560,09/22/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188560,09/28/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188560,10/10/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188560,10/20/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188560,06/09/2005,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,07/14/2005,7,NO,2.1,,,49,,,NORMAL,1.6,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,08/08/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,08/22/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,09/11/2005,7,NO,2.1,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,10/01/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,05/09/2006,10,NO,3,,,44,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,06/20/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,07/20/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,09/28/2006,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188560,06/21/2007,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+82607229,07/19/2017,5.25,NO,1.6,18.7,35.1,53,56,57,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10585221,08/11/2017,7,NO,2.1,10.2,23.9,49,53,52,,,MURKY,BROWN,2-Very minor aesthetic problems
+10585221,09/01/2017,8,NO,2.4,20.1,26.5,47,54,57,,,CLEAR,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/09/1990,,,22.5,C,7.8,MG/L
+07/19/2017,0,METERS,75.5,DEGREES F,7.67,MG/L
+07/19/2017,1,METERS,75.1,DEGREES F,7.63,MG/L
+07/19/2017,2,METERS,74.3,DEGREES F,7.51,MG/L
+07/19/2017,3,METERS,71.5,DEGREES F,3.36,MG/L
+07/19/2017,4,METERS,64.3,DEGREES F,.16,MG/L
+07/19/2017,5,METERS,57.7,DEGREES F,.14,MG/L
+07/19/2017,6,METERS,54.8,DEGREES F,.13,MG/L
+07/19/2017,7,METERS,53.8,DEGREES F,.12,MG/L
+07/19/2017,8,METERS,54,DEGREES F,.13,MG/L
+08/11/2017,0,METERS,72,DEGREES F,7.61,MG/L
+08/11/2017,1,METERS,72,DEGREES F,7.61,MG/L
+08/11/2017,2,METERS,71.8,DEGREES F,7.6,MG/L
+08/11/2017,3,METERS,71.5,DEGREES F,7.57,MG/L
+08/11/2017,4,METERS,70.6,DEGREES F,7.36,MG/L
+08/11/2017,5,METERS,63.3,DEGREES F,.14,MG/L
+08/11/2017,6,METERS,57.6,DEGREES F,.13,MG/L
+08/11/2017,7,METERS,55.4,DEGREES F,.15,MG/L
+08/11/2017,8,METERS,54,DEGREES F,.18,MG/L
+09/01/2017,0,METERS,68.5,DEGREES F,8.35,MG/L
+09/01/2017,1,METERS,68.4,DEGREES F,8.34,MG/L
+09/01/2017,2,METERS,68.4,DEGREES F,8.31,MG/L
+09/01/2017,3,METERS,68.3,DEGREES F,8.25,MG/L
+09/01/2017,4,METERS,68.2,DEGREES F,8.19,MG/L
+09/01/2017,5,METERS,66,DEGREES F,1.82,MG/L
+09/01/2017,6,METERS,64.8,DEGREES F,.13,MG/L
+09/01/2017,7,METERS,61.2,DEGREES F,.18,MG/L
+09/01/2017,8,METERS,53.8,DEGREES F,.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/10/2004,Cold-cloudy and a all day mist.  pretty strong wind from the sw and no other boats out.    
+08/18/2004,Nice clear morning with just a little breeze from the so. but is picking up.  No other boats on the lake and see only one loon- yesterday there were two.  The geese are gathering.    
+08/31/2004,Cloudy-overcast with slight wind.  The second loon is back.  One other boat on the lake and the lake is greening up from the algae    
+09/22/2004,The lake is greening up along the shore.  Very nice sunny day with a little wind from the So.  No other boats on the lake.  No fish biting either but that is ok.    
+09/28/2004,Blue skies- no wind and 60 degrees.  beautiful day and alone on the lake.    
+10/10/2004,Clear skies-little wind from the east and 35 degrees.  Fishing very slow. No other boats on the lake.  The water is pretty green from algia.    
+10/20/2004,Very damp-hazy and a temp of 40 degrees. slight wind out of the SW and no other boats on the lake.  Boats and docks are being removed from the lake.    
+06/09/2005,cloudy-light wind from the S.W. and no other boats on the lake    
+07/14/2005,Clear day- calm- 90 F.    
+08/08/2005,Slight wind from the so. Family of four loons on the lake.  Clouding over.    
+08/22/2005,clear skies-very light wind from the north-otter busy on east shore- family of loons on the lake and no other boats out.  Wonderful morning.    
+09/11/2005,Partly cloudy with a nice breeze from the So.  No one else on the lake    
+10/01/2005,sunny day-50 degrees and slight breeze from the so.    
+06/20/2006,Cloud cover- very little wind.  Bugs on the water.  Otherwise nice.
+07/20/2006,Sunny- light breeze from the north.  One other boat on the lake.
+09/28/2006,Sunny- light breeze.  Had the lake to myself.  Temps reaching the 50s.
+
+
+
+
+Start Date,Group Name,Project Name
+08/09/1990,Data Collectors,NONPOINT SOURCE
+08/10/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+08/18/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+08/31/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+09/22/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+09/28/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+10/10/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+10/20/2004,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+06/09/2005,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+07/14/2005,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+08/08/2005,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+08/22/2005,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+09/11/2005,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+10/01/2005,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+05/09/2006,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+06/20/2006,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+07/20/2006,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+09/28/2006,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+06/21/2007,Kenneth Anderson,Citizen Lake Monitoring - Water Quality - Duck Lake; Deep Hole
+07/19/2017,Mark Sundeen and Alex Smith,Directed Lakes 2017 Smith
+08/11/2017,MARK SUNDEEN,Directed Lakes 2017 Smith
+09/01/2017,MARK SUNDEEN,Directed Lakes 2017 Smith

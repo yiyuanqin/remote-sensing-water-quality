@@ -1,0 +1,33 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Shallow Lake,Oneida,1016700,NO,44,,443255,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/09/1979,,,,,,,,,,,,,
+145711555,08/23/2017,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/09/1979,,,23,C,,
+08/23/2017,2,FEET,69.4,DEGREES F,7.14,MG/L
+08/23/2017,4,FEET,69.3,DEGREES F,7.04,MG/L
+08/23/2017,6,FEET,69.1,DEGREES F,6.86,MG/L
+08/23/2017,8,FEET,67.9,DEGREES F,5,MG/L
+08/23/2017,10,FEET,63.3,DEGREES F,.15,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/09/1979,Data Collectors,Migrated from STORET Legacy
+08/23/2017,Aubrey Nycz- Derek Thorn- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

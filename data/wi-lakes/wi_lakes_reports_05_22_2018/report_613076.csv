@@ -1,0 +1,169 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spirit Lake,Taylor,1513000,NO,61,,613076,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/17/1973,,,,,200,,69,,,,,,
+1,10/29/1973,,,,,100,,64,,,,,,
+1,03/11/1974,,,,,130,,66,,,,,,
+1,05/02/1974,,,,,60,,60,,,,,,
+1,07/18/1974,,,,,170,,68,,,,,,
+1,10/09/1974,,,,,150,,67,,,,,,
+1,03/27/1994,,,,,,,,,,,,,
+1,05/03/1994,1,,0.3,21.7,55,77,59,58,,,,,
+1,06/30/1994,3.3,,1,17.6,,60,,56,,,,,
+1,08/30/1994,3.3,,1,34.3,78,60,62,62,,,,,
+1,10/13/1994,3.6,,1.1,1.54,81,59,62,38,,,,,
+23147995,05/08/2009,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23147995,06/13/2009,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+23147995,07/24/2009,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+23147995,08/23/2009,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+23147995,05/09/2011,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23147995,06/10/2011,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+23147995,07/17/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23147995,08/16/2011,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+128616131,04/30/2016,3,NO,0.9,,,61,,,NORMAL,3,CLEAR,BROWN,1-Beautiful, could not be nicer
+128616131,06/24/2016,3,YES,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+128616131,07/29/2016,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+128616131,08/26/2016,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+128616131,04/21/2017,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+128616131,04/27/2017,3,YES,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+36798397,06/25/2017,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+130993236,07/23/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+36798397,08/29/2017,2.5,YES,0.8,,,64,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1973,,,24.4444,C,11,MG/L
+10/29/1973,,,45,C,9,MG/L
+03/11/1974,,,1.11111,C,1,MG/L
+05/02/1974,,,14.7222,C,9.1,MG/L
+07/18/1974,,,23.3333,C,12.1,MG/L
+10/09/1974,,,49,C,8.7,MG/L
+03/27/1994,,,2.0,C,7.2,MG/L
+05/03/1994,,,44,C,6.9,MG/L
+06/30/1994,,,21,C,7.5,MG/L
+08/30/1994,,,66.0,C,9.1,MG/L
+10/13/1994,,,48.5,C,5.5,MG/L
+05/08/2009,3,FEET,61.5,DEGREES F,,
+05/08/2009,6,FEET,58.4,DEGREES F,,
+05/08/2009,9,FEET,56.5,DEGREES F,,
+06/13/2009,3,FEET,63.6,DEGREES F,,
+06/13/2009,6,FEET,58.6,DEGREES F,,
+06/13/2009,9,FEET,57,DEGREES F,,
+07/24/2009,3,FEET,70.3,DEGREES F,,
+07/24/2009,6,FEET,67.8,DEGREES F,,
+07/24/2009,9,FEET,66,DEGREES F,,
+08/23/2009,3,FEET,65,DEGREES F,,
+08/23/2009,6,FEET,62.5,DEGREES F,,
+08/23/2009,9,FEET,60,DEGREES F,,
+05/09/2011,3,FEET,51,DEGREES F,,
+05/09/2011,6,FEET,50.5,DEGREES F,,
+05/09/2011,9,FEET,50,DEGREES F,,
+06/10/2011,3,FEET,69.9,DEGREES F,,
+06/10/2011,6,FEET,69.5,DEGREES F,,
+06/10/2011,9,FEET,65,DEGREES F,,
+07/17/2011,3,FEET,76,DEGREES F,,
+07/17/2011,6,FEET,75,DEGREES F,,
+07/17/2011,9,FEET,71,DEGREES F,,
+08/16/2011,3,FEET,69,DEGREES F,,
+08/16/2011,6,FEET,68,DEGREES F,,
+08/16/2011,9,FEET,67,DEGREES F,,
+04/30/2016,3,FEET,51.2,DEGREES F,,
+04/30/2016,6,FEET,50.9,DEGREES F,,
+04/30/2016,9,FEET,48.9,DEGREES F,,
+04/30/2016,10,FEET,48.5,DEGREES F,,
+06/24/2016,3,FEET,75.7,DEGREES F,,
+06/24/2016,6,FEET,72.6,DEGREES F,,
+06/24/2016,9,FEET,69.2,DEGREES F,,
+06/24/2016,10,FEET,69.2,DEGREES F,,
+07/29/2016,3,FEET,75,DEGREES F,,
+07/29/2016,6,FEET,73.4,DEGREES F,,
+07/29/2016,9,FEET,71,DEGREES F,,
+07/29/2016,10,FEET,71,DEGREES F,,
+08/26/2016,3,FEET,68.9,DEGREES F,,
+08/26/2016,6,FEET,68.3,DEGREES F,,
+08/26/2016,9,FEET,68,DEGREES F,,
+04/21/2017,3,FEET,49.2,DEGREES F,,
+04/21/2017,6,FEET,48.5,DEGREES F,,
+04/21/2017,9,FEET,48.3,DEGREES F,,
+04/21/2017,12,FEET,48.2,DEGREES F,,
+04/21/2017,12.6,FEET,48.2,DEGREES F,,
+04/27/2017,3,FEET,49.2,DEGREES F,,
+04/27/2017,6,FEET,48.5,DEGREES F,,
+04/27/2017,9,FEET,48.3,DEGREES F,,
+04/27/2017,12,FEET,48.2,DEGREES F,,
+06/25/2017,3,FEET,66.5,DEGREES F,,
+06/25/2017,6,FEET,66.5,DEGREES F,,
+06/25/2017,9,FEET,66,DEGREES F,,
+06/25/2017,10,FEET,65.6,DEGREES F,,
+07/23/2017,3,FEET,76.6,DEGREES F,,
+07/23/2017,6,FEET,77,DEGREES F,,
+07/23/2017,9,FEET,73.7,DEGREES F,,
+07/23/2017,10,FEET,71.9,DEGREES F,,
+08/29/2017,3,FEET,65.4,DEGREES F,,
+08/29/2017,6,FEET,64.4,DEGREES F,,
+08/29/2017,9,FEET,63.5,DEGREES F,,
+08/29/2017,10,FEET,63.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/17/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/29/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/11/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/02/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/18/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/09/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/27/1994,LAKE SAMPLE    
+06/30/1994,GRAB LAKE SAMPLE    
+08/30/1994,WATER LEVEL DOWN APPROX. 1-1/2 INCHES    
+05/08/2009,calm- sunny
+06/13/2009,calm- sunny
+07/24/2009,cloudy- breezy
+08/23/2009,calm- sunny
+05/09/2011,cloudy/windy
+06/10/2011,sunny/breezy
+07/17/2011,cloudy/calm
+08/16/2011,sunny/breeze
+06/24/2016,Partly cloudy- warm- little lake traffice
+07/29/2016,Clear 75 degree day.  Minimal traffic on lake.  One single loon was spotted.  One nest with two eggs (loon) spotted.  This nest has been abandoned for two weeks.  Bonnie Syzck and Ken Kroiss helped with collection and measurements.
+08/26/2016,Sunny clear day.  Lake is calm with little boat traffic.  Ken Kroiss- Joe Burger- and Bonnie Szydel assisted.
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1973,Data Collectors,Migrated from STORET Legacy
+10/29/1973,Data Collectors,Migrated from STORET Legacy
+03/11/1974,Data Collectors,Migrated from STORET Legacy
+05/02/1974,Data Collectors,Migrated from STORET Legacy
+07/18/1974,Data Collectors,Migrated from STORET Legacy
+10/09/1974,Data Collectors,Migrated from STORET Legacy
+03/27/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+06/30/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/30/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/13/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+05/08/2009,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+06/13/2009,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+07/24/2009,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+08/23/2009,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+05/09/2011,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+06/10/2011,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+07/17/2011,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+08/16/2011,Tom Wendt,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+04/30/2016,Vicki Kroiss,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+06/24/2016,Vicki Kroiss,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+07/29/2016,Vicki Kroiss,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+08/26/2016,Vicki Kroiss,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+04/21/2017,Vicki Kroiss,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+04/27/2017,Vicki Kroiss,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+06/25/2017,Joseph Burger,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+07/23/2017,Vicki Kroiss + Joe Burger,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot
+08/29/2017,Joseph Burger,Citizen Lake Monitoring - Water Quality - Little Spirit Lake - Deepest Spot

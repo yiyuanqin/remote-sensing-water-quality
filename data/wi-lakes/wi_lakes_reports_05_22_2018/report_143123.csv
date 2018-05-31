@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>SWIMS Errors</title>
+<link href="/swims/styles/printstyle.css" rel="stylesheet" type="text/css" media="print" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+<link href="/swims/styles/minimal-v1.css" type="text/css" rel="stylesheet" />
+  <link rel="stylesheet" href="/swims/styles/datatables.css?v=1.10.1" type="text/css"/>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/flick/jquery-ui.css" type="text/css"/>
+  <link rel="stylesheet" href="/swims/styles/style.css?v=1.2" type="text/css" />
+  <style type="text/css">div.ui-datepicker{font-size:14px;}</style>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/swims/scripts/common.js?v=2"></script>
+
+<script type="text/javascript" src="/swims/scripts/nonvalidation.js"></script>
+
+<script type="text/javascript" src="/swims/scripts/tooltip.js"></script>
+
+<script type="text/javascript" src="/swims/scripts/tooltipstyle.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js"></script>
+
+	
+</head>
+<body id="topic">
+
+
+
+
+
+ 
+<div id="masthead">
+  <div id="agency">Wisconsin Department of Natural Resources</div>
+</div>
+ 
+<!-- Internet Minimal Branding header -->
+<!-- masthead end -->
+<!-- application banner/header begin -->
+<div id="appheader">
+	<table style="width:100%;">
+		<tr>
+		  <td width="22%"></td>
+		  <td width="50%" style="text-align:center;">Surface Water Integrated Monitoring System (SWIMS)</td>
+		  <td align="right" valign="top" style="width:28%; font-size:70%;">
+			 
+			   
+			
+			 
+			  <a href="https://dnrmaps.wi.gov/H5/?Viewer=SWDV" target="_blank">SWDV</a>&#160;|&#160;
+			  
+		  </td>
+		</tr>
+	</table>
+</div>
+<!-- application banner/header end -->
+ 
+<!-- horizontal navigation banner begin -->
+<div id="navheader">
+  
+    <div class="header">
+      <ul>
+      
+      <!-- My Projects tab-->
+        
+      
+      <!-- Find Data tab-->
+      
+      
+        <!-- Submit Data tab-->
+      
+ 	
+ 	<!-- Stations and Forms tabs-->
+ 	  
+      
+      <!-- Reports Maps and Documents tab-->
+      
+       
+       <!--  Manage Data tab-->
+       
+      
+      </ul>
+    </div>
+
+				<div class="subMenu">
+		  <script type="text/javascript">
+		  <!-- ELT Users-->
+		    
+		    
+		    <!-- Non ELT Users-->
+		     
+		    
+		  </script>
+		</div> <!--end sub menu-->
+   <!--end hide tabs or not-->
+</div> <!-- end nav header-->
+<div id="contentWrapper">
+
+
+
+
+
+
+
+
+
+
+    
+ 
+ 
+
+
+
+<div id="TipLayer" style="visibility:hidden;position:absolute;z-index:1000;top:-100"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MAIN CONTENT BEGIN -->
+
+
+
+
+
+
+
+	<div style="padding: 0px;">
+		
+
+		
+			
+		
+
+
+
+
+ 
+
+
+
+
+
+  <h3>An error has occurred. Please note the time and report to the <a href="mailto:lisa.helmuth@wisconsin.gov;Matt.Rehwald@wisconsin.gov">SWIMS support staff</a>.</h3>
+
+
+<hr/>
+<a href="javascript:history.go(-1)">Back</a>
+<br/>
+<br/>
+<a href="/swims/welcome.do;jsessionid=lFmKXtbfm5gtCEV-9IXTICpoobowWK99FmpAmcML-zDbyS6fb4X6!-1629168346">SWIMS Home</a>
+
+<br />
+
+
+
+		
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MAIN CONTENT END -->
+</div>
+<!-- end maincontent / contentWrapper-->
+
+
+
+
+
+<!-- Internet Minimal Branding (Application) Footer SSI statement begin -->   
+<!-- Begin Internet Minimal Branding Footer -->
+<!-- dependency: /css/minimal-v1.css or /css/wwwsimple.css -->
+<!-- LMA Updated 03-12-2012 -->
+ 
+<div id="footer">
+<p>The Official Internet site for the Wisconsin Department of Natural Resources</p>
+<address>101 S. Webster Street . PO Box 7921 . Madison, Wisconsin 53707-7921 . 608.266.2621</address>
+</div>
+<div style="font-size: 0.5em;">Version 20180308</div>
+ 
+<!-- footer end -->
+
+
+<script type="text/javascript">
+  if (window.jQuery) {
+    $(document).ready(function(){
+      $('body').on('focus', '.datefield', function(){
+        $(this).datepicker({        
+          dateFormat: "mm/dd/yy",
+          changeMonth: true,
+          changeYear: true,
+          constrainInput: true,
+          shortYearCutoff: 0,
+          showOtherMonths: true,
+          selectOtherMonths: true,
+          showButtonPanel: true,
+          closeText: "Close"
+        });
+      });
+    });
+  }
+</script>
+</body>
+</html>
+

@@ -1,0 +1,163 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Nose Lake,Oneida,1008200,NO,44,,443233,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/10/1979,,,,,,,,,,,,,
+82412555,07/14/2013,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,07/17/2013,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+82412555,07/25/2013,7.25,NO,2.2,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+82412555,08/22/2013,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,08/25/2013,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,08/27/2013,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+82412555,09/04/2013,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+82412555,09/20/2013,8,NO,2.4,,,47,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+82412555,06/18/2015,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,06/21/2015,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,06/28/2015,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/01/2015,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/04/2015,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/10/2015,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+82412555,07/13/2015,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/15/2015,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/22/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/23/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,07/27/2015,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,08/27/2015,8.74,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+82412555,08/30/2015,8.75,NO,2.7,,,46,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+82412555,09/01/2015,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,09/07/2015,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,09/08/2015,9,NO,2.7,,,45,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+82412555,09/18/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,09/22/2015,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,06/24/2016,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+82412555,06/28/2016,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+82412555,07/03/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/06/2016,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+82412555,07/11/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/16/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/18/2016,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,07/19/2016,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,07/22/2016,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,08/23/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,08/26/2016,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+82412555,08/30/2016,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+82412555,07/06/2017,9.75,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+82412555,07/13/2017,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,07/20/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82412555,07/22/2017,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/10/1979,,,24,C,,
+
+
+
+Start Date,Fieldwork Comment
+08/10/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/14/2013,Sunny- light breeze day.  No rain for six days.
+07/17/2013,Warm- 85 degree- mostly sunny day with a light wind out of the south west. 
+07/25/2013,Overcast day. Thunderstorm on 7/22 with rapid 0.66" of rain.
+
+Lake level historically still very low- but at least 8" higher than the very dry last year.
+
+Lily Pad and Water Shield growth about the same as past two years despite higher water levels. 
+08/22/2013,Full sun + very slight breeze.
+08/25/2013,Hot breezy  day with gusting SW winds.  No rain for two weeks. Very dry conditions.
+08/27/2013,Overcast- very humid with no wind.  Thunderstorms last two nights with rain amounts of 0.94" and 0.68". 
+09/04/2013,Mid 60's- mostly cloudy day with slight north breeze. 
+
+Have not seen a loon or hummingbird for two days.
+06/18/2015,A light- breezy + mostly sunny day.
+
+New visitors on the lake.  For the first time ever- spotted otters on the lake.  Mom and two pups were have a pleasant afternoon in the southwest corner of the lake.
+06/21/2015,Mostly sunny with mild breeze.  Temp around 70.
+
+Loons eggs still has not hatched.  Great Blue Heron fishing on the shoreline. No otters sighted today.
+06/28/2015,Reading taken 3 hours after 1 hour thunderstorm.
+
+Two Loon chicks hatched on 6/23/15.
+07/04/2015,Bright + sunny with almost no wind.  Thunderstorm last night.
+07/10/2015,Sunny warm day.  Air temp 82 degrees with a mild SW breeze.
+
+Both loon chicks floating with Mom in the middle of the lake.
+07/13/2015,Sunny- humid day.  Slight SW breeze.  Thunderstorm last night- apx. 3/4" rain.
+07/23/2015,Bright sunny and warm day.  Temp in the mid 80's with a slight SW breeze.
+
+Both loon parents out floating with both loon chicks.  Chicks seems to be doing well.
+08/27/2015,Clear sunny day- 72 degrees with a light SW wind.
+
+Have only seen one loon parent with one chick on the lake.  Don't know where the second parent and second chick are.
+09/07/2015,Thunderstorm last night dropped about 1" of rain.
+09/18/2015,Overcast- no wind day.
+09/22/2015,Cloudy and no wind.
+06/24/2016,Sorry for the delay starting this year.  Had issues getting my boat in he water.
+06/28/2016,Perfect bright sunny day with a light breeze from the SW.  Air temperature 73 degrees. The Loon family (two adults and one chick) are having a pleasant day floating and fishing in the sun.
+07/03/2016,Near perfect mostly sunny day with little to no wind.  74 degrees.
+07/06/2016,Bright sunny day with temperatures in the low 80's.  Thunderstorm last night.
+07/11/2016,Gray overcast day with a slight breeze from the SE.  77 muggy degrees.  It's been raining here for the last two day with more to come.
+07/16/2016,Overcast day
+07/18/2016,Hazy- sunny day.  Steady wind from the west.  79 degrees.
+07/19/2016,Beautiful sunny day.  Small breeze out of the west. 82 degrees.  
+
+Perfect lazy day by the lake. The loon family (2 adults and one chick) are happy floating the day away occasionally diving for a fish or two.
+07/22/2016,Super sunny and hot day.  89 degrees with only slight breeze from the SW.   
+08/23/2016,Sunny warm day after several cold and rain filled days.  Lake water level is the highest I've seen in the eight years I've been here.
+08/26/2016,Big rains over the last few day. 
+08/30/2016,Mostly cloudy day. A warm 75 degrees with only a very slight breeze. 
+07/06/2017,Sorry for the late start this year.  A combination of awful weather and some mechanical issues with my boat were the cause.  The spring and much of the summer have been very wet and below average cold.  Lake level is as high as I've seen in ten years here and and high as any of the 'old timers' can remember.  The drainage culvert has been flowing out since mid-April at an estimated 200+ gallons per minute- but the flow out has not kept up with the rain so the lake level has actually risen since the culvert was opened.
+07/13/2017,Lake level at record level 
+07/20/2017,No rain for several days now- but lake level is still as high as ever in-spite of the drain culvert's steady out flow of water.
+
+
+
+
+Start Date,Group Name,Project Name
+08/10/1979,Data Collectors,Migrated from STORET Legacy
+07/14/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/17/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/25/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/22/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/25/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/27/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/04/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/20/2013,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+06/18/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+06/21/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+06/28/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/01/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/04/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/10/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/13/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/15/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/22/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/23/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/27/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/27/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/30/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/01/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/07/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/08/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/18/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+09/22/2015,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+06/24/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+06/28/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/03/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/06/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/11/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/16/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/18/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/19/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/22/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/23/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/26/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+08/30/2016,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/06/2017,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/13/2017,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/20/2017,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole
+07/22/2017,Mark Leitermann,Citizen Lake Monitoring - Water Quality - Nose Lake - Deep Hole

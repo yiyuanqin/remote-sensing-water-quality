@@ -1,0 +1,1088 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kentuck Lake,Forest,716800,NO,21,,643334,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190836,06/24/1986,6,NO,1.8,,,51,,,,,,BROWN,
+8190836,06/30/1986,4.5,NO,1.4,,,55,,,HIGHER THAN '89,,,BROWN/GREEN,1-Beautiful, could not be nicer
+8190836,07/06/1986,3.5,NO,1.1,,,59,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190836,07/12/1986,4,NO,1.2,,,57,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190836,07/18/1986,3,NO,0.9,,,61,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,07/23/1986,2.5,NO,0.8,,,64,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190836,07/29/1986,2.5,NO,0.8,,,64,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190836,08/04/1986,2.25,NO,0.7,,,65,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190836,08/11/1986,2.25,NO,0.7,,,65,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190836,08/17/1986,2,NO,0.6,,,67,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190836,08/24/1986,3,NO,0.9,,,61,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190836,09/01/1986,2,NO,0.6,,,67,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190836,09/07/1986,2.75,NO,0.8,,,63,,,,,,GREEN,
+8190836,09/16/1986,6,NO,1.8,,,51,,,HIGHER THAN '89,,,GREEN,1-Beautiful, could not be nicer
+8190836,09/24/1986,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190836,10/01/1986,4.5,NO,1.4,,,55,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190836,05/01/1987,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190836,05/24/1987,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190836,06/05/1987,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190836,06/13/1987,9.25,NO,2.8,,,45,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190836,06/24/1987,8.75,NO,2.7,,,46,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190836,07/10/1987,5.25,NO,1.6,,,53,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190836,07/18/1987,4.25,NO,1.3,,,56,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190836,07/25/1987,4,NO,1.2,,,57,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190836,08/02/1987,3,NO,0.9,,,61,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190836,08/09/1987,3.25,NO,1,,,60,,,,,,GREEN,
+8190836,08/16/1987,1.5,NO,0.5,,,71,,,,,,GREEN,
+8190836,08/25/1987,2,NO,0.6,,,67,,,,,,GREEN,
+8190836,09/02/1987,2.75,NO,0.8,,,63,,,,,,GREEN,
+8190836,09/08/1987,3,NO,0.9,,,61,,,,,,GREEN,
+8190836,09/14/1987,3.25,NO,1,,,60,,,,,,GREEN,
+8190836,09/22/1987,4,NO,1.2,,,57,,,,,,GREEN,
+8190836,10/12/1987,7.5,NO,2.3,,,48,,,,,,GREEN,
+8190836,04/30/1988,6.5,NO,2,,,50,,,,,,GREEN,
+8190836,05/15/1988,22,NO,6.7,,,33,,,,,CLEAR,BLUE,
+8190836,05/23/1988,18.25,NO,5.5,,,35,,,,,CLEAR,BLUE,
+8190836,06/01/1988,17.75,NO,5.4,,,36,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190836,06/10/1988,19.25,NO,5.9,,,35,,,,,CLEAR,BLUE,
+8190836,06/23/1988,7,NO,2.1,,,49,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,07/10/1988,4.5,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190836,07/20/1988,4,NO,1.2,,,57,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+1,07/26/1988,,,,32,54,,59,61,,,,,
+8190836,07/27/1988,4.5,NO,1.4,,,55,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190836,08/09/1988,3.5,NO,1.1,,,59,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190836,08/19/1988,3.5,NO,1.1,,,59,,,,,,GREEN,4-Would not swim but boating OK (algae)
+1,08/30/1988,,,,140,102,,64,72,,,,,
+8190836,08/31/1988,1.5,NO,0.5,,,71,,,GAUGE,1.04,,GREEN,4-Would not swim but boating OK (algae)
+8190836,09/10/1988,2.75,NO,0.8,,,63,,,GAUGE,1.16,,GREEN,5-Enjoyment substantially impaired (algae)
+8190836,09/24/1988,3.5,NO,1.1,,,59,,,GAUGE,1.3,,GREEN,4-Would not swim but boating OK (algae)
+8190836,10/09/1988,5,NO,1.5,,,54,,,GAUGE,1.27,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,11/07/1988,,,,,38,,56,,,,,,
+1,03/27/1989,,,,,15,,49,,,,,,
+1,04/27/1989,,,,8,23,,52,51,,,,,
+8190836,05/03/1989,10,NO,3,,,44,,,GAUGE,1.56,CLEAR,BLUE,2-Very minor aesthetic problems
+8190836,05/11/1989,10.75,NO,3.3,,,43,,,GAUGE,1.51,CLEAR,BLUE,2-Very minor aesthetic problems
+8190836,05/21/1989,15.25,NO,4.6,,,38,,,GAUGE,1.48,CLEAR,BLUE,2-Very minor aesthetic problems
+8190836,06/10/1989,15.5,NO,4.7,,,38,,,GAUGE,1.45,CLEAR,BLUE,2-Very minor aesthetic problems
+8190836,06/18/1989,21.5,NO,6.5,,,33,,,GAUGE,1.42,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/21/1989,,,,5,15,,49,47,,,,,
+8190836,06/27/1989,16.75,NO,5.1,,,37,,,GAUGE,1.36,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,07/09/1989,9.25,NO,2.8,,,45,,,GAUGE,1.21,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/12/1989,,,,8,20,,51,51,,,,,
+8190836,07/20/1989,8,NO,2.4,,,47,,,GAUGE,1.16,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,07/29/1989,8.25,NO,2.5,,,47,,,GAUGE,1.18,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,08/10/1989,4,NO,1.2,,,57,,,GAUGE,1.04,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/21/1989,3,NO,0.9,,,61,,,GAUGE,1.06,,GREEN,4-Would not swim but boating OK (algae)
+1,08/24/1989,,,,53,66,,61,65,,,,,
+8190836,08/30/1989,2.5,NO,0.8,,,64,,,GAUGE,.92,,GREEN,4-Would not swim but boating OK (algae)
+8190836,09/14/1989,3.5,NO,1.1,,,59,,,GAUGE,1.09,,GREEN,4-Would not swim but boating OK (algae)
+8190836,09/28/1989,4.25,NO,1.3,,,56,,,GAUGE,.84,,GREEN,2-Very minor aesthetic problems
+1,10/25/1989,,,,16,,,,56,,,,,
+1,03/13/1990,,,,,22,,52,,,,,,
+1,04/26/1990,,,,5,43,,57,47,,,,,
+8190836,05/04/1990,15.5,NO,4.7,,,38,,,GAUGE,1.77,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190836,05/30/1990,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190836,06/07/1990,16,NO,4.9,,,37,,,GAUGE,1.88,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/20/1990,,,,10,27,,54,52,,,,,
+8190836,06/24/1990,15.5,NO,4.7,,,38,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,06/30/1990,8.5,NO,2.6,,,46,,,GAUGE,1.87,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,07/10/1990,7.25,NO,2.2,,,49,,,GAUGE,1.85,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/12/1990,,,,12,33,,55,54,,,,,
+8190836,07/21/1990,7.5,NO,2.3,,,48,,,GAUGE,1.76,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/01/1990,4.75,NO,1.4,,,55,,,GAUGE,1.72,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/11/1990,5.25,NO,1.6,,,53,,,GAUGE,1.58,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/22/1990,12,NO,3.6,,,41,,,GAUGE,1.58,,BROWN,4-Would not swim but boating OK (algae)
+8190836,08/29/1990,8.5,NO,2.6,,,46,,,GAUGE,1.6,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/30/1990,,,,14,33,,55,55,,,,,
+8190836,09/17/1990,5.5,NO,1.7,,,53,,,GAUGE,1.72,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,09/26/1990,5,NO,1.5,,,54,,,GAUGE,1.72,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,10/06/1990,5.5,NO,1.7,,,53,,,GAUGE,1.74,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/31/1990,,,,,,,,,,,,,
+1,03/14/1991,,,,3,18,,51,43,,,,,
+8190836,05/12/1991,18.75,NO,5.7,,,35,,,GAUGE,2.14,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/14/1991,,,,,,,,,,,,,
+8190836,05/20/1991,22,NO,6.7,,,33,,,GAUGE,2.08,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190836,06/01/1991,16.5,NO,5,,,37,,,GAUGE,2.27,,GREEN,2-Very minor aesthetic problems
+8190836,06/12/1991,13.5,NO,4.1,,,40,,,GAUGE,2.1,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/18/1991,,,,11,27,,54,53,,,,,
+8190836,06/23/1991,5.25,NO,1.6,,,53,,,GAUGE,2.12,,BROWN,2-Very minor aesthetic problems
+8190836,07/05/1991,5.25,NO,1.6,,,53,,,GAUGE,210,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,07/10/1991,4,NO,1.2,,,57,,,GAUGE,2.04,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,07/20/1991,3.5,NO,1.1,,,59,,,GAUGE,1.98,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/25/1991,3.1,,0.94,75,54,61,59,67,,,,,
+8190836,07/30/1991,2.75,NO,0.8,,,63,,,GAUGE,1.96,,GREEN,4-Would not swim but boating OK (algae)
+8190836,08/11/1991,3,NO,0.9,,,61,,,GAUGE,1.84,,GREEN,5-Enjoyment substantially impaired (algae)
+8190836,08/22/1991,2.25,NO,0.7,,,65,,,GAUGE,1.86,,GREEN,5-Enjoyment substantially impaired (algae)
+1,08/27/1991,,,,89,72,,61,69,,,,,
+8190836,08/30/1991,2,NO,0.6,,,67,,,GAUGE,1.84,,GREEN,5-Enjoyment substantially impaired (algae)
+8190836,09/13/1991,3.5,NO,1.1,,,59,,,GAUGE,1.86,,BROWN,5-Enjoyment substantially impaired (algae)
+8190836,09/30/1991,4.25,NO,1.3,,,56,,,GAUGE,1.82,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/31/1991,,,,,,,,,,,,,
+8190836,05/08/1992,16,NO,4.9,,,37,,,GAUGE,2.6,,BROWN,1-Beautiful, could not be nicer
+1,05/12/1992,,,,,,,,,,,,,
+8190836,05/18/1992,16.25,NO,4.9,,,37,,,GAUGE,2.64,,BROWN,1-Beautiful, could not be nicer
+8190836,05/27/1992,7.5,NO,2.3,,,48,,,GAUGE,2.6,,BROWN,2-Very minor aesthetic problems
+8190836,06/07/1992,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190836,06/22/1992,6,NO,1.8,,,51,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,06/29/1992,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/06/1992,,,,23,30,,54,59,,,,,
+8190836,07/06/1992,5.5,NO,1.7,,,53,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,07/18/1992,5,NO,1.5,,,54,,,GAUGE,2.36,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/23/1992,,,,20.8,35,,56,58,,,,,
+8190836,07/27/1992,5.5,NO,1.7,,,53,,,GAUGE,2.32,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/05/1992,6.5,NO,2,,,50,,,GAUGE,2.28,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/13/1992,5,NO,1.5,,,54,,,GAUGE,2.14,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,08/22/1992,4,NO,1.2,,,57,,,GAUGE,2.18,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/27/1992,6.5,,1.97,32.8,36,50,56,61,,,,,
+8190836,09/07/1992,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190836,09/17/1992,13.75,NO,4.2,,,39,,,GAUGE,2.46,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190836,09/27/1992,10.75,NO,3.3,,,43,,,GAUGE,2.52,,GREEN,2-Very minor aesthetic problems
+8190836,10/05/1992,12.25,NO,3.7,,,41,,,GAUGE,2.42,,GREEN,2-Very minor aesthetic problems
+1,05/13/1993,6.6,,2,18.3,31,50,55,57,,,,,
+8190633,06/05/1993,12,YES,3.6,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190633,06/22/1993,10.75,NO,3.3,,,43,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,06/30/1993,14.1,,4.3,8.91,24,39,53,51,,,,,
+8190633,07/09/1993,9.5,NO,2.9,,,45,,,.6 BELOW ICE OUT,,,GREEN,2-Very minor aesthetic problems
+1,07/15/1993,,,,5.45,23,,52,48,,,,,
+8190633,07/26/1993,6.5,NO,2,,,50,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,07/27/1993,9.2,,2.8,11.9,36,45,56,54,,,,,
+1,08/16/1993,,,,30.7,29,,54,61,,,,,
+8190633,08/28/1993,3.5,NO,1.1,,,59,,,GAUGE,2.35,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,08/31/1993,4.9,,1.5,36.5,50,54,58,62,,,,,
+8190633,09/19/1993,6.5,NO,2,,,50,,,GAUGE,2.42,,GREEN,2-Very minor aesthetic problems
+1,10/15/1993,,,,3.38,22,,52,44,,,,,
+1,11/03/1993,,,,,,,,,,,,,
+1,03/16/1994,,,,,18,,51,,,,,,
+1,05/05/1994,,,,,,,,,,,,,
+8190633,05/10/1994,15,NO,4.6,,,38,,,GAUGE,2.72,,GREEN,2-Very minor aesthetic problems
+1,06/02/1994,,,,3.03,18,,51,43,,,,,
+8190633,06/02/1994,16,NO,4.9,,,37,,,GAUGE,2.7,,GREEN,2-Very minor aesthetic problems
+8190633,06/15/1994,10.5,NO,3.2,,,43,,,GAUGE,2.78,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,06/21/1994,14.1,,4.3,4.3,18,39,51,46,,,,,
+1,06/27/1994,,,,4.47,20,,51,46,,,,,
+8190633,06/27/1994,9.5,NO,2.9,,,45,,,GAUGE,2.74,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190633,07/04/1994,8.5,NO,2.6,,,46,,,GAUGE,2.62,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,07/21/1994,9.5,,2.9,31.5,38,45,56,61,,,,,
+1,07/25/1994,,,,32.9,34,,55,61,,,,,
+8190633,07/25/1994,7.5,NO,2.3,,,48,,,GAUGE,2.8,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,08/18/1994,12.5,,3.8,9.82,34,41,55,52,,,,,
+1,08/22/1994,,,,19,34,,55,57,,,,,
+8190633,08/22/1994,8.5,NO,2.6,,,46,,,GAUGE,2.6,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190633,09/08/1994,7.25,NO,2.2,,,49,,,GAUGE,2.62,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/02/1994,,,,15.1,38,,56,55,,,,,
+8190633,10/02/1994,8,NO,2.4,,,47,,,GAUGE,2.8,,BROWN,2-Very minor aesthetic problems
+8190633,10/20/1994,12,NO,3.6,,,41,,,GAUGE,2.83,,GREEN,2-Very minor aesthetic problems
+1,11/03/1994,21,,6.4,2.31,27,33,54,41,,,,,
+8190633,05/02/1995,10.5,NO,3.2,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+1,05/03/1995,11.2,,3.4,6.34,18,42,51,49,,,,,
+1,05/15/1995,,,,6.28,25,,53,49,,,,,
+8190633,05/15/1995,9.5,NO,2.9,,,45,,,GAUGE,2.92,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190633,05/25/1995,14.5,NO,4.4,,,39,,,,,,GREEN,2-Very minor aesthetic problems
+8190633,06/18/1995,18,YES,5.5,,,35,,,GAUGE,2.79,,GREEN,2-Very minor aesthetic problems
+8190633,06/30/1995,12.25,NO,3.7,,,41,,,GAUGE,2.68,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190633,07/08/1995,8.5,NO,2.6,,,46,,,GAUGE,2.58,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,07/10/1995,11.2,,3.4,1.17,25,42,53,36,,,,,
+8190633,08/01/1995,6.5,NO,2,,,50,,,GAUGE,2.66,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000119,08/04/1995,5.9,,1.8,30.3,41,52,57,61,,,,,
+8190633,08/16/1995,5,NO,1.5,,,54,,,GAUGE,2.75,,GREEN,4-Would not swim but boating OK (algae)
+8190633,08/21/1995,5,NO,1.5,,,54,,,GAUGE,2.72,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190633,09/04/1995,2.5,NO,0.8,,,64,,,GAUGE,2.68,,GREEN,4-Would not swim but boating OK (algae)
+1,09/18/1995,,,,40,50,,58,63,,,,,
+8190633,10/03/1995,11.5,NO,3.5,,,42,,,GAUGE,2.72,,GREEN,2-Very minor aesthetic problems
+8190633,10/19/1995,17.5,YES,5.3,,,36,,,GAUGE,2.85,,GREEN,2-Very minor aesthetic problems
+1,05/28/1996,6.5,,2,15.3,32,50,55,55,,,,,
+1,06/11/1996,,,,1.33,13,,48,37,,,,,
+8189531,06/11/1996,14.5,NO,4.4,,,39,,,GAUGE,2.86,,GREEN,2-Very minor aesthetic problems
+1,06/20/1996,19.5,,5.9,2.93,17,34,50,43,,,,,
+1,07/17/1996,13.5,,4.1,5.33,646,40,78,47,,,,,
+1,07/30/1996,,,,12,20,,51,54,,,,,
+8189531,07/30/1996,11,NO,3.3,,,43,,,GAUGE,2.8,,GREEN,2-Very minor aesthetic problems
+1,08/14/1996,9,,2.7,12.5,33,45,55,54,,,,,
+1,08/27/1996,,,,11.9,29,,54,54,,,,,
+8189531,08/27/1996,6,NO,1.8,,,51,,,GAUGE,2.74,,GREEN,2-Very minor aesthetic problems
+1,10/16/1996,,,,14.1,31,,55,55,,,,,
+1,05/07/1997,8.5,,2.6,12.3,21,46,52,54,,,,,
+1,05/27/1997,,,,,26,,53,,,,,,
+8189531,05/27/1997,9.25,NO,2.8,,,45,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,06/27/1997,13,,4,5.46,22,40,52,48,,,,,
+1,06/28/1997,,,,5.62,22,,52,48,,,,,
+8189531,06/28/1997,11,NO,3.3,,,43,,,GAUGE,2.85,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,07/23/1997,5,,1.5,22.1,20,54,51,58,,,,,
+1,07/27/1997,,,,32.9,50,,58,61,,,,,
+8189531,07/27/1997,4.5,NO,1.4,,,55,,,GAUGE,2.78,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/19/1997,5,,1.5,23.1,47,54,58,59,,,,,
+1,08/31/1997,,,,14.5,47,,58,55,,,,,
+8189531,08/31/1997,4.5,NO,1.4,,,55,,,GAUGE,2.76,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/01/1997,,,,8.06,36,,56,51,,,,,
+8189531,10/01/1997,8,NO,2.4,,,47,,,GAUGE,2.78,,GREEN,1-Beautiful, could not be nicer
+1,04/22/1998,5,,1.5,6.57,14,54,49,49,,,,,
+8189320,05/23/1998,10.5,NO,3.2,,18,43,51,,GAUGE,8,,,
+8189531,05/23/1998,10,NO,3,,,44,,,GAUGE,7,CLEAR,BLUE,
+1,06/24/1998,6,,1.8,12.4,19,51,51,54,,,,,
+1,06/27/1998,,,,7.56,18,,51,50,,,,,
+8189531,06/27/1998,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/21/1998,8,,2.4,4.52,25,47,53,46,,,,,
+8189320,07/31/1998,9,NO,2.7,12.3,20,45,51,54,NO CHANGE,,MURKY,BLUE,
+8189531,07/31/1998,8,NO,2.4,,,47,,,,,MURKY,BLUE,
+1,08/18/1998,4.5,,1.4,18,39,55,57,57,,,,,
+8189320,08/30/1998,6,NO,1.8,32.9,43,51,57,61,NO CHANGE,,MURKY,BROWN,
+8189531,08/30/1998,5,NO,1.5,,,54,,,,,MURKY,BROWN,
+8189320,10/19/1998,6,NO,1.8,,,51,,,,,MURKY,BROWN,
+8189412,05/26/1999,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189412,07/12/1999,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189412,08/25/1999,2.75,NO,0.8,,,63,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8189412,08/29/1999,4,NO,1.2,,,57,,,,,,GREEN,4-Would not swim but boating OK (algae)
+1,05/26/2000,,,,6,19,,51,48,,,,,
+8189467,05/26/2000,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,06/08/2000,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,06/26/2000,,,,8,24,,53,51,,,,,
+8189467,06/26/2000,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/05/2000,,,,4,23,,52,45,,,,,
+8189467,08/05/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,09/25/2000,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,10/10/2000,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,06/05/2001,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,06/22/2001,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,07/08/2001,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,07/21/2001,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,08/13/2001,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,08/28/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,09/20/2001,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,10/12/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,05/16/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,06/17/2002,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,07/16/2002,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,08/28/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,10/01/2002,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,05/26/2003,13.5,YES,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,06/30/2003,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,07/28/2003,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,09/25/2003,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,10/05/2003,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,06/02/2004,10,NO,3,,,44,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+8189139,07/12/2004,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189139,08/31/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,10/12/2004,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,03/05/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,06/21/2005,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,07/11/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,08/23/2005,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,10/08/2005,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,06/12/2006,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189139,08/07/2006,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+10585025,08/16/2006,6.5,NO,2,,,50,,,,,,,2-Very minor aesthetic problems
+8189139,09/25/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189139,10/08/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,04/30/2007,6,NO,1.8,,,51,,,,,,,
+8189467,06/25/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,08/06/2007,8,NO,2.4,,,47,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8189467,05/15/2008,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,06/24/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189467,07/23/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189467,05/11/2009,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189467,06/23/2009,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189467,07/20/2009,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,08/26/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189467,06/07/2010,11.5,NO,3.5,,,42,,,LOW,2,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189467,07/07/2010,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189467,08/02/2010,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189467,09/12/2010,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+49488513,06/25/2011,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+49488513,07/22/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+49488513,04/27/2012,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+49488513,07/01/2012,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+49488513,08/03/2012,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+62976890,08/16/2012,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+62976890,05/13/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62976890,06/18/2013,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,07/24/2013,2.9,NO,0.9,,,62,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+62976890,08/26/2013,3.6,NO,1.1,,,59,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+62976890,05/17/2014,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,06/17/2014,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,07/19/2014,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,08/20/2014,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+62976890,09/21/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62976890,06/12/2015,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,06/29/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+62976890,07/11/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+62976890,07/14/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+62976890,07/22/2015,2.2,NO,0.7,,,66,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+62976890,08/23/2015,3.2,NO,1,,,60,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+62976890,05/21/2016,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,06/22/2016,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+62976890,06/28/2016,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+62976890,07/16/2016,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+62976890,08/25/2016,3.6,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/1988,,,14,C,0.2,MG/L
+08/30/1988,,,18,C,1.8,MG/L
+11/07/1988,,,2,C,11.8,MG/L
+03/27/1989,,,4,C,3.3,MG/L
+04/27/1989,,,6,C,0.2,MG/L
+06/21/1989,,,10,C,0.2,MG/L
+07/12/1989,,,10.0,C,0.2,MG/L
+08/24/1989,,,11,C,0.3,MG/L
+10/25/1989,,,6,C,10.2,MG/L
+03/13/1990,,,2,C,0.1,MG/L
+04/26/1990,,,13,C,11.2,MG/L
+06/20/1990,,,18,C,7.3,MG/L
+10/31/1990,,,7,C,10.0,MG/L
+03/14/1991,,,5,C,0.1,MG/L
+05/14/1991,,,8,C,3.6,MG/L
+06/18/1991,,,23.5,C,0.2,MG/L
+07/25/1991,,,22,C,0.2,MG/L
+08/27/1991,,,22,C,0.2,MG/L
+10/31/1991,,,5,C,10.1,MG/L
+05/12/1992,,,9,C,3.7,MG/L
+07/06/1992,,,15,C,6.6,MG/L
+07/23/1992,,,15,C,0.2,MG/L
+08/27/1992,,,14.7,C,0.7,MG/L
+05/13/1993,,,12.5,C,0.3,MG/L
+06/30/1993,,,11,C,0.2,MG/L
+07/27/1993,,,18,C,0.2,MG/L
+08/31/1993,,,18,C,0.2,MG/L
+11/03/1993,,,3,C,9.4,MG/L
+03/16/1994,,,4,C,0.3,MG/L
+05/05/1994,,,8,C,11.4,MG/L
+06/21/1994,,,11,C,0.2,MG/L
+05/23/1998,3,FEET,66,DEGREES F,10,MG/L
+05/23/1998,6,FEET,66,DEGREES F,11,MG/L
+05/23/1998,9,FEET,65,DEGREES F,11,MG/L
+05/23/1998,12,FEET,63,DEGREES F,11,MG/L
+05/23/1998,15,FEET,65,DEGREES F,11,MG/L
+05/23/1998,20,FEET,64,DEGREES F,11,MG/L
+05/23/1998,25,FEET,63,DEGREES F,5,MG/L
+05/23/1998,30,FEET,59,DEGREES F,2,MG/L
+05/23/1998,35,FEET,47,DEGREES F,2,MG/L
+07/31/1998,3,FEET,73,DEGREES F,9,MG/L
+07/31/1998,6,FEET,72,DEGREES F,9,MG/L
+07/31/1998,9,FEET,72,DEGREES F,11,MG/L
+07/31/1998,12,FEET,72,DEGREES F,10,MG/L
+07/31/1998,15,FEET,70,DEGREES F,8,MG/L
+07/31/1998,20,FEET,70,DEGREES F,7,MG/L
+07/31/1998,25,FEET,63,DEGREES F,2,MG/L
+07/31/1998,30,FEET,59,DEGREES F,2,MG/L
+07/31/1998,35,FEET,57,DEGREES F,1,MG/L
+08/29/1999,3,FEET,72,DEGREES F,10,MG/L
+05/16/2002,3,FEET,49,DEGREES F,13,MG/L
+05/16/2002,6,FEET,49,DEGREES F,10,MG/L
+05/16/2002,9,FEET,49,DEGREES F,11,MG/L
+05/16/2002,12,FEET,49,DEGREES F,9,MG/L
+05/16/2002,15,FEET,49,DEGREES F,9,MG/L
+05/16/2002,20,FEET,49,DEGREES F,8,MG/L
+05/16/2002,25,FEET,49,DEGREES F,7,MG/L
+05/16/2002,30,FEET,49,DEGREES F,6,MG/L
+05/16/2002,35,FEET,49,DEGREES F,,
+06/17/2002,3,FEET,66,DEGREES F,7,MG/L
+06/17/2002,6,FEET,65,DEGREES F,7,MG/L
+06/17/2002,9,FEET,64,DEGREES F,7,MG/L
+06/17/2002,12,FEET,64,DEGREES F,7,MG/L
+06/17/2002,15,FEET,64,DEGREES F,7,MG/L
+06/17/2002,20,FEET,63,DEGREES F,7,MG/L
+06/17/2002,25,FEET,60,DEGREES F,6,MG/L
+06/17/2002,30,FEET,52,DEGREES F,1,MG/L
+06/17/2002,35,FEET,43,DEGREES F,0,MG/L
+06/17/2002,40,FEET,40,DEGREES F,0,MG/L
+07/16/2002,0,FEET,80,DEGREES F,7,MG/L
+07/16/2002,3,FEET,80,DEGREES F,7,MG/L
+07/16/2002,6,FEET,80,DEGREES F,7,MG/L
+07/16/2002,9,FEET,80,DEGREES F,7,MG/L
+07/16/2002,12,FEET,80,DEGREES F,7,MG/L
+07/16/2002,15,FEET,79,DEGREES F,7,MG/L
+07/16/2002,20,FEET,74,DEGREES F,2,MG/L
+07/16/2002,25,FEET,66,DEGREES F,0,MG/L
+07/16/2002,30,FEET,59,DEGREES F,0,MG/L
+07/16/2002,35,FEET,54,DEGREES F,0,MG/L
+07/16/2002,40,FEET,53,DEGREES F,0,MG/L
+08/28/2002,0,FEET,70,DEGREES F,7,MG/L
+08/28/2002,3,FEET,70,DEGREES F,6,MG/L
+08/28/2002,6,FEET,70,DEGREES F,6,MG/L
+08/28/2002,9,FEET,70,DEGREES F,6,MG/L
+08/28/2002,12,FEET,70,DEGREES F,6,MG/L
+08/28/2002,15,FEET,70,DEGREES F,6,MG/L
+08/28/2002,20,FEET,68,DEGREES F,3,MG/L
+08/28/2002,25,FEET,68,DEGREES F,3,MG/L
+08/28/2002,30,FEET,68,DEGREES F,2,MG/L
+08/28/2002,35,FEET,67,DEGREES F,0,MG/L
+08/28/2002,40,FEET,63,DEGREES F,0,MG/L
+10/01/2002,0,FEET,59,DEGREES F,7,MG/L
+10/01/2002,3,FEET,59,DEGREES F,6,MG/L
+10/01/2002,6,FEET,59,DEGREES F,6,MG/L
+10/01/2002,9,FEET,58,DEGREES F,7,MG/L
+10/01/2002,12,FEET,58,DEGREES F,6,MG/L
+10/01/2002,15,FEET,58,DEGREES F,6,MG/L
+10/01/2002,20,FEET,58,DEGREES F,6,MG/L
+10/01/2002,25,FEET,58,DEGREES F,6,MG/L
+10/01/2002,30,FEET,58,DEGREES F,6,MG/L
+10/01/2002,35,FEET,58,DEGREES F,6,MG/L
+10/01/2002,40,FEET,58,DEGREES F,5,MG/L
+08/16/2006,0,FEET,22.4,DEGREES C,8.75,MG/L
+08/16/2006,3,FEET,22.3,DEGREES C,8.74,MG/L
+08/16/2006,6,FEET,22.2,DEGREES C,8.71,MG/L
+08/16/2006,9,FEET,22.1,DEGREES C,8.75,MG/L
+08/16/2006,12,FEET,22.1,DEGREES C,8.74,MG/L
+08/16/2006,15,FEET,22.1,DEGREES C,8.7,MG/L
+08/16/2006,18,FEET,22,DEGREES C,8.28,MG/L
+08/16/2006,21,FEET,22,DEGREES C,7.92,MG/L
+08/16/2006,24,FEET,21.9,DEGREES C,7.66,MG/L
+08/16/2006,27,FEET,21.3,DEGREES C,6.04,MG/L
+08/16/2006,30,FEET,14,DEGREES C,.08,MG/L
+08/16/2006,33,FEET,12.2,DEGREES C,.06,MG/L
+08/16/2006,36,FEET,11.7,DEGREES C,.04,MG/L
+08/16/2006,39,FEET,11.5,DEGREES C,.03,MG/L
+04/30/2007,0,FEET,12,DEGREES C,10.02,MG/L
+04/30/2007,3,FEET,11.6,DEGREES C,10.38,MG/L
+04/30/2007,6,FEET,11.4,DEGREES C,10,MG/L
+04/30/2007,9,FEET,11.3,DEGREES C,8.08,MG/L
+04/30/2007,12,FEET,11.3,DEGREES C,7.25,MG/L
+04/30/2007,15,FEET,11.3,DEGREES C,5.73,MG/L
+04/30/2007,20,FEET,11.2,DEGREES C,4.29,MG/L
+04/30/2007,25,FEET,11.2,DEGREES C,3.25,MG/L
+04/30/2007,30,FEET,11.2,DEGREES C,2.65,MG/L
+04/30/2007,35,FEET,10.5,DEGREES C,2.06,MG/L
+04/30/2007,40,FEET,9.2,DEGREES C,.51,MG/L
+06/25/2007,0,FEET,24.3,DEGREES C,9.47,MG/L
+06/25/2007,3,FEET,24.2,DEGREES C,10.01,MG/L
+06/25/2007,6,FEET,24.2,DEGREES C,9.49,MG/L
+06/25/2007,9,FEET,23.9,DEGREES C,8.82,MG/L
+06/25/2007,12,FEET,23.9,DEGREES C,4.56,MG/L
+06/25/2007,15,FEET,23.9,DEGREES C,3.02,MG/L
+06/25/2007,20,FEET,21.5,DEGREES C,1.34,MG/L
+06/25/2007,25,FEET,20.6,DEGREES C,.9,MG/L
+06/25/2007,30,FEET,20.2,DEGREES C,.18,MG/L
+06/25/2007,40,FEET,14.9,DEGREES C,.17,MG/L
+08/06/2007,0,FEET,24.3,DEGREES C,7.68,MG/L
+08/06/2007,3,FEET,24,DEGREES C,7.53,MG/L
+08/06/2007,6,FEET,23.8,DEGREES C,7.08,MG/L
+08/06/2007,9,FEET,23.7,DEGREES C,5.46,MG/L
+08/06/2007,12,FEET,23.5,DEGREES C,3.49,MG/L
+08/06/2007,15,FEET,23.5,DEGREES C,1.98,MG/L
+08/06/2007,20,FEET,23.2,DEGREES C,1.22,MG/L
+08/06/2007,25,FEET,21.7,DEGREES C,.6,MG/L
+08/06/2007,30,FEET,19.6,DEGREES C,.3,MG/L
+08/06/2007,35,FEET,18.2,DEGREES C,.24,MG/L
+08/06/2007,40,FEET,16.2,DEGREES C,.22,MG/L
+05/11/2009,0,FEET,12.4,DEGREES C,9.76,MG/L
+05/11/2009,3,FEET,12.2,DEGREES C,9.96,MG/L
+05/11/2009,6,FEET,12.1,DEGREES C,10.08,MG/L
+05/11/2009,9,FEET,12.1,DEGREES C,9.76,MG/L
+05/11/2009,12,FEET,12,DEGREES C,9.91,MG/L
+05/11/2009,15,FEET,12,DEGREES C,9.76,MG/L
+05/11/2009,20,FEET,12,DEGREES C,9.46,MG/L
+05/11/2009,25,FEET,12,DEGREES C,9.95,MG/L
+05/11/2009,30,FEET,11.2,DEGREES C,6.83,MG/L
+05/11/2009,35,FEET,9.3,DEGREES C,.89,MG/L
+05/11/2009,40,FEET,9.3,DEGREES C,.66,MG/L
+06/23/2009,0,FEET,23.9,DEGREES C,8.45,MG/L
+06/23/2009,3,FEET,23.8,DEGREES C,8.04,MG/L
+06/23/2009,6,FEET,23.3,DEGREES C,7.92,MG/L
+06/23/2009,9,FEET,23,DEGREES C,8,MG/L
+06/23/2009,12,FEET,19.8,DEGREES C,9.37,MG/L
+06/23/2009,15,FEET,17.8,DEGREES C,8.45,MG/L
+06/23/2009,20,FEET,16,DEGREES C,5.97,MG/L
+06/23/2009,25,FEET,15,DEGREES C,3.13,MG/L
+06/23/2009,30,FEET,14.6,DEGREES C,1.35,MG/L
+06/23/2009,35,FEET,14.2,DEGREES C,.37,MG/L
+06/23/2009,40,FEET,11.38,DEGREES C,.22,MG/L
+07/20/2009,0,FEET,20,DEGREES C,9.2,MG/L
+07/20/2009,6,FEET,19.9,DEGREES C,9.14,MG/L
+07/20/2009,9,FEET,19.8,DEGREES C,9.16,MG/L
+07/20/2009,12,FEET,19.7,DEGREES C,9.4,MG/L
+07/20/2009,15,FEET,19.7,DEGREES C,9.21,MG/L
+07/20/2009,20,FEET,18.7,DEGREES C,8.29,MG/L
+07/20/2009,25,FEET,18.3,DEGREES C,7.8,MG/L
+07/20/2009,30,FEET,17.7,DEGREES C,4.64,MG/L
+07/20/2009,35,FEET,14.3,DEGREES C,.38,MG/L
+07/20/2009,40,FEET,13.5,DEGREES C,.32,MG/L
+08/26/2009,0,FEET,20.7,DEGREES C,8.23,MG/L
+08/26/2009,3,FEET,20.2,DEGREES C,8.07,MG/L
+08/26/2009,6,FEET,20,DEGREES C,7.57,MG/L
+08/26/2009,9,FEET,19.8,DEGREES C,1.66,MG/L
+08/26/2009,12,FEET,19.8,DEGREES C,7.48,MG/L
+08/26/2009,15,FEET,19.8,DEGREES C,7.98,MG/L
+08/26/2009,20,FEET,19.7,DEGREES C,7.26,MG/L
+08/26/2009,25,FEET,19.5,DEGREES C,7.34,MG/L
+08/26/2009,30,FEET,18.9,DEGREES C,2.43,MG/L
+08/26/2009,35,FEET,17.1,DEGREES C,.44,MG/L
+08/26/2009,40,FEET,15.2,DEGREES C,.28,MG/L
+06/07/2010,0,FEET,19.9,DEGREES C,85.5,MG/L
+06/07/2010,3,FEET,19.9,DEGREES C,87.5,MG/L
+06/07/2010,6,FEET,19.6,DEGREES C,84.1,MG/L
+06/07/2010,9,FEET,19.5,DEGREES C,87.8,MG/L
+06/07/2010,12,FEET,19.4,DEGREES C,91.6,MG/L
+06/07/2010,15,FEET,19.4,DEGREES C,86.9,MG/L
+06/07/2010,20,FEET,19,DEGREES C,71.9,MG/L
+06/07/2010,25,FEET,13.1,DEGREES C,69.8,MG/L
+06/07/2010,30,FEET,12.1,DEGREES C,34.1,MG/L
+06/07/2010,35,FEET,12,DEGREES C,17.1,MG/L
+06/07/2010,40,FEET,11.9,DEGREES C,10.8,MG/L
+07/07/2010,0,FEET,24.3,DEGREES C,87.4,MG/L
+07/07/2010,3,FEET,23.1,DEGREES C,88.4,MG/L
+07/07/2010,6,FEET,23.2,DEGREES C,96.8,MG/L
+07/07/2010,9,FEET,22.8,DEGREES C,93.5,MG/L
+07/07/2010,12,FEET,22.7,DEGREES C,88,MG/L
+07/07/2010,15,FEET,22.6,DEGREES C,79.8,MG/L
+07/07/2010,20,FEET,22.3,DEGREES C,64.3,MG/L
+07/07/2010,25,FEET,22.1,DEGREES C,51,MG/L
+07/07/2010,30,FEET,14.4,DEGREES C,4.1,MG/L
+07/07/2010,35,FEET,11.7,DEGREES C,4,MG/L
+07/07/2010,40,FEET,11.5,DEGREES C,3.8,MG/L
+08/02/2010,0,FEET,24.1,DEGREES C,99.2,MG/L
+08/02/2010,3,FEET,24.1,DEGREES C,97.4,MG/L
+08/02/2010,6,FEET,24,DEGREES C,98.8,MG/L
+08/02/2010,9,FEET,24,DEGREES C,98.4,MG/L
+08/02/2010,12,FEET,24,DEGREES C,100.6,MG/L
+08/02/2010,15,FEET,24,DEGREES C,101.9,MG/L
+08/02/2010,20,FEET,24,DEGREES C,90.1,MG/L
+08/02/2010,25,FEET,23,DEGREES C,32.2,MG/L
+08/02/2010,30,FEET,18,DEGREES C,5.3,MG/L
+08/02/2010,35,FEET,12.4,DEGREES C,4.6,MG/L
+08/02/2010,40,FEET,11.5,DEGREES C,4.5,MG/L
+09/12/2010,0,FEET,16.3,DEGREES C,86.2,MG/L
+09/12/2010,3,FEET,16.2,DEGREES C,82.6,MG/L
+09/12/2010,6,FEET,16.2,DEGREES C,82.8,MG/L
+09/12/2010,9,FEET,16.2,DEGREES C,82.1,MG/L
+09/12/2010,12,FEET,16.2,DEGREES C,81.3,MG/L
+09/12/2010,15,FEET,16.2,DEGREES C,82.5,MG/L
+09/12/2010,20,FEET,16.1,DEGREES C,81.9,MG/L
+09/12/2010,25,FEET,16.1,DEGREES C,82.3,MG/L
+09/12/2010,30,FEET,16.1,DEGREES C,82.8,MG/L
+09/12/2010,35,FEET,16.1,DEGREES C,82,MG/L
+09/12/2010,40,FEET,15.9,DEGREES C,9.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/24/1986,Clear and sunny    
+06/30/1986,Partly sunny    
+07/06/1986,Partly sunny- algae bloom    
+07/12/1986,Cloudy- so far the temp 72    
+07/18/1986,Partly sunny- 90 F- water surface 76 F    
+07/23/1986,Sunny- surface water temp 75 F    
+07/29/1986,Sunny- surface water temp 67 F    
+08/04/1986,Sunny- surface water temp 65 F    
+08/11/1986,Partly cloudy- water surface temp 65 F.  Water level: up 6" from 1992    
+08/17/1986,Pt. cloudy- surface temp 64 F. Water level: up 6"    
+08/24/1986,Pt. sunny- surface water temp 58 F.  Water level: up 6"    
+09/01/1986,Partly sunny- surface water temp 55 deg. F. Water level: up 6"- same as August    
+09/07/1986,Sunny with a surface water temperature at 52 degrees.    
+09/16/1986,Sunny with the surface water temperature of 50 degrees.    
+09/24/1986,Sunny with the surface water temperature of 48 degrees F.    
+10/01/1986,Partly sunny with a surface water temperature of 50 degrees F.    
+05/01/1987,Mostly cloudy- surface water temp 44 F- lake depth 40'    
+05/24/1987,Sunny    
+06/05/1987,Partly cloudy.    
+06/13/1987,Sunny- hot- and there are algae blooms in the water.    
+06/24/1987,Partly sunny- surface water temperature at 71 degrees F- and algae blooms.    
+07/10/1987,Partly cloudy- water temperature is 67 degrees F at surface- and the planktonic algae getting thicker. Water level: up 6" from 1992    
+07/18/1987,Surface temperature is 68 degrees F.  There is a lot of plankton algae. Water level: up 6"    
+07/25/1987,Sunny- water temperature is 77 degrees F- and there are thick algae blooms. Water level: up 6"    
+08/02/1987,Surface temp. 71 F- partly cloudy- thick algae blooms- thousands of rusty crayfish. Water level: up 6" same as August    
+08/09/1987,Sunny- thick algae bloom.    
+08/16/1987,Sunny- thick algae- bad smell.    
+08/25/1987,Partly sunny- algae blooms.    
+09/02/1987,Sunny- cool.    
+09/08/1987,Partly sunny.    
+09/14/1987,Sunny- cool.    
+09/22/1987,Partly sunny- cool.    
+10/12/1987,Sunny- have had snow and cold- windy weather- algae lessening.    
+04/30/1988,Sunny- calm- ice off 4/16/88- surface water temperature 41 F.    
+05/15/1988,Sunny- surface temp. 52 F- secchi rope all the way out and still visible.    
+05/23/1988,Sunny- surface water temp. 61 F.    
+06/10/1988,Sunny.    
+06/23/1988,Partly sunny- surface water temp. 57 F- algae bloom.    
+07/10/1988,Partly sunny- algal blooms    
+07/20/1988,Sunny- surface water 71 F- heavy algal blooms    
+07/26/1988,SUMMER SAMPLE    
+07/27/1988,Sunny- water surface temp 71 F- lots of algae blooms- lake low    
+08/09/1988,Pt. sunny- water 71 F- algae blooms    
+08/19/1988,Sunny- water temp. 71 F- algae blooms    
+08/31/1988,Trickle of water going out outlet- sunny- thick algae blooms- surface water temp 64 F    
+09/10/1988,Water temp 56 F- pt. sunny- lots of rain last week- algae bloom heavy    
+09/24/1988,Sunny- surface water temp 55 F    
+10/09/1988,Mostly sunny- water temp. 45 F    
+03/27/1989,MONITORING    
+03/27/1989,SUMMER SAMPLE    
+05/03/1989,Ice off 4/25- froze 11/17/88- water temperature. 44 F.    
+05/11/1989,Sunny- surface water temperature. 44 F    
+05/21/1989,Sunny- windy- surface water temperature. 56 F    
+06/10/1989,Sunny- seem to be less crayfish    
+06/18/1989,Sunny    
+06/27/1989,Sunny- water temp. 68 F    
+07/09/1989,Mostly cloudy- water temp. 72 F    
+07/20/1989,Sunny- water temp. 70 F- need rain    
+07/29/1989,Sunny- water 73 F    
+08/10/1989,Mostly sunny- water 71 F- need rain    
+08/21/1989,Mostly sunny- need rain- lots of algae- water 69 F    
+08/30/1989,Mostly cloudy- water 67 F- lots of algae bloom    
+09/14/1989,Sunny- need rain- water temp. 59 F- less algae    
+09/28/1989,Sunny- water 51 F- need rain- less algae    
+10/25/1989,TURNOVER SAMPLE    
+05/04/1990,Partly cloudy- water 49 F- ice out 4/17    
+05/30/1990,Sunny- water 58 F- heavy snow 5/9-10- eagles around- reading over 22 ft.    
+06/07/1990,Algae starting- water high- water temp. 56 F    
+06/24/1990,Sunny- water 63 F    
+06/30/1990,Sunny- water 69 F    
+07/10/1990,Partly sunny- water 67 F    
+07/21/1990,Sunny- water 68 F    
+08/01/1990,Sunny- water 66 F    
+08/11/1990,Partly sunny- water temp. 62 F    
+08/22/1990,Sunny- last 3 years has had crappie explosion-thousands    
+08/29/1990,Partly sunny    
+09/17/1990,Partly cloudy    
+09/26/1990,Sunny    
+10/06/1990,Cloudy    
+05/14/1991,TURNOVER SAMPLE    
+05/20/1991,Sunny- cool    
+06/01/1991,Partly sunny- lake high- a lot of rain    
+06/12/1991,Sunny- cool- bloom starting    
+06/23/1991,Partly sunny- surface temp: 70 F    
+07/05/1991,Partly sunny- rainy    
+07/10/1991,Partly sunny    
+07/20/1991,Partly sunny    
+07/30/1991,Sunny    
+08/11/1991,Sunny- elodea ( ) weeds over abundant- lake is a mess    
+08/22/1991,Sunny    
+08/27/1991,AMBIENT LAKE MONITORING - SUMMER SAMPLE    
+08/30/1991,Sunny- algae bloom    
+09/13/1991,Partly sunny    
+09/30/1991,Partly sunny- lots of rain all summer    
+10/31/1991,DEEPEST POINT IN LAKE    
+05/08/1992,Ice out 5-1.    
+05/12/1992,TURNOVER SAMPLE    
+05/18/1992,Sunny- lots of rain last week.    
+05/27/1992,Sunny- cool.    
+06/07/1992,Partly sunny and cool    
+06/22/1992,Algae starting.    
+06/29/1992,Mostly sunny- algae blooms.    
+07/06/1992,Sunny today- lots of rain lately.    
+07/18/1992,Partly cloudy.    
+07/23/1992,AMBIENT LAKE MONITORING SUMMER SAMPLE    
+08/05/1992,Sunny.    
+08/13/1992,Sunny.    
+08/27/1992,AMBIENT LAKE MONITORING SUMMER SAMPLE    
+09/17/1992,Sunny- lots of rain.    
+09/27/1992,Sunny.    
+10/05/1992,Last reading.    
+05/13/1993,AMBIENT LAKE MONITORING - TURNOVER SAMPLE    
+06/05/1993,The water color is light green and it is partly cloudy.    
+06/22/1993,Water level: Up 3" since the ice was out.    
+06/30/1993,AMBIENT LAKE MONITORING - SUMMER SAMPLE    
+07/09/1993,The water is greenish brown.    
+07/26/1993,Off and on algae blooms last 2- 3 days.    
+07/27/1993,AMBIENT LAKE MONITORING - SUMMER SAMPLE    
+08/28/1993,Partly sunny- no major algae bloom.  No elodea floating mass.  Good healthy weed growth of various types.  Emergent and submergent.    
+08/31/1993,SUMMER SAMPLE    
+11/03/1993,AMBIENT LAKE MONITORING - TURNOVER SAMPLE    
+03/16/1994,AMBIENT LAKES - WINTER SAMPLE    
+05/05/1994,AMBIENT LAKE MONITORING - TURNOVER SAMPLE    
+06/21/1994,SUMMER SAMPLE    
+07/21/1994,AMBIENT LAKE MONITORING - SUMMER SAMPLE    
+08/18/1994,AMBIENT LAKE MONITORING - SUMMER SAMPLE    
+11/03/1994,AMBIENT LAKE MONITORING - TURNOVER SAMPLE    
+05/03/1995,AT DEEPEST POINT IN LAKE    
+05/15/1995,Some large elodea floats 10' to 30' in size.  Good spring duck activity- constant eagle and osprey sittings.    
+06/30/1995,Surface temperature is 73 degrees F.    
+07/08/1995,Water surface temperature is 67 degrees F.    
+07/10/1995,1 METER BELOW THE SURFACE    
+08/04/1995,AMBIENT LAKE MONITORING - SUMMER SAMPLE    
+08/16/1995,Surface temperature is 75 degree F.    
+08/21/1995,Elodea floats beginning to break-up.  Bottom sample had a rotten egg smell.    
+09/04/1995,Surface temp. 73 degrees F- worst algae bloom of season.    
+10/03/1995,Surface temperature is 56 degrees F.    
+10/19/1995,Surface temperature is 57 degrees F.    
+08/27/1996,More algae bloom noticed.  Rotten egg smell from bottom sample (37')- small elodea floats (anchor pulls )    
+05/27/1997,Sunny - chop on water. single loon seen.  Eagles sighted. muskies in shallow bays.    
+06/28/1997,LAKE SAMPLE    
+06/28/1997,Slight chop.  Sunny and 74 degrees.  Moderate boat activity for fishing.  Rocks in shallows covered with mossy type substance.  Very few crayfish.    
+07/27/1997,Floating weed clumps- Maybe from anchor pulls.  Algal bloom real present.  Bottom rocks covered with slimy material. sunny to partly sunny.  Slight ripple on water- 76 degrees.  A few ducks- gulls and eagles present.    
+07/27/1997,LAKE SAMPLE    
+08/19/1997,AMBIENT LAKES - SUMMER    
+08/31/1997,Floating weed clumps.  Sunny. slight chop on water.  Much boat action.    
+08/31/1997,LAKE SAMPLE    
+10/01/1997,Choppy surface- overcast.  60 degrees and windy.  Loons and mergansers present.    
+10/01/1997,LAKE SAMPLE    
+04/22/1998,KENTUCKY LAKE (ALSO SEE II020547)    
+05/23/1998,LAKE SAMPLE    
+06/27/1998,LAKE SAMPLE    
+07/21/1998,RUN EVEN IF HT EXCEEDED - AMBIENT LAKES SUMMER    
+07/31/1998,LAKE SAMPLE    
+08/30/1998,LAKE SAMPLE    
+05/26/1999,Cloudy- temp low 70s.    
+07/12/1999,Sunny.  Windy.    
+08/29/1999,Cool + sunny.    
+05/26/2000,Sunny and calm.    
+06/08/2000,Northeast side light bloom- sunny- and temperature at 82.4 degrees.    
+06/26/2000,Partly sunny and windy.    
+08/05/2000,Partly sunny- windy- and 70 degrees F.    
+06/22/2001,Sunny- light breeze from NE.  2 eagles on west shore- 1 loon.    
+07/08/2001,Partly cloudy- 1 eagle fishing at north side of lake.    
+07/21/2001,Partly cloudy    
+08/13/2001,Partly cloudy- breezy    
+08/28/2001,Partly cloudy- NE wind    
+09/20/2001,Partly cloudy- N wind    
+10/12/2001,Sunny.  Loon on NE side of lake    
+07/28/2003,Eagle on south end of lake.    
+09/25/2003,Eagle NW side of lake    
+10/05/2003,Sunny and calm. 2 loons SE side of lake.    
+08/07/2006,eagles around lake
+08/16/2006,60% Cloud Cover- Wind NW 5mph
+09/25/2006,2 loons on lake
+10/08/2006,4 eagles on north west side
+04/30/2007,partly cloudy- winds calm-
+2 loons on Northwest side of shore 
+06/25/2007,clear- full sun- 1 loon on West side of Lake-  2 loons on East side of Lake  
+08/06/2007,sunny and clear-  eagle at north end of lake-
+also two loons on north side of lake 
+05/11/2009,Partly cloudy
+06/23/2009,Partly cloudy
+06/07/2010,The weather was clear- sunny
+Eagle at Northwest side of lake
+
+Helper- James Steenport  clear and sunny-  Eagle on Northwest side of lake
+
+helper - Jim Steenport  
+07/07/2010,Partly cloudy. Wind: SE
+09/12/2010,Partly cloudy. Two loons on NW side of lake.
+06/25/2011,Partly cloudy.
+07/22/2011,Sunny.
+04/27/2012,VISABILITY TO WITHIN A FOOT OF THE BOTTOM.  LIGHT CLOUDS.  MILD NE WIND.  AIR TEMPS IN THE 40'S.  ICE OUT 3/21.  WATER LEVEL LOWER THAN LAST SPRING. 
+07/01/2012,EAGLE FISHING- LOON CALLING- VERY CALM.  PARTICLES FLOATING IN THE WATER.  NOT MUCH WEED GROWTH ON THE LAKE SO FAR THIS YEAR.
+08/03/2012,HEARD EAGLE- FEW BOATS ON LAKE-  SMALL BLUEGILL KILL LATE JULY ON WEST SIDE-
+08/16/2012,cloudy- no boats- wind 5-7mph- slight ripple cloudy- no boats- wind 5-7mph- slight ripple
+05/13/2013,Mostly sunny- SW Breeze 5mph- 1 other boat on lake- loon nearby. Ice out 05/07/2013
+06/18/2013,  Air temperature 69 degrees- water temperature 69 degrees. Breeze 5 mph from North. Water calm. Two loons on the lake- 4-6 boats mostly fishing.  Water color green.  Sunny day.
+07/24/2013,Partly cloudy- a little wind- air temp 68degrees- water temperature at surface 73 degrees. A few fishing boats on water recently experienced algae bloom especially on West shoreline.  Analysis showed blue green Anebiena.
+Assisted by Janet Long
+08/26/2013,Small waves- some clouds but measured when full sun-
+05/17/2014,Ice out was May 8. Sunny- 5-10mph breeze- 4 fish boats- merganzers- some dead pan fish near shore
+06/17/2014,loons on water- a little chop- few clouds- eagles spotted
+07/19/2014,15mph wind- choppy and mostly cloudy- 2 loons on the lake- Wind picking up but this is sattelite day so I took a reading.
+08/20/2014,Partly sunny but readings taken when sun out- calm- water temp 69 degrees- loons on water
+09/21/2014,Partly sunny- (Had to wait until after two for sunshine.) wind 10-12mph- 1 loon sighted- water temp 58 degrees
+06/12/2015,Sunny with a few clouds- windy
+06/29/2015,75% cloud cover- 2 fishing boats- scum along shoreline extending out 10ft into lake- light breeze
+07/11/2015,Lake calm- water very green- no visibility into water- scum on surface at shoreline
+07/14/2015,Shoreline scum and pea soup appearance- cloudy in the am- partly cloudy in afternoon- very green water
+07/22/2015,Scum and pea soup looking water near shore- very calm- no wind- sunny- large floating masses of milfoil all over lake- nobody swimming and a couple of fishing boats on water
+08/23/2015,less windy 10mph- air temp 68- top water temp 68- no birds- algae scum near shoreline- fish boats gone
+05/21/2016,Wind picked up to 10-15mph- water temp 58 degrees- choppy still partly sunny
+06/22/2016,Light wind- full sun- calm water
+06/28/2016,Partly cloudy- light wind- fishing boats- one eagle
+07/16/2016,A few clouds moved in: 80% sunny- air temp 70 F- water temp at surface 71 F.  Water much greener than last report Algae looking like green paint near shore.  Would not swim  70 F air temp- 71F water temp  Lt. breeze
+08/25/2016,Green paint appearance on shoreline- wind 10mph- 100% sunny- 2 boats on water
+
+
+
+
+Start Date,Group Name,Project Name
+06/24/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/30/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/06/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/12/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/18/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/23/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/29/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/04/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/11/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/17/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/24/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/01/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/07/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/16/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/24/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/01/1986,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/01/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/24/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/05/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/13/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/24/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/10/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/18/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/25/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/02/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/09/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/16/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/25/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/02/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/08/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/14/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/22/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/12/1987,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+04/30/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/15/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/23/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/01/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/10/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/23/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/10/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/20/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/26/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/27/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/09/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/19/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/30/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/31/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/10/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/24/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/09/1988,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+11/07/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/27/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/27/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/03/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/11/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/21/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/10/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/18/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/21/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/27/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/09/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/12/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/20/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/29/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/10/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/21/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/24/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/30/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/14/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/28/1989,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/25/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/13/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/26/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/04/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/30/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/07/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/20/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/24/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/30/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/10/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/12/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/21/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/01/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/11/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/22/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/29/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/30/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/17/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/26/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/06/1990,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/31/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/14/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/12/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/14/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/20/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/01/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/12/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/18/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/23/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/05/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/10/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/20/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/25/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/30/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/11/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/22/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/27/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/30/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/13/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/30/1991,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/31/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/08/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/12/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/18/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/27/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/07/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/22/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/29/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/06/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/06/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/18/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/23/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/27/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/05/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/13/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/22/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/27/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/07/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/17/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/27/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/05/1992,Roger Foster,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/13/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/05/1993,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/22/1993,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/30/1993,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+07/09/1993,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/15/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/26/1993,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/27/1993,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+08/16/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/28/1993,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/31/1993,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+09/19/1993,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/15/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+11/03/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/16/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/05/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/10/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/02/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/02/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/15/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/21/1994,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+06/27/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/27/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/04/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/21/1994,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+07/25/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/25/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/18/1994,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/22/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/08/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/02/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/02/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/20/1994,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+11/03/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/02/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/03/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/15/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/15/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/25/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/18/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/30/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/08/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/10/1995,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+08/01/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/04/1995,ROBERT YOUNG,Lake Baseline Monitoring- DNR (1970s-2006)
+08/16/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/21/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/04/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/18/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/03/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/19/1995,Jim Steingraeber,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/28/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/11/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/11/1996,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/20/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/30/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/30/1996,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/14/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/27/1996,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/16/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/07/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/27/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/27/1997,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/27/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/28/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/28/1997,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/23/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/27/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/27/1997,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/19/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/31/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/31/1997,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/01/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/01/1997,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+04/22/1998,Data Collectors,CHLOROPHYLL COMPARISON
+04/22/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/23/1998,Daniel Krajewski,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/23/1998,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/24/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/27/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/27/1998,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/21/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/31/1998,Daniel Krajewski,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/31/1998,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/18/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/30/1998,Daniel Krajewski,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/30/1998,Harry Baumann,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/19/1998,Daniel Krajewski,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/26/1999,Ronald Pickarts,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/12/1999,Ronald Pickarts,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/25/1999,Ronald Pickarts,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/29/1999,Ronald Pickarts,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/26/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/26/2000,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/08/2000,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/26/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/26/2000,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/05/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/05/2000,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/25/2000,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/10/2000,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/05/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/22/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/08/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/21/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/13/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/28/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/20/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/12/2001,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/16/2002,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/17/2002,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/16/2002,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/28/2002,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/01/2002,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/26/2003,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/30/2003,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/28/2003,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/25/2003,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/05/2003,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/02/2004,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/12/2004,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/31/2004,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/12/2004,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+03/05/2005,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/21/2005,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/11/2005,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/23/2005,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/08/2005,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/12/2006,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/07/2006,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/16/2006,NICOLE NIKOLAUS,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/25/2006,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+10/08/2006,Gerhard Becker And Robert Yuhas,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+04/30/2007,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/25/2007,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/06/2007,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/15/2008,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/24/2008,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/23/2008,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/11/2009,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/23/2009,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/20/2009,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/26/2009,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/07/2010,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/07/2010,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/02/2010,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/12/2010,Gerhard Becker,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/25/2011,Joel DeAngelo,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/22/2011,Joel DeAngelo,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+04/27/2012,Joel DeAngelo,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/01/2012,Joel DeAngelo,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/03/2012,Joel DeAngelo,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/16/2012,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/13/2013,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/18/2013,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/24/2013,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/26/2013,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/17/2014,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/17/2014,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/19/2014,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/20/2014,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+09/21/2014,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/12/2015,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/29/2015,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/11/2015,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/14/2015,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/22/2015,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/23/2015,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+05/21/2016,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/22/2016,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+06/28/2016,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+07/16/2016,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center
+08/25/2016,Candy Purdy,Citizen Lake Monitoring - Water Quality - Kentuck Lake; Site 1-Center

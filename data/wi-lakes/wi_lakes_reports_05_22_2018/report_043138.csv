@@ -1,0 +1,224 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Owen,Bayfield,2900200,NO,4,,043138,NW,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190733,06/21/1992,20.25,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190733,06/30/1992,17,NO,5.2,,,36,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190733,07/15/1992,18,NO,5.5,,,35,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190733,07/23/1992,19,NO,5.8,,,35,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190733,08/05/1992,25.25,NO,7.7,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190733,08/19/1992,23,NO,7,,,32,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190716,09/03/1992,22.25,NO,6.8,,,32,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190716,09/17/1992,22.25,NO,6.8,,,32,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189250,10/02/1997,23.25,NO,7.1,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188943,07/12/2003,23.5,NO,7.1,,,32,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189250,09/04/2003,22.5,NO,6.8,,,32,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189250,09/20/2003,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,08/30/2007,21.25,NO,6.5,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947132,08/30/2007,25.25,NO,7.7,,,31,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,09/26/2007,18.5,NO,5.6,,,35,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21947132,09/26/2007,21,NO,6.4,,,33,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,06/15/2008,22,NO,6.7,,,33,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,07/17/2008,16.5,NO,5,,,37,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21947132,07/17/2008,16.5,NO,5,,,37,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,08/02/2008,28,NO,8.5,,,29,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,08/18/2008,29,NO,8.8,,,29,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+21947123,09/03/2008,19.75,NO,6,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947132,09/03/2008,24.5,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,10/05/2008,22.5,NO,6.8,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947132,10/05/2008,24.25,NO,7.4,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19622257,06/10/2009,19,NO,5.8,,,35,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+21947123,06/26/2009,17.25,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,07/12/2009,22.5,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,07/28/2009,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,08/29/2009,14.25,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,09/14/2009,31.25,NO,9.5,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,07/23/2010,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,08/08/2010,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21947123,08/24/2010,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,09/09/2010,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,07/10/2011,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+21947123,08/03/2011,21.5,NO,6.5,,,33,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+21947123,08/28/2011,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21947123,09/05/2011,17.5,NO,5.3,,,36,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19622257,09/28/2011,19.25,NO,5.9,,,35,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+21947123,07/04/2012,19,NO,5.8,,,35,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+21947123,07/20/2012,19,NO,5.8,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,08/05/2012,16.5,NO,5,,,37,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+19622257,08/21/2012,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19622257,09/22/2012,27,NO,8.2,,,30,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+21947123,06/29/2013,17.75,NO,5.4,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+21947123,07/15/2013,21.75,NO,6.6,,,33,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,08/25/2013,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19622257,09/09/2013,24,NO,7.3,,,31,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19622257,09/17/2013,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19622257,07/03/2014,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19622257,07/27/2014,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,08/12/2014,23.75,NO,7.2,,,31,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+19622257,08/28/2014,25.5,NO,7.8,,,30,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19622257,09/13/2014,26.75,NO,8.1,,,30,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19622257,09/21/2014,26.75,NO,8.1,,,30,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19622257,06/19/2015,21.25,NO,6.5,,,33,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+21947123,07/05/2015,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,08/06/2015,20.25,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19622257,09/23/2015,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19622257,06/29/2016,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,07/15/2016,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21947123,07/31/2016,18,NO,5.5,,,35,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+19622257,08/16/2016,18.25,NO,5.5,,,35,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19622257,09/02/2016,20.75,NO,6.3,,,33,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,09/18/2016,23.75,NO,7.2,,,31,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+21947123,10/03/2016,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+19622257,06/24/2017,18,NO,5.5,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+19622257,08/19/2017,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+19622257,09/04/2017,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+21947123,09/21/2017,18.25,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+19622257,10/06/2017,,,,,,,,,NORMAL,20.5,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/21/1992,Alto cirrus clouds today.  1.9" rain in last 48 hours.  Light northeast winds- very high northeast winds yesterday.  Water temperature is 3 degrees and air temperature is 69 degrees.  Ice off was on April 30- 1992- latest in six years.    
+06/30/1992,Thin overcast- hazy.  The air temperature is 73 degrees and the water temperature is 67 degrees.    
+07/15/1992,Recently received up to 6" of rain.    
+07/23/1992,The water temperature is 70 degrees and the air temperature is 76 degrees.  Brown tint to the water due to over 10" of rain since July 8- 1992.  Highest water level in six years.    
+08/05/1992,The water temperature is 71 degrees and the air temperature is 75 degrees.  Bright sunshine- calm water- very slight green tint- and no zebra mussels seen. best this time of year.    
+08/19/1992,Might have to add more rope!  the water has a slight green tint.  The water temperature is 71 degrees- flat calm waters- and clear skies.  Nicest day this year.    
+09/03/1992,Sunny- slight wave- and high wind.  The water is between green and brown.    
+09/17/1992,Slight breeze- light chop on lake- and two inches above normal- rainfall for month now stands at 3.8.    
+10/02/1997,Sunny- calm- and the air temperature is 70 degrees.    
+07/12/2003,boat traffic heavy. Otherwise calm water- sunny day.
+    
+09/04/2003,sunny- 60's; minimal boat traffic
+    
+09/20/2003,clear- sunny- light chop- loons
+    
+08/30/2007,Weather clear with slight wind from North.  Lake level lowest ever seen in recent years as result of draught.  Nothing out at outlet since 7/1.
+08/30/2007,Wind from N - slight drift S
+09/26/2007,Water just trickling out at outlet.  Wind from S - drifting N.
+09/26/2007,Weather clear with slight wind from South.  Water clarity murky as a result of 7 in. of rain in the past week raising water level of Lake to more normal but still on low side.  Test site slightly N of normal.
+06/15/2008,West wind- water level high- 2 in. of rain last week-
+07/17/2008,South breeze- buttermilk sky- hazy sun- 1/4 in. rain last night
+08/02/2008,no wind- clear/sunny- surface very still- no rain last 3-4 days
+08/18/2008,slight north wind- clear/sunny sky- some ripple- shower last night but no significant rain since 8/2
+09/03/2008,partly sunny- ripple on surface 5-10mpn NW wind- 0.3 in. of rain yesterday
+10/05/2008,sunny- surface ripple- 5 mph south wind- no recent rains
+06/10/2009,Weather cloudy- west wiind less than 5 mph creating surface ripple- no rain in recent days
+06/26/2009,Weather sunny- north wind less than 5 mph creating slight surfact ripple- no rain recently- lake level below normal
+07/12/2009,Weather partly sunny with north wind 5-10 mph creating surface ripple.  No rain since last test so lake level low
+07/28/2009,Weather cloudy- soutwest wind at 10-15 mph so surface ripple- boat drifting badly with wind- several showers last few days- lake level still llow
+08/29/2009,Heavy mist/overrcast- north wind 10-15 mph- heavy surface ripple/drift- 0.4 in. of rain last 24 hours- lake level still low
+09/14/2009,Hazy sun with no wind or ripple- no rain so far in Sep. so lake level very low
+07/23/2010,Partly cloudy- NW wind 5 to 10 mph- surface ripple.water going out outlet. Partly cloudy- NW wind 5 to 10 mph- surface ripple- water flowing out of lake at dam
+08/08/2010,Overcast- wind 0 to 5 mph from South- slight surface ripple- 1 1/2 in. of rain last night- waer still going out of outle.  Son-in law- Kerry Kirby- confirmed my data.
+08/24/2010,Partly sunny/overcast- W wind 10 to 15 mph- ripply surface- showers last night-  water still flowing from Lake.  Ralph Owen confirmed data except his secchi depth reading was 19 ft.
+09/09/2010,"Bright overcast-" no wind- slight ripple- 0.3 in. of rain about 5 days ago- water barely flowing out of Lake.
+07/10/2011,Weather-sunny- slight 5 mph wind from north-  slight surface ripple- waves from boaters- no rain in 48 hours- good flow over dam at Lake outlet
+08/03/2011,Weather--sunny- wind 5-10 mph from north- surface ripply with waves from passing boaters- 1 1/2 in. rain two nights ago
+08/28/2011,Weather sunny- no wind or surface ripple- no rain since Aug. 2- water flowing over dam at Lake outlet
+09/05/2011,Weather sunny- 0-5 mph wind from north- slight surface ripple- no significant rain since Aug. 30- water flowing over dam at Lake outlet
+09/28/2011,Weather sunny- 0-5 mph wind from south- surface ripply- 1/2 in. rain yesterday- flow still going over dam at Lake outlet
+07/04/2012,Daughter- Steph Kirby- assisted in acquiring data.  Conditions were: hazy sun- 5 to 10 mph wind from south with boat traffic so ripply surface- hot/muggy with thunderstorm activity two nights ago.  Lake level very high after wet spring.
+07/20/2012,Daughter- Steph Kirby assister-  Weather conditions:  Hazy sus- gusty wind 15 to 20 mph wind from south- boat drifting (no anchor)- very ripply surface- no rain so far this month- but Lake level still high.
+08/05/2012, Son- Lee danker- assisted.  Weather conditions:  Intermitant sun- wind 5 to 10 mph from west so surface ripply- boat drifting- 0.3 in of rain on 08/03
+08/21/2012,Weather conditions:  Sunny- wind 5 to 10 mph from south so surface ripply- no anchor so boat drifting- normal water flowing over dam out of Lake.
+09/22/2012,Weather conditions:  Sunny- wind 5 to 10 mph from west- surface ripply with boat drifting- 1 in. rain last 24 hours- water still flowing over dam.
+07/15/2013,Daughter Steph Kirby assisted.  Weather condition:  hazy sun- mild S drift- very slight ripple on water surface
+08/25/2013,Sunny weather- 0 to 5 mph wind from south- surface ripple- some boat traffic- no rain in several days
+09/09/2013,Overcast- no wind or surface ripple- about 1/8 in. of rain last nite 
+09/17/2013,Sunny with S wind 10 to 15 mph- surface ripple- boat drifting- no rain last 48 hours
+08/06/2015,Partially sunny- slight S wind- ripply surface- no rain recently- some boat traffic
+09/23/2015,Heavy overcast- slight N drift- slight ripple- no rain in several days- water level lowest for summer
+06/29/2016,Intermittent sun/clouds- slight south wind- ripply surface- very heavy pollen recently
+07/15/2016,Part sun- no wind- ripply surface- very heavy rains recently (7/11--ten plus in.)- Lake level highest ever.
+07/31/2016,Sunny- 5-10mph south wind- boat traffic/ripply surface- no rain last 48 hours.  Lake level still very high.
+08/16/2016,Slightly sunny- slight north breeze- surface slightly ripply- no rain last 3 to 4 days- lake level still very high
+09/02/2016,South wind 5-10 mph- sunny- ripply surface- no boat traffic- no rain last 72 hours.
+09/18/2016,Sunny- south wind 5 - 10 mph- boat drifting- ripply surface- few showers yesterday.
+10/03/2016,Sunny- 5-10 mph south wind- no anchor required- no boat traffic--slight surface ripple- no rain last 72 hours.
+
+
+
+
+Start Date,Group Name,Project Name
+06/21/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/30/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/15/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/23/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/05/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/19/1992,Richard Williams,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/03/1992,Randy Weis,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/17/1992,Randy Weis,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+10/02/1997,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/12/2003,Ann Donahue,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/04/2003,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/20/2003,Patricia Schroeder,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/30/2007,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/30/2007,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/26/2007,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/26/2007,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/15/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/17/2008,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/17/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/02/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/18/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/03/2008,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/03/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+10/05/2008,Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+10/05/2008,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/10/2009,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/26/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/12/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/28/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/29/2009,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/14/2009,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/23/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/08/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/24/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/09/2010,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/10/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/03/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/28/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/05/2011,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/28/2011,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/04/2012,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/20/2012,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/05/2012,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/21/2012,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/22/2012,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/29/2013,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/15/2013,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/25/2013,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/09/2013,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/17/2013,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/03/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/27/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/12/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/28/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/13/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/21/2014,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/19/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/05/2015,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/06/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/23/2015,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/29/2016,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/15/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+07/31/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/16/2016,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/02/2016,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/18/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+10/03/2016,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+06/24/2017,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+08/19/2017,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/04/2017,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+09/21/2017,Willard Danker,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11
+10/06/2017,Willard Danker- Ralph Owen,Citizen Lake Monitoring - Water Quality - Lake Owen; Site E - Outlet Bay Sec 11

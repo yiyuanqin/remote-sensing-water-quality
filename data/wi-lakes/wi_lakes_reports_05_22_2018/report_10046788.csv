@@ -1,0 +1,52 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wingra,Dane,805000,SC,13,,10046788,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+127414910,08/06/2016,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+127414910,08/13/2016,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,08/25/2016,3.25,NO,1,,,60,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+127414910,07/20/2017,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,07/27/2017,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,08/02/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,08/09/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,08/25/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,09/12/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+127414910,10/19/2017,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/06/2016,Sunny- low wind- 83 degrees
+08/13/2016,Partly cloudy.  Winds about 10 mph. Macrophytes were interfering with an accurate Secchi Disc reading. We moved about 150 east of desired location to do the measurement. This is at the edge of the dense part of the plant growth. 
+08/25/2016,Sunny day. Light winds.  Found open water just a short distance from sampling location
+07/20/2017,Sunny and warm.  Lake water looks very green
+07/27/2017,Sunny- lake is green- 10 mph winds so wavey
+08/02/2017,Sunny- no wind
+08/09/2017,Mild wind- sunny- and very green water
+08/25/2017,some wind- relatively few aquatic plants at surface
+09/12/2017,Sunny- no waves
+10/19/2017,Sunny day- calm wind- little cloud cover
+
+
+
+
+Start Date,Group Name,Project Name
+08/06/2016,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+08/13/2016,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+08/25/2016,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+07/20/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+07/27/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+08/02/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+08/09/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+08/25/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+09/12/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site
+10/19/2017,Katie Nicholas,Citizen Lake Monitoring - Water Quality - Lake Wingra - West Central Site

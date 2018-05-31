@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kusel Lake,Waushara,189600,NE,70,,10044894,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/18/2016,,,,,,,,,,,,,
+1,05/21/2016,,,,,,,,,,,,,
+1,05/23/2016,,,,,,,,,,,,,
+1,05/25/2016,,,,,,,,,,,,,
+1,06/01/2016,,,,,,,,,,,,,
+1,06/15/2016,,,,,,,,,,,,,
+1,06/22/2016,,,,,,,,,,,,,
+1,07/06/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/18/2016,,,19.9,C,,
+05/21/2016,,,15.6,C,,
+05/23/2016,,,22.3,C,,
+05/25/2016,,,18.9,C,,
+06/01/2016,,,24.3,C,,
+06/15/2016,,,25.2,C,,
+06/22/2016,,,24.4,C,,
+07/06/2016,,,26.1,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/18/2016,Data Collectors,Herbicide Concentration Monitoring
+05/21/2016,Data Collectors,Herbicide Concentration Monitoring
+05/23/2016,Data Collectors,Herbicide Concentration Monitoring
+05/25/2016,Data Collectors,Herbicide Concentration Monitoring
+06/01/2016,Data Collectors,Herbicide Concentration Monitoring
+06/15/2016,Data Collectors,Herbicide Concentration Monitoring
+06/22/2016,Data Collectors,Herbicide Concentration Monitoring
+07/06/2016,Data Collectors,Herbicide Concentration Monitoring

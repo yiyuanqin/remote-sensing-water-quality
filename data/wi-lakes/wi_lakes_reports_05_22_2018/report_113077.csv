@@ -1,0 +1,62 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Wisconsin,Columbia,1260600,SC,11,,113077,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/11/1980,1.6,,0.5,14,,70,,55,,,,,
+1,08/21/1980,1.6,,0.5,67,,70,,67,,,,,
+1,09/13/1981,1.6,,0.5,80,,70,,68,,,,,
+99924792,07/03/2014,1.75,NO,0.5,,,69,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+99924792,07/07/2014,1.75,NO,0.5,,,69,,,LOW,,MURKY,YELLOW,
+99924792,07/18/2014,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+99924792,08/15/2014,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+99924792,06/23/2015,2.5,NO,0.8,,,64,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+89214715,07/15/2015,,,,55.9,94.7,,63,65,,,,,
+99924792,07/15/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99924792,07/17/2015,2.75,NO,0.8,,,63,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+99924792,07/19/2015,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+99924792,08/05/2015,2.75,NO,0.8,,,63,,,LOW,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+99924792,09/04/2015,2.75,NO,0.8,,,63,,,LOW,,,YELLOW,3-Enjoyment somewhat impaired (algae)
+7505218,06/20/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,07/20/2017,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7505218,09/12/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/11/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/21/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/13/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/20/2017,Sunny- calm- water temp 74F- last week air temp was in the 90s- few boats out today
+07/20/2017,Mostly sunny- wind calm- water 80F- Sparse bluegreen algae- less than nearby bays- last 3 days hot and humid- 3/4" rain last night.  
+09/12/2017,light SW wind- light bluegreen algae- no rain- cool high70s- low 40s- water 68F- main channel has more bg algae - all way down the lake- leaves green wake in places
+
+
+
+
+Start Date,Group Name,Project Name
+06/11/1980,Data Collectors,Migrated from STORET Legacy
+08/21/1980,Data Collectors,Migrated from STORET Legacy
+09/13/1981,Data Collectors,Migrated from STORET Legacy
+07/03/2014,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+07/07/2014,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+07/18/2014,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+08/15/2014,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+06/23/2015,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+07/15/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/15/2015,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+07/17/2015,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+07/19/2015,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+08/05/2015,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+09/04/2015,Gary Weinert,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+06/20/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+07/20/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 
+09/12/2017,TIM LARSON,Citizen Lake Monitoring - Water Quality - Lake Wisconsin - Just W Of Whalen Grade 

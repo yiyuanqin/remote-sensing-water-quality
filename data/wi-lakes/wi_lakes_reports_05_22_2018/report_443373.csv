@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Oneida,969700,NO,44,,443373,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+130849514,06/22/2016,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/22/2016,1,FEET,77.3,DEGREES F,6.76,MG/L
+06/22/2016,2,FEET,76.8,DEGREES F,6.78,MG/L
+06/22/2016,3,FEET,76.5,DEGREES F,6.68,MG/L
+06/22/2016,4,FEET,74.3,DEGREES F,5.9,MG/L
+06/22/2016,5,FEET,73.4,DEGREES F,5.71,MG/L
+06/22/2016,6,FEET,72.1,DEGREES F,4.7,MG/L
+06/22/2016,7,FEET,67.4,DEGREES F,.15,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/22/2016,Stephanie Boismenue and Abbi Bowman,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

@@ -1,0 +1,58 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Jefferson,820800,SC,28,,10042079,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/20/2014,,,,,,,,,,,,,
+1,05/21/2014,,,,,,,,,,,,,
+1,05/22/2014,,,,,,,,,,,,,
+1,05/24/2014,,,,,,,,,,,,,
+1,05/28/2014,,,,,,,,,,,,,
+1,05/30/2014,,,,,,,,,,,,,
+1,06/04/2014,,,,,,,,,,,,,
+1,05/11/2017,,,,,,,,,,,,,
+1,05/13/2017,,,,,,,,,,,,,
+1,05/15/2017,,,,,,,,,,,,,
+1,05/16/2017,,,,,,,,,,,,,
+1,05/24/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/20/2014,,,21.1,C,,
+05/21/2014,,,23.3,C,,
+05/22/2014,,,22.8,C,,
+05/24/2014,,,23.3,C,,
+05/28/2014,,,21.1,C,,
+05/30/2014,,,24.7,C,,
+06/04/2014,,,25.0,C,,
+05/11/2017,,,12.5,C,,
+05/13/2017,,,21,C,,
+05/15/2017,,,17,C,,
+05/16/2017,,,21,C,,
+05/24/2017,,,14,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/20/2014,Data Collectors,Herbicide Concentration Monitoring
+05/21/2014,Data Collectors,Herbicide Concentration Monitoring
+05/22/2014,Data Collectors,Herbicide Concentration Monitoring
+05/24/2014,Data Collectors,Herbicide Concentration Monitoring
+05/28/2014,Data Collectors,Herbicide Concentration Monitoring
+05/30/2014,Data Collectors,Herbicide Concentration Monitoring
+06/04/2014,Data Collectors,Herbicide Concentration Monitoring
+05/11/2017,Data Collectors,Herbicide Concentration Monitoring
+05/13/2017,Data Collectors,Herbicide Concentration Monitoring
+05/15/2017,Data Collectors,Herbicide Concentration Monitoring
+05/16/2017,Data Collectors,Herbicide Concentration Monitoring
+05/24/2017,Data Collectors,Herbicide Concentration Monitoring

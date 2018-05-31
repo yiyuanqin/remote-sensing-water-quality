@@ -1,0 +1,352 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Gunlock Lake,Vilas,1539700,NO,64,,643434,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190154,05/13/1990,8.5,NO,2.6,,,46,,,GAUGE,1.56,,GREEN/BROWN,1-Beautiful, could not be nicer
+8190154,05/20/1990,9.5,NO,2.9,,,45,,,GAUGE,1.58,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190154,05/25/1990,11.5,NO,3.5,,,42,,,GAUGE,1.49,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190154,06/01/1990,8.75,NO,2.7,,,46,,,GAUGE,1.35,,GREEN/BROWN,2-Very minor aesthetic problems
+8190154,06/08/1990,9,NO,2.7,,,45,,,GAUGE,1.36,,BLUE/GREEN,2-Very minor aesthetic problems
+8190154,06/15/1990,9.25,NO,2.8,,,45,,,GAUGE,1.32,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190154,06/23/1990,8.5,NO,2.6,,,46,,,GAUGE,1.27,,BLUE/GREEN,2-Very minor aesthetic problems
+8190154,06/29/1990,12.25,NO,3.7,,,41,,,GAUGE,1.26,,BLUE/GREEN,2-Very minor aesthetic problems
+8190154,07/08/1990,10,NO,3,,,44,,,GAUGE,1.37,CLEAR,BLUE,2-Very minor aesthetic problems
+8190154,07/13/1990,9,NO,2.7,,,45,,,GAUGE,1.32,,GREEN/BROWN,2-Very minor aesthetic problems
+8190154,07/18/1990,8.75,NO,2.7,,,46,,,GAUGE,1.32,,BLUE/GREEN,1-Beautiful, could not be nicer
+8190154,07/28/1990,8,NO,2.4,,,47,,,GAUGE,1.34,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190154,08/02/1990,7,NO,2.1,,,49,,,GAUGE,1.35,,BLUE/GREEN,2-Very minor aesthetic problems
+8190154,08/10/1990,6,NO,1.8,,,51,,,GAUGE,1.38,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190154,08/22/1990,6,NO,1.8,,,51,,,GAUGE,1.5,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190154,08/30/1990,4.75,NO,1.4,,,55,,,GAUGE,1.55,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190154,09/07/1990,4.5,NO,1.4,,,55,,,GAUGE,1.84,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190154,09/13/1990,4,NO,1.2,,,57,,,GAUGE,1.89,,BROWN,4-Would not swim but boating OK (algae)
+8190154,09/20/1990,4.5,NO,1.4,,,55,,,GAUGE,1.99,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190154,09/26/1990,5,NO,1.5,,,54,,,GAUGE,1.9,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+23039734,06/16/2001,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,05/23/2008,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23039734,06/30/2008,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23039734,08/11/2008,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23039734,08/29/2008,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23039734,10/03/2008,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+23039734,06/05/2009,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23039734,06/26/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23039734,08/04/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23039734,09/04/2009,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+23039734,10/07/2009,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+23039734,05/22/2010,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23039734,05/29/2010,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23039734,07/06/2010,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23039734,08/07/2010,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23039734,09/18/2010,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23039734,05/08/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+23039734,06/26/2011,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,07/26/2011,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,08/27/2011,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,04/21/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,06/24/2012,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,07/26/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23039734,08/28/2012,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+23039734,05/27/2013,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,06/23/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,07/30/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,08/25/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,10/01/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,05/23/2014,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,07/17/2014,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,08/17/2014,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,09/21/2014,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23039734,04/26/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,06/19/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,07/30/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+23039734,08/22/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+23039734,09/16/2015,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,06/22/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,07/25/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,08/17/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,10/06/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+23039734,07/28/2017,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,08/20/2017,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23039734,09/11/2017,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/16/2001,3,FEET,64.7,DEGREES F,,
+06/16/2001,6,FEET,64.2,DEGREES F,,
+06/16/2001,9,FEET,62.2,DEGREES F,,
+06/16/2001,12,FEET,56.6,DEGREES F,,
+06/16/2001,14,FEET,52.7,DEGREES F,,
+08/07/2010,1,FEET,75.8,DEGREES F,,
+05/08/2011,1,FEET,43,DEGREES F,,
+05/08/2011,14,FEET,43.3,DEGREES F,,
+06/26/2011,1,FEET,68.3,DEGREES F,,
+06/26/2011,4,FEET,68,DEGREES F,,
+06/26/2011,5,FEET,67.2,DEGREES F,,
+06/26/2011,6,FEET,66.5,DEGREES F,,
+06/26/2011,7,FEET,66.3,DEGREES F,,
+06/26/2011,8,FEET,66,DEGREES F,,
+06/26/2011,9,FEET,65.6,DEGREES F,,
+06/26/2011,10,FEET,65.4,DEGREES F,,
+06/26/2011,11,FEET,65.3,DEGREES F,,
+06/26/2011,12,FEET,65.1,DEGREES F,,
+06/26/2011,13,FEET,64.7,DEGREES F,,
+06/26/2011,14,FEET,64.2,DEGREES F,,
+06/26/2011,15,FEET,62.9,DEGREES F,,
+07/26/2011,1,FEET,78.2,DEGREES F,,
+07/26/2011,5,FEET,78,DEGREES F,,
+07/26/2011,7,FEET,77.9,DEGREES F,,
+07/26/2011,8,FEET,77.7,DEGREES F,,
+07/26/2011,9,FEET,77.5,DEGREES F,,
+07/26/2011,10,FEET,77.3,DEGREES F,,
+07/26/2011,11,FEET,77,DEGREES F,,
+07/26/2011,12,FEET,75.5,DEGREES F,,
+07/26/2011,13,FEET,73.2,DEGREES F,,
+07/26/2011,14,FEET,66.2,DEGREES F,,
+07/26/2011,15,FEET,65.4,DEGREES F,,
+08/27/2011,1,FEET,72.5,DEGREES F,,
+08/27/2011,5,FEET,71.6,DEGREES F,,
+08/27/2011,7,FEET,71.4,DEGREES F,,
+08/27/2011,9,FEET,71.2,DEGREES F,,
+08/27/2011,11,FEET,71,DEGREES F,,
+08/27/2011,13,FEET,70.5,DEGREES F,,
+08/27/2011,14,FEET,70.3,DEGREES F,,
+08/27/2011,15,FEET,68,DEGREES F,,
+04/21/2012,3,FEET,49.1,DEGREES F,,
+04/21/2012,6,FEET,49.1,DEGREES F,,
+04/21/2012,9,FEET,48.9,DEGREES F,,
+04/21/2012,12,FEET,48.9,DEGREES F,,
+04/21/2012,14,FEET,48.7,DEGREES F,,
+06/24/2012,3,FEET,71.4,DEGREES F,,
+06/24/2012,6,FEET,71.4,DEGREES F,,
+06/24/2012,9,FEET,71.2,DEGREES F,,
+06/24/2012,12,FEET,71,DEGREES F,,
+06/24/2012,14,FEET,69.2,DEGREES F,,
+07/26/2012,3,FEET,77.9,DEGREES F,,
+07/26/2012,6,FEET,77.9,DEGREES F,,
+07/26/2012,9,FEET,77.9,DEGREES F,,
+07/26/2012,12,FEET,77.7,DEGREES F,,
+07/26/2012,14,FEET,76.1,DEGREES F,,
+08/28/2012,3,FEET,74.1,DEGREES F,,
+08/28/2012,6,FEET,73.7,DEGREES F,,
+08/28/2012,9,FEET,73.4,DEGREES F,,
+08/28/2012,12,FEET,71.4,DEGREES F,,
+08/28/2012,14,FEET,69.2,DEGREES F,,
+05/27/2013,3,FEET,60,DEGREES F,,
+05/27/2013,6,FEET,59.9,DEGREES F,,
+05/27/2013,9,FEET,57,DEGREES F,,
+05/27/2013,12,FEET,54.3,DEGREES F,,
+05/27/2013,14,FEET,5,DEGREES F,,
+06/23/2013,3,FEET,70.1,DEGREES F,,
+06/23/2013,6,FEET,69,DEGREES F,,
+06/23/2013,9,FEET,67.4,DEGREES F,,
+06/23/2013,12,FEET,63.6,DEGREES F,,
+06/23/2013,14,FEET,57.9,DEGREES F,,
+07/30/2013,3,FEET,67.2,DEGREES F,,
+07/30/2013,6,FEET,66.5,DEGREES F,,
+07/30/2013,9,FEET,66.2,DEGREES F,,
+07/30/2013,12,FEET,66,DEGREES F,,
+07/30/2013,14,FEET,64.5,DEGREES F,,
+08/25/2013,3,FEET,72.6,DEGREES F,,
+08/25/2013,6,FEET,71.7,DEGREES F,,
+08/25/2013,9,FEET,69.6,DEGREES F,,
+08/25/2013,12,FEET,68,DEGREES F,,
+08/25/2013,14,FEET,65.6,DEGREES F,,
+10/01/2013,3,FEET,61.3,DEGREES F,,
+10/01/2013,6,FEET,61.3,DEGREES F,,
+10/01/2013,9,FEET,60.9,DEGREES F,,
+10/01/2013,12,FEET,60.8,DEGREES F,,
+10/01/2013,14,FEET,60.6,DEGREES F,,
+05/23/2014,3,FEET,58.2,DEGREES F,,
+05/23/2014,6,FEET,57.3,DEGREES F,,
+05/23/2014,9,FEET,52.7,DEGREES F,,
+05/23/2014,12,FEET,49.2,DEGREES F,,
+05/23/2014,14,FEET,48,DEGREES F,,
+07/17/2014,3,FEET,69.2,DEGREES F,,
+07/17/2014,6,FEET,68.5,DEGREES F,,
+07/17/2014,9,FEET,68,DEGREES F,,
+07/17/2014,12,FEET,66.9,DEGREES F,,
+07/17/2014,14,FEET,64.7,DEGREES F,,
+08/17/2014,3,FEET,72.1,DEGREES F,7.78,MG/L
+08/17/2014,6,FEET,71.6,DEGREES F,7.69,MG/L
+08/17/2014,9,FEET,71,DEGREES F,7.67,MG/L
+08/17/2014,12,FEET,70.8,DEGREES F,7.55,MG/L
+08/17/2014,14,FEET,69.6,DEGREES F,6.52,MG/L
+09/21/2014,3,FEET,60.3,DEGREES F,8.28,MG/L
+09/21/2014,6,FEET,60.3,DEGREES F,8.25,MG/L
+09/21/2014,9,FEET,60.2,DEGREES F,8.15,MG/L
+09/21/2014,12,FEET,60.2,DEGREES F,8.11,MG/L
+09/21/2014,14,FEET,59.9,DEGREES F,7.5,MG/L
+06/19/2015,3,FEET,72.6,DEGREES F,8.85,MG/L
+06/19/2015,6,FEET,71.2,DEGREES F,8.81,MG/L
+06/19/2015,9,FEET,68,DEGREES F,6.03,MG/L
+06/19/2015,12,FEET,64.6,DEGREES F,2.15,MG/L
+06/19/2015,14,FEET,63.8,DEGREES F,1.73,MG/L
+07/30/2015,3,FEET,75.6,DEGREES F,8.34,MG/L
+07/30/2015,6,FEET,75,DEGREES F,8.04,MG/L
+07/30/2015,9,FEET,74.8,DEGREES F,7.85,MG/L
+07/30/2015,12,FEET,74,DEGREES F,6.36,MG/L
+07/30/2015,14,FEET,68.9,DEGREES F,.36,MG/L
+08/22/2015,3,FEET,69.3,DEGREES F,6.43,MG/L
+08/22/2015,6,FEET,69.2,DEGREES F,6.28,MG/L
+08/22/2015,9,FEET,69.1,DEGREES F,5.55,MG/L
+08/22/2015,12,FEET,68.1,DEGREES F,2.66,MG/L
+08/22/2015,14,FEET,67.6,DEGREES F,1.23,MG/L
+09/16/2015,3,FEET,66.4,DEGREES F,6.82,MG/L
+09/16/2015,6,FEET,66.2,DEGREES F,6.83,MG/L
+09/16/2015,9,FEET,65.4,DEGREES F,6.64,MG/L
+09/16/2015,12,FEET,65.4,DEGREES F,5.49,MG/L
+09/16/2015,14,FEET,63.9,DEGREES F,.17,MG/L
+06/22/2016,3,FEET,75.4,DEGREES F,8.44,MG/L
+06/22/2016,6,FEET,74.4,DEGREES F,8.49,MG/L
+06/22/2016,9,FEET,72.2,DEGREES F,8.03,MG/L
+06/22/2016,12,FEET,66.8,DEGREES F,5.31,MG/L
+06/22/2016,14,FEET,59.8,DEGREES F,.19,MG/L
+07/25/2016,3,FEET,78.3,DEGREES F,8.46,MG/L
+07/25/2016,6,FEET,78.1,DEGREES F,8.43,MG/L
+07/25/2016,9,FEET,78,DEGREES F,8.43,MG/L
+07/25/2016,12,FEET,74.9,DEGREES F,6.77,MG/L
+07/25/2016,14,FEET,70.4,DEGREES F,.82,MG/L
+07/25/2016,15,FEET,69.3,DEGREES F,.16,MG/L
+08/17/2016,3,FEET,78.6,DEGREES F,9.67,MG/L
+08/17/2016,6,FEET,76.4,DEGREES F,9.41,MG/L
+08/17/2016,9,FEET,75.9,DEGREES F,8.95,MG/L
+08/17/2016,12,FEET,73.9,DEGREES F,.39,MG/L
+08/17/2016,14,FEET,71.5,DEGREES F,.2,MG/L
+08/17/2016,15,FEET,79.7,DEGREES F,.14,MG/L
+10/06/2016,3,FEET,61.1,DEGREES F,6.58,MG/L
+10/06/2016,6,FEET,60.5,DEGREES F,6.38,MG/L
+10/06/2016,9,FEET,60.2,DEGREES F,6.12,MG/L
+10/06/2016,12,FEET,59.8,DEGREES F,5.78,MG/L
+10/06/2016,14,FEET,59.6,DEGREES F,5.34,MG/L
+10/06/2016,15,FEET,59.6,DEGREES F,3.37,MG/L
+07/28/2017,3,FEET,76.1,DEGREES F,8.06,MG/L
+07/28/2017,6,FEET,75.7,DEGREES F,7.97,MG/L
+07/28/2017,9,FEET,73.6,DEGREES F,5.44,MG/L
+07/28/2017,12,FEET,71.8,DEGREES F,3.33,MG/L
+07/28/2017,14,FEET,66.6,DEGREES F,.17,MG/L
+08/20/2017,3,FEET,71.3,DEGREES F,8.5,MG/L
+08/20/2017,6,FEET,70.2,DEGREES F,7.83,MG/L
+08/20/2017,9,FEET,69.3,DEGREES F,6.07,MG/L
+08/20/2017,12,FEET,68.7,DEGREES F,3.84,MG/L
+08/20/2017,14,FEET,66.9,DEGREES F,.18,MG/L
+09/11/2017,3,FEET,64.3,DEGREES F,7.66,MG/L
+09/11/2017,6,FEET,62.8,DEGREES F,6.95,MG/L
+09/11/2017,9,FEET,62.4,DEGREES F,6.81,MG/L
+09/11/2017,12,FEET,62.3,DEGREES F,6.82,MG/L
+09/11/2017,14,FEET,62.2,DEGREES F,6.98,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/13/1990,Sunny- 62 F- ice on 11/20/89- ice off 4/12    
+05/20/1990,Sunny- 60 F- light clouds- breeze- .2" rain since 5/13    
+05/25/1990,Sunny- 61 F- lt. breeze- .6" rain since last report    
+06/01/1990,Lt. clouds- overcast to n- 70 F- breezy- trace of rain since last report    
+06/08/1990,Partly cloudy- winds gusty- 67 F- 1.1" rain since last report    
+06/15/1990,Few clouds to n- 75 F- 6" rain since last report    
+06/23/1990,Partly sunny- windy- 60 F- .7" rain since last report    
+06/29/1990,Sunny- 73 F- suspended algae- .6" rain since last reading    
+07/08/1990,Intermittent sun- 74 F- lt. breeze- 2.2" rain since last reading.    
+07/13/1990,Beautiful- 73 F- no rain since last report    
+07/18/1990,Thick weeds around edge last few weeks.- sunny- clear- 73 F- white particulate in lake- .4" rain since last report    
+07/28/1990,Weeds- slight. overcast- 78 F- 2" rain since last report- heavy particulate under surf.- worst this year    
+08/02/1990,Variable sun/clouds- 78 F- mild breeze- .7" rain since last report    
+08/10/1990,Sunny- foggy in a.m.- 71 F- 1.65" rain 8/9- much algae particulate/heavy weeds    
+08/22/1990,Clear- sunny- 74 F- 2.2" rain since last report    
+08/30/1990,Sunny- 77 F- much algae/floating weeds- aquatic plants turning brown    
+09/07/1990,Overcast- 68 F- much algae- 3.2" rain since last report- lake highest this year    
+09/13/1990,Sunny- beautiful- 78 F- .7" rain since last reading- heavy algae/weeds- lake continues rising    
+09/20/1990,Sunny/cloudy- 63 F- 1.3" rain since last reading- lake near all time high    
+09/26/1990,Slight. breeze- mostly sunny- 70 F- .3" rain since last report- weeds dying    
+05/22/2010,Overcast.  Water Temp 62 degrees.  
+08/07/2010,Obvious deterioration of water clarity within past week.  Asumption is that the lake water turned over- thereby uprooting excessive amounts of Northern Millfoil which are adrift throughout the lake.  
+05/27/2013,Overcast.  Due to lateness of ice off- and my schedule- this first report is a bit past the two week from ice off time limit.  
+04/26/2015,Bright Sunny Day
+06/19/2015,Sunny.  Mild Wind.
+07/30/2015,Sunny Day.  Water temps higher than same time last year by 8 degrees.  Also water clarity is the worst I have seen in a few years.  Shore lines littered with globs of decayed matter.  
+08/22/2015,Somewhat sunny day- but very windy.  Water unusally murkey but feel it might be due to the unusually wet summer.
+Water levels remain normal to a bit high for August.  Weeds- although no signs of any AIS- seem to be heavy this year.  Purple Loosestrife still continues to be apparent in the channel between Gunlock and Shishebogama- but is being monitored and controled by our Lake Association volunteers.  
+09/16/2015,Partly cloudy- breezy.  Water quality looks better than a month ago.  
+06/22/2016,Sunny- with limited clouds.
+07/25/2016,Sunny- calm.  Very high water levels.  Highest I have seen in a number of years- for this time of year.
+08/17/2016,Clear Sunny Day
+Water levels extremely high.  
+Over 9" more water in lake today- than mid June.  
+07/28/2017,Water levels remain high.  
+08/20/2017,Water levels remain high.  Shore lands are saturated with water- and soggy.  Rains continue.  
+09/11/2017,Sunny Breezy Day.  Water levels remain at the high end of normal range.  Lake water remains at early spring levels. High Water levels and rain continues.
+
+
+
+
+Start Date,Group Name,Project Name
+05/13/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/20/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/25/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/01/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/08/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/15/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/23/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/29/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/08/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/13/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/18/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/28/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/02/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/10/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/22/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/30/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/07/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/13/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/20/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/26/1990,R.t. Fenwick,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/16/2001,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/23/2008,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/30/2008,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/11/2008,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/29/2008,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+10/03/2008,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/05/2009,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/26/2009,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/04/2009,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/04/2009,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+10/07/2009,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/22/2010,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/29/2010,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/06/2010,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/07/2010,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/18/2010,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/08/2011,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/26/2011,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/26/2011,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/27/2011,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+04/21/2012,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/24/2012,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/26/2012,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/28/2012,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/27/2013,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/23/2013,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/30/2013,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/25/2013,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+10/01/2013,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+05/23/2014,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/17/2014,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/17/2014,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/21/2014,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+04/26/2015,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/19/2015,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/30/2015,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/22/2015,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/16/2015,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+06/22/2016,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/25/2016,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/17/2016,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+10/06/2016,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+07/28/2017,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+08/20/2017,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay
+09/11/2017,Patrick Hayes,Citizen Lake Monitoring - Water Quality - Gunlock Lake - Site 2 - Center Of SW Bay

@@ -1,0 +1,501 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Witters Lake,Waushara,117400,NE,70,,703067,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190160,05/28/1987,17.5,YES,5.3,,,36,,,GAUGE,35.5,CLEAR,BLUE,
+8190160,06/13/1987,10.5,NO,3.2,,,43,,,GAUGE,33.25,,GREEN,
+8190160,06/24/1987,11,NO,3.3,,,43,,,GAUGE,33.6,,GREEN,
+8190160,07/03/1987,16,NO,4.9,,,37,,,GAUGE,32.4,CLEAR,BLUE,
+8190160,07/17/1987,9.5,NO,2.9,,,45,,,GAUGE,29,,GREEN,
+8190160,08/01/1987,11.5,NO,3.5,,,42,,,GAUGE,27,CLEAR,BLUE,
+8190160,08/07/1987,8,NO,2.4,,,47,,,GAUGE,25,,GREEN,
+8190160,08/20/1987,16,NO,4.9,,,37,,,GAUGE,23,CLEAR,BLUE,
+8190160,08/30/1987,16.5,NO,5,,,37,,,GAUGE,21,CLEAR,BLUE,
+8190160,09/07/1987,13.5,NO,4.1,,,40,,,GAUGE,19.5,CLEAR,BLUE,
+8190160,05/01/1988,18,YES,5.5,,,35,,,GAUGE,22.75,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/12/1988,16,YES,4.9,,,37,,,GAUGE,22.2,CLEAR,BLUE,
+8190160,05/22/1988,16,YES,4.9,,,37,,,GAUGE,22,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/05/1988,13.5,NO,4.1,,,40,,,GAUGE,18.2,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,07/02/1988,12.5,NO,3.8,,,41,,,GAUGE,13,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,07/15/1988,9.25,NO,2.8,,,45,,,GAUGE,9,,GREEN,2-Very minor aesthetic problems
+8190160,07/31/1988,10.5,NO,3.2,,,43,,,GAUGE,6,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/13/1988,7.5,NO,2.3,,,48,,,GAUGE,4.6,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,08/28/1988,15.5,NO,4.7,,,38,,,GAUGE,5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,09/10/1988,15.75,NO,4.8,,,37,,,GAUGE,2.5,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,05/24/1989,16.5,NO,5,,,37,,,GAUGE,13.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/04/1989,15.5,NO,4.7,,,38,,,GAUGE,21.4,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,06/17/1989,16.5,NO,5,,,37,,,GAUGE,24,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/30/1989,13.25,NO,4,,,40,,,GAUGE,23.6,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,07/16/1989,8.5,NO,2.6,,,46,,,GAUGE,22.6,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/26/1989,6,NO,1.8,,,51,,,GAUGE,23.2,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,08/03/1989,9,NO,2.7,,,45,,,GAUGE,23,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,08/12/1989,11,NO,3.3,,,43,,,GAUGE,22.4,,GREEN,2-Very minor aesthetic problems
+8190160,08/27/1989,16.5,NO,5,,,37,,,GAUGE,20.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,09/10/1989,17,NO,5.2,,,36,,,GAUGE,19.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/06/1990,16.5,NO,5,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/27/1990,16.5,NO,5,,,37,,,GAUGE,22.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/10/1990,13.5,NO,4.1,,,40,,,GAUGE,22.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/24/1990,14,NO,4.3,,,39,,,GAUGE,28,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,07/15/1990,13.5,NO,4.1,,,40,,,GAUGE,29,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/05/1990,11,NO,3.3,,,43,,,GAUGE,29,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,08/25/1990,12.5,NO,3.8,,,41,,,FEET,31.2,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,09/16/1990,13.5,NO,4.1,,,40,,,GAUGE,31.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/09/1991,15.5,NO,4.7,,,38,,,GAUGE,36.4,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,06/16/1991,15.5,NO,4.7,,,38,,,GAUGE,35.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/29/1991,10,NO,3,,,44,,,GAUGE,33,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/14/1991,13.5,NO,4.1,,,40,,,GAUGE,30.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/27/1991,12.5,NO,3.8,,,41,,,GAUGE,28.5,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/11/1991,18,NO,5.5,,,35,,,GAUGE,27.6,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/24/1991,14,NO,4.3,,,39,,,GAUGE,24.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,09/07/1991,13.5,NO,4.1,,,40,,,GAUGE,21.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/31/1992,15.5,NO,4.7,,,38,,,GAUGE,35.9,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/07/1992,12,NO,3.6,,,41,,,GAUGE,24.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/21/1992,12,NO,3.6,,,41,,,GAUGE,32.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/06/1992,14.5,NO,4.4,,,39,,,GAUGE,30,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,08/02/1992,12,NO,3.6,,,41,,,GAUGE,28,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/15/1992,11,NO,3.3,,,43,,,GAUGE,25.2,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/29/1992,13,NO,4,,,40,,,GAUGE,22.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/05/1993,11,NO,3.3,,,43,,,GAUGE,51,,,3-Enjoyment somewhat impaired (algae)
+8190160,07/03/1993,9.5,NO,2.9,,,45,,,GAUGE,60,,BROWN,4-Would not swim but boating OK (algae)
+8190160,07/25/1993,11,NO,3.3,,,43,,,GAUGE,55.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/07/1993,10.5,NO,3.2,,,43,,,GAUGE,55,,BROWN,2-Very minor aesthetic problems
+8190160,08/14/1993,10,NO,3,,,44,,,GAUGE,54.2,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190160,08/21/1993,13.5,NO,4.1,,,40,,,GAUGE,53.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/15/1994,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/29/1994,14,NO,4.3,,,39,,,,,,GREEN,2-Very minor aesthetic problems
+8190160,06/11/1994,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/24/1994,6,NO,1.8,,,51,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/01/1994,8,NO,2.4,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/08/1994,9,NO,2.7,,,45,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,08/05/1994,7,NO,2.1,,,49,,,,,,GREEN,2-Very minor aesthetic problems
+8190160,08/20/1994,8,NO,2.4,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,05/21/1995,13.5,NO,4.1,,,40,,,GAUGE,30,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/04/1995,16.5,NO,5,,,37,,,GAUGE,35.5,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,06/17/1995,13,NO,4,,,40,,,GAUGE,34,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,06/24/1995,7.5,NO,2.3,,,48,,,GAUGE,32.3,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/08/1995,8.5,NO,2.6,,,46,,,GAUGE,30,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/16/1995,8.5,NO,2.6,,,46,,,GAUGE,29,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,08/12/1995,11.5,NO,3.5,,,42,,,FEET,28,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,09/03/1995,13,NO,4,,,40,,,GAUGE,33,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/02/1996,18,YES,5.5,,,35,,,GAUGE,42,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/22/1996,10,NO,3,,,44,,,45",45,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,06/29/1996,8.5,NO,2.6,,,46,,,GAUGE,44.4,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,08/31/1996,16.25,NO,4.9,,,37,,,35",35,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/08/1997,12,NO,3.6,,,41,,,GAUGE,28,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/22/1997,15.5,NO,4.7,,,38,,,29 FEET,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/06/1997,14.5,NO,4.4,,,39,,,27 FEET,27,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/12/1997,14,NO,4.3,,,39,,,27 FEET,27,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/09/1997,13.5,NO,4.1,,,40,,,GAUGE,29.5,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/23/1997,18,YES,5.5,,,35,,,29.2 FEET,29.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,09/01/1997,15.5,NO,4.7,,,38,,,GAUGE,29,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,09/13/1997,15,NO,4.6,,,38,,,GAUGE,28.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/24/1998,9,NO,2.7,,,45,,,GAUGE,27,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,06/06/1998,18,YES,5.5,,,35,,,GAUGE,26,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/20/1998,16.5,NO,5,,,37,,,GAUGE,31.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/26/1998,17,NO,5.2,,,36,,,GAUGE,31.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,07/03/1998,13.5,NO,4.1,,,40,,,GAUGE,31.7,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/13/1998,14,NO,4.3,,,39,,,GAUGE,30.7,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/18/1998,14,NO,4.3,,,39,,,GAUGE,29,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/01/1998,15,NO,4.6,,,38,,,GAUGE,28.7,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/16/1998,15,NO,4.6,,,38,,,GAUGE,28.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/29/1998,17.25,NO,5.2,,,36,,,GAUGE,27.7,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/13/1999,18.5,YES,5.6,,,35,,,GAUGE,31.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/27/1999,12.25,NO,3.7,,,41,,,GAUGE,30,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190160,07/05/1999,14,NO,4.3,,,39,,,GAUGE,30.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/17/1999,14.5,NO,4.4,,,39,,,GAUGE,32.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/27/1999,13.5,NO,4.1,,,40,,,GAUGE,38.3,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/06/1999,8,NO,2.4,,,47,,,GAUGE,38.3,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/29/1999,17,NO,5.2,,,36,,,GAUGE,38.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/28/2000,8.75,NO,2.7,,,46,,,GAUGE,31,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,06/13/2000,18.5,YES,5.6,,,35,,,GAUGE,35.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/04/2000,16,NO,4.9,,,37,,,GAUGE,37.1,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/15/2000,11.25,NO,3.4,,,42,,,GAUGE,36,MURKY,GREEN,1-Beautiful, could not be nicer
+8190160,07/30/2000,15.5,NO,4.7,,,38,,,GAUGE,33,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/14/2000,12,NO,3.6,,,41,,,GAUGE,31,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,09/03/2000,11.25,NO,3.4,,,42,,,GAUGE,32,MURKY,BROWN,2-Very minor aesthetic problems
+8190160,06/23/2001,18,NO,5.5,,,35,,,GAUGE,47.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,07/05/2001,17.5,NO,5.3,,,36,,,GAUGE,44,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/12/2001,14.5,NO,4.4,,,39,,,GAUGE,42.4,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190160,07/29/2001,11.5,NO,3.5,,,42,,,GAUGE,36,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/12/2001,11.25,NO,3.4,,,42,,,GAUGE,35.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/26/2001,10.25,NO,3.1,,,44,,,GAUGE,33.6,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,06/09/2002,14.75,NO,4.5,,,38,,,GAUGE,35.2,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,06/28/2002,13,NO,4,,,40,,,GAUGE,48.7,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190160,07/05/2002,10,NO,3,,,44,,,GAUGE,48.3,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,08/02/2002,16.75,NO,5.1,,,37,,,GAUGE,45.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/11/2002,18.25,NO,5.5,,,35,,,GAUGE,44.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/31/2002,18,NO,5.5,,,35,,,GAUGE,40.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/17/2003,13,NO,4,,,40,,,,27.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/04/2003,11.75,NO,3.6,,,42,,,,25.5,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,07/13/2003,12.75,NO,3.9,,,40,,,,24.6,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,08/02/2003,15.25,NO,4.6,,,38,,,,22,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/06/2004,18.5,NO,5.6,,,35,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/20/2004,10,NO,3,,,44,,,GAUGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/03/2004,4.5,NO,1.4,,,55,,,GAUGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/11/2004,15,NO,4.6,,,38,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/31/2004,18.5,YES,5.6,,,35,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/15/2004,18.5,YES,5.6,,,35,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/18/2005,5.25,NO,1.6,,,41,,,GAUGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/02/2005,9.5,NO,2.9,,,45,,,GAUGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/30/2005,10,NO,3,,,44,,,GAUGE,,MURKY,BLUE,2-Very minor aesthetic problems
+8190160,08/14/2005,14.5,NO,4.4,,,39,,,GAUGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/08/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/24/2006,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/30/2006,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,08/05/2006,11.25,NO,3.4,,,42,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,09/02/2006,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,05/10/2007,8,NO,2.4,,,47,,,STAFF_GAUGE,13.0,MURKY,BLUE,2-Very minor aesthetic problems
+8190160,06/02/2007,13,NO,4,,,40,,,STAFF_GAUGE,12.0,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190160,06/14/2007,11.5,NO,3.5,,,42,,,STAFF_GAUGE,11.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/24/2007,13.5,NO,4.1,,,40,,,GAUGE,9.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/28/2007,13.5,NO,4.1,,,40,,,GAUGE,7.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/26/2007,12.5,NO,3.8,,,41,,,GAUGE,10.1,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190160,05/31/2008,18,NO,5.5,,,35,,,,3.08,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/14/2008,17,NO,5.2,,,36,,,,3.62,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/04/2008,14,NO,4.3,,,39,,,,3.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/19/2008,18.5,NO,5.6,,,35,,,,3.52,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,07/31/2008,12,NO,3.6,,,41,,,,3.34,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,08/24/2008,13.25,NO,4,,,40,,,,2.96,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,08/30/2008,14,NO,4.3,,,39,,,,2.8,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,06/13/2009,13.5,NO,4.1,,,40,,,,26.2,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,06/28/2009,10.5,NO,3.2,,,43,,,,26.00,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/12/2009,10,NO,3,,,44,,,,22.50,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/26/2009,9.5,NO,2.9,,,45,,,,19.60,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/13/2009,7.5,NO,2.3,,,48,,,,20.00,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,09/05/2009,13.5,NO,4.1,,,40,,,,17.00,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,05/29/2010,15.25,NO,4.6,,,38,,,,25,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/12/2010,15.5,NO,4.7,,,38,,,,25.6,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,06/19/2010,15.25,NO,4.6,,,38,,,,26.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,07/02/2010,12,NO,3.6,,,41,,,,27.2,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,05/20/2011,16.5,NO,5,,,37,,,,43.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/05/2011,13.5,NO,4.1,,,40,,,,42.6,CLEAR,YELLOW,2-Very minor aesthetic problems
+8190160,06/17/2011,7.25,NO,2.2,,,49,,,,42.1,MURKY,YELLOW,2-Very minor aesthetic problems
+8190160,07/03/2011,10.75,NO,3.3,,,43,,,,43.4,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/16/2011,10.5,NO,3.2,,,43,,,,40.6,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,07/31/2011,5.5,NO,1.7,,,53,,,,39.0,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,08/14/2011,8.25,NO,2.5,,,47,,,,35.3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190160,06/03/2012,12.75,NO,3.9,,,40,,,,30.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/14/2012,10.75,NO,3.3,,,43,,,,27.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,06/30/2012,7.5,NO,2.3,,,48,,,,25,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/15/2012,14,NO,4.3,,,39,,,,20.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/28/2012,14,NO,4.3,,,39,,,,16.3,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/11/2012,7.5,NO,2.3,,,48,,,,13.2,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,09/01/2012,12.5,NO,3.8,,,41,,,,8.6,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,06/11/2013,19,NO,5.8,,,35,,,,29.4,MURKY,YELLOW,2-Very minor aesthetic problems
+8190160,06/27/2013,14,NO,4.3,,,39,,,,33,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/04/2013,14.5,NO,4.4,,,39,,,,32.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/03/2013,9.25,NO,2.8,,,45,,,,28,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/18/2013,14,NO,4.3,,,39,,,,25.3,CLEAR,BLUE,2-Very minor aesthetic problems
+8190160,05/24/2014,11.25,NO,3.4,,,42,,,,29.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/07/2014,17,NO,5.2,,,36,,,,30,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/22/2014,15,NO,4.6,,,38,,,,31.4,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190160,07/04/2014,17,NO,5.2,,,36,,,,31.0,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190160,07/20/2014,12,NO,3.6,,,41,,,,28.6,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,08/02/2014,9.5,NO,2.9,,,45,,,,25.6,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/20/2014,15.5,NO,4.7,,,38,,,,24.7,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,08/31/2014,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,05/22/2015,18,YES,5.5,,,35,,,,14.4,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/10/2015,16.5,NO,5,,,37,,,,20,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,06/18/2015,18.25,YES,5.5,,,35,,,,21.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190160,07/04/2015,12.75,NO,3.9,,,40,,,,20.4,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/11/2015,10.5,NO,3.2,,,43,,,,19.2,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/05/2015,10,NO,3,,,44,,,,15.2,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,05/30/2016,8.5,NO,2.6,,,46,,,,36.1,MURKY,YELLOW,2-Very minor aesthetic problems
+8190160,06/10/2016,11.5,NO,3.5,,,42,,,,36.5,MURKY,BROWN,2-Very minor aesthetic problems
+8190160,06/24/2016,13.5,NO,4.1,,,40,,,,36,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,07/01/2016,13,NO,4,,,40,,,,31.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8190160,07/16/2016,9.75,NO,3,,,44,,,,27.6,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,07/30/2016,9,NO,2.7,,,45,,,,28,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/13/2016,8.5,NO,2.6,,,46,,,,25.6,MURKY,GREEN,2-Very minor aesthetic problems
+8190160,08/28/2016,8.25,NO,2.5,,,47,,,,25,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/28/1987,Small amount of floating algae.    
+06/13/1987,Water temperature is 79 degrees F- very hot weather- and surface covered with floating algae- the worst bloom anyone can remember.    
+06/24/1987,Water temperature is 85 degrees F.    
+07/03/1987,Floating algae has disappeared.    
+07/17/1987,Little floating algae after few days of cool weather.    
+08/01/1987,No floating algae- water temp. 83 F.    
+08/07/1987,Last report for the season.    
+05/01/1988,Water level is about 12-14" lower than this time last year.    
+07/15/1988,Very low water levels and falling.    
+07/31/1988,Very low water level.    
+08/13/1988,Low water levels.    
+08/28/1988,Cooler water- but still very low.    
+06/04/1989,Rain 8 in. past 10 days.    
+08/25/1990,Loon on lake 2 days in August.    
+07/14/1991,Cooler weather and water.    
+09/07/1991,Cloudy.    
+06/07/1992,Cool nights May have slowed minor algae bloom.    
+06/21/1992,Temp in the 40's at night- 60's in the day.    
+07/06/1992,Cool nights.    
+08/15/1992,Cold nights- 40 degrees.    
+06/05/1993,Some algae- water temp 65- shoreline flooded.    
+07/03/1993,Highest level in 100 years- flooded septic systems- no swimming by Health Dept.    
+07/25/1993,Flood water gradually receding.    
+08/07/1993,High water level dropping off slowly due to continued rains- clarity reduced from this time last year.    
+08/14/1993,High water barely receding- too much rain and humidity.    
+05/15/1994,Windy.    
+05/29/1994,Some algae and tree pollen.    
+06/24/1994,Algae- very hot weather.    
+07/08/1994,Recent heavy rain.    
+08/20/1994,Water clarity worse since last year's heavy rain- which carried swamp water into lake.   nutrient - algae or tannic acid from swamp- or both     
+06/04/1995,Pine pollen season.    
+06/24/1995,Temperatures above 90 degrees all of preceding week-no rain.    
+07/16/1995,Following 1 week of extreme high temps.    
+08/12/1995,Very hot summer.    
+06/08/1997,Pine pollen May have affected clarity.    
+06/22/1997,Lake getting clearer but no more pine pollen.  2 inches of rain the last few days.    
+07/06/1997,Clarity due to unusually cool weather.    
+08/23/1997,Cool weather probably improved the clarity.    
+06/06/1998,Cool weather.  Less algae.    
+06/20/1998,Recent heavy rains.    
+06/27/1999,Recent warm temps in mid 80s.    
+07/27/1999,After 1 week of temps in the 90s.    
+08/06/1999,Water noticeably murkier.  Cause not apparent.    
+05/28/2000,Clarity affected by pine pollen and storms.  Thousands of dead bluegills.    
+07/30/2000,Little rain in the last three weeks.    
+09/03/2000,Recent heavy rains.    
+06/23/2001,Bluegreen algae blown into shore.  The temperature is in the mid 70s.    
+08/12/2001,After two weeks of very hot weather.    
+08/26/2001,Floating plant and tree debris after heavy rains.    
+06/09/2002,Moderate floating algae- plus algae on bottom weeds.    
+06/28/2002,10" of rain last week- some drainage from adjacent swamp.    
+07/05/2002,Some floating algae.    
+07/04/2003,Mild floating algae and pollen (pine).    
+06/24/2006,much floating FLAB
+08/05/2006,FLAB a problem all summer
+08/30/2008,Moderate FLAB and other debris
+06/13/2009,pine pollen in water
+07/02/2010,no floating FLAB or other debris
+06/05/2011,pine pollen in water
+06/17/2011,suspended pine pollen
+07/16/2011,much floating mats of flab much floating mats of flab
+07/31/2011,month of hot weather
+06/30/2012,moderate FLAB
+07/15/2012,weather hot and dry
+05/30/2016,Pine pollen?
+07/30/2016,Recent heavy rain
+08/28/2016,floating yellow algae
+
+
+
+
+Start Date,Group Name,Project Name
+05/28/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/13/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/03/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/17/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/01/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/07/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/20/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/30/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/07/1987,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/01/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/12/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/22/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/05/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/02/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/15/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/31/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/13/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/28/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/10/1988,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/24/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/04/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/17/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/30/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/16/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/26/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/03/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/12/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/27/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/10/1989,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/06/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/27/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/10/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/15/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/05/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/25/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/16/1990,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/09/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/16/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/29/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/14/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/27/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/11/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/24/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/07/1991,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/31/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/07/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/21/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/06/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/02/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/15/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/29/1992,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/05/1993,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/03/1993,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/25/1993,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/07/1993,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/14/1993,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/21/1993,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/15/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/29/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/11/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/01/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/08/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/05/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/20/1994,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/21/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/04/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/17/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/08/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/16/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/12/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/03/1995,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/02/1996,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/22/1996,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/29/1996,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/31/1996,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/08/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/22/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/06/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/12/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/09/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/23/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/01/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/13/1997,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/24/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/06/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/20/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/26/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/03/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/13/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/18/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/01/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/16/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/29/1998,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/13/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/27/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/05/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/17/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/27/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/06/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/29/1999,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/28/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/13/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/04/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/15/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/30/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/14/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/03/2000,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/23/2001,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/05/2001,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/12/2001,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/29/2001,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/12/2001,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/26/2001,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/09/2002,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/28/2002,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/05/2002,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/02/2002,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/11/2002,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/31/2002,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/17/2003,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/04/2003,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/13/2003,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/02/2003,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/06/2004,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/20/2004,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/03/2004,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/11/2004,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/31/2004,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/15/2004,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/18/2005,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/02/2005,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/30/2005,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/14/2005,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/08/2006,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/2006,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/30/2006,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/05/2006,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/02/2006,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/10/2007,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/02/2007,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/14/2007,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/2007,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/28/2007,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/26/2007,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/31/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/14/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/04/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/19/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/31/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/24/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/30/2008,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/13/2009,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/28/2009,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/12/2009,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/26/2009,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/13/2009,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/05/2009,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/29/2010,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/12/2010,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/19/2010,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/02/2010,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/20/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/05/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/17/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/03/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/16/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/31/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/14/2011,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/03/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/14/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/30/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/15/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/28/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/11/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+09/01/2012,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/11/2013,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/27/2013,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/04/2013,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/03/2013,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/18/2013,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/24/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/07/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/22/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/04/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/20/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/02/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/20/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/31/2014,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/22/2015,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/10/2015,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/18/2015,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/04/2015,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/11/2015,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/05/2015,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+05/30/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/10/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+06/24/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/01/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/16/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+07/30/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/13/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole
+08/28/2016,William Flader,Citizen Lake Monitoring - Water Quality - Witters Lake; Deep Hole

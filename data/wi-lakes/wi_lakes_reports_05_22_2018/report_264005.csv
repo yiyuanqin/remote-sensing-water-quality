@@ -1,0 +1,157 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Clear Lake,Iron,2303700,NO,26,,264005,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18137141,05/29/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,06/10/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,06/24/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,07/01/2007,7.75,NO,2.4,,,48,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,07/09/2007,8.75,NO,2.7,,,46,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,07/17/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,07/27/2007,8.75,NO,2.7,,,46,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+18137141,08/16/2007,8.75,NO,2.7,,,46,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+18137141,08/24/2007,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137141,08/30/2007,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137141,09/10/2007,7.5,NO,2.3,,,48,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137141,09/19/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+18137141,05/12/2008,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,05/19/2008,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,05/21/2008,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,06/01/2008,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,06/10/2008,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,06/16/2008,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,06/27/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137141,07/07/2008,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137141,07/24/2008,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137141,08/04/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137141,08/12/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137141,08/25/2008,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137141,09/05/2008,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137141,06/10/2011,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137141,06/10/2013,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,06/17/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,06/24/2013,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,06/30/2013,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,07/14/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,07/18/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,08/12/2013,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,08/19/2013,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,08/26/2013,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137141,09/19/2013,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+130570935,07/15/2016,18,NO,5.5,,,35,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+130570935,07/30/2016,15,NO,4.6,,,38,,,NORMAL,15,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+130570935,08/01/2016,15,NO,4.6,,,38,,,NORMAL,18,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+130570935,09/24/2016,,NO,,,,,,,NORMAL,8,MURKY,BROWN,2-Very minor aesthetic problems
+130570935,11/04/2016,,NO,,,,,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+130570935,11/14/2016,,,,,,,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/15/2016,1,FEET,73.22,DEGREES F,8.12,MG/L
+07/15/2016,3,FEET,73.4,DEGREES F,8.07,MG/L
+07/15/2016,6,FEET,73.4,DEGREES F,8.21,MG/L
+07/15/2016,9,FEET,71.6,DEGREES F,8.49,MG/L
+07/15/2016,12,FEET,66.2,DEGREES F,4.71,MG/L
+07/15/2016,15,FEET,60.44,DEGREES F,.21,MG/L
+07/15/2016,18,FEET,60.44,DEGREES F,.1,MG/L
+07/30/2016,3,FEET,79.7,DEGREES F,8.64,MG/L
+07/30/2016,6,FEET,76.1,DEGREES F,8.31,MG/L
+07/30/2016,9,FEET,72.5,DEGREES F,4.21,MG/L
+07/30/2016,12,FEET,65.3,DEGREES F,.67,MG/L
+07/30/2016,15,FEET,61.7,DEGREES F,.14,MG/L
+08/01/2016,3,FEET,76.5,DEGREES F,8.21,MG/L
+08/01/2016,6,FEET,74.5,DEGREES F,7.87,MG/L
+08/01/2016,9,FEET,69.3,DEGREES F,.95,MG/L
+08/01/2016,12,FEET,64,DEGREES F,.7,MG/L
+08/01/2016,15,FEET,52,DEGREES F,.16,MG/L
+09/24/2016,3,FEET,64.04,DEGREES F,8.18,MG/L
+09/24/2016,6,FEET,64.04,DEGREES F,8.14,MG/L
+09/24/2016,9,FEET,63.14,DEGREES F,7.21,MG/L
+09/24/2016,12,FEET,63,DEGREES F,6.62,MG/L
+09/24/2016,15,FEET,62.24,DEGREES F,2.7,MG/L
+11/04/2016,3,FEET,50,DEGREES F,9.8,MG/L
+11/04/2016,6,FEET,50,DEGREES F,8.9,MG/L
+11/04/2016,9,FEET,49,DEGREES F,8.7,MG/L
+11/04/2016,12,FEET,49,DEGREES F,8.3,MG/L
+11/04/2016,15,FEET,49,DEGREES F,7.98,MG/L
+11/14/2016,3,FEET,44.42,DEGREES F,10.26,MG/L
+11/14/2016,6,FEET,43.7,DEGREES F,10.53,MG/L
+11/14/2016,9,FEET,43.7,DEGREES F,10.53,MG/L
+11/14/2016,12,FEET,43.5,DEGREES F,10.32,MG/L
+11/14/2016,15,FEET,43.5,DEGREES F,8.32,MG/L
+11/14/2016,18,FEET,42.3,DEGREES F,5.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/29/2007,Partly cloudy- SW breeze- 79 degree F- very windy (15-25mph)past two days- 1 loon
+06/10/2007,Sunny(no clouds)- SW breeze- 80 degrees F- 2 mallard hens and approx. 10 ducklings
+06/24/2007,Sunny(few cirrus clouds)- SW  breeze- 79 degrees F- 
+07/01/2007,Sunny(few cirrus clouds)- light E breeze. 63 degree F
+07/09/2007,Sunny(few cumulus clouds)- SW breeze (approx. 5mph). 82 degrees F- painted turtles sunning rocks-  leopard frogs in cattails.
+07/17/2007,Sunny- cumulonimbus clouds building to SW- no wind- 79 degrees F- 8 mallards
+07/27/2007,Sunny- no clouds- E wind- approx. 10 mph- 78 degrees F- heavy rain last pm.
+08/16/2007,Sunny-no clouds-NW wind at about 10mph- rain last pm
+08/24/2007,Partly cloudy (cumulus)- NW wind at 10 mph- 71 degrees F- 1 loon
+08/30/2007,Sunny-no clouds- WNW wind at 5 mph- no wildlife
+09/10/2007,Mostly sunny (cumulus clouds)- SW wind At 8mph- 65 degrees F
+09/19/2007,Partly cloudy (few cumulus)- W wind At 11mph- 72 degrees F- .64 inches of rain yesterday
+06/10/2011,Clouds - 100%-Temp.  52  F- Wind SE 6 mph
+
+No wildlife sighted..
+07/15/2016,Enjoyed the day with Zach Wilson-Helper-Overcast and misting/sprinkling. Saw a Loon and muskrat.
+07/30/2016,2-Hen turkeys..10 chicks..Moscrat..2-Does..1 grouse Moscrat-grouse-HenTurkey-10 chicks 
+08/01/2016,Saw 2-does..Hawk..Loon.
+
+
+
+
+Start Date,Group Name,Project Name
+05/29/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/10/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/24/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/01/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/09/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/17/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/27/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/16/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/24/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/30/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+09/10/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+09/19/2007,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+05/12/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+05/19/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+05/21/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/01/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/10/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/16/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/27/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/07/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/24/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/04/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/12/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/25/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+09/05/2008,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/10/2011,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/10/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/17/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/24/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+06/30/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/14/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/18/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/12/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/19/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/26/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+09/19/2013,Barb Beschta,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/15/2016,Scott Hepler,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+07/30/2016,Scott Hepler,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+08/01/2016,Scott Hepler,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+09/24/2016,Scott Hepler,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+11/04/2016,Scott Hepler,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County
+11/14/2016,Scott Hepler,Citizen Lake Monitoring - Water Quality - Clear Lake - Deepest Spot- Iron County

@@ -1,0 +1,717 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Turtle Flambeau Flowage,Iron,2294900,NO,26,,263048,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000017,05/04/1998,11,,3.3,1.34,16,43,50,37,,,,,
+7000017,06/16/1998,10,,3,2.95,17,44,50,43,,,,,
+7000017,07/24/1998,4.9,,1.5,16.4,35,54,56,56,,,,,
+7000017,08/18/1998,3.5,,1.1,18.6,37,59,56,57,,,,,
+7000017,09/19/1998,2.9,,0.9,35.8,27,62,54,62,,,,,
+8188599,10/23/1998,5,NO,1.5,,,54,,,,,,,
+16115883,10/23/1998,5,NO,1.5,,,54,,,,,,,
+8188599,06/29/1999,,,,,,,,,,,,,
+8188599,07/28/1999,4,NO,1.2,,,57,,,,,,,
+16115883,07/28/1999,4,NO,1.2,,,57,,,,,,,
+16115883,08/21/1999,4.2,NO,1.3,,,56,,,,,,,
+8188599,09/22/1999,5.5,NO,1.7,,,53,,,,,,,
+16115883,09/22/1999,5.5,NO,1.7,,,53,,,,,,,
+8188599,05/04/2000,,,,,,,,,,,,,
+8188599,06/06/2000,9.33,NO,2.8,,,45,,,,,,,
+16115883,06/06/2000,9.4,NO,2.9,,,45,,,,,,,
+8188599,07/06/2000,6.5,NO,2,,,50,,,,,,,
+16115883,07/06/2000,6.5,NO,2,,,50,,,,,,,
+8188599,08/04/2000,6.25,NO,1.9,,,51,,,,,,,
+16115883,08/04/2000,6.25,NO,1.9,,,51,,,,,,,
+16115883,09/04/2000,6.2,NO,1.9,,,51,,,,,,,
+8188599,09/06/2000,5.75,NO,1.7,,,52,,,,,,,
+16115883,09/06/2000,5.9,NO,1.8,,,52,,,,,,,
+16115883,10/05/2000,4.8,NO,1.5,,,55,,,,,,,
+16115883,07/07/2001,5.4,NO,1.6,,,53,,,,,,,
+16115883,09/05/2001,4.9,NO,1.5,,,54,,,,,,,
+16115883,10/01/2001,4.3,NO,1.3,,,56,,,,,,,
+16115883,11/12/2001,5.9,NO,1.8,,,52,,,,,,,
+8188630,04/29/2009,,,,1.57,,,,38,,,,,
+8188630,06/25/2009,,,,3.63,,,,45,,,,,
+8188630,08/04/2009,,,,3.79,,,,45,,,,,
+8188630,09/03/2009,,,,5.95,,,,48,,,,,
+7000057,06/24/2010,,,,7.74,22,,52,50,,,,,
+7000057,07/01/2010,,,,5.75,28,,54,48,,,,,
+7000057,08/01/2010,,,,13.8,31,,55,55,,,,,
+7000057,05/09/2011,,,,,20,,51,,,,,,
+44765386,05/09/2011,5.5,NO,1.7,,,53,,,,1572.5,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,06/04/2011,4.75,NO,1.4,,,55,,,,1571.6,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,06/10/2011,4.75,NO,1.4,,,55,,,,1571.2,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,06/19/2011,4.5,NO,1.4,,,55,,,,1571.0,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,06/26/2011,,,,5.79,20,,51,48,,,,,
+44765386,06/26/2011,4.5,NO,1.4,,,55,,,,1570.9,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,07/09/2011,5,NO,1.5,,,54,,,,1570.67,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,07/13/2011,,,,6.48,25,,53,49,,,,,
+44765386,07/16/2011,5,NO,1.5,,,54,,,,1570.60,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,07/31/2011,4.5,NO,1.4,,,55,,,,1570.31,MURKY,BROWN,
+44765386,08/04/2011,4.5,NO,1.4,,,55,,,,1570.25,MURKY,BROWN,2-Very minor aesthetic problems
+18138766,08/17/2011,,,,17.2,28,,54,56,,,,,
+44765386,08/18/2011,4.25,NO,1.3,,,56,,,,1570.21,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,08/27/2011,4.25,NO,1.3,,,56,,,,1570.12,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,09/17/2011,4,NO,1.2,,,57,,,,1569.05,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,10/02/2011,4,NO,1.2,,,57,,,,15668.69,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,10/23/2011,5,NO,1.5,,,54,,,,1569.0,MURKY,BROWN,2-Very minor aesthetic problems
+44765386,10/30/2011,5,NO,1.5,,,54,,,,1569.25,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,03/25/2012,5.25,NO,1.6,,,53,,,NORMAL,1569.86,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,04/01/2012,6,NO,1.8,,18,51,51,,NORMAL,1570.76,CLEAR,BROWN,1-Beautiful, could not be nicer
+44765399,04/14/2012,6.75,NO,2.1,,,50,,,NORMAL,1570.86,CLEAR,BROWN,1-Beautiful, could not be nicer
+44765399,05/20/2012,6.5,NO,2,,,50,,,NORMAL,1571.30,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,05/28/2012,6.5,NO,2,,,50,,,HIGH,1571.46,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,06/03/2012,6.75,NO,2.1,,,50,,,NORMAL,1571.67,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,06/23/2012,6.25,NO,1.9,8.23,24,51,53,51,HIGH,1572.0,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,06/30/2012,7,NO,2.1,,,49,,,HIGH,1571.80,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,07/22/2012,4,NO,1.2,,,57,,,NORMAL,1571.27,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,07/29/2012,4,NO,1.2,18.2,31,57,55,57,NORMAL,1570.78,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/12/2012,3.25,NO,1,,,60,,,NORMAL,1570.30,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/26/2012,4.25,NO,1.3,17.9,,56,,57,LOW,1569.60,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,09/02/2012,4,NO,1.2,,,57,,,LOW,1569.29,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,09/23/2012,6.75,NO,2.1,,,50,,,LOW,1568.59,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,09/29/2012,6.75,NO,2.1,,,50,,,LOW,1568.22,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,10/13/2012,7,NO,2.1,,,49,,,LOW,1567.70,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,10/27/2012,7,NO,2.1,,,49,,,LOW,1568.08,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,05/19/2013,6.75,NO,2.1,,,50,,,NORMAL,1571.53,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138766,05/23/2013,,,,,20.5,,52,,,,,,
+44765399,06/02/2013,6,NO,1.8,,,51,,,NORMAL,1571.72,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,06/22/2013,5.25,NO,1.6,,,53,,,NORMAL,1571.65,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138766,06/28/2013,,,,7.77,24.3,,53,50,,,,,
+44765399,06/30/2013,5.25,NO,1.6,,,53,,,NORMAL,1571.60,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,07/04/2013,5.25,NO,1.6,,,53,,,NORMAL,1571.60,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,07/13/2013,5.5,NO,1.7,,,53,,,NORMAL,1571.89,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,07/21/2013,4.75,NO,1.4,,,55,,,NORMAL,1571.70,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138766,07/31/2013,,,,13.9,33,,55,55,,,,,
+44765399,08/04/2013,4.25,NO,1.3,,,56,,,NORMAL,1571.51,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/11/2013,4.25,NO,1.3,,,56,,,NORMAL,1571.29,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/23/2013,4,NO,1.2,,,57,,,NORMAL,1570.60,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,09/02/2013,4,NO,1.2,,,57,,,NORMAL,1570.65,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138766,09/04/2013,,,,26.5,41.6,,57,60,,,,,
+44765399,09/22/2013,6.25,NO,1.9,,,51,,,NORMAL,1570.42,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,09/29/2013,4.5,NO,1.4,,,55,,,NORMAL,1569.81,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138766,05/18/2014,,,,,19.2,,51,,,,,,
+44765399,05/18/2014,5.25,NO,1.6,,,53,,,,1571.54,MURKY,BROWN,
+44765399,05/25/2014,4.75, ,1.4,,,55,,,,1571.81,MURKY,BROWN,
+44765399,06/15/2014,4.75,NO,1.4,,,55,,,,1571.60,MURKY,BROWN,
+18138766,06/22/2014,,,,6.71,16.8,,50,49,,,,,
+44765399,06/22/2014,5,NO,1.5,,,54,,,,1571.49,MURKY,BROWN,
+44765399,07/13/2014,5.25, ,1.6,,,53,,,,1571.60,MURKY,BROWN,
+18138766,07/27/2014,,,,11.7,24.1,,53,53,,,,,
+44765399,07/27/2014,4.25,NO,1.3,,,56,,,,1571.30,MURKY,BROWN,
+44765399,08/09/2014,4.5,NO,1.4,,,55,,,,1570.95,MURKY,BROWN,
+18138766,08/23/2014,,,,15.7,23.1,,52,56,,,,,
+44765399,08/23/2014,4.25,NO,1.3,,,56,,,,1569.7,MURKY,BROWN,
+44765399,09/20/2014,5.5,NO,1.7,,,53,,,,1571.35,MURKY,BROWN,
+44765399,09/27/2014,6,NO,1.8,,,51,,,,1571.41,MURKY,BROWN,
+44765399,10/12/2014,6,NO,1.8,,,51,,,,1571.21,MURKY,BROWN,
+44765399,10/26/2014,6,NO,1.8,,,51,,,,1571.26,MURKY,BROWN,
+44765399,11/02/2014,5.25,NO,1.6,,,53,,,,1571.26,MURKY,BROWN,
+130578345,04/17/2015,,,,,22.5,,52,,,,,,
+44765386,04/19/2015,6.5,NO,2,,,50,,,NORMAL,1571.70,MURKY,BROWN,
+44765386,05/16/2015,11,NO,3.3,,,43,,,NORMAL,1571.75,CLEAR,BROWN,
+44765386,05/23/2015,8,NO,2.4,,,47,,,NORMAL,1571.70,CLEAR,BROWN,
+44765386,05/30/2015,7,NO,2.1,,,49,,,NORMAL,1571.90,MURKY,BROWN,
+44765386,06/21/2015,6,NO,1.8,6.21,23.9,51,53,49,NORMAL,1571.70,MURKY,BROWN,
+44765386,07/04/2015,6.75,NO,2.1,,,50,,,NORMAL,1571.65,,BROWN,
+44765386,07/26/2015,4.5,NO,1.4,16.6,32.1,55,55,56,NORMAL,1570.80,MURKY,BROWN,
+44765386,08/14/2015,3,NO,0.9,,,61,,,NORMAL,1569.99,MURKY,BROWN,
+44765386,08/24/2015,3.25,NO,1,26.9,37.3,60,56,60,NORMAL,1569.50,MURKY,BROWN,
+44765386,09/07/2015,4.25,NO,1.3,,,56,,,NORMAL,1569.12,MURKY,BROWN,
+44765386,09/20/2015,3.5,NO,1.1,,,59,,,NORMAL,1569.00,MURKY,BROWN,
+44765386,10/22/2015,5,NO,1.5,,,54,,,NORMAL,1568.5,MURKY,BROWN,
+44765386,04/30/2016,,,,,22.8,,52,,,,,,
+44765399,04/30/2016,7,NO,2.1,,,49,,,NORMAL,1571.88,CLEAR,BROWN,2-Very minor aesthetic problems
+44765399,05/29/2016,8,NO,2.4,,,47,,,HIGH,1571.7,CLEAR,BROWN,2-Very minor aesthetic problems
+44765399,06/12/2016,8,NO,2.4,,,47,,,HIGH,1571.8,CLEAR,BROWN,2-Very minor aesthetic problems
+44765386,06/19/2016,,,,9.76,27.8,,54,52,,,,,
+44765399,06/19/2016,5,NO,1.5,,,54,,,NORMAL,1571.90,CLEAR,BROWN,2-Very minor aesthetic problems
+44765399,07/10/2016,6,NO,1.8,,,51,,,HIGH,1571.14,CLEAR,BROWN,2-Very minor aesthetic problems
+44765399,07/17/2016,5,NO,1.5,7.78,36.7,54,56,50,NORMAL,1571.29,CLEAR,BROWN,2-Very minor aesthetic problems
+118939610,07/23/2016,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+44765399,07/30/2016,4.5,NO,1.4,,,55,,,HIGH,1571.14,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/07/2016,4.5,NO,1.4,,,55,,,HIGH,1571.30,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/14/2016,5,NO,1.5,12.9,22.1,54,52,54,HIGH,1571.20,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+118939610,09/02/2016,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+44765399,05/29/2017,8,NO,2.4,,,47,,,NORMAL,1571.8,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,06/04/2017,7.5,NO,2.3,,,48,,,HIGH,1571.91,MURKY,BROWN,2-Very minor aesthetic problems
+44765399,06/26/2017,5.5,NO,1.7,9.06,26.2,53,53,51,HIGH,1571.75,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,07/08/2017,5,NO,1.5,,,54,,,HIGH,1571.61,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,07/30/2017,6,NO,1.8,,,51,,,NORMAL,1570.75,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/31/2017,,,,5.18,33.7,,55,47,,,,,
+44765399,08/06/2017,5.5,NO,1.7,,,53,,,NORMAL,1570.70,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/13/2017,5.5,NO,1.7,,,53,,,NORMAL,1570.42,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+44765399,08/27/2017,5,NO,1.5,12.4,26.1,54,53,54,NORMAL,1570.1,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/04/1998,,,13.8,C,8.5,MG/L
+06/16/1998,,,16.1,C,5.9,MG/L
+07/24/1998,,,22.5,C,7.0,MG/L
+08/18/1998,,,20.3,C,7.2,MG/L
+09/19/1998,,,19.5,C,3.7,MG/L
+10/23/1998,2,FEET,47.4,DEGREES F,11.1,MG/L
+10/23/1998,4,FEET,47.3,DEGREES F,11.1,MG/L
+10/23/1998,6,FEET,47.1,DEGREES F,11,MG/L
+10/23/1998,8,FEET,47.1,DEGREES F,11,MG/L
+10/23/1998,10,FEET,46.9,DEGREES F,11,MG/L
+10/23/1998,12,FEET,46.9,DEGREES F,11,MG/L
+10/23/1998,14,FEET,46.9,DEGREES F,11,MG/L
+10/23/1998,16,FEET,46.9,DEGREES F,11,MG/L
+10/23/1998,18,FEET,46.9,DEGREES F,11,MG/L
+10/23/1998,19,FEET,46.7,DEGREES F,10.9,ppm
+10/23/1998,20,FEET,46,DEGREES F,10.9,MG/L
+06/29/1999,2,FEET,69.9,DEGREES F,7,MG/L
+06/29/1999,4,FEET,69.9,DEGREES F,6.9,MG/L
+06/29/1999,6,FEET,69.9,DEGREES F,6.8,MG/L
+06/29/1999,8,FEET,69.8,DEGREES F,6.9,MG/L
+06/29/1999,10,FEET,69.8,DEGREES F,6.7,MG/L
+06/29/1999,12,FEET,68.7,DEGREES F,6.1,MG/L
+06/29/1999,14,FEET,68.5,DEGREES F,6,MG/L
+06/29/1999,16,FEET,68.5,DEGREES F,6,MG/L
+06/29/1999,18,FEET,68.5,DEGREES F,6.2,MG/L
+06/29/1999,20,FEET,68,DEGREES F,6.3,MG/L
+06/29/1999,22,FEET,68,DEGREES F,6.2,MG/L
+07/28/1999,2,FEET,78.4,DEGREES F,7.6,MG/L
+07/28/1999,4,FEET,78.4,DEGREES F,7.6,MG/L
+07/28/1999,6,FEET,78.4,DEGREES F,7.6,MG/L
+07/28/1999,8,FEET,78.2,DEGREES F,7.5,MG/L
+07/28/1999,10,FEET,76.6,DEGREES F,6.9,MG/L
+07/28/1999,12,FEET,76.4,DEGREES F,6.8,MG/L
+07/28/1999,14,FEET,75.3,DEGREES F,6.1,MG/L
+07/28/1999,16,FEET,74.3,DEGREES F,3.8,MG/L
+07/28/1999,18,FEET,73.9,DEGREES F,2.5,MG/L
+07/28/1999,20,FEET,71.4,DEGREES F,3.2,MG/L
+07/28/1999,22,FEET,70.3,DEGREES F,.4,MG/L
+08/21/1999,2,FEET,73.4,DEGREES F,8.8,ppm
+08/21/1999,4,FEET,70.5,DEGREES F,9.2,ppm
+09/22/1999,2,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,4,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,6,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,8,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,10,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,12,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,14,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,16,FEET,68.3,DEGREES F,7.5,MG/L
+09/22/1999,18,FEET,68,DEGREES F,7.4,MG/L
+09/22/1999,20,FEET,68,DEGREES F,7.4,MG/L
+05/04/2000,2,FEET,56.3,DEGREES F,10.2,MG/L
+05/04/2000,4,FEET,56.1,DEGREES F,10.2,MG/L
+05/04/2000,6,FEET,55.9,DEGREES F,10.2,MG/L
+05/04/2000,8,FEET,55.9,DEGREES F,10.3,MG/L
+05/04/2000,10,FEET,55.9,DEGREES F,10.3,MG/L
+05/04/2000,12,FEET,55.9,DEGREES F,10.2,MG/L
+05/04/2000,14,FEET,55.9,DEGREES F,10.2,MG/L
+05/04/2000,16,FEET,55.7,DEGREES F,10.2,MG/L
+05/04/2000,18,FEET,55.5,DEGREES F,10.1,MG/L
+05/04/2000,20,FEET,55.2,DEGREES F,10,MG/L
+06/06/2000,2,FEET,64.4,DEGREES F,8.9,MG/L
+06/06/2000,4,FEET,64.4,DEGREES F,8.9,MG/L
+06/06/2000,6,FEET,64.2,DEGREES F,9,MG/L
+06/06/2000,8,FEET,63.8,DEGREES F,9,MG/L
+06/06/2000,10,FEET,63.6,DEGREES F,8.9,MG/L
+06/06/2000,12,FEET,61.1,DEGREES F,8.2,MG/L
+06/06/2000,14,FEET,61.1,DEGREES F,8.2,MG/L
+06/06/2000,16,FEET,60.9,DEGREES F,8.2,MG/L
+06/06/2000,18,FEET,60.8,DEGREES F,8,MG/L
+06/06/2000,20,FEET,60.2,DEGREES F,7.8,MG/L
+07/06/2000,2,FEET,72.6,DEGREES F,7.3,MG/L
+07/06/2000,4,FEET,72.6,DEGREES F,9.2,MG/L
+07/06/2000,6,FEET,72.5,DEGREES F,9.1,MG/L
+07/06/2000,8,FEET,72.5,DEGREES F,9.1,MG/L
+07/06/2000,10,FEET,71.6,DEGREES F,8.9,MG/L
+07/06/2000,12,FEET,69.6,DEGREES F,7.6,MG/L
+07/06/2000,14,FEET,68.5,DEGREES F,7.5,MG/L
+07/06/2000,16,FEET,68.3,DEGREES F,7.5,MG/L
+07/06/2000,18,FEET,68,DEGREES F,7,MG/L
+07/06/2000,20,FEET,67.4,DEGREES F,5.7,MG/L
+07/06/2000,22,FEET,67.2,DEGREES F,4.4,MG/L
+08/04/2000,2,FEET,72.6,DEGREES F,7.3,MG/L
+08/04/2000,4,FEET,71.9,DEGREES F,7.3,MG/L
+08/04/2000,6,FEET,71.7,DEGREES F,7.2,MG/L
+08/04/2000,8,FEET,71.6,DEGREES F,6.9,MG/L
+08/04/2000,10,FEET,71.6,DEGREES F,6.8,MG/L
+08/04/2000,12,FEET,71.6,DEGREES F,6.6,MG/L
+08/04/2000,14,FEET,71.6,DEGREES F,6.6,MG/L
+08/04/2000,16,FEET,71.6,DEGREES F,6.6,MG/L
+08/04/2000,18,FEET,71.4,DEGREES F,6.8,MG/L
+08/04/2000,20,FEET,71.4,DEGREES F,6.9,MG/L
+08/04/2000,22,FEET,71.2,DEGREES F,6.5,MG/L
+09/04/2000,2,FEET,73,DEGREES F,7.3,ppm
+09/04/2000,4,FEET,71.9,DEGREES F,7.32,ppm
+09/04/2000,6,FEET,71.7,DEGREES F,7.21,ppm
+09/04/2000,8,FEET,71.6,DEGREES F,6.99,ppm
+09/04/2000,10,FEET,71.6,DEGREES F,6.87,ppm
+09/04/2000,12,FEET,71.6,DEGREES F,6.68,ppm
+09/04/2000,14,FEET,71.6,DEGREES F,6.64,ppm
+09/04/2000,16,FEET,71.6,DEGREES F,6.63,ppm
+09/04/2000,18,FEET,71.4,DEGREES F,6.87,ppm
+09/04/2000,20,FEET,71.4,DEGREES F,6.92,ppm
+09/04/2000,22,FEET,71.2,DEGREES F,6.52,ppm
+09/06/2000,2,FEET,64.7,DEGREES F,8.4,MG/L
+09/06/2000,4,FEET,64.5,DEGREES F,8.4,MG/L
+09/06/2000,6,FEET,64.5,DEGREES F,8.4,MG/L
+09/06/2000,8,FEET,64.5,DEGREES F,8.4,MG/L
+09/06/2000,10,FEET,64.4,DEGREES F,8.4,MG/L
+09/06/2000,12,FEET,64.4,DEGREES F,8.3,MG/L
+09/06/2000,14,FEET,64.2,DEGREES F,8.3,MG/L
+09/06/2000,16,FEET,64.2,DEGREES F,8.2,MG/L
+09/06/2000,18,FEET,64.2,DEGREES F,8.2,MG/L
+09/06/2000,20,FEET,64.2,DEGREES F,8.1,MG/L
+10/05/2000,2,FEET,50,DEGREES F,9.2,ppm
+10/05/2000,4,FEET,50,DEGREES F,9.2,ppm
+10/05/2000,6,FEET,49.8,DEGREES F,9.2,ppm
+10/05/2000,8,FEET,49.8,DEGREES F,9.2,ppm
+10/05/2000,10,FEET,49.8,DEGREES F,9.1,ppm
+10/05/2000,12,FEET,49.6,DEGREES F,9.1,ppm
+10/05/2000,14,FEET,49.4,DEGREES F,9.2,ppm
+10/05/2000,16,FEET,49.4,DEGREES F,9.1,ppm
+10/05/2000,18,FEET,49.4,DEGREES F,9.1,ppm
+07/07/2001,0,FEET,71.4,DEGREES F,9.72,ppm
+07/07/2001,2,FEET,71,DEGREES F,9.74,ppm
+07/07/2001,4,FEET,70.2,DEGREES F,9.79,ppm
+07/07/2001,6,FEET,69.2,DEGREES F,9.73,ppm
+07/07/2001,8,FEET,68.9,DEGREES F,9.5,ppm
+07/07/2001,10,FEET,68.7,DEGREES F,9.3,ppm
+07/07/2001,12,FEET,68.3,DEGREES F,9.36,ppm
+07/07/2001,14,FEET,68.3,DEGREES F,9.42,ppm
+07/07/2001,16,FEET,68.5,DEGREES F,9.35,ppm
+07/07/2001,18,FEET,68.3,DEGREES F,9.56,ppm
+09/05/2001,0,FEET,57,DEGREES F,9.2,ppm
+09/05/2001,2,FEET,56.8,DEGREES F,9.13,ppm
+09/05/2001,4,FEET,55.9,DEGREES F,9.02,ppm
+09/05/2001,6,FEET,55.4,DEGREES F,9.1,ppm
+09/05/2001,8,FEET,55.4,DEGREES F,9.13,ppm
+09/05/2001,10,FEET,55.4,DEGREES F,9,ppm
+09/05/2001,12,FEET,55.2,DEGREES F,8.97,ppm
+09/05/2001,14,FEET,55.2,DEGREES F,8.96,ppm
+09/05/2001,16,FEET,55.2,DEGREES F,8.81,ppm
+09/05/2001,18,FEET,55.2,DEGREES F,8.82,ppm
+09/05/2001,20,FEET,55.2,DEGREES F,8.35,ppm
+10/01/2001,0,FEET,68.3,DEGREES F,8.28,ppm
+10/01/2001,2,FEET,68.3,DEGREES F,8.36,ppm
+10/01/2001,4,FEET,68.3,DEGREES F,8.36,ppm
+10/01/2001,6,FEET,68.3,DEGREES F,8.31,ppm
+10/01/2001,8,FEET,68.3,DEGREES F,8.3,ppm
+10/01/2001,10,FEET,68.1,DEGREES F,8.28,ppm
+10/01/2001,12,FEET,68.1,DEGREES F,8.25,ppm
+10/01/2001,14,FEET,67.6,DEGREES F,8.22,ppm
+10/01/2001,16,FEET,67.6,DEGREES F,8.14,ppm
+10/01/2001,18,FEET,67.2,DEGREES F,8.11,ppm
+10/01/2001,20,FEET,67.4,DEGREES F,7.99,ppm
+11/12/2001,0,FEET,40.8,DEGREES F,14.86,ppm
+11/12/2001,2,FEET,40.8,DEGREES F,14.86,ppm
+11/12/2001,4,FEET,40.8,DEGREES F,14.85,ppm
+11/12/2001,6,FEET,40.8,DEGREES F,14.84,ppm
+11/12/2001,8,FEET,40.8,DEGREES F,14.83,ppm
+11/12/2001,10,FEET,40.6,DEGREES F,14.83,ppm
+11/12/2001,12,FEET,40.6,DEGREES F,14.83,ppm
+11/12/2001,14,FEET,40.6,DEGREES F,14.8,ppm
+11/12/2001,16,FEET,40.6,DEGREES F,14.8,ppm
+11/12/2001,18,FEET,40.6,DEGREES F,14.8,ppm
+11/12/2001,20,FEET,40.6,DEGREES F,14.8,ppm
+11/12/2001,22,FEET,40.6,DEGREES F,14.8,ppm
+11/12/2001,24,FEET,40.6,DEGREES F,14.77,ppm
+05/19/2013,1,FEET,55.2,DEGREES F,,
+05/19/2013,3,FEET,54.6,DEGREES F,,
+05/19/2013,6,FEET,54.1,DEGREES F,,
+05/19/2013,9,FEET,53.7,DEGREES F,,
+05/19/2013,12,FEET,52.3,DEGREES F,,
+05/19/2013,15,FEET,50.7,DEGREES F,,
+05/19/2013,18,FEET,49.1,DEGREES F,,
+06/30/2013,1,FEET,72.8,DEGREES F,,
+06/30/2013,3,FEET,72.8,DEGREES F,,
+06/30/2013,6,FEET,72.6,DEGREES F,,
+06/30/2013,9,FEET,72.1,DEGREES F,,
+06/30/2013,12,FEET,71.2,DEGREES F,,
+06/30/2013,15,FEET,70.5,DEGREES F,,
+06/30/2013,18,FEET,70.3,DEGREES F,,
+06/30/2013,21,FEET,70.1,DEGREES F,,
+06/30/2013,23,FEET,69.6,DEGREES F,,
+07/21/2013,1,FEET,75.5,DEGREES F,,
+07/21/2013,3,FEET,75.5,DEGREES F,,
+07/21/2013,6,FEET,75.5,DEGREES F,,
+07/21/2013,9,FEET,75.3,DEGREES F,,
+07/21/2013,12,FEET,75.3,DEGREES F,,
+07/21/2013,15,FEET,75.2,DEGREES F,,
+07/21/2013,18,FEET,75.2,DEGREES F,,
+07/21/2013,21,FEET,75.2,DEGREES F,,
+07/21/2013,22,FEET,75,DEGREES F,,
+08/23/2013,1,FEET,73.7,DEGREES F,,
+08/23/2013,3,FEET,73.4,DEGREES F,,
+08/23/2013,6,FEET,73.2,DEGREES F,,
+08/23/2013,9,FEET,73,DEGREES F,,
+08/23/2013,12,FEET,72.8,DEGREES F,,
+08/23/2013,15,FEET,72.6,DEGREES F,,
+08/23/2013,17,FEET,70.9,DEGREES F,,
+04/19/2015,1,FEET,49.4,DEGREES F,,
+04/19/2015,3,FEET,49.4,DEGREES F,,
+04/19/2015,6,FEET,49.2,DEGREES F,,
+04/19/2015,9,FEET,49.2,DEGREES F,,
+04/19/2015,12,FEET,49.2,DEGREES F,,
+04/19/2015,15,FEET,49.2,DEGREES F,,
+04/19/2015,18,FEET,49.2,DEGREES F,,
+04/19/2015,19,FEET,48.9,DEGREES F,,
+06/21/2015,1,FEET,69.2,DEGREES F,,
+06/21/2015,3,FEET,68.3,DEGREES F,,
+06/21/2015,6,FEET,67.4,DEGREES F,,
+06/21/2015,9,FEET,66.4,DEGREES F,,
+06/21/2015,12,FEET,66.515,DEGREES F,66.3,MG/L
+06/21/2015,18,FEET,66.2,DEGREES F,,
+07/26/2015,1,FEET,64.5,DEGREES F,,
+07/26/2015,3,FEET,64.7,DEGREES F,,
+07/26/2015,6,FEET,64.7,DEGREES F,,
+07/26/2015,9,FEET,64.7,DEGREES F,,
+07/26/2015,12,FEET,64.7,DEGREES F,,
+07/26/2015,15,FEET,64.7,DEGREES F,,
+07/26/2015,18,FEET,64.7,DEGREES F,,
+07/26/2015,20,FEET,64.6,DEGREES F,,
+07/23/2016,1,FEET,79.8,DEGREES F,,
+07/23/2016,3,FEET,79.7,DEGREES F,,
+07/23/2016,6,FEET,79.3,DEGREES F,,
+07/23/2016,9,FEET,77.7,DEGREES F,,
+07/23/2016,12,FEET,75.2,DEGREES F,,
+07/23/2016,15,FEET,72.6,DEGREES F,,
+07/23/2016,18,FEET,71,DEGREES F,,
+07/23/2016,20,FEET,70.5,DEGREES F,,
+09/02/2016,1,FEET,71.4,DEGREES F,,
+09/02/2016,3,FEET,70.1,DEGREES F,,
+09/02/2016,6,FEET,68.7,DEGREES F,,
+09/02/2016,9,FEET,68.3,DEGREES F,,
+09/02/2016,12,FEET,68.3,DEGREES F,,
+09/02/2016,15,FEET,68.1,DEGREES F,,
+09/02/2016,18,FEET,67.8,DEGREES F,,
+09/02/2016,21,FEET,67.6,DEGREES F,,
+06/26/2017,1,FEET,64.4,DEGREES F,,
+06/26/2017,3,FEET,64.4,DEGREES F,,
+06/26/2017,6,FEET,64.2,DEGREES F,,
+07/30/2017,1,FEET,76.2,DEGREES F,,
+07/30/2017,3,FEET,76.2,DEGREES F,,
+07/30/2017,6,FEET,75.2,DEGREES F,,
+07/30/2017,9,FEET,73.7,DEGREES F,,
+07/30/2017,12,FEET,71.9,DEGREES F,,
+07/30/2017,15,FEET,71.6,DEGREES F,,
+07/30/2017,18,FEET,71.2,DEGREES F,,
+08/27/2017,1,FEET,65.4,DEGREES F,,
+08/27/2017,3,FEET,65.4,DEGREES F,,
+08/27/2017,6,FEET,65.3,DEGREES F,,
+08/27/2017,12,FEET,65.1,DEGREES F,,
+08/27/2017,15,FEET,65.1,DEGREES F,,
+08/27/2017,18,FEET,65.1,DEGREES F,,
+08/27/2017,21,FEET,65.1,DEGREES F,,
+08/27/2017,22,FEET,65.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+10/23/1998,Sunny    
+10/23/1998,Sunny- data collected by lake association- for Jeff Roth- fisheries biologist
+06/29/1999,Partly cloudy    
+07/28/1999,Sunny    
+07/28/1999,sunny
+08/21/1999,sunny
+09/22/1999,Sunny    
+09/22/1999,sunny
+05/04/2000,Sunny    
+06/06/2000,Sunny    
+06/06/2000,sunny
+07/06/2000,Partly cloudy    
+07/06/2000,partly cloudy
+08/04/2000,Sunny    
+08/04/2000,assumed time of 12 pm- sunny
+09/04/2000,sunny
+09/06/2000,Partly cloudy    
+09/06/2000,partly cloudy
+07/07/2001,sunny- moderate NW wind
+10/01/2001,sunny
+11/12/2001,sunny
+05/09/2011,Cloudy- very windy- little boat traffic. Began to rain VERY hard as we did the secchi disk.
+Help from Dan- Alli- Andrew and Emma Wenman along with our dogs Jeep and Birdie.
+Secchi disk depth was 5.5 feet
+06/04/2011,Cloudy- overcast- filtered sun. Very little boat traffic- slight wind.
+Becky- Birdie and Jeep helped!
+
+06/10/2011,Clear- sunny- 60 degrees- 10-15 mph winds- good chop on the water. 
+Low boat traffice.
+Jeep and Birdie were my only helpers today.
+06/19/2011,Overcast- 60 degrees. Good chop on the water...winds around 15 mph.
+Some bloom beginning to show on the water
+Todd- Becky- Jeep and Birdie today.
+06/26/2011,Todd- Becky- Dan- Andrew- Scott and Alli helped to do the Secchi disk along with taking the quality water samples.
+Partly cloudy- very heavy mayfly carcasses on the surface of the water.
+10-15 mph winds from the East and a good chop on the water.
+Of course Jeep and Birdie also helped!
+07/09/2011,Clear blue skies- very little wind- ver-y little boat traffic.
+An absolutely beautiful day at 91 degrees.
+Todd- Becky - Jeep and Birdie in the boat today.
+07/16/2011,Mosty Sunny- calm winds- 82 degrees- a few boats on the water. 8-10 boats within sight on the main body of water. Secchi disk was done by Todd- Jeep- Birdie and Carson Makuski.
+
+07/31/2011,Calm- blue skies- some mayfly carcusses- some floating weeds. No boat traffic- 80 degrees.
+Small crew today....just Todd- Birdie and Jeep....they dogs go everywhere in the boat- and I'm glad to take them.
+08/04/2011,85 degrees- 5-10 mph winds- NO boat traffic- nothing unusual in the water.
+Help today from Jeep- Birdie- Seth and Shane Kluck.
+ 
+08/18/2011,Beautiful day- 70 degree air temp- 72 degree water temp.
+10 mph winds- no boat traffic.
+08/27/2011,Beautiful- Sunny- 68 degrees- very light wind. A fair number of boats out today- saw 3 otters and many loons out on the main water.
+HElpers today are Becky- Jeep and Birdie...all my faithful boat riders.
+09/17/2011,Windy- Cloudy- 57 degrees water- 56 air temp- NO boat traffic- 20 mph winds. 1-2 ft waves.
+10/02/2011,Calm- Bright- Sunny- 52.7 degree water temp- 62 degree air temp.
+
+Beautiful Indian Summer day.
+
+Help from Becky- Birdie and Jeep.
+10/23/2011,Overcast- 5 mph breezy- 40degree air temp- 46 degree water temp-.
+No boat traffic. Lots of green algae on the shoreline....nothing out on the main body of water.
+10/30/2011,Help from Jeep and Birdie
+Water temp is 39 degrees.
+
+This is our last outing.....the boat is going up on blocks today and getting winterized.
+03/25/2012,Windy- Warm- 68 degrees...ice went out on 3/21. No boats on the water....we are the only ones on the water.
+This is the earliest ice out that I've been up for.
+04/01/2012,Overcast- light wind..no other boats on the water-....the water is very clear.
+04/14/2012,Clear skies- .light winds from the South/East- No boat traffic- cleanest water that I've seen.
+This is the third secchi disk read of the year....and this is still well before the noraml ice out.
+Tammy- Carson- Jeep and Bea did the disk read with me.
+05/20/2012,Fair amount of wind- not too bad. Some boat traffic and some mayflies starting to show up now.
+Becky- Jeep and I (this is the first trip w/o the original flowage dog;; Birdie.
+05/28/2012,Very- very windy...overcast- lots of boat traffic...very hard getting the anchor to hold...in fact- I threw the anchor over without the line tied on!
+06/03/2012,5-10 mph winds- 70degrees- clear- sunny- some mayfly carcasses- very little boat traffic
+06/23/2012,overcast- 5-10 mph winds...started to rain during the samplinng. Received 3+ inches of rain on 6/20. Andrew- Emma- Scott and myself did the sampling.
+We hooked the anchor with our anchor today that we had lost on the sampling done on 5/28....what are the chances of that 
+06/30/2012,Mostly sunny- lots of boats out on the water before the 4th. Light wind- only needed a 15# anchor.
+Completed by Scott- Becky- Bea- Jeep and Todd.
+07/22/2012,Slight Wind- several boats on the water. Water temp at 78 degrees.  Lots of bloom in the water
+07/29/2012,79.5 degree water temp- very little light winds and moderate boat traffic. Air temp at 77 degrees. Lots of bloom in the water.
+Carson- Bea- Jeep- Becky and I did the disk read
+08/12/2012,No wind-- lots of green bloom-71 degree water temp.
+Disk reading done by Alli- Bea- Jeep- Becky and Todd
+08/26/2012,Overcast0 80 degree air temp- light wind- very little boat traffic and no rain in the last week
+Bea- Jeep- Becky and Todd did the disk read.
+09/02/2012,10-15 mph winds- lots of boat traffic. 80 degree air temp- clear blue skies- beautiful day...water temp of 70 degrees.
+Ginger- Bea- Becky and Todd did the disk read.
+09/23/2012,Very windy- mostly cloudy- 52.4 degree water temp-
+Disk reading done by Todd only.
+09/29/2012,Absolutely beautiful- very little wind- clear skies and mid 60's for air temp.
+10/13/2012,Overcast- low 50's air temp- misty all weekend- no wind at all- very foggy- no boat traffic.
+Carson- Bea and Todd did the Disk read.
+10/27/2012,Very windy- 15-20 mph winds. Partly sunny- low boat traffic- high of 40 degrees air temp.
+Todd only on the disk read
+05/19/2013,Secchi Disk read- 6.75 feet
+5-10 mile per hour winds- filtered sun and a lot of boat traffic. Air temp of 75 degrees- and 1/2 rain the night before
+06/02/2013,Overcast- lots boat traffic- 15-20 mph winds. Lots of rain the day before...rough water and hard to read the disk.
+06/22/2013,Bea-  Becky and Todd
+Mayflies have started to show up- some green algae- 
+2 3/8 inches of rain this last week.
+No boat traffic and very light wind
+06/30/2013,Bea- Becky and Todd
+Very windy- mix of clouds and sun. Some green bloom and floating weeds. Light boat traffic
+07/04/2013,Bea- Becky and Todd
+Very windy- mostly sunny...80 degree air temp.
+No rain in the last week...lots of boat traffic
+07/13/2013,Very windy- mixed clouds and sun. 82 degree air temp- 74 degree water temp
+Anchor got seriously stuck in the bottom...we did get it back
+07/21/2013,Bea- Becky and Todd
+Light wind- partly sunny- 69 degree air temp- no boat traffic- hasn't rained in three days.
+08/04/2013,Bea- Becky and Todd
+Heavy winds and waves- fair amount of algae- overcast and no boat traffic
+08/11/2013,No wind- mostly sunny- calm- an absolutely beautiful day
+08/23/2013,Cracker- Todd- Mary- Bea and myself
+Very windy- lots of boat traffic and some bloom
+09/02/2013,Bea and Todd
+Overcast- windy- 55 degrees and rain and mist in the a.m.. Some bloom in the water- very light boat traffic
+09/22/2013,Bright- sunny- light winds- no boat traffic- very light bloom.
+61 degree water temp
+09/29/2013,Bea- Tami- Becky and myself
+Clear blue skies- very very windy and rainy the day before.
+lots of suspended materials in the water.
+05/16/2015,Windy- partly sunny- 70 degrees...unbelievably clear water...not sure why
+05/23/2015,Sunny- 75 degree air temp.- slight wind- some boat traffic...water is still unusually clear.
+05/30/2015,overcast- rainy- windy-...still  very clear water.
+06/21/2015,Light wind- sunny 75 degree air temp- low boat traffic Light wind- sunny 75 degrees- water temp 68 degrees- and low boat traffic.
+07/04/2015,Lots of boat traffic
+07/26/2015,Fair amount of boat traffic- 5-10 mph wind- mostly sunny and 80 degree air temp
+08/14/2015,Lots of bloom in the water- 79 degree water temp- 88 degree air temp- windy- sunny- some boat traffic
+08/24/2015,very windy and rainy the last two days....lots of bloom
+09/07/2015,one inch of rain last night- very windy the last two days. Today is calm and clear.
+09/20/2015,clear skies- very windy- lots of organic material in the water- light boat traffic and 65 degree air temp
+10/22/2015,sunny- 60 degrees- 47 degree water temp...calm water- very little boat traffic.....an absolutely gorgeous day
+05/29/2016,Windy and Rain on and off all day. Two inches of rain the night before and the water level is high and wood was floating everywhere.
+06/12/2016,Beautiful- clear and calm.
+06/19/2016,Hot- humid- windy- light boat traffic
+07/10/2016,Windy- raining hard- no sun and no boat traffic.
+07/17/2016,Windy- Partly Cloudy- had 3.5 inches of rain since last Monday
+07/23/2016,Light algae along shore
+07/30/2016,Clear- Sunny- Windy- a beautiful day.
+08/07/2016,Clear- sunny- windy....another beautiful day on the water.
+08/14/2016,Partly Sunny- light winds and little boat traffic.
+09/02/2016,Gorgeous clear day- light winds.
+05/29/2017,Overcast Misting- very windy- low boat traffic
+06/04/2017,Sunny- slight wind- beautiful day.
+06/26/2017,Partly cloudy- windy- light boat traffic- 64 degree water temp- 52 degree air temp. 
+07/08/2017,Very windy light boat traffic- lots of mayfly carcasses. Observation was done from the kayak.
+07/30/2017,Lots of boat traffic- water temp 76 degrees 
+08/06/2017,Very windy and overcast.
+08/13/2017,Calm- no boat traffic- lots of green algae bloom.
+08/27/2017,Overcast- rained 1.2 inches yesterday.
+
+
+
+
+Start Date,Group Name,Project Name
+05/04/1998,Craig Roesler,LAKE EVALUATION
+06/16/1998,Craig Roesler,LAKE EVALUATION
+07/24/1998,Craig Roesler,LAKE EVAL BASIC
+08/18/1998,Craig Roesler,LAKE EVAL BASIC
+09/19/1998,Craig Roesler,LAKE EVAL BASIC
+10/23/1998,Rick Jirsa,Lakes Baseline and Trends Monitoring
+10/23/1998,Turtle Flambeau Assn,
+06/29/1999,Rick Jirsa,Lakes Baseline and Trends Monitoring
+07/28/1999,Rick Jirsa,Lakes Baseline and Trends Monitoring
+07/28/1999,Turtle Flambeau Assn,
+08/21/1999,Turtle Flambeau Assn,
+09/22/1999,Rick Jirsa,Lakes Baseline and Trends Monitoring
+09/22/1999,Turtle Flambeau Assn,
+05/04/2000,Rick Jirsa,Lakes Baseline and Trends Monitoring
+06/06/2000,Rick Jirsa,Lakes Baseline and Trends Monitoring
+06/06/2000,Turtle Flambeau Assn,
+07/06/2000,Rick Jirsa,Lakes Baseline and Trends Monitoring
+07/06/2000,Turtle Flambeau Assn,
+08/04/2000,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/04/2000,Turtle Flambeau Assn,
+09/04/2000,Turtle Flambeau Assn,
+09/06/2000,Rick Jirsa,Lakes Baseline and Trends Monitoring
+09/06/2000,Turtle Flambeau Assn,
+10/05/2000,Turtle Flambeau Assn,
+07/07/2001,Turtle Flambeau Assn,
+09/05/2001,Turtle Flambeau Assn,
+10/01/2001,Turtle Flambeau Assn,
+11/12/2001,Turtle Flambeau Assn,
+04/29/2009,USGS,TURTLE FLAMBEAU FLOWAGE TRADE LAKE PROPERTY: Turtle Flambeau Flowage Water Quality Monitoring
+06/25/2009,USGS,TURTLE FLAMBEAU FLOWAGE TRADE LAKE PROPERTY: Turtle Flambeau Flowage Water Quality Monitoring
+08/04/2009,USGS,TURTLE FLAMBEAU FLOWAGE TRADE LAKE PROPERTY: Turtle Flambeau Flowage Water Quality Monitoring
+09/03/2009,USGS,TURTLE FLAMBEAU FLOWAGE TRADE LAKE PROPERTY: Turtle Flambeau Flowage Water Quality Monitoring
+06/24/2010,JAMES KREITLOW,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+07/01/2010,JAMES KREITLOW,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+08/01/2010,JAMES KREITLOW,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+05/09/2011,JAMES KREITLOW,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+05/09/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/04/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/10/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/19/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/26/2011,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+06/26/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/09/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/13/2011,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+07/16/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/31/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/04/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/17/2011,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/18/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/27/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/17/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/02/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/23/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/30/2011,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+03/25/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+04/01/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+04/01/2012,Becky Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+04/14/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/20/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/28/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/03/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/23/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/23/2012,Becky Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+06/30/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/22/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/29/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/29/2012,Becky Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/12/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/26/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/26/2012,Becky Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+09/02/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/23/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/29/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/13/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/27/2012,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/19/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/23/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+06/02/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/22/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/28/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+06/30/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/04/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/13/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/21/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/31/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/04/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/11/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/23/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/02/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/04/2013,Heather Palmquist,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+09/22/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/29/2013,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/18/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/18/2014,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+05/25/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/15/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/22/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/22/2014,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+07/13/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/27/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/27/2014,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+08/09/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/23/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/23/2014,Heather Palmquist,Turtle Flambeau Flowage Monitoring (AEPP-290-11)
+09/20/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/27/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/12/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/26/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+11/02/2014,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+04/17/2015,Todd Frions,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+04/19/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/16/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/23/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+05/30/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/21/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/21/2015,Todd Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/04/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/26/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/26/2015,Todd Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+08/14/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/24/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/24/2015,Todd Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+09/07/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+09/20/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+10/22/2015,Todd Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+04/30/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+04/30/2016,Todd Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+05/29/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/12/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/19/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/19/2016,Todd Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/10/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/17/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/17/2016,Becky Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/23/2016,Deb Garny,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+07/30/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/07/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/14/2016,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/14/2016,Becky Jirous,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+09/02/2016,Deb Garny,IRON COUNTY: Turtle-Flambeau Flowage AIS Project
+05/29/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/04/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+06/26/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/08/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/30/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+07/31/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/06/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/13/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water
+08/27/2017,Becky Jirous,Bacteria + Plankton (Paid Private)
+08/27/2017,Becky Jirous,Citizen Lake Monitoring - Water Quality - Turtle Flambeau Flowage - Big Water

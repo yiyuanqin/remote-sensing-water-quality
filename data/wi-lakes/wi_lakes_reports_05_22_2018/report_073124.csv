@@ -1,0 +1,659 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Birch Island Lake,Burnett,2453500,NO,7,,073124,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189054,06/12/2001,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189061,06/30/2001,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189061,07/14/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/30/2001,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189061,08/20/2001,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189061,08/31/2001,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189054,10/02/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/22/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,04/29/2002,9,YES,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189046,06/10/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/08/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/12/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189249,09/13/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189249,10/01/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,04/29/2003,,,,,9,,45,,,,,,
+8189046,06/09/2003,9.75,YES,3,,,44,,,HIGH,1.89,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/16/2003,10.8,YES,3.3,1.45,14,43,49,38,HIGH,1.92,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/30/2003,11,YES,3.3,,,43,,,HIGH,2.05,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/14/2003,9,NO,2.7,4.48,18,45,51,46,HIGH,2.05,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/28/2003,9.25,NO,2.8,,,45,,,HIGH,1.94,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/11/2003,9,NO,2.7,3.16,17,45,50,43,HIGH,1.94,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/25/2003,9.75,NO,3,,,44,,,HIGH,1.78,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189046,09/08/2003,9,NO,2.7,,,45,,,HIGH,1.5,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189046,09/22/2003,9.5,NO,2.9,,,45,,,HIGH,1.54,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/05/2003,10.5,YES,3.2,,,43,,,HIGH,1.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/20/2003,9.75,YES,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/18/2004,9.2,YES,2.8,,15,45,49,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/01/2004,10,YES,3,2.82,19,44,51,43,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/19/2004,9.5,NO,2.9,2.54,13,45,48,42,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/17/2004,9.5,NO,2.9,2.68,12,45,47,42,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/04/2004,9.5,NO,2.9,,13,45,48,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191262,03/26/2005,10,YES,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/23/2005,10,YES,3,,14,44,49,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/20/2005,9.5,NO,2.9,2.37,13,45,48,41,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/18/2005,,,,2.05,10,,46,40,,,,,
+8189046,07/19/2005,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/15/2005,9,NO,2.7,2.34,18,45,51,41,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/17/2005,10,YES,3,,11,44,47,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191262,03/15/2006,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/22/2006,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/19/2006,9,NO,2.7,10.6,14,45,49,53,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/17/2006,8,NO,2.4,2.23,23,47,52,41,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/14/2006,8.5,NO,2.6,1.49,10,46,46,38,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/15/2006,8,NO,2.4,6.31,16,47,50,49,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/01/2007,9,NO,2.7,,12,45,47,,LOW,2.1,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/04/2007,8,YES,2.4,1.02,17,47,50,35,LOW,1.9,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/10/2007,7,NO,2.1,7.92,20,49,51,50,LOW,1.4,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189046,08/27/2007,7,NO,2.1,2.19,20,49,51,41,LOW,.98,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189046,10/07/2007,9,YES,2.7,,,45,,,LOW,1.375,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/02/2008,9.5,NO,2.9,,,45,,,LOW,1.8,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/12/2008,,,,,18,,51,,,,,,
+8189054,06/16/2008,,,,1.2,15,,49,36,,,,,
+18603397,06/16/2008,9,YES,2.7,,,45,,,LOW,1.892,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/21/2008,9,YES,2.7,,,45,,,LOW,1.725,CLEAR,BLUE,2-Very minor aesthetic problems
+25544570,07/21/2008,,,,1.53,14,,49,38,,,,,
+18603397,08/18/2008,8,NO,2.4,,,47,,,LOW,1.5,CLEAR,BLUE,2-Very minor aesthetic problems
+26006963,08/18/2008,,,,2.32,15,,49,41,,,,,
+8189054,05/17/2009,,,,,17,,50,,,,,,
+8189046,05/18/2009,9,YES,2.7,,,45,,,LOW,1.425,CLEAR,BLUE,2-Very minor aesthetic problems
+18603397,06/15/2009,8,YES,2.4,1.41,16,47,50,37,LOW,1.5,CLEAR,BLUE,2-Very minor aesthetic problems
+18603397,07/13/2009,,,,2.08,23,,52,40,,,,,
+26006963,07/13/2009,7.5,NO,2.3,,,48,,,LOW,.8,CLEAR,BLUE,2-Very minor aesthetic problems
+18603397,08/17/2009,7,NO,2.1,1.53,11,49,47,38,LOW,.750,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,09/20/2009,7,NO,2.1,,,49,,,,.625,CLEAR,BLUE,2-Very minor aesthetic problems
+26006963,05/10/2010,7.5,NO,2.3,,15,48,49,,LOW,2.025,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/15/2010,,,,5.27,13,,48,47,,,,,
+8189046,06/17/2010,7,NO,2.1,,,49,,,LOW,2.25,CLEAR,BLUE,2-Very minor aesthetic problems
+18603397,07/13/2010,7,NO,2.1,4.65,18,49,51,46,LOW,2.325,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/09/2010,,,,2.82,16,,50,43,,,,,
+25544570,08/09/2010,7,NO,2.1,,,49,,,LOW,2.3,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,09/19/2010,8,NO,2.4,,,47,,,LOW,2.5,CLEAR,BLUE,2-Very minor aesthetic problems
+26006963,05/16/2011,,,,,19,,51,,,,,,
+8189046,06/20/2011,9.5,YES,2.9,,,45,,,NORMAL,3.525,CLEAR,BLUE,2-Very minor aesthetic problems
+26006963,06/20/2011,,,,1.8,5,,41,39,,,,,
+8189046,07/11/2011,8,NO,2.4,,,47,,,NORMAL,3.35,CLEAR,BLUE,2-Very minor aesthetic problems
+26006963,07/11/2011,,,,2.79,15,,49,43,,,,,
+8189046,08/08/2011,9,NO,2.7,,,45,,,NORMAL,3.6,CLEAR,BLUE,2-Very minor aesthetic problems
+26006963,08/08/2011,,,,3.24,14,,49,44,,,,,
+8189046,09/12/2011,9,NO,2.7,,,45,,,NORMAL,3.375,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/21/2012,,,,,19,,51,,,,,,
+8189046,06/10/2012,8,NO,2.4,2.09,16,47,50,40,NORMAL,3.2,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/16/2012,8,NO,2.4,2.12,16,47,50,40,NORMAL,3.125,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/18/2012,0,NO,0,,,,,,NORMAL,2.85,CLEAR,BLUE,2-Very minor aesthetic problems
+72780458,08/18/2012,,,,1.45,11,,47,38,,,,,
+8189046,07/29/2013,9,NO,2.7,3.35,13.8,45,48,44,LOW,2.8,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/19/2013,8.5,NO,2.6,2,10.9,46,47,40,LOW,2.675,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,09/16/2013,8.5,NO,2.6,,,46,,,LOW,2.45,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,05/18/2014,10,NO,3,,23.4,44,53,,HIGH,3.9,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/23/2014,10,NO,3,4.24,10.8,44,47,46,HIGH,4.25,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/21/2014,10,NO,3,2.4,16.4,44,50,41,HIGH,4.235,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/25/2014,9,YES,2.7,,,45,,,HIGH,4.01,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/28/2014,,,,3.21,13.4,,48,44,,,,,
+8189046,05/31/2015,10,NO,3,,20.2,44,51,,HIGH,2.05,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/22/2015,11,NO,3.3,2.24,17.7,43,50,41,HIGH,2.075,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/19/2015,9,NO,2.7,3.26,18.3,45,51,44,HIGH,1.975,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,08/31/2015,10,NO,3,4.47,17.3,44,50,46,HIGH,1.1,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,09/30/2015,10,NO,3,,,44,,,HIGH,2.125,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/21/2016,9,NO,2.7,5.41,20.2,45,51,48,HIGH,2.65,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,07/17/2016,,,,4.16,21.6,,52,46,,,,,
+8189046,08/22/2016,9,NO,2.7,4.2,22.4,45,52,46,HIGH,3.61,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,09/19/2016,10,NO,3,,,44,,,HIGH,3.35,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,10/06/2016,8,NO,2.4,,,47,,,HIGH,3.5,CLEAR,BLUE,2-Very minor aesthetic problems
+8189046,06/20/2017,12,NO,3.6,2.26,22.9,41,52,41,HIGH,2.825,CLEAR,BLUE,
+8189046,07/23/2017,,,,4.53,16.1,,50,46,,,,,
+8189046,08/28/2017,,,,4.6,10.3,,46,46,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/14/2001,3,FEET,85,DEGREES F,,
+07/14/2001,6,FEET,85,DEGREES F,,
+08/20/2001,3,FEET,75,DEGREES F,,
+08/20/2001,6,FEET,74,DEGREES F,,
+10/02/2001,3,FEET,60,DEGREES F,,
+10/02/2001,6,FEET,60,DEGREES F,,
+10/22/2001,3,FEET,48,DEGREES F,,
+10/22/2001,6,FEET,48,DEGREES F,,
+04/29/2002,3,FEET,46,DEGREES F,,
+04/29/2002,6,FEET,46,DEGREES F,,
+04/29/2002,9,FEET,46,DEGREES F,,
+07/08/2002,3,FEET,80,DEGREES F,,
+07/08/2002,6,FEET,79,DEGREES F,,
+08/12/2002,3,FEET,76,DEGREES F,,
+08/12/2002,6,FEET,76,DEGREES F,,
+09/13/2002,3,FEET,74,DEGREES F,,
+09/13/2002,6,FEET,74,DEGREES F,,
+10/01/2002,3,FEET,48,DEGREES F,,
+10/01/2002,6,FEET,48,DEGREES F,,
+06/09/2003,0,FEET,65,DEGREES F,6.8,MG/L
+06/09/2003,3,FEET,65,DEGREES F,7,MG/L
+06/09/2003,6,FEET,65,DEGREES F,7,MG/L
+06/09/2003,9,FEET,65,DEGREES F,6.7,MG/L
+06/16/2003,0,FEET,75,DEGREES F,7.3,MG/L
+06/16/2003,3,FEET,75,DEGREES F,8.7,MG/L
+06/16/2003,6,FEET,74,DEGREES F,8.7,MG/L
+06/16/2003,9,FEET,73,DEGREES F,1.2,MG/L
+06/30/2003,0,FEET,22,C,6.7,MG/L
+06/30/2003,3,FEET,22,C,6.7,MG/L
+06/30/2003,6,FEET,22,C,6.4,MG/L
+06/30/2003,9,FEET,21.5,C,7.2,MG/L
+07/14/2003,0,FEET,24,DEGREES C,3.5,MG/L
+07/14/2003,3,FEET,24,DEGREES C,3.5,MG/L
+07/14/2003,6,FEET,24,DEGREES C,3.5,MG/L
+07/14/2003,9,FEET,24,DEGREES C,3.5,MG/L
+07/28/2003,0,FEET,24.7,C,4.1,MG/L
+07/28/2003,3,FEET,24.8,C,4,MG/L
+07/28/2003,6,FEET,24.9,C,3.9,MG/L
+07/28/2003,9,FEET,25,C,3.9,MG/L
+08/11/2003,0,FEET,25.4,DEGREES C,7.26,MG/L
+08/11/2003,3,FEET,25.4,DEGREES C,7,MG/L
+08/11/2003,6,FEET,25.5,DEGREES C,6.8,MG/L
+08/11/2003,9,FEET,25.5,DEGREES C,6.55,MG/L
+08/25/2003,0,FEET,25.4,DEGREES C,6.78,MG/L
+08/25/2003,3,FEET,25.3,DEGREES C,6.35,MG/L
+08/25/2003,6,FEET,25.2,DEGREES C,6.6,MG/L
+08/25/2003,9,FEET,25,DEGREES C,6.2,MG/L
+09/08/2003,0,FEET,23.3,C,7.7,MG/L
+09/08/2003,3,FEET,22.8,C,7.48,MG/L
+09/08/2003,6,FEET,22.6,C,7.17,MG/L
+09/08/2003,9,FEET,22.5,C,6.75,MG/L
+09/22/2003,0,FEET,17.5,DEGREES C,7.8,MG/L
+09/22/2003,3,FEET,17.5,DEGREES C,7.35,MG/L
+09/22/2003,6,FEET,17.3,DEGREES C,7.44,MG/L
+09/22/2003,9,FEET,17.4,DEGREES C,7.35,MG/L
+10/05/2003,0,FEET,11,C,9.3,MG/L
+10/05/2003,3,FEET,10.7,C,9.07,MG/L
+10/05/2003,6,FEET,10.6,C,8.8,MG/L
+10/05/2003,9,FEET,10.5,C,8.6,MG/L
+10/20/2003,0,FEET,12.4,DEGREES C,9.5,MG/L
+10/20/2003,3,FEET,12.3,DEGREES C,9.35,MG/L
+10/20/2003,6,FEET,12.3,DEGREES C,9.35,MG/L
+10/20/2003,9,FEET,12.2,DEGREES C,8,MG/L
+05/18/2004,0,FEET,63,DEGREES F,5,MG/L
+05/18/2004,3,FEET,60,DEGREES F,5,MG/L
+05/18/2004,6,FEET,59.5,DEGREES F,,
+05/18/2004,9,FEET,60,DEGREES F,6,MG/L
+06/01/2004,0,FEET,60,DEGREES F,,
+06/01/2004,3,FEET,60,DEGREES F,6,MG/L
+06/01/2004,6,FEET,60,DEGREES F,,
+06/01/2004,9,FEET,60,DEGREES F,6,MG/L
+07/19/2004,0,FEET,78,DEGREES F,,
+07/19/2004,3,FEET,78,DEGREES F,5,MG/L
+07/19/2004,6,FEET,77,DEGREES F,,
+07/19/2004,9,FEET,77,DEGREES F,6,MG/L
+08/17/2004,0,FEET,69,DEGREES F,5,MG/L
+08/17/2004,3,FEET,68,DEGREES F,5,MG/L
+08/17/2004,6,FEET,68,DEGREES F,5,MG/L
+08/17/2004,9,FEET,68,DEGREES F,5,MG/L
+10/04/2004,0,FEET,56,DEGREES F,,
+10/04/2004,3,FEET,54,DEGREES F,8,MG/L
+10/04/2004,6,FEET,54,DEGREES F,,
+10/04/2004,9,FEET,53,DEGREES F,8,MG/L
+03/26/2005,0,FEET,1.2,DEGREES C,5,MG/L
+03/26/2005,3,FEET,3.8,DEGREES C,5.6,MG/L
+03/26/2005,6,FEET,3.9,DEGREES C,5.7,MG/L
+03/26/2005,9,FEET,3.9,DEGREES C,5.9,MG/L
+05/23/2005,0,FEET,15.3,DEGREES F,9.21,MG/L
+05/23/2005,3,FEET,15.3,DEGREES F,9,MG/L
+05/23/2005,6,FEET,15.1,DEGREES F,9.17,MG/L
+05/23/2005,9,FEET,15,DEGREES F,9,MG/L
+06/20/2005,0,FEET,23.8,DEGREES C,8.38,MG/L
+06/20/2005,3,FEET,23.8,DEGREES C,8.38,MG/L
+06/20/2005,6,FEET,23.7,DEGREES C,8.32,MG/L
+06/20/2005,9,FEET,23.7,DEGREES C,8.04,MG/L
+07/19/2005,0,FEET,25.4,DEGREES C,6.71,MG/L
+07/19/2005,3,FEET,25.9,DEGREES C,6.66,MG/L
+07/19/2005,6,FEET,26.1,DEGREES C,6.59,MG/L
+07/19/2005,9,FEET,26.5,DEGREES C,6.5,MG/L
+08/15/2005,0,FEET,24.7,DEGREES C,7.39,MG/L
+08/15/2005,3,FEET,24.6,DEGREES C,7.4,MG/L
+08/15/2005,6,FEET,24.6,DEGREES C,7.39,MG/L
+08/15/2005,9,FEET,24.4,DEGREES C,7.6,MG/L
+10/17/2005,0,FEET,12.3,DEGREES C,9.62,MG/L
+10/17/2005,3,FEET,12.3,DEGREES C,9.5,MG/L
+10/17/2005,6,FEET,12.3,DEGREES C,9.56,MG/L
+10/17/2005,9,FEET,12.3,DEGREES C,9.83,MG/L
+03/15/2006,0,FEET,1.8,DEGREES C,8.53,MG/L
+03/15/2006,3,FEET,2.6,DEGREES C,2.4,MG/L
+03/15/2006,6,FEET,3.2,DEGREES C,1.63,MG/L
+03/15/2006,9,FEET,3.4,DEGREES C,1.35,MG/L
+05/22/2006,0,FEET,16.2,DEGREES C,10.68,MG/L
+05/22/2006,3,FEET,16.2,DEGREES C,10.74,MG/L
+05/22/2006,6,FEET,16.2,DEGREES C,10.78,MG/L
+05/22/2006,9,FEET,16.4,DEGREES C,10.6,MG/L
+06/19/2006,0,FEET,25.9,DEGREES C,8.49,MG/L
+06/19/2006,3,FEET,26,DEGREES C,8.76,MG/L
+06/19/2006,6,FEET,26.1,DEGREES C,8.85,MG/L
+06/19/2006,9,FEET,26.7,DEGREES C,8.78,MG/L
+07/17/2006,0,FEET,28.7,DEGREES C,8.34,MG/L
+07/17/2006,3,FEET,28.7,DEGREES C,8.58,MG/L
+07/17/2006,6,FEET,28.7,DEGREES C,8.79,MG/L
+07/17/2006,9,FEET,28.8,DEGREES C,8.92,MG/L
+08/14/2006,0,FEET,24.9,DEGREES C,8.79,MG/L
+08/14/2006,3,FEET,24.9,DEGREES C,8.76,MG/L
+08/14/2006,6,FEET,25,DEGREES C,8.76,MG/L
+08/14/2006,9,FEET,26.5,DEGREES C,8.48,MG/L
+10/15/2006,0,FEET,6.5,DEGREES C,12.28,MG/L
+10/15/2006,3,FEET,6.6,DEGREES C,12.2,MG/L
+10/15/2006,6,FEET,6.7,DEGREES C,12.61,MG/L
+10/15/2006,9,FEET,6.8,DEGREES C,12.41,MG/L
+05/01/2007,0,FEET,16.6,DEGREES C,10.63,MG/L
+05/01/2007,3,FEET,16.6,DEGREES C,10.66,MG/L
+05/01/2007,6,FEET,16.5,DEGREES C,10.6,MG/L
+05/01/2007,9,FEET,16.3,DEGREES C,10.1,MG/L
+06/04/2007,0,FEET,21.9,DEGREES C,9.66,MG/L
+06/04/2007,3,FEET,21.8,DEGREES C,9.7,MG/L
+06/04/2007,6,FEET,21.8,DEGREES C,9.89,MG/L
+06/04/2007,8,FEET,21.8,DEGREES C,10.13,MG/L
+07/10/2007,0,FEET,26.6,DEGREES C,8.24,MG/L
+07/10/2007,3,FEET,26.7,DEGREES C,8.21,MG/L
+07/10/2007,6,FEET,26.7,DEGREES C,8.04,MG/L
+07/10/2007,7,FEET,26.8,DEGREES C,7.9,MG/L
+08/27/2007,0,FEET,23,DEGREES C,9.14,MG/L
+08/27/2007,3,FEET,23.1,DEGREES C,9.15,MG/L
+08/27/2007,6,FEET,23.2,DEGREES C,9.13,MG/L
+08/27/2007,8,FEET,23.4,DEGREES C,9.2,MG/L
+10/07/2007,0,FEET,19.6,DEGREES C,9.76,MG/L
+10/07/2007,3,FEET,19.7,DEGREES C,10.01,MG/L
+10/07/2007,6,FEET,20.1,DEGREES C,10.08,MG/L
+10/07/2007,9,FEET,20.7,DEGREES C,9.75,MG/L
+05/02/2008,0,FEET,13.3,DEGREES C,10.92,MG/L
+05/02/2008,3,FEET,13.3,DEGREES C,10.91,MG/L
+05/02/2008,6,FEET,13.2,DEGREES C,10.87,MG/L
+05/02/2008,9,FEET,13.2,DEGREES C,10.83,MG/L
+06/16/2008,0,FEET,17.7,DEGREES C,10.49,MG/L
+06/16/2008,3,FEET,17.6,DEGREES C,10.54,MG/L
+06/16/2008,6,FEET,17.3,DEGREES C,10.52,MG/L
+06/16/2008,9,FEET,17.1,DEGREES C,10.45,MG/L
+07/21/2008,0,FEET,24.4,DEGREES C,9.06,MG/L
+07/21/2008,3,FEET,24.3,DEGREES C,9.17,MG/L
+07/21/2008,6,FEET,24.3,DEGREES C,9.31,MG/L
+07/21/2008,9,FEET,24,DEGREES C,9.22,MG/L
+08/18/2008,0,FEET,25.8,DEGREES C,9.1,MG/L
+08/18/2008,3,FEET,25.7,DEGREES C,9.82,MG/L
+08/18/2008,6,FEET,26.8,DEGREES C,9.69,MG/L
+08/18/2008,9,FEET,26,DEGREES C,9.68,MG/L
+05/18/2009,0,FEET,14.7,DEGREES C,11.28,MG/L
+05/18/2009,3,FEET,14.6,DEGREES C,11.57,MG/L
+05/18/2009,6,FEET,14.6,DEGREES C,11.58,MG/L
+05/18/2009,9,FEET,14.6,DEGREES C,11.93,MG/L
+06/15/2009,0,FEET,23.6,DEGREES C,11.16,MG/L
+06/15/2009,3,FEET,23.9,DEGREES C,11.36,MG/L
+06/15/2009,6,FEET,25.2,DEGREES C,11.43,MG/L
+06/15/2009,8,FEET,26.9,DEGREES C,10.23,MG/L
+07/13/2009,0,FEET,23.9,DEGREES C,10.29,MG/L
+07/13/2009,3,FEET,24,DEGREES C,10.16,MG/L
+07/13/2009,6,FEET,24,DEGREES C,8.12,MG/L
+07/13/2009,8,FEET,24.3,DEGREES C,12.33,MG/L
+08/17/2009,0,FEET,23.8,DEGREES C,7.5,MG/L
+08/17/2009,3,FEET,23.7,DEGREES C,7.61,MG/L
+08/17/2009,6,FEET,23.6,DEGREES C,5.93,MG/L
+08/17/2009,8,FEET,23.5,DEGREES C,5.32,MG/L
+09/20/2009,0,FEET,22.8,DEGREES C,8.47,MG/L
+09/20/2009,3,FEET,22.8,DEGREES C,10.28,MG/L
+09/20/2009,6,FEET,22.8,DEGREES C,8.62,MG/L
+09/20/2009,7,FEET,22.7,DEGREES C,7.82,MG/L
+05/10/2010,0,FEET,12.2,DEGREES C,7.85,MG/L
+05/10/2010,3,FEET,12.1,DEGREES C,9.53,MG/L
+05/10/2010,6,FEET,12,DEGREES C,7.92,MG/L
+05/10/2010,7.5,FEET,12,DEGREES C,6.88,MG/L
+06/17/2010,0,FEET,22.3,DEGREES C,7.72,MG/L
+06/17/2010,3,FEET,22.2,DEGREES C,7.62,MG/L
+06/17/2010,6,FEET,21,DEGREES C,7.65,MG/L
+06/17/2010,7,FEET,21,DEGREES C,7.03,MG/L
+07/13/2010,0,FEET,25.5,DEGREES C,,
+07/13/2010,3,FEET,25.3,DEGREES C,,
+07/13/2010,6,FEET,25.2,DEGREES C,,
+07/13/2010,7,FEET,25.3,DEGREES C,,
+08/09/2010,0,FEET,26.8,DEGREES C,8.08,MG/L
+08/09/2010,3,FEET,26.8,DEGREES C,8.09,MG/L
+08/09/2010,6,FEET,26.8,DEGREES C,7.8,MG/L
+08/09/2010,7,FEET,26.9,DEGREES C,7.61,MG/L
+09/19/2010,0,FEET,14.6,DEGREES C,8.69,MG/L
+09/19/2010,3,FEET,14.2,DEGREES C,8.75,MG/L
+09/19/2010,6,FEET,14.2,DEGREES C,8.57,MG/L
+09/19/2010,8,FEET,14.2,DEGREES C,8.48,MG/L
+06/20/2011,0,FEET,19.7,DEGREES C,7.87,MG/L
+06/20/2011,3,FEET,19.6,DEGREES C,7.82,MG/L
+06/20/2011,6,FEET,19.4,DEGREES C,7.83,MG/L
+06/20/2011,9,FEET,19.2,DEGREES C,8.05,MG/L
+07/11/2011,0,FEET,28.6,DEGREES C,6.59,MG/L
+07/11/2011,3,FEET,28.7,DEGREES C,6.5,MG/L
+07/11/2011,6,FEET,28.9,DEGREES C,6.31,MG/L
+07/11/2011,9,FEET,29.4,DEGREES C,1.92,MG/L
+08/08/2011,0,FEET,26,DEGREES C,7.01,MG/L
+08/08/2011,3,FEET,26,DEGREES C,7.1,MG/L
+08/08/2011,6,FEET,25.9,DEGREES C,7.02,MG/L
+08/08/2011,9,FEET,25.8,DEGREES C,6.74,MG/L
+09/12/2011,0,FEET,24.7,DEGREES C,7.64,MG/L
+09/12/2011,3,FEET,25,DEGREES C,7.44,MG/L
+09/12/2011,6,FEET,25.6,DEGREES C,7.04,MG/L
+09/12/2011,9,FEET,26.6,DEGREES C,4.87,MG/L
+06/10/2012,0,FEET,24.6,DEGREES C,7.17,MG/L
+06/10/2012,3,FEET,24.6,DEGREES C,7.16,MG/L
+06/10/2012,6,FEET,24.4,DEGREES C,7.25,MG/L
+06/10/2012,8,FEET,24.5,DEGREES C,7.53,MG/L
+07/16/2012,0,FEET,27.8,DEGREES C,6.4,MG/L
+07/16/2012,3,FEET,27.8,DEGREES C,6.36,MG/L
+07/16/2012,6,FEET,27.8,DEGREES C,6.36,MG/L
+07/16/2012,8,FEET,27.9,DEGREES C,6.28,MG/L
+08/18/2012,0,FEET,21.4,DEGREES C,6.89,MG/L
+08/18/2012,3,FEET,21.3,DEGREES C,7.05,MG/L
+08/18/2012,6,FEET,21.2,DEGREES C,7.22,MG/L
+08/18/2012,8,FEET,21.2,DEGREES C,7.33,MG/L
+07/29/2013,0,FEET,20,DEGREES C,8.25,MG/L
+07/29/2013,3,FEET,19.9,DEGREES C,8.35,MG/L
+07/29/2013,6,FEET,19.8,DEGREES C,8.25,MG/L
+07/29/2013,9,FEET,19.8,DEGREES C,8.27,MG/L
+08/19/2013,0,FEET,23.5,DEGREES C,7.08,MG/L
+08/19/2013,3,FEET,23.4,DEGREES C,7.09,MG/L
+08/19/2013,6,FEET,23.5,DEGREES C,7.13,MG/L
+08/19/2013,8.5,FEET,23.5,DEGREES C,7.1,MG/L
+09/16/2013,0,FEET,20.1,DEGREES C,6.52,MG/L
+09/16/2013,3,FEET,20.1,DEGREES C,6.38,MG/L
+09/16/2013,6,FEET,20,DEGREES C,6.32,MG/L
+09/16/2013,8,FEET,20,DEGREES C,6.45,MG/L
+05/18/2014,0,FEET,13.8,DEGREES C,9.47,MG/L
+05/18/2014,3,FEET,13.7,DEGREES C,10.4,MG/L
+05/18/2014,6,FEET,13.8,DEGREES C,9.83,MG/L
+05/18/2014,9,FEET,13.9,DEGREES C,9.9,MG/L
+06/23/2014,0,FEET,23.8,DEGREES C,6.43,MG/L
+06/23/2014,3,FEET,23.7,DEGREES C,6.21,MG/L
+06/23/2014,6,FEET,23.5,DEGREES C,6.1,MG/L
+06/23/2014,9,FEET,23.3,DEGREES C,5.32,MG/L
+07/21/2014,0,FEET,24.4,DEGREES C,5.68,MG/L
+07/21/2014,3,FEET,24.4,DEGREES C,5.8,MG/L
+07/21/2014,6,FEET,24.4,DEGREES C,5.39,MG/L
+07/21/2014,9,FEET,24.5,DEGREES C,5.18,MG/L
+05/31/2015,0,FEET,18.8,DEGREES C,7.29,MG/L
+05/31/2015,3,FEET,18.8,DEGREES C,7.27,MG/L
+05/31/2015,6,FEET,18.8,DEGREES C,7.3,MG/L
+05/31/2015,9,FEET,18.9,DEGREES C,7.32,MG/L
+06/22/2015,0,FEET,23.7,DEGREES C,9.45,MG/L
+06/22/2015,3,FEET,23.6,DEGREES C,9.49,MG/L
+06/22/2015,6,FEET,23.6,DEGREES C,9.36,MG/L
+06/22/2015,9,FEET,23.2,DEGREES C,8.85,MG/L
+07/19/2015,0,FEET,25.3,DEGREES C,8.15,MG/L
+07/19/2015,3,FEET,25.3,DEGREES C,8.22,MG/L
+07/19/2015,6,FEET,25.3,DEGREES C,8.12,MG/L
+07/19/2015,9,FEET,25.3,DEGREES C,8.17,MG/L
+09/30/2015,0,FEET,18.2,DEGREES C,,
+09/30/2015,3,FEET,18.1,DEGREES C,,
+09/30/2015,6,FEET,18.1,DEGREES C,,
+09/30/2015,9,FEET,18.1,DEGREES C,,
+06/21/2016,0,FEET,24.3,DEGREES C,,
+06/21/2016,3,FEET,24.3,DEGREES C,,
+06/21/2016,6,FEET,24.2,DEGREES C,,
+06/21/2016,9,FEET,24.1,DEGREES C,,
+06/21/2016,12,FEET,24,DEGREES C,,
+08/22/2016,0,FEET,22.6,DEGREES C,7.5,MG/L
+08/22/2016,3,FEET,22.6,DEGREES C,7.55,MG/L
+08/22/2016,6,FEET,22.6,DEGREES C,8.4,MG/L
+08/22/2016,9,FEET,22.7,DEGREES C,8.55,MG/L
+09/19/2016,0,FEET,20.2,DEGREES C,7.9,MG/L
+09/19/2016,3,FEET,20.1,DEGREES C,8.22,MG/L
+09/19/2016,6,FEET,19.9,DEGREES C,8.7,MG/L
+09/19/2016,9,FEET,19.8,DEGREES C,9.21,MG/L
+10/06/2016,0,FEET,16.5,DEGREES C,9.11,MG/L
+10/06/2016,3,FEET,16.3,DEGREES C,8.77,MG/L
+10/06/2016,6,FEET,16.2,DEGREES C,9.73,MG/L
+10/06/2016,9,FEET,16.4,DEGREES C,11.36,MG/L
+06/20/2017,0,FEET,23,DEGREES C,7.65,MG/L
+06/20/2017,3,FEET,22.9,DEGREES C,7.88,MG/L
+06/20/2017,6,FEET,22,DEGREES C,9.2,MG/L
+06/20/2017,9,FEET,22.9,DEGREES C,8.9,MG/L
+06/20/2017,12,FEET,22.4,DEGREES C,8.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/10/2002,Cloudy
+
+    
+07/08/2002,18 mph north wind.  4.5 inches of rain in morning    
+08/12/2002,Cloudy- 10 mph west wind    
+09/13/2002,Calm- cloudy    
+10/01/2002,20 mph north wind    
+04/29/2003,SURFACE    
+06/09/2003,Little boat traffic over previous week    
+06/16/2003,Heavy boat usage previous week    
+07/14/2003,Overcast.  12 mph south wind.    
+08/11/2003,SURFACE    
+08/25/2003,Most algae in water that we have seen in 24 years.    
+09/08/2003,High amount of algae compared to past    
+10/20/2003,NORTH BASIN - SURFACE    
+05/18/2004,NORTH BASIN - SURFACE    
+06/01/2004,NORTH BASIN - SURFACE    
+07/19/2004,NORTH BASIN - SURFACE    
+08/17/2004,NORTH BASIN - SURFACE    
+10/04/2004,NORTH BASIN - SURFACE    
+05/23/2005,NORTH BASIN - INTEGRATED SAMPLE    
+06/20/2005,NORTH BASIN - INTEGRATED SAMPLE    
+07/18/2005,NORTH BASIN - INTEGRATED SAMPLE    
+08/15/2005,NORTH BASIN - INTEGRATED SAMPLE    
+10/17/2005,NORTH BASIN - INTEGRATED SAMPLE    
+07/10/2007,sw 25 mph wind
+06/16/2008,15 mph west wind
+07/13/2009,Conductivity  2' 104.3
+Boat Landing 2' 94.6-  Deepest Spot 2' 102.8
+08/17/2009,Conductivity
+
+feet
+0  100.3
+3  100.3
+6  100.5
+8  102.8
+09/20/2009,Conductivity    0'  102.8    3'  102.9  6'   102.9      7'   102.7
+05/10/2010,20 mph south wind
+Conductivity
+0 feet 105
+3 feet 107
+6 feet 101
+7.5 feet 101
+06/17/2010,Conductivity
+0' 97.9
+3' 98.9
+6' 100
+7' 105
+
+20 mph south wind
+07/13/2010,Conductivity
+0 feet  94.2
+3 feet 93.9
+6 feet 93.1
+7 feet 93.1
+08/09/2010,Conductivity
+0 feet 86.0
+3 feet 86.0
+6 feet 86.4
+7 feet 87.1
+09/19/2010,Conductivity
+0 feet   83.7
+3 feet   77.0
+6 feet   77.9
+8 feet   77.9
+06/20/2011,Conductivity
+0 feet 83.2- 3 feet 83.2- 6 feet 83.2- 9 feet 83.4
+07/11/2011,100 MPH WIND STORM JULY 1.  THUNDERSTORM LAST NIGHT
+Conductivity:  0' 86.0- 3' 85.8- 6' 86.2- 9' 85.6
+08/08/2011,Conductivity
+0' 78.9
+3' 78.9
+6' 78.9
+9' 78.6
+09/12/2011,Conductivitiy
+0 feet  81.5
+3 feet 81.2
+6 feet  81.5
+9 feet 81.6
+06/10/2012,Conductivity
+0 feet 90.3
+3 feet 90.1
+6 feet 89.6
+8 feet 89.3
+07/16/2012,Conductivity
+0 feet  86.6
+3 feet  86.6
+6 feet 86.6
+8 feet 86.4
+07/29/2013,Conductivity
+0 feet  87.5
+3 feet 87.7
+6 feet 87.7
+9 feet 87.7 Conductivity
+0 feet  87.5
+3 feet 87.7
+6 feet 87.7
+9 feet 87.7
+09/16/2013,Conductivity
+0 feet  90
+3 feet 89.5
+6 feet 89.5
+8 feet 89.2
+05/18/2014,Conductivity
+0 feet 84.1
+3 feet 84.3
+6 feet 84.5
+9 84.5
+07/21/2014,Conductivity
+0 feet 77.1
+3 feet 77.5
+6 feet 77.8
+9 feet 77.5
+08/25/2014,Conductivity
+0 feet 79.5
+3 feet 79.5
+6 feet 79.5
+9 feet 79.3 
+05/31/2015,Conductivity
+0 feet 82.4
+3 feet 83.0
+6 feet 82.8
+9 feet 82.7
+06/22/2015,Conductivity
+0 feet  84.9
+3 feet  85.3
+6 feet  86.1
+9 feet  85.6
+
+
+
+
+Start Date,Group Name,Project Name
+06/12/2001,Barry Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/30/2001,Barry And Arlene Borman and Robert Weerts,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/14/2001,Barry And Arlene Borman and Robert Weerts,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/30/2001,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/20/2001,Barry And Arlene Borman and Robert Weerts,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/31/2001,Barry And Arlene Borman and Robert Weerts,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/02/2001,Barry Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/22/2001,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+04/29/2002,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/10/2002,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/08/2002,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/12/2002,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/13/2002,Barry + Arlene Borman- Robert Lee- Robert Weerts,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/01/2002,Barry + Arlene Borman- Robert Lee- Robert Weerts,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+04/29/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/09/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/16/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/30/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/14/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/28/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/11/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/25/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/08/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/22/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/05/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/20/2003,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/18/2004,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/01/2004,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/19/2004,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/17/2004,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/04/2004,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+03/26/2005,Tom Schneiberg,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/23/2005,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/20/2005,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/18/2005,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/19/2005,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/15/2005,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/17/2005,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+03/15/2006,Tom Schneiberg,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/22/2006,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/19/2006,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/17/2006,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/14/2006,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/15/2006,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/01/2007,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/04/2007,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/10/2007,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/27/2007,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/07/2007,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/02/2008,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/12/2008,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/16/2008,Barry Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/16/2008,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/21/2008,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/21/2008,Barry and Arlene Borman- Mary and Chuck Speerschneider,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/18/2008,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/18/2008,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/17/2009,Barry Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/18/2009,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/15/2009,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; East Basin
+06/15/2009,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/13/2009,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/13/2009,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/17/2009,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/20/2009,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/10/2010,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/15/2010,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/17/2010,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/13/2010,Barry and Arlene Borman- Al Streff,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/09/2010,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/09/2010,Barry and Arlene Borman- Mary and Chuck Speerschneider,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/19/2010,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/16/2011,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/20/2011,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/20/2011,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/11/2011,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/11/2011,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/08/2011,Al Streff- Dick Kirby- Barry and Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/08/2011,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/12/2011,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/21/2012,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/10/2012,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/16/2012,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/18/2012,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/18/2012,Kris and Mark Landis,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/29/2013,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/19/2013,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/16/2013,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/18/2014,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; East Basin
+05/18/2014,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/23/2014,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/21/2014,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/25/2014,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/28/2014,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+05/31/2015,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/22/2015,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/19/2015,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/31/2015,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/30/2015,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/21/2016,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/17/2016,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/22/2016,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+09/19/2016,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+10/06/2016,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+06/20/2017,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+07/23/2017,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin
+08/28/2017,Barry And Arlene Borman,Citizen Lake Monitoring - Water Quality - Birch Island Lake; North Basin

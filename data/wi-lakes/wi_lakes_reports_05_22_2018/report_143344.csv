@@ -1,0 +1,27 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sinissippi Lake (Hustisford),Dodge,859900,SC,14,,143344,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/13/2007,,,,259,,,,77,,,,,
+1,09/20/2007,,,,102,,,,70,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2007,Data Collectors,Lake Sinsissippi - Hustisford Ski Club Dock
+08/13/2007,Data Collectors,Pathogen Monitoring on Inland Beaches
+09/20/2007,Data Collectors,ISS MISC

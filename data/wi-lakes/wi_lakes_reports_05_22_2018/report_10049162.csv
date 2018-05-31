@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Saint Croix,2450500,WC,56,,10049162,SW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+10589084,07/21/2017,11.5,NO,3.5,,,42,,,,,,,
+10589084,09/21/2017,11.5,NO,3.5,5.76,21.2,42,52,48,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/21/2017,1,METERS,25.56,DEGREES C,9.11,MG/L
+07/21/2017,2,METERS,25.39,DEGREES C,9.23,MG/L
+07/21/2017,3,METERS,25.17,DEGREES C,9.28,MG/L
+07/21/2017,4,METERS,25.16,DEGREES C,9.21,MG/L
+07/21/2017,5,METERS,23.63,DEGREES C,8.35,MG/L
+07/21/2017,6,METERS,20.58,DEGREES C,8.65,MG/L
+07/21/2017,7,METERS,16.51,DEGREES C,8.67,MG/L
+07/21/2017,8,METERS,13.01,DEGREES C,2.55,MG/L
+07/21/2017,9,METERS,11.24,DEGREES C,.97,MG/L
+09/21/2017,0,METERS,20.4,DEGREES C,9.88,MG/L
+09/21/2017,1,METERS,20.3,DEGREES C,9.83,MG/L
+09/21/2017,2,METERS,20.17,DEGREES C,9.93,MG/L
+09/21/2017,3,METERS,20.12,DEGREES C,9.83,MG/L
+09/21/2017,4,METERS,20.02,DEGREES C,9.66,MG/L
+09/21/2017,5,METERS,19.85,DEGREES C,9.47,MG/L
+09/21/2017,6,METERS,19.3,DEGREES C,8.15,MG/L
+09/21/2017,7,METERS,15.57,DEGREES C,3.72,MG/L
+09/21/2017,8,METERS,16.6,DEGREES C,1.03,MG/L
+09/21/2017,9,METERS,15.32,DEGREES C,.5,MG/L
+09/21/2017,10,METERS,11.56,DEGREES C,.34,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/21/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/21/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)

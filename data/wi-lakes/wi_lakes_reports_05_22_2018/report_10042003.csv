@@ -1,0 +1,106 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Washburn,2470000,NO,66,,10042003,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+99991843,06/16/2014,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/02/2014,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,07/18/2014,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,08/20/2014,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,06/11/2015,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/29/2015,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,08/29/2015,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,06/05/2016,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,06/20/2016,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/15/2016,15.75,NO,4.8,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,08/27/2016,13.5,NO,4.1,,,40,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99991843,09/25/2016,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/16/2014,0,FEET,71,DEGREES F,,
+06/16/2014,5,FEET,68.7,DEGREES F,,
+06/16/2014,10,FEET,68,DEGREES F,,
+06/16/2014,15,FEET,67.8,DEGREES F,,
+06/16/2014,20,FEET,67.5,DEGREES F,,
+07/02/2014,1,FEET,73.1,DEGREES F,,
+07/02/2014,5,FEET,72.1,DEGREES F,,
+07/02/2014,10,FEET,70.7,DEGREES F,,
+07/02/2014,15,FEET,70.1,DEGREES F,,
+07/02/2014,20,FEET,69.8,DEGREES F,,
+07/18/2014,1,FEET,75,DEGREES F,,
+07/18/2014,5,FEET,73.9,DEGREES F,,
+07/18/2014,10,FEET,73.5,DEGREES F,,
+07/18/2014,15,FEET,71.6,DEGREES F,,
+07/18/2014,20,FEET,71.4,DEGREES F,,
+08/20/2014,1,FEET,72.8,DEGREES F,,
+08/20/2014,5,FEET,72.5,DEGREES F,,
+08/20/2014,10,FEET,72.3,DEGREES F,,
+08/20/2014,15,FEET,72.3,DEGREES F,,
+08/20/2014,20,FEET,71.9,DEGREES F,,
+06/11/2015,1,FEET,77.6,DEGREES F,,
+06/11/2015,5,FEET,75.9,DEGREES F,,
+06/11/2015,10,FEET,75.5,DEGREES F,,
+06/11/2015,15,FEET,73.7,DEGREES F,,
+06/11/2015,20,FEET,68.7,DEGREES F,,
+07/29/2015,1,FEET,79.7,DEGREES F,,
+07/29/2015,5,FEET,78.8,DEGREES F,,
+07/29/2015,10,FEET,77.1,DEGREES F,,
+07/29/2015,15,FEET,73.8,DEGREES F,,
+07/29/2015,20,FEET,68.9,DEGREES F,,
+08/29/2015,1,FEET,69.6,DEGREES F,,
+08/29/2015,5,FEET,69,DEGREES F,,
+08/29/2015,10,FEET,67.4,DEGREES F,,
+08/29/2015,15,FEET,65.6,DEGREES F,,
+08/29/2015,20,FEET,65.4,DEGREES F,,
+06/05/2016,1,FEET,66.2,DEGREES F,,
+06/05/2016,5,FEET,66,DEGREES F,,
+06/05/2016,10,FEET,65.8,DEGREES F,,
+06/05/2016,15,FEET,65.4,DEGREES F,,
+06/05/2016,20,FEET,65.3,DEGREES F,,
+06/20/2016,1,FEET,76.2,DEGREES F,,
+06/20/2016,5,FEET,76.7,DEGREES F,,
+06/20/2016,10,FEET,73.5,DEGREES F,,
+06/20/2016,15,FEET,72.3,DEGREES F,,
+06/20/2016,20,FEET,72.3,DEGREES F,,
+07/15/2016,1,FEET,73.8,DEGREES F,,
+07/15/2016,5,FEET,72.9,DEGREES F,,
+07/15/2016,10,FEET,72.5,DEGREES F,,
+07/15/2016,15,FEET,72.3,DEGREES F,,
+07/15/2016,20,FEET,72,DEGREES F,,
+08/27/2016,1,FEET,72.7,DEGREES F,,
+08/27/2016,5,FEET,72.5,DEGREES F,,
+08/27/2016,10,FEET,72.3,DEGREES F,,
+08/27/2016,15,FEET,72.2,DEGREES F,,
+08/27/2016,20,FEET,71.8,DEGREES F,,
+09/25/2016,1,FEET,72.6,DEGREES F,,
+09/25/2016,5,FEET,72.2,DEGREES F,,
+09/25/2016,10,FEET,72.1,DEGREES F,,
+09/25/2016,15,FEET,71.8,DEGREES F,,
+09/25/2016,20,FEET,71.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/16/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/02/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/18/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/20/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/11/2015,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/29/2015,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/29/2015,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/05/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/20/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/15/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/27/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/25/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole

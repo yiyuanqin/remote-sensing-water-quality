@@ -1,0 +1,162 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Killarney Lake,Oneida,1520900,NO,44,,443117,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/01/1979,,,,,,,,,,,,,
+8190332,06/12/1996,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190332,07/03/1996,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189672,08/20/1996,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,
+8189672,09/29/1996,2.5,NO,0.8,,,64,,,,,,,
+8189672,10/12/1996,2.75,NO,0.8,,,63,,,DOWN 1',,,,
+8188599,04/25/2003,3,NO,0.9,,,61,,,,,,,
+7000012,08/18/2003,,,,10.9,,,,53,,,,,
+8188599,08/18/2003,2,NO,0.6,,,67,,,,,,,
+8190291,08/20/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/30/2006,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/05/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/10/2007,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/22/2007,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/30/2007,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/21/2007,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/29/2007,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/11/2007,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/30/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/22/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/07/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/20/2008,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/28/2008,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/10/2008,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/20/2008,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/31/2008,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/12/2008,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/12/2009,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/17/2009,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/04/2009,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/23/2009,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/12/2009,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/23/2009,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/01/2009,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/13/2009,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/20/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/20/2010,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,06/30/2010,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190291,07/19/2010,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190291,08/22/2010,1.5,NO,0.5,,,71,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190291,09/01/2010,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190291,06/25/2012,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/08/2012,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190291,08/11/2012,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/28/2012,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/14/2012,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/29/2012,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/11/2013,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,07/29/2013,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190291,08/16/2013,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,08/30/2013,2.75,NO,0.8,,,63,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190291,09/16/2013,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+121848619,05/27/2017,2.75,NO,0.8,,,63,,,NORMAL,12,CLEAR,BROWN,1-Beautiful, could not be nicer
+121848619,06/27/2017,1.5,NO,0.5,,,71,,,NORMAL,12,MURKY,BROWN,1-Beautiful, could not be nicer
+121848619,07/02/2017,2.5,NO,0.8,,,64,,,NORMAL,12 ,MURKY,BROWN,1-Beautiful, could not be nicer
+121848619,07/14/2017,2.25,NO,0.7,,,65,,,NORMAL,12,MURKY,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/01/1979,,,22,C,,
+04/25/2003,0,FEET,9.5,DEGREES C,10.45,MG/L
+04/25/2003,1,FEET,9.4,DEGREES C,10.42,MG/L
+04/25/2003,3,FEET,9.4,DEGREES C,10.34,MG/L
+04/25/2003,6,FEET,6.8,DEGREES C,9.95,MG/L
+04/25/2003,9,FEET,6.2,DEGREES C,9.96,MG/L
+08/18/2003,0,FEET,25.2,DEGREES C,5.35,MG/L
+08/18/2003,3,FEET,25,DEGREES C,5.11,MG/L
+08/18/2003,6,FEET,22.3,DEGREES C,1.58,MG/L
+08/18/2003,9,FEET,20.4,DEGREES C,1.22,MG/L
+08/18/2003,11,FEET,18.5,DEGREES C,1.13,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/01/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/20/1996,Dissolved Oxygen. 9ppm (at what depth )    
+10/12/1996,Erosion due to lake level up + down.    
+04/25/2003,DEEP HOLE - GRAB SAMPLE    
+08/18/2003,DEEP HOLE - INTEGRATED SAMPLER    
+06/10/2007,Ice out 4/3/2007
+07/29/2007,Brown stain in water was darker and more concentrated.
+08/11/2007,Brown stain darker and concentrated.
+06/12/2009,ice out 4/14/2009.
+09/20/2009,Lake froze over 12/4/2009.
+06/30/2010,Water seemed to be a deeper brown color.
+07/19/2010,water color still very dark.
+09/01/2010,water color got darker as the summer went on.
+05/27/2017,Partly cloudy- lake had a slight chop.
+06/27/2017,Sunny- 63 degrees- 6mph wnw- lake temperature 63 degrees. Female deer and osprey seen.
+07/02/2017,Water temperature 71- winds wsw 5 to 10 mph- sunny
+07/14/2017,Partly cloudy- water temperature 70 degrees- wind N 7 MPH
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/1979,Data Collectors,Migrated from STORET Legacy
+06/12/1996,Gene Kolden,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/03/1996,Gene Kolden,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/20/1996,Gene Kolden And Jack Lewis,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/29/1996,Gene Kolden And Jack Lewis,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+10/12/1996,Gene Kolden And Jack Lewis,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+04/25/2003,Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+08/18/2003,Cathy Cleland,Lake Baseline Monitoring- DNR (1970s-2006)
+08/18/2003,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/20/2006,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/30/2006,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/05/2006,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/10/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/22/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/30/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/21/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/29/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/11/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/30/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/22/2007,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/07/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/20/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/28/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/10/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/20/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/31/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/12/2008,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/12/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/17/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/04/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/23/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/12/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/23/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/01/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/13/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/20/2009,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/20/2010,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/30/2010,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/19/2010,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/22/2010,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/01/2010,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/25/2012,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/08/2012,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/11/2012,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/28/2012,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/14/2012,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/29/2012,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/11/2013,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/29/2013,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/16/2013,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+08/30/2013,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+09/16/2013,Richard Jahns,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+05/27/2017,Brian Hager,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+06/27/2017,Brian Hager,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/02/2017,Brian Hager,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole
+07/14/2017,Brian Hager,Citizen Lake Monitoring - Water Quality - Killarney Lake (1520900)- Deep Hole

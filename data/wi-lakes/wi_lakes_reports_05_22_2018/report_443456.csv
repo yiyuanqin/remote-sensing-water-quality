@@ -1,0 +1,37 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sweeny Lake,Oneida,1589600,NO,44,,443456,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/30/2000,,,,,62,,60,,,,,,
+1,04/25/2001,4,,1.2,39,,57,,62,,,,,
+145711549,07/12/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/25/2001,,,9.9,C,10.5,MG/L
+07/12/2017,2,FEET,78.9,DEGREES F,8.95,MG/L
+07/12/2017,4,FEET,78.2,DEGREES F,9.05,MG/L
+07/12/2017,6,FEET,75.4,DEGREES F,9.3,MG/L
+07/12/2017,8,FEET,74.3,DEGREES F,9.11,MG/L
+07/12/2017,10,FEET,70.4,DEGREES F,6.32,MG/L
+07/12/2017,12,FEET,66.7,DEGREES F,.81,MG/L
+
+
+
+Start Date,Fieldwork Comment
+04/25/2001,@ MAX DEPTH    
+07/12/2017,Location of deep hole on Oneida County GIS. Conditions were sunny- calm- and a greenish water color.
+
+
+
+
+Start Date,Group Name,Project Name
+08/30/2000,Data Collectors,General Surface Water Monitoring 1999-2001
+04/25/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+07/12/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

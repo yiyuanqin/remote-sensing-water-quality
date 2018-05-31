@@ -1,0 +1,134 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Watersmeet Lake,Vilas,1599400,NO,64,,10028838,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+61713229,05/14/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,05/26/2012,3,,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,06/04/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,06/12/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/06/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/14/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/31/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+61713229,08/16/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+61713229,10/01/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+61713229,10/15/2012,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+61713229,06/30/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/09/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/17/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,08/02/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+61713229,08/19/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,08/25/2013,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,06/10/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,06/17/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+61713229,06/25/2014,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+61713229,07/02/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/10/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,07/21/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61713229,08/04/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+61713229,08/21/2014,5,YES,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+145979919,06/21/2017,3.1,NO,0.9,6.33,54.6,61,59,49,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145979919,07/19/2017,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145979919,07/27/2017,3.5,NO,1.1,11.8,52.8,59,59,53,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145979919,08/28/2017,,,,11,42.8,,57,53,,,,,
+145979919,08/29/2017,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/21/2017,1,FEET,64.8,DEGREES F,,
+06/21/2017,2,FEET,64.4,DEGREES F,,
+06/21/2017,3,FEET,65.6,DEGREES F,,
+06/21/2017,4,FEET,65.1,DEGREES F,,
+06/21/2017,5,FEET,63.5,DEGREES F,,
+06/21/2017,6,FEET,63.1,DEGREES F,,
+07/19/2017,1,FEET,72.8,DEGREES F,,
+07/19/2017,2,FEET,72.6,DEGREES F,,
+07/19/2017,3,FEET,72.1,DEGREES F,,
+07/19/2017,4,FEET,71.6,DEGREES F,,
+07/19/2017,5,FEET,71.2,DEGREES F,,
+07/19/2017,6,FEET,70.8,DEGREES F,,
+07/19/2017,7,FEET,70.5,DEGREES F,,
+07/19/2017,8,FEET,70.5,DEGREES F,,
+07/19/2017,9,FEET,69.8,DEGREES F,,
+07/27/2017,1,FEET,74.6,DEGREES F,,
+07/27/2017,2,FEET,73.2,DEGREES F,,
+07/27/2017,3,FEET,71.9,DEGREES F,,
+07/27/2017,4,FEET,70.3,DEGREES F,,
+07/27/2017,5,FEET,69.6,DEGREES F,,
+07/27/2017,6,FEET,69.4,DEGREES F,,
+08/29/2017,1,FEET,66.9,DEGREES F,,
+08/29/2017,2,FEET,66.3,DEGREES F,,
+08/29/2017,3,FEET,62,DEGREES F,,
+08/29/2017,4,FEET,61.7,DEGREES F,,
+08/29/2017,5,FEET,61.3,DEGREES F,,
+08/29/2017,6,FEET,61.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/14/2012,partly cloudy
+1 Loon observed
+05/26/2012,mostly sunny- holiday weekend-there has been a lot of boat traffic
+assisted by Diane Overturf
+06/04/2012,mostly clouidy-hazy-calm
+06/12/2012,Sunshine- clear- small waves
+2 families of geese observed
+accompanied by Helen Overturf
+07/06/2012,clear and sunshine- holiday week with considerable boat traffic
+accompanied by Diane Overturf and Trena Gonzales
+07/14/2012,mostly cloudy- small waves
+observed 2 Loons near site
+accompanied by Helen Overfturf
+10/15/2012,Sunshine- slight chop
+Lastr report for 2012- putting boat up for winter
+07/17/2013,clear skies- some wind small waves
+08/25/2013,Full sun- windy-
+considerable floarting weeds from weekend boat activity
+Flock of 12 geese swimming on the lake
+06/25/2014,cloudy- slight breeze and small waves- heavy rain this morning cloudy-slight breeze and small waves- heavy rain this morning
+07/02/2014,Sunshine- windy- moderate waves
+07/21/2014,partly cloudy-calm- considerable boat traffic
+06/21/2017,Calm- partly sunny- loon w/2 chicks- no boats
+07/27/2017,Sunny- Clear- no clouds- no boats
+4 loons
+08/29/2017,Green material on lake surface.  Probably from inversion.
+
+
+
+
+Start Date,Group Name,Project Name
+05/14/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+05/26/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/04/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/12/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/06/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/14/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/31/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/16/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+10/01/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+10/15/2012,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/30/2013,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/09/2013,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/17/2013,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/02/2013,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/19/2013,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/25/2013,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/10/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/17/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/25/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/25/2014,Harvey Overturf,Ice Observations on Watersmeet Lake- Vilas County
+07/02/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/10/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/21/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/04/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/21/2014,Harvey Overturf,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+06/21/2017,Dan Newitt,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/19/2017,Dan Newitt,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+07/27/2017,Dan Newitt,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/28/2017,Dan Newitt,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle
+08/29/2017,Dan Newitt,Citizen Lake Monitoring - Water Quality - Watersmeet Lake - Middle

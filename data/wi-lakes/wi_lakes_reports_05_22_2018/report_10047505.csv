@@ -1,0 +1,54 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Crystal Lake,Marquette,157300,NE,39,,10047505,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+136292525,05/30/2016,6.5,NO,2,,,50,,,NORMAL,50,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+136292525,06/08/2016,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+136292525,06/19/2016,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+136292525,07/26/2016,30,NO,9.1,,,28,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+136292525,08/30/2016,30,NO,9.1,,,28,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+136292525,04/08/2017,6,,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+136292525,05/14/2017,14,,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+136292525,06/02/2017,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+136292525,07/05/2017,8,NO,2.4,,,47,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+136292525,08/15/2017,5,NO,1.5,,,54,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+136292525,09/29/2017,7,NO,2.1,,,49,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/08/2016,Lake appeared to turn green and visilbility was very poor; a very unusual condition for this lake!  Concern was voiced from many residents and a water sample was sent in.  The diagnosis was diatoms.  The question is- what caused this?
+06/19/2016,Water clarity is slowly improving.
+07/26/2016,Water has cleared up beautifully!
+08/30/2016,Gorgeous!!  Ran out of rope on the secchi disk at 30 ft.
+04/08/2017,Sunny and windy
+05/14/2017,Sunny- windy
+06/02/2017,blue sky- sunny and calm
+07/05/2017,mild wind- sunny- water is cloudy
+08/15/2017,sunny- slight breeze
+09/29/2017,sunny- gentle wind
+
+
+
+
+Start Date,Group Name,Project Name
+05/30/2016,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+06/08/2016,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+06/19/2016,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+07/26/2016,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+08/30/2016,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+04/08/2017,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+05/14/2017,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+06/02/2017,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+07/05/2017,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+08/15/2017,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake
+09/29/2017,Nancy Collopy,Citizen Lake Monitoring - Water Quality - Crystal Lake - Center of Lake

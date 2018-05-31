@@ -1,0 +1,31 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spice Lake,Oconto,445900,NE,43,,10044628,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18137035,09/08/2015,0.5,N,0.2,,,87,,,,,,,
+125862804,06/16/2016,1.6,N,0.5,,,64,,,,,,,
+18137035,06/21/2017,3,N,0.9,,,61,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/08/2015,,,24.4,C,,
+06/16/2016,,,21.2,C,10.4,MG/L
+06/21/2017,,,20.9,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/08/2015,Brenda Nordin,HAB Response Monitoring 2015-present
+06/16/2016,Brenda L Nordin- TRAVIS J KINNING,Spice Lake area lakes contamination investigation - East_3_CMP16
+06/21/2017,Brenda Nordin,Response Monitoring

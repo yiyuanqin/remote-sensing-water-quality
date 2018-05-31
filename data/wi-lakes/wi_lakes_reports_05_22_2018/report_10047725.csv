@@ -1,0 +1,57 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+McKeith Lake,Polk,2481500,NO,49,,10047725,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+49230085,07/19/2017,,,,33.5,84.3,,62,61,,,,,
+145711494,07/19/2017,3.375,NO,1,,,60,,,,,,,
+145711494,08/14/2017,,,,40.3,85.3,,63,63,,,,,
+146987459,08/14/2017,2,NO,0.6,,,67,,,,,,,
+49230085,09/12/2017,,,,104,150,,67,70,,,,,
+120155598,09/12/2017,1.5,NO,0.5,,,71,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/19/2017,0,METERS,26.49,DEGREES C,10.65,MG/L
+07/19/2017,1,METERS,25.49,DEGREES C,9.39,MG/L
+07/19/2017,2,METERS,24.24,DEGREES C,6.95,MG/L
+07/19/2017,3,METERS,20.88,DEGREES C,0,MG/L
+07/19/2017,4,METERS,15.19,DEGREES C,0,MG/L
+07/19/2017,5,METERS,12.26,DEGREES C,0,MG/L
+08/14/2017,0,METERS,22.14,DEGREES C,9.29,MG/L
+08/14/2017,1,METERS,21.65,DEGREES C,7.02,MG/L
+08/14/2017,2,METERS,21.27,DEGREES C,0,MG/L
+08/14/2017,3,METERS,19.75,DEGREES C,0,MG/L
+08/14/2017,4,METERS,14.36,DEGREES C,0,MG/L
+08/14/2017,5,METERS,12.53,DEGREES C,0,MG/L
+09/12/2017,0,METERS,21.48,DEGREES C,16.61,MG/L
+09/12/2017,1,METERS,18.99,DEGREES C,10.07,MG/L
+09/12/2017,2,METERS,18.42,DEGREES C,5.45,MG/L
+09/12/2017,3,METERS,17.8,DEGREES C,2.38,MG/L
+09/12/2017,4,METERS,17.48,DEGREES C,0,MG/L
+09/12/2017,5,METERS,14.14,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/19/2017, July 19th 2017. 70% cloud cover- breeze- 80oF- KA-JW-CS- 1:!10pm Depth 5.1m- 45.56590 -92.64000
+08/14/2017,8/14/17-KA-CS- Depth 17.2ft 5.2 m- 12:51- 90% cloud cover- calm- 63oF- filtered 200ml- chem 1 to 1:04
+
+09/12/2017,9/12/17- KA/DC- depth 16.5ft- cloud cover 0%- sunny- slight breeze- 78?F- chem 2:45 to 2:47pm- filtered 100 ml
+
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/2017,Katelin Anderson and Jeremy Williamson,Directed Lakes 2017 Smith
+07/19/2017,Katelin Anderson- Jeremy Williamson- Colton Sorensen,Directed Lakes 2017 Smith
+08/14/2017,Katelin Anderson- Colton Sorensen,Directed Lakes 2017 Smith
+08/14/2017,Katelin Anderson- Jeremy Williamson- Colton Sorensen,Directed Lakes 2017 Smith
+09/12/2017,Katelin Anderson and Dane Christenson,Directed Lakes 2017 Smith
+09/12/2017,Katelin Anderson and Jeremy Williamson,Directed Lakes 2017 Smith

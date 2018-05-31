@@ -1,0 +1,42 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Squaw Lake,Oneida,2271600,NO,44,,643457,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189973,04/20/1999,4,NO,1.2,,,57,,,,,MURKY,BROWN,
+8189973,06/21/1999,3.75,NO,1.1,,,58,,,,,MURKY,BROWN,
+8189973,07/28/1999,3.25,NO,1,,,60,,,,,MURKY,BROWN,
+8189973,08/26/1999,3,NO,0.9,,,61,,,,,MURKY,BROWN,
+8189973,05/26/2000,4,NO,1.2,,,57,,,,,,,
+8189973,07/10/2000,4,NO,1.2,,,57,,,,,,,
+8189973,10/04/2000,2.5,NO,0.8,,,64,,,,,,,
+84047414,08/17/2016,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+04/20/1999,Very light wind- 40 deg F.    
+06/21/1999,Clear- sunny- light south breeze. 62 deg F.    
+07/28/1999,Sunny- breezy. Heavier than usual weed growth in shallows    
+08/26/1999,75 deg F- light breeze- heavy aquatic plant growth in shallows    
+
+
+
+
+Start Date,Group Name,Project Name
+04/20/1999,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+06/21/1999,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+07/28/1999,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+08/26/1999,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+05/26/2000,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+07/10/2000,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+10/04/2000,Jeffrey Zanski,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay
+08/17/2016,Diane Borcherding,Citizen Lake Monitoring - Water Quality - Squaw Lake; Site B South Bay

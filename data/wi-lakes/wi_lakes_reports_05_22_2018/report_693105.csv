@@ -1,0 +1,40 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Ottman Lake,Waupaca,264500,NE,69,,693105,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/04/1992,,,,,11,,47,,,,,,
+1,09/28/1992,,,,31.7,300,,72,61,,,,,
+1,02/03/1993,,,,,,,,,,,,,
+8190880,05/03/1994,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190880,08/02/1994,14.5,NO,4.4,,,39,,,,,,,1-Beautiful, could not be nicer
+1,07/13/2016,7.2,NO,2.2,3.14,24.1,49,53,43,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/28/1992,,,13.07,C,6.21,MG/L
+02/03/1993,,,4.06,C,4.17,MG/L
+07/13/2016,,,25.7,C,7.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+02/04/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/04/1992,Data Collectors,LAKE MGT PROJECTS
+09/28/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+09/28/1992,Data Collectors,LAKE MGT PROJECTS
+02/03/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/03/1993,Data Collectors,LAKE MGT PROJECTS
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Ottman Lake - Deep Hole
+08/02/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Ottman Lake - Deep Hole
+07/13/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning

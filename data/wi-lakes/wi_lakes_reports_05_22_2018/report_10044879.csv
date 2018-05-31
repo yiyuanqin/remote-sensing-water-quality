@@ -1,0 +1,46 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Barron,2103900,NO,3,,10044879,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+62771356,05/11/2016,,,,,,,,,,,,,
+62771356,05/12/2016,,,,,,,,,,,,,
+62771356,05/14/2016,,,,,,,,,,,,,
+62771356,05/16/2016,,,,,,,,,,,,,
+62771356,05/18/2016,,,,,,,,,,,,,
+62771356,05/25/2016,,,,,,,,,,,,,
+62771356,06/01/2016,,,,,,,,,,,,,
+62771356,06/08/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/11/2016,,,14.7,C,,
+05/12/2016,,,16.0,C,,
+05/14/2016,,,12.8,C,,
+05/16/2016,,,13.2,C,,
+05/18/2016,,,15.0,C,,
+05/25/2016,,,20.7,C,,
+06/01/2016,,,20.2,C,,
+06/08/2016,,,18.4,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/11/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+05/12/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+05/14/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+05/16/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+05/18/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+05/25/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+06/01/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring
+06/08/2016,Jeff Smith and Dennis Trigg,Herbicide Concentration Monitoring

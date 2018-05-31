@@ -1,0 +1,121 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Eau Claire Lake,Eau Claire,2133200,WC,18,,10043734,SW,DRAINAGE
+Eau Claire River,Eau Claire,2125600,WC,18,,10043734,SW,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+10589084,06/24/2015,,,,14.9,109,,64,55,,,,,
+10589084,07/08/2015,1.6,N,0.5,19.5,106,70,64,57,,,,,
+10589084,07/23/2015,1,,0.3,54.3,152,77,67,65,,,,,
+10589084,08/04/2015,2.5,N,0.75,60.5,139,64,66,66,,,,,
+10589084,08/17/2015,,,,65.9,143,,67,66,,,,,
+10589084,09/01/2015,3.3,,1,11.4,86.4,60,63,53,,,,,
+10589084,06/22/2016,1.5,NO,0.5,2.73,106,71,64,42,,,,,
+10589084,07/05/2016,,,,3.2,86.4,,63,44,,,,,
+10589084,07/19/2016,2.5,NO,0.8,16.8,116,64,65,56,,,,,
+10589084,08/02/2016,,,,22.7,128,,66,58,,,,,
+10589084,08/16/2016,2.5,NO,0.8,3.16,140,64,66,43,,,,,
+10589084,08/29/2016,2.5,NO,0.8,9.43,121,64,65,52,,,,,
+10589084,09/12/2016,,,,5.98,133,,66,48,,,,,
+10589084,09/13/2016,1.5,NO,0.5,,,71,,,,,,,
+10589084,06/24/2015,,,,14.9,109,,64,55,,,,,
+10589084,07/08/2015,1.6,N,0.5,19.5,106,70,64,57,,,,,
+10589084,07/23/2015,1,,0.3,54.3,152,77,67,65,,,,,
+10589084,08/04/2015,2.5,N,0.75,60.5,139,64,66,66,,,,,
+10589084,08/17/2015,,,,65.9,143,,67,66,,,,,
+10589084,09/01/2015,3.3,,1,11.4,86.4,60,63,53,,,,,
+10589084,06/22/2016,1.5,NO,0.5,2.73,106,71,64,42,,,,,
+10589084,07/05/2016,,,,3.2,86.4,,63,44,,,,,
+10589084,07/19/2016,2.5,NO,0.8,16.8,116,64,65,56,,,,,
+10589084,08/02/2016,,,,22.7,128,,66,58,,,,,
+10589084,08/16/2016,2.5,NO,0.8,3.16,140,64,66,43,,,,,
+10589084,08/29/2016,2.5,NO,0.8,9.43,121,64,65,52,,,,,
+10589084,09/12/2016,,,,5.98,133,,66,48,,,,,
+10589084,09/13/2016,1.5,NO,0.5,,,71,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/04/2015,,,21.99,C,6.36,MG/L
+06/22/2016,0,METERS,23.22,DEGREES C,7.28,MG/L
+06/22/2016,1,METERS,23.16,DEGREES C,7.24,MG/L
+06/22/2016,2,METERS,22.9,DEGREES C,7.38,MG/L
+06/22/2016,3,METERS,21.12,DEGREES C,6.96,MG/L
+07/19/2016,0,METERS,25.3,DEGREES C,12.61,MG/L
+07/19/2016,1,METERS,24.72,DEGREES C,11.1,MG/L
+07/19/2016,2,METERS,22.75,DEGREES C,7.88,MG/L
+07/19/2016,3,METERS,22.23,DEGREES C,5.6,MG/L
+08/16/2016,0,METERS,21.73,DEGREES C,7.98,MG/L
+08/16/2016,1,METERS,21.58,DEGREES C,6.33,MG/L
+08/16/2016,2,METERS,21.37,DEGREES C,5.81,MG/L
+08/16/2016,3,METERS,21.04,DEGREES C,5.11,MG/L
+08/29/2016,0,METERS,21.77,DEGREES C,8,MG/L
+08/29/2016,1,METERS,20.45,DEGREES C,7.02,MG/L
+08/29/2016,2,METERS,19.54,DEGREES C,6.93,MG/L
+09/13/2016,0,METERS,19.06,DEGREES C,7.96,MG/L
+09/13/2016,1,METERS,19.01,DEGREES C,7.85,MG/L
+09/13/2016,2,METERS,18.81,DEGREES C,7.84,MG/L
+09/13/2016,3,METERS,17.93,DEGREES C,6.3,MG/L
+08/04/2015,,,21.99,C,6.36,MG/L
+06/22/2016,0,METERS,23.22,DEGREES C,7.28,MG/L
+06/22/2016,1,METERS,23.16,DEGREES C,7.24,MG/L
+06/22/2016,2,METERS,22.9,DEGREES C,7.38,MG/L
+06/22/2016,3,METERS,21.12,DEGREES C,6.96,MG/L
+07/19/2016,0,METERS,25.3,DEGREES C,12.61,MG/L
+07/19/2016,1,METERS,24.72,DEGREES C,11.1,MG/L
+07/19/2016,2,METERS,22.75,DEGREES C,7.88,MG/L
+07/19/2016,3,METERS,22.23,DEGREES C,5.6,MG/L
+08/16/2016,0,METERS,21.73,DEGREES C,7.98,MG/L
+08/16/2016,1,METERS,21.58,DEGREES C,6.33,MG/L
+08/16/2016,2,METERS,21.37,DEGREES C,5.81,MG/L
+08/16/2016,3,METERS,21.04,DEGREES C,5.11,MG/L
+08/29/2016,0,METERS,21.77,DEGREES C,8,MG/L
+08/29/2016,1,METERS,20.45,DEGREES C,7.02,MG/L
+08/29/2016,2,METERS,19.54,DEGREES C,6.93,MG/L
+09/13/2016,0,METERS,19.06,DEGREES C,7.96,MG/L
+09/13/2016,1,METERS,19.01,DEGREES C,7.85,MG/L
+09/13/2016,2,METERS,18.81,DEGREES C,7.84,MG/L
+09/13/2016,3,METERS,17.93,DEGREES C,6.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/24/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+07/08/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+07/23/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+08/04/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+08/17/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+09/01/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+06/22/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+07/05/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+07/19/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+08/02/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+08/16/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+08/29/2016,Jodi Lepsch,2-4-D LABORATORY BENCH SCALE STUDIES  
+08/29/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+09/12/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+09/13/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+06/24/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+07/08/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+07/23/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+08/04/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+08/17/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+09/01/2015,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring - WCR_06_CMP15
+06/22/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+07/05/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+07/19/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+08/02/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+08/16/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+08/29/2016,Jodi Lepsch,2-4-D LABORATORY BENCH SCALE STUDIES  
+08/29/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+09/12/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016
+09/13/2016,Jodi Lepsch,Lake Eau Claire Evaluation Monitoring - Lake Management Plan implementation monitoring 2016

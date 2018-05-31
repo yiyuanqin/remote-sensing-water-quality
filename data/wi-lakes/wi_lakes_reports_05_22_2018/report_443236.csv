@@ -1,0 +1,172 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Paradise Lake,Oneida,1009400,NO,44,,443236,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/27/1979,,,,,,,,,,,,,
+8191339,06/08/2005,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,
+8191307,06/10/2005,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,06/17/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191339,07/06/2005,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,
+8191307,07/09/2005,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191339,07/15/2005,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,
+8191307,07/16/2005,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,07/17/2005,12.5,NO,3.8,1.8,,41,,39,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191339,08/01/2005,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,
+8191307,08/05/2005,18,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,08/10/2005,18,NO,5.5,2.49,16,35,50,42,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191339,08/17/2005,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,
+8191339,09/09/2005,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,
+8191339,09/27/2005,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,
+8191307,10/29/2005,14,NO,4.3,3.98,14,39,49,45,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,05/27/2006,,,,,,,,,,,,,
+8191307,05/29/2006,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,06/16/2006,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,07/06/2006,14.5,NO,4.4,1.01,,39,,35,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,08/04/2006,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,10/27/2006,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,05/27/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,06/25/2007,13,NO,4,2.19,,40,,41,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,07/30/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191307,08/13/2007,20,NO,6.1,,,34,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,09/01/2007,,,,1.61,6,,42,38,,,,,
+8191307,06/21/2008,17,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,07/06/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,07/31/2008,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191307,09/01/2008,17.5,NO,5.3,,,36,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+145711549,07/19/2017,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/27/1979,,,21,C,,
+07/17/2005,3,FEET,80,DEGREES F,7,MG/L
+07/17/2005,6,FEET,80,DEGREES F,7,MG/L
+07/17/2005,9,FEET,79.8,DEGREES F,6,MG/L
+07/17/2005,12,FEET,78.9,DEGREES F,7,MG/L
+07/17/2005,15,FEET,77,DEGREES F,7,MG/L
+07/17/2005,20,FEET,69,DEGREES F,7,MG/L
+07/17/2005,25,FEET,60,DEGREES F,8,MG/L
+08/10/2005,3,FEET,76.3,DEGREES F,7,MG/L
+08/10/2005,6,FEET,76.3,DEGREES F,7,MG/L
+08/10/2005,9,FEET,75.4,DEGREES F,8,MG/L
+10/29/2005,3,FEET,50.2,DEGREES F,7,MG/L
+10/29/2005,6,FEET,50.4,DEGREES F,7,MG/L
+10/29/2005,9,FEET,50.2,DEGREES F,7,MG/L
+05/29/2006,3,FEET,65.3,DEGREES F,8,MG/L
+05/29/2006,6,FEET,64.7,DEGREES F,8,MG/L
+05/29/2006,9,FEET,58.6,DEGREES F,8,MG/L
+05/29/2006,12,FEET,56.4,DEGREES F,8,MG/L
+05/29/2006,15,FEET,55.5,DEGREES F,9,MG/L
+05/29/2006,20,FEET,54.8,DEGREES F,9,MG/L
+05/29/2006,25,FEET,53.2,DEGREES F,9,MG/L
+05/29/2006,30,FEET,51.8,DEGREES F,9,MG/L
+07/06/2006,3,FEET,75,DEGREES F,8,MG/L
+07/06/2006,6,FEET,73.4,DEGREES F,8,MG/L
+07/06/2006,9,FEET,73,DEGREES F,,
+07/06/2006,12,FEET,72.8,DEGREES F,8,MG/L
+07/06/2006,15,FEET,72.5,DEGREES F,,
+07/06/2006,20,FEET,64.2,DEGREES F,9,MG/L
+07/06/2006,25,FEET,58.8,DEGREES F,9,MG/L
+07/06/2006,30,FEET,52.5,DEGREES F,9,MG/L
+10/27/2006,3,FEET,45.5,DEGREES F,,
+10/27/2006,6,FEET,44.9,DEGREES F,,
+10/27/2006,9,FEET,44.9,DEGREES F,,
+10/27/2006,12,FEET,44.9,DEGREES F,,
+10/27/2006,15,FEET,44.7,DEGREES F,,
+10/27/2006,20,FEET,44.4,DEGREES F,,
+10/27/2006,25,FEET,44.2,DEGREES F,,
+10/27/2006,30,FEET,44,DEGREES F,,
+06/25/2007,3,FEET,73.4,DEGREES F,,
+06/25/2007,6,FEET,72.8,DEGREES F,,
+06/25/2007,9,FEET,72.6,DEGREES F,,
+06/25/2007,12,FEET,72.3,DEGREES F,,
+06/25/2007,15,FEET,70.5,DEGREES F,,
+06/25/2007,20,FEET,62.9,DEGREES F,,
+06/25/2007,25,FEET,55.2,DEGREES F,,
+06/25/2007,30,FEET,48.9,DEGREES F,,
+06/25/2007,35,FEET,46,DEGREES F,,
+07/19/2017,2,FEET,76.1,DEGREES F,8.21,MG/L
+07/19/2017,4,FEET,75.5,DEGREES F,8.24,MG/L
+07/19/2017,6,FEET,75.2,DEGREES F,8.23,MG/L
+07/19/2017,8,FEET,75.1,DEGREES F,8.23,MG/L
+07/19/2017,10,FEET,75,DEGREES F,8.09,MG/L
+07/19/2017,12,FEET,74.3,DEGREES F,8.25,MG/L
+07/19/2017,14,FEET,71.8,DEGREES F,8.69,MG/L
+07/19/2017,16,FEET,68.2,DEGREES F,9.36,MG/L
+07/19/2017,18,FEET,64.5,DEGREES F,9.65,MG/L
+07/19/2017,20,FEET,60.7,DEGREES F,8.02,MG/L
+07/19/2017,22,FEET,57.8,DEGREES F,6.23,MG/L
+07/19/2017,24,FEET,56.1,DEGREES F,3.67,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/27/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/08/2005,Bright- sunny.  Light breeze.    
+06/10/2005,Sunny- breezy- no boats    
+06/17/2005,Sunny- slight breeze    
+07/06/2005,Sunny- light breeze    
+07/09/2005,Slight breeze    
+07/15/2005,Bright- sunny.  Light breeze.    
+07/16/2005,Sunny- moderate breeze    
+07/17/2005,DEEP HOLE - INTEGRATED SAMPLE    
+08/05/2005,Breezy- sunny- 1 ski boat    
+08/10/2005,Breezy- sunny    
+08/17/2005,Bright sun- calm    
+09/09/2005,Sunny- light breeze    
+09/27/2005,Sunny- light breeze    
+10/29/2005,Breezy- sunny    
+05/29/2006,slight breeze- two kayaks on lake
+06/16/2006,windy- ducks on lake- partly cloudy- heard loons on lake
+07/06/2006,very calm- after am thunderstorm- 2 ducks
+08/04/2006,sunny- slight breeze- one motor boat- one kayak
+10/27/2006,very calm- sunny
+05/27/2007,slight breeze sunny slight breeze sunny slight breeze sunny slight breeze sunny slight breeze- sunny
+06/25/2007,slight breeze- 2 motorboats
+07/30/2007,windy quiet
+08/13/2007,calm-sunny
+07/31/2008,slight breeze- no  boats
+09/01/2008,slight breeze- one fishing boat
+07/19/2017,Deep hole location on Oneida County GIS. Conditions were sunny- calm- and the water was clear.
+
+
+
+
+Start Date,Group Name,Project Name
+08/27/1979,Data Collectors,Migrated from STORET Legacy
+06/08/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+06/10/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+06/17/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/06/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/09/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/15/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/16/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/17/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+08/01/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+08/05/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+08/10/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+08/17/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+09/09/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+09/27/2005,Fred Roediger- Jr.,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+10/29/2005,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+05/27/2006,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+05/29/2006,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+06/16/2006,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/06/2006,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+08/04/2006,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+10/27/2006,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+05/27/2007,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+06/25/2007,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/30/2007,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+08/13/2007,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+09/01/2007,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+06/21/2008,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/06/2008,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/31/2008,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+09/01/2008,Theresa Hasken,Citizen Lake Monitoring - Water Quality - Paradise Lake; Deep Hole
+07/19/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

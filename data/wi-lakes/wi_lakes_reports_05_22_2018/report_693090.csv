@@ -1,0 +1,67 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Nessling Lake,Waupaca,265200,NE,69,,693090,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/22/1992,24.3,,7.4,4.81,70,31,61,47,,,,,
+1,02/02/1993,,,,,8,,44,,,,,,
+1,05/20/1993,,,,4.7,20,,51,46,,,,,
+1,08/17/1993,,,,4.94,9,,45,47,,,,,
+1,10/06/1993,,,,6.91,8,,44,49,,,,,
+1,01/24/1994,,,,,18,,51,,,,,,
+1,05/03/1994,27.9,,8.5,6.79,12,29,47,49,,,,,
+8190880,05/03/1994,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/03/1994,,,,4.78,6,,42,47,,,,,
+8190880,08/03/1994,8,NO,2.4,,,47,,,,,,,1-Beautiful, could not be nicer
+1,09/22/1994,,,,3.62,6,,42,45,,,,,
+8190880,09/22/1994,8,NO,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/26/2016,4.6,N,1.4,0.831,11.3,55,47,33,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/22/1992,,,17.00,C,0.59,MG/L
+02/02/1993,,,2.18,C,0.33,MG/L
+05/20/1993,,,14.75,C,11.1,MG/L
+08/17/1993,,,24.43,C,0.14,MG/L
+10/06/1993,,,12.49,C,0.69,MG/L
+01/24/1994,,,1.25,C,11.5,MG/L
+05/03/1994,,,6.88,C,12.2,MG/L
+08/03/1994,,,23.65,C,0.33,MG/L
+09/22/1994,,,21.30,C,0.49,MG/L
+07/26/2016,,,27.6,C,6.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/22/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+09/22/1992,Data Collectors,LAKE MGT PROJECTS
+02/02/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+02/02/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/17/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+08/17/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/06/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+10/06/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/24/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+01/24/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Nessling Lake - Deep Hole - Waupaca Co
+08/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+08/03/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Nessling Lake - Deep Hole - Waupaca Co
+09/22/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Middle Chain O'Lakes Management Planning
+09/22/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/22/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Nessling Lake - Deep Hole - Waupaca Co
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning

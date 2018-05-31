@@ -1,0 +1,79 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Shawano Lake,Shawano,322800,NE,59,,593145,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191217,06/29/2004,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191217,07/10/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191217,08/15/2004,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191217,10/10/2004,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191217,07/16/2005,15.75,NO,4.8,,,37,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191217,08/27/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191217,09/24/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191217,07/07/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191217,08/05/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191217,07/01/2007,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191217,07/15/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7000126,09/14/2014,,,,7.89,28.2,,54,50,,,,,
+1,05/26/2016,,,,,,,,,,,,,
+1,05/27/2016,,,,,,,,,,,,,
+1,05/29/2016,,,,,,,,,,,,,
+1,05/31/2016,,,,,,,,,,,,,
+1,06/07/2016,,,,,,,,,,,,,
+1,06/14/2016,,,,,,,,,,,,,
+1,06/28/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/26/2016,,,19.0,C,,
+05/27/2016,,,19.9,C,,
+05/29/2016,,,19.4,C,,
+05/31/2016,,,20.5,C,,
+06/07/2016,,,19.2,C,,
+06/14/2016,,,20.4,C,,
+06/28/2016,,,22.7,C,,
+
+
+
+Start Date,Fieldwork Comment
+06/29/2004,Sunny day- few clouds.  Light wind.  Water depth 40 ft. on depth finder.  1 fisherman within 50 yards.    
+07/10/2004,Heavy boat traffic - sunny- no clouds- calm wind.    
+08/15/2004,Calm - no wind - blue sky - no clouds - pontoon plane landed and took off several times.  Chopped weeds on top of water from heavy boat traffic.    
+10/10/2004,5 boats in area (1 fishing).  Water is calm.  Blue sky.  Leaves on trees are turning - 75% turned   Marking fish at 11-12 ft. down.  Lat/long for samples taken this season: N 44 48.683- W88 29.353    
+07/16/2005,Sunny- blue sky- variable wind- moderate boat activity- surface temp of water was 83.6 degrees. Saw 4 duck families of 4 each    
+08/27/2005,Sunny blue sky (rain storm last night) lot of algae in the water- surface temp. is 73.4    
+09/24/2005,Surface temp is 68.6    
+07/07/2006,sunny- clear/ water surface temp 77.5 F
+08/05/2006,cloudy- overcast / water temp 80.5 F / lots of algae present / wind 5-10 mph as per radio
+07/01/2007,There area  few boats in motion as well as some anchored fishing.  Water temp (surface) 74.6 degrees/ 36 ft deep 
+07/15/2007,Partly cloudy
+Moderate # of boats/ water surface temp 72.5 F / 38.3 ft of water
+
+
+
+
+Start Date,Group Name,Project Name
+06/29/2004,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+07/10/2004,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+08/15/2004,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+10/10/2004,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+07/16/2005,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+08/27/2005,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+09/24/2005,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+07/07/2006,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+08/05/2006,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+07/01/2007,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+07/15/2007,John + Mona Durben,Citizen Lake Monitoring - Water Quality - Shawano Lake; East Central Part Of Lake
+09/14/2014,STEVEN GREB,Optical  Properties of WI Lakes 2011 - 
+05/26/2016,Data Collectors,Herbicide Concentration Monitoring
+05/27/2016,Data Collectors,Herbicide Concentration Monitoring
+05/29/2016,Data Collectors,Herbicide Concentration Monitoring
+05/31/2016,Data Collectors,Herbicide Concentration Monitoring
+06/07/2016,Data Collectors,Herbicide Concentration Monitoring
+06/14/2016,Data Collectors,Herbicide Concentration Monitoring
+06/28/2016,Data Collectors,Herbicide Concentration Monitoring

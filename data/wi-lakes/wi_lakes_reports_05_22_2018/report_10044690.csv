@@ -1,0 +1,43 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Shawano Lake,Shawano,322800,NE,59,,10044690,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/26/2016,,,,,,,,,,,,,
+1,05/27/2016,,,,,,,,,,,,,
+1,05/29/2016,,,,,,,,,,,,,
+1,05/31/2016,,,,,,,,,,,,,
+1,06/07/2016,,,,,,,,,,,,,
+1,06/14/2016,,,,,,,,,,,,,
+1,06/28/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/26/2016,,,18.3,C,,
+05/27/2016,,,19.4,C,,
+05/29/2016,,,19.9,C,,
+05/31/2016,,,21.0,C,,
+06/07/2016,,,18.5,C,,
+06/14/2016,,,20.0,C,,
+06/28/2016,,,22.3,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/26/2016,Data Collectors,Herbicide Concentration Monitoring
+05/27/2016,Data Collectors,Herbicide Concentration Monitoring
+05/29/2016,Data Collectors,Herbicide Concentration Monitoring
+05/31/2016,Data Collectors,Herbicide Concentration Monitoring
+06/07/2016,Data Collectors,Herbicide Concentration Monitoring
+06/14/2016,Data Collectors,Herbicide Concentration Monitoring
+06/28/2016,Data Collectors,Herbicide Concentration Monitoring

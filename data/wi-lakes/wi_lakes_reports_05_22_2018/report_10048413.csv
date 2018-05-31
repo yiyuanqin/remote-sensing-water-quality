@@ -1,0 +1,72 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Shay Lake,Oconto,456765,NE,43,,10048413,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+146202512,09/16/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146202512,07/11/2017,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146202512,08/02/2017,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146202512,08/14/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146202512,09/03/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/16/2002,3,FEET,73.2,DEGREES F,,
+09/16/2002,6,FEET,69.8,DEGREES F,,
+09/16/2002,9,FEET,68.3,DEGREES F,,
+09/16/2002,12,FEET,66.9,DEGREES F,,
+09/16/2002,15,FEET,66,DEGREES F,,
+09/16/2002,18,FEET,65.4,DEGREES F,,
+09/16/2002,21,FEET,65.3,DEGREES F,,
+09/16/2002,24,FEET,65.1,DEGREES F,,
+07/11/2017,3,FEET,78.6,DEGREES F,,
+07/11/2017,6,FEET,76.8,DEGREES F,,
+07/11/2017,9,FEET,75,DEGREES F,,
+07/11/2017,12,FEET,68,DEGREES F,,
+07/11/2017,15,FEET,62.2,DEGREES F,,
+07/11/2017,18,FEET,60.2,DEGREES F,,
+07/11/2017,21,FEET,59.7,DEGREES F,,
+07/11/2017,24,FEET,59.7,DEGREES F,,
+08/02/2017,3,FEET,78.8,DEGREES F,,
+08/02/2017,6,FEET,79.5,DEGREES F,,
+08/02/2017,9,FEET,79.3,DEGREES F,,
+08/02/2017,12,FEET,78,DEGREES F,,
+08/02/2017,15,FEET,75.9,DEGREES F,,
+08/02/2017,18,FEET,66.5,DEGREES F,,
+08/02/2017,21,FEET,57.2,DEGREES F,,
+08/02/2017,24,FEET,53.6,DEGREES F,,
+08/14/2017,3,FEET,74.3,DEGREES F,,
+08/14/2017,6,FEET,73.5,DEGREES F,,
+08/14/2017,9,FEET,72.8,DEGREES F,,
+08/14/2017,12,FEET,71.9,DEGREES F,,
+08/14/2017,15,FEET,69,DEGREES F,,
+08/14/2017,18,FEET,68.3,DEGREES F,,
+08/14/2017,21,FEET,68,DEGREES F,,
+08/14/2017,24,FEET,67.8,DEGREES F,,
+09/03/2017,3,FEET,69.8,DEGREES F,,
+09/03/2017,6,FEET,69,DEGREES F,,
+09/03/2017,9,FEET,68.3,DEGREES F,,
+09/03/2017,12,FEET,67.8,DEGREES F,,
+09/03/2017,15,FEET,67.6,DEGREES F,,
+09/03/2017,18,FEET,67.6,DEGREES F,,
+09/03/2017,21,FEET,67.6,DEGREES F,,
+09/03/2017,24,FEET,67.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/16/2002,Carmen Brown,Citizen Lake Monitoring - Water Quality - Shay Lake- Deep Hole
+07/11/2017,Carmen Brown,Citizen Lake Monitoring - Water Quality - Shay Lake- Deep Hole
+08/02/2017,Carmen Brown,Citizen Lake Monitoring - Water Quality - Shay Lake- Deep Hole
+08/14/2017,Carmen Brown,Citizen Lake Monitoring - Water Quality - Shay Lake- Deep Hole
+09/03/2017,Carmen Brown,Citizen Lake Monitoring - Water Quality - Shay Lake- Deep Hole

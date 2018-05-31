@@ -1,0 +1,40 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Chute Pond,Oconto,462520,NE,43,,10047736,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/19/2017,,,,,,,,,,,,,
+1,05/20/2017,,,,,,,,,,,,,
+1,05/21/2017,,,,,,,,,,,,,
+1,05/22/2017,,,,,,,,,,,,,
+1,05/24/2017,,,,,,,,,,,,,
+1,05/26/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/19/2017,,,13.3,C,,
+05/20/2017,,,11.5,C,,
+05/21/2017,,,11.0,C,,
+05/22/2017,,,13.0,C,,
+05/24/2017,,,12.6,C,,
+05/26/2017,,,15,C,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/19/2017,Data Collectors,Herbicide Concentration Monitoring
+05/20/2017,Data Collectors,Herbicide Concentration Monitoring
+05/21/2017,Data Collectors,Herbicide Concentration Monitoring
+05/22/2017,Data Collectors,Herbicide Concentration Monitoring
+05/24/2017,Data Collectors,Herbicide Concentration Monitoring
+05/26/2017,Data Collectors,Herbicide Concentration Monitoring

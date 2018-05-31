@@ -1,0 +1,93 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Vance Lake,Vilas,2327300,NO,64,,643573,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188694,09/15/2003,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,10/01/2003,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,04/16/2004,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,05/14/2004,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,06/06/2004,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,07/14/2004,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,08/20/2004,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,09/18/2004,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,09/27/2004,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,04/18/2005,10,NO,3,,,44,,,LOW,.3,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,05/04/2005,10,NO,3,,,44,,,LOW,.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,06/01/2005,14.5,NO,4.4,,,39,,,LOW,.1,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,07/06/2005,10.5,NO,3.2,,,43,,,LOW,.1,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,09/22/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,10/16/2005,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,04/15/2006,13,NO,4,,,40,,,LOW,3,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,05/22/2006,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,08/21/2006,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,06/20/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,08/22/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,08/12/2010,8,,2.4,,,47,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+8188694,06/15/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,07/15/2011,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,08/15/2011,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,04/10/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,07/10/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188694,08/21/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/28/2017,6.6,N,2,5.87,18.8,50,51,48,,,,,
+1,07/27/2017,9.1,N,2.8,5.26,19.3,45,51,47,,,,,
+1,08/28/2017,9.4,N,2.9,5.67,13.9,45,49,48,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/28/2017,,,18.7,C,8.6,MG/L
+07/27/2017,,,22.8,C,7.2,MG/L
+08/28/2017,,,19.4,C,7.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/15/2003,1st day after first rain in 3 weeks.    
+10/01/2003,Dam opened for one week has raised water level.    
+04/16/2004,first day after ice out    
+09/27/2004,water being released from uper chain    
+04/18/2005,10 days after ice out- Water low due to raising of dam to fill upper chain of lakes.    
+05/04/2005,Eagle soaring over lake.    
+10/16/2005,Two weeks after lowering of dam to draw down upper chain.    
+08/12/2010,High water after much rain this summer
+
+
+
+
+Start Date,Group Name,Project Name
+09/15/2003,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+10/01/2003,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+04/16/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+05/14/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+06/06/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+07/14/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+08/20/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+09/18/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+09/27/2004,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+04/18/2005,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+05/04/2005,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+06/01/2005,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+07/06/2005,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+09/22/2005,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+10/16/2005,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+04/15/2006,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+05/22/2006,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+08/21/2006,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+06/20/2008,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+08/22/2008,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+08/12/2010,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+06/15/2011,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+07/15/2011,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+08/15/2011,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+04/10/2012,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+07/10/2012,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+08/21/2012,Tom Erickson,Citizen Lake Monitoring - Water Quality - Vance Lake; Deep Hole
+06/28/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+07/27/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+08/28/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V

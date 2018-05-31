@@ -1,0 +1,79 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Beckman Lake ,Green,894700,SC,23,,233117,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+129895738,08/04/2016,,,,9.15,49.7,,58,52,,,,,
+131162509,08/04/2016,4,NO,1.2,,,57,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129895738,08/18/2016,,,,4.9,23.2,,53,47,,,,,
+131162509,08/18/2016,6.5,NO,2,,,50,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+79510873,08/30/2016,9.8,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+129895738,08/30/2016,,,,9.24,25.6,,53,52,,,,,
+145143798,07/20/2017,4.75,NO,1.4,17.9,30.3,55,55,57,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+145143798,08/03/2017,,,,20.2,31,,55,58,,,,,
+146145687,08/03/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+145143798,08/17/2017,,,,10.2,29.9,,54,52,,,,,
+146145687,08/17/2017,6.92,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/04/2016,0,METERS,28,DEGREES C,11.32,MG/L
+08/04/2016,1,METERS,27.9,DEGREES C,11.5,MG/L
+08/04/2016,2,METERS,27.5,DEGREES C,12.27,MG/L
+08/18/2016,0,METERS,27,DEGREES C,10.5,MG/L
+08/18/2016,1,METERS,27.1,DEGREES C,10.7,MG/L
+08/18/2016,2,METERS,26.9,DEGREES C,6.5,MG/L
+08/18/2016,3,METERS,24.9,DEGREES C,1.6,MG/L
+08/30/2016,0,METERS,27.5,DEGREES C,8.34,MG/L
+08/30/2016,1,METERS,25.8,DEGREES C,5.75,MG/L
+08/30/2016,2,METERS,25.1,DEGREES C,2.32,MG/L
+08/30/2016,3,METERS,24.3,DEGREES C,1.18,MG/L
+08/30/2016,4,METERS,22.4,DEGREES C,.25,MG/L
+07/20/2017,0,METERS,26.6,DEGREES C,,
+07/20/2017,1,METERS,25.9,DEGREES C,,
+07/20/2017,2,METERS,25.5,DEGREES C,,
+07/20/2017,3,METERS,22.3,DEGREES C,,
+07/20/2017,4,METERS,20.7,DEGREES C,,
+08/03/2017,0,METERS,25.1,DEGREES C,,
+08/03/2017,1,METERS,25.1,DEGREES C,,
+08/03/2017,2,METERS,24,DEGREES C,,
+08/03/2017,3,METERS,21,DEGREES C,,
+08/03/2017,4,METERS,19.7,DEGREES C,,
+08/17/2017,0,METERS,23.6,DEGREES C,9.31,MG/L
+08/17/2017,1,METERS,23.6,DEGREES C,9.48,MG/L
+08/17/2017,2,METERS,22.5,DEGREES C,9,MG/L
+08/17/2017,3,METERS,20.4,DEGREES C,2.38,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/04/2016,Water level was low based on visual assessment; Meter not calibrated before monitoring. Took data at 42.58276- -89.77316 measured at 7 feet per rake.
+08/18/2016,Although the water was murky at the deep hole- the water was clear everywhere else in the lake. Deephole measured at 10.9; 47.58191- -89.775571; DO meter not calibrated before monitoring
+08/30/2016,Data Collectors:  Katie Hein and Camryn Kluetmeier (volunteer); 10.9' at 42.58191- -89.775571
+
+07/20/2017,Additional Collector: Taylor Steager.
+YSI probe was reading negative values for DO. So there are no measurements for DO.
+07/20/2017,YSI meter was reading negative values for DO.
+08/03/2017,No DO profile due to meter reading negative values.
+Data collectors: Taylor Steager- Anna Rzchowski
+
+
+
+
+Start Date,Group Name,Project Name
+08/04/2016,ALISON M KUHNE- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/04/2016,Jeanne S Scherer- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/18/2016,ALISON M KUHNE- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/18/2016,Jeanne S Scherer- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+08/30/2016,CATHERINE HEIN,Directed Lakes 2016 Graham
+08/30/2016,Jeanne S Scherer- REBECCA E WILLIAMS,Directed Lakes 2016 Graham
+07/20/2017,AMANDA SMITH,Directed Lakes 2017 Graham
+08/03/2017,AMANDA SMITH,Directed Lakes 2017 Graham
+08/03/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Directed Lakes 2017 Graham
+08/17/2017,AMANDA SMITH,Directed Lakes 2017 Graham
+08/17/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Directed Lakes 2017 Graham

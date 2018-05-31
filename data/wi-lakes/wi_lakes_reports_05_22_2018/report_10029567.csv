@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Petenwell Lake,Adams,1377100,WC,1,,10029567,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+16115993,03/25/2012,,,,,,,,,,,,,
+8191401,10/19/2014,,,,,,,,,,,,,
+8191401,05/22/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/25/2012,,,58.4,DEGREES F,,
+10/19/2014,,,66,DEGREES F,,
+05/22/2016,,,67,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+03/25/2012,No zebra mussels were found on the monitoring plates. In addition- there were no zebrta mussels observed on docks or boat lifts that were taken out.
+10/19/2014,Zebra Mussel monitoring plates in from 5/26/2014 to 10/19/2014.  Found 7 Zebra Mussels on monitoring plates.  First year on monitoring plates.  Did not find any when taking out dock or boat lifts.
+05/22/2016,No zebra mussels found on monitoring plates- or on dock and boat lifts when removed from water.
+
+
+
+
+Start Date,Group Name,Project Name
+03/25/2012,Matthew and Peter Manley,Zebra Mussel Monitoring - Petenwell Lake- Adams County
+10/19/2014,Peter Manley,Zebra Mussel Monitoring - Petenwell Lake- Adams County
+05/22/2016,Peter Manley,Zebra Mussel Monitoring - Petenwell Lake- Adams County

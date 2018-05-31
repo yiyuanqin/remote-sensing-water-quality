@@ -1,0 +1,1245 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lac Courte Oreilles,Sawyer,2390800,NO,58,,10038982,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+68012556,04/11/2000,3.6,,1.1,3.3,,59,,44,,,,,
+68012556,04/26/2000,3.3,,1,2.9,49,60,58,43,,,,,
+1,05/10/2000,,,,2.2,43,,57,41,,,,,
+1,05/17/2000,,,,2.6,320,,73,42,,,,,
+68012556,05/24/2000,3.3,,1,4.1,92,60,63,45,,,,,
+68012556,06/02/2000,3.3,,1,2.6,39,60,57,42,,,,,
+68012556,06/09/2000,3.3,,1,2.9,240,60,71,43,,,,,
+68012556,06/14/2000,3.3,,1,6.7,110,60,65,49,,,,,
+68012556,06/22/2000,3.3,,1,6.2,200,60,69,49,,,,,
+68012556,07/11/2000,3.3,,1,4.5,65,60,60,46,,,,,
+68012556,07/21/2000,1,,0.3,4.1,58,77,60,45,,,,,
+1,07/27/2000,,,,6.3,400,,75,49,,,,,
+68012556,08/02/2000,3.3,,1,7.7,166,60,68,50,,,,,
+68012556,08/11/2000,2.6,,0.8,4.1,85,63,63,45,,,,,
+68012556,08/16/2000,3.3,,1,5.7,168,60,68,48,,,,,
+1,08/23/2000,,,,7.3,49,,58,50,,,,,
+68012556,09/01/2000,3.3,,1,2.4,54,60,59,41,,,,,
+1,09/06/2000,,,,4.5,66,,61,46,,,,,
+68012556,09/15/2000,1.3,,0.4,3.6,32,73,55,44,,,,,
+68012556,09/26/2000,1.3,,0.4,1.4,387,73,74,37,,,,,
+1,10/06/2000,,,,,15,,49,,,,,,
+1,10/09/2000,,,,,12,,47,,,,,,
+1,10/10/2000,,,,,16,,50,,,,,,
+1,10/11/2000,,,,,25,,53,,,,,,
+1,10/12/2000,,,,,30,,54,,,,,,
+1,10/13/2000,,,,,58,,60,,,,,,
+1,05/18/2001,,,,,,,,,,,,,
+68012556,06/01/2001,3.3,,1,2.4,,60,,41,,,,,
+68012556,06/19/2001,3.9,,1.2,2.87,,57,,43,,,,,
+68012556,06/27/2001,3.3,,1,1.87,,60,,40,,,,,
+68012556,07/09/2001,,,,3.74,,,,45,,,,,
+68012556,07/26/2001,1.3,,0.4,3.87,,73,,45,,,,,
+68012556,08/01/2001,1.3,,0.4,1.6,,73,,38,,,,,
+68012556,08/09/2001,0.7,,0.2,2.87,,83,,43,,,,,
+68012556,08/17/2001,1.3,,0.4,6.74,,73,,49,,,,,
+68012556,08/23/2001,0.7,,0.2,2.8,,83,,43,,,,,
+68012556,08/30/2001,1.3,,0.4,1.94,,73,,40,,,,,
+68012556,09/04/2001,,,,3.87,,,,45,,,,,
+68012556,09/14/2001,1.3,,0.4,2.8,,73,,43,,,,,
+68012556,09/27/2001,1.3,,0.4,6.74,,73,,49,,,,,
+68012556,10/01/2001,3.3,,1,4.01,,60,,45,,,,,
+68012556,10/02/2001,,,,2.67,,,,42,,,,,
+68012556,10/03/2001,2,,0.6,,,67,,,,,,,
+68012556,10/04/2001,,,,,,,,,,,,,
+68012556,10/08/2001,1.6,,0.5,1.07,,70,,35,,,,,
+68012556,10/09/2001,1.6,,0.5,2.27,,70,,41,,,,,
+68012556,10/10/2001,1.6,,0.5,,,70,,,,,,,
+68012556,06/06/2002,2.6,,0.8,2.94,,63,,43,,,,,
+68012556,06/27/2002,3.3,,1,10.21,,60,,52,,,,,
+68012556,07/03/2002,3.3,,1,3.87,,60,,45,,,,,
+68012556,07/08/2002,2.3,,0.7,5.34,,65,,47,,,,,
+68012556,08/06/2002,2.6,,0.8,5.01,,63,,47,,,,,
+68012556,08/23/2002,1,,0.3,18.77,,77,,57,,,,,
+68012556,10/07/2002,2.6,,0.8,0.4,,63,,28,,,,,
+68012556,05/22/2003,3.3,,1,,,60,,,,,,,
+68012556,05/29/2003,2.6,,0.8,,,63,,,,,,,
+68012556,06/06/2003,3.9,,1.2,,,57,,,,,,,
+68012556,06/16/2003,3.3,,1,,,60,,,,,,,
+68012556,06/30/2003,2.3,,0.7,,,65,,,,,,,
+68012556,07/11/2003,0.7,,0.2,,,83,,,,,,,
+68012556,07/17/2003,0.7,,0.2,,,83,,,,,,,
+68012556,07/24/2003,1,,0.3,,,77,,,,,,,
+68012556,07/31/2003,0.7,,0.2,,,83,,,,,,,
+68012556,08/18/2003,1.3,,0.4,,,73,,,,,,,
+68012556,08/28/2003,1,,0.3,,,77,,,,,,,
+68012556,09/05/2003,1,,0.3,,,77,,,,,,,
+68012556,09/11/2003,1,,0.3,,,77,,,,,,,
+1,05/07/2004,,,,,,,,,,,,,
+1,05/14/2004,,,,,,,,,,,,,
+1,05/25/2004,,,,,,,,,,,,,
+1,06/02/2004,,,,1.07,,,,35,,,,,
+1,06/10/2004,,,,3.47,,,,44,,,,,
+1,06/21/2004,,,,2.4,,,,41,,,,,
+1,06/30/2004,,,,6.68,,,,49,,,,,
+1,07/12/2004,,,,2.87,,,,43,,,,,
+1,07/22/2004,,,,3.87,,,,45,,,,,
+1,07/29/2004,,,,2.27,,,,41,,,,,
+1,08/12/2004,,,,2.94,,,,43,,,,,
+1,08/20/2004,,,,2.94,,,,43,,,,,
+1,08/25/2004,,,,2.58,,,,42,,,,,
+1,09/07/2004,,,,12.82,,,,54,,,,,
+1,09/29/2004,,,,2.2,,,,41,,,,,
+1,10/04/2004,,,,,,,,,,,,,
+1,10/05/2004,,,,,,,,,,,,,
+1,10/07/2004,,,,,,,,,,,,,
+1,10/08/2004,,,,,,,,,,,,,
+1,10/11/2004,,,,,,,,,,,,,
+1,10/12/2004,,,,,,,,,,,,,
+1,10/13/2004,,,,,,,,,,,,,
+68012556,10/15/2004,,,,,,,,,,,,,
+1,10/17/2004,,,,,,,,,,,,,
+1,10/18/2004,,,,,,,,,,,,,
+68012556,10/18/2004,,,,,,,,,,,,,
+68012556,10/19/2004,,,,,,,,,,,,,
+68012556,10/20/2004,,,,,,,,,,,,,
+1,10/22/2004,,,,,,,,,,,,,
+1,10/23/2004,,,,,,,,,,,,,
+68012556,10/23/2004,,,,,,,,,,,,,
+1,10/24/2004,,,,,,,,,,,,,
+68012556,10/24/2004,,,,,,,,,,,,,
+1,10/25/2004,,,,,,,,,,,,,
+68012556,10/25/2004,,,,,,,,,,,,,
+1,10/26/2004,,,,,,,,,,,,,
+68012556,10/26/2004,,,,,,,,,,,,,
+1,10/27/2004,,,,,,,,,,,,,
+68012556,10/27/2004,,,,,,,,,,,,,
+68012556,11/01/2004,,,,,,,,,,,,,
+1,06/02/2005,,,,1.6,,,,38,,,,,
+1,06/07/2005,,,,3.15,,,,43,,,,,
+1,06/16/2005,,,,1.67,,,,39,,,,,
+1,06/28/2005,,,,3.47,,,,44,,,,,
+1,07/07/2005,,,,3.59,,,,44,,,,,
+1,07/13/2005,,,,4.14,,,,46,,,,,
+1,07/25/2005,,,,7.61,,,,50,,,,,
+1,08/10/2005,,,,3.07,,,,43,,,,,
+1,08/30/2005,,,,2.94,,,,43,,,,,
+1,09/26/2005,,,,1.94,,,,40,,,,,
+1,09/29/2005,,,,,,,,,,,,,
+1,09/30/2005,,,,,,,,,,,,,
+1,10/03/2005,,,,,,,,,,,,,
+1,10/07/2005,,,,,,,,,,,,,
+1,10/08/2005,,,,,,,,,,,,,
+1,10/09/2005,,,,,,,,,,,,,
+1,10/10/2005,,,,,,,,,,,,,
+1,10/11/2005,,,,,,,,,,,,,
+1,10/14/2005,,,,,,,,,,,,,
+1,10/17/2005,,,,,,,,,,,,,
+1,10/18/2005,,,,,,,,,,,,,
+1,10/19/2005,,,,,,,,,,,,,
+1,10/21/2005,,,,,,,,,,,,,
+1,10/22/2005,,,,,,,,,,,,,
+1,10/24/2005,,,,,,,,,,,,,
+1,10/25/2005,,,,,,,,,,,,,
+1,10/26/2005,,,,,,,,,,,,,
+1,06/09/2006,,,,1.81,,,,39,,,,,
+1,06/29/2006,,,,1.87,,,,40,,,,,
+1,07/07/2006,,,,1.84,,,,39,,,,,
+1,07/24/2006,,,,6.94,,,,49,,,,,
+1,08/02/2006,,,,14.69,,,,55,,,,,
+1,08/16/2006,,,,10.41,,,,53,,,,,
+1,08/29/2006,,,,,,,,,,,,,
+1,09/14/2006,,,,,,,,,,,,,
+1,09/20/2006,,,,,,,,,,,,,
+1,09/28/2006,,,,,,,,,,,,,
+1,10/15/2006,,,,,,,,,,,,,
+1,10/16/2006,,,,,,,,,,,,,
+1,10/17/2006,,,,,,,,,,,,,
+1,10/18/2006,,,,,,,,,,,,,
+1,10/21/2006,,,,,,,,,,,,,
+1,10/22/2006,,,,,,,,,,,,,
+1,10/23/2006,,,,,,,,,,,,,
+1,05/03/2007,,,,,,,,,,,,,
+68012556,05/29/2007,,,,7.66,,,,50,,,,,
+68012556,06/20/2007,,,,2.21,,,,41,,,,,
+68012556,07/02/2007,,,,10.77,,,,53,,,,,
+1,07/16/2007,,,,5.67,,,,48,,,,,
+68012556,07/30/2007,,,,50.11,,,,64,,,,,
+68012556,08/13/2007,,,,3.51,,,,44,,,,,
+68012556,08/30/2007,,,,4.05,,,,45,,,,,
+68012556,09/10/2007,,,,,,,,,,,,,
+1,09/19/2007,,,,,,,,,,,,,
+1,09/25/2007,,,,,,,,,,,,,
+1,09/27/2007,,,,,,,,,,,,,
+1,10/01/2007,,,,,,,,,,,,,
+1,10/09/2007,,,,,,,,,,,,,
+1,10/12/2007,,,,,,,,,,,,,
+1,10/15/2007,,,,,,,,,,,,,
+1,10/16/2007,,,,,,,,,,,,,
+1,10/17/2007,,,,,,,,,,,,,
+1,10/18/2007,,,,,,,,,,,,,
+1,10/19/2007,,,,,,,,,,,,,
+68012556,06/03/2008,,,,5.6,,,,48,,,,,
+68012556,06/16/2008,,,,5.24,,,,47,,,,,
+68012556,06/25/2008,,,,4.51,,,,46,,,,,
+68012556,07/02/2008,,,,4.21,,,,46,,,,,
+68012556,07/09/2008,,,,1.28,,,,37,,,,,
+68012556,07/25/2008,,,,4.31,,,,46,,,,,
+68012556,07/31/2008,,,,2.94,,,,43,,,,,
+68012556,08/07/2008,,,,9.23,,,,52,,,,,
+68012556,08/13/2008,,,,3.65,,,,45,,,,,
+68012556,08/21/2008,,,,6.95,,,,49,,,,,
+68012556,08/28/2008,,,,3.1,,,,43,,,,,
+1,09/05/2008,,,,,,,,,,,,,
+68012556,09/18/2008,,,,,,,,,,,,,
+68012556,09/26/2008,,,,,,,,,,,,,
+1,10/02/2008,,,,,,,,,,,,,
+1,10/16/2008,,,,,,,,,,,,,
+1,10/17/2008,,,,,,,,,,,,,
+1,10/20/2008,,,,,,,,,,,,,
+1,10/24/2008,,,,,,,,,,,,,
+1,10/27/2008,,,,,,,,,,,,,
+1,10/28/2008,,,,,,,,,,,,,
+1,10/29/2008,,,,,,,,,,,,,
+1,10/30/2008,,,,,,,,,,,,,
+1,10/31/2008,,,,,,,,,,,,,
+68012556,06/10/2009,,,,,,,,,,,,,
+1,06/17/2009,,,,,,,,,,,,,
+68012556,06/18/2009,,,,25.68,,,,59,,,,,
+1,06/25/2009,,,,0.96,,,,34,,,,,
+68012556,06/25/2009,,,,5.7,,,,48,,,,,
+68012556,07/02/2009,,,,29.34,,,,60,,,,,
+68012556,07/09/2009,,,,1.8,,,,39,,,,,
+1,07/10/2009,,,,0.77,,,,33,,,,,
+68012556,07/20/2009,,,,1.07,,,,35,,,,,
+68012556,08/05/2009,,,,4.6,,,,46,,,,,
+68012556,08/11/2009,,,,4.9,,,,47,,,,,
+68012556,08/21/2009,,,,1.69,,,,39,,,,,
+68012556,08/26/2009,,,,2.34,,,,41,,,,,
+68012556,09/04/2009,,,,3.02,,,,43,,,,,
+1,09/11/2009,,,,,,,,,,,,,
+68012556,09/18/2009,,,,,,,,,,,,,
+68012556,09/25/2009,,,,,,,,,,,,,
+68012556,09/30/2009,,,,,,,,,,,,,
+1,10/09/2009,,,,,,,,,,,,,
+1,10/25/2009,,,,,,,,,,,,,
+1,10/26/2009,,,,,,,,,,,,,
+1,10/27/2009,,,,,,,,,,,,,
+1,10/28/2009,,,,,,,,,,,,,
+1,10/29/2009,,,,,,,,,,,,,
+1,10/30/2009,,,,,,,,,,,,,
+1,06/17/2010,,,,7,,,,50,,,,,
+68012556,06/17/2010,,,,,,,,,,,,,
+1,06/24/2010,,,,4,,,,45,,,,,
+68012556,06/24/2010,,,,,,,,,,,,,
+1,07/08/2010,,,,8.4,,,,51,,,,,
+68012556,07/08/2010,,,,,,,,,,,,,
+1,07/23/2010,,,,7,,,,50,,,,,
+68012556,07/23/2010,,,,,,,,,,,,,
+1,07/29/2010,,,,28,,,,60,,,,,
+68012556,07/29/2010,,,,,,,,,,,,,
+1,08/06/2010,,,,8.5,,,,51,,,,,
+68012556,08/06/2010,,,,,,,,,,,,,
+1,08/12/2010,,,,7.7,,,,50,,,,,
+68012556,08/12/2010,,,,,,,,,,,,,
+1,08/19/2010,,,,5.2,,,,47,,,,,
+68012556,08/19/2010,,,,,,,,,,,,,
+1,08/26/2010,,,,6.3,,,,49,,,,,
+68012556,08/26/2010,,,,,,,,,,,,,
+1,09/02/2010,,,,15,,,,55,,,,,
+1,09/09/2010,,,,,,,,,,,,,
+68012556,09/09/2010,,,,,,,,,,,,,
+1,09/17/2010,,,,,,,,,,,,,
+1,09/24/2010,,,,,,,,,,,,,
+1,10/05/2010,,,,,,,,,,,,,
+1,10/06/2010,,,,1.5,,,,38,,,,,
+1,10/07/2010,,,,1.5,,,,38,,,,,
+1,10/08/2010,,,,,,,,,,,,,
+1,10/12/2010,,,,,,,,,,,,,
+1,10/13/2010,,,,,,,,,,,,,
+1,10/14/2010,,,,,,,,,,,,,
+1,10/15/2010,,,,,,,,,,,,,
+1,10/16/2010,,,,,,,,,,,,,
+1,10/18/2010,,,,,,,,,,,,,
+1,10/19/2010,,,,,,,,,,,,,
+1,10/20/2010,,,,,,,,,,,,,
+1,10/21/2010,,,,,,,,,,,,,
+1,10/22/2010,,,,,,,,,,,,,
+1,10/23/2010,,,,,,,,,,,,,
+1,10/25/2010,,,,,,,,,,,,,
+1,10/26/2010,,,,,,,,,,,,,
+68012556,04/20/2011,,,,,,,,,,,,,
+1,06/06/2011,,,,7.4,,,,50,,,,,
+68012556,06/06/2011,,,,,,,,,,,,,
+1,06/24/2011,,,,7.3,,,,50,,,,,
+68012556,06/24/2011,,,,,,,,,,,,,
+1,06/29/2011,,,,14,,,,55,,,,,
+68012556,06/29/2011,,,,,,,,,,,,,
+1,07/06/2011,,,,4.7,,,,46,,,,,
+1,07/13/2011,,,,3.2,,,,44,,,,,
+1,07/21/2011,,,,12,,,,54,,,,,
+68012556,07/21/2011,,,,,,,,,,,,,
+1,07/26/2011,,,,3.8,,,,45,,,,,
+68012556,07/26/2011,,,,,,,,,,,,,
+1,08/04/2011,,,,6.9,,,,49,,,,,
+68012556,08/04/2011,,,,,,,,,,,,,
+1,08/10/2011,,,,6.9,,,,49,,,,,
+68012556,08/10/2011,,,,,,,,,,,,,
+1,08/17/2011,,,,3.7,,,,45,,,,,
+68012556,08/17/2011,,,,,,,,,,,,,
+1,08/22/2011,,,,2.6,,,,42,,,,,
+68012556,08/22/2011,,,,,,,,,,,,,
+1,09/02/2011,,,,4.3,,,,46,,,,,
+68012556,09/02/2011,,,,,,,,,,,,,
+1,09/15/2011,,,,5.2,,,,47,,,,,
+68012556,09/15/2011,,,,,,,,,,,,,
+1,09/28/2011,,,,,,,,,,,,,
+68012556,09/28/2011,,,,,,,,,,,,,
+1,10/06/2011,,,,,,,,,,,,,
+68012556,10/06/2011,,,,,,,,,,,,,
+1,10/12/2011,,,,,,,,,,,,,
+1,10/17/2011,,,,,,,,,,,,,
+1,10/18/2011,,,,,,,,,,,,,
+1,10/19/2011,,,,,,,,,,,,,
+1,10/20/2011,,,,,,,,,,,,,
+1,10/21/2011,,,,,,,,,,,,,
+1,10/22/2011,,,,,,,,,,,,,
+1,10/23/2011,,,,,,,,,,,,,
+1,10/24/2011,,,,,,,,,,,,,
+1,10/25/2011,,,,,,,,,,,,,
+1,10/26/2011,,,,,,,,,,,,,
+68012556,05/21/2012,,,,,,,,,,,,,
+1,06/15/2012,,,,9.6,,,,52,,,,,
+68012556,06/15/2012,,,,,,,,,,,,,
+1,06/25/2012,,,,4,,,,45,,,,,
+68012556,06/25/2012,,,,,,,,,,,,,
+1,07/02/2012,,,,4.8,,,,47,,,,,
+68012556,07/02/2012,,,,,,,,,,,,,
+1,07/10/2012,,,,3.1,,,,43,,,,,
+68012556,07/10/2012,,,,,,,,,,,,,
+1,07/17/2012,,,,10,,,,52,,,,,
+68012556,07/17/2012,,,,,,,,,,,,,
+1,07/26/2012,,,,6.2,,,,49,,,,,
+68012556,07/26/2012,,,,,,,,,,,,,
+1,08/02/2012,,,,2.6,,,,42,,,,,
+68012556,08/02/2012,,,,,,,,,,,,,
+1,08/10/2012,,,,6.4,,,,49,,,,,
+68012556,08/10/2012,,,,,,,,,,,,,
+1,08/13/2012,,,,2.2,,,,41,,,,,
+68012556,08/13/2012,,,,,,,,,,,,,
+1,08/28/2012,,,,5.9,,,,48,,,,,
+68012556,08/28/2012,,,,,,,,,,,,,
+1,09/05/2012,,,,5.3,,,,47,,,,,
+68012556,09/05/2012,,,,,,,,,,,,,
+1,09/11/2012,,,,,,,,,,,,,
+68012556,09/11/2012,,,,,,,,,,,,,
+1,09/20/2012,,,,,,,,,,,,,
+68012556,09/20/2012,,,,,,,,,,,,,
+1,09/27/2012,,,,,,,,,,,,,
+68012556,09/27/2012,,,,,,,,,,,,,
+1,10/03/2012,,,,,,,,,,,,,
+68012556,10/03/2012,,,,,,,,,,,,,
+1,10/09/2012,,,,,,,,,,,,,
+1,10/10/2012,,,,,,,,,,,,,
+68012556,10/10/2012,,,,,,,,,,,,,
+1,10/11/2012,,,,,,,,,,,,,
+68012556,10/11/2012,,,,,,,,,,,,,
+1,10/12/2012,,,,,,,,,,,,,
+68012556,10/12/2012,,,,,,,,,,,,,
+1,10/13/2012,,,,,,,,,,,,,
+68012556,10/13/2012,,,,,,,,,,,,,
+1,10/14/2012,,,,,,,,,,,,,
+1,10/15/2012,,,,,,,,,,,,,
+68012556,10/15/2012,,,,,,,,,,,,,
+1,10/17/2012,,,,,,,,,,,,,
+68012556,10/17/2012,,,,,,,,,,,,,
+1,10/18/2012,,,,,,,,,,,,,
+1,10/19/2012,,,,,,,,,,,,,
+1,10/20/2012,,,,,,,,,,,,,
+68012556,10/20/2012,,,,,,,,,,,,,
+1,10/21/2012,,,,,,,,,,,,,
+68012556,10/21/2012,,,,,,,,,,,,,
+1,05/28/2013,,,,5,,,,47,,,,,
+68012556,05/28/2013,,,,,,,,,,,,,
+1,06/04/2013,,,,11,,,,53,,,,,
+68012556,06/04/2013,,,,,,,,,,,,,
+1,06/11/2013,,,,3.5,,,,44,,,,,
+68012556,06/11/2013,,,,,,,,,,,,,
+1,06/18/2013,,,,2.9,,,,43,,,,,
+68012556,06/18/2013,,,,,,,,,,,,,
+1,06/25/2013,,,,2.6,,,,42,,,,,
+68012556,06/25/2013,,,,,,,,,,,,,
+1,07/01/2013,,,,2.4,,,,41,,,,,
+68012556,07/01/2013,,,,,,,,,,,,,
+1,07/11/2013,,,,4,,,,45,,,,,
+68012556,07/11/2013,,,,,,,,,,,,,
+1,07/15/2013,,,,2,,,,40,,,,,
+1,07/16/2013,,,,,,,,,,,,,
+68012556,07/16/2013,,,,,,,,,,,,,
+1,07/23/2013,,,,3.7,,,,45,,,,,
+68012556,07/23/2013,,,,,,,,,,,,,
+1,07/30/2013,,,,3.8,,,,45,,,,,
+68012556,07/30/2013,,,,,,,,,,,,,
+1,08/07/2013,,,,4,,,,45,,,,,
+68012556,08/07/2013,,,,,,,,,,,,,
+1,08/12/2013,,,,2.6,,,,42,,,,,
+1,08/22/2013,,,,,,,,,,,,,
+68012556,08/22/2013,,,,,,,,,,,,,
+1,08/29/2013,,,,4,,,,45,,,,,
+68012556,08/29/2013,,,,,,,,,,,,,
+1,09/05/2013,,,,1.4,,,,37,,,,,
+68012556,09/05/2013,,,,,,,,,,,,,
+1,09/10/2013,,,,2,,,,40,,,,,
+68012556,09/10/2013,,,,,,,,,,,,,
+1,09/24/2013,,,,,,,,,,,,,
+68012556,09/24/2013,,,,,,,,,,,,,
+1,10/03/2013,,,,,,,,,,,,,
+68012556,10/03/2013,,,,,,,,,,,,,
+1,10/09/2013,,,,,,,,,,,,,
+68012556,10/09/2013,,,,,,,,,,,,,
+1,10/11/2013,,,,,,,,,,,,,
+1,10/12/2013,,,,,,,,,,,,,
+1,10/13/2013,,,,,,,,,,,,,
+1,10/14/2013,,,,,,,,,,,,,
+1,10/15/2013,,,,,,,,,,,,,
+1,10/16/2013,,,,,,,,,,,,,
+1,10/17/2013,,,,,,,,,,,,,
+68012556,10/17/2013,,,,,,,,,,,,,
+1,10/18/2013,,,,,,,,,,,,,
+1,10/19/2013,,,,,,,,,,,,,
+1,10/20/2013,,,,,,,,,,,,,
+1,10/21/2013,,,,,,,,,,,,,
+1,10/22/2013,,,,,,,,,,,,,
+1,10/23/2013,,,,,,,,,,,,,
+1,10/24/2013,,,,,,,,,,,,,
+1,11/01/2013,,,,2.8,,,,43,,,,,
+68012556,11/01/2013,,,,,,,,,,,,,
+1,05/07/2014,,,,,,,,,,,,,
+1,05/15/2014,,,,,,,,,,,,,
+1,05/23/2014,,,,,,,,,,,,,
+68012556,05/23/2014,,,,,,,,,,,,,
+1,05/30/2014,,,,,,,,,,,,,
+68012556,05/30/2014,,,,,,,,,,,,,
+1,06/13/2014,,,,,,,,,,,,,
+68012556,06/13/2014,,,,,,,,,,,,,
+1,07/01/2014,,,,,,,,,,,,,
+68012556,07/01/2014,,,,,,,,,,,,,
+1,07/09/2014,,,,,,,,,,,,,
+68012556,07/09/2014,,,,,,,,,,,,,
+1,07/15/2014,,,,,,,,,,,,,
+68012556,07/15/2014,,,,,,,,,,,,,
+1,07/25/2014,,,,,,,,,,,,,
+1,07/29/2014,,,,,,,,,,,,,
+68012556,07/29/2014,,,,,,,,,,,,,
+68012556,08/08/2014,,,,,,,,,,,,,
+1,08/12/2014,,,,1.9,,,,40,,,,,
+68012556,08/12/2014,,,,,,,,,,,,,
+1,08/22/2014,,,,2.9,,,,43,,,,,
+68012556,08/22/2014,,,,,,,,,,,,,
+1,08/26/2014,,,,1.8,,,,39,,,,,
+1,09/03/2014,,,,1.1,,,,36,,,,,
+68012556,09/03/2014,,,,,,,,,,,,,
+1,09/09/2014,,,,1.5,,,,38,,,,,
+68012556,09/09/2014,,,,,,,,,,,,,
+1,09/18/2014,,,,3.5,,,,44,,,,,
+1,09/26/2014,,,,,,,,,,,,,
+68012556,09/26/2014,,,,,,,,,,,,,
+1,10/03/2014,,,,,,,,,,,,,
+1,10/10/2014,,,,,,,,,,,,,
+1,10/20/2014,,,,,,,,,,,,,
+1,10/21/2014,,,,,,,,,,,,,
+1,10/23/2014,,,,,,,,,,,,,
+68012556,05/15/2015,,,,0,,,,,,,,,
+68012556,05/21/2015,,,,,,,,,,,,,
+68012556,05/28/2015,,,,0.53,,,,30,,,,,
+68012556,06/04/2015,,,,0,,,,,,,,,
+68012556,06/12/2015,,,,2.6,,,,42,,,,,
+68012556,06/23/2015,,,,3.7,,,,45,,,,,
+68012556,07/01/2015,,,,,,,,,,,,,
+68012556,07/08/2015,,,,2.3,,,,41,,,,,
+68012556,07/15/2015,,,,5.3,,,,47,,,,,
+68012556,07/24/2015,,,,,,,,,,,,,
+68012556,07/31/2015,,,,3.3,,,,44,,,,,
+68012556,08/06/2015,,,,5.9,,,,48,,,,,
+68012556,08/14/2015,,,,3.8,,,,45,,,,,
+68012556,08/21/2015,,,,3.5,,,,44,,,,,
+68012556,08/28/2015,,,,2.9,,,,43,,,,,
+68012556,09/04/2015,,,,2.4,,,,41,,,,,
+68012556,09/09/2015,,,,3,,,,43,,,,,
+68012556,09/25/2015,,,,,,,,,,,,,
+68012556,10/06/2015,,,,,,,,,,,,,
+68012556,10/07/2015,,,,,,,,,,,,,
+68012556,10/08/2015,,,,,,,,,,,,,
+68012556,10/09/2015,,,,,,,,,,,,,
+68012556,10/10/2015,,,,,,,,,,,,,
+68012556,10/11/2015,,,,,,,,,,,,,
+68012556,10/12/2015,,,,,,,,,,,,,
+68012556,10/13/2015,,,,,,,,,,,,,
+68012556,10/14/2015,,,,,,,,,,,,,
+68012556,10/15/2015,,,,,,,,,,,,,
+68012556,10/16/2015,,,,,,,,,,,,,
+68012556,10/17/2015,,,,,,,,,,,,,
+68012556,10/18/2015,,,,,,,,,,,,,
+68012556,10/19/2015,,,,,,,,,,,,,
+1,04/27/2016,,,,,,,,,,,,,
+1,05/26/2016,,,,2.1,,,,40,,,,,
+1,06/07/2016,,,,3.6,,,,44,,,,,
+1,06/21/2016,,,,2.5,,,,42,,,,,
+68012556,06/21/2016,2.6,,0.8,,,63,,,,,,,
+1,06/28/2016,,,,4.8,,,,47,,,,,
+1,07/13/2016,,,,1.4,,,,37,,,,,
+1,07/26/2016,,,,1.9,,,,40,,,,,
+1,08/12/2016,,,,4.5,,,,46,,,,,
+1,08/18/2016,,,,5.1,,,,47,,,,,
+1,08/25/2016,,,,2.4,,,,41,,,,,
+1,09/07/2016,,,,3.5,,,,44,,,,,
+1,09/20/2016,,,,2.3,,,,41,,,,,
+1,09/29/2016,,,,,,,,,,,,,
+1,10/06/2016,,,,,,,,,,,,,
+1,10/11/2016,,,,,,,,,,,,,
+1,10/14/2016,,,,,,,,,,,,,
+1,10/17/2016,,,,,,,,,,,,,
+1,10/20/2016,,,,,,,,,,,,,
+1,10/24/2016,,,,,,,,,,,,,
+1,10/25/2016,,,,,,,,,,,,,
+1,10/26/2016,,,,,,,,,,,,,
+1,10/27/2016,,,,,,,,,,,,,
+1,10/28/2016,,,,,,,,,,,,,
+1,10/31/2016,,,,,,,,,,,,,
+1,04/03/2017,,,,,,,,,,,,,
+1,05/11/2017,,,,,,,,,,,,,
+1,06/05/2017,,,,2.7,,,,42,,,,,
+1,06/06/2017,,,,,,,,,,,,,
+1,06/20/2017,,,,3.4,,,,44,,,,,
+1,07/05/2017,,,,4.3,,,,46,,,,,
+1,07/20/2017,,,,0.16,,,,21,,,,,
+1,08/02/2017,,,,2.7,,,,42,,,,,
+1,08/15/2017,,,,6.8,,,,49,,,,,
+1,08/24/2017,,,,,,,,,,,,,
+1,08/30/2017,,,,4,,,,45,,,,,
+1,09/12/2017,,,,1.6,,,,38,,,,,
+1,10/13/2017,,,,,,,,,,,,,
+1,10/14/2017,,,,,,,,,,,,,
+1,10/15/2017,,,,,,,,,,,,,
+1,10/16/2017,,,,,,,,,,,,,
+1,10/17/2017,,,,,,,,,,,,,
+1,10/18/2017,,,,,,,,,,,,,
+1,10/19/2017,,,,,,,,,,,,,
+1,10/20/2017,,,,,,,,,,,,,
+1,10/21/2017,,,,,,,,,,,,,
+1,10/23/2017,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/26/2000,0.4,METERS,56.43,DEGREES F,12.87,MG/L
+06/02/2000,0.465,METERS,62.15,DEGREES F,11.95,MG/L
+06/22/2000,0.283,METERS,66.15,DEGREES F,8.24,MG/L
+07/11/2000,0.311,METERS,77.57,DEGREES F,10.18,MG/L
+08/02/2000,0.207,METERS,74.98,DEGREES F,11.38,MG/L
+08/16/2000,0.241,METERS,74.13,DEGREES F,11.63,MG/L
+06/19/2001,0,METERS,72.19,DEGREES F,8.45,MG/L
+06/27/2001,0,METERS,81.1,DEGREES F,10.01,MG/L
+07/09/2001,0,METERS,74.3,DEGREES F,10.34,MG/L
+08/17/2001,0,METERS,64.38,DEGREES F,8.21,MG/L
+08/23/2001,0,METERS,77.74,DEGREES F,10.89,MG/L
+08/30/2001,0,METERS,71.28,DEGREES F,10.94,MG/L
+09/04/2001,0,METERS,71.28,DEGREES F,13.75,MG/L
+09/14/2001,0,METERS,62.33,DEGREES F,12.27,MG/L
+09/27/2001,0,METERS,54.1,DEGREES F,11.44,MG/L
+10/01/2001,0,METERS,61.62,DEGREES F,11.22,MG/L
+10/02/2001,0,METERS,60.84,DEGREES F,11.86,MG/L
+10/03/2001,0,METERS,56.77,DEGREES F,9.21,MG/L
+10/04/2001,0,METERS,57.34,DEGREES F,12.38,MG/L
+10/08/2001,0,METERS,50.31,DEGREES F,11.6,MG/L
+10/09/2001,0,METERS,50.92,DEGREES F,8.1,MG/L
+10/10/2001,0,METERS,56.13,DEGREES F,9.08,MG/L
+06/06/2002,0,METERS,60.4,DEGREES F,11.97,MG/L
+06/27/2002,0.3,METERS,69.2,DEGREES F,5.08,MG/L
+07/03/2002,0.2,METERS,75.9,DEGREES F,7.18,MG/L
+07/08/2002,0.2,METERS,75.8,DEGREES F,6.55,MG/L
+08/06/2002,0.3,METERS,68.8,DEGREES F,7.45,MG/L
+08/23/2002,0,METERS,67.6,DEGREES F,4.9,MG/L
+10/07/2002,0.4,METERS,49.4,DEGREES F,9.98,MG/L
+05/22/2003,0.4,METERS,51.4,DEGREES F,9.38,MG/L
+05/29/2003,0.4,METERS,64,DEGREES F,8.41,MG/L
+06/06/2003,0.3,METERS,62.3,DEGREES F,10.92,MG/L
+06/16/2003,0.2,METERS,78,DEGREES F,11.61,MG/L
+06/30/2003,0.3,METERS,71,DEGREES F,9.35,MG/L
+07/11/2003,0.2,METERS,67,DEGREES F,5.95,MG/L
+07/17/2003,0.3,METERS,70.1,DEGREES F,7.26,MG/L
+07/24/2003,0.3,METERS,71.2,DEGREES F,8.75,MG/L
+07/31/2003,0.2,METERS,70.2,DEGREES F,5.41,MG/L
+08/18/2003,0.3,METERS,73.4,DEGREES F,7.87,MG/L
+08/28/2003,0.2,METERS,68.6,DEGREES F,3.95,MG/L
+09/05/2003,0.2,METERS,73,DEGREES F,10.85,MG/L
+09/11/2003,0.3,METERS,73.7,DEGREES F,8.85,MG/L
+10/15/2004,0,METERS,50.2,DEGREES F,8.81,MG/L
+10/18/2004,0,METERS,48.4,DEGREES F,10.76,MG/L
+10/19/2004,0,METERS,45.1,DEGREES F,7.07,MG/L
+10/20/2004,0,METERS,47,DEGREES F,7.65,MG/L
+10/23/2004,0,METERS,51.5,DEGREES F,6.75,MG/L
+10/24/2004,0,METERS,52.2,DEGREES F,8.5,MG/L
+10/25/2004,0,METERS,50.4,DEGREES F,7.87,MG/L
+10/26/2004,0,METERS,49,DEGREES F,7.25,MG/L
+10/27/2004,0,METERS,46.2,DEGREES F,5.83,MG/L
+11/01/2004,0,METERS,46.6,DEGREES F,5.32,MG/L
+05/29/2007,0,FEET,66.8,DEGREES F,12.9,MG/L
+06/20/2007,0,FEET,67.6,DEGREES F,5.35,MG/L
+07/02/2007,0,FEET,69.52,DEGREES F,6.76,MG/L
+07/30/2007,0,FEET,81.5,DEGREES F,11.25,MG/L
+08/13/2007,0,FEET,81.2,DEGREES F,15.25,MG/L
+08/30/2007,0,FEET,67.9,DEGREES F,8.8,MG/L
+09/10/2007,0,FEET,64.72,DEGREES F,10.43,MG/L
+06/03/2008,0.4,FEET,61,DEGREES F,9.82,MG/L
+06/16/2008,0.8,FEET,66.3,DEGREES F,8.48,MG/L
+06/25/2008,0.7,FEET,72.3,DEGREES F,12.18,MG/L
+07/02/2008,0.8,FEET,69.86,DEGREES F,7.56,MG/L
+07/09/2008,0.7,FEET,72.8,DEGREES F,8.13,MG/L
+07/25/2008,0.6,FEET,71.8,DEGREES F,4.21,MG/L
+07/31/2008,0.6,FEET,74.9,DEGREES F,7.46,MG/L
+08/07/2008,0.6,FEET,68.64,DEGREES F,8.32,MG/L
+08/13/2008,0.6,FEET,69.2,DEGREES F,6.5,MG/L
+08/21/2008,0.5,FEET,73.7,DEGREES F,5.07,MG/L
+08/28/2008,0.5,FEET,66.3,DEGREES F,5.21,MG/L
+09/18/2008,0.6,FEET,67,DEGREES F,9.23,MG/L
+09/26/2008,0.7,FEET,58.9,DEGREES F,5.43,MG/L
+06/10/2009,1.1,FEET,59.4,DEGREES F,7.01,MG/L
+06/18/2009,0.5,FEET,68.8,DEGREES F,6.33,MG/L
+06/25/2009,0.7,FEET,73.8,DEGREES F,8.32,MG/L
+07/02/2009,0.3,FEET,60.2,DEGREES F,10.01,MG/L
+07/09/2009,1.1,FEET,68.7,DEGREES F,9.02,MG/L
+07/20/2009,0.9,FEET,68.3,DEGREES F,10.57,MG/L
+08/05/2009,0.8,FEET,70,DEGREES F,8.4,MG/L
+08/11/2009,1,FEET,69.4,DEGREES F,6.69,MG/L
+08/21/2009,0.5,FEET,63.7,DEGREES F,8.96,MG/L
+08/26/2009,0.9,FEET,67.2,DEGREES F,6.05,MG/L
+09/04/2009,0.8,FEET,65.4,DEGREES F,8.03,MG/L
+09/18/2009,0.8,FEET,67.8,DEGREES F,5.98,MG/L
+09/25/2009,0.7,FEET,64.4,DEGREES F,6.96,MG/L
+09/30/2009,0.9,FEET,61,DEGREES F,9.35,MG/L
+06/17/2010,0.8,FEET,61.3,DEGREES F,5.53,MG/L
+06/24/2010,1,FEET,66.2,DEGREES F,3,MG/L
+07/08/2010,1,FEET,76.5,DEGREES F,5.88,MG/L
+07/23/2010,0.8,FEET,73.51,DEGREES F,,
+07/29/2010,0.8,FEET,69.27,DEGREES F,3.09,MG/L
+08/06/2010,1,FEET,71.32,DEGREES F,5.27,MG/L
+08/12/2010,0.8,FEET,76.8,DEGREES F,7.29,MG/L
+08/19/2010,0.8,FEET,64.77,DEGREES F,7.92,MG/L
+08/26/2010,0.8,FEET,67.54,DEGREES F,10.45,MG/L
+09/09/2010,0.8,FEET,57.2,DEGREES F,8.13,MG/L
+04/20/2011,0.8,FEET,43.6,DEGREES F,12.37,MG/L
+06/06/2011,0.8,FEET,63.9,DEGREES F,12.25,MG/L
+06/24/2011,0.8,FEET,61.7,DEGREES F,10.8,MG/L
+06/29/2011,0.8,FEET,63.7,DEGREES F,12.3,MG/L
+07/21/2011,1.2,FEET,73.4,DEGREES F,.89,MG/L
+07/26/2011,1,FEET,74.6,DEGREES F,13.03,MG/L
+08/04/2011,0.9,FEET,67.1,DEGREES F,2.07,MG/L
+08/10/2011,1,FEET,67.8,DEGREES F,3.16,MG/L
+08/17/2011,0.9,FEET,69.1,DEGREES F,3.55,MG/L
+08/22/2011,0.6,FEET,69.1,DEGREES F,6.44,MG/L
+09/02/2011,0.8,FEET,68.5,DEGREES F,3.86,MG/L
+09/15/2011,1,FEET,56.6,DEGREES F,7.64,MG/L
+09/28/2011,1,FEET,58.6,DEGREES F,3.64,MG/L
+10/06/2011,0.8,FEET,56.8,DEGREES F,3.27,MG/L
+05/21/2012,1.2,FEET,63,F,9.37,MG/L
+06/15/2012,1.1,FEET,70.2,F,13.75,MG/L
+06/25/2012,1,FEET,73.7,F,6.18,MG/L
+07/02/2012,1,FEET,68.3,F,4.86,MG/L
+07/10/2012,1,FEET,77.5,F,8.08,MG/L
+07/17/2012,1,FEET,79.3,F,5.18,MG/L
+07/26/2012,1.1,FEET,70.7,F,1.61,MG/L
+08/02/2012,1,FEET,78.3,F,9.42,MG/L
+08/10/2012,1,FEET,66.6,F,8.15,MG/L
+08/13/2012,1,FEET,71,F,,
+08/28/2012,1.1,FEET,67.7,F,6.94,MG/L
+09/05/2012,1,FEET,71.2,F,5.3,MG/L
+09/11/2012,1,FEET,64.7,F,6.44,MG/L
+09/20/2012,1,FEET,52.4,F,5.51,MG/L
+09/27/2012,1,FEET,53.6,F,9.46,MG/L
+10/03/2012,1,FEET,59.6,F,10.06,MG/L
+10/10/2012,1,FEET,47.1,F,5.8,MG/L
+10/11/2012,1,FEET,46.8,F,7.37,MG/L
+10/12/2012,1.1,FEET,44.8,F,5.37,MG/L
+10/13/2012,1.1,FEET,43.2,F,9.22,MG/L
+10/15/2012,1,FEET,41.2,F,7.02,MG/L
+10/17/2012,1,FEET,48.3,F,3.44,MG/L
+10/20/2012,1,FEET,47.6,F,4.16,MG/L
+10/21/2012,1,FEET,45.6,F,4.34,MG/L
+05/28/2013,0.8,FEET,54,F,9.92,MG/L
+06/04/2013,1.2,FEET,59.4,F,9.19,MG/L
+06/11/2013,0.8,FEET,61.9,F,7.97,MG/L
+06/18/2013,0.8,FEET,66.7,F,6.96,MG/L
+06/25/2013,0.8,FEET,70.4,F,8.41,MG/L
+07/01/2013,0.8,FEET,73.2,F,7.29,MG/L
+07/11/2013,1,FEET,67.3,F,6.76,MG/L
+07/16/2013,1.1,FEET,72.9,F,10.15,MG/L
+07/23/2013,1,FEET,68.8,F,7.88,MG/L
+07/30/2013,1,FEET,65.4,F,8.95,MG/L
+08/07/2013,1,FEET,63,F,4.95,MG/L
+08/22/2013,1.6,FEET,70.2,F,7.24,MG/L
+08/29/2013,0.8,FEET,70.2,F,2.02,MG/L
+09/05/2013,0.8,FEET,62.9,F,7.45,MG/L
+09/10/2013,0.8,FEET,70.3,F,6.72,MG/L
+09/24/2013,0.8,FEET,54.5,F,4.61,MG/L
+10/03/2013,0.8,FEET,60.1,F,6.07,MG/L
+10/09/2013,0.8,FEET,59.6,F,11.4,MG/L
+10/17/2013,0.8,FEET,45,F,8.95,MG/L
+11/01/2013,0.8,FEET,46.1,F,4.16,MG/L
+05/23/2014,1,FEET,56.6,F,9.4,MG/L
+05/30/2014,0.9,FEET,67.1,F,9,MG/L
+06/13/2014,0.8,FEET,62,F,7.31,MG/L
+07/01/2014,0.8,FEET,65.1,F,5.08,MG/L
+07/09/2014,1,FEET,63,F,6.95,MG/L
+07/15/2014,1,FEET,63.9,F,6.06,MG/L
+07/29/2014,1,FEET,65.7,F,5.97,MG/L
+08/08/2014,0.6,FEET,74.2,F,7.25,MG/L
+08/12/2014,1,FEET,69.2,F,8.14,MG/L
+08/22/2014,1,FEET,69.2,F,4.39,MG/L
+09/03/2014,1,FEET,65.4,F,3.35,MG/L
+09/09/2014,1,FEET,61.5,F,3.41,MG/L
+09/26/2014,1,FEET,58.1,F,5.29,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/23/2002,Secchi .3 meters due to dense weed growth
+07/11/2003,Secchi .2 meters due to dense weed growth
+07/17/2003,Secchi .2 meters due to dense weed growth
+07/24/2003,Secchi .3 meters due to dense weed growth
+07/31/2003,Secchi .2 meters due to dense weed growth
+08/18/2003,Secchi .4 meters due to dense weed growth
+08/28/2003,Secchi .3 meters due to dense weed growth
+09/05/2003,Secchi .3 meters due to dense weed growth
+09/11/2003,Secchi .3 meters due to dense weed growth
+05/29/2007,too weedy
+06/20/2007,too weedy
+07/02/2007,too weedy
+07/30/2007,too weedy; Sunny- 85 degrees- light west winds
+08/13/2007,too weedy
+08/30/2007,too weedy
+09/10/2007,too weedy; Cloudy 65 degrees
+
+
+
+
+Start Date,Group Name,Project Name
+04/11/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+04/26/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/10/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/17/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/24/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/02/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/09/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/14/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/22/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/11/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/21/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/27/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/02/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/11/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/16/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/23/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/01/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/06/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/15/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/26/2000,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/06/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/09/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/10/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/11/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/13/2000,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/18/2001,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/01/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/19/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/27/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/09/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/26/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/01/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/09/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/17/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/23/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/30/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/04/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/14/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/27/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/01/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/02/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/03/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/04/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/08/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/09/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/10/2001,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/06/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/27/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/03/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/08/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/06/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/23/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/07/2002,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/22/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/29/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/06/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/16/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/30/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/11/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/17/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/24/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/31/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/18/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/28/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/05/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/11/2003,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/07/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/14/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/25/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/02/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/10/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/21/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/30/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/12/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/22/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/29/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/12/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/20/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/25/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/07/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/29/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/04/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/05/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/07/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/08/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/11/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/13/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/17/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/18/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/20/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/22/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/23/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/24/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/24/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/25/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/25/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/26/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/26/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/27/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/27/2004,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+11/01/2004,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/02/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/07/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/16/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/28/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/07/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/13/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/25/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/10/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/30/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/26/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/29/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/30/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/03/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/07/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/08/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/09/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/10/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/11/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/14/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/22/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/24/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/25/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/26/2005,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/09/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/29/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/07/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/24/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/02/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/16/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/29/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/14/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/20/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/28/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/16/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/22/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2006,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/03/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/29/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/20/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/02/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/16/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/30/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/13/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/30/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/10/2007,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/19/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/25/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/27/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/01/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/09/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/16/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2007,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/03/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/16/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/25/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/02/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/09/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/25/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/31/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/07/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/13/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/21/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/28/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/05/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/18/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/26/2008,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/02/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/16/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/24/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/27/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/28/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/29/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/30/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/31/2008,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/10/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/17/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/18/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/25/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/25/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/02/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/09/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/10/2009,Data Collectors,COURTE OREILLES LAKE ASSOC.: Lac Courte Oreilles Partnership: Working Lands- Working Waters Roadmap to 2020 ph. 3
+07/20/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/05/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/11/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/21/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/26/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/04/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/11/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/18/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/25/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/30/2009,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/09/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/25/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/26/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/27/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/28/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/29/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/30/2009,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/17/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/17/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/24/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/24/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/08/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/08/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/23/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/23/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/29/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/29/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/06/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/06/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/12/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/12/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/19/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/19/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/26/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/26/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/02/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/09/2010,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/09/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/17/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/24/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/05/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/06/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/07/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/08/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/13/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/14/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/16/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/22/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/25/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/26/2010,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+04/20/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/06/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/06/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/24/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/24/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/29/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/29/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/06/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/13/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/21/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/21/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/26/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/26/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/04/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/04/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/10/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/10/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/17/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/17/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/22/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/22/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/02/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/02/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/15/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/15/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/28/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/28/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/06/2011,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/06/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/22/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/24/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/25/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/26/2011,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/21/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/15/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/15/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/25/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/25/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/02/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/02/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/10/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/10/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/17/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/17/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/26/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/26/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/02/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/02/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/10/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/10/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/13/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/13/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/28/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/28/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/05/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/05/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/11/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/11/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/20/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/20/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/27/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/27/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/03/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/03/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/09/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/10/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/10/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/11/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/11/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/12/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/13/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/13/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/14/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/15/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/17/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/20/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2012,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/21/2012,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/28/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/28/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/04/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/04/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/11/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/11/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/18/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/18/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/25/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/25/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/01/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/01/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/11/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/11/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/15/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/16/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/16/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/23/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/23/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/30/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/30/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/07/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/07/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/12/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/22/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/22/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/29/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/29/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/05/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/05/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/10/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/10/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/24/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/24/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/03/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/03/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/09/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/09/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/11/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/12/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/13/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/14/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/16/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/17/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/22/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/24/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+11/01/2013,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+11/01/2013,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/07/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/15/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/23/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/23/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/30/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/30/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/13/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/13/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/01/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/01/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/09/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/09/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/15/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/15/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/25/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/29/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/29/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/08/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/12/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/12/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/22/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/22/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/26/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/03/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/03/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/09/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/09/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/18/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/26/2014,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/26/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/03/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/10/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2014,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/15/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/21/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+05/28/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/04/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/12/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/23/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/01/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/08/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/15/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/24/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+07/31/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/06/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/14/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/21/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+08/28/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/04/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/09/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+09/25/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/06/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/07/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/08/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/09/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/10/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/11/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/12/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/13/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/14/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/15/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/16/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/17/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/18/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+10/19/2015,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+04/27/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/26/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/07/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/21/2016,Brett McConnell,Lac Courte Oreilles - Tribal Sampling
+06/21/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/28/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/13/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/26/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/12/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/18/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/25/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/07/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/20/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/29/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/06/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/11/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/14/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/24/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/25/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/26/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/27/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/28/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/31/2016,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+04/03/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+05/11/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/05/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/06/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+06/20/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/05/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+07/20/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/02/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/15/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/24/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+08/30/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+09/12/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/13/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/14/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/15/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/16/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/17/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/18/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/19/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/20/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/21/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling
+10/23/2017,Data Collectors,Lac Courte Oreilles - Tribal Sampling

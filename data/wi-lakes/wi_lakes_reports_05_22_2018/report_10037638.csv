@@ -1,0 +1,35 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Buffalo,5582235,WC,6,,10037638,SW,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+62595126,09/27/2012,1.6,NO,0.5,146,155,70,67,72,,,,,
+145584054,08/28/2017,,,,159,204,,69,73,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/27/2012,0,METERS,14.4,DEGREES C,8.9,MG/L
+09/27/2012,0.5,METERS,13.6,DEGREES C,8,MG/L
+09/27/2012,1,METERS,13.5,DEGREES C,7.5,MG/L
+09/27/2012,1.5,METERS,13.4,DEGREES C,7.4,MG/L
+09/27/2012,1.9,METERS,13.4,DEGREES C,7.3,MG/L
+08/28/2017,0,METERS,21.45,DEGREES C,8.3,MG/L
+08/28/2017,1,METERS,21.1,DEGREES C,2.2,MG/L
+08/28/2017,2,METERS,20.6,DEGREES C,.3,MG/L
+08/28/2017,2.9,METERS,19.3,DEGREES C,.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/27/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+08/28/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

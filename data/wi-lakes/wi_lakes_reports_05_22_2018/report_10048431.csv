@@ -1,0 +1,29 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Bayfield,2594300,NO,4,,10048431,NW,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,09/07/2017,,,,12.9,31.4,,55,54,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/07/2017,0,METERS,17.7,DEGREES C,6.85,MG/L
+09/07/2017,1,METERS,17.2,DEGREES C,6.9,MG/L
+09/07/2017,2,METERS,17,DEGREES C,6.8,MG/L
+09/07/2017,3,METERS,17,DEGREES C,6.8,MG/L
+09/07/2017,3.3,METERS,16.7,DEGREES C,.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/07/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

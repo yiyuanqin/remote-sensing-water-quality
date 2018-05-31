@@ -1,0 +1,96 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Butte des Morts,Winnebago,139900,NE,71,,713257,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,04/22/1991,3.1,,0.94,,48,61,58,,,,,,
+1,05/02/1991,,,,,88,,63,,,,,,
+1,05/15/1991,2,,0.62,,85,67,63,,,,,,
+1,05/31/1991,1.5,,0.45,,107,71,64,,,,,,
+1,06/12/1991,1.3,,0.4,,101,73,64,,,,,,
+1,06/25/1991,1.2,,0.38,,93,74,63,,,,,,
+1,07/09/1991,1.4,,0.42,,113,72,65,,,,,,
+1,07/24/1991,1.2,,0.36,,107,75,64,,,,,,
+7873025,08/06/1991,1.2,,0.37,,98,74,64,,,,,,
+7873025,08/21/1991,1.5,,0.45,,93,71,63,,,,,,
+1,06/01/1994,3.1,,0.95,11.6,,61,,53,,,,,
+1,08/22/1994,1.7,,0.51,73.2,,70,,67,,,,,
+1,04/19/1995,,,,32.3,,,,61,,,,,
+1,05/03/1995,,,,25.8,,,,59,,,,,
+1,05/17/1995,,,,35.3,,,,62,,,,,
+1,06/01/1995,,,,14.5,,,,55,,,,,
+1,06/14/1995,,,,29,,,,60,,,,,
+1,07/11/1995,,,,0.08,,,,16,,,,,
+1,07/26/1995,,,,0.63,,,,31,,,,,
+1,08/11/1995,,,,83.4,,,,68,,,,,
+1,08/21/1995,,,,77.9,,,,68,,,,,
+21987428,08/20/2013,1.9,NO,0.6,49.2,32.4,68,55,64,,,,,
+21987428,09/29/2013,1.2,,0.4,66.5,90.1,74,63,67,,,,,
+62404880,05/27/2014,,,,23.5,85.6,,63,59,,,,,
+62404880,06/24/2014,,,,15.3,79.4,,62,55,,,,,
+62404880,07/22/2014,,,,77.3,156,,67,68,,,,,
+62404880,08/18/2014,,,,86.3,196,,69,69,,,,,
+62404880,05/31/2016,1.8,NO,0.5,,117,69,65,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,07/18/2016,1,NO,0.3,68.6,140,77,66,67,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+62404880,08/16/2016,1.1,NO,0.3,39.5,98.6,76,64,63,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+62404880,09/19/2016,,,,99.1,167,,68,70,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/20/2013,,,22.6,C,7.09,MG/L
+09/29/2013,,,19.4,C,,
+05/31/2016,1,METERS,23.2,DEGREES C,9.36,MG/L
+07/18/2016,1,METERS,25,DEGREES C,7.85,MG/L
+08/16/2016,1,METERS,26.5,DEGREES C,4.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+04/22/1991,FROM 0 - 1.25M DEPTH    
+08/22/1994,DEPTH    
+05/17/1995,COMPOSITE SAMPLE OF WATER COLUMN: 0-1.25M DEPTH    
+06/01/1995,DEPTH    
+07/26/1995,0-1.25M DEPTH    
+08/11/1995,COMPOSITE SAMPLE OF WATER COLUMN: 0-1.25M DEPTH    
+08/21/1995,COMPOSITE SAMPLE OF WATER COLUMN: 0-1.25M DEPTH    
+
+
+
+
+Start Date,Group Name,Project Name
+04/22/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+05/02/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+05/15/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+05/31/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+06/12/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+06/25/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+07/09/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+07/24/1991,Data Collectors,LAKE NUTRIENTS BUTTE DES MORTS
+08/06/1991,RICHARD KAHL,LAKE NUTRIENTS BUTTE DES MORTS
+08/21/1991,RICHARD KAHL,LAKE NUTRIENTS BUTTE DES MORTS
+06/01/1994,Data Collectors,WINNEBAGO SYSTEM LAKES
+08/22/1994,Data Collectors,WINNEBAGO SYSTEM LAKES
+04/19/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+05/03/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+05/17/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+06/01/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+06/14/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+07/11/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+07/26/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+08/11/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+08/21/1995,Data Collectors,WINNEBAGO SYSTEM LAKES
+08/20/2013,ANDREW SABAI,
+09/29/2013,ANDREW SABAI,
+05/27/2014,ERIC EVENSEN,Terrell's Island Water Quality Assessment - NER_07_CMP14
+06/24/2014,ERIC EVENSEN,Terrell's Island Water Quality Assessment - NER_07_CMP14
+07/22/2014,ERIC EVENSEN,Terrell's Island Water Quality Assessment - NER_07_CMP14
+08/18/2014,ERIC EVENSEN,Terrell's Island Water Quality Assessment - NER_07_CMP14
+05/31/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+07/18/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+08/16/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment
+09/19/2016,ERIC EVENSEN,Terrell's Island Water Quality Assessment

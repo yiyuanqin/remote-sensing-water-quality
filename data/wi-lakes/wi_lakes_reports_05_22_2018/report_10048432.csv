@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fawn Lake,Burnett,2464000,NO,7,,10048432,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,08/30/2017,,,,8.55,9.39,,46,51,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/30/2017,0,METERS,21.3,DEGREES C,9.1,MG/L
+08/30/2017,1,METERS,21.3,DEGREES C,9.1,MG/L
+08/30/2017,2,METERS,21.1,DEGREES C,9.1,MG/L
+08/30/2017,3,METERS,20.8,DEGREES C,9.2,MG/L
+08/30/2017,4,METERS,20.6,DEGREES C,6.5,MG/L
+08/30/2017,4.3,METERS,20.5,DEGREES C,6.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/30/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

@@ -1,0 +1,434 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Arrowhead,Adams,1377700,WC,1,,10028945,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,10/29/1985,7,,2.1,,,49,,,,,,,
+1,05/08/1986,6,,1.8,,,51,,,,,,,
+1,06/13/1986,7,,2.1,,,49,,,,,,,
+1,07/11/1986,7,,2.1,,,49,,,,,,,
+1,08/12/1986,4,,1.2,,,57,,,,,,,
+1,09/10/1986,4.5,,1.4,,,55,,,,,,,
+1,05/28/1987,9,,2.7,,,45,,,,,,,
+1,06/30/1987,8,,2.4,,,47,,,,,,,
+1,07/28/1987,6.5,,2,,,50,,,,,,,
+1,08/24/1987,5,,1.5,,,54,,,,,,,
+1,09/22/1987,3.5,,1.1,,,59,,,,,,,
+1,10/27/1987,6,,1.8,,,51,,,,,,,
+1,06/07/1988,12,,3.6,,,41,,,,,,,
+1,07/05/1988,7,,2.1,,,49,,,,,,,
+1,10/04/1988,5,,1.5,,,54,,,,,,,
+1,06/27/1989,8,,2.4,,,47,,,,,,,
+1,07/31/1989,4.5,,1.4,,,55,,,,,,,
+1,08/28/1989,4,,1.2,,,57,,,,,,,
+1,10/10/1989,4,,1.2,,,57,,,,,,,
+1,07/10/1990,6,,1.8,,,51,,,,,,,
+1,08/06/1990,4,,1.2,,,57,,,,,,,
+1,05/21/1991,9,,2.7,,,45,,,,,,,
+1,06/25/1991,8,,2.4,,,47,,,,,,,
+1,08/19/1991,5,,1.5,,,54,,,,,,,
+1,06/22/1992,8,,2.4,,,47,,,,,,,
+1,07/27/1992,5,,1.5,,,54,,,,,,,
+1,08/31/1992,5.5,,1.7,,,53,,,,,,,
+1,09/29/1992,5.5,,1.7,,,53,,,,,,,
+61048700,06/12/1996,,,,,29,,54,,,,,,
+61048700,04/29/1998,,,,,19,,51,,,,,,
+61048700,07/13/1998,,,,,26,,53,,,,,,
+18137361,07/24/2008,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,
+18137361,09/03/2008,6,NO,1.8,,32,51,55,,NORMAL,,MURKY,BROWN,
+1,05/28/2009,,,,,22,,52,,,,,,
+18137361,05/28/2009,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,09/04/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,05/31/2010,,,,,14,,49,,,,,,
+23147987,06/29/2010,9.3,NO,2.8,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991310,06/29/2010,,,,11.8,18,,51,53,,,,,
+35007228,08/03/2010,,,,30.4,29,,54,61,,,,,
+1,08/31/2010,,,,22.7,33,,55,58,,,,,
+23147987,08/31/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/29/2010,,,,6.24,29,,54,49,,,,,
+18137361,05/04/2011,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+29401203,06/01/2011,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+49184700,06/01/2011,,,,,18,,51,,,,,,
+29401203,07/06/2011,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+49184700,07/06/2011,,,,3.99,22,,52,45,,,,,
+29401203,07/28/2011,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+49184700,07/28/2011,,,,19,22,,52,57,,,,,
+29401203,08/31/2011,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+50481978,08/31/2011,,,,10.3,26,,53,52,,,,,
+29401203,09/14/2011,7.25,NO,2.2,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+49184700,09/14/2011,,,,,17,,50,,,,,,
+18137361,04/03/2012,12.5,NO,3.8,,43,41,57,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+50481978,06/27/2012,,,,22.5,28,,54,58,,,,,
+62237788,07/24/2012,6,NO,1.8,10.7,31,51,55,53,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+62237788,08/22/2012,,,,3.94,18,,51,45,,,,,
+29401203,08/28/2012,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29401203,09/11/2012,9.25,NO,2.8,,,45,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+50481978,09/11/2012,,,,4.89,18,,51,47,,,,,
+18137361,05/01/2013,6.3,NO,1.9,,28,51,54,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+29401203,06/19/2013,12.5,NO,3.8,2.92,13.9,41,49,43,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+29401203,07/30/2013,5,NO,1.5,,,54,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34991315,07/30/2013,,,,26.9,28.2,,54,60,,,,,
+29401203,08/27/2013,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34991315,08/27/2013,,,,14.2,27.2,,54,55,,,,,
+29401203,09/24/2013,9.25,NO,2.8,,,45,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+34991315,09/24/2013,,,,6.01,24.9,,53,48,,,,,
+29401203,10/15/2013,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,10/15/2013,,,,4.12,23.7,,53,46,,,,,
+29401203,06/10/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,06/10/2014,,,,10.6,24.3,,53,53,,,,,
+29401203,07/15/2014,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,07/15/2014,,,,35.6,30.5,,55,62,,,,,
+29401203,08/26/2014,4.25,NO,1.3,,,56,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,08/26/2014,,,,20.7,34.3,,56,58,,,,,
+29401203,09/23/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34991315,09/23/2014,,,,21.7,31.8,,55,58,,,,,
+29401203,10/21/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34991315,10/21/2014,,,,2.27,18.7,,51,41,,,,,
+29401203,06/24/2015,7.75,NO,2.4,6.79,22.2,48,52,49,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,07/15/2015,,,,21.2,28.6,,54,58,,,,,
+29401203,07/15/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+1,08/24/2015,,,,6.73,26.2,,53,49,,,,,
+29401203,08/25/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+29401203,09/22/2015,12.5,NO,3.8,3.64,18.8,41,51,45,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+29401203,10/13/2015,13,NO,4,2.13,15.8,40,50,41,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,03/29/2016,,,,,27.9,,54,,,,,,
+18137361,03/29/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,06/14/2016,,,,5.83,24,,53,48,,,,,
+29401203,06/14/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,07/19/2016,,,,,26.1,,53,,,,,,
+29401203,07/19/2016,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/23/2016,,,,9.85,30,,54,52,,,,,
+29401203,08/23/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+1,06/21/2017,,,,7.38,25.5,,53,50,,,,,
+18137361,06/21/2017,13.7,NO,4.2,,,39,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+1,07/26/2017,,,,17.1,29.6,,54,56,,,,,
+18137361,07/26/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+1,08/30/2017,,,,27.5,39,,57,60,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/24/2008,0,FEET,78,DEGREES F,15.25,MG/L
+07/24/2008,5,FEET,77.1,DEGREES F,13.98,MG/L
+07/24/2008,10,FEET,75.5,DEGREES F,11.54,MG/L
+07/24/2008,15,FEET,72.8,DEGREES F,8.22,MG/L
+09/03/2008,0,FEET,73.4,DEGREES F,7.83,MG/L
+09/03/2008,5,FEET,73.4,DEGREES F,7.46,MG/L
+09/03/2008,10,FEET,73.2,DEGREES F,7.42,MG/L
+09/03/2008,15,FEET,70.8,DEGREES F,6.93,MG/L
+05/28/2009,0,FEET,62.6,DEGREES F,,
+05/28/2009,5,FEET,62.4,DEGREES F,,
+05/28/2009,10,FEET,62.4,DEGREES F,,
+05/28/2009,15,FEET,62,DEGREES F,,
+06/29/2010,0,FEET,72.3,DEGREES F,,
+06/29/2010,5,FEET,72.1,DEGREES F,,
+06/29/2010,10,FEET,71.9,DEGREES F,,
+06/29/2010,15,FEET,66.9,DEGREES F,,
+08/31/2010,0,FEET,76.4,DEGREES F,,
+08/31/2010,5,FEET,72.9,DEGREES F,,
+08/31/2010,10,FEET,70.9,DEGREES F,,
+08/31/2010,15,FEET,67,DEGREES F,,
+05/04/2011,0,FEET,47.6,DEGREES F,,
+05/04/2011,5,FEET,47.1,DEGREES F,,
+05/04/2011,10,FEET,46.9,DEGREES F,,
+05/04/2011,16,FEET,46.7,DEGREES F,,
+06/01/2011,0,FEET,65.4,DEGREES F,,
+06/01/2011,5,FEET,65.4,DEGREES F,,
+06/01/2011,10,FEET,65.4,DEGREES F,,
+07/06/2011,0,FEET,79.1,DEGREES F,,
+07/06/2011,5,FEET,78.4,DEGREES F,,
+07/06/2011,10,FEET,76.8,DEGREES F,,
+07/06/2011,15,FEET,71.4,DEGREES F,,
+07/28/2011,0,FEET,78.2,DEGREES F,,
+07/28/2011,5,FEET,78,DEGREES F,,
+07/28/2011,10,FEET,77.9,DEGREES F,,
+07/28/2011,15,FEET,73.2,DEGREES F,,
+08/31/2011,0,FEET,72.8,DEGREES F,,
+08/31/2011,5,FEET,72.8,DEGREES F,,
+08/31/2011,10,FEET,72.6,DEGREES F,,
+08/31/2011,15,FEET,69.9,DEGREES F,,
+09/14/2011,0,FEET,69.4,DEGREES F,,
+09/14/2011,5,FEET,69.4,DEGREES F,,
+09/14/2011,10,FEET,69.6,DEGREES F,,
+09/14/2011,15,FEET,69.2,DEGREES F,,
+04/03/2012,0,FEET,51.6,DEGREES F,,
+04/03/2012,5,FEET,51.4,DEGREES F,,
+04/03/2012,10,FEET,51.2,DEGREES F,,
+07/24/2012,0,FEET,80,DEGREES F,,
+07/24/2012,5,FEET,79.8,DEGREES F,,
+07/24/2012,10,FEET,76.8,DEGREES F,,
+07/24/2012,15,FEET,72.8,DEGREES F,,
+08/28/2012,0,FEET,72.6,DEGREES F,,
+08/28/2012,5,FEET,72.3,DEGREES F,,
+08/28/2012,10,FEET,71.4,DEGREES F,,
+08/28/2012,15,FEET,69.6,DEGREES F,,
+09/11/2012,0,FEET,70.1,DEGREES F,,
+09/11/2012,5,FEET,69.9,DEGREES F,,
+09/11/2012,10,FEET,69.8,DEGREES F,,
+09/11/2012,15,FEET,68.1,DEGREES F,,
+05/01/2013,0,FEET,56.1,DEGREES F,,
+05/01/2013,5,FEET,55.5,DEGREES F,,
+05/01/2013,10,FEET,54.8,DEGREES F,,
+06/19/2013,0,FEET,71.9,DEGREES F,,
+06/19/2013,5,FEET,71.4,DEGREES F,,
+06/19/2013,10,FEET,70.8,DEGREES F,,
+06/19/2013,15,FEET,69.6,DEGREES F,,
+07/30/2013,0,FEET,70.1,DEGREES F,,
+07/30/2013,5,FEET,70.1,DEGREES F,,
+07/30/2013,10,FEET,69.8,DEGREES F,,
+07/30/2013,15,FEET,67.4,DEGREES F,,
+08/27/2013,0,FEET,75.2,DEGREES F,,
+08/27/2013,5,FEET,75,DEGREES F,,
+08/27/2013,10,FEET,71.6,DEGREES F,,
+08/27/2013,15,FEET,65.6,DEGREES F,,
+09/24/2013,0,FEET,64.9,DEGREES F,,
+09/24/2013,5,FEET,64.2,DEGREES F,,
+09/24/2013,10,FEET,63.6,DEGREES F,,
+09/24/2013,15,FEET,63.6,DEGREES F,,
+10/15/2013,0,FEET,58.2,DEGREES F,,
+10/15/2013,5,FEET,58.2,DEGREES F,,
+10/15/2013,10,FEET,57.9,DEGREES F,,
+10/15/2013,15,FEET,57.2,DEGREES F,,
+06/10/2014,0,FEET,72.1,DEGREES F,,
+06/10/2014,5,FEET,71.9,DEGREES F,,
+06/10/2014,10,FEET,71.7,DEGREES F,,
+06/10/2014,15,FEET,69.9,DEGREES F,,
+06/10/2014,20,FEET,66.5,DEGREES F,,
+07/15/2014,0,FEET,71.4,DEGREES F,,
+07/15/2014,5,FEET,71.4,DEGREES F,,
+07/15/2014,10,FEET,71.4,DEGREES F,,
+07/15/2014,15,FEET,71,DEGREES F,,
+08/26/2014,0,FEET,75.9,DEGREES F,,
+08/26/2014,5,FEET,75.5,DEGREES F,,
+08/26/2014,10,FEET,75,DEGREES F,,
+08/26/2014,15,FEET,71,DEGREES F,,
+09/23/2014,0,FEET,63.6,DEGREES F,,
+09/23/2014,5,FEET,62.7,DEGREES F,,
+09/23/2014,10,FEET,62.4,DEGREES F,,
+09/23/2014,15,FEET,62,DEGREES F,,
+10/21/2014,0,FEET,52.1,DEGREES F,,
+10/21/2014,5,FEET,52.1,DEGREES F,,
+10/21/2014,10,FEET,52.1,DEGREES F,,
+10/21/2014,15,FEET,52.1,DEGREES F,,
+06/24/2015,0,FEET,74.1,DEGREES F,,
+06/24/2015,5,FEET,73.2,DEGREES F,,
+06/24/2015,10,FEET,71.9,DEGREES F,,
+06/24/2015,15,FEET,70.1,DEGREES F,,
+07/15/2015,0,FEET,77.1,DEGREES F,,
+07/15/2015,5,FEET,76.4,DEGREES F,,
+07/15/2015,10,FEET,75,DEGREES F,,
+07/15/2015,15,FEET,72.1,DEGREES F,,
+08/25/2015,0,FEET,66.9,DEGREES F,,
+08/25/2015,5,FEET,66.9,DEGREES F,,
+08/25/2015,10,FEET,66.9,DEGREES F,,
+08/25/2015,15,FEET,66.9,DEGREES F,,
+09/22/2015,0,FEET,68.3,DEGREES F,,
+09/22/2015,5,FEET,68.2,DEGREES F,,
+09/22/2015,10,FEET,68,DEGREES F,,
+09/22/2015,15,FEET,67.6,DEGREES F,,
+10/13/2015,0,FEET,58.2,DEGREES F,,
+10/13/2015,5,FEET,58.2,DEGREES F,,
+10/13/2015,10,FEET,58.2,DEGREES F,,
+10/13/2015,15,FEET,58.1,DEGREES F,,
+03/29/2016,0,FEET,43.8,DEGREES F,,
+03/29/2016,5,FEET,43.7,DEGREES F,,
+03/29/2016,10,FEET,42.7,DEGREES F,,
+03/29/2016,15,FEET,42.6,DEGREES F,,
+06/14/2016,0,FEET,71.6,DEGREES F,,
+06/14/2016,5,FEET,71.4,DEGREES F,,
+06/14/2016,10,FEET,71,DEGREES F,,
+06/14/2016,15,FEET,69.4,DEGREES F,,
+07/19/2016,0,FEET,78.8,DEGREES F,,
+07/19/2016,5,FEET,75.8,DEGREES F,,
+07/19/2016,10,FEET,74.1,DEGREES F,,
+07/19/2016,15,FEET,70.7,DEGREES F,,
+08/23/2016,0,FEET,74.4,DEGREES F,,
+08/23/2016,5,FEET,73.9,DEGREES F,,
+08/23/2016,10,FEET,73.5,DEGREES F,,
+08/23/2016,15,FEET,70.8,DEGREES F,,
+07/26/2017,0,FEET,76.2,DEGREES F,,
+07/26/2017,5,FEET,76.2,DEGREES F,,
+07/26/2017,10,FEET,75.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/24/2008,Dick Anderson- Dick Strege + Jerry Striba performed the testing
+
+day was sunny- slightly windy- low 80s
+05/28/2009,also along--Richard Anderson- Jesse Weinzinger- Dreu Opperman
+
+day was starting to get sunny- slight wind- upper 60s
+09/04/2009,with Richard Anderson
+06/29/2010,additional collectors:  Lucas Black + Reesa Evans--sunny- light wind- beautiful
+05/04/2011,Tri-Lakes employee Jon Haag also present--beautiful sunny day with occasional breeze--no other boat traffic observed
+06/01/2011,Sunny and very windy.  Choppy conditions on lake.  Air Temperature:  62.6 F. 
+07/06/2011,Sunny- Air Temperature 77 F.
+07/28/2011,Overcast. Air Temperature 79 F.
+08/31/2011,Overcast- Air Temperature 70 F.
+09/14/2011,Mostly Cloudy- Air Temperature 49 F.
+04/03/2012,windy- sunny- partly cloudy- chilly
+07/24/2012,Collectors:  S. Francart- T. Skerven- D. Anderson
+Air Temperature:  80 F.-  Conditions:  Cloudy Collectors:  S. Francart- T. Skerven- D. Anderson
+Air Temp:  80 F.    Conditions:  Cloudy Collectors:  S. Francart- T. Skerven- D. Anderson
+Air Temp:  80 F.   Conditions:  Cloudy
+08/28/2012,Collectors:  D. Poehler- S. Francart- T. Skerven- D. Anderson
+Air Temperature:  78 F.-  Conditions:  Clear
+09/11/2012,Collector:  D. Poehler
+Air Temperature:  75 F.    Conditions:  Clear- Breezy
+05/01/2013,partly cloudy and very windy--air temp 55 F--ice just went out past weekend sunny and windy--air temp about 70 F--ice just went out this past weekend--water seems more turbid than usual at this time of year--green coontail found
+06/19/2013,Air Temperature: 71 F.- Clear
+D. Anderson- D. Poehler- B. Brewer- Nick W.
+07/30/2013,Air Temperature: 68 F.- Cloudy
+D. Anderson- D. Poehler- B. Brewer- Nick W.
+08/27/2013,Air Temperature: 84 F.- Sunny - Breezy
+D. Poehler- N. Walkosz- B. Brewer- D. Anderson
+09/24/2013,Air Temperature: 68 F.- Mostly Sunny- Slight Breeze
+D. Anderson- D. Poehler
+10/15/2013,Air Temperature: 54 F.- Cloudy and Breezy
+D. Anderson- D. Poehler
+06/10/2014,Collectors: D. Poehler- D. Jadeck- C. Rogers- D. Anderson
+Air Temp: 66 F.- Partly Cloudy- Slight Breeze
+07/15/2014,Collectors: D. Poehler- D. Jadeck- C. Rogers- D. Anderson
+Air Temp: 68 F.- Mostly Cloudy- Breezy
+08/26/2014,Collectors:  D. Poehler- C. Rogers
+Air Temp:  73 F.  Partly Cloudy- Slight Breeze
+09/23/2014,Collectors:  D. Poehler- C. Rogers- D. Anderson
+Air Temp:  66 F.  Sunny- Calm
+10/21/2014,Collectors:  D. Poehler- C. Rogers- D. Anderson
+Air Temp:  50 F.  Cloudy- Slight Breeze
+06/24/2015,Collectors:  D. Anderson- D. Poehler- K. Berge- A. Hoffman
+Air Temp: 78 F.- Mostly Sunny- Slight Breeze
+07/15/2015,Collectors: D. Poehler- K. Berge- A. Hoffman
+Air Temp: 77 F.- Sunny- Slight Breeze 
+08/25/2015,Collectors: D. Anderson- D. Poehler- K. Berge- A. Hoffman
+Air Temp: 59 F.- Overcast- Breezy
+09/22/2015,Collectors: D. Poehler- D. Anderson
+Air Temperature:  68 F.- Cloudy- Slight Breeze
+10/13/2015,Collectors: D. Poehler- D. Anderson
+Air temperature: 51 F.- Cloudy- Breezy
+03/29/2016,with Dennis Poehler--a bit windy- sunny- air temp in mid 50s F
+06/14/2016,Collectors:  D. Poehler- D. Anderson- J. Mortel- B. Kleist
+Air Temp: 65F- Mostly Cloudy- S;light Breeze
+07/19/2016,Collectors:  D. Poehler- J. Mortel
+Air Temp:  85F.- Mostly Sunny- Slight Breeze
+08/23/2016,Collectors:  D. Poehler
+Air Temp: 72 F.- Sunny- Slight Breeze
+06/21/2017,sunny- little wind- few boats out
+07/26/2017,with interns Christine- Hunter + Matt--overcast skies
+
+
+
+
+Start Date,Group Name,Project Name
+10/29/1985,Data Collectors,
+05/08/1986,Data Collectors,
+06/13/1986,Data Collectors,
+07/11/1986,Data Collectors,
+08/12/1986,Data Collectors,
+09/10/1986,Data Collectors,
+05/28/1987,Data Collectors,
+06/30/1987,Data Collectors,
+07/28/1987,Data Collectors,
+08/24/1987,Data Collectors,
+09/22/1987,Data Collectors,
+10/27/1987,Data Collectors,
+06/07/1988,Data Collectors,
+07/05/1988,Data Collectors,
+10/04/1988,Data Collectors,
+06/27/1989,Data Collectors,
+07/31/1989,Data Collectors,
+08/28/1989,Data Collectors,
+10/10/1989,Data Collectors,
+07/10/1990,Data Collectors,
+08/06/1990,Data Collectors,
+05/21/1991,Data Collectors,
+06/25/1991,Data Collectors,
+08/19/1991,Data Collectors,
+06/22/1992,Data Collectors,
+07/27/1992,Data Collectors,
+08/31/1992,Data Collectors,
+09/29/1992,Data Collectors,
+06/12/1996,JESSICA BACKUS,
+04/29/1998,JESSICA BACKUS,
+07/13/1998,JESSICA BACKUS,
+07/24/2008,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/03/2008,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/03/2008,Reesa Evans,
+05/28/2009,Data Collectors,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+05/28/2009,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/04/2009,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+05/31/2010,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+06/29/2010,Lucas Black,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+06/29/2010,Richard Anderson,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+08/03/2010,Lucas Black- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+08/31/2010,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+08/31/2010,Richard Anderson,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/29/2010,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Water Quality
+05/04/2011,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/01/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/01/2011,Dennis Poehler and Clayton Anderson,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/06/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/06/2011,Dennis Poehler and Clayton Anderson,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/28/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/28/2011,Dennis Poehler and Clayton Anderson,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/31/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+08/31/2011,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+09/14/2011,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/14/2011,Dennis Poehler and Clayton Anderson,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+04/03/2012,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+04/03/2012,Reesa Evans,
+06/27/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/24/2012,Sarah Francart,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/24/2012,Sarah Francart,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/22/2012,Sarah Francart,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+08/28/2012,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/11/2012,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/11/2012,Richard Anderson- Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+05/01/2013,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+05/01/2013,Reesa Evans,
+06/19/2013,Barb Herreid,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes CBCW- Monitoring 11-12
+07/30/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/30/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+08/27/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+08/27/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/24/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/24/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/15/2013,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+10/15/2013,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+06/10/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/10/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+07/15/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/15/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+08/26/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+08/26/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+09/23/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/23/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+10/21/2014,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+10/21/2014,Dennis Poehler,TRI-LAKES MANAGEMENT DISTRICT: Tri-lakes CBCW- AIS
+06/24/2015,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/24/2015,Barb Herreid,Tri-Lakes - Extra Sampling 
+07/15/2015,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/15/2015,Data Collectors,Tri-Lakes - Extra Sampling 
+08/24/2015,Data Collectors,Tri-Lakes - Extra Sampling 
+08/25/2015,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+09/22/2015,Barb Herreid,Bacteria + Plankton (Paid Private)
+09/22/2015,Barb Herreid,Tri-Lakes - Extra Sampling 
+10/13/2015,Barb Herreid,Tri-Lakes - Extra Sampling 
+03/29/2016,Data Collectors,Bacteria + Plankton (Paid Private)
+03/29/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/14/2016,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/14/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+07/19/2016,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/19/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+08/23/2016,Barb Herreid,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+08/23/2016,Data Collectors,TRI-LAKES MANAGEMENT DISTRICT: Tri-Lakes Sampling
+06/21/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+06/21/2017,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+07/26/2017,Data Collectors,Water Quality  - Tri-Lakes (Tri-Lakes grant)
+07/26/2017,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arrowhead Lake (#6)
+08/30/2017,Data Collectors,Tri-Lakes - Extra Sampling 

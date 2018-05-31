@@ -1,0 +1,87 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Green Lake,Burnett,2467200,NO,7,,074012,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/14/1979,,,,10.52,131,,66,53,,,,,
+37715722,06/25/2010,3,YES,0.9,,,61,,,LOW,3,CLEAR,BLUE,1-Beautiful, could not be nicer
+37715722,07/07/2010,3.5,YES,1.1,,,59,,,LOW,3.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+37715722,07/20/2010,3.25,YES,1,,,60,,,LOW,3.25,CLEAR,BLUE,2-Very minor aesthetic problems
+37715722,08/08/2010,3.5,YES,1.1,,,59,,,LOW,3.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+37715722,08/14/2010,3.75,YES,1.1,,,58,,,LOW,3.75,CLEAR,BLUE,2-Very minor aesthetic problems
+37715722,08/19/2010,4,YES,1.2,,,57,,,LOW,4,MURKY,GREEN,2-Very minor aesthetic problems
+37715722,09/03/2010,4,YES,1.2,,,57,,,LOW,4,CLEAR,GREEN,2-Very minor aesthetic problems
+37715722,09/22/2010,4,YES,1.2,,,57,,,LOW,4,CLEAR,BLUE,2-Very minor aesthetic problems
+37715722,03/05/2011,5,YES,1.5,,,54,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37715722,05/13/2011,5,YES,1.5,,,54,,,LOW,5,CLEAR,BLUE,1-Beautiful, could not be nicer
+37715722,05/18/2011,5,YES,1.5,,10,54,46,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37715722,06/27/2011,,,,4.29,17,,50,46,,,,,
+37715722,07/31/2011,,,,8.64,14,,49,51,,,,,
+37715722,09/08/2011,,,,7.39,16,,50,50,,,,,
+37715722,07/23/2012,,,,,11,,47,,,,,,
+37715722,08/14/2012,,,,4.83,15,,49,47,,,,,
+37715722,06/24/2013,,,,1.61,9.02,,45,38,,,,,
+37715814,07/29/2013,,,,5.58,7.95,,44,48,,,,,
+37715722,07/07/2014,,,,3.83,13.5,,48,45,,,,,
+37715722,07/26/2014,,,,5.85,17.1,,50,48,,,,,
+37715722,07/21/2015,,,,3.9,13.3,,48,45,,,,,
+1,09/02/2015,,,,3.52,13.6,,48,44,,,,,
+37715722,09/28/2017,,,,1.4,13.1,,48,37,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/14/1979,,,,,8,MG/L
+03/05/2011,5,FEET,28,DEGREES F,6,MG/L
+05/13/2011,4,FEET,37,DEGREES F,5.5,MG/L
+05/13/2011,5,FEET,28,DEGREES F,5.8,MG/L
+05/18/2011,5,FEET,62,DEGREES F,7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/14/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/25/2010,calm- bright sunlight
+07/07/2010,slight ripple at surface- partly sunny
+07/20/2010,totally calm- mix sun and clouds
+08/08/2010,murky after rains-slight waves and wind- depth increase due to rains
+08/14/2010,murky after more rain- medium wind and waves- depth increase due to heavy rain
+08/19/2010,sunny- slight breeze- water murky- more rain increased depth
+09/03/2010,slight breeze- sunny- slight murky' trained in Mark Dalglish
+09/22/2010,cloudy- calm- storm possible tonight-  assisted by Wayne Lockwood
+03/05/2011,through ice with Ron Schneider  cold   clear and sunny
+05/13/2011,cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+08/14/1979,Data Collectors,Migrated from STORET Legacy
+06/25/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/07/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/20/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+08/08/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+08/14/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+08/19/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+09/03/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+09/22/2010,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+03/05/2011,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+05/13/2011,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+05/18/2011,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+06/27/2011,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/31/2011,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+09/08/2011,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/23/2012,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+08/14/2012,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+06/24/2013,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/29/2013,Wayne Lockwood,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/07/2014,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/07/2014,Paul Harner,Citizen Lake Monitoring Network QA/QC - 2014
+07/26/2014,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+07/21/2015,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+09/02/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot
+09/28/2017,Paul Harner,Citizen Lake Monitoring - Water Quality - Green Lake - Deepest Spot

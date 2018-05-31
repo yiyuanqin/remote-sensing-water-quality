@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Mendota,Dane,805400,SC,13,,10031991,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+89214715,08/13/2014,,,,9.19,25.4,,53,52,,,,,
+7000126,11/01/2014,,,,8.8,105,,64,51,,,,,
+89214715,09/01/2015,,,,11.1,22.8,,52,53,,,,,
+89214715,07/19/2016,,,,5.64,23.5,,53,48,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+11/01/2014,STEVEN GREB,Optical  Properties of WI Lakes 2011 - 
+09/01/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 
+07/19/2016,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 

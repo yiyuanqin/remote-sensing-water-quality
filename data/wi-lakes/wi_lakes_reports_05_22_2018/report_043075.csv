@@ -1,0 +1,475 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Delta,Bayfield,2901700,NO,4,,043075,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188994,08/13/2003,15.25,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/20/2003,14.75,NO,4.5,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/28/2003,12,NO,3.6,,,41,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188994,09/03/2003,14,NO,4.3,,,39,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/09/2003,15.25,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/23/2003,13,NO,4,,,40,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188994,10/01/2003,9.25,NO,2.8,,,45,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188994,05/08/2004,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,06/17/2004,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/18/2004,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188994,07/07/2004,13.25,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/19/2004,13.25,NO,4,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/01/2004,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/12/2004,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/03/2004,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/09/2004,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/03/2005,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188994,05/23/2005,17.25,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/30/2005,19,NO,5.8,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/17/2005,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,06/25/2005,15.75,NO,4.8,,,37,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/09/2005,13.25,NO,4,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/15/2005,12.5,NO,3.8,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/27/2005,11.25,NO,3.4,,,42,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/10/2005,13.75,NO,4.2,,,39,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/02/2005,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/08/2005,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/07/2006,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/04/2006,15.5,NO,4.7,,,38,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,06/24/2006,17,NO,5.2,,,36,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/25/2006,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/08/2006,10.75,NO,3.3,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/15/2006,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/01/2007,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,06/10/2007,11.5,NO,3.5,,,42,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,06/22/2007,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,06/30/2007,13.75,NO,4.2,,,39,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/16/2007,14,NO,4.3,,,39,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/20/2007,15.25,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/04/2007,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/31/2007,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/16/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188994,06/23/2008,13.5,NO,4.1,,,40,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8188994,07/04/2008,13,NO,4,,,40,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/07/2008,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/25/2008,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/18/2008,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188994,08/20/2008,13.75,NO,4.2,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/14/2008,12.5,NO,3.8,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/27/2008,11.25,NO,3.4,,,42,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8188994,05/17/2009,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,06/12/2009,12.25,NO,3.7,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/04/2009,16.25,NO,4.9,,,37,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,07/07/2009,17.5,NO,5.3,,,36,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,07/19/2009,13.25,NO,4,,,40,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188994,07/23/2009,14.25,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,07/29/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/08/2009,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/13/2009,14.75,NO,4.5,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/23/2009,12.75,NO,3.9,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/31/2009,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/16/2009,15.75,NO,4.8,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,04/18/2010,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/06/2010,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/20/2010,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/28/2010,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/13/2010,11.75,NO,3.6,,,42,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8188994,06/22/2010,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/29/2010,13,NO,4,,,40,,,HIGH,,,,2-Very minor aesthetic problems
+8188994,07/09/2010,12.75,NO,3.9,,,40,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8188994,07/15/2010,12.25,NO,3.7,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/23/2010,11.5,NO,3.5,,,42,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8188994,07/31/2010,12.75,NO,3.9,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/12/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/24/2010,11.75,NO,3.6,,,42,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/01/2010,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/09/2010,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/17/2010,12.75,NO,3.9,,,40,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,09/25/2010,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,10/03/2010,10.25,NO,3.1,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,05/18/2011,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,06/02/2011,13.25,NO,4,,,40,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8188994,06/25/2011,11.5,NO,3.5,,,42,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188994,07/06/2011,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/10/2011,11.75,NO,3.6,,,42,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,08/08/2011,10.75,NO,3.3,,,43,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8188994,08/20/2011,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8188994,08/28/2011,13.25,NO,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,09/30/2011,11.75,NO,3.6,,,42,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8188994,04/12/2012,10.5,NO,3.2,,,43,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188994,04/20/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/02/2012,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+38631735,05/21/2012,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/25/2012,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/09/2012,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188994,07/30/2012,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188994,08/13/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188994,08/29/2012,12.25,NO,3.7,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/06/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/14/2012,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/22/2012,9.25,NO,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/30/2012,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188994,10/08/2012,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188994,05/29/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/11/2013,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/30/2013,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188994,07/10/2013,11.75,NO,3.6,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/17/2013,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/01/2013,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/07/2013,, ,,,,,,,,,,,
+8188994,08/20/2013,13.75,NO,4.2,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/25/2013,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/31/2013,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/13/2013,13.25,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/17/2013,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/24/2013,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/16/2015,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,05/21/2015,17.25,NO,5.2,,,36,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/10/2015,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/19/2015,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/27/2015,, ,,,,,,,,,,,
+8188994,07/13/2015,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,08/05/2015,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/18/2015,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,09/15/2015,, ,,,,,,,,,,,2-Very minor aesthetic problems
+8188994,09/23/2015,10.75, ,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,06/22/2016,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/07/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,07/25/2016,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188994,08/22/2016,11,NO,3.3,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,05/08/2017,12,NO,3.6,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188994,05/25/2017,13.75,NO,4.2,,,39,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8188994,06/01/2017,14.25,NO,4.3,,,39,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+08/13/2003,Saw a pair of Loons with 2 young. Sunny light wind.
+    
+08/20/2003,cloudy overcast- rained early am.
+    
+08/28/2003,Winds are 15 to 22 m/p/h. Lake is stirred up by wind    
+09/03/2003,windy 12 to 20 m/p/h    partly cloudy
+4 loons feeding- 2 young- on s.e. side of lake
+wind dir n.w.
+    
+09/09/2003,Light Southerly winds-sunny with some clouds
+    
+09/23/2003,One Loon-Sunny but windy
+    
+10/01/2003,Sunny- about 40 F- cold wind.    
+05/08/2004,beautiful day- many turtles on logs sunning- some ducks    
+06/17/2004,several fishing boats and one pontoon boat on lake    
+06/18/2004,Several boats on the lake- fishing
+    
+07/07/2004,Slight ene wind-   small waves- 1 loon with 2 young- 2
+fishing boats    
+07/19/2004,2 baby loons/2adults/2 fishing boats/ beautiful day    
+08/01/2004,Jet skis noted/ disturbing Loons/ 2 chicks 2 adults/ slight sw winds/sunny
+
+
+
+
+    
+08/12/2004,cool day 60 degreesn.w. wind slight/ 1pr loons 2 chicks/no fishermen    
+09/03/2004,light sw winds/water temp 70.9/  2 young loons on lake / noadults present    
+09/09/2004,calm winds/ 1 boat fishing/ sunny-beautiful day    
+05/03/2005,1 pair loons- sl W winds- snow yesterday.    
+05/23/2005,1 pair geese and 1 pair with 7 young.  1 pair loons.  Light winds.    
+05/30/2005,1 pair loons- light wind- some fishermen- sky partly cloudy.    
+06/17/2005,4 boats - sunny - beautiful - NW wind.  3 young guests observed Secchi test - ages 12.    
+06/25/2005,Beautiful- 2 loons- no young this year.    
+07/09/2005,Power boats - cutting weeds - waves - hard to do test during hours when sun is high.  1 pair loons- no young.    
+07/15/2005,Several boats fishing- hot weather.    
+07/27/2005,1 large HP boat water sking- 1 pontoon- light W wind.    
+08/10/2005,1 boat fishing.    
+09/02/2005,Light winds - 2 fishing boats.    
+09/08/2005,No boats- light breeze S.  1 loon- finally quiet.     
+05/07/2006,Sunny day- 5 fishing boats- didn't mark very many fish
+06/04/2006,Southwest wind slight- two friends formerly from Washburn are with today Southwest wind slight- two friends formerly from Washburn are with today
+06/24/2006,Beautiful day- 1 loon- 2 fishing boats- calm
+07/25/2006,Water temperature 80 degrees- air temperature 85 degrees
+08/08/2006,Water temperature 77.2 degrees- 1 water skier- 1 fisherman
+09/15/2006,Light southwest wind- 1 fishing boat- raft drifting across lake
+06/01/2007,Ice out 4-12.  Loon pair observed- occasionally only 1.  2 pair-adult geese w/ 8 goslings.  Some eagle/ospry present.    
+06/10/2007,Several boats observed.  Green floating debris observed along east/north shoreline.  Sample turned into DNR.  Response suggested stirred up vegetation.  May have been due to thrust of boat motors near shoreline- causing possible phosphorus turnover.  
+06/22/2007,Two adult pr of geese with 7 young. Surface water temp 75.8 degrees. One Blue Heron. No young Loons this year.
+06/30/2007,one fishing boat-pr of Loons and 1 Blue heron.  Cool North wind  
+07/16/2007,Light S.W. breeze.  Two boats fishing 
+07/20/2007,Light northerly breeze.  2 loons.  No young again.
+08/04/2007,1 Loon    and two Power boats 1 pulling a tube 
+08/31/2007,3 boats.  Cloudy skys- calm waters.
+09/16/2007,Light SW wind.  Sunny.  Poor reading as lake is murky from prior stiff NW winds.
+06/23/2008,calm water- some panfish spawning- 2 Blue Herons
+07/04/2008,Lake is quiet for July 4th. One boat fishing
+07/07/2008,3 boats fishing.  1 loon.  Lt breeze beautiful day. Satellite day
+07/25/2008,One pair of Loons with one baby. Hooray!  Light westerly breeze.
+Satellite day
+08/18/2008,My batt dead on pontoon- thanks for help from neighbor.   Loons noisy as boats on lake were bothering them.  Slight east wind today . Lake Delta is extremly weedy this year. satellite day
+08/20/2008,6 boats fishing- light breeze- one pair loons with baby
+09/14/2008,Calm winds and water-2 loons- one is young of the year-4 boats fishing
+09/27/2008,overcast- no sunshine- 2 loons present- My wife daughter- and husband and 2 children were present. overcast- no sunshine- 2 loons present- My wife daughter- and husband and 2 children were present.
+05/17/2009,Sunny skies-One Loon- One fishing boat
+06/12/2009,one other pontoon boat on lake. Nice day Calm winds
+07/04/2009,water skiers-calm day-Two Blue Herons
+07/07/2009,one fishing boat- no wind-calm-Our Loon pair made two attempts to raise young. They are off of the nest and no babies in sight one fishing boat- no wind-calm-Our Loon pair made two attempts to raise young. They are off of the nest and no babies in sight- Water level is starting to decrease
+07/19/2009,1 fishing boat-several pleasure boats-1 Loon
+Lake was calm- sunny skies
+7/18/09 was a very overcast day
+07/23/2009,One Loon feeding-sunny skies- partly cloudy-no wind-calm-one boat fishing
+07/29/2009,Light westerly wind- partly cloudy sky
+jet skiers on lake
+7/28/09 was very windy-I was unable to take secchi reading
+08/08/2009,Cloudy day-Sun poked thru at times Lake level is going down even though we have had rain. No fisher men- no Loons
+08/13/2009,Sky has light clouds with sunshine. Wind out of South at 10 mph. one fishing on lake. No wildlife visible. I had the Garrett girls help me hold pontoon in position. They help with Clean boats and cleanwater program on Lake Delta-.
+08/23/2009,lt breeze- sunny day-occasional clouds one Koon feeding
+08/31/2009,sunny day-wnw wind at 8mph- two Loons on lake -one was eating afish
+09/16/2009,Sunny day-Lt sw wind. Two young Loons on Lake Delta. We think they were born on Hay Lake and the mother took them through Lake Delta and then went on to Bear Lake to raise them. They will stay here until they can fly away.
+04/18/2010,Light easterly breeze
+4 Wood Ducks eyeing my nest boxes
+2 Swans behind island
+05/06/2010,2 pair of geese
+light west breeze
+roger and sally
+05/20/2010,lt se wind- 3 pair of Can. Geese with young
+05/28/2010,
+lt n.e. wind-2 loons feeding - Dam seems to be maintaining water level.  Assisted by Sally my wife
+06/13/2010,N.W. wind - light overcast sky -one blue heron N.W. wind - light overcast sky -one blue heron
+06/22/2010,Lt SW winds - sunny. 3 adult Loons
+06/29/2010,Lt N.W. wind. One other boat.
+Satellite day. Much needed rain has raised lake level.
+07/09/2010,Sunny with patches of clouds. A pair of Loons is on our lake with one baby.
+The past two mornings there has been four otters near our dock-
+07/15/2010,Satelitte day-Strong N.N. wind made for a difficult reading
+07/23/2010,Wind WSW Light-Neighbor helped-2 Mallards sighted 1 fishing boat
+Sky partly clouded
+07/31/2010,cloudy-slight wind from west -satellite day
+
+7 boats fishing- 2 Loons with 1 baby
+
+Wife Sally helper
+08/12/2010,overcast-one pair of Loons and chick
+08/24/2010,satelite day-Strong SSW wind- No creatures  seen on the lake
+09/01/2010,Light North wind -Sunny day-Some clouds-One Loon with baby.
+Satellite day No boats- I think we have our lake back
+09/09/2010,overcast day-light north wind-Mother Loon and chick-My wife assisted
+09/17/2010,lt wnw wind-satellite day-adult loons have gone baby is left to learn to fly.
+09/25/2010,light northeast wind - one seagull on our lake and one fishing boat-Satellite day
+assisted by wife Sally
+10/03/2010,one fishing boat-light wsw wind-satellite day-
+no wildlife spotted-This is the last reading of 2010-Pontoonboat out of water tomorrow.
+Jennifer have a great fall and winter
+05/18/2011,east wind at 8mph
+one loon and one fifhing boat
+wife assisted
+06/02/2011,My wife was my helper.light wind from se.
+Checked for Loon nest on neighboring lake-could'nt find.
+We saw a Mallard Hen with six ducklings and two Ringneck ducks
+ A windy spring has prevented frequent Secchi readings.
+06/25/2011,s.e wind TWO LOONS  NESTING. Another pair on Delta  without nest. 
+My wife andour neighbors assisted today. Two fishing boats and two pontoons also on our lake.
+07/06/2011,lt sw wind-Loon still on nest-two eggs two fishing boats and i pontoon
+Secchi test assistrd by my wife Sally
+07/10/2011,My wife Sally assisted. two Loons on and near nest- eggs ready to hatch
+n.w breeze- three boats fishing also one pontoon
+08/08/2011,two fishing boats-slightly overcast withwest wind 10 mph  Heard loons
+08/20/2011,Slight west wind- One person float fishing
+My wife Sally assisted
+08/28/2011,Calm wind -two Loons with chick onour lake Seven family members assisted in secchi test. A eighteen inch Largemouth was caught and released.
+09/30/2011,Northerly breeze- Mother Loon and chick still on our lake. WE hope chick learns to fly soon. This may be our last secchi test as we will be taking our pontoon in for storage. Have a great fall and winter-Roger
+04/12/2012,two loons-Slight sw wind- Water was murky
+04/20/2012,n.e- wind at 8mph
+one Bald Eagle and several Ducks were sighted
+05/02/2012,westerly wind- bright sunny day
+3 ducks and i pair of Loons feeding
+05/21/2012,Beautiful Day-sunny with light s.w. wind
+one mallard duck
+06/25/2012,calm day-74 degrees sunny-one pair oif Loons and two young
+one boat watersking
+07/09/2012,Stiff Northwest breeze-Water murky-N0 loons sighted
+07/30/2012,S.W. wind at 10mph-several boats fishing-water temp 79 degrees
+our Loon pair and two young are during fine inspite of all the activity on our lake
+08/13/2012,N.W. breeze  Lake was quiet
+08/29/2012,light se breeze-  One pair of Loons with two chicks
+one fishing boat-Satalite day
+09/06/2012,Sattellite day--Stiff Northwest breeze
+One baby Loon on the lake and one fishing boat
+
+09/14/2012,Satellite day.      Light North breeze.  Two Loons both young of the year- adults have left area to venture South. Secchi test completed by myself and wife Sally. 
+09/22/2012,Satellite day-Stiff nnw wind-Noone on lake- Loons are gone
+No wildlife-no helpers
+09/30/2012,Sattelite day-Calm-sunny day-Two fishing boats-Four diving ducks
+My wife Sally assisted me as usual and we both enjoyed the beautiful fall colors
+10/08/2012,Wind from wsw-Overcast with no sunshine-Satellite day-Reading taken by myself and wife Sally-no other boats or wildlife observed- a dreay day with light springles at times with temps in tht forties.
+This will be my last reading for 2012 as my pontoon and dock are coming out of the lake this week.
+Best wishes and a great winter to you Jennifer- Roger Gustafson
+05/29/2013,Beautiful day-sunny with a slight breeze.  Water temp was 65.3 degrees. No wildlife seen today as we travelled down to Hay Lake and back. Three boats with people fishing. We did see Painted Turtles on the logs sunning. My wife and I did Secchi Test.
+06/11/2013,Cloudy with occasional sunshine-Noone fishing or wildlife seen - Light breeze out of sw
+06/30/2013,Bright sunny day-82 degrees-Slight westerly breeze
+2 pontoons -1 fishing boat and one water skier
+one Loon present
+My wife Sally assisted me
+07/17/2013,Hy wife and I did test.One pair of Loons on Delta Lake.  The water pump failed on our pontoon boat - no more tests until that is repaired. There was a slight wind from the sw that day.
+08/07/2013,A beautiful sunny day with North west wind at 8mph.The air temp is 66 degrees and the water temp as measured on my depth finder is 71.8 degrees. One fishing  boat  near the island - otherwise the lake is quiet. My wife Sally assisted me.
+08/20/2013,My wife and I did the Secchi Test today. The wind was S.W. at 10 to 15 mph. One Loon on the lake- three counting us. Nothing else was stiring. A light cloud cover was forming.
+08/25/2013,sw wind at 10 mph. My wife and two guests aboard my pontoon. Sky was clear and sunny. one pair of loons and one fishing boat were on the lake with us.
+09/13/2013,Roger and sally did the sec chi test. Two fishing boats on lake delta. Light breeze from the North.
+09/17/2013,My wife Sally and I did Secchi Reading. Satellite day- Path 26.  Winds stiff from South at 10  mph.Water temp was 65.3 on boat depth finder. Mostly sunny with some clouds. No activity on Delta Lake- neither people or wildlife. Beautiful day in the Northland and their still are  Blackberries ripening. 
+09/24/2013,Beautiful day. Sunny with a light  S. breeze.  One young Loon appeared along with three Teal. Outside temp is 63 degrees. One fishing boat and I also fished before Secchi test. Panfishfish for supper.
+06/10/2015,Two non nesting Loons-Very slight west wind- My wife assisted
+06/19/2015,Beautiful sunny day with a slight S.W. wind. Two boats fishing . No wildlife visible.
+06/27/2015,Beautiful day on Lake Delta. Very slight wind with plenty of sunshine and a few clouds. One Loon and one fishing boat on the lake long with some people fishing off their dock. Satellite day also.
+07/13/2015,Cloudy and overcast- Satellite day-Wind calms Noone on lake and no wildlife spotted
+08/05/2015,A sunny day with some clouds. Slight breeze out of the NW.There were 7 Loons on the lake including the nesting pair who have one chick. Three fishing boats and2 pontoons were also present. My wife assisted me this morning.
+08/18/2015,A very cloudy day with a East wind. My wife assisted and we saw one Bald Eagle and The local Loons with their chick. Also there is a Mallard with 5 young that we see often.
+09/15/2015,VERY BREEZY WITH A SW WIND- MY wife Sally assisted me. Female Loon with nearly full grown chick on lake. no other activity around.
+09/23/2015,A very cloudy day with rain in the forecast. A stiff North east wind made  it hard for the anchor to hold the boat. I worked alone . The adult Loons have left and the little chick is on its own to fly to Florida or wherever. A few Grebes were present- otherwise the lake was was quiet.Today was a satellite day.
+06/22/2016,4 boats fishing. light ssw wind. one Loon on lake Delta.   My wife sally assisted.
+07/07/2016,SSW wind at 8 mph. Four fishing boats. One Loon feeding. Sky is overcast. Satellite day for path 26. My wife assisted me.
+07/25/2016,Light n.w. breeze. One canoeist and one paddleboat on Lake  Delta. My wife assisted me. Visited our new neighbors.
+No wildlife spotted. A beautiful sunny day.
+08/22/2016,A pair of loons and one Bald eagle were sighted. one pontoon boat with 6 people were also one the lake. my wife sally assisted me. The sky was clear but a strong south wind  was blowing.
+05/25/2017,Secchi test done with assistance of my wife sally. temp was 52 degrees slight n.w- wind. no wildlife sighted on lake.
+06/01/2017,S.W. wind at 5 mph. 2 fishing boats . My wife Sally assisted.Partly cloudy skies- a very nice day with temps in the mid sixties. Water temp 61.
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/20/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/28/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/03/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/09/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/23/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+10/01/2003,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/08/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/17/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/18/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/07/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/19/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/01/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/12/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/03/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/09/2004,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/03/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/23/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/30/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/17/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/25/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/09/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/15/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/27/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/10/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/02/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/08/2005,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/07/2006,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/04/2006,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/24/2006,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/25/2006,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/08/2006,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/15/2006,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/01/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/10/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/22/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/30/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/16/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/20/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/04/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/31/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/16/2007,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/23/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/04/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/07/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/25/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/18/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/20/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/14/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/27/2008,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/17/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/12/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/04/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/07/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/19/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/23/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/29/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/08/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/13/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/23/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/31/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/16/2009,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+04/18/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/06/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/20/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/28/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/13/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/22/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/29/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/09/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/15/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/23/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/31/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/12/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/24/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/01/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/09/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/17/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/25/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+10/03/2010,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/18/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/02/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/25/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/06/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/10/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/08/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/20/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/28/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/30/2011,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+04/12/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+04/20/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/02/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/21/2012,Sally and Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/25/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/09/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/30/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/13/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/29/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/06/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/14/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/22/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/30/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+10/08/2012,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/29/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/11/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/30/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/10/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/17/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/01/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/07/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/20/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/25/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/31/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/13/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/17/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/24/2013,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/16/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/21/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/10/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/19/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/27/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/13/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/05/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/18/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/15/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+09/23/2015,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/22/2016,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/07/2016,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+07/25/2016,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+08/22/2016,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/08/2017,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+05/25/2017,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole
+06/01/2017,Roger Gustafson,Citizen Lake Monitoring - Water Quality - Lake Delta; Deep Hole

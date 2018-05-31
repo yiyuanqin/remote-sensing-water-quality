@@ -1,0 +1,40 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Beaver Dam Lake,Dodge,835100,SC,14,,10049214,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+16116047,05/09/2017,,,,,207,,69,,,,,,
+16116047,05/25/2017,,,,,333,,73,,,,,,
+16116047,06/05/2017,,,,,492,,76,,,,,,
+16116047,06/21/2017,,,,,307,,72,,,,,,
+16116047,07/19/2017,,,,,424,,75,,,,,,
+16116047,08/01/2017,,,,,552,,77,,,,,,
+16116047,08/16/2017,,,,,272,,72,,,,,,
+1,08/30/2017,,,,,382,,74,,,,,,
+1,09/13/2017,,,,,164,,68,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/09/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+05/25/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+06/05/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+06/21/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+07/19/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+08/01/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+08/16/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+08/30/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+09/13/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed

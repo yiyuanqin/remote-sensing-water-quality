@@ -1,0 +1,73 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Upper Sugarbush Lake,Vilas,2318000,NO,64,,643267,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/18/1984,,,,8,,,,51,,,,,
+128982168,07/03/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+128982168,07/29/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+1,06/25/2017,,,,4.69,17.9,,50,46,,,,,
+128982168,06/25/2017,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+128982168,07/08/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,07/23/2017,,,,2.87,13.5,,48,43,,,,,
+128982168,08/13/2017,14,NO,4.3,,,39,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,09/04/2017,,,,3.23,11.4,,47,44,,,,,
+128982168,09/04/2017,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/03/2016,2,FEET,72,DEGREES F,,
+07/03/2016,4,FEET,72,DEGREES F,,
+07/03/2016,6,FEET,72,DEGREES F,,
+07/03/2016,8,FEET,72,DEGREES F,,
+07/03/2016,10,FEET,71.5,DEGREES F,,
+07/03/2016,12,FEET,70,DEGREES F,,
+07/03/2016,14,FEET,67,DEGREES F,,
+07/03/2016,16,FEET,60,DEGREES F,,
+07/03/2016,18,FEET,57,DEGREES F,,
+07/03/2016,20,FEET,56,DEGREES F,,
+07/03/2016,22,FEET,52.8,DEGREES F,,
+07/03/2016,24,FEET,51.6,DEGREES F,,
+07/03/2016,26,FEET,49,DEGREES F,,
+07/03/2016,28,FEET,48.3,DEGREES F,,
+06/25/2017,3,FEET,66,DEGREES F,,
+06/25/2017,6,FEET,66,DEGREES F,,
+06/25/2017,9,FEET,66,DEGREES F,,
+06/25/2017,12,FEET,66,DEGREES F,,
+06/25/2017,15,FEET,66,DEGREES F,,
+06/25/2017,18,FEET,63,DEGREES F,,
+06/25/2017,21,FEET,57,DEGREES F,,
+06/25/2017,24,FEET,53,DEGREES F,,
+06/25/2017,27,FEET,50,DEGREES F,,
+09/04/2017,0,FEET,65.5,DEGREES F,,
+09/04/2017,3,FEET,65.5,DEGREES F,,
+09/04/2017,6,FEET,65.5,DEGREES F,,
+09/04/2017,9,FEET,65.5,DEGREES F,,
+09/04/2017,12,FEET,65.5,DEGREES F,,
+09/04/2017,15,FEET,64.5,DEGREES F,,
+09/04/2017,18,FEET,62.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/18/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+07/18/1984,Data Collectors,Migrated from STORET Legacy
+07/03/2016,Ted Amman,Citizen Lake Monitoring - Water Quality - Upper Sugarbush Lake - Deep Hole 
+07/29/2016,Ted Amman,Citizen Lake Monitoring - Water Quality - Upper Sugarbush Lake - Deep Hole 
+06/25/2017,Data Collectors,Sugarbush Chain - Extra Water Quality Monitoring
+06/25/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Upper Sugarbush Lake - Deep Hole 
+07/08/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Upper Sugarbush Lake - Deep Hole 
+07/23/2017,Data Collectors,Sugarbush Chain - Extra Water Quality Monitoring
+08/13/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Upper Sugarbush Lake - Deep Hole 
+09/04/2017,Data Collectors,Sugarbush Chain - Extra Water Quality Monitoring
+09/04/2017,Ted Amman,Citizen Lake Monitoring - Water Quality - Upper Sugarbush Lake - Deep Hole 

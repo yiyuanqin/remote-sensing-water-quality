@@ -1,0 +1,32 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mud Lake,Jefferson,778500,SC,28,,10043980,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+114081025,08/02/2017,3,YES,0.9,,,61,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+114081025,09/14/2017,1.75,YES,0.5,,,69,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/14/2017,1,FEET,78.2,DEGREES F,,
+09/14/2017,1.75,FEET,73.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/02/2017,     GPS is 42 54 9 N- 88 54 33 W   First Mud Lake data.  Took data where channel opens up into broad Lily Pad area because I anticipate that this is as far as I will be able to get once lake level drops to the target level.
+
+Cool and clear water with flow from Mud Lake into Koshkonong.  Koshkonong gauge is 8.01 feet.  Secchi was clear to bottom at 3 feet.  Start measuring temperature next time.  
+09/14/2017,Flow of water is from Koshkonong into Mud Lake and the channel into Mud Lake is very dirty and scummy.  Water starts to clear up near my data location.  Lily pads are brown and shriveled.  Saw about 20 cormorants and several ducks- but no Pelicans.  Last year there were about 250 pelicans where Mud Lake enters Koshkonong.  Water temperature is warmer than Koskonnong on the same day.   (78.2 vs 69 degrees at 1 foot and 73.5 vs. 68.5 at 1.75 feet.  Next year start measuring earlier in the year and pay attention to the direction of flow and temperature vs. Koshkonong.  
+
+
+
+
+Start Date,Group Name,Project Name
+08/02/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Mud Lake (778500); Deep Hole 
+09/14/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Mud Lake (778500); Deep Hole 

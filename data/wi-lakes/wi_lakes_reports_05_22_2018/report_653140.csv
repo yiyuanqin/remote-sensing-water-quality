@@ -1,0 +1,591 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Whitewater Lake,Walworth,816800,SE,65,,653140,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190401,07/17/1986,3,NO,0.9,,,61,,,,,,GREEN,
+8190401,08/09/1986,1.8,NO,0.5,,,69,,,,,,,
+8190401,06/08/1987,2.5,NO,0.8,,,64,,,1.5" OVER DAM,,,BROWN,
+8190401,07/17/1987,3.25,NO,1,,,60,,,EVEN WITH DAM SPILLWAY,,,LIGHT GREEN,
+8190401,08/04/1987,2.5,NO,0.8,,,64,,,2" BELOW DAM SPILLWAY,,,GREEN,
+8190401,08/15/1987,2,NO,0.6,,,67,,,1.5" ABOVE SPILLWAY,,,GREEN,
+8190401,09/12/1987,1.25,NO,0.4,,,74,,,GAUGE,1.07,,GREEN,
+8190401,10/13/1987,2.5,NO,0.8,,,64,,,GAUGE,1,,GREEN,
+8190401,06/16/1988,2,NO,0.6,,,67,,,DOWN .67 FT,,CLEAR,,
+8190401,07/17/1988,2.25,NO,0.7,,,65,,,DOWN .625 FT,,CLEAR,,
+8190401,07/30/1988,2.5,NO,0.8,,,64,,,DOWN .75 FT,,,BROWN,
+8190401,08/28/1988,2.5,NO,0.8,,,64,,,1.08 FT BELOW DAM ON 9/9/88,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,10/05/1988,2.5,NO,0.8,,,64,,,1.16 FT BELOW DAM SPILLWAY,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190401,04/26/1989,,,,,,,,,8" BELOW DAM SPILLWAY,,CLEAR,BLUE,
+8190401,08/24/1989,7.5,NO,2.3,,,48,,,15" BELOW NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190401,09/03/1989,8,NO,2.4,,,47,,,,,,,5-Enjoyment substantially impaired (algae)
+8190401,09/18/1989,9,NO,2.7,,,45,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190401,10/07/1989,9.5,YES,2.9,,,45,,,14" BELOW DAM,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190401,06/26/1990,4,NO,1.2,,,57,,,,,,,
+8190401,08/05/1990,2,NO,0.6,,,67,,,,,,,
+8190401,05/15/1991,6,NO,1.8,,,51,,,LOW ABOUT 20 INCHES BELOW NORMAL,,CLEAR,BLUE,
+8190401,05/25/1991,5,NO,1.5,,,54,,,,,CLEAR,BLUE,
+8190401,06/03/1991,5.5,,1.7,,,53,,,,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190401,06/08/1991,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190401,06/27/1991,3,NO,0.9,,,61,,,,,CLEAR,BLUE,
+8190401,07/07/1991,6,NO,1.8,,,51,,,,,CLEAR,BLUE,
+8190401,07/14/1991,3.5,NO,1.1,,,59,,,,,CLEAR,BLUE,
+8190401,07/19/1991,3.5,NO,1.1,,,59,,,,,CLEAR,GREEN,
+8190401,07/27/1991,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190401,08/02/1991,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190401,08/09/1991,2,NO,0.6,,,67,,,,,,GREEN/BROWN,
+8190401,08/17/1991,2.5,NO,0.8,,,64,,,,,,GREEN/GRAY,
+8190401,08/23/1991,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190401,09/01/1991,3,NO,0.9,,,61,,,,,CLEAR,GRAY,
+8190401,09/06/1991,2.5,NO,0.8,,,64,,,,,,GRAY,
+8190401,09/15/1991,3.5,NO,1.1,,,59,,,,,CLEAR,GRAY,
+8190401,09/30/1991,3,NO,0.9,,,61,,,,,,BROWN,
+8190401,10/09/1991,4,NO,1.2,,,57,,,,,,GRAY,
+8190401,05/07/1992,3.5,NO,1.1,,,59,,,,,,GRAY,
+8190401,06/02/1992,5,NO,1.5,,,54,,,,,,GRAY,
+8190401,06/11/1992,6,NO,1.8,,,51,,,,,,GRAY,
+8190401,06/14/1992,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,
+8190401,07/01/1992,6,NO,1.8,,,51,,,,,,GREEN/GRAY,
+8190401,07/18/1992,4,NO,1.2,,,57,,,,,,GREEN,
+8190401,07/29/1992,2,NO,0.6,,,67,,,,,,GREEN,
+8190401,08/17/1992,3,NO,0.9,,,61,,,,,,GREEN,
+8190401,09/01/1992,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190401,09/23/1992,2.5,NO,0.8,,,64,,,,,,GRAY,
+8190401,10/03/1992,4,NO,1.2,,,57,,,,,,GRAY,
+8190401,05/09/1993,5,NO,1.5,,,54,,,,,CLEAR,GRAY,1-Beautiful, could not be nicer
+8190401,05/29/1993,4.5,NO,1.4,,,55,,,,,,GREEN/GRAY,
+8190401,06/13/1993,5,NO,1.5,,,54,,,,,,GRAY,
+8190401,06/23/1993,5,NO,1.5,,,54,,,,,,GRAY,
+8190401,07/11/1993,6,NO,1.8,,,51,,,,,,GREEN,
+8190264,07/30/1993,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190264,08/16/1993,4.5,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8190401,09/01/1993,5,NO,1.5,,,54,,,,,,GREEN,
+8190401,10/05/1993,5,NO,1.5,,,54,,,,,,GRAY,
+8190401,05/16/1994,6,NO,1.8,,,51,,,,,CLEAR,GRAY,
+8190401,05/31/1994,6.5,NO,2,,,50,,,,,CLEAR,GRAY,1-Beautiful, could not be nicer
+8190401,06/11/1994,6,NO,1.8,,,51,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,06/25/1994,5,NO,1.5,,,54,,,,,CLEAR,GRAY,
+8190401,07/06/1994,5,NO,1.5,,,54,,,,,,GREEN/GRAY,
+8190401,08/18/1994,5,NO,1.5,,,54,,,,,,GRAY,2-Very minor aesthetic problems
+8190401,09/07/1994,5,NO,1.5,,,54,,,,,,GRAY,
+8190401,09/25/1994,5,NO,1.5,,,54,,,,,,BROWN,
+8190401,05/15/1995,5.5,NO,1.7,,,53,,,,,,,
+8190401,06/07/1995,6,NO,1.8,,,51,,,,,,GREEN/GRAY,3-Enjoyment somewhat impaired (algae)
+8190401,07/04/1995,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,07/13/1995,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,07/28/1995,3,NO,0.9,,,61,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,08/18/1995,2,NO,0.6,,,67,,,,,,RED,
+8190401,09/08/1995,2.5,NO,0.8,,,64,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190401,09/28/1995,2.5,NO,0.8,,,64,,,,,,GREEN BROWN,
+8190401,05/09/1996,5.5,NO,1.7,,,53,,,,,,GRAY,1-Beautiful, could not be nicer
+8190401,05/29/1996,6.5,NO,2,,,50,,,,,CLEAR,GRAY,1-Beautiful, could not be nicer
+8190401,06/13/1996,6.5,NO,2,,,50,,,,,,LIGHT GRAY,1-Beautiful, could not be nicer
+8190401,06/27/1996,7,NO,2.1,,,49,,,,,CLEAR,GREEN/GRAY,
+8190401,07/19/1996,6.5,NO,2,,,50,,,,,,GREEN,
+8190401,08/14/1996,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+8190401,09/03/1996,5,NO,1.5,,,54,,,,,,GREEN,
+8190401,09/19/1996,4.5,NO,1.4,,,55,,,,,,GREEN,
+8190401,05/07/1997,3.5,NO,1.1,,,59,,,,,,,
+8190401,06/02/1997,5,NO,1.5,,,54,,,,,,,
+8190264,06/23/1997,6.75,NO,2.1,,,50,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190264,07/07/1997,6.75,NO,2.1,,,50,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190264,07/28/1997,4,NO,1.2,,,57,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,08/08/1997,5,NO,1.5,,,54,,,,,,,
+8190401,08/22/1997,5,NO,1.5,,,54,,,,,,BROWN,
+8190401,09/14/1997,4,NO,1.2,,,57,,,,,,BROWN,
+8190401,10/06/1997,5,NO,1.5,,,54,,,,,,,
+8190401,04/29/1998,5,NO,1.5,,,54,,,HIGH,,,,1-Beautiful, could not be nicer
+8190401,05/13/1998,9,NO,2.7,,,45,,,,,,,2-Very minor aesthetic problems
+8190401,06/16/1998,6,NO,1.8,,,51,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+8190401,07/09/1998,6,NO,1.8,,,51,,,,,CLEAR,,2-Very minor aesthetic problems
+8190401,07/19/1998,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,
+8190401,07/29/1998,6,NO,1.8,,,51,,,,,CLEAR,,2-Very minor aesthetic problems
+8190401,08/02/1998,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190401,05/16/1999,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190401,05/27/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,06/25/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,07/24/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,08/31/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190401,09/27/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190401,10/12/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190401,05/16/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190401,06/22/2001,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,07/16/2001,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,08/04/2001,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,08/16/2001,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,09/03/2001,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,09/20/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,10/09/2001,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,05/18/2002,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,
+8190401,05/26/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8190401,06/02/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,
+8190401,06/16/2002,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,
+8190401,06/25/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,
+8190401,07/14/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8190401,07/19/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,
+8190401,07/24/2002,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,
+8190401,08/02/2002,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,
+8190401,08/11/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,
+8190401,08/18/2002,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,
+8190401,08/28/2002,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,
+8190401,09/03/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,
+8190401,09/21/2002,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,
+8190401,09/28/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+8189491,05/26/2003,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,06/01/2003,8,NO,2.4,,,47,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/13/2003,10.5,NO,3.2,,,43,,,GAUGE,.7,CLEAR,BLUE,2-Very minor aesthetic problems
+8189491,06/19/2003,11,NO,3.3,,,43,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/18/2003,9.5,NO,2.9,,,45,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/25/2003,6.25,NO,1.9,,,51,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/17/2003,5.5,NO,1.7,,,53,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/28/2003,5.5,NO,1.7,,,53,,,,.12,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/21/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/12/2003,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/08/2004,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,05/16/2004,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,05/28/2004,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,06/25/2004,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/02/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/11/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/18/2004,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/25/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/06/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/13/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/20/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/12/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/26/2004,5.75,NO,1.7,,,52,,,,10.63,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/15/2004,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189491,06/07/2005,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,06/19/2005,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/24/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/31/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/06/2005,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/14/2005,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/21/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/10/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,05/07/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,06/18/2006,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/04/2006,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/30/2006,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/06/2006,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/12/2006,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/20/2006,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/29/2006,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/03/2006,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/24/2006,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/24/2007,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/01/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/29/2007,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/02/2007,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/08/2007,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/15/2007,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/07/2007,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/18/2008,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/22/2008,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/06/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/27/2008,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/09/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/17/2008,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/31/2008,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/17/2008,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/31/2009,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/14/2009,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/28/2009,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/04/2009,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/12/2009,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/09/2009,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/30/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/07/2009,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/29/2010,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/03/2010,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/01/2010,3.25,NO,1,,,60,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/15/2010,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/22/2010,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/30/2011,8,NO,2.4,,,47,,,NORMAL,1.32,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/03/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/24/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/28/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/09/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/16/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/06/2012,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/22/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/12/2012,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/19/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2012,4.5,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/16/2012,4.25,NO,1.3,,,56,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/21/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/01/2013,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/08/2013,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/30/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/13/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/16/2013,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/18/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/25/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2013,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/09/2013,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/19/2014,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/05/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/14/2014,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/26/2014,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/03/2014,5,NO,1.5,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/10/2014,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/24/2014,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2014,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/21/2014,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/28/2014,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/09/2014,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/16/2015,14,YES,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,07/04/2015,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/26/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/02/2015,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/15/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/28/2015,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/20/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/04/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/10/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/30/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/07/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/14/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/28/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/29/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/17/2017,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/24/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/01/2017,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/22/2017,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/13/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/18/2017,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/27/2017,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/17/1986,Hot- sunny- mild breeze- no recent rain.    
+08/09/1986,Sunny- moderate wave action and moderate boating activity; last rain on 8/6/86 was 2".    
+06/08/1987,Partly sunny- warm- and no obvious algae.    
+07/17/1987,Sunny and hot.  There is little boat traffic.    
+08/04/1987,Partly cloudy- warm- little boat traffic.    
+08/15/1987,Clear- warm- 2" rain on 8/14/87.    
+09/12/1987,Clear- sunny day-few boats- water has been very green for the past three weeks.    
+10/13/1987,Sunny- windy- cool-around 65 degrees.    
+07/17/1988,Approximately 2" rain on 7/16/88.    
+08/28/1988,Lots of weeds- milfoil.  Water remarkably clear in weed beds.    
+10/05/1988,Sunny and pleasant.  Perception due to weeds.    
+04/26/1989,No secchi reading given.    
+08/24/1989,Perception due to weeds.    
+09/03/1989,Perception due to weeds.    
+09/18/1989,Perception due to weeds.    
+10/07/1989,Perception due to weeds.    
+08/05/1990,The lake level has remained close to 18 inches below the dam spillway all summer.    
+05/15/1991,Floating weeds all along shoreline.    
+05/25/1991,Thick with weeds.    
+06/03/1991,Weed situation real bad; perception due to weeds.    
+06/08/1991,Perception due to weeds.    
+07/19/1991,West Lobe of the lake turning green.    
+07/27/1991,Most of lake turning green.    
+08/17/1991,Although perception is 3- deep parts are okay for swimming.    
+06/11/1992,Weeds.    
+06/14/1992,Weeds problem.    
+05/09/1993,The lake level is higher 13" since last fall.    
+05/29/1993,Turning green on East Lobe of lake; West side (woodchuck alley).    
+07/30/1993,Floating weeds.    
+08/16/1993,Floating weeds and algae.    
+05/31/1994,So far no algae - weeds are minimal.    
+09/25/1994,Since month of August the weeds grew a lot in low areas.    
+05/15/1995,Thick weeds.    
+06/07/1995,Public perception 3 in some parts and 5 in others.  Some areas of lake are green.    
+09/28/1995,The floating weeds are main problem at this time.    
+05/29/1996,Water color gray. small portions started- weeds growing.    
+06/13/1996,Weeds started to grow fast in east lobe of lake.    
+06/27/1996,Floating weeds.    
+07/19/1996,No wake zone.    
+05/07/1997,Grayish water- lake temperature 55 degrees.    
+06/02/1997,Lake level high- water going over the dam.  Still cold - 60 degrees.    
+07/07/1997,Algae and floating weeds.    
+07/28/1997,0-4 feet covered by weeds.    
+08/08/1997,Gray water.    
+08/22/1997,Brownish gray water.    
+09/14/1997,Water is brownish gray.    
+10/06/1997,The water is mostly gray.    
+04/29/1998,The lake level is high over dam.  The water color is gray.    
+05/13/1998,Lake level is high over dam.  The water color is gray.    
+06/16/1998,Occasional weeds.    
+10/09/2001,The reason Whitewater Lake is more murky this year is due to last winter's heavy ice and snow- which retarded the growth of weeds in the lake. Therefore- the lack of weeds made the lake more murky. I base this on 10 years + experience of lake measurements.    
+07/25/2003,windy    
+09/21/2003,Large flock of gulls on bog.    
+10/12/2003,Lost sight of secchi in weeds.  Bog still up.    
+10/15/2004,Bog still up.    
+09/24/2006,Bog at its peak.
+09/02/2007,Secchi at Round Lake = 3.5 ft
+Secchi at Bog Area = 3.5 ft (murky- brown)
+09/08/2007,migrating sandpipers using exposed bogs
+09/15/2007,bog extends north of Camp Joy Island and south of point- farther extent than usual
+10/07/2007,Bog still up.
+05/18/2008,Large chunk of erosion off of N Tamarack Island
+07/06/2008,Brown-green color to water
+06/28/2009,1st bog is up - at north end of bog area- east of Camp Joy Island
+08/09/2009,Bogs are up.
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1986,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/09/1986,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/08/1987,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/17/1987,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/04/1987,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/15/1987,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/12/1987,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/13/1987,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/16/1988,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/17/1988,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/30/1988,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/28/1988,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/05/1988,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+04/26/1989,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/24/1989,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/03/1989,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/18/1989,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/07/1989,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/26/1990,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/05/1990,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/15/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/25/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/03/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/08/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/27/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/07/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/14/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/19/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/27/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/02/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/09/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/17/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/23/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/01/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/06/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/15/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/30/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/09/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/07/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/02/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/11/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/14/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/01/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/18/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/29/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/17/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/01/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/23/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/03/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/09/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/29/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/13/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/23/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/11/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/30/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/16/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/01/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/05/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/16/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/31/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/11/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/25/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/06/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/18/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/07/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/25/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/15/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/07/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/04/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/13/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/28/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/18/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/08/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/28/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/09/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/29/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/13/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/27/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/19/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/14/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/03/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/19/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/07/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/02/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/23/1997,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/07/1997,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/28/1997,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/08/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/22/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/14/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/06/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+04/29/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/13/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/16/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/09/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/19/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/29/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/02/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/16/1999,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/27/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/25/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/24/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/31/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/27/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/12/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/16/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/22/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/16/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/04/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/16/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/03/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/20/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/09/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/18/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/26/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/02/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/16/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/25/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/14/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/19/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/24/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/02/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/11/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/18/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/28/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/03/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/21/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/28/2002,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/26/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/01/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/13/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/19/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/18/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/25/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/17/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/28/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/21/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/12/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/08/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/16/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/28/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/25/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/02/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/11/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/18/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/25/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/06/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/13/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/20/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/12/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/26/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/15/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/07/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/19/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/24/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/31/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/06/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/14/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/21/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/10/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/07/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/18/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/04/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/30/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/06/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/12/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/20/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/29/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/03/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/24/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/24/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/01/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/29/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/02/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/08/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/15/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/07/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/18/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/22/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/06/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/27/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/09/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/17/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/31/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/17/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/31/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/14/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/28/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/04/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/12/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/09/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/30/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/07/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/29/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/03/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/01/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/15/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/22/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/30/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/03/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/24/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/28/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/09/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/16/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/06/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/22/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/12/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/19/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/31/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/16/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/21/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/01/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/08/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/30/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/13/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/16/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/18/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/25/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/31/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/09/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/19/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/05/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/14/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/26/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/03/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/10/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/24/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/31/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/21/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+09/28/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+10/09/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/16/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/04/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/26/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/02/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/15/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/28/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/20/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/04/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/10/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/30/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/07/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/14/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/28/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+05/29/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/17/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+06/24/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/01/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+07/22/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/13/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/18/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay
+08/27/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; Site D-NE Bay

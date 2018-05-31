@@ -1,0 +1,43 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Leland Millpond,Sauk,1256500,SC,57,,10014910,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145143798,07/19/2017,1.83,NO,0.6,32.5,130,68,66,61,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+145143798,08/02/2017,1.5,NO,0.5,26.1,105,71,64,59,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+145143798,08/16/2017,,,,44.6,92.1,,63,64,,,,,
+146145687,08/16/2017,1.75,NO,0.5,,,64,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/19/2017,0,METERS,28.7,DEGREES C,17.64,MG/L
+07/19/2017,1,METERS,19.5,DEGREES C,10.42,MG/L
+08/02/2017,0,METERS,25.5,DEGREES C,,
+08/02/2017,1,METERS,18.4,DEGREES C,,
+08/16/2017,0,METERS,22.2,DEGREES C,17.84,MG/L
+08/16/2017,1,METERS,18.5,DEGREES C,14.51,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/19/2017,Coordinate listed on SWIMS was not deep enough for deep hole. Sample and data were collected very near dam in about 4.5 ft. of water.
+08/02/2017,No DO profile because probe is reading negative values.
+Additional helpers: Kevin Olson
+Only 4.4 ft. at 43.33453- -89.95161
+Water sample only take from 0-4ft.
+08/16/2017,Sample taken from 0-3 ft. with integrated sampler.
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/2017,AMANDA SMITH,Directed Lakes 2017 Graham
+08/02/2017,AMANDA SMITH,Directed Lakes 2017 Graham
+08/16/2017,AMANDA SMITH,Directed Lakes 2017 Graham
+08/16/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Directed Lakes 2017 Graham
+08/16/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Directed Lakes 2017 Graham - AIS Surveys

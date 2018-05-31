@@ -1,0 +1,153 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Brandy Lake,Vilas,1541300,NO,64,,643445,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190248,08/04/1995,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190248,08/09/1995,8.5,NO,2.6,,,46,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190248,08/16/1995,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190248,08/25/1995,6.5,NO,2,,,50,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190248,09/04/1995,8,NO,2.4,,,47,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8190248,09/12/1995,7,NO,2.1,,,49,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8190248,09/21/1995,7,NO,2.1,,,49,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190248,09/28/1995,9,NO,2.7,,,45,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190248,06/09/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190248,06/16/1996,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190248,06/24/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190248,07/04/1996,9,NO,2.7,,,45,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,07/10/1996,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,07/19/1996,10,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,07/28/1996,9,NO,2.7,,,45,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190248,08/04/1996,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,08/16/1996,10,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,08/28/1996,11,NO,3.3,,,43,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190248,09/09/1996,10.5,NO,3.2,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,09/16/1996,11,NO,3.3,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,09/23/1996,11,NO,3.3,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,10/01/1996,10.5,NO,3.2,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190248,10/12/1996,8.5,NO,2.6,,,46,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,08/30/2000,,,,,15,,49,,,,,,
+1,04/25/2001,6,,1.8,7,,51,,50,,,,,
+7000057,05/21/2015,,,,3.79,,,,45,,,,,
+62415169,06/01/2015,,,,2.45,,,,42,,,,,
+7000057,06/08/2015,,,,2.97,,,,43,,,,,
+7000057,06/18/2015,,,,2.95,,,,43,,,,,
+7000057,06/25/2015,,,,3.96,,,,45,,,,,
+7000057,07/01/2015,,,,3.68,,,,45,,,,,
+7000057,07/09/2015,,,,1.15,,,,36,,,,,
+7000057,07/15/2015,,,,0.943,,,,34,,,,,
+7000057,07/27/2015,,,,0.878,,,,34,,,,,
+7000057,08/05/2015,,,,1.93,,,,40,,,,,
+7000057,05/20/2016,,,,2.85,,,,43,,,,,
+7000057,05/27/2016,,,,3.56,,,,44,,,,,
+7000057,06/01/2016,,,,5.59,,,,48,,,,,
+7000057,06/05/2016,,,,7.21,,,,50,,,,,
+7000057,06/16/2016,,,,6.48,,,,49,,,,,
+7000057,06/23/2016,,,,4.18,,,,46,,,,,
+7000057,06/29/2016,,,,3.06,,,,43,,,,,
+7000057,07/07/2016,,,,3.9,,,,45,,,,,
+7000057,07/13/2016,,,,2.32,,,,41,,,,,
+7000057,07/26/2016,,,,2.04,,,,40,,,,,
+7000057,08/02/2016,,,,1.8,,,,39,,,,,
+7000057,05/29/2017,,,,5.32,,,,47,,,,,
+7000057,06/05/2017,,,,4.86,,,,47,,,,,
+7000057,06/14/2017,,,,7.11,,,,50,,,,,
+7000057,06/21/2017,,,,4.82,,,,47,,,,,
+7000057,06/27/2017,,,,4.36,,,,46,,,,,
+7000057,07/05/2017,,,,3.56,,,,44,,,,,
+7000057,07/12/2017,,,,2.79,,,,43,,,,,
+7000057,07/24/2017,,,,2.7,,,,42,,,,,
+1,08/01/2017,,,,2.13,,,,41,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/25/2001,,,7.8,C,8.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/04/1995,Not very much boat traffic.    
+08/16/1995,Low activity.    
+08/25/1995,Windy- blustery day.  Moderate rain day + night on 24th.    
+09/04/1995,3 power boats w/ skiers on lake.    
+09/12/1995,Heavy algae after labor day weekend.    
+09/21/1995,Windy- heavy rains for 2 days.    
+06/24/1996,Overcast- moderate winds.    
+07/04/1996,Heavy lake usage by power boats and jet skies.    
+07/10/1996,Sunny- choppy waves.    
+07/19/1996,Moderate winds- cool.    
+07/28/1996,Power boat usage is heavy and now algae is stirred up.    
+08/04/1996,Cold and drizzly.    
+08/16/1996,Sunny- very bright.    
+08/28/1996,Low boat traffic this week. sunny- light wind.    
+09/09/1996,Calm- cloudy.    
+09/16/1996,Slight breeze. no boat traffic.    
+09/23/1996,Cloudy and calm.    
+10/01/1996,Boat traffic low.    
+10/12/1996,Choppy- windy- leaves in water.    
+04/25/2001,@ MAX DEPTH    
+
+
+
+
+Start Date,Group Name,Project Name
+08/04/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/09/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/16/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/25/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/04/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/12/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/21/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/28/1995,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+06/09/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+06/16/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+06/24/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+07/04/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+07/10/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+07/19/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+07/28/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/04/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/16/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/28/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/09/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/16/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+09/23/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+10/01/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+10/12/1996,Bernhardt Hesse,Citizen Lake Monitoring - Water Quality - Brandy Lake - Max Depth
+08/30/2000,Data Collectors,General Surface Water Monitoring 1999-2001
+04/25/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+05/21/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/01/2015,Ali Mikulyuk- Katie Roth- and Jim Kreitlow,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/08/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/18/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/25/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/01/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/09/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/15/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/27/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+08/05/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+05/20/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+05/27/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/01/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/05/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/16/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/23/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/29/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/07/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/13/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/26/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+08/02/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+05/29/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/05/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/14/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/21/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/27/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/05/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/12/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/24/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+08/01/2017,Data Collectors,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15

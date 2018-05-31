@@ -1,0 +1,36 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Carr Lake,Oneida,998800,NO,44,,443204,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/16/1979,,,,,,,,,,,,,
+145711546,07/13/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/16/1979,,,20,C,,
+07/13/2017,2,FEET,73.7,DEGREES F,8.16,MG/L
+07/13/2017,4,FEET,74.3,DEGREES F,8.06,MG/L
+07/13/2017,6,FEET,74.5,DEGREES F,7.99,MG/L
+07/13/2017,8,FEET,73.8,DEGREES F,6.9,MG/L
+07/13/2017,10,FEET,72.4,DEGREES F,7.1,MG/L
+07/13/2017,12,FEET,70.2,DEGREES F,5.95,MG/L
+07/13/2017,14,FEET,67.1,DEGREES F,2.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/16/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/13/2017,Deep hole position on Oneida County GIS. Conditions were windy- cloudy- and the water was dark.
+
+
+
+
+Start Date,Group Name,Project Name
+08/16/1979,Data Collectors,Migrated from STORET Legacy
+07/13/2017,Aubrey Nycz- Derek Thorn,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

@@ -1,0 +1,30 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sabin Lake,Sawyer,2494600,NO,58,,10048456,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145584054,08/16/2017,,,,5.04,16.2,,50,47,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/16/2017,0,METERS,21.35,DEGREES C,7.35,MG/L
+08/16/2017,1,METERS,21.4,DEGREES C,7.2,MG/L
+08/16/2017,2,METERS,21.2,DEGREES C,6.8,MG/L
+08/16/2017,3,METERS,20.7,DEGREES C,5.5,MG/L
+08/16/2017,4,METERS,17.2,DEGREES C,.1,MG/L
+08/16/2017,4.3,METERS,15.7,DEGREES C,.03,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+08/16/2017,SARAH R FANNING- SHELBY T KAIL,EPA National Lakes Assessment 2017

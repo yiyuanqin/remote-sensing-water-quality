@@ -1,0 +1,75 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lundgren Lake,Marinette,588200,NE,38,,383093,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/02/1981,,,,2,20,,51,40,,,,,
+1,09/16/1981,21.3,,6.5,5,20,33,51,47,,,,,
+1,10/27/1981,21.3,,6.5,3,20,33,51,43,,,,,
+1,02/18/1982,,,,5,30,,54,47,,,,,
+1,05/18/1982,29.5,,9,5,20,28,51,47,,,,,
+1,05/04/2016,,,,,,,,,,,,,
+1,05/06/2016,,,,,,,,,,,,,
+1,05/09/2016,,,,,,,,,,,,,
+1,05/11/2016,,,,,,,,,,,,,
+1,05/17/2016,,,,,,,,,,,,,
+1,05/23/2016,,,,,,,,,,,,,
+1,06/01/2016,,,,,,,,,,,,,
+1,06/08/2016,,,,,,,,,,,,,
+1,06/21/2016,,,,,,,,,,,,,
+1,08/08/2016,,,,,,,,,,,,,
+1,09/26/2016,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/02/1981,,,4,C,1,MG/L
+09/16/1981,,,19.5,C,0,MG/L
+10/27/1981,,,6,C,.3,MG/L
+02/18/1982,,,2,C,1,MG/L
+05/18/1982,,,18,C,.1,MG/L
+05/04/2016,,,11,C,,
+05/06/2016,,,11.7,C,,
+05/09/2016,,,13,C,,
+05/11/2016,,,13.3,C,,
+05/17/2016,,,13,C,,
+05/23/2016,,,11,C,,
+06/01/2016,,,15.4,C,,
+06/08/2016,,,16.3,C,,
+06/21/2016,,,19.2,C,,
+08/08/2016,,,18.8,C,,
+09/26/2016,,,13.3,C,,
+
+
+
+Start Date,Fieldwork Comment
+03/02/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/16/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/18/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/18/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+03/02/1981,Data Collectors,Migrated from STORET Legacy
+09/16/1981,Data Collectors,Migrated from STORET Legacy
+10/27/1981,Data Collectors,Migrated from STORET Legacy
+02/18/1982,Data Collectors,Migrated from STORET Legacy
+05/18/1982,Data Collectors,Migrated from STORET Legacy
+05/04/2016,Data Collectors,Herbicide Concentration Monitoring
+05/06/2016,Data Collectors,Herbicide Concentration Monitoring
+05/09/2016,Data Collectors,Herbicide Concentration Monitoring
+05/11/2016,Data Collectors,Herbicide Concentration Monitoring
+05/17/2016,Data Collectors,Herbicide Concentration Monitoring
+05/23/2016,Data Collectors,Herbicide Concentration Monitoring
+06/01/2016,Data Collectors,Herbicide Concentration Monitoring
+06/08/2016,Data Collectors,Herbicide Concentration Monitoring
+06/21/2016,Data Collectors,Herbicide Concentration Monitoring
+08/08/2016,Data Collectors,Herbicide Concentration Monitoring
+09/26/2016,Data Collectors,Herbicide Concentration Monitoring

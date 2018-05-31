@@ -1,0 +1,125 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pensaukee Lakes,Shawano,415000,NE,59,,10039141,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+81871645,06/14/2013,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+81871645,07/09/2013,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81871645,05/31/2014,11.5, ,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81871645,06/27/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81871645,06/28/2014,,,,2.17,29.3,,54,41,,,,,
+81871645,05/04/2015,10.5,NO,3.2,,,43,,,NORMAL,47,CLEAR,BLUE,1-Beautiful, could not be nicer
+125862804,10/11/2016,8,NO,2.4,,,47,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+81871645,04/05/2017,10.5,NO,3.2,,,43,,,HIGH,48,CLEAR,BLUE,2-Very minor aesthetic problems
+81871645,04/19/2017,10.5,NO,3.2,,45,43,58,,HIGH,49,CLEAR,BLUE,2-Very minor aesthetic problems
+81871645,07/04/2017,8.5,NO,2.6,5.48,30.4,46,55,48,HIGH,45,CLEAR,BLUE,1-Beautiful, could not be nicer
+81871645,07/21/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+81871645,08/01/2017,12.5,NO,3.8,,,41,,,NORMAL,47,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/09/2013,1,FEET,81.5,DEGREES F,,
+07/09/2013,5,FEET,80.4,DEGREES F,,
+06/27/2014,1,FEET,75.5,DEGREES F,,
+06/27/2014,3,FEET,75,DEGREES F,,
+06/27/2014,6,FEET,74.3,DEGREES F,,
+06/27/2014,9,FEET,71.7,DEGREES F,,
+06/27/2014,12,FEET,66,DEGREES F,,
+06/27/2014,15,FEET,55.7,DEGREES F,,
+06/27/2014,18,FEET,51.6,DEGREES F,,
+06/27/2014,21,FEET,47.1,DEGREES F,,
+06/27/2014,24,FEET,44.7,DEGREES F,,
+06/27/2014,27,FEET,43.8,DEGREES F,,
+06/27/2014,30,FEET,43.5,DEGREES F,,
+05/04/2015,1,FEET,65.1,DEGREES F,,
+05/04/2015,5,FEET,62.4,DEGREES F,,
+05/04/2015,10,FEET,51,DEGREES F,,
+05/04/2015,15,FEET,49.2,DEGREES F,,
+05/04/2015,20,FEET,47.1,DEGREES F,,
+05/04/2015,25,FEET,42.6,DEGREES F,,
+05/04/2015,35,FEET,41.1,DEGREES F,,
+05/04/2015,40,FEET,40.8,DEGREES F,,
+05/04/2015,45,FEET,40.8,DEGREES F,,
+10/11/2016,3,FEET,15.59,DEGREES C,9.87,MG/L
+10/11/2016,6,FEET,15.58,DEGREES C,9.5,MG/L
+10/11/2016,9,FEET,15.18,DEGREES C,8.52,MG/L
+10/11/2016,12,FEET,15,DEGREES C,8.24,MG/L
+10/11/2016,15,FEET,14.8,DEGREES C,7.58,MG/L
+10/11/2016,18,FEET,14.59,DEGREES C,6.83,MG/L
+10/11/2016,21,FEET,14.52,DEGREES C,4.62,MG/L
+10/11/2016,24,FEET,8.94,DEGREES C,.11,MG/L
+10/11/2016,27,FEET,8.46,DEGREES C,0,MG/L
+10/11/2016,30,FEET,6.49,DEGREES C,0,MG/L
+10/11/2016,33,FEET,6.41,DEGREES C,0,MG/L
+10/11/2016,36,FEET,6.21,DEGREES C,0,MG/L
+10/11/2016,39,FEET,6.16,DEGREES C,0,MG/L
+10/11/2016,42,FEET,6.04,DEGREES C,0,MG/L
+10/11/2016,45,FEET,6.06,DEGREES C,0,MG/L
+04/19/2017,1,FEET,52.5,DEGREES F,,
+04/19/2017,5,FEET,51.6,DEGREES F,,
+04/19/2017,10,FEET,48.5,DEGREES F,,
+04/19/2017,15,FEET,45.5,DEGREES F,,
+04/19/2017,20,FEET,40.2,DEGREES F,,
+04/19/2017,30,FEET,40.2,DEGREES F,,
+04/19/2017,40,FEET,40.2,DEGREES F,,
+04/19/2017,49,FEET,39.8,DEGREES F,,
+07/04/2017,1,FEET,77,DEGREES F,,
+07/04/2017,5,FEET,75.3,DEGREES F,,
+07/04/2017,10,FEET,67.1,DEGREES F,,
+07/04/2017,15,FEET,53.6,DEGREES F,,
+07/04/2017,20,FEET,44.7,DEGREES F,,
+07/04/2017,25,FEET,42.8,DEGREES F,,
+07/04/2017,30,FEET,42.4,DEGREES F,,
+07/04/2017,35,FEET,42.2,DEGREES F,,
+07/04/2017,40,FEET,42.2,DEGREES F,,
+07/04/2017,45,FEET,42.2,DEGREES F,,
+07/21/2017,1,FEET,79.5,DEGREES F,,
+07/21/2017,5,FEET,79.1,DEGREES F,,
+07/21/2017,10,FEET,74.4,DEGREES F,,
+07/21/2017,15,FEET,57.2,DEGREES F,,
+07/21/2017,20,FEET,48.2,DEGREES F,,
+07/21/2017,25,FEET,43.1,DEGREES F,,
+07/21/2017,30,FEET,42.6,DEGREES F,,
+07/21/2017,35,FEET,42.4,DEGREES F,,
+07/21/2017,40,FEET,42.2,DEGREES F,,
+07/21/2017,45,FEET,42.2,DEGREES F,,
+08/01/2017,1,FEET,71.9,DEGREES F,,
+08/01/2017,5,FEET,71.6,DEGREES F,,
+08/01/2017,10,FEET,70.8,DEGREES F,,
+08/01/2017,15,FEET,57.5,DEGREES F,,
+08/01/2017,20,FEET,48,DEGREES F,,
+08/01/2017,25,FEET,44.2,DEGREES F,,
+08/01/2017,30,FEET,43.1,DEGREES F,,
+08/01/2017,35,FEET,42.6,DEGREES F,,
+08/01/2017,40,FEET,42.6,DEGREES F,,
+08/01/2017,45,FEET,42.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/14/2013,Mostly sunny- winds calm- temp 67- common loon- eastern kingbird- kingfisher.  The shoreline vegitation appears to be lagging in winter recovery- still considerable brown/downed cattails.
+07/09/2013,pair of common loons within sight of testing site.  Temp 86 f humidity 80% with storm approaching from the west.  40% cloud cover at sampling time.
+04/05/2017,04/02/2017-ice out
+04/02/2017-loons returned
+
+
+
+
+Start Date,Group Name,Project Name
+06/14/2013,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+07/09/2013,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+05/31/2014,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+06/27/2014,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+06/28/2014,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+05/04/2015,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+10/11/2016,Brenda L Nordin- TRAVIS J KINNING,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+04/05/2017,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+04/19/2017,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+07/04/2017,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+07/21/2017,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin
+08/01/2017,Pat Resch,Citizen Lake Monitoring - Water Quality - Pensaukee Lake - Deep Hole - West Basin

@@ -1,0 +1,99 @@
+Lake Water Quality Report - 1950 to 2017
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Paulsen Lake,Polk,2488000,NO,49,,493074,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+27118318,05/06/1996,7.2,,2.2,11.2,38,49,56,53,,,,,
+27118318,06/19/1996,12,,3.6,3.08,17,41,50,43,,,,,
+27118318,07/17/1996,10.5,,3.2,4.93,15,43,49,47,,,,,
+27118318,08/28/1996,14.25,,4.3,2.96,13,39,48,43,,,,,
+27118318,04/24/1997,6,,1.8,11,39,51,57,53,,,,,
+27118318,06/23/1997,13.5,,4.1,2.54,19,40,51,42,,,,,
+27118318,07/15/1997,13.2,,4,2.18,19,40,51,41,,,,,
+27118318,08/12/1997,7.3,,2.2,20.7,27,48,54,58,,,,,
+65515090,08/12/2012,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+65515090,08/20/2012,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+65515090,08/28/2012,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+65515090,09/05/2012,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+65515090,09/13/2012,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+65515090,05/29/2013,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+65515090,06/11/2013,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+65515090,06/19/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+65515090,06/29/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+65515090,07/07/2013,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+65515090,07/14/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+65515090,07/29/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+65515090,08/08/2013,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+84507807,08/19/2013,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+84507807,09/06/2013,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+84507807,06/08/2014,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+84507807,07/20/2014,,NO,,,,,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+84507807,07/26/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+84507807,07/05/2015,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+84507807,07/13/2015,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+84507807,07/21/2015,11.33,NO,3.4,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+84507807,06/13/2016,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+84507807,06/29/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+84507807,07/07/2016,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/06/1996,,,10.0,C,10.8,MG/L
+06/19/1996,,,21.8,C,0.2,MG/L
+07/17/1996,,,25.0,C,0.1,MG/L
+08/28/1996,,,24.5,C,0.25,MG/L
+04/24/1997,,,11.2,C,0.3,MG/L
+06/23/1997,,,25.2,C,0.5,MG/L
+07/15/1997,,,26.0,C,0.2,MG/L
+08/12/1997,,,23.8,C,0.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/12/2012,First data entry- as a small lake association.  We are excited to be part of the monitoring project.  The team will be Diane Gluth- Cass Carty and Randy Herman- all officers of the Paulson Lake Association.
+08/20/2012,Second measure- with Cass- Diane and Randy all on board to measure.  
+08/28/2012,Diane and Cass completed monitoring session #3.  Warm sunny afternoon with moderate SE breeze after late morning thunderstorm.
+09/05/2012,Diane and Cass completed monitoring session #4.  Sunny and warm afternoon with light breeze.  Due to lack of recent rain- shoreline has visibly receded and lake level down.  Some days of rain would be helpful.
+09/13/2012,Diane and Cass completed monitoring session #5.  Sunny afternoon in upper 60s with moderate NW breeze and light whitecaps- after off and on light rain the previous day.  More rain would be good for the lake.
+
+
+
+
+Start Date,Group Name,Project Name
+05/06/1996,CAHOW- JIM,NONPOINT SOURCE
+06/19/1996,CAHOW- JIM,NONPOINT SOURCE
+07/17/1996,CAHOW- JIM,NONPOINT SOURCE
+08/28/1996,CAHOW- JIM,NONPOINT SOURCE
+04/24/1997,CAHOW- JIM,NONPOINT SOURCE
+06/23/1997,CAHOW- JIM,NONPOINT SOURCE
+07/15/1997,CAHOW- JIM,NONPOINT SOURCE
+08/12/1997,CAHOW- JIM,NONPOINT SOURCE
+08/12/2012,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+08/20/2012,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+08/28/2012,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+09/05/2012,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+09/13/2012,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+05/29/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+06/11/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+06/19/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+06/29/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/07/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/14/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/29/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+08/08/2013,Randy Herman,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+08/19/2013,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+09/06/2013,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+06/08/2014,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/20/2014,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/26/2014,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/05/2015,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/13/2015,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/21/2015,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+06/13/2016,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+06/29/2016,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
+07/07/2016,Diane Gluth,Citizen Lake Monitoring - Water Quality - Paulsen Lake - Deep Hole
